@@ -41,22 +41,12 @@ class G1Source {
 
       const posts = [];
 
-      for (const item of feed.items) {
-        if (posts.length >= config.MAX_POSTS_PER_SOURCE) break;
-
+      for (const item of feed.items.slice(0, config.MAX_POSTS_PER_SOURCE)) {
         try {
-          const itemUrl = new URL(item.link);
-          if (!itemUrl.pathname.includes('/tecnologia/')) {
-            logger.skip(`Fora de tecnologia no ${this.name}: ${item.link}`);
-            continue;
-          }
-
           const title = Utils.normalizeEncoding(item.title);
-          const rawHtml = item['content:encoded'] || item.content || item.summary || '';
           const content = Utils.normalizeEncoding(
-            Utils.stripHtml(rawHtml)
+            Utils.stripHtml(item['content:encoded'] || item.content || item.summary || '')
           );
-          const imageUrl = Utils.extractFirstImageUrl(rawHtml);
           
           const post = {
             title: title,
@@ -64,8 +54,7 @@ class G1Source {
             source: this.name,
             original_url: item.link,
             slug: Utils.generateSlug(title),
-            content: Utils.truncateText(content, 4000),
-            image_url: imageUrl
+            content: Utils.truncateText(content, 4000)
           };
 
           let tags = Utils.extractTags(title, content, this.name);
