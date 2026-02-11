@@ -1,0 +1,20 @@
+{
+  "name": "news-worker-juliano340",
+  "version": "1.0.0",
+  "description": "Worker de automação de notícias para news.juliano340.com",
+  "main": "worker.js",
+  "scripts": {
+    "start": "node worker.js",
+    "test": "node worker.js --dry-run"
+  },
+  "author": "juliano340",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "rss-parser": "^3.13.0",
+    "simple-git": "^3.20.0",
+    "slugify": "^1.6.6"
+  }
+}
