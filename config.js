@@ -7,9 +7,10 @@ module.exports = {
   MAX_POSTS_PER_SOURCE: 10, REQUEST_TIMEOUT: 30000, LOG_LEVEL: 'info',
   LOG_FILE: path.resolve(__dirname, 'logs/news-worker.log'),
   SOURCES: {
-    G1: { enabled: true, url: 'https://g1.globo.com/dynamo/tecnologia/rss2.xml' },
+    G1: { enabled: true, url: 'https://g1.globo.com/rss/g1/tecnologia/' },
     TECNOBLOG: { enabled: true, url: 'https://tecnoblog.net/feed/' },
-    CANALTECH: { enabled: true, url: 'https://feeds.feedburner.com/canaltech/' },
+<<<<<<< HEAD
+    CANALTECH: { enabled: true, url: 'https://canaltech.com.br/rss/' },
     TECMUNDO: { enabled: true, url: 'https://rss.tecmundo.com.br/feed' },
     BOREDPANDA: { enabled: true, url: 'https://www.boredpanda.com/feed/' }
   }

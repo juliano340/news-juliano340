@@ -7,6 +7,16 @@ class GitService {
     this.git = simpleGit(config.REPO_PATH);
   }
 
+  async getCurrentBranch() {
+    try {
+      const branch = await this.git.revparse(['--abbrev-ref', 'HEAD']);
+      return (branch || '').trim() || 'master';
+    } catch (error) {
+      logger.warn('Nao foi possivel detectar branch atual, usando master', { error: error.message });
+      return 'master';
+    }
+  }
+
   async init() {
     try {
       await this.git.addConfig('user.name', config.GIT_USER_NAME);
@@ -39,7 +49,8 @@ class GitService {
 
       await this.git.add('.');
       await this.git.commit(message);
-      await this.git.push('origin', 'main');
+      const branch = await this.getCurrentBranch();
+      await this.git.push('origin', branch);
       
       logger.ok('Alterações commitadas e enviadas com sucesso');
       return true;
@@ -51,7 +62,8 @@ class GitService {
 
   async pull() {
     try {
-      await this.git.pull('origin', 'main');
+      const branch = await this.getCurrentBranch();
+      await this.git.pull('origin', branch);
       logger.info('Repositório atualizado (pull)');
       return true;
     } catch (error) {

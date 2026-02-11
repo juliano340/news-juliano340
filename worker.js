@@ -1,9 +1,153 @@
-const fs=require('fs').promises;const path=require('path');const config=require('./config');const logger=require('./logger');const Utils=require('./utils');const git=require('./git');
-const g1=require('./sources/g1');const tecnoblog=require('./sources/tecnoblog');const canaltech=require('./sources/canaltech');const tecmundo=require('./sources/tecmundo');const boredpanda=require('./sources/boredpanda');
-class NW{constructor(){this.s=[];if(config.SOURCES.G1.enabled)this.s.push(g1);if(config.SOURCES.TECNOBLOG.enabled)this.s.push(tecnoblog);if(config.SOURCES.CANALTECH.enabled)this.s.push(canaltech);if(config.SOURCES.TECMUNDO.enabled)this.s.push(tecmundo);if(config.SOURCES.BOREDPANDA.enabled)this.s.push(boredpanda);this.slugs=new Set();this.urls=new Set();}
-async init(){await logger.init();await git.init();await git.pull();await this.load();logger.info('Iniciado');}
-async load(){try{const f=await fs.readdir(config.POSTS_PATH);for(const file of f){if(file.endsWith('.md')){const c=await fs.readFile(path.join(config.POSTS_PATH,file),'utf8');const s=c.match(/slug:\s*"([^"]+)"/);const u=c.match(/original_url:\s*"([^"]+)"/);const t=c.match(/title:\s*"([^"]+)"/);if(s)this.slugs.add(s[1]);if(u)this.urls.add(u[1]);if(t)this.urls.add(Utils.generateSlug(t[1]));}}}catch(e){logger.error('L',{error:e.message});}}
-dup(p){return this.slugs.has(p.slug)||this.urls.has(p.original_url)||this.urls.has(Utils.generateSlug(p.title));}
-async save(p){if(this.dup(p)){logger.skip('Existe: '+p.title);return false;}const fn=Utils.generateFileName(p.slug);await fs.writeFile(path.join(config.POSTS_PATH,fn),`---\ntitle: "${p.title}"\ndate: "${p.date}"\ntags: [${p.tags.map(t=>`"${t}"`).join(',')}]\nsource: "${p.source}"\noriginal_url: "${p.original_url}"\nslug: "${p.slug}"\n---\n\n${p.content}\n`,'utf8');this.slugs.add(p.slug);this.urls.add(p.original_url);logger.ok('Salvo: '+p.title);return true;}
-async run(){const s=Date.now();let nv=0,pl=0,er=0;logger.info('Iniciando...');for(const src of this.s){try{const ps=await src.fetch();for(const p of ps){try{nv+=await this.save(p)?1:(pl++,0);}catch(e){logger.error('P',{error:e.message});er++;}}await Utils.sleep(1000);}catch(e){logger.error('F '+src.name,{error:e.message});er++;}}if(nv>0)await git.commitAndPush('feat: '+nv+' posts');logger.ok('Fim em '+((Date.now()-s)/1000).toFixed(1)+'s',{novos:nv,pulados:pl,erros:er});}}
-new NW().init().then(()=>new NW().run()).catch(e=>{logger.error('Fatal',{error:e.message});process.exit(1);});
+const fs = require('fs').promises;
+const path = require('path');
+const config = require('./config');
+const logger = require('./logger');
+const Utils = require('./utils');
+const git = require('./git');
+
+const g1 = require('./sources/g1');
+const tecnoblog = require('./sources/tecnoblog');
+const canaltech = require('./sources/canaltech');
+const tecmundo = require('./sources/tecmundo');
+const boredpanda = require('./sources/boredpanda');
+
+class NewsWorker {
+  constructor() {
+    this.sources = [];
+
+    if (config.SOURCES.G1.enabled) this.sources.push(g1);
+    if (config.SOURCES.TECNOBLOG.enabled) this.sources.push(tecnoblog);
+    if (config.SOURCES.CANALTECH.enabled) this.sources.push(canaltech);
+    if (config.SOURCES.TECMUNDO.enabled) this.sources.push(tecmundo);
+    if (config.SOURCES.BOREDPANDA.enabled) this.sources.push(boredpanda);
+
+    this.slugs = new Set();
+    this.urls = new Set();
+  }
+
+  escapeYaml(value) {
+    return String(value ?? '')
+      .replace(/\\/g, '\\\\')
+      .replace(/"/g, '\\"')
+      .replace(/\r?\n/g, ' ')
+      .trim();
+  }
+
+  async init() {
+    await logger.init();
+    await git.init();
+    await git.pull();
+    await this.loadExistingPosts();
+    logger.info('Iniciado');
+  }
+
+  async loadExistingPosts() {
+    try {
+      const files = await fs.readdir(config.POSTS_PATH);
+
+      for (const file of files) {
+        if (!file.endsWith('.md')) continue;
+
+        const content = await fs.readFile(path.join(config.POSTS_PATH, file), 'utf8');
+        const slugMatch = content.match(/slug:\s*"([^"]+)"/);
+        const urlMatch = content.match(/original_url:\s*"([^"]+)"/);
+        const titleMatch = content.match(/title:\s*"([^"]+)"/);
+
+        if (slugMatch) this.slugs.add(slugMatch[1]);
+        if (urlMatch) this.urls.add(urlMatch[1]);
+        if (titleMatch) this.urls.add(Utils.generateSlug(titleMatch[1]));
+      }
+    } catch (error) {
+      logger.error('L', { error: error.message });
+    }
+  }
+
+  isDuplicate(post) {
+    return (
+      this.slugs.has(post.slug) ||
+      this.urls.has(post.original_url) ||
+      this.urls.has(Utils.generateSlug(post.title))
+    );
+  }
+
+  buildPostContent(post) {
+    const tags = (post.tags || []).map((tag) => `"${this.escapeYaml(tag)}"`).join(',');
+
+    return `---\n` +
+      `title: "${this.escapeYaml(post.title)}"\n` +
+      `date: "${this.escapeYaml(post.date)}"\n` +
+      `tags: [${tags}]\n` +
+      `source: "${this.escapeYaml(post.source)}"\n` +
+      `original_url: "${this.escapeYaml(post.original_url)}"\n` +
+      `slug: "${this.escapeYaml(post.slug)}"\n` +
+      `---\n\n` +
+      `${post.content || ''}\n`;
+  }
+
+  async savePost(post) {
+    if (this.isDuplicate(post)) {
+      logger.skip('Existe: ' + post.title);
+      return false;
+    }
+
+    const fileName = Utils.generateFileName(post.slug);
+    const filePath = path.join(config.POSTS_PATH, fileName);
+
+    await fs.writeFile(filePath, this.buildPostContent(post), 'utf8');
+
+    this.slugs.add(post.slug);
+    this.urls.add(post.original_url);
+
+    logger.ok('Salvo: ' + post.title);
+    return true;
+  }
+
+  async run() {
+    const start = Date.now();
+    let novos = 0;
+    let pulados = 0;
+    let erros = 0;
+
+    logger.info('Iniciando...');
+
+    for (const source of this.sources) {
+      try {
+        const posts = await source.fetch();
+
+        for (const post of posts) {
+          try {
+            if (await this.savePost(post)) novos += 1;
+            else pulados += 1;
+          } catch (error) {
+            logger.error('P', { error: error.message });
+            erros += 1;
+          }
+        }
+
+        await Utils.sleep(1000);
+      } catch (error) {
+        logger.error('F ' + source.name, { error: error.message });
+        erros += 1;
+      }
+    }
+
+    if (novos > 0) {
+      await git.commitAndPush('feat: ' + novos + ' posts');
+    }
+
+    logger.ok('Fim em ' + ((Date.now() - start) / 1000).toFixed(1) + 's', {
+      novos,
+      pulados,
+      erros
+    });
+  }
+}
+
+const worker = new NewsWorker();
+worker
+  .init()
+  .then(() => worker.run())
+  .catch((error) => {
+    logger.error('Fatal', { error: error.message });
+    process.exit(1);
+  });
