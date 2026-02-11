@@ -14,7 +14,7 @@ Galaxy S26 vem aí: Unpacked será em 25 de fevereiro (ilustração: Vitor Pádu
     Resumo
     
 O lançamento do Galaxy S26 ocorrerá em 25 de fevereiro em San Francisco, EUA. A linha incluirá três modelos: base, Plus e Ultra, com chips Qualcomm, Wi-Fi 7 e recarga sem fio Qi 2.
-A Samsung desenvolveu uma tela antiprivacidade em parceria com a Corning, que protege informações de olhares curiosos. A tecnologia ainda não foi detalhada, mas será revelada no evento.
+A Samsung desenvolveu uma tela de privacidade em parceria com a Corning, que protege informações de olhares curiosos. A tecnologia ainda não foi detalhada, mas será revelada no evento.
 A Samsung pode iniciar as vendas do S26 simultaneamente em vários países, incluindo o Brasil. O pré-registro oferece desconto de até R$ 1.500 para consumidores que pagarem R$ 299 antecipadamente.
 
 
