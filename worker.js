@@ -71,7 +71,7 @@ class NewsWorker {
   }
 
   isTooOld(post) {
-    const MAX_AGE_DAYS = 7;
+    const MAX_AGE_DAYS = config.MAX_AGE_DAYS || 7;
     const postDate = new Date(post.date);
     const now = new Date();
     const diffTime = Math.abs(now - postDate);
@@ -88,6 +88,8 @@ class NewsWorker {
       `tags: [${tags}]\n` +
       `source: "${this.escapeYaml(post.source)}"\n` +
       `original_url: "${this.escapeYaml(post.original_url)}"\n` +
+      `image_url: "${this.escapeYaml(post.image_url || '')}"\n` +
+      `image: "${this.escapeYaml(post.image_url || '')}"\n` +
       `slug: "${this.escapeYaml(post.slug)}"\n` +
       `---\n\n` +
       `${post.content || ''}\n`;

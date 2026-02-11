@@ -103,6 +103,21 @@ class Utils {
     return $.text().trim();
   }
 
+  static extractFirstImageUrl(html) {
+    if (!html) return null;
+
+    try {
+      const $ = cheerio.load(html);
+      const src = $('img').first().attr('src');
+      if (!src) return null;
+
+      const normalized = Utils.normalizeEncoding(src);
+      return /^https?:\/\//i.test(normalized) ? normalized : null;
+    } catch {
+      return null;
+    }
+  }
+
   static truncateText(text, maxLength = 500) {
     if (!text || text.length <= maxLength) return text;
     return text.substring(0, maxLength).trim() + '...';
