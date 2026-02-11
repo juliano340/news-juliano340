@@ -70,6 +70,15 @@ class NewsWorker {
     );
   }
 
+  isTooOld(post) {
+    const MAX_AGE_DAYS = 7;
+    const postDate = new Date(post.date);
+    const now = new Date();
+    const diffTime = Math.abs(now - postDate);
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+    return diffDays > MAX_AGE_DAYS;
+  }
+
   buildPostContent(post) {
     const tags = (post.tags || []).map((tag) => `"${this.escapeYaml(tag)}"`).join(',');
 
@@ -87,6 +96,11 @@ class NewsWorker {
   async savePost(post) {
     if (this.isDuplicate(post)) {
       logger.skip('Existe: ' + post.title);
+      return false;
+    }
+
+    if (this.isTooOld(post)) {
+      logger.skip('Antigo: ' + post.title);
       return false;
     }
 
