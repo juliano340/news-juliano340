@@ -9,7 +9,7 @@ const g1 = require('./sources/g1');
 const tecnoblog = require('./sources/tecnoblog');
 const canaltech = require('./sources/canaltech');
 const tecmundo = require('./sources/tecmundo');
-const boredpanda = require('./sources/boredpanda');
+const googletech = require('./sources/googletech');
 
 class NewsWorker {
   constructor() {
@@ -19,7 +19,7 @@ class NewsWorker {
     if (config.SOURCES.TECNOBLOG.enabled) this.sources.push(tecnoblog);
     if (config.SOURCES.CANALTECH.enabled) this.sources.push(canaltech);
     if (config.SOURCES.TECMUNDO.enabled) this.sources.push(tecmundo);
-    if (config.SOURCES.BOREDPANDA.enabled) this.sources.push(boredpanda);
+    if (config.SOURCES.GOOGLE_TECH.enabled) this.sources.push(googletech);
 
     this.slugs = new Set();
     this.urls = new Set();
@@ -88,6 +88,8 @@ class NewsWorker {
       `tags: [${tags}]\n` +
       `source: "${this.escapeYaml(post.source)}"\n` +
       `original_url: "${this.escapeYaml(post.original_url)}"\n` +
+      `image_url: "${this.escapeYaml(post.image_url || '')}"\n` +
+      `image: "${this.escapeYaml(post.image_url || '')}"\n` +
       `slug: "${this.escapeYaml(post.slug)}"\n` +
       `---\n\n` +
       `${post.content || ''}\n`;

@@ -8,12 +8,11 @@ const ai = require('../ai');
 class G1Source {
   constructor() {
     this.name = 'G1 Tecnologia';
-    this.parser = new Parser({
-      timeout: config.REQUEST_TIMEOUT,
-      headers: {
+    this.parser = new Parser(
+      Utils.getRssParserOptions(config.REQUEST_TIMEOUT, {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-      }
-    });
+      })
+    );
   }
 
   async fetch() {
@@ -41,12 +40,21 @@ class G1Source {
 
       const posts = [];
 
-      for (const item of feed.items.slice(0, config.MAX_POSTS_PER_SOURCE)) {
+      for (const item of feed.items) {
+        if (posts.length >= config.MAX_POSTS_PER_SOURCE) break;
+
         try {
+          const itemUrl = new URL(item.link);
+          if (!itemUrl.pathname.startsWith('/tecnologia/')) {
+            logger.skip(`Fora de tecnologia no ${this.name}: ${item.link}`);
+            continue;
+          }
+
           const title = Utils.normalizeEncoding(item.title);
           const content = Utils.normalizeEncoding(
             Utils.stripHtml(item['content:encoded'] || item.content || item.summary || '')
           );
+          const image_url = Utils.extractFirstImageUrl(item);
           
           const post = {
             title: title,
@@ -54,7 +62,8 @@ class G1Source {
             source: this.name,
             original_url: item.link,
             slug: Utils.generateSlug(title),
-            content: Utils.truncateText(content, 4000)
+            content: Utils.truncateText(content, 4000),
+            image_url
           };
 
           let tags = Utils.extractTags(title, content, this.name);

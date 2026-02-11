@@ -11,6 +11,6 @@ module.exports = {
     TECNOBLOG: { enabled: true, url: 'https://tecnoblog.net/feed/' },
     CANALTECH: { enabled: true, url: 'https://canaltech.com.br/rss/' },
     TECMUNDO: { enabled: true, url: 'https://rss.tecmundo.com.br/feed' },
-    BOREDPANDA: { enabled: true, url: 'https://www.boredpanda.com/feed/' }
+    GOOGLE_TECH: { enabled: true, url: 'https://blog.google/intl/pt-br/rss/' }
   }
 };

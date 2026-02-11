@@ -103,6 +103,49 @@ class Utils {
     return $.text().trim();
   }
 
+  static getRssParserOptions(timeout, headers = {}) {
+    return {
+      timeout,
+      headers,
+      customFields: {
+        item: [
+          ['media:content', 'mediaContent', { keepArray: true }],
+          ['media:thumbnail', 'mediaThumbnail', { keepArray: true }],
+          ['enclosure', 'enclosure', { keepArray: true }]
+        ]
+      }
+    };
+  }
+
+  static extractFirstImageUrl(item) {
+    if (!item) return '';
+
+    const html = item['content:encoded'] || item.content || item.summary || '';
+    if (html) {
+      try {
+        const $ = cheerio.load(html);
+        const img = $('img').first();
+        const src = img.attr('src') || img.attr('data-src');
+        if (src && /^https?:\/\//i.test(src)) return Utils.normalizeEncoding(src);
+      } catch {
+        // noop
+      }
+    }
+
+    const mediaCandidates = [
+      ...(Array.isArray(item.mediaContent) ? item.mediaContent : []),
+      ...(Array.isArray(item.mediaThumbnail) ? item.mediaThumbnail : []),
+      ...(Array.isArray(item.enclosure) ? item.enclosure : [])
+    ];
+
+    for (const candidate of mediaCandidates) {
+      const url = candidate?.$?.url || candidate?.url || candidate?.$?.href || candidate?.href;
+      if (url && /^https?:\/\//i.test(url)) return Utils.normalizeEncoding(url);
+    }
+
+    return '';
+  }
+
   static truncateText(text, maxLength = 500) {
     if (!text || text.length <= maxLength) return text;
     return text.substring(0, maxLength).trim() + '...';
