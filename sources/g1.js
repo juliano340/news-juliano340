@@ -1,4 +1,5 @@
 const Parser = require('rss-parser');
+const axios = require('axios');
 const config = require('../config');
 const logger = require('../logger');
 const Utils = require('../utils');
@@ -18,8 +19,26 @@ class G1Source {
   async fetch() {
     try {
       logger.info(`Buscando notícias do ${this.name}...`);
-      
-      const feed = await this.parser.parseURL(config.SOURCES.G1.url);
+
+      let feed;
+      try {
+        feed = await this.parser.parseURL(config.SOURCES.G1.url);
+      } catch (parseError) {
+        if (!parseError.message.includes('Non-whitespace before first tag')) throw parseError;
+
+        const response = await axios.get(config.SOURCES.G1.url, {
+          timeout: config.REQUEST_TIMEOUT,
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            Accept: 'application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8',
+            'Accept-Encoding': 'identity'
+          },
+          responseType: 'text'
+        });
+
+        feed = await this.parser.parseString(response.data);
+      }
+
       const posts = [];
 
       for (const item of feed.items.slice(0, config.MAX_POSTS_PER_SOURCE)) {
