@@ -10,7 +10,7 @@ module.exports = {
     G1: { enabled: true, url: 'https://g1.globo.com/dynamo/tecnologia/rss2.xml' },
     TECNOBLOG: { enabled: true, url: 'https://tecnoblog.net/feed/' },
     CANALTECH: { enabled: true, url: 'https://feeds.feedburner.com/canaltech/' },
-    TECMUNDO: { enabled: true, url: 'ttps://rss.tecmundo.com.br/feed' },
+    TECMUNDO: { enabled: true, url: 'https://rss.tecmundo.com.br/feed' },
     BOREDPANDA: { enabled: true, url: 'https://www.boredpanda.com/feed/' }
   }
 };
