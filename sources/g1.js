@@ -54,7 +54,7 @@ class G1Source {
             source: this.name,
             original_url: item.link,
             slug: Utils.generateSlug(title),
-            content: Utils.truncateText(content, 800)
+            content: Utils.truncateText(content, 4000)
           };
 
           let tags = Utils.extractTags(title, content, this.name);

@@ -2,6 +2,92 @@ const slugify = require('slugify');
 const cheerio = require('cheerio');
 
 class Utils {
+  static tryFixMojibake(text) {
+    if (!text || !/[ÃÂâ]/.test(text)) return text;
+
+    const replacements = {
+      'Ã¡': 'á',
+      'Ã¢': 'â',
+      'Ã£': 'ã',
+      'Ã¤': 'ä',
+      'Ãª': 'ê',
+      'Ã©': 'é',
+      'Ã¨': 'è',
+      'Ã­': 'í',
+      'Ã¬': 'ì',
+      'Ã³': 'ó',
+      'Ã´': 'ô',
+      'Ãµ': 'õ',
+      'Ã¶': 'ö',
+      'Ãº': 'ú',
+      'Ã¼': 'ü',
+      'Ã§': 'ç',
+      'Ã±': 'ñ',
+      'Ã': 'Á',
+      'Ã‚': 'Â',
+      'Ãƒ': 'Ã',
+      'Ã„': 'Ä',
+      'ÃŠ': 'Ê',
+      'Ã‰': 'É',
+      'Ã': 'Í',
+      'Ã“': 'Ó',
+      'Ã”': 'Ô',
+      'Ã•': 'Õ',
+      'Ãš': 'Ú',
+      'Ã‡': 'Ç',
+      'â€™': '’',
+      'â€œ': '“',
+      'â€': '”',
+      'â€“': '–',
+      'â€”': '—',
+      'â€¦': '...'
+    };
+
+    let fixed = text;
+    for (const [from, to] of Object.entries(replacements)) {
+      fixed = fixed.split(from).join(to);
+    }
+
+    return fixed;
+  }
+
+  static decodeHtmlEntities(text) {
+    if (!text) return '';
+
+    const namedEntities = {
+      '&nbsp;': ' ',
+      '&amp;': '&',
+      '&lt;': '<',
+      '&gt;': '>',
+      '&quot;': '"',
+      '&#39;': "'",
+      '&apos;': "'",
+      '&hellip;': '...',
+      '&mdash;': '—',
+      '&ndash;': '–'
+    };
+
+    let output = text;
+
+    for (const [entity, char] of Object.entries(namedEntities)) {
+      output = output.replace(new RegExp(entity, 'g'), char);
+    }
+
+    output = output
+      .replace(/&#(\d+);/g, (match, code) => {
+        const value = Number(code);
+        if (!Number.isInteger(value) || value < 0 || value > 0x10ffff) return match;
+        return String.fromCodePoint(value);
+      })
+      .replace(/&#x([0-9a-f]+);/gi, (match, code) => {
+        const value = parseInt(code, 16);
+        if (!Number.isInteger(value) || value < 0 || value > 0x10ffff) return match;
+        return String.fromCodePoint(value);
+      });
+
+    return output;
+  }
+
   static generateSlug(title) {
     return slugify(title, { lower: true, strict: true, remove: /[*+~.()'"!:@]/g });
   }
@@ -24,16 +110,13 @@ class Utils {
 
   static normalizeEncoding(text) {
     if (!text) return '';
-    return text
-      .replace(/&nbsp;/g, ' ')
-      .replace(/&amp;/g, '&')
-      .replace(/&lt;/g, '<')
-      .replace(/&gt;/g, '>')
-      .replace(/&quot;/g, '"')
-      .replace(/&#39;/g, "'")
-      .replace(/&hellip;/g, '...')
-      .replace(/&mdash;/g, '—')
-      .replace(/&ndash;/g, '–')
+
+    const decoded = Utils.decodeHtmlEntities(String(text));
+
+    return Utils.tryFixMojibake(decoded)
+      .normalize('NFC')
+      .replace(/\u00A0/g, ' ')
+      .replace(/\s+/g, ' ')
       .trim();
   }
 
