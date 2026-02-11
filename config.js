@@ -9,7 +9,6 @@ module.exports = {
   SOURCES: {
     G1: { enabled: true, url: 'https://g1.globo.com/rss/g1/tecnologia/' },
     TECNOBLOG: { enabled: true, url: 'https://tecnoblog.net/feed/' },
-<<<<<<< HEAD
     CANALTECH: { enabled: true, url: 'https://canaltech.com.br/rss/' },
     TECMUNDO: { enabled: true, url: 'https://rss.tecmundo.com.br/feed' },
     BOREDPANDA: { enabled: true, url: 'https://www.boredpanda.com/feed/' }
