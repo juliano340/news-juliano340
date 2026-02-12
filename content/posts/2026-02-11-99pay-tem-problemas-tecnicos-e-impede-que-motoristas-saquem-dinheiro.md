@@ -1,0 +1,10 @@
+---
+title: "99Pay tem problemas técnicos e impede que motoristas saquem dinheiro"
+date: "2026-02-11T20:25:38.000Z"
+tags: ["negocios","tecnoblog"]
+source: "Tecnoblog"
+original_url: "https://tecnoblog.net/noticias/99pay-tem-problemas-tecnicos-e-impede-que-motoristas-saquem-dinheiro/"
+slug: "99pay-tem-problemas-tecnicos-e-impede-que-motoristas-saquem-dinheiro"
+---
+
+Empresa diz que acesso está sendo reestabelecido (ilustração: Vitor Pádua/Tecnoblog) Motoristas e entregadores relatam que a 99 não está permitindo saques dos valores recebidos para o 99Pay. O problema começou na noite de terça-feira (10/02) e dura até a tarde desta quarta (11/02). Nas redes sociais, os trabalhadores questionam a empresa e apontam transtornos causados por não terem acesso aos ganhos dos serviços, como dificuldade para abastecer os veículos e pagar contas. Há, em menor número, relatos de clientes que não conseguiram colocar dinheiro em suas carteiras. Uma captura de tela compartilhada por um usuário traz uma mensagem sobre um atraso na atualização do saldo do 99Pay. Em outra imagem, um prestador de serviços mostra que havia mais de 1,3 mil pessoas na fila por volta do meio-dia. Urgente!! 99 sem pagar motoristas há mais de 14 horas, impactactando passageiros e motoristas!@CNNBrasil@cnnbrk@jornaldacbn @radiobandnewsfm @JovemPanNews @recordnews @BancoCentralBR pic.twitter.com/K8Ol0JsL91— Alan Ventura (@SETEMBERMAM) February 11, 2026 @99Pay queria saber o porquê de vocês não permitem que eu realize o saque do meu saldo na conta da 99 Motorista. Fiz o resgate mas na hora de sacar, cadê o dinheiro? Só aparece mensagem de que tá com carregamento atrasado… desde ontem. Tenta resolver no chat e sempre encerra pic.twitter.com/zhiV198SOq— Randerson Victor (@RandersonVictor) February 11, 2026 Procurada pelo Tecnoblog, a 99 enviou o seguinte comunicado: Identificamos uma instabilidade sistêmica que foi solucionada, e a normalização dos acessos já está sendo reestabelecida de forma gradual. 99Pay tem problemas técnicos e impede que motoristas saquem dinheiro

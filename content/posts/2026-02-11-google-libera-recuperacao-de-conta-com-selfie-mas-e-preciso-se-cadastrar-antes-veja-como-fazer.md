@@ -1,0 +1,12 @@
+---
+title: "Google libera recuperação de conta com selfie, mas é preciso se cadastrar antes; veja como fazer"
+date: "2026-02-09T18:41:10.000Z"
+tags: ["tecnologia","negocios","seguranca","g1-tecnologia"]
+source: "G1 Tecnologia"
+original_url: "https://g1.globo.com/tecnologia/noticia/2026/02/09/google-libera-selfies-para-recuperar-contas-mas-e-preciso-se-cadastrar-antes-veja-como-fazer.ghtml"
+image_url: "https://s2-g1.glbimg.com/jygCfLY1M-lzDtaOsMkRXi33ww8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/o/HyNT5qTnOyKBSXAKdp3Q/google-selfie.jpg"
+image: "https://s2-g1.glbimg.com/jygCfLY1M-lzDtaOsMkRXi33ww8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/o/HyNT5qTnOyKBSXAKdp3Q/google-selfie.jpg"
+slug: "google-libera-recuperacao-de-conta-com-selfie-mas-e-preciso-se-cadastrar-antes-veja-como-fazer"
+---
+
+Selfie para recuperar conta do Google Divulgação/Google O Google começou a aceitar uma verificação por selfies em vídeo para usuários que precisam recuperar suas contas. O método é útil principalmente em casos de roubo, perda ou troca do celular, já que o aparelho não poderia ser usado para confirmar sua identidade. O Google analisa o rosto que aparece no vídeo e, então, pode confirmar que a conta é realmente sua. ⚠️ Mas lembre-se: é preciso cadastrar a selfie com antecedência para que ela sirva de base para a comparação que será feita caso seja preciso recuperar a conta. O processo leva menos de um minuto, segundo o Google. O cadastro poderá ser feito em myaccount.google.com/video-verification e, de acordo com a empresa, está disponível para contas pessoais. Veja os vídeos que estão em alta no g1 Ele não é compatível com contas supervisionadas de crianças, do Google Workspace ou de usuários do Programa de Proteção Avançada. O processo de recuperação da conta por selfie inclui a gravação de um vídeo curto com movimentos como virar a cabeça. Ainda de acordo com o Google, o método garante que uma pessoa real aparece no vídeo e impede acesso por terceiros com uso de fotos ou deepfakes. Além do vídeo selfie, ainda é possível recuperar a conta com chaves de acesso, que funcionam como alternativas às senhas, e contatos de recuperação, em que as contas de amigos e familiares podem ajudar a acessar seu perfil novamente. LEIA TAMBÉM: Discord vai verificar idade e limitar acesso de menores na plataforma Moltbook, rede social das IAs, faz robôs conversarem entre si, mas o quanto disso é real? Fenômeno da IA agora assusta investidores? 'Chefões' tentam amenizar preocupações
