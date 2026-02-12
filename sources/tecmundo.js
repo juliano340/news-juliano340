@@ -24,9 +24,17 @@ class TecmundoSource {
       for (const item of feed.items.slice(0, config.MAX_POSTS_PER_SOURCE)) {
         try {
           const title = Utils.normalizeEncoding(item.title);
-          const content = Utils.normalizeEncoding(
-            Utils.sanitizeHtml(item['content:encoded'] || item.content || item.summary || '')
-          );
+          const image_url = Utils.extractFirstImageUrl(item);
+          const content = Utils.formatFullContent(item['content:encoded'] || item.content || item.summary || '', {
+            heroImageUrl: image_url,
+            onWarning: (reason, metadata) => {
+              logger.warn(`Conteúdo malformado no ${this.name}`, {
+                reason,
+                url: item.link,
+                ...metadata
+              });
+            }
+          });
           
           const post = {
             title: title,
@@ -34,11 +42,11 @@ class TecmundoSource {
             source: this.name,
             original_url: item.link,
             slug: Utils.generateSlug(title),
-            content: Utils.truncateText(content, 4000),
-            image_url: Utils.extractFirstImageUrl(item)
+            content,
+            image_url
           };
 
-          let tags = Utils.extractTags(title, content, this.name);
+          let tags = Utils.extractTags(title, Utils.stripHtml(content), this.name);
           tags.push('tecnologia');
           
           if (config.USE_AI) {

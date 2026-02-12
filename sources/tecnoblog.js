@@ -17,10 +17,17 @@ class TecnoblogSource {
       return feed.items.slice(0, config.MAX_POSTS_PER_SOURCE).map((item) => {
         const title = Utils.normalizeEncoding(item.title);
         const raw = item['content:encoded'] || item.content || item.summary || '';
-        const content = Utils.truncateText(
-          Utils.normalizeEncoding(Utils.sanitizeHtml(raw)),
-          4000
-        );
+        const image_url = Utils.extractFirstImageUrl(item);
+        const content = Utils.formatFullContent(raw, {
+          heroImageUrl: image_url,
+          onWarning: (reason, metadata) => {
+            logger.warn(`Conteúdo malformado no ${this.name}`, {
+              reason,
+              url: item.link,
+              ...metadata
+            });
+          }
+        });
 
         return {
           title,
@@ -29,8 +36,8 @@ class TecnoblogSource {
           original_url: item.link,
           slug: Utils.generateSlug(title),
           content,
-          image_url: Utils.extractFirstImageUrl(item),
-          tags: Utils.extractTags(title, content, this.name)
+          image_url,
+          tags: Utils.extractTags(title, Utils.stripHtml(content), this.name)
         };
       });
     } catch (error) {
