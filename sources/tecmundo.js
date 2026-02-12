@@ -25,7 +25,7 @@ class TecmundoSource {
         try {
           const title = Utils.normalizeEncoding(item.title);
           const content = Utils.normalizeEncoding(
-            Utils.stripHtml(item['content:encoded'] || item.content || item.summary || '')
+            Utils.sanitizeHtml(item['content:encoded'] || item.content || item.summary || '')
           );
           
           const post = {

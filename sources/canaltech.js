@@ -18,7 +18,7 @@ class CanaltechSource {
         const title = Utils.normalizeEncoding(item.title);
         const raw = item['content:encoded'] || item.content || item.summary || '';
         const content = Utils.truncateText(
-          Utils.normalizeEncoding(Utils.stripHtml(raw)),
+          Utils.normalizeEncoding(Utils.sanitizeHtml(raw)),
           4000
         );
 

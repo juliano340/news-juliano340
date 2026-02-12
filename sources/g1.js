@@ -52,7 +52,7 @@ class G1Source {
 
           const title = Utils.normalizeEncoding(item.title);
           const content = Utils.normalizeEncoding(
-            Utils.stripHtml(item['content:encoded'] || item.content || item.summary || '')
+            Utils.sanitizeHtml(item['content:encoded'] || item.content || item.summary || '')
           );
           const image_url = Utils.extractFirstImageUrl(item);
           

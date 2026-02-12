@@ -103,6 +103,56 @@ class Utils {
     return $.text().trim();
   }
 
+  static sanitizeHtml(html) {
+    if (!html) return '';
+    
+    try {
+      // Tags permitidas para formatação
+      const allowedTags = ['p', 'br', 'strong', 'b', 'em', 'i', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'ul', 'ol', 'li'];
+      const allowedAttributes = {
+        'a': ['href', 'title']
+      };
+      
+      // Primeiro, limpar atributos de tags permitidas
+      let cleaned = html;
+      allowedTags.forEach(tag => {
+        const attrs = allowedAttributes[tag] || [];
+        if (tag === 'a' && attrs.length > 0) {
+          // Para links, manter apenas href e title
+          cleaned = cleaned.replace(
+            new RegExp(`<${tag}\\b([^>]*)>`, 'gi'),
+            (match, attributes) => {
+              const href = attributes.match(/href=["']([^"']+)["']/i);
+              const title = attributes.match(/title=["']([^"']+)["']/i);
+              let newAttrs = '';
+              if (href) newAttrs += ` href="${href[1]}"`;
+              if (title) newAttrs += ` title="${title[1]}"`;
+              return `<${tag}${newAttrs}>`;
+            }
+          );
+        }
+      });
+      
+      // Remover scripts e estilos completamente
+      cleaned = cleaned.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+      cleaned = cleaned.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
+      
+      // Tags perigosas para remover (manter conteúdo)
+      const dangerousTags = ['script', 'style', 'iframe', 'object', 'embed', 'form', 'input'];
+      dangerousTags.forEach(tag => {
+        cleaned = cleaned.replace(
+          new RegExp(`<${tag}[^>]*>[\\s\\S]*?<\\/${tag}>`, 'gi'),
+          ''
+        );
+        cleaned = cleaned.replace(new RegExp(`<${tag}[^>]*\\/?>`, 'gi'), '');
+      });
+      
+      return cleaned.trim();
+    } catch (error) {
+      return Utils.stripHtml(html);
+    }
+  }
+
   static getRssParserOptions(timeout, headers = {}) {
     return {
       timeout,
