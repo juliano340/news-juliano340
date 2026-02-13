@@ -68,14 +68,14 @@ class G1Source {
           };
 
           let tags = Utils.extractTags(title, Utils.stripHtml(raw_content), this.name);
-          
+
           if (config.USE_AI) {
-              const aiTags = await ai.suggestTags(title, Utils.stripHtml(raw_content));
+            const aiTags = await ai.suggestTags(title, Utils.stripHtml(raw_content));
             if (aiTags) {
               tags = [...new Set([...tags, ...aiTags])].slice(0, 5);
             }
           }
-          
+
           post.tags = tags;
           posts.push(post);
         } catch (itemError) {

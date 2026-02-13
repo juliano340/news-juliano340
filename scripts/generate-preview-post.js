@@ -43,6 +43,9 @@ function buildPostContent(post) {
     `subtopic: "${escapeYaml(post.subtopic || '')}"\n` +
     `content_kind: "${escapeYaml(post.content_kind || 'news-curated')}"\n` +
     `editorial_score: "${escapeYaml(post.editorial_score || '')}"\n` +
+    `editorial_mode: "${escapeYaml(post.editorial_mode || '')}"\n` +
+    `ai_model: "${escapeYaml(post.ai_model || '')}"\n` +
+    `ai_confidence: "${escapeYaml(post.ai_confidence || '')}"\n` +
     `primary_source: "${escapeYaml(post.primary_source || post.original_url || '')}"\n` +
     `---\n\n` +
     `${post.content || ''}\n`;
@@ -67,7 +70,7 @@ async function main() {
     throw new Error('Nenhum post disponível para gerar preview.');
   }
 
-  const curated = editorial.compose(rawPost);
+  const curated = await editorial.compose(rawPost);
   const report = quality.evaluate(rawPost, curated);
 
   if (!report.passed) {
@@ -82,7 +85,10 @@ async function main() {
     subtopic: curated.subtopic,
     content_kind: curated.content_kind,
     primary_source: curated.primary_source,
-    editorial_score: report.score
+    editorial_score: report.score,
+    editorial_mode: curated.editorial_mode,
+    ai_model: curated.ai_metadata?.model_used || '',
+    ai_confidence: curated.ai_metadata?.editorial_confidence || null
   };
 
   const fileName = Utils.generateFileName(previewPost.slug, new Date());

@@ -96,6 +96,9 @@ class NewsWorker {
       `subtopic: "${this.escapeYaml(post.subtopic || '')}"\n` +
       `content_kind: "${this.escapeYaml(post.content_kind || 'news')}"\n` +
       `editorial_score: "${this.escapeYaml(post.editorial_score || '')}"\n` +
+      `editorial_mode: "${this.escapeYaml(post.editorial_mode || '')}"\n` +
+      `ai_model: "${this.escapeYaml(post.ai_model || '')}"\n` +
+      `ai_confidence: "${this.escapeYaml(post.ai_confidence || '')}"\n` +
       `primary_source: "${this.escapeYaml(post.primary_source || post.original_url || '')}"\n` +
       `---\n\n` +
       `${post.content || ''}\n`;
@@ -125,7 +128,7 @@ class NewsWorker {
     return true;
   }
 
-  applyEditorialPolicy(post) {
+  async applyEditorialPolicy(post) {
     if (!config.EDITORIAL_ENABLED) {
       return {
         accepted: true,
@@ -134,7 +137,7 @@ class NewsWorker {
       };
     }
 
-    const curated = editorial.compose(post);
+    const curated = await editorial.compose(post);
     const qualityCheck = quality.evaluate(post, curated);
 
     if (!qualityCheck.passed && qualityCheck.shouldDiscard) {
@@ -155,7 +158,10 @@ class NewsWorker {
         subtopic: curated.subtopic,
         content_kind: curated.content_kind,
         primary_source: curated.primary_source,
-        editorial_score: qualityCheck.score
+        editorial_score: qualityCheck.score,
+        editorial_mode: curated.editorial_mode,
+        ai_model: curated.ai_metadata?.model_used || '',
+        ai_confidence: curated.ai_metadata?.editorial_confidence || null
       }
     };
   }
@@ -226,7 +232,7 @@ class NewsWorker {
 
         for (const post of posts) {
           try {
-            const policyResult = this.applyEditorialPolicy(post);
+            const policyResult = await this.applyEditorialPolicy(post);
 
             if (!policyResult.accepted) {
               descartados += 1;
@@ -243,7 +249,10 @@ class NewsWorker {
               logger.debug('Aprovado no quality gate: ' + post.title, {
                 score: policyResult.quality.score,
                 threshold: policyResult.quality.threshold,
-                checks: policyResult.quality.checks
+                checks: policyResult.quality.checks,
+                editorial_mode: policyResult.post.editorial_mode,
+                ai_model: policyResult.post.ai_model,
+                ai_confidence: policyResult.post.ai_confidence
               });
             }
 

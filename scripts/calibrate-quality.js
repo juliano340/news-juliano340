@@ -59,7 +59,7 @@ async function main() {
     report.sourceStats[source.name] = { total: 0, passed: 0, scoreSum: 0 };
 
     for (const post of items) {
-      const composed = editorial.compose(post);
+      const composed = await editorial.compose(post);
       const evaluated = quality.evaluate(post, composed);
 
       report.total += 1;
