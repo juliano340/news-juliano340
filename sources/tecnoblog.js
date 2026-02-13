@@ -16,28 +16,21 @@ class TecnoblogSource {
 
       return feed.items.slice(0, config.MAX_POSTS_PER_SOURCE).map((item) => {
         const title = Utils.normalizeEncoding(item.title);
-        const raw = item['content:encoded'] || item.content || item.summary || '';
+        const raw_content = item['content:encoded'] || item.content || item.summary || '';
         const image_url = Utils.extractFirstImageUrl(item);
-        const content = Utils.formatFullContent(raw, {
-          heroImageUrl: image_url,
-          onWarning: (reason, metadata) => {
-            logger.warn(`Conteúdo malformado no ${this.name}`, {
-              reason,
-              url: item.link,
-              ...metadata
-            });
-          }
-        });
 
         return {
           title,
           date: Utils.formatDate(item.pubDate || item.isoDate),
+          published_at: Utils.formatDate(item.pubDate || item.isoDate),
           source: this.name,
+          source_name: this.name,
+          source_url: config.SOURCES.TECNOBLOG.url,
           original_url: item.link,
           slug: Utils.generateSlug(title),
-          content,
+          raw_content,
           image_url,
-          tags: Utils.extractTags(title, Utils.stripHtml(content), this.name)
+          tags: Utils.extractTags(title, Utils.stripHtml(raw_content), this.name)
         };
       });
     } catch (error) {

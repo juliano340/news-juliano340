@@ -52,31 +52,25 @@ class G1Source {
 
           const image_url = Utils.extractFirstImageUrl(item);
           const title = Utils.normalizeEncoding(item.title);
-          const content = Utils.formatFullContent(item['content:encoded'] || item.content || item.summary || '', {
-            heroImageUrl: image_url,
-            onWarning: (reason, metadata) => {
-              logger.warn(`Conteúdo malformado no ${this.name}`, {
-                reason,
-                url: item.link,
-                ...metadata
-              });
-            }
-          });
+          const raw_content = item['content:encoded'] || item.content || item.summary || '';
           
           const post = {
             title: title,
             date: Utils.formatDate(item.pubDate || item.isoDate),
+            published_at: Utils.formatDate(item.pubDate || item.isoDate),
             source: this.name,
+            source_name: this.name,
+            source_url: config.SOURCES.G1.url,
             original_url: item.link,
             slug: Utils.generateSlug(title),
-            content,
+            raw_content,
             image_url
           };
 
-          let tags = Utils.extractTags(title, Utils.stripHtml(content), this.name);
+          let tags = Utils.extractTags(title, Utils.stripHtml(raw_content), this.name);
           
           if (config.USE_AI) {
-            const aiTags = await ai.suggestTags(title, content);
+              const aiTags = await ai.suggestTags(title, Utils.stripHtml(raw_content));
             if (aiTags) {
               tags = [...new Set([...tags, ...aiTags])].slice(0, 5);
             }

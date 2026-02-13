@@ -4,6 +4,8 @@ const config = require('./config');
 const logger = require('./logger');
 const Utils = require('./utils');
 const git = require('./git');
+const editorial = require('./pipeline/editorial');
+const quality = require('./pipeline/quality');
 
 const g1 = require('./sources/g1');
 const tecnoblog = require('./sources/tecnoblog');
@@ -21,6 +23,7 @@ class NewsWorker {
 
     this.slugs = new Set();
     this.urls = new Set();
+    this.publishedPosts = [];
   }
 
   escapeYaml(value) {
@@ -89,6 +92,11 @@ class NewsWorker {
       `image_url: "${this.escapeYaml(post.image_url || '')}"\n` +
       `image: "${this.escapeYaml(post.image_url || '')}"\n` +
       `slug: "${this.escapeYaml(post.slug)}"\n` +
+      `topic: "${this.escapeYaml(post.topic || '')}"\n` +
+      `subtopic: "${this.escapeYaml(post.subtopic || '')}"\n` +
+      `content_kind: "${this.escapeYaml(post.content_kind || 'news')}"\n` +
+      `editorial_score: "${this.escapeYaml(post.editorial_score || '')}"\n` +
+      `primary_source: "${this.escapeYaml(post.primary_source || post.original_url || '')}"\n` +
       `---\n\n` +
       `${post.content || ''}\n`;
   }
@@ -111,9 +119,96 @@ class NewsWorker {
 
     this.slugs.add(post.slug);
     this.urls.add(post.original_url);
+    this.publishedPosts.push(post);
 
     logger.ok('Salvo: ' + post.title);
     return true;
+  }
+
+  applyEditorialPolicy(post) {
+    if (!config.EDITORIAL_ENABLED) {
+      return {
+        accepted: true,
+        post,
+        quality: null
+      };
+    }
+
+    const curated = editorial.compose(post);
+    const qualityCheck = quality.evaluate(post, curated);
+
+    if (!qualityCheck.passed && qualityCheck.shouldDiscard) {
+      return {
+        accepted: false,
+        post,
+        quality: qualityCheck
+      };
+    }
+
+    return {
+      accepted: true,
+      quality: qualityCheck,
+      post: {
+        ...post,
+        content: curated.content,
+        topic: curated.topic,
+        subtopic: curated.subtopic,
+        content_kind: curated.content_kind,
+        primary_source: curated.primary_source,
+        editorial_score: qualityCheck.score
+      }
+    };
+  }
+
+  async generateDigests() {
+    if (this.publishedPosts.length === 0) return;
+
+    await fs.mkdir(config.DIGEST_PATH, { recursive: true });
+
+    const now = new Date();
+    const cutoff24h = now.getTime() - (24 * 60 * 60 * 1000);
+    const digest24h = this.publishedPosts
+      .filter((post) => new Date(post.date).getTime() >= cutoff24h)
+      .map((post) => ({
+        title: post.title,
+        slug: post.slug,
+        topic: post.topic || '',
+        source: post.source,
+        date: post.date,
+        editorial_score: post.editorial_score || null,
+        original_url: post.original_url
+      }));
+
+    const digest24hPath = path.join(config.DIGEST_PATH, 'digest-24h.json');
+    await fs.writeFile(
+      digest24hPath,
+      JSON.stringify(
+        {
+          generated_at: now.toISOString(),
+          niche: config.EDITORIAL_NICHE,
+          total: digest24h.length,
+          posts: digest24h
+        },
+        null,
+        2
+      ),
+      'utf8'
+    );
+
+    const weeklyTitle = now.toISOString().slice(0, 10);
+    const weeklyPath = path.join(config.DIGEST_PATH, 'weekly-ia-dev.md');
+    const weeklyContent = [
+      `# Weekly IA para Devs - ${weeklyTitle}`,
+      '',
+      `Gerado em ${now.toISOString()}`,
+      '',
+      ...this.publishedPosts.slice(0, 25).map((post) => (
+        `- [${post.title}](${post.original_url}) | topico: ${post.topic || 'n/a'} | score: ${post.editorial_score || 'n/a'}`
+      ))
+    ].join('\n');
+
+    await fs.writeFile(weeklyPath, weeklyContent + '\n', 'utf8');
+    logger.ok('Digests gerados', { digest24h: digest24hPath, weekly: weeklyPath });
   }
 
   async run() {
@@ -121,6 +216,7 @@ class NewsWorker {
     let novos = 0;
     let pulados = 0;
     let erros = 0;
+    let descartados = 0;
 
     logger.info('Iniciando...');
 
@@ -130,7 +226,28 @@ class NewsWorker {
 
         for (const post of posts) {
           try {
-            if (await this.savePost(post)) novos += 1;
+            const policyResult = this.applyEditorialPolicy(post);
+
+            if (!policyResult.accepted) {
+              descartados += 1;
+              logger.skip('Descartado por qualidade: ' + post.title, {
+                score: policyResult.quality.score,
+                threshold: policyResult.quality.threshold,
+                reasons: policyResult.quality.reasons,
+                checks: policyResult.quality.checks
+              });
+              continue;
+            }
+
+            if (policyResult.quality) {
+              logger.debug('Aprovado no quality gate: ' + post.title, {
+                score: policyResult.quality.score,
+                threshold: policyResult.quality.threshold,
+                checks: policyResult.quality.checks
+              });
+            }
+
+            if (await this.savePost(policyResult.post)) novos += 1;
             else pulados += 1;
           } catch (error) {
             logger.error('P', { error: error.message });
@@ -145,6 +262,8 @@ class NewsWorker {
       }
     }
 
+    await this.generateDigests();
+
     if (novos > 0) {
       await git.commitAndPush('feat: ' + novos + ' posts');
     }
@@ -152,6 +271,7 @@ class NewsWorker {
     logger.ok('Fim em ' + ((Date.now() - start) / 1000).toFixed(1) + 's', {
       novos,
       pulados,
+      descartados,
       erros
     });
   }

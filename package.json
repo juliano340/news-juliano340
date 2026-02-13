@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node worker.js",
     "test": "node --test tests/**/*.test.js",
-    "test:worker": "node worker.js --dry-run"
+    "test:worker": "node worker.js --dry-run",
+    "calibrate:quality": "node scripts/calibrate-quality.js",
+    "preview:post": "node scripts/generate-preview-post.js"
   },
   "author": "juliano340",
   "license": "MIT",
