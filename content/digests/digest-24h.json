@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-02-13T22:24:59.253Z",
+  "generated_at": "2026-02-13T22:43:57.023Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 2,
   "posts": [
     {
-      "title": "Celular no Carnaval: 6 dicas para manter a segurança com o Google e a OPPO",
-      "slug": "celular-no-carnaval-6-dicas-para-manter-a-seguranca-com-o-google-e-a-oppo",
+      "title": "SSD falso e golpe de hardware: como identificar antes e depois de comprar",
+      "slug": "ssd-falso-e-golpe-de-hardware-como-identificar-antes-e-depois-de-comprar",
       "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-13T22:01:00.000Z",
+      "date": "2026-02-13T22:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/celular-no-carnaval-6-dicas-para-manter-a-seguranca-com-o-google-e-a-oppo/"
+      "original_url": "https://canaltech.com.br/hardware/ssd-falso-e-golpe-de-hardware-como-identificar-antes-e-depois-de-comprar/"
+    },
+    {
+      "title": "No Man's Sky e mais jogos para Switch com até 90% OFF na eShop",
+      "slug": "no-mans-sky-e-mais-jogos-para-switch-com-ate-90percent-off-na-eshop",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-13T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503529-no-mans-sky-e-mais-jogos-para-switch-com-ate-90-off-na-eshop.htm"
     }
   ]
 }
