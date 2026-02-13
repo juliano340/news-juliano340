@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-02-13T19:04:45.258Z",
+  "generated_at": "2026-02-13T19:21:41.672Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 3,
   "posts": [
     {
-      "title": "O que é Dynamic Island? Veja como funciona a área dinâmica de iPhones",
-      "slug": "o-que-e-dynamic-island-veja-como-funciona-a-area-dinamica-de-iphones",
-      "topic": "agentes",
+      "title": "Câmera digital aposta em formato de rolo de filme e estética retrô",
+      "slug": "camera-digital-aposta-em-formato-de-rolo-de-filme-e-estetica-retro",
+      "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-13T19:01:36.000Z",
+      "date": "2026-02-13T19:11:26.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-dynamic-island-veja-como-funciona-a-area-dinamica-de-iphones/"
+      "original_url": "https://tecnoblog.net/noticias/camera-digital-aposta-em-formato-de-rolo-de-filme-e-estetica-retro/"
     },
     {
-      "title": "One UI 9: navegador da Samsung pode expandir funções de IA",
-      "slug": "one-ui-9-navegador-da-samsung-pode-expandir-funcoes-de-ia",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-13T19:01:17.000Z",
+      "title": "Sem alarde, Paramount+ mata plano mais barato no Brasil",
+      "slug": "sem-alarde-paramount-mata-plano-mais-barato-no-brasil",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-13T19:15:08.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/one-ui-9-navegador-da-samsung-pode-expandir-funcoes-de-ia/"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603106-sem-alarde-paramount-mata-plano-mais-barato-no-brasil.htm"
+    },
+    {
+      "title": "Extensão maliciosa do Chrome rouba 2FA do Meta Business Manager",
+      "slug": "extensao-maliciosa-do-chrome-rouba-2fa-do-meta-business-manager",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-13T19:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/410725-extensao-maliciosa-do-chrome-rouba-2fa-do-meta-business-manager.htm"
     }
   ]
 }
