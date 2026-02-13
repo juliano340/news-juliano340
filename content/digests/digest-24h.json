@@ -1,79 +1,16 @@
 {
-  "generated_at": "2026-02-13T22:08:41.176Z",
+  "generated_at": "2026-02-13T22:24:59.253Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 1,
   "posts": [
     {
-      "title": "Volta às aulas: Lenovo Idea Tab com 8 GB de RAM tem 29% OFF no Magalu",
-      "slug": "volta-as-aulas-lenovo-idea-tab-com-8-gb-de-ram-tem-29percent-off-no-magalu",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-13T21:41:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/volta-as-aulas-lenovo-idea-tab-com-8-gb-de-ram-tem-29-off-no-magalu/"
-    },
-    {
-      "title": "Huawei Watch Fit 4 tem 52% OFF na melhor oferta que já vimos no Magalu",
-      "slug": "huawei-watch-fit-4-tem-52percent-off-na-melhor-oferta-que-ja-vimos-no-magalu",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-13T21:27:36.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/huawei-watch-fit-4-tem-52-off-na-melhor-oferta-que-ja-vimos-no-magalu/"
-    },
-    {
-      "title": "5 dicas para não passar o Carnaval parado na estrada",
-      "slug": "5-dicas-para-nao-passar-o-carnaval-parado-na-estrada",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-13T22:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/5-dicas-para-nao-passar-o-carnaval-parado-na-estrada/"
-    },
-    {
-      "title": "Celular no Carnaval: 6 dicas para manter a segurança com a OPPO",
-      "slug": "celular-no-carnaval-6-dicas-para-manter-a-seguranca-com-a-oppo",
+      "title": "Celular no Carnaval: 6 dicas para manter a segurança com o Google e a OPPO",
+      "slug": "celular-no-carnaval-6-dicas-para-manter-a-seguranca-com-o-google-e-a-oppo",
       "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-13T22:01:43.000Z",
+      "date": "2026-02-13T22:01:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/celular-no-carnaval-6-dicas-para-manter-a-seguranca-com-a-oppo/"
-    },
-    {
-      "title": "Baba Yaga está de volta? Jogo de John Wick promete sistema de combate \"gun-fu\"",
-      "slug": "baba-yaga-esta-de-volta-jogo-de-john-wick-promete-sistema-de-combate-gun-fu",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-13T21:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/baba-yaga-esta-de-volta-jogo-de-john-wick-promete-sistema-de-combate-gun-fu/"
-    },
-    {
-      "title": "Quer GTA 6 de graça? Fácil: tenha um filho no dia do lançamento",
-      "slug": "quer-gta-6-de-graca-facil-tenha-um-filho-no-dia-do-lancamento",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-13T21:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/quer-gta-6-de-graca-facil-tenha-um-filho-no-dia-do-lancamento/"
-    },
-    {
-      "title": "iPhone Flip segue em desenvolvimento pela Apple, aponta informante",
-      "slug": "iphone-flip-segue-em-desenvolvimento-pela-apple-aponta-informante",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-13T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410746-iphone-flip-segue-em-desenvolvimento-pela-apple-aponta-informante.htm"
-    },
-    {
-      "title": "Rivalidade Ardente: quando estreiam os últimos episódios?",
-      "slug": "rivalidade-ardente-quando-estreiam-os-ultimos-episodios",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-13T21:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603109-rivalidade-ardente-quando-estreiam-os-ultimos-episodios.htm"
+      "original_url": "https://canaltech.com.br/smartphone/celular-no-carnaval-6-dicas-para-manter-a-seguranca-com-o-google-e-a-oppo/"
     }
   ]
 }
