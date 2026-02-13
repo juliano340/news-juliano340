@@ -60,6 +60,16 @@ async function main() {
 
     for (const post of items) {
       const composed = await editorial.compose(post);
+
+      if (composed.blocked) {
+        report.total += 1;
+        report.discarded += 1;
+        const reason = composed.block_reason || 'ai_generation_failed';
+        report.reasons[reason] = (report.reasons[reason] || 0) + 1;
+        report.sourceStats[source.name].total += 1;
+        continue;
+      }
+
       const evaluated = quality.evaluate(post, composed);
 
       report.total += 1;

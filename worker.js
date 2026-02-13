@@ -138,6 +138,17 @@ class NewsWorker {
     }
 
     const curated = await editorial.compose(post);
+
+    if (curated.blocked) {
+      return {
+        accepted: false,
+        deferred: true,
+        reason: curated.block_reason || 'ai_generation_failed',
+        quality: null,
+        post
+      };
+    }
+
     const qualityCheck = quality.evaluate(post, curated);
 
     if (!qualityCheck.passed && qualityCheck.shouldDiscard) {
@@ -223,6 +234,7 @@ class NewsWorker {
     let pulados = 0;
     let erros = 0;
     let descartados = 0;
+    let adiados = 0;
 
     logger.info('Iniciando...');
 
@@ -235,6 +247,14 @@ class NewsWorker {
             const policyResult = await this.applyEditorialPolicy(post);
 
             if (!policyResult.accepted) {
+              if (policyResult.deferred) {
+                adiados += 1;
+                logger.skip('Adiado aguardando IA: ' + post.title, {
+                  reason: policyResult.reason
+                });
+                continue;
+              }
+
               descartados += 1;
               logger.skip('Descartado por qualidade: ' + post.title, {
                 score: policyResult.quality.score,
@@ -281,6 +301,7 @@ class NewsWorker {
       novos,
       pulados,
       descartados,
+      adiados,
       erros
     });
   }

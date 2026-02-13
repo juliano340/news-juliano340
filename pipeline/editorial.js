@@ -212,9 +212,9 @@ class EditorialComposer {
     const { topic, subtopic } = this.detectTopic(post.title, rawFormatted);
     const primarySource = post.original_url || post.source_url || '';
 
-    let content = this.buildHeuristicContent(post, topic, post.title, rawFormatted, primarySource);
+    let content = '';
     let resolvedPrimarySource = primarySource;
-    let editorialMode = 'heuristic';
+    let editorialMode = '';
     let aiMetadata = null;
 
     const aiDraft = await ai.generateEditorialDraft({
@@ -233,9 +233,26 @@ class EditorialComposer {
       resolvedPrimarySource = aiOutput.primarySource;
       editorialMode = aiDraft.fallback_used ? 'ai_fallback_model' : 'ai_primary_model';
       aiMetadata = aiOutput.aiMetadata;
+    } else if (config.AI_EDITORIAL_REQUIRED) {
+      const reason = ai.editorialEnabled ? 'ai_generation_failed' : 'ai_editorial_disabled';
+
+      return {
+        blocked: true,
+        block_reason: reason,
+        raw_formatted: rawFormatted,
+        topic,
+        subtopic,
+        primary_source: primarySource,
+        content_kind: 'news-curated',
+        editorial_mode: 'blocked'
+      };
+    } else {
+      content = this.buildHeuristicContent(post, topic, post.title, rawFormatted, primarySource);
+      editorialMode = 'heuristic';
     }
 
     return {
+      blocked: false,
       content,
       raw_formatted: rawFormatted,
       topic,

@@ -17,6 +17,7 @@ module.exports = {
   OPENROUTER_KEY: process.env.OPENROUTER_KEY || '',
   OPENROUTER_MODEL: process.env.OPENROUTER_MODEL || 'openai/gpt-4o-mini',
   AI_EDITORIAL_ENABLED: parseBoolean(process.env.AI_EDITORIAL_ENABLED, true),
+  AI_EDITORIAL_REQUIRED: parseBoolean(process.env.AI_EDITORIAL_REQUIRED, false),
   AI_EDITORIAL_MODEL_PRIMARY: process.env.AI_EDITORIAL_MODEL_PRIMARY || 'qwen/qwen-2.5-72b-instruct:free',
   AI_EDITORIAL_MODEL_FALLBACK: process.env.AI_EDITORIAL_MODEL_FALLBACK || 'deepseek/deepseek-chat:free',
   AI_EDITORIAL_TIMEOUT_MS: parseNumber(process.env.AI_EDITORIAL_TIMEOUT_MS, 12000),

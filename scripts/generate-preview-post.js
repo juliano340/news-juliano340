@@ -71,6 +71,11 @@ async function main() {
   }
 
   const curated = await editorial.compose(rawPost);
+
+  if (curated.blocked) {
+    throw new Error(`Preview bloqueado: ${curated.block_reason || 'ai_generation_failed'}`);
+  }
+
   const report = quality.evaluate(rawPost, curated);
 
   if (!report.passed) {

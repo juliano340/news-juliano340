@@ -8,6 +8,8 @@ const quality = require('../pipeline/quality');
 
 test('composer gera secoes editoriais obrigatorias', async () => {
   const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
+  config.AI_EDITORIAL_REQUIRED = false;
   ai.generateEditorialDraft = async () => null;
 
   try {
@@ -32,11 +34,14 @@ test('composer gera secoes editoriais obrigatorias', async () => {
     assert.equal(result.content_kind, 'news-curated');
   } finally {
     ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
 
 test('quality gate aprova conteudo curado completo', async () => {
   const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
+  config.AI_EDITORIAL_REQUIRED = false;
   ai.generateEditorialDraft = async () => null;
 
   try {
@@ -62,6 +67,7 @@ test('quality gate aprova conteudo curado completo', async () => {
     assert.ok(result.checks.every((check) => check.passed));
   } finally {
     ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
 
@@ -87,6 +93,8 @@ test('quality gate reprova conteudo sem estrutura editorial', () => {
 
 test('quality gate respeita pesos configuraveis', async () => {
   const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
+  config.AI_EDITORIAL_REQUIRED = false;
   ai.generateEditorialDraft = async () => null;
 
   try {
@@ -123,11 +131,14 @@ test('quality gate respeita pesos configuraveis', async () => {
     }
   } finally {
     ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
 
 test('composer usa output da IA quando draft valido', async () => {
   const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
+  config.AI_EDITORIAL_REQUIRED = false;
   ai.generateEditorialDraft = async () => ({
     summary_bullets: ['Mudanca em LLM reduz latencia para inferencia.', 'Fornecedor anunciou novo limite de contexto.', 'Times podem otimizar custo por requisicao.'],
     why_matters: 'A atualizacao muda a relacao custo-performance para apps de IA em producao e exige revisao de arquitetura no backlog tecnico.',
@@ -156,5 +167,29 @@ test('composer usa output da IA quando draft valido', async () => {
     assert.equal(result.ai_metadata.model_used, 'qwen/qwen-2.5-72b-instruct:free');
   } finally {
     ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    config.AI_EDITORIAL_REQUIRED = originalAIRequired;
+  }
+});
+
+test('composer bloqueia publicacao quando IA e obrigatoria e draft falha', async () => {
+  const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
+  config.AI_EDITORIAL_REQUIRED = true;
+  ai.generateEditorialDraft = async () => null;
+
+  try {
+    const result = await editorial.compose({
+      title: 'Teste de bloqueio por IA obrigatoria',
+      raw_content: '<p>Conteudo de teste.</p>',
+      source: 'Fonte Teste',
+      original_url: 'https://example.com/noticia',
+      date: '2026-02-13T10:00:00.000Z'
+    });
+
+    assert.equal(result.blocked, true);
+    assert.equal(result.block_reason, 'ai_generation_failed');
+  } finally {
+    ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
