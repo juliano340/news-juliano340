@@ -244,6 +244,18 @@ class NewsWorker {
 
         for (const post of posts) {
           try {
+            if (this.isDuplicate(post)) {
+              logger.skip('Existe: ' + post.title);
+              pulados += 1;
+              continue;
+            }
+
+            if (this.isTooOld(post)) {
+              logger.skip('Antigo: ' + post.title);
+              pulados += 1;
+              continue;
+            }
+
             const policyResult = await this.applyEditorialPolicy(post);
 
             if (!policyResult.accepted) {
