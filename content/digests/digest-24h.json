@@ -1,25 +1,61 @@
 {
-  "generated_at": "2026-02-14T09:00:39.117Z",
+  "generated_at": "2026-02-14T11:01:51.291Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 6,
   "posts": [
     {
-      "title": "Roubo de celular: como evitar golpes e proteger sua vida digital",
-      "slug": "roubo-de-celular-como-evitar-golpes-e-proteger-sua-vida-digital",
-      "topic": "produtividade-dev",
+      "title": "O que é ECC RAM e quando é necessária?",
+      "slug": "o-que-e-ecc-ram-e-quando-e-necessaria",
+      "topic": "infra-ia",
       "source": "Canaltech",
-      "date": "2026-02-14T09:00:00.000Z",
+      "date": "2026-02-14T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/roubo-de-celular-como-evitar-golpes-e-proteger-sua-vida-digital-6353/"
+      "original_url": "https://canaltech.com.br/hardware/o-que-e-ecc-ram-e-quando-e-necessaria/"
     },
     {
-      "title": "Como o Gemini vai controlar apps no seu celular? Veja o futuro da IA do Google",
-      "slug": "como-o-gemini-vai-controlar-apps-no-seu-celular-veja-o-futuro-da-ia-do-google",
+      "title": "Por que a tarifa dinâmica de apps de transporte mudou de foco e irrita usuários?",
+      "slug": "por-que-a-tarifa-dinamica-de-apps-de-transporte-mudou-de-foco-e-irrita-usuarios",
       "topic": "llms",
       "source": "Canaltech",
+      "date": "2026-02-14T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/por-que-a-tarifa-dinamica-de-apps-de-transporte-mudou-de-foco-e-irrita-usuarios/"
+    },
+    {
+      "title": "É preciso assistir Irmandade para entender Salve Geral? Entenda o filme da Netflix",
+      "slug": "e-preciso-assistir-irmandade-para-entender-salve-geral-entenda-o-filme-da-netflix",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-14T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603113-e-preciso-assistir-irmandade-para-entender-salve-geral-entenda-o-filme-da-netflix.htm"
+    },
+    {
+      "title": "Palpites para Bragantino x Novorizontino: Análises e Onde Assistir (15/02/2026)",
+      "slug": "palpites-para-bragantino-x-novorizontino-analises-e-onde-assistir-15022026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-14T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/apostas/410703-palpites-para-bragantino-x-novorizontino-analises-e-onde-assistir-15022026.htm"
+    },
+    {
+      "title": "Como Criar Aposta na Superbet e Personalizar seu Bilhete",
+      "slug": "como-criar-aposta-na-superbet-e-personalizar-seu-bilhete",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-14T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/apostas/410642-como-criar-aposta-na-superbet-e-personalizar-seu-bilhete.htm"
+    },
+    {
+      "title": "10 notícias mais importantes da semana (09/02 a 13/02)",
+      "slug": "10-noticias-mais-importantes-da-semana-0902-a-1302",
+      "topic": "llms",
+      "source": "Tecmundo",
       "date": "2026-02-14T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-o-gemini-vai-controlar-apps-no-seu-celular-veja-o-futuro-da-ia-do-google/"
+      "original_url": "https://www.tecmundo.com.br/mercado/410750-10-noticias-mais-importantes-da-semana-0902-a-1302.htm"
     }
   ]
 }
