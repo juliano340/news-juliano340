@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-02-13T22:54:11.084Z",
+  "generated_at": "2026-02-14T01:00:52.554Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 3,
   "posts": [
     {
-      "title": "4 filmes de terror do Oscar 2026 disponíveis no streaming nesta sexta-feira 13",
-      "slug": "4-filmes-de-terror-do-oscar-2026-disponiveis-no-streaming-nesta-sexta-feira-13",
+      "title": "Battlefield 6: Temporada 2 ganha trailer com volta de helicóptero clássico",
+      "slug": "battlefield-6-temporada-2-ganha-trailer-com-volta-de-helicoptero-classico",
       "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-13T22:45:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-13T23:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603114-4-filmes-de-terror-do-oscar-2026-disponiveis-no-streaming-nesta-sexta-feira-13.htm"
+      "original_url": "https://canaltech.com.br/games/battlefield-6-temporada-2-ganha-trailer-com-volta-de-helicoptero-classico/"
+    },
+    {
+      "title": "Navios da Marinha dos EUA colidem durante reabastecimento no Caribe",
+      "slug": "navios-da-marinha-dos-eua-colidem-durante-reabastecimento-no-caribe",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-14T00:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/410752-navios-da-marinha-dos-eua-colidem-durante-reabastecimento-no-caribe.htm"
+    },
+    {
+      "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (13)",
+      "slug": "steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13",
+      "topic": "frameworks",
+      "source": "Tecmundo",
+      "date": "2026-02-13T23:10:44.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503524-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13.htm"
     }
   ]
 }
