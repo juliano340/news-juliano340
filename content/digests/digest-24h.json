@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-02-14T01:00:52.554Z",
+  "generated_at": "2026-02-14T09:00:39.117Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 2,
   "posts": [
     {
-      "title": "Battlefield 6: Temporada 2 ganha trailer com volta de helicóptero clássico",
-      "slug": "battlefield-6-temporada-2-ganha-trailer-com-volta-de-helicoptero-classico",
+      "title": "Roubo de celular: como evitar golpes e proteger sua vida digital",
+      "slug": "roubo-de-celular-como-evitar-golpes-e-proteger-sua-vida-digital",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-13T23:30:00.000Z",
+      "date": "2026-02-14T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/battlefield-6-temporada-2-ganha-trailer-com-volta-de-helicoptero-classico/"
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/roubo-de-celular-como-evitar-golpes-e-proteger-sua-vida-digital-6353/"
     },
     {
-      "title": "Navios da Marinha dos EUA colidem durante reabastecimento no Caribe",
-      "slug": "navios-da-marinha-dos-eua-colidem-durante-reabastecimento-no-caribe",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-14T00:00:00.000Z",
+      "title": "Como o Gemini vai controlar apps no seu celular? Veja o futuro da IA do Google",
+      "slug": "como-o-gemini-vai-controlar-apps-no-seu-celular-veja-o-futuro-da-ia-do-google",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-14T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410752-navios-da-marinha-dos-eua-colidem-durante-reabastecimento-no-caribe.htm"
-    },
-    {
-      "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (13)",
-      "slug": "steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13",
-      "topic": "frameworks",
-      "source": "Tecmundo",
-      "date": "2026-02-13T23:10:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503524-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13.htm"
+      "original_url": "https://canaltech.com.br/apps/como-o-gemini-vai-controlar-apps-no-seu-celular-veja-o-futuro-da-ia-do-google/"
     }
   ]
 }
