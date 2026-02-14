@@ -1,10 +1,10 @@
 # Weekly IA para Devs - 2026-02-14
 
-Gerado em 2026-02-14T17:02:36.978Z
+Gerado em 2026-02-14T19:02:21.626Z
 
-- [Mini ar-condicionado portátil funciona mesmo? Veja 5 modelos por menos de R$ 200](https://canaltech.com.br/eletro/mini-ar-condicionado-portatil-funciona-mesmo-veja-5-modelos-por-menos-de-r-200/) | topico: seguranca-ia | score: 100
-- [Mini compressor de ar: 5 opções por até R$ 100 para não ficar com pneu murcho](https://canaltech.com.br/produtos/mini-compressor-de-ar-5-opcoes-por-ate-r-100-para-nao-ficar-com-pneu-murcho/) | topico: agentes | score: 100
-- [Zelda: Tears of the Kingdom, Animal Crossing e mais jogos de Nintendo em promoção na Amazon](https://www.tecmundo.com.br/voxel/503519-zelda-tears-of-the-kingdom-animal-crossing-e-mais-jogos-de-nintendo-em-promocao-na-amazon.htm) | topico: frameworks | score: 100
-- [Jogo do Galo: Conheça Project Windless, novo RPG de ação com trailer de gameplay](https://www.tecmundo.com.br/voxel/503514-jogo-do-galo-conheca-project-windless-novo-rpg-de-acao-com-trailer-de-gameplay.htm) | topico: produtividade-dev | score: 100
-- [Fone Bluetooth Galaxy Buds 3 Pro pelo menor preço com cupom; aproveite](https://www.tecmundo.com.br/guia-de-compras/410718-fone-bluetooth-galaxy-buds-3-pro-pelo-menor-preco-com-cupom-aproveite.htm) | topico: produtividade-dev | score: 100
-- [Por onde anda Hikaru Kurosaki, o ator de Jaspion?](https://www.tecmundo.com.br/minha-serie/603099-por-onde-anda-hikaru-kurosaki-o-ator-de-jaspion.htm) | topico: produtividade-dev | score: 100
+- [Investigação da BBC revela rede de homens que gravam mulheres em saídas à noite ao redor do mundo e vendem vídeos na internet](https://g1.globo.com/tecnologia/noticia/2026/02/14/investigacao-da-bbc-revela-rede-de-homens-que-gravam-mulheres-em-saidas-a-noite-ao-redor-do-mundo-e-vendem-videos-na-internet.ghtml) | topico: agentes | score: 100
+- [Stutter na emulação de PS2: veja como acabar com as travadas no PC e celular](https://canaltech.com.br/games/stutter-na-emulacao-de-ps2-veja-como-acabar-com-as-travadas-no-pc-e-celular/) | topico: agentes | score: 100
+- [Qual é o melhor modelo de IA? 3 dicas para te ajudar a escolher](https://canaltech.com.br/apps/qual-e-o-melhor-modelo-de-ia-3-dicas-para-te-ajudar-a-escolher/) | topico: llms | score: 100
+- [Tudo sobre Leonardo DiCaprio: de ator infantil à estrela de Hollywood](https://www.tecmundo.com.br/minha-serie/603104-tudo-sobre-leonardo-dicaprio-de-ator-infantil-a-estrela-de-hollywood.htm) | topico: seguranca-ia | score: 100
+- [Xbox Game Pass recebe jogos de peso esta semana! Confira os lançamentos (14)](https://www.tecmundo.com.br/voxel/503492-xbox-game-pass-recebe-jogos-de-peso-esta-semana-confira-os-lancamentos-14.htm) | topico: produtividade-dev | score: 100
+- [Carnaval Otaku: 5 animes curtos para maratonar online no feriadão](https://www.tecmundo.com.br/minha-serie/603102-carnaval-otaku-5-animes-curtos-para-maratonar-online-no-feriadao.htm) | topico: produtividade-dev | score: 100
