@@ -1,88 +1,79 @@
 {
-  "generated_at": "2026-02-14T13:03:41.853Z",
+  "generated_at": "2026-02-14T15:03:21.421Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 8,
   "posts": [
     {
-      "title": "Empresa dona do TikTok atualiza chatbot mais popular da China com modelo Doubao 2.0",
-      "slug": "empresa-dona-do-tiktok-atualiza-chatbot-mais-popular-da-china-com-modelo-doubao-20",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-14T10:57:45.000Z",
+      "title": "6 ótimos jogos para quem ama Tetris",
+      "slug": "6-otimos-jogos-para-quem-ama-tetris",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-02-14T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/14/empresa-dona-do-tiktok-atualiza-chatbot-mais-popular-da-china-com-modelo-doubao-20.ghtml"
+      "original_url": "https://canaltech.com.br/games/otimos-jogos-para-quem-ama-tetris/"
     },
     {
-      "title": "O prompt virou arma: como proteger seus dados dos ataques à IA",
-      "slug": "o-prompt-virou-arma-como-proteger-seus-dados-dos-ataques-a-ia",
+      "title": "Ética em IA: nova carreira liga tecnologia, transparência e segurança",
+      "slug": "etica-em-ia-nova-carreira-liga-tecnologia-transparencia-e-seguranca",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-02-14T13:00:00.000Z",
+      "date": "2026-02-14T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/o-prompt-virou-arma-como-proteger-seus-dados-dos-ataques-a-ia/"
+      "original_url": "https://canaltech.com.br/mercado/etica-em-ia-nova-carreira-liga-tecnologia-transparencia-e-seguranca/"
     },
     {
-      "title": "5 dicas para o ar-condicionado do carro gelar mais rápido",
-      "slug": "5-dicas-para-o-ar-condicionado-do-carro-gelar-mais-rapido",
+      "title": "Como era a tecnologia em 2016? Relembre 6 lançamentos que marcaram época",
+      "slug": "como-era-a-tecnologia-em-2016-relembre-6-lancamentos-que-marcaram-epoca",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-14T12:00:00.000Z",
+      "date": "2026-02-14T13:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/5-dicas-para-o-ar-condicionado-do-carro-gelar-mais-rapido/"
+      "original_url": "https://canaltech.com.br/produtos/como-era-a-tecnologia-em-2016-relembre-6-lancamentos-que-marcaram-epoca/"
     },
     {
-      "title": "6 prompts do Gemini para editar suas fotos do Carnaval",
-      "slug": "6-prompts-do-gemini-para-editar-suas-fotos-do-carnaval",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-14T11:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/6-prompts-do-gemini-para-editar-suas-fotos-do-carnaval/"
-    },
-    {
-      "title": "Como a Oppo leva tecnologia educacional a países da Ásia e África",
-      "slug": "como-a-oppo-leva-tecnologia-educacional-a-paises-da-asia-e-africa",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-14T11:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tablet/como-a-oppo-leva-tecnologia-educacional-a-paises-da-asia-e-africa/"
-    },
-    {
-      "title": "Anthropic passa a valer US$ 380 bilhões após recente rodada de investimentos",
-      "slug": "anthropic-passa-a-valer-usdollar-380-bilhoes-apos-recente-rodada-de-investimentos",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-14T13:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/410744-anthropic-passa-a-valer-us-380-bilhoes-apos-recente-rodada-de-investimentos.htm"
-    },
-    {
-      "title": "Que fim levou a JVC, pioneira dos aparelhos de VHS e inventora da vitrola?",
-      "slug": "que-fim-levou-a-jvc-pioneira-dos-aparelhos-de-vhs-e-inventora-da-vitrola",
+      "title": "Silent Hill Townfall: Veja trailer com gameplay e tudo sobre o jogo em primeira pessoa",
+      "slug": "silent-hill-townfall-veja-trailer-com-gameplay-e-tudo-sobre-o-jogo-em-primeira-pessoa",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-14T12:00:00.000Z",
+      "date": "2026-02-14T14:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410634-que-fim-levou-a-jvc-pioneira-dos-aparelhos-de-vhs-e-inventora-da-vitrola.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503512-silent-hill-townfall-veja-trailer-com-gameplay-e-tudo-sobre-o-jogo-em-primeira-pessoa.htm"
     },
     {
-      "title": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile (14)",
-      "slug": "5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-14",
+      "title": "6 celulares que a Motorola deve lançar no Brasil em 2026",
+      "slug": "6-celulares-que-a-motorola-deve-lancar-no-brasil-em-2026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-14T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410748-6-celulares-que-a-motorola-deve-lancar-no-brasil-em-2026.htm"
+    },
+    {
+      "title": "The Last of Us Part II e mais jogos para PC com até 90% OFF na Steam",
+      "slug": "the-last-of-us-part-ii-e-mais-jogos-para-pc-com-ate-90percent-off-na-steam",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-14T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503530-the-last-of-us-part-ii-e-mais-jogos-para-pc-com-ate-90-off-na-steam.htm"
+    },
+    {
+      "title": "Console portátil R36s em oferta e com entrega rápida na Shopee; aproveite",
+      "slug": "console-portatil-r36s-em-oferta-e-com-entrega-rapida-na-shopee-aproveite",
       "topic": "frameworks",
       "source": "Tecmundo",
-      "date": "2026-02-14T11:15:00.000Z",
+      "date": "2026-02-14T13:46:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503528-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-14.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503526-console-portatil-r36s-em-oferta-e-com-entrega-rapida-na-shopee-aproveite.htm"
     },
     {
-      "title": "Palpites para Palmeiras x Guarani: Análises e Onde Assistir (15/02/2026)",
-      "slug": "palpites-para-palmeiras-x-guarani-analises-e-onde-assistir-15022026",
-      "topic": "seguranca-ia",
+      "title": "Tabela do Oscar 2026: Organize sua maratona com a Planilha interativa do Minha Série",
+      "slug": "tabela-do-oscar-2026-organize-sua-maratona-com-a-planilha-interativa-do-minha-serie",
+      "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-02-14T11:00:00.000Z",
+      "date": "2026-02-14T13:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410704-palpites-para-palmeiras-x-guarani-analises-e-onde-assistir-15022026.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603112-tabela-do-oscar-2026-organize-sua-maratona-com-a-planilha-interativa-do-minha-serie.htm"
     }
   ]
 }

@@ -1,13 +1,12 @@
 # Weekly IA para Devs - 2026-02-14
 
-Gerado em 2026-02-14T13:03:41.853Z
+Gerado em 2026-02-14T15:03:21.421Z
 
-- [Empresa dona do TikTok atualiza chatbot mais popular da China com modelo Doubao 2.0](https://g1.globo.com/tecnologia/noticia/2026/02/14/empresa-dona-do-tiktok-atualiza-chatbot-mais-popular-da-china-com-modelo-doubao-20.ghtml) | topico: llms | score: 100
-- [O prompt virou arma: como proteger seus dados dos ataques à IA](https://canaltech.com.br/inteligencia-artificial/o-prompt-virou-arma-como-proteger-seus-dados-dos-ataques-a-ia/) | topico: llms | score: 100
-- [5 dicas para o ar-condicionado do carro gelar mais rápido](https://canaltech.com.br/carros/5-dicas-para-o-ar-condicionado-do-carro-gelar-mais-rapido/) | topico: produtividade-dev | score: 100
-- [6 prompts do Gemini para editar suas fotos do Carnaval](https://canaltech.com.br/apps/6-prompts-do-gemini-para-editar-suas-fotos-do-carnaval/) | topico: llms | score: 100
-- [Como a Oppo leva tecnologia educacional a países da Ásia e África](https://canaltech.com.br/tablet/como-a-oppo-leva-tecnologia-educacional-a-paises-da-asia-e-africa/) | topico: produtividade-dev | score: 100
-- [Anthropic passa a valer US$ 380 bilhões após recente rodada de investimentos](https://www.tecmundo.com.br/mercado/410744-anthropic-passa-a-valer-us-380-bilhoes-apos-recente-rodada-de-investimentos.htm) | topico: llms | score: 100
-- [Que fim levou a JVC, pioneira dos aparelhos de VHS e inventora da vitrola?](https://www.tecmundo.com.br/produto/410634-que-fim-levou-a-jvc-pioneira-dos-aparelhos-de-vhs-e-inventora-da-vitrola.htm) | topico: produtividade-dev | score: 100
-- [5 jogos grátis para curtir o fim de semana no PC, consoles e mobile (14)](https://www.tecmundo.com.br/voxel/503528-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-14.htm) | topico: frameworks | score: 100
-- [Palpites para Palmeiras x Guarani: Análises e Onde Assistir (15/02/2026)](https://www.tecmundo.com.br/apostas/410704-palpites-para-palmeiras-x-guarani-analises-e-onde-assistir-15022026.htm) | topico: seguranca-ia | score: 100
+- [6 ótimos jogos para quem ama Tetris](https://canaltech.com.br/games/otimos-jogos-para-quem-ama-tetris/) | topico: seguranca-ia | score: 100
+- [Ética em IA: nova carreira liga tecnologia, transparência e segurança](https://canaltech.com.br/mercado/etica-em-ia-nova-carreira-liga-tecnologia-transparencia-e-seguranca/) | topico: llms | score: 100
+- [Como era a tecnologia em 2016? Relembre 6 lançamentos que marcaram época](https://canaltech.com.br/produtos/como-era-a-tecnologia-em-2016-relembre-6-lancamentos-que-marcaram-epoca/) | topico: produtividade-dev | score: 100
+- [Silent Hill Townfall: Veja trailer com gameplay e tudo sobre o jogo em primeira pessoa](https://www.tecmundo.com.br/voxel/503512-silent-hill-townfall-veja-trailer-com-gameplay-e-tudo-sobre-o-jogo-em-primeira-pessoa.htm) | topico: produtividade-dev | score: 100
+- [6 celulares que a Motorola deve lançar no Brasil em 2026](https://www.tecmundo.com.br/produto/410748-6-celulares-que-a-motorola-deve-lancar-no-brasil-em-2026.htm) | topico: produtividade-dev | score: 100
+- [The Last of Us Part II e mais jogos para PC com até 90% OFF na Steam](https://www.tecmundo.com.br/voxel/503530-the-last-of-us-part-ii-e-mais-jogos-para-pc-com-ate-90-off-na-steam.htm) | topico: produtividade-dev | score: 100
+- [Console portátil R36s em oferta e com entrega rápida na Shopee; aproveite](https://www.tecmundo.com.br/voxel/503526-console-portatil-r36s-em-oferta-e-com-entrega-rapida-na-shopee-aproveite.htm) | topico: frameworks | score: 100
+- [Tabela do Oscar 2026: Organize sua maratona com a Planilha interativa do Minha Série](https://www.tecmundo.com.br/minha-serie/603112-tabela-do-oscar-2026-organize-sua-maratona-com-a-planilha-interativa-do-minha-serie.htm) | topico: agentes | score: 100
