@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-02-14T21:01:15.016Z",
+  "generated_at": "2026-02-14T23:01:02.461Z",
   "niche": "ia-para-desenvolvedores",
   "total": 3,
   "posts": [
     {
-      "title": "Você pode ter plugado seu Chromecast na HDMI errada; veja como ter imagem melhor",
-      "slug": "voce-pode-ter-plugado-seu-chromecast-na-hdmi-errada-veja-como-ter-imagem-melhor",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-14T21:00:00.000Z",
+      "title": "Ela não esperava se apaixonar pelo ChatGPT - e ter que dizer adeus",
+      "slug": "ela-nao-esperava-se-apaixonar-pelo-chatgpt-e-ter-que-dizer-adeus",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-14T22:30:48.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/voce-pode-ter-plugado-seu-chromecast-na-hdmi-errada-veja-como-ter-imagem-melhor/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/14/ela-nao-esperava-se-apaixonar-pelo-chatgpt-e-ter-que-dizer-adeus.ghtml"
     },
     {
-      "title": "Quais são os 5 carros chineses mais caros à venda no Brasil?",
-      "slug": "quais-sao-os-5-carros-chineses-mais-caros-a-venda-no-brasil",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-14T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/quais-sao-os-5-carros-chineses-mais-caros-a-venda-no-brasil/"
-    },
-    {
-      "title": "Windows 11 pode receber uma função bloqueada há anos",
-      "slug": "windows-11-pode-receber-uma-funcao-bloqueada-ha-anos",
+      "title": "De eleições nos EUA à guerra na Ucrânia: conheça o grupo hacker APT28",
+      "slug": "de-eleicoes-nos-eua-a-guerra-na-ucrania-conheca-o-grupo-hacker-apt28",
       "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-14T20:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-14T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/410749-windows-11-pode-receber-uma-funcao-bloqueada-ha-anos.htm"
+      "original_url": "https://canaltech.com.br/seguranca/de-eleicoes-nos-eua-a-guerra-na-ucrania-conheca-o-grupo-hacker-apt28/"
+    },
+    {
+      "title": "Jogos mais vendidos da Steam em 2025; confira a lista!",
+      "slug": "jogos-mais-vendidos-da-steam-em-2025-confira-a-lista",
+      "topic": "frameworks",
+      "source": "Tecmundo",
+      "date": "2026-02-14T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503320-jogos-mais-vendidos-da-steam-em-2025-confira-a-lista.htm"
     }
   ]
 }

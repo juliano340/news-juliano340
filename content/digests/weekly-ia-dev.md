@@ -1,7 +1,7 @@
 # Weekly IA para Devs - 2026-02-14
 
-Gerado em 2026-02-14T21:01:15.016Z
+Gerado em 2026-02-14T23:01:02.461Z
 
-- [Você pode ter plugado seu Chromecast na HDMI errada; veja como ter imagem melhor](https://canaltech.com.br/produtos/voce-pode-ter-plugado-seu-chromecast-na-hdmi-errada-veja-como-ter-imagem-melhor/) | topico: produtividade-dev | score: 100
-- [Quais são os 5 carros chineses mais caros à venda no Brasil?](https://canaltech.com.br/carros/quais-sao-os-5-carros-chineses-mais-caros-a-venda-no-brasil/) | topico: produtividade-dev | score: 100
-- [Windows 11 pode receber uma função bloqueada há anos](https://www.tecmundo.com.br/software/410749-windows-11-pode-receber-uma-funcao-bloqueada-ha-anos.htm) | topico: agentes | score: 100
+- [Ela não esperava se apaixonar pelo ChatGPT - e ter que dizer adeus](https://g1.globo.com/tecnologia/noticia/2026/02/14/ela-nao-esperava-se-apaixonar-pelo-chatgpt-e-ter-que-dizer-adeus.ghtml) | topico: llms | score: 100
+- [De eleições nos EUA à guerra na Ucrânia: conheça o grupo hacker APT28](https://canaltech.com.br/seguranca/de-eleicoes-nos-eua-a-guerra-na-ucrania-conheca-o-grupo-hacker-apt28/) | topico: agentes | score: 100
+- [Jogos mais vendidos da Steam em 2025; confira a lista!](https://www.tecmundo.com.br/voxel/503320-jogos-mais-vendidos-da-steam-em-2025-confira-a-lista.htm) | topico: frameworks | score: 100
