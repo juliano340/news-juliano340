@@ -1,61 +1,88 @@
 {
-  "generated_at": "2026-02-14T11:01:51.291Z",
+  "generated_at": "2026-02-14T13:03:41.853Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 9,
   "posts": [
     {
-      "title": "O que é ECC RAM e quando é necessária?",
-      "slug": "o-que-e-ecc-ram-e-quando-e-necessaria",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-02-14T11:00:00.000Z",
+      "title": "Empresa dona do TikTok atualiza chatbot mais popular da China com modelo Doubao 2.0",
+      "slug": "empresa-dona-do-tiktok-atualiza-chatbot-mais-popular-da-china-com-modelo-doubao-20",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-14T10:57:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/o-que-e-ecc-ram-e-quando-e-necessaria/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/14/empresa-dona-do-tiktok-atualiza-chatbot-mais-popular-da-china-com-modelo-doubao-20.ghtml"
     },
     {
-      "title": "Por que a tarifa dinâmica de apps de transporte mudou de foco e irrita usuários?",
-      "slug": "por-que-a-tarifa-dinamica-de-apps-de-transporte-mudou-de-foco-e-irrita-usuarios",
+      "title": "O prompt virou arma: como proteger seus dados dos ataques à IA",
+      "slug": "o-prompt-virou-arma-como-proteger-seus-dados-dos-ataques-a-ia",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-02-14T10:00:00.000Z",
+      "date": "2026-02-14T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/por-que-a-tarifa-dinamica-de-apps-de-transporte-mudou-de-foco-e-irrita-usuarios/"
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/o-prompt-virou-arma-como-proteger-seus-dados-dos-ataques-a-ia/"
     },
     {
-      "title": "É preciso assistir Irmandade para entender Salve Geral? Entenda o filme da Netflix",
-      "slug": "e-preciso-assistir-irmandade-para-entender-salve-geral-entenda-o-filme-da-netflix",
-      "topic": "seguranca-ia",
+      "title": "5 dicas para o ar-condicionado do carro gelar mais rápido",
+      "slug": "5-dicas-para-o-ar-condicionado-do-carro-gelar-mais-rapido",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-14T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/5-dicas-para-o-ar-condicionado-do-carro-gelar-mais-rapido/"
+    },
+    {
+      "title": "6 prompts do Gemini para editar suas fotos do Carnaval",
+      "slug": "6-prompts-do-gemini-para-editar-suas-fotos-do-carnaval",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-14T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/6-prompts-do-gemini-para-editar-suas-fotos-do-carnaval/"
+    },
+    {
+      "title": "Como a Oppo leva tecnologia educacional a países da Ásia e África",
+      "slug": "como-a-oppo-leva-tecnologia-educacional-a-paises-da-asia-e-africa",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-14T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/tablet/como-a-oppo-leva-tecnologia-educacional-a-paises-da-asia-e-africa/"
+    },
+    {
+      "title": "Anthropic passa a valer US$ 380 bilhões após recente rodada de investimentos",
+      "slug": "anthropic-passa-a-valer-usdollar-380-bilhoes-apos-recente-rodada-de-investimentos",
+      "topic": "llms",
       "source": "Tecmundo",
-      "date": "2026-02-14T10:15:00.000Z",
+      "date": "2026-02-14T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603113-e-preciso-assistir-irmandade-para-entender-salve-geral-entenda-o-filme-da-netflix.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/410744-anthropic-passa-a-valer-us-380-bilhoes-apos-recente-rodada-de-investimentos.htm"
     },
     {
-      "title": "Palpites para Bragantino x Novorizontino: Análises e Onde Assistir (15/02/2026)",
-      "slug": "palpites-para-bragantino-x-novorizontino-analises-e-onde-assistir-15022026",
+      "title": "Que fim levou a JVC, pioneira dos aparelhos de VHS e inventora da vitrola?",
+      "slug": "que-fim-levou-a-jvc-pioneira-dos-aparelhos-de-vhs-e-inventora-da-vitrola",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-14T10:00:00.000Z",
+      "date": "2026-02-14T12:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410703-palpites-para-bragantino-x-novorizontino-analises-e-onde-assistir-15022026.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410634-que-fim-levou-a-jvc-pioneira-dos-aparelhos-de-vhs-e-inventora-da-vitrola.htm"
     },
     {
-      "title": "Como Criar Aposta na Superbet e Personalizar seu Bilhete",
-      "slug": "como-criar-aposta-na-superbet-e-personalizar-seu-bilhete",
-      "topic": "agentes",
+      "title": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile (14)",
+      "slug": "5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-14",
+      "topic": "frameworks",
       "source": "Tecmundo",
-      "date": "2026-02-14T10:00:00.000Z",
+      "date": "2026-02-14T11:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410642-como-criar-aposta-na-superbet-e-personalizar-seu-bilhete.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503528-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-14.htm"
     },
     {
-      "title": "10 notícias mais importantes da semana (09/02 a 13/02)",
-      "slug": "10-noticias-mais-importantes-da-semana-0902-a-1302",
-      "topic": "llms",
+      "title": "Palpites para Palmeiras x Guarani: Análises e Onde Assistir (15/02/2026)",
+      "slug": "palpites-para-palmeiras-x-guarani-analises-e-onde-assistir-15022026",
+      "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-02-14T09:00:00.000Z",
+      "date": "2026-02-14T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/410750-10-noticias-mais-importantes-da-semana-0902-a-1302.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/410704-palpites-para-palmeiras-x-guarani-analises-e-onde-assistir-15022026.htm"
     }
   ]
 }
