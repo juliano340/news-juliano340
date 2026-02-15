@@ -1,0 +1,164 @@
+{
+  "slug": "pos-graduacao-em-tecnologia-e-alvo-de-72percent-dos-profissionais-em-2026-entenda",
+  "generated_at": "2026-02-15T23:01:00.895Z",
+  "status": "PASS",
+  "checks": [
+    {
+      "id": "sections",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "secoes_obrigatorias_ausentes"
+    },
+    {
+      "id": "summary_bullets",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "resumo_sem_3_bullets",
+      "bullets": 3,
+      "min": 3
+    },
+    {
+      "id": "watch_bullets",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "observacao_sem_3_a_5_bullets",
+      "bullets": 3
+    },
+    {
+      "id": "faq_count",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "faq_com_menos_de_3_perguntas",
+      "count": 3
+    },
+    {
+      "id": "primary_source",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "fonte_primaria_invalida"
+    },
+    {
+      "id": "min_words",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "conteudo_curto",
+      "words": 534,
+      "min": 220
+    },
+    {
+      "id": "paragraphs",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "estrutura_com_poucos_paragrafos",
+      "paragraphs": 12,
+      "min": 5
+    },
+    {
+      "id": "placeholder_terms",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "placeholder_detectado"
+    },
+    {
+      "id": "vague_phrases",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "frase_generica_sem_justificativa"
+    },
+    {
+      "id": "source_link_in_body",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "fonte_primaria_ausente_no_corpo"
+    },
+    {
+      "id": "internal_links",
+      "status": "PASS",
+      "level": "WARN",
+      "reason": "poucos_links_internos",
+      "links": 3,
+      "min": 3
+    }
+  ],
+  "warnings": [],
+  "errors": [],
+  "score": 100,
+  "metadata": {
+    "status": "PASS",
+    "checks": [
+      {
+        "id": "required_title",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_date",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_original_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_primary_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_content",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_meta_description",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_canonical_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "slug_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "original_url_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "canonical_matches_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "meta_description_length",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "schema_min_fields",
+        "status": "PASS",
+        "level": "BLOCK"
+      }
+    ],
+    "warnings": [],
+    "errors": [],
+    "score": 100
+  }
+}
