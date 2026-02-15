@@ -1,10 +1,11 @@
 # Weekly IA para Devs - 2026-02-15
 
-Gerado em 2026-02-15T15:01:59.183Z
+Gerado em 2026-02-15T17:02:11.174Z
 
-- [6 melhores jogos com mecânicas de pesca](https://canaltech.com.br/games/melhores-jogos-com-pesca/) | topico: produtividade-dev | score: 100
-- [6 truques do Instagram que você precisa conhecer em 2026](https://canaltech.com.br/apps/6-truques-do-instagram-que-voce-precisa-conhecer-em-2026/) | topico: agentes | score: 100
-- [Boombox 4: quanto vale a pena pagar na melhor caixa de som da JBL em 2026?](https://canaltech.com.br/eletro/boombox-4-quanto-vale-a-pena-pagar-na-melhor-caixa-de-som-da-jbl-em-2026/) | topico: produtividade-dev | score: 100
-- [Carnaval 2026: Waze ganha monitoramento ao vivo e nova voz temática](https://www.tecmundo.com.br/software/410667-carnaval-2026-waze-ganha-monitoramento-ao-vivo-e-nova-voz-tematica.htm) | topico: llms | score: 100
-- [Resident Evil 4 baratinho, Alex Kidd de graça e mais! Veja as indicações de games da semana](https://www.tecmundo.com.br/voxel/503532-resident-evil-4-baratinho-alex-kidd-de-graca-e-mais-veja-as-indicacoes-de-games-da-semana.htm) | topico: frameworks | score: 100
-- [Fones Bluetooth e smartwatches QCY em promoção e com cupom no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/410753-fones-bluetooth-e-smartwatches-qcy-em-promocao-e-com-cupom-no-magazine-luiza.htm) | topico: produtividade-dev | score: 100
+- [8 melhores jogos feitos por Todd Howard](https://canaltech.com.br/games/8-melhores-jogos-feitos-por-todd-howard/) | topico: produtividade-dev | score: 100
+- [É verdade que ar-condicionado gasta mais que ventilador? Nós fizemos as contas](https://canaltech.com.br/eletro/e-verdade-que-ar-condicionado-gasta-mais-que-ventilador-nos-fizemos-as-contas/) | topico: produtividade-dev | score: 100
+- [Funkos Pop! de Frieren, Guerreiras do K-Pop, Harry Potter e mais com até 53% OFF](https://www.tecmundo.com.br/minha-serie/603110-funkos-pop-de-frieren-guerreiras-do-k-pop-harry-potter-e-mais-com-ate-53-off.htm) | topico: produtividade-dev | score: 100
+- [‘Eles são reais, mas eu não os vi’, diz Obama sobre a existência de ETs](https://www.tecmundo.com.br/mercado/410754-eles-sao-reais-mas-eu-nao-os-vi-diz-obama-sobre-a-existencia-de-ets.htm) | topico: produtividade-dev | score: 100
+- [6 filmes e séries com Paul Wesley, de Diários de um Vampiro](https://www.tecmundo.com.br/minha-serie/603024-6-filmes-e-series-com-paul-wesley-de-diarios-de-um-vampiro.htm) | topico: agentes | score: 100
+- [Assinatura Udemy com até 20% OFF no primeiro ano e custa menos de R$22 mensais; aproveite](https://www.tecmundo.com.br/guia-de-compras/410724-assinatura-udemy-com-ate-20-off-no-primeiro-ano-e-custa-menos-de-r22-mensais-aproveite.htm) | topico: agentes | score: 100
+- [Pentágono ameaça cortar Anthropic em disputa sobre salvaguardas de IA, diz Axios](https://www.uol.com.br/tilt/noticias/reuters/2026/02/15/pentagono-ameaca-cortar-anthropic-em-disputa-sobre-salvaguardas-de-ia-diz-axios.htm) | topico: llms | score: 100
