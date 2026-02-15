@@ -56,9 +56,9 @@ class EditorialComposer {
       .filter(Boolean);
   }
 
-  toBullet(topicIndex, line, maxLength = 120) {
+  toBullet(_topicIndex, line, maxLength = 120) {
     const clipped = Utils.truncateText(line, maxLength);
-    return `- **Topico ${topicIndex}**: ${clipped}`;
+    return `- ${clipped}`;
   }
 
   buildSummary(sentences, title) {
@@ -116,7 +116,7 @@ class EditorialComposer {
       list.push('Detalhe tecnico em evolucao, acompanhe atualizacoes da fonte primaria.');
     }
 
-    return list.slice(0, 3).map((line, index) => `- **Topico ${index + 1}**: ${Utils.truncateText(line, 140)}`);
+    return list.slice(0, 3).map((line) => `- ${Utils.truncateText(line, 140)}`);
   }
 
   normalizeAIActions(actions) {

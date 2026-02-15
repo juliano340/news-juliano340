@@ -10,6 +10,7 @@ const g1 = require('../sources/g1');
 const tecnoblog = require('../sources/tecnoblog');
 const canaltech = require('../sources/canaltech');
 const tecmundo = require('../sources/tecmundo');
+const uol = require('../sources/uol');
 
 const escapeYaml = (value) =>
   String(value ?? '')
@@ -24,6 +25,7 @@ function enabledSources() {
   if (config.SOURCES.TECNOBLOG.enabled) list.push(tecnoblog);
   if (config.SOURCES.CANALTECH.enabled) list.push(canaltech);
   if (config.SOURCES.TECMUNDO.enabled) list.push(tecmundo);
+  if (config.SOURCES.UOL.enabled) list.push(uol);
   return list;
 }
 

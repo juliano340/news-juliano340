@@ -59,6 +59,7 @@ module.exports = {
     G1: { enabled: true, url: 'https://g1.globo.com/rss/g1/tecnologia/' },
     TECNOBLOG: { enabled: true, url: 'https://tecnoblog.net/feed/' },
     CANALTECH: { enabled: true, url: 'https://canaltech.com.br/rss/' },
-    TECMUNDO: { enabled: true, url: 'https://rss.tecmundo.com.br/feed' }
+    TECMUNDO: { enabled: true, url: 'https://rss.tecmundo.com.br/feed' },
+    UOL: { enabled: true, url: 'https://rss.uol.com.br/feed/tecnologia.xml' }
   }
 };

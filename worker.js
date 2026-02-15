@@ -11,6 +11,7 @@ const g1 = require('./sources/g1');
 const tecnoblog = require('./sources/tecnoblog');
 const canaltech = require('./sources/canaltech');
 const tecmundo = require('./sources/tecmundo');
+const uol = require('./sources/uol');
 
 class NewsWorker {
   constructor() {
@@ -20,6 +21,7 @@ class NewsWorker {
     if (config.SOURCES.TECNOBLOG.enabled) this.sources.push(tecnoblog);
     if (config.SOURCES.CANALTECH.enabled) this.sources.push(canaltech);
     if (config.SOURCES.TECMUNDO.enabled) this.sources.push(tecmundo);
+    if (config.SOURCES.UOL.enabled) this.sources.push(uol);
 
     this.slugs = new Set();
     this.urls = new Set();

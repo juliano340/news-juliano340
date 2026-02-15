@@ -25,7 +25,8 @@ test('composer gera secoes editoriais obrigatorias', async () => {
     const result = await editorial.compose(post);
 
     assert.ok(result.content.includes('## Resumo em 3 bullets'));
-    assert.ok(result.content.includes('- **Topico 1**:'), 'summary should include named topic bullets');
+    assert.ok(result.content.includes('- '), 'summary should include bullets');
+    assert.equal(result.content.includes('**Topico 1**'), false, 'summary should not include numbered topic labels');
     assert.ok(result.content.includes('## Por que isso importa para devs'));
     assert.ok(result.content.includes('## O que muda na pratica'));
     assert.ok(result.content.includes('## Contexto rapido'));
