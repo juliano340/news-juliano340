@@ -1,34 +1,70 @@
 {
-  "generated_at": "2026-02-15T11:01:26.537Z",
+  "generated_at": "2026-02-15T13:02:21.419Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 7,
   "posts": [
     {
-      "title": "O que são os cute 'em up: jogos de nave fofinhos?",
-      "slug": "o-que-sao-os-cute-em-up-jogos-de-nave-fofinhos",
+      "title": "Como TikTok rastreia o que você faz na internet mesmo que não use o aplicativo (e o que fazer para impedir isso)",
+      "slug": "como-tiktok-rastreia-o-que-voce-faz-na-internet-mesmo-que-nao-use-o-aplicativo-e-o-que-fazer-para-impedir-isso",
+      "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-15T11:14:54.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/15/como-tiktok-rastreia-o-que-voce-faz-na-internet-mesmo-que-nao-use-o-aplicativo-e-o-que-fazer-para-impedir-isso.ghtml"
+    },
+    {
+      "title": "Para onde vão os celulares roubados? Saiba como evitar um prejuízo maior",
+      "slug": "para-onde-vao-os-celulares-roubados-saiba-como-evitar-um-prejuizo-maior",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-15T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/para-onde-vao-os-celulares-roubados-saiba-como-evitar-um-prejuizo-maior/"
+    },
+    {
+      "title": "Seu carro não é culpado? Entenda fatores que aumentam o consumo de combustível",
+      "slug": "seu-carro-nao-e-culpado-entenda-fatores-que-aumentam-o-consumo-de-combustivel",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-15T11:00:00.000Z",
+      "date": "2026-02-15T12:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/o-que-sao-os-cute-em-up-jogos-de-nave-fofinhos/"
+      "original_url": "https://canaltech.com.br/carros/seu-carro-nao-e-culpado-entenda-fatores-que-aumentam-o-consumo-de-combustivel/"
     },
     {
-      "title": "Apple deve lançar 8 produtos em 2026; veja o que esperar de cada um",
-      "slug": "apple-deve-lancar-8-produtos-em-2026-veja-o-que-esperar-de-cada-um",
-      "topic": "agentes",
+      "title": "O que é vagueposting? Entenda a tendência das redes sociais",
+      "slug": "o-que-e-vagueposting-entenda-a-tendencia-das-redes-sociais",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-15T10:00:00.000Z",
+      "date": "2026-02-15T11:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/apple-deve-lancar-8-produtos-em-2026-veja-o-que-esperar-de-cada-um/"
+      "original_url": "https://canaltech.com.br/internet/o-que-e-vagueposting-entenda-a-tendencia-das-redes-sociais/"
     },
     {
-      "title": "Plataforma que Mais Paga: Top Bets Pagando Agora",
-      "slug": "plataforma-que-mais-paga-top-bets-pagando-agora",
+      "title": "Epic Games libera jogo grátis no celular! Resgate agora no Android (15)",
+      "slug": "epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-15",
+      "topic": "frameworks",
+      "source": "Tecmundo",
+      "date": "2026-02-15T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503513-epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-15.htm"
+    },
+    {
+      "title": "Alunos da USP ganham desafio internacional com IA que detecta fake news",
+      "slug": "alunos-da-usp-ganham-desafio-internacional-com-ia-que-detecta-fake-news",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-02-15T10:00:00.000Z",
+      "date": "2026-02-15T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410638-plataforma-que-mais-paga-top-bets-pagando-agora.htm"
+      "original_url": "https://www.tecmundo.com.br/software/410742-alunos-da-usp-ganham-desafio-internacional-com-ia-que-detecta-fake-news.htm"
+    },
+    {
+      "title": "Melhores bets no Brasil: ranking atualizado",
+      "slug": "melhores-bets-no-brasil-ranking-atualizado",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-15T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/apostas/410722-melhores-bets-no-brasil-ranking-atualizado.htm"
     }
   ]
 }
