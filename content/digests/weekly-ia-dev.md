@@ -1,11 +1,9 @@
 # Weekly IA para Devs - 2026-02-15
 
-Gerado em 2026-02-15T17:02:11.174Z
+Gerado em 2026-02-15T19:01:46.782Z
 
-- [8 melhores jogos feitos por Todd Howard](https://canaltech.com.br/games/8-melhores-jogos-feitos-por-todd-howard/) | topico: produtividade-dev | score: 100
-- [É verdade que ar-condicionado gasta mais que ventilador? Nós fizemos as contas](https://canaltech.com.br/eletro/e-verdade-que-ar-condicionado-gasta-mais-que-ventilador-nos-fizemos-as-contas/) | topico: produtividade-dev | score: 100
-- [Funkos Pop! de Frieren, Guerreiras do K-Pop, Harry Potter e mais com até 53% OFF](https://www.tecmundo.com.br/minha-serie/603110-funkos-pop-de-frieren-guerreiras-do-k-pop-harry-potter-e-mais-com-ate-53-off.htm) | topico: produtividade-dev | score: 100
-- [‘Eles são reais, mas eu não os vi’, diz Obama sobre a existência de ETs](https://www.tecmundo.com.br/mercado/410754-eles-sao-reais-mas-eu-nao-os-vi-diz-obama-sobre-a-existencia-de-ets.htm) | topico: produtividade-dev | score: 100
-- [6 filmes e séries com Paul Wesley, de Diários de um Vampiro](https://www.tecmundo.com.br/minha-serie/603024-6-filmes-e-series-com-paul-wesley-de-diarios-de-um-vampiro.htm) | topico: agentes | score: 100
-- [Assinatura Udemy com até 20% OFF no primeiro ano e custa menos de R$22 mensais; aproveite](https://www.tecmundo.com.br/guia-de-compras/410724-assinatura-udemy-com-ate-20-off-no-primeiro-ano-e-custa-menos-de-r22-mensais-aproveite.htm) | topico: agentes | score: 100
-- [Pentágono ameaça cortar Anthropic em disputa sobre salvaguardas de IA, diz Axios](https://www.uol.com.br/tilt/noticias/reuters/2026/02/15/pentagono-ameaca-cortar-anthropic-em-disputa-sobre-salvaguardas-de-ia-diz-axios.htm) | topico: llms | score: 100
+- [Como verificar a "Assinatura Digital" de um arquivo?](https://canaltech.com.br/seguranca/como-verificar-a-assinatura-digital-de-um-arquivo/) | topico: seguranca-ia | score: 100
+- [Vale a pena comprar celular Samsung nos EUA? Veja quanto você economiza](https://canaltech.com.br/smartphone/vale-a-pena-comprar-celular-samsung-nos-eua-veja-quanto-voce-economiza/) | topico: produtividade-dev | score: 100
+- [5 jogos curtos no Xbox Game Pass para zerar em menos de 5 horas no feriadão](https://www.tecmundo.com.br/voxel/503485-5-jogos-curtos-no-xbox-game-pass-para-zerar-em-menos-de-5-horas-no-feriadao.htm) | topico: produtividade-dev | score: 100
+- [Hamnet: final explicado do filme de Chloé Zhao indicado ao Oscar](https://www.tecmundo.com.br/minha-serie/603092-hamnet-final-explicado-do-filme-de-chloe-zhao-indicado-ao-oscar.htm) | topico: produtividade-dev | score: 100
+- [Lista completa de códigos e cheats de Skyrim para PC](https://www.tecmundo.com.br/voxel/178050-lista-completa-de-codigos-e-cheats-de-skyrim-para-pc.htm) | topico: agentes | score: 100
