@@ -1,52 +1,25 @@
 {
-  "generated_at": "2026-02-15T04:57:48.311Z",
+  "generated_at": "2026-02-15T09:00:45.982Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 2,
   "posts": [
     {
-      "title": "Escola de cinema com IA treina próxima geração de cineastas de Hollywood",
-      "slug": "escola-de-cinema-com-ia-treina-proxima-geracao-de-cineastas-de-hollywood",
-      "topic": "produtividade-dev",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-14T17:50:18.000Z",
+      "title": "Era do .ai: a internet mudou de 'sobrenome' com a inteligência artificial?",
+      "slug": "era-do-ai-a-internet-mudou-de-sobrenome-com-a-inteligencia-artificial",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-15T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/14/escola-de-cinema-com-ia-treina-proxima-geracao-de-cineastas-de-hollywood.htm"
+      "original_url": "https://canaltech.com.br/internet/era-do-ai-a-internet-mudou-de-sobrenome-com-a-inteligencia-artificial/"
     },
     {
-      "title": "Drones elevam transmissão olímpica a novo patamar",
-      "slug": "drones-elevam-transmissao-olimpica-a-novo-patamar",
+      "title": "Qual é a fase da Lua hoje (15)? Veja calendário lunar de fevereiro de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-15-veja-calendario-lunar-de-fevereiro-de-2026",
       "topic": "produtividade-dev",
       "source": "UOL Tecnologia",
-      "date": "2026-02-14T16:28:10.000Z",
+      "date": "2026-02-15T07:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/14/drones-elevam-transmissao-olimpica-a-novo-patamar.htm"
-    },
-    {
-      "title": "Fabricar chip no Brasil é como enviar foguete a Marte, diz diretor da USP",
-      "slug": "fabricar-chip-no-brasil-e-como-enviar-foguete-a-marte-diz-diretor-da-usp",
-      "topic": "produtividade-dev",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-14T07:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/14/fabricar-chip-no-brasil-e-como-enviar-foguete-a-marte-diz-diretor-da-usp.htm"
-    },
-    {
-      "title": "O que a IA acha do texto de Natalia Beauty feito por IA?",
-      "slug": "o-que-a-ia-acha-do-texto-de-natalia-beauty-feito-por-ia",
-      "topic": "produtividade-dev",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-14T07:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/02/14/o-que-a-ia-acha-do-texto-de-natalia-beauty-feito-por-ia.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (14)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-14-veja-calendario-lunar-de-fevereiro-de-2026",
-      "topic": "produtividade-dev",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-14T07:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/14/qual-e-a-fase-da-lua-hoje-14-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/15/qual-e-a-fase-da-lua-hoje-15-veja-calendario-lunar-de-fevereiro-de-2026.htm"
     }
   ]
 }
