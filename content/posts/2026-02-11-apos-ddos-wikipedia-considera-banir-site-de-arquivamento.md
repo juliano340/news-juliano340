@@ -5,6 +5,69 @@ tags: ["tecnoblog"]
 source: "Tecnoblog"
 original_url: "https://tecnoblog.net/noticias/apos-ddos-wikipedia-considera-banir-site-de-arquivamento/"
 slug: "apos-ddos-wikipedia-considera-banir-site-de-arquivamento"
+seo_title: "Após DDoS, Wikipédia considera banir site de arquivamento"
+meta_description: "Após DDoS, Wikipédia considera banir site de arquivamento. Editores da Wikipédia discutem banimento do Archive.today após ataque DDoS (imagem: reprodução) Resum"
+canonical_url: "https://news.juliano340.com/posts/apos-ddos-wikipedia-considera-banir-site-de-arquivamento"
+og_type: "article"
+published_at: "2026-02-11T17:33:50.000Z"
+modified_at: "2026-02-11T17:33:50.000Z"
+primary_source: "https://tecnoblog.net/noticias/apos-ddos-wikipedia-considera-banir-site-de-arquivamento/"
+schema_type: "NewsArticle"
+schema_headline: "Após DDoS, Wikipédia considera banir site de arquivamento"
+schema_description: "Após DDoS, Wikipédia considera banir site de arquivamento. Editores da Wikipédia discutem banimento do Archive.today após ataque DDoS (imagem: reprodução) Resum"
+schema_date_published: "2026-02-11T17:33:50.000Z"
+schema_date_modified: "2026-02-11T17:33:50.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/apos-ddos-wikipedia-considera-banir-site-de-arquivamento"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/apos-ddos-wikipedia-considera-banir-site-de-arquivamento"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Após DDoS, Wikipédia considera banir site de arquivamento" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-Editores da Wikipédia discutem banimento do Archive.today após ataque DDoS (imagem: reprodução) Resumo O Archive.today foi usado para um ataque DDoS contra o blogueiro Jani Patokallio, manipulando uma página de Captcha para sobrecarregar seu blog. Editores da Wikipédia debatem banir o Archive.today, considerando três opções: remover links, desencorajar novos links ou não fazer nada. O Archive.today já foi banido da Wikipédia em 2013 por segurança, mas foi readmitido em 2016. Editores da Wikipédia discutem o banimento do Archive.today (também conhecido como Archive.is), um dos serviços de arquivamento mais populares da internet. O movimento ocorre após a revelação de que a plataforma foi utilizada para orquestrar um ataque DDoS contra um blogueiro. Segundo o portal Ars Technica, o Archive.today configurou uma página de Captcha – daquelas em que você prova que não é um robô – com um código oculto, que forçava o navegador do usuário a carregar repetidamente o blog de Jani Patokallio em segundo plano. Qual o motivo do ataque? A disputa teria começado quando Patokallio publicou, em 2023, um post tentando descobrir a identidade do mantenedor do Archive.today, que é anônimo. Em trocas de email citadas pela reportagem, o administrador do site de arquivamento admitiu a autoria do ataque e acusou o blogueiro de ser “nazista”. Segundo a reportagem, o avô de Patokallio serviu no exército finlandês durante a Segunda Guerra Mundial contra a invasão da União Soviética. Patokallio afirmou que o objetivo do ataque seria inflar os custos de hospedagem, mas falhou. “Eu tenho um plano de taxa fixa, o que significa que isso me custou exatamente zero dólares”, escreveu o blogueiro. Editores discutem banimento do site Página inicial do Archive.today (imagem: Felipe Faustino/Tecnoblog) A revelação de que o site de arquivamento estaria explorando os visitantes para atacar desafetos pessoais de seu dono gerou um alerta na Wikipédia, e os membros agora debatem três opções para lidar com a situação. Opção A: remover ou ocultar todos os links para o domínio e adicioná-lo à lista de restrições por spam; Opção B: Desencorajar a adição de novos links no serviço, mas manter o acervo histórico já publicado; Opção C: Não fazer nada. A primeira opção puniria o site de arquivamento, mas também deixaria centenas de milhares de afirmações na enciclopédia sem fonte verificável. Isso porque plataformas como o Archive.is são essenciais para combater o link rot, quando sites saem do ar. Atualmente, existem mais de 695 mil links apontando para o serviço em cerca de 400 mil artigos da Wikipédia, segundo o Ars Technica. Mas não seria a primeira vez que o serviço entraria na mira da Wikipédia. Segundo a fundação, em nota, o serviço já foi banido globalmente em 2013, por motivos de segurança e instabilidade, mas os membros voltaram a permiti-lo em 2016. Alguns editores sugerem a migração para alternativas mais seguras, evitando lidar com um apagão de referências no futuro. Outros reforçam que o Archive.today é frequentemente usado para contornar paywalls de jornais, levantando preocupações sobre violação de direitos autorais. Esses sugerem que o ideal seria a Fundação Wikimedia criar um sistema próprio de arquivamento ou licenciar conteúdos de grandes veículos. Após DDoS, Wikipédia considera banir site de arquivamento
+## Resumo em 3 bullets
+- Editores da Wikipédia discutem banimento do Archive.today após ataque DDoS (imagem: reprodução) Resumo O Archive.today foi usado para um ataque DDoS contra o...
+- Editores da Wikipédia debatem banir o Archive.today, considerando três opções: remover links, desencorajar novos links ou não fazer nada.
+- O Archive.today já foi banido da Wikipédia em 2013 por segurança, mas foi readmitido em 2016.
+
+## Contexto
+Editores da Wikipédia discutem banimento do Archive.today após ataque DDoS (imagem: reprodução) Resumo O Archive.today foi usado para um ataque DDoS contra o blogueiro Jani Patokallio, manipulando uma página de Captcha para sobrecarregar seu blog. Editores da Wikipédia debatem banir o Archive.today, considerando três opções: remover links, desencorajar novos links ou não fazer nada. O Archive.today já foi banido da Wikipédia em 2013 por segurança, mas foi readmitido em 2016.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://tecnoblog.net/noticias/apos-ddos-wikipedia-considera-banir-site-de-arquivamento/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnoblog](/tags/tecnoblog)
+- [Outros destaques em #negocios](/tags/negocios)

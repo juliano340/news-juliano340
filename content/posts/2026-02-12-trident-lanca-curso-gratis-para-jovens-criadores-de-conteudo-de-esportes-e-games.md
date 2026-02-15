@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/mercado/trident-lanca-curso-gratis-para-
 image_url: "https://t.ctcdn.com.br/WH-Da2cOVrqKciCf3Mhh-E7IePk=/700x394/smart/i910369.jpeg"
 image: "https://t.ctcdn.com.br/WH-Da2cOVrqKciCf3Mhh-E7IePk=/700x394/smart/i910369.jpeg"
 slug: "trident-lanca-curso-gratis-para-jovens-criadores-de-conteudo-de-esportes-e-games"
+seo_title: "Trident lança curso grátis para jovens criadores de conteúdo d"
+meta_description: "Trident lança curso grátis para jovens criadores de conteúdo de esportes e games. A Trident, em parceria com a edtech SoulCode — especialista em educação e capa"
+canonical_url: "https://news.juliano340.com/posts/trident-lanca-curso-gratis-para-jovens-criadores-de-conteudo-de-esportes-e-games"
+og_type: "article"
+published_at: "2026-02-12T15:17:00.000Z"
+modified_at: "2026-02-12T15:17:00.000Z"
+primary_source: "https://canaltech.com.br/mercado/trident-lanca-curso-gratis-para-jovens-criadores-de-conteudo-de-esportes-e-games/"
+schema_type: "NewsArticle"
+schema_headline: "Trident lança curso grátis para jovens criadores de conteúdo de esportes e games"
+schema_description: "Trident lança curso grátis para jovens criadores de conteúdo de esportes e games. A Trident, em parceria com a edtech SoulCode — especialista em educação e capa"
+schema_date_published: "2026-02-12T15:17:00.000Z"
+schema_date_modified: "2026-02-12T15:17:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/trident-lanca-curso-gratis-para-jovens-criadores-de-conteudo-de-esportes-e-games"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/trident-lanca-curso-gratis-para-jovens-criadores-de-conteudo-de-esportes-e-games"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Trident lança curso grátis para jovens criadores de conteúdo de esportes e games" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/WH-Da2cOVrqKciCf3Mhh-E7IePk=/700x394/smart/i910369.jpeg"></p> <p>A Trident, em parceria com a edtech SoulCode — especialista em educação e capacitação em tecnologia —, anunciou o <strong>Trident Creators Games</strong>. É um curso gratuito e 100% online, com <strong>1.000 vagas para jovens de todo o Brasil</strong> que desejam criar conteúdo sobre esportes e games. As inscrições vão de 4 de fevereiro a 18 de março, e quem completar as 25 horas de formação ganha uma certificação oficial.</p> <ul> <li><a href="https://canaltech.com.br/software/como-usar-o-youtube-creators-para-criar-videos-de-sucesso/">Como usar o Youtube Creators para criar vídeos de sucesso</a></li> <li><a href="https://canaltech.com.br/apps/prompts-do-chatgpt-para-criadores-de-conteudo/">18 prompts do ChatGPT para criadores de conteúdo</a></li> </ul> <p>O curso tem como foco <strong>pessoas de 18 a 24 anos</strong>, mas interessados de até 34 anos também podem se inscrever. A proposta é usar a educação como caminho para gerar oportunidades e <strong>ampliar o acesso à formação criativa e tecnológica</strong>, principalmente para jovens de periferias, torcedores, gamers e fãs da Kings League Brazil.</p> <p>A iniciativa <strong>se conecta ao universo da Kings League Brazil</strong>, campeonato que mistura futebol, cultura digital e creators e tem forte presença nas transmissões online. Ao longo da formação, os alunos podem participar de <strong>desafios inspirados em partidas reais da liga</strong> para construção de portfólio digital.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <p>As <strong>vagas vão ser preenchidas por ordem de inscrição</strong> e o curso terá seis semanas de duração. Além disso, a formação será dividida em três frentes que abordam a criação de conteúdo para plataformas digitais, competências comportamentais e ética digital, e noções de game design com ferramentas no-code e low-code.</p> <p>Além da certificação, até três participantes com melhor desempenho podem ser <strong>contratados para atuar como criadores de conteúdo da Trident</strong> durante a segunda temporada da Kings League, prevista para o segundo semestre de 2026, com despesas pagas pela marca.</p> <figure class="image"><img src="https://t.ctcdn.com.br/ZOJpHfttn0bT50edUsQwm_ROJ54=/1024x0/smart/i1061179.jpeg" alt="Criadora de conteúdo gravando vídeo no celular" caption="true" data-ivi="pig7"> <figcaption>Trident e SoulCode abrem vagas para curso online e gratuito para jovens que querem produzir conteúdo sobre esportes e games. (Imagem: Reprodução/Freepik)</figcaption> </figure> <h2>Como se inscrever no curso da Trident?</h2> <p>As inscrições devem ser feitas <strong>pelo site do programa</strong> (<a href="https://tridentcreatorgames.soulcode.com/">tridentcreatorgames.soulcode.com</a>) entre 4 de fevereiro e 18 de março de 2026, ou até que as 1.000 vagas sejam preenchidas.</p> <p>Como a seleção considera a ordem de cadastro, a recomendação é <strong>garantir a inscrição o quanto antes</strong>. Vale reforçar que o curso é gratuito e não cobra taxa de matrícula ou mensalidade.</p> <p><strong>Confira outros conteúdos do Canaltech:</strong></p> <ul> <li><a href="https://canaltech.com.br/apps/4-apps-para-editar-e-gerar-videos-com-ia-que-voce-precisa-conhecer/">4 apps para editar e gerar vídeos com IA que você precisa conhecer</a></li> <li><a href="https://canaltech.com.br/internet/como-editar-videos-para-o-youtube-formatos-e-apps/">Como editar vídeos para o YouTube | Formatos e Apps </a></li> <li><a href="https://canaltech.com.br/internet/quem-sao-e-quanto-ganham-os-maiores-influenciadores-de-2025/">Quem são e quanto ganham os maiores influenciadores de 2025?</a></li> </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/mercado/trident-lanca-curso-gratis-para-jov...
+## Resumo em 3 bullets
+- A Trident, em parceria com a edtech SoulCode — especialista em educação e capacitação em tecnologia —, anunciou o Trident Creators Games .
+- É um curso gratuito e 100% online, com 1.000 vagas para jovens de todo o Brasil que desejam criar conteúdo sobre esportes e games.
+- As inscrições vão de 4 de fevereiro a 18 de março, e quem completar as 25 horas de formação ganha uma certificação oficial.
+
+## Contexto
+A Trident, em parceria com a edtech SoulCode — especialista em educação e capacitação em tecnologia —, anunciou o Trident Creators Games . É um curso gratuito e 100% online, com 1.000 vagas para jovens de todo o Brasil que desejam criar conteúdo sobre esportes e games. As inscrições vão de 4 de fevereiro a 18 de março, e quem completar as 25 horas de formação ganha uma certificação oficial.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/mercado/trident-lanca-curso-gratis-para-jovens-criadores-de-conteudo-de-esportes-e-games/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

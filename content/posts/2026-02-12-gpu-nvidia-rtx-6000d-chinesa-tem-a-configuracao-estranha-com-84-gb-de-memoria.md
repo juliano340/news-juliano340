@@ -7,9 +7,69 @@ original_url: "https://canaltech.com.br/hardware/gpu-nvidia-rtx-6000d-chinesa-te
 image_url: "https://t.ctcdn.com.br/cBWQZa7BXbGRMCRwJsdte6OyNRs=/700x394/smart/i1102097.png"
 image: "https://t.ctcdn.com.br/cBWQZa7BXbGRMCRwJsdte6OyNRs=/700x394/smart/i1102097.png"
 slug: "gpu-nvidia-rtx-6000d-chinesa-tem-a-configuracao-estranha-com-84-gb-de-memoria"
+seo_title: "GPU NVIDIA RTX 6000D chinesa tem a configuração estranha com 8"
+meta_description: "GPU NVIDIA RTX 6000D chinesa tem a configuração estranha com 84 GB de memória. As placas de vídeo de alto desempenho da NVIDIA, geralmente voltadas para uso pro"
+canonical_url: "https://news.juliano340.com/posts/gpu-nvidia-rtx-6000d-chinesa-tem-a-configuracao-estranha-com-84-gb-de-memoria"
+og_type: "article"
+published_at: "2026-02-12T20:30:00.000Z"
+modified_at: "2026-02-12T20:30:00.000Z"
+primary_source: "https://canaltech.com.br/hardware/gpu-nvidia-rtx-6000d-chinesa-tem-a-configuracao-estranha-com-84-gb-de-memoria/"
+schema_type: "NewsArticle"
+schema_headline: "GPU NVIDIA RTX 6000D chinesa tem a configuração estranha com 84 GB de memória"
+schema_description: "GPU NVIDIA RTX 6000D chinesa tem a configuração estranha com 84 GB de memória. As placas de vídeo de alto desempenho da NVIDIA, geralmente voltadas para uso pro"
+schema_date_published: "2026-02-12T20:30:00.000Z"
+schema_date_modified: "2026-02-12T20:30:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/gpu-nvidia-rtx-6000d-chinesa-tem-a-configuracao-estranha-com-84-gb-de-memoria"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/gpu-nvidia-rtx-6000d-chinesa-tem-a-configuracao-estranha-com-84-gb-de-memoria"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "GPU NVIDIA RTX 6000D chinesa tem a configuração estranha com 84 GB de memória" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>As placas de vídeo de alto desempenho da NVIDIA, geralmente voltadas para uso profissional e IA, chegam capadas no mercado chinês por imposições do governo dos EUA <a href="https://canaltech.com.br/mercado/eua-proibe-exportacao-de-gpus-nvidia-a800-e-h800-para-china-267151/">que não vem de hoje</a>. Por isso, podemos ver modelos com configurações um tanto diferentes, como essa <strong>RTX 6000D com uma configuração de 28 chips de 3 GB GDDR7, totalizando a estranha quantidade de 84 GB.</strong></p>  <ul>  <li>
-<a href="https://canaltech.com.br/hardware/recursos-exclusivos-placas-de-video-nvidia-geforce-rtx/">Recursos exclusivos das placas de vídeo NVIDIA GeForce RTX</a><strong><br></strong>
-</li>  <li><a href="https://canaltech.com.br/notebook/ia-o-verdadeiro-valor-dos-notebooks-com-gpus-nvidia-geforce-rtx-serie-50/">IA: O verdadeiro valor dos Notebooks com GPUs NVIDIA GeForce RTX Série 50</a></li>  </ul>  <p>Um novo vídeo publicado no fórum Bilibili expõe as entranhas da placa e assim conseguimos ver que <strong>dois slots de memória estão vazios</strong>. Por isso, com menos memória, a interface também cai para <strong>448-bit, em vez dos 512-bit do modelo que serve como base, <a href="https://canaltech.com.br/hardware/nvidia-rtx-pro-6000-e-a-gpu-mais-forte-para-games-mas-nao-e-para-todo-mundo/">a RTX PRO 6000, melhor GPU para jogos hoje</a></strong>. De resto, <strong>o layout do PCB em geral é o mesmo,</strong> e assim como o modelo completo, a RTX 6000D tem o mesmo <strong>cooler passivo</strong>, já que, geralmente, essa GPU é equipada com coolers a água customizados em servidores.</p>  <h2>RTX 6000D tem limitações em núcleos e energia</h2>  <p><strong>A versão chinesa tem 19.968 shaders, diferente dos 24.064 da versão completa</strong>. Apesar de esse modelo também oferecer limite energético de 600W, ele <strong>opera a menos de 420W</strong> por conta das limitações impostas pela NVIDIA.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <blockquote>  <p>rtx 6000d 84g have you seen it before?<br><br>- total 28 vram chips and each of them is 3gb<br>- gb202-891-ka-a1<br>- same pcb layout as pro6000<br>- more/bigger output filtering caps at the back than pro6000 has <br>- 600w power limit but it draws only 400w<br><br>bilibili 技数犬… <a href="https://t.co/ShKOgJQkCX">https://t.co/ShKOgJQkCX</a> <a href="https://t.co/hYKJHLFNBj">pic.twitter.com/hYKJHLFNBj</a></p>  — UNIKO's Hardware 🌏 (@unikoshardware) <a href="https://twitter.com/unikoshardware/status/2021513174550458785?ref_src=twsrc%5Etfw">February 11, 2026</a>
-</blockquote>  <p>    </p>  <p>Essas limitações de placas de vídeo por parte da NVIDIA para o território chinês acontecem também na linha GeForce, especialmente as GPUs topo de linha. A RTX 5090, por exemplo, ganhou uma versão alternativa com especificações menores. A RTX 5090D foi tão capada, que <strong>não apresentava ganho expressivo sobre a RTX 4090 completa</strong> (já que ela também tem uma versão para a China).</p>  <p>A China trabalha em seus próprios hardwares, mas em termos de GPUs, ainda está muito longe de chegar no que a NVIDIA, ou até mesmo a <a href="https://canaltech.com.br/empresa/amd/">AMD</a> oferecem. E falando no Time Vermelho, ele também é <a href="https://canaltech.com.br/hardware/ceo-da-amd-cobra-equilibrio-entre-restricao-de-gpus-a-china-e-seguranca-nacional/">um dos afetados pelas políticas dos EUA</a> em relação ao envio de chips para a China. Por isso, a empresa liderada por Lisa Su também oferece modelos capados com as GPUs de alto desempenho.</p>  <p><strong>Veja mais do CTUP:</strong></p>  <ul>  <li><a href="https://canaltech.com.br/hardware/nvidia-diz-ser-a-unica-empresa-imune-a-crise-global-de-memorias/">NVIDIA diz ser a única empresa imune à crise global de memórias</a></li>  <li><a href="https://canaltech.com.br/hardware/nvidia-diz-que-tsmc-precisara-dobrar-producao-de-chips-para-sustentar-ia/">Nvidia diz que TSMC precisará dobrar produção de chips para sustentar IA</a></li>  <li><a href="https://canaltech.com.br/inteligencia-artificial/dassault-e-nvidia-anunciam-parceria-para-criar-fabricas-de-ia-globais/">Dassault Systèmes e NVIDIA anunciam parceria para criar fábricas de IA globais</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/hardware/gpu-nvidia-rtx-6000d-chinesa-tem-a-configuracao-estranha-com-84-gb-de-memoria/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- As placas de vídeo de alto desempenho da NVIDIA, geralmente voltadas para uso profissional e IA, chegam capadas no mercado chinês por imposições do governo d...
+- Por isso, podemos ver modelos com configurações um tanto diferentes, como essa RTX 6000D com uma configuração de 28 chips de 3 GB GDDR7, totalizando a estran...
+- Recursos exclusivos das placas de vídeo NVIDIA GeForce RTX IA: O verdadeiro valor dos Notebooks com GPUs NVIDIA GeForce RTX Série 50 Um novo vídeo publicado...
+
+## Contexto
+As placas de vídeo de alto desempenho da NVIDIA, geralmente voltadas para uso profissional e IA, chegam capadas no mercado chinês por imposições do governo dos EUA que não vem de hoje. Por isso, podemos ver modelos com configurações um tanto diferentes, como essa RTX 6000D com uma configuração de 28 chips de 3 GB GDDR7, totalizando a estranha quantidade de 84 GB. Recursos exclusivos das placas de vídeo NVIDIA GeForce RTX IA: O verdadeiro valor dos Notebooks com GPUs NVIDIA GeForce RTX Série 50 Um novo vídeo publicado no fórum Bilibili expõe as entranhas da placa e assim conseguimos ver que dois slots de memória estão vazios .
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/hardware/gpu-nvidia-rtx-6000d-chinesa-tem-a-configuracao-estranha-com-84-gb-de-memoria/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

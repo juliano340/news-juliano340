@@ -27,10 +27,12 @@ test('composer gera secoes editoriais obrigatorias', async () => {
     assert.ok(result.content.includes('## Resumo em 3 bullets'));
     assert.ok(result.content.includes('- '), 'summary should include bullets');
     assert.equal(result.content.includes('**Topico 1**'), false, 'summary should not include numbered topic labels');
-    assert.ok(result.content.includes('## Por que isso importa para devs'));
+    assert.ok(result.content.includes('## Contexto'));
     assert.ok(result.content.includes('## O que muda na pratica'));
-    assert.ok(result.content.includes('## Contexto rapido'));
-    assert.ok(result.content.includes('## Fonte primaria'));
+    assert.ok(result.content.includes('## Para devs/negocios (checklist)'));
+    assert.ok(result.content.includes('## O que observar nos proximos dias'));
+    assert.ok(result.content.includes('## FAQ'));
+    assert.ok(result.content.includes('## Fonte e transparencia'));
     assert.equal(result.primary_source, 'https://example.com/noticia');
     assert.equal(result.content_kind, 'news-curated');
   } finally {
@@ -62,10 +64,10 @@ test('quality gate aprova conteudo curado completo', async () => {
     const result = quality.evaluate(post, editorialOutput);
 
     assert.equal(result.passed, true);
-    assert.ok(result.score >= result.threshold);
     assert.equal(result.reasons.length, 0);
-    assert.equal(result.checks.length, 5);
-    assert.ok(result.checks.every((check) => check.passed));
+    assert.equal(result.status, 'WARN');
+    assert.ok(result.warnings.includes('poucos_links_internos'));
+    assert.ok(result.checks.every((check) => check.status === 'PASS' || check.id === 'internal_links'));
   } finally {
     ai.generateEditorialDraft = originalGenerateEditorialDraft;
     config.AI_EDITORIAL_REQUIRED = originalAIRequired;
@@ -89,7 +91,7 @@ test('quality gate reprova conteudo sem estrutura editorial', () => {
   assert.equal(result.shouldDiscard, true);
   assert.ok(result.reasons.includes('secoes_obrigatorias_ausentes'));
   assert.ok(result.reasons.includes('fonte_primaria_invalida'));
-  assert.ok(result.checks.some((check) => check.id === 'sections' && check.passed === false));
+  assert.ok(result.checks.some((check) => check.id === 'sections' && check.status === 'FAIL'));
 });
 
 test('quality gate respeita pesos configuraveis', async () => {
@@ -112,23 +114,15 @@ test('quality gate respeita pesos configuraveis', async () => {
       date: '2026-02-13T10:00:00.000Z'
     });
 
-    const oldWeights = { ...config.QUALITY_WEIGHTS };
+    const oldMinWords = config.QUALITY_LIMITS.min_word_count;
     try {
-      config.QUALITY_WEIGHTS.sections = 0;
-      config.QUALITY_WEIGHTS.summary_bullets = 0;
-      config.QUALITY_WEIGHTS.primary_source = 0;
-      config.QUALITY_WEIGHTS.editorial_analysis = 0;
-      config.QUALITY_WEIGHTS.min_length = 0;
+      config.QUALITY_LIMITS.min_word_count = 9999;
 
       const result = quality.evaluate(post, editorialOutput);
-      assert.equal(result.score, 0);
+      assert.equal(result.status, 'BLOCK');
       assert.equal(result.passed, false);
     } finally {
-      config.QUALITY_WEIGHTS.sections = oldWeights.sections;
-      config.QUALITY_WEIGHTS.summary_bullets = oldWeights.summary_bullets;
-      config.QUALITY_WEIGHTS.primary_source = oldWeights.primary_source;
-      config.QUALITY_WEIGHTS.editorial_analysis = oldWeights.editorial_analysis;
-      config.QUALITY_WEIGHTS.min_length = oldWeights.min_length;
+      config.QUALITY_LIMITS.min_word_count = oldMinWords;
     }
   } finally {
     ai.generateEditorialDraft = originalGenerateEditorialDraft;

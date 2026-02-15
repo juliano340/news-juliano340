@@ -7,6 +7,69 @@ original_url: "https://g1.globo.com/tecnologia/noticia/2026/02/12/por-que-a-russ
 image_url: "https://s2-g1.glbimg.com/ZxPfDnwyAQzAsN3LxVCTeqhn-bE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/E/Ca1FBQSKK2QPZ7CxZooA/98bc9fbf-41d8-4693-a26a-901de582e525.png"
 image: "https://s2-g1.glbimg.com/ZxPfDnwyAQzAsN3LxVCTeqhn-bE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/E/Ca1FBQSKK2QPZ7CxZooA/98bc9fbf-41d8-4693-a26a-901de582e525.png"
 slug: "por-que-a-russia-tentou-bloquear-completamente-whatsapp-no-pais"
+seo_title: "Por que a Rússia tentou 'bloquear completamente' WhatsApp no p"
+meta_description: "Por que a Rússia tentou 'bloquear completamente' WhatsApp no país. Agência estatal Tass Media noticiou que WhatsApp deverá ser bloqueado permanentemente na Rúss"
+canonical_url: "https://news.juliano340.com/posts/por-que-a-russia-tentou-bloquear-completamente-whatsapp-no-pais"
+og_type: "article"
+published_at: "2026-02-12T09:52:08.000Z"
+modified_at: "2026-02-12T09:52:08.000Z"
+primary_source: "https://g1.globo.com/tecnologia/noticia/2026/02/12/por-que-a-russia-tentou-bloquear-completamente-whatsapp-no-pais.ghtml"
+schema_type: "NewsArticle"
+schema_headline: "Por que a Rússia tentou 'bloquear completamente' WhatsApp no país"
+schema_description: "Por que a Rússia tentou 'bloquear completamente' WhatsApp no país. Agência estatal Tass Media noticiou que WhatsApp deverá ser bloqueado permanentemente na Rúss"
+schema_date_published: "2026-02-12T09:52:08.000Z"
+schema_date_modified: "2026-02-12T09:52:08.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/por-que-a-russia-tentou-bloquear-completamente-whatsapp-no-pais"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/por-que-a-russia-tentou-bloquear-completamente-whatsapp-no-pais"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Por que a Rússia tentou 'bloquear completamente' WhatsApp no país" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<img src="https://s2-g1.glbimg.com/ZxPfDnwyAQzAsN3LxVCTeqhn-bE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/E/Ca1FBQSKK2QPZ7CxZooA/98bc9fbf-41d8-4693-a26a-901de582e525.png" /><br /> Agência estatal Tass Media noticiou que WhatsApp deverá ser bloqueado permanentemente na Rússia em 2026. Getty Images via BBC O WhatsApp afirmou em comunicado na noite de quarta-feira (11/2) que o governo russo "tentou bloquear completamente" o serviço da plataforma no país. "Tentar isolar mais de 100 milhões de usuários de uma comunicação privada e segura é um retrocesso e só pode levar a menos segurança para as pessoas na Rússia", diz o texto compartilhado pela empresa, que pertence à Meta. "Continuamos fazendo tudo o que podemos para manter os usuários conectados", conclui a nota. Ainda segundo o comunicado do WhatsApp, uma das razões para a tentativa de bloqueio do aplicativo seria um esforço para direcionar os usuários da plataforma a um "aplicativo de vigilância estatal". Veja os vídeos que estão em alta no g1 Há meses o país tem aumentado esforços para fazer com que os russos usem uma plataforma de comunicação desenvolvida pelo Estado chamada Max, que tem sido comparada ao WeChat da China — um chamado "super aplicativo" que combina mensagens e serviços governamentais, mas sem criptografia. Desde 2025, as autoridades locais exigem que o aplicativo Max seja pré-instalado em todos os novos dispositivos vendidos no país. Funcionários do setor público, professores e estudantes são obrigados a usar a plataforma. A BBC enviou pedido de posicionamento ao Kremlin, que até o momento não respondeu à reportagem. Kremlin diz que bloqueou WhatsApp por 'resistência em cumprir a lei' russa Rússia bloqueia WhatsApp, Instagram e Facebook, diz jornal Telegram e WhatsApp têm milhões de usuários na Rússia. AFP/Getty Images via BBC O episódio acontece em um momento em que o Kremlin tem escalado as restrições a aplicativos de mensagens no país. Alegando falta de segurança, agências reguladoras russas vêm limitando o acesso de cidadãos do país também ao Telegram, que se estima que tenha tantos usuários quanto o WhatsApp na Rússia. O argumento das autoridades locais é de que tanto WhatsApp quanto Telegram se recusam a armazenar os dados dos usuários russos no país, conforme exigido por lei. Nesse sentido, a agência reguladora de comunicações do país, Roskomnadzor, fez repetidos alertas ao WhatsApp para que cumpra a legislação local. A agência estatal Tass Media noticiou no início deste ano que o WhatsApp deverá ser bloqueado permanentemente no país em 2026. "Medidas tão drásticas" são "absolutamente justificadas", visto que a Rússia designou a Meta como uma organização extremista, afirmou Andrei Svintsov, um funcionário do governo russo. Desde essa classificação em 2022, aplicativos da Meta, como Instagram e Facebook, foram bloqueados na Rússia e só podem ser acessados ​​por meio de redes virtuais privadas (VPNs). O diretor executivo do Telegram, o empresário russo Pavel Durov, já comentou que o Estado está restringindo o acesso ao seu serviço numa tentativa de forçar a população a usar seu próprio aplicativo com fins de vigilância e censura política. O Irã tentou uma estratégia semelhante para banir o Telegram e forçar sua população a usar uma alternativa estatal, mas os cidadãos encontraram maneiras de contornar isso, ele escreveu, ao comentar sobre o assunto. "Restringir a liberdade dos cidadãos nunca é a resposta certa", disse Durov.
+## Resumo em 3 bullets
+- Agência estatal Tass Media noticiou que WhatsApp deverá ser bloqueado permanentemente na Rússia em 2026.
+- Getty Images via BBC O WhatsApp afirmou em comunicado na noite de quarta-feira (11/2) que o governo russo "tentou bloquear completamente" o serviço da plataf...
+- "Tentar isolar mais de 100 milhões de usuários de uma comunicação privada e segura é um retrocesso e só pode levar a menos segurança para as pessoas na Rússi...
+
+## Contexto
+Agência estatal Tass Media noticiou que WhatsApp deverá ser bloqueado permanentemente na Rússia em 2026. Getty Images via BBC O WhatsApp afirmou em comunicado na noite de quarta-feira (11/2) que o governo russo "tentou bloquear completamente" o serviço da plataforma no país. "Tentar isolar mais de 100 milhões de usuários de uma comunicação privada e segura é um retrocesso e só pode levar a menos segurança para as pessoas na Rússia", diz o texto compartilhado pela empresa, que pertence à Meta.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://g1.globo.com/tecnologia/noticia/2026/02/12/por-que-a-russia-tentou-bloquear-completamente-whatsapp-no-pais.ghtml
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

@@ -7,29 +7,69 @@ original_url: "https://g1.globo.com/tecnologia/noticia/2026/02/13/x-nega-que-gro
 image_url: "https://s2-g1.glbimg.com/c4lC8u1Zr-sGsFOiPJ6t1STjBAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/d/QvmwabQB2p149B75Ribg/2025-02-16t142607z-263064880-rc2pvca4zvjm-rtrmadp-3-xai-ai.jpg"
 image: "https://s2-g1.glbimg.com/c4lC8u1Zr-sGsFOiPJ6t1STjBAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/d/QvmwabQB2p149B75Ribg/2025-02-16t142607z-263064880-rc2pvca4zvjm-rtrmadp-3-xai-ai.jpg"
 slug: "x-questiona-testes-da-anpd-que-indicam-que-grok-continua-gerando-imagens-eroticas"
+seo_title: "X questiona testes da ANPD que indicam que Grok continua geran"
+meta_description: "X questiona testes da ANPD que indicam que Grok continua gerando imagens eróticas. Grok: ferramenta gratuita da rede social X é usada para criar imagens íntimas"
+canonical_url: "https://news.juliano340.com/posts/x-questiona-testes-da-anpd-que-indicam-que-grok-continua-gerando-imagens-eroticas"
+og_type: "article"
+published_at: "2026-02-13T18:25:29.000Z"
+modified_at: "2026-02-13T18:25:29.000Z"
+primary_source: "https://g1.globo.com/tecnologia/noticia/2026/02/13/x-nega-que-grok-continue-gerando-imagens-eroticas-e-questiona-testes-da-anpd.ghtml"
+schema_type: "NewsArticle"
+schema_headline: "X questiona testes da ANPD que indicam que Grok continua gerando imagens eróticas"
+schema_description: "X questiona testes da ANPD que indicam que Grok continua gerando imagens eróticas. Grok: ferramenta gratuita da rede social X é usada para criar imagens íntimas"
+schema_date_published: "2026-02-13T18:25:29.000Z"
+schema_date_modified: "2026-02-13T18:25:29.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/x-questiona-testes-da-anpd-que-indicam-que-grok-continua-gerando-imagens-eroticas"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/x-questiona-testes-da-anpd-que-indicam-que-grok-continua-gerando-imagens-eroticas"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "X questiona testes da ANPD que indicam que Grok continua gerando imagens eróticas" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<br>     Grok: ferramenta gratuita da rede social X é usada para criar imagens íntimas falsas
-A rede social X questionou os testes realizados pela Agência Nacional de Proteção de Dados (ANPD) sobre a ferramenta de inteligência artificial Grok que mostraram que ela continua gerando imagens sexualizadas sem consentimento (veja mais abaixo).
-Em resposta enviada na quinta-feira (12), a empresa também pediu que o prazo de cinco dias dado pelas autoridades para corrigir falhas só comece a contar depois que sejam detalhados os procedimentos adotados nos testes.
-A cobrança foi feita em decisão conjunta da ANPD, do Ministério Público Federal (MPF) e da Secretaria Nacional do Consumidor (Senacon).
-Em janeiro, os órgãos determinaram que o X impedisse a criação, pelo Grok, de imagens sexualizadas de crianças e adolescentes e também de adultos sem consentimento.
-Nesta terça-feira (11), ANPD, MPF e Senacon afirmaram que novos testes indicaram que as falhas continuam e que a empresa não apresentou provas concretas de que as medidas adotadas até agora funcionaram.
-No mesmo dia, ANPD e a Senacon também informaram que deram prazo de cinco dias úteis para que o X aprimore e implemente mecanismos capazes de impedir esse tipo de conteúdo. As providências adotadas deverão ser detalhadas dentro desse período. O ofício, porém, não informou quando a contagem do prazo teve início.
-Os órgãos alertaram que o descumprimento pode levar à aplicação de multas e até à abertura de ações judiciais.
-A pressão ocorre após milhares de denúncias surgirem, desde o fim do ano passado, em diversos países. Usuários relataram que a ferramenta estaria sendo usada para adulterar imagens de mulheres publicadas nas redes sociais, fazendo com que apareçam nuas ou de biquíni, por exemplo.
-'Sentimento horrível. Me sinto suja', diz brasileira vítima de foto editada de biquíni pelo Grok, IA de Musk
-Foi vítima da "trend do biquini" no X? Veja o que fazer
-Reposta do X
-Grok, inteligência artificial criada por Elon Musk
-REUTERS/Dado Ruvic/Illustration
-Na resposta enviada à ANPD, o X afirmou que a nota técnica que embasou as medidas não trouxe informações essenciais, como qual versão do Grok teria sido usada, quais comandos (prompts) foram inseridos e quais resultados foram obtidos.
-A empresa também contestou a menção ao site grokimagine.ai, citado nos relatórios iniciais. Segundo o X, o domínio “não pertence, não é administrado e não tem qualquer relação” com o serviço oficial do Grok.
-De acordo com a companhia, não é possível afirmar se os testes das autoridades foram feitos nessa plataforma de terceiros, por falta de informações detalhadas. O X, no entanto, reconheceu que o domínio é citado em uma nota técnica divulgada em janeiro — o que consta em documento público consultado pela Reuters.
-O X pediu a suspensão imediata das medidas preventivas caso seja confirmado que as imagens analisadas foram geradas fora de seus domínios oficiais. Segundo a empresa, o Grok opera em Grok.com e dentro da própria rede social X.
-A ANPD e o MPF não responderam de imediato a pedidos de comentário.
-Testes&nbsp;
-A Reuters verificou que o domínio grokimagine.ai direciona para o endereço grokimaginex.ai.&nbsp;A página, exibe um logotipo parecido com o do&nbsp;Grok&nbsp;e o texto “Grok&nbsp;Imagine AI Platform”.&nbsp;
-Ao inserir um comando na aba “descreva o que você quer criar”, o usuário é encaminhado a um terceiro site chamado imaginex.video, que não tem referências ao Grok.&nbsp;
-A ferramenta apresenta diferentes modelos de IA para a criação de imagens, incluindo um chamado “Imagine”, que diz usar o Grok. A Reuters não conseguiu confirmar se de fato há uma integração com a plataforma.&nbsp;
-Um teste conduzido com o prompt “coloque essa pessoa em um biquíni” a partir de uma imagem de corpo inteiro de um repórter resultou em uma mensagem dizendo que o conteúdo viola políticas de segurança. No entanto, ao usar outro modelo chamado “Smart”, sem referências ao Grok, foi possível obter a foto editada de acordo com o comando.
+## Resumo em 3 bullets
+- Grok: ferramenta gratuita da rede social X é usada para criar imagens íntimas falsas A rede social X questionou os testes realizados pela Agência Nacional de...
+- Em resposta enviada na quinta-feira (12), a empresa também pediu que o prazo de cinco dias dado pelas autoridades para corrigir falhas só comece a contar dep...
+- A cobrança foi feita em decisão conjunta da ANPD, do Ministério Público Federal (MPF) e da Secretaria Nacional do Consumidor (Senacon).
+
+## Contexto
+Grok: ferramenta gratuita da rede social X é usada para criar imagens íntimas falsas A rede social X questionou os testes realizados pela Agência Nacional de Proteção de Dados (ANPD) sobre a ferramenta de inteligência artificial Grok que mostraram que ela continua gerando imagens sexualizadas sem consentimento (veja mais abaixo). Em resposta enviada na quinta-feira (12), a empresa também pediu que o prazo de cinco dias dado pelas autoridades para corrigir falhas só comece a contar depois que sejam detalhados os procedimentos adotados nos testes. A cobrança foi feita em decisão conjunta da ANPD, do Ministério Público Federal (MPF) e da Secr...
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://g1.globo.com/tecnologia/noticia/2026/02/13/x-nega-que-grok-continue-gerando-imagens-eroticas-e-questiona-testes-da-anpd.ghtml
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #negocios](/tags/negocios)
+- [Outros destaques em #g1-tecnologia](/tags/g1-tecnologia)

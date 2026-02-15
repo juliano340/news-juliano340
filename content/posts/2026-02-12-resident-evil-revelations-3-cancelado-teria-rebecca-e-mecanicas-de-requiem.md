@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/games/resident-evil-revelations-3-cancel
 image_url: "https://t.ctcdn.com.br/EbXTSuQHi2Ap0Zy1uldgi8-FR5M=/700x394/smart/i1101843.png"
 image: "https://t.ctcdn.com.br/EbXTSuQHi2Ap0Zy1uldgi8-FR5M=/700x394/smart/i1101843.png"
 slug: "resident-evil-revelations-3-cancelado-teria-rebecca-e-mecanicas-de-requiem"
+seo_title: "Resident Evil Revelations 3 cancelado teria Rebecca e mecânica"
+meta_description: "Resident Evil Revelations 3 cancelado teria Rebecca e mecânicas de Requiem. Junto da série Outbreak, Resident Evil Revelations é um outro spin off importante pa"
+canonical_url: "https://news.juliano340.com/posts/resident-evil-revelations-3-cancelado-teria-rebecca-e-mecanicas-de-requiem"
+og_type: "article"
+published_at: "2026-02-12T16:20:00.000Z"
+modified_at: "2026-02-12T16:20:00.000Z"
+primary_source: "https://canaltech.com.br/games/resident-evil-revelations-3-cancelado-teria-rebecca-e-mecanicas-de-requiem/"
+schema_type: "NewsArticle"
+schema_headline: "Resident Evil Revelations 3 cancelado teria Rebecca e mecânicas de Requiem"
+schema_description: "Resident Evil Revelations 3 cancelado teria Rebecca e mecânicas de Requiem. Junto da série Outbreak, Resident Evil Revelations é um outro spin off importante pa"
+schema_date_published: "2026-02-12T16:20:00.000Z"
+schema_date_modified: "2026-02-12T16:20:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/resident-evil-revelations-3-cancelado-teria-rebecca-e-mecanicas-de-requiem"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/resident-evil-revelations-3-cancelado-teria-rebecca-e-mecanicas-de-requiem"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Resident Evil Revelations 3 cancelado teria Rebecca e mecânicas de Requiem" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/EbXTSuQHi2Ap0Zy1uldgi8-FR5M=/700x394/smart/i1101843.png"></p> <p>Junto da série Outbreak, <strong>Resident Evil Revelations</strong> é um outro spin-off importante para a franquia da Capcom. Enquanto o primeiro ganhou dois títulos, um seguido do outro ainda no PS2, o segundo teve o jogo mais recente lançado em 2015. Ao que parece, <strong>o estúdio trabalhava em um terceiro há não muito tempo atrás, que seria estrelado por Rebecca Chambers, teria inimigos mais parecidos com humanos e se passaria em uma universidade</strong>.</p> <ul> <li><a href="https://canaltech.com.br/games/resident-evil-saiba-a-ordem-certa-para-jogar-e-assistir/">Resident Evil: saiba a ordem certa para jogar e assistir</a></li> <li><a href="https://canaltech.com.br/games/maratonando-resident-evil-saiba-o-tempo-de-duracao-de-cada-jogo/">Maratonando Resident Evil? Saiba o tempo de duração de cada jogo</a></li> </ul> <p>Se tem alguém que entende de Resident Evil, esse alguém é o leaker Dusk Golem. Em uma série de tuites sobre games da franquia cancelados, ele menciona <strong>Resident Evil Revelations 3</strong>. O jogo estaria sendo desenvolvido em um momento em que a Capcom já trabalhava no remake de RE4, além de RE Requiem e até esboços de RE10, além de equipes sendo formadas para os <a href="https://canaltech.com.br/games/remakes-de-resident-evil-code-veronica-e-zero-sao-os-proximos-re-ate-2028/">remakes de Code Veronica e Zero</a>.</p> <h2>Remake de RE Zero pode ter partes de RE Revelations 3</h2> <p>Dusk Golem afirma que Rebecca teria uma nova atriz e sua <a href="https://canaltech.com.br/games/remake-de-resident-evil-0-comeca-a-captura-de-movimento-com-atores/">captura descartada de RE Revelations 3 pode ser usado no remake de RE Zero</a>, um jogo que o leaker vem defendendo a existência há meses. O game cancelado já até tinha uma demo jogável, intitulada de "Investigation", e teria <strong>mecânicas que foram aplicadas em RE Requiem, como inimigos que deixam armas pelo cenário</strong>.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <p></p> <p>Resident Evil Revelations 3 foi cancelado, <strong>porque "não era muito bom"</strong>. Ele foi desenvolvido pelas mesmas pessoas que trabalharam nos outros dois jogos da série spin-off, que era um estúdio externo. O jogo já usava a RE Engine e seria lançado também para o primeiro <a href="https://canaltech.com.br/produto/nintendo/switch/">Nintendo Switch</a>.</p> <h2>Resident Evil 10 já teria passado por um reboot interno</h2> <p>O leaker reforça que <strong>vários projetos envolvendo a franquia já foram cancelados</strong>. Alguns deles têm pedaços reutilizados e ele exemplifica com o próprio RE Revelations 2, que seria uma DLC de RE6 com a Claire e um modo no estilo Day Z com Barry.</p> <p>O responsável pelo rumor vai além e detalha ainda que a partir da última reunião da Capcom com acionistas em 2022, Requiem entrou em produção total; os remakes de RE Zero e Code Veronica ganharam sinal verde; <strong>RE10 passou por um reboot</strong> e Revelations 3 foi cancelado. A próxima grande reunião deve acontecer <strong>em 2027, quando o remake de RE Code Veronica já estiver disponível</strong>.</p> <blockquote class="twitter-tweet" data-theme="dark" data-dnt="true" align="center"> <p lang="en" dir="ltr">(1/2) Resident Evil Revelations 3, the one with Rebecca, was cancelled simply because it just wasn't very good. It was mostly developed by an external studio (same company who did Rev 1 & 2 I believe), & unfortunately it was just a bad game.<br><br>Instead of rebooting it & trying to <a href="https://t.co/fNC658S3YA">https://t.co/fNC658S3YA</a></p> — AestheticGamer aka Dusk Golem (@AestheticGamer1) <a href="https://twitter.com/AestheticGamer1/status/2021376578828283941?ref_src=twsrc%5Etfw">February 11, 2026...
+## Resumo em 3 bullets
+- Junto da série Outbreak, Resident Evil Revelations é um outro spin-off importante para a franquia da Capcom.
+- Enquanto o primeiro ganhou dois títulos, um seguido do outro ainda no PS2, o segundo teve o jogo mais recente lançado em 2015.
+- Ao que parece, o estúdio trabalhava em um terceiro há não muito tempo atrás, que seria estrelado por Rebecca Chambers, teria inimigos mais parecidos com huma...
+
+## Contexto
+Junto da série Outbreak, Resident Evil Revelations é um outro spin-off importante para a franquia da Capcom. Enquanto o primeiro ganhou dois títulos, um seguido do outro ainda no PS2, o segundo teve o jogo mais recente lançado em 2015. Ao que parece, o estúdio trabalhava em um terceiro há não muito tempo atrás, que seria estrelado por Rebecca Chambers, teria inimigos mais parecidos com humanos e se passaria em uma universidade .
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/games/resident-evil-revelations-3-cancelado-teria-rebecca-e-mecanicas-de-requiem/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #esporte](/tags/esporte)

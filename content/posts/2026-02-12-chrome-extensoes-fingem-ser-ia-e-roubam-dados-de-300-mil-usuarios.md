@@ -7,56 +7,69 @@ original_url: "https://tecnoblog.net/noticias/chrome-extensoes-fingem-ser-ia-e-r
 image_url: "https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-2-1060x596.jpg"
 image: "https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-2-1060x596.jpg"
 slug: "chrome-extensoes-fingem-ser-ia-e-roubam-dados-de-300-mil-usuarios"
+seo_title: "Chrome: extensões fingem ser IA e roubam dados de 300 mil usuá"
+meta_description: "Chrome: extensões fingem ser IA e roubam dados de 300 mil usuários. Mais de 300 mil usuários instalaram extensões maliciosas no Chrome (Imagem: Vitor Pádua/Tecn"
+canonical_url: "https://news.juliano340.com/posts/chrome-extensoes-fingem-ser-ia-e-roubam-dados-de-300-mil-usuarios"
+og_type: "article"
+published_at: "2026-02-12T21:59:08.000Z"
+modified_at: "2026-02-12T21:59:08.000Z"
+primary_source: "https://tecnoblog.net/noticias/chrome-extensoes-fingem-ser-ia-e-roubam-dados-de-300-mil-usuarios/"
+schema_type: "NewsArticle"
+schema_headline: "Chrome: extensões fingem ser IA e roubam dados de 300 mil usuários"
+schema_description: "Chrome: extensões fingem ser IA e roubam dados de 300 mil usuários. Mais de 300 mil usuários instalaram extensões maliciosas no Chrome (Imagem: Vitor Pádua/Tecn"
+schema_date_published: "2026-02-12T21:59:08.000Z"
+schema_date_modified: "2026-02-12T21:59:08.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/chrome-extensoes-fingem-ser-ia-e-roubam-dados-de-300-mil-usuarios"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/chrome-extensoes-fingem-ser-ia-e-roubam-dados-de-300-mil-usuarios"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Chrome: extensões fingem ser IA e roubam dados de 300 mil usuários" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-Mais de 300 mil usuários instalaram extensões maliciosas no Chrome (Imagem: Vitor Pádua/Tecnoblog)
+## Resumo em 3 bullets
+- Mais de 300 mil usuários instalaram extensões maliciosas no Chrome (Imagem: Vitor Pádua/Tecnoblog) Resumo Mais de 300 mil usuários instalaram extensões malic...
+- A operação, batizada de AiFrame, envolve 30 extensões, que compartilham estrutura interna e backend comum, coletando dados de navegação e emails.
+- Especialistas recomendam revisar extensões instaladas e redefinir senhas para evitar comprometimentos.
 
-    Resumo
-    <ul>
-<li>Mais de 300 mil usuários instalaram extensões maliciosas no Chrome, que se disfarçam de ferramentas de IA para roubar dados.</li>
-<li>A operação, batizada de AiFrame, envolve 30 extensões, que compartilham estrutura interna e backend comum, coletando dados de navegação e emails.</li>
-<li>Especialistas recomendam revisar extensões instaladas e redefinir senhas para evitar comprometimentos.</li>
-</ul>
+## Contexto
+Mais de 300 mil usuários instalaram extensões maliciosas no Chrome (Imagem: Vitor Pádua/Tecnoblog) Resumo Mais de 300 mil usuários instalaram extensões maliciosas no Chrome, que se disfarçam de ferramentas de IA para roubar dados. A operação, batizada de AiFrame, envolve 30 extensões, que compartilham estrutura interna e backend comum, coletando dados de navegação e emails. Especialistas recomendam revisar extensões instaladas e redefinir senhas para evitar comprometimentos.
 
-<p>Extensões de navegador que se apresentam como ferramentas de <a href="https://tecnoblog.net/responde/o-que-e-inteligencia-artificial/">inteligência artificial</a> estão sendo usadas para roubar credenciais, conteúdos de email e dados de navegação de usuários. A campanha envolve ao menos 30 extensões maliciosas publicadas na Chrome Web Store, muitas delas disfarçadas como assistentes de IA, tradutores ou barras laterais inspiradas em serviços populares.</p>
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
 
-<p>A descoberta foi feita por pesquisadores da plataforma de segurança LayerX, que identificaram que todos os complementos fazem parte de uma mesma operação, batizada de AiFrame. Mesmo após a remoção de algumas extensões mais populares, outras continuam disponíveis para download e somam dezenas de milhares de instalações ativas.</p>
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
 
-<h2><strong>Como funcionam as extensões disfarçadas de IA?</strong></h2>
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
 
-<p>Segundo a LayerX, todas as extensões analisadas compartilham a mesma estrutura interna, permissões semelhantes e um backend comum, vinculado a um único domínio externo. Apesar de prometerem recursos avançados de IA, nenhuma delas executa processamento local de inteligência artificial.</p>
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
 
-<p>Na prática, essas extensões carregam, em tela cheia, um iframe que simula a funcionalidade prometida. Esse modelo permite que os responsáveis alterem o comportamento do complemento a qualquer momento, sem precisar submeter novas versões à revisão da loja do <a href="https://tecnoblog.net/responde/o-que-e-o-google-conheca-a-historia-e-os-produtos-da-empresa-de-tecnologia/">Google</a>.</p>
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
 
-<p>Em segundo plano, o código passa a extrair o conteúdo das páginas visitadas pelo usuário, inclusive telas sensíveis de autenticação. Para isso, utiliza bibliotecas conhecidas para leitura de texto em páginas web. Em alguns casos, o foco é ainda mais específico: metade das extensões identificadas possui scripts dedicados ao <a href="https://tecnoblog.net/responde/como-colocar-aviso-de-ferias-no-gmail-resposta-automatica/">Gmail</a>.</p>
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
 
-<p>Esses scripts são executados logo no início do carregamento do email e conseguem ler diretamente o conteúdo visível das mensagens. Isso inclui textos completos de conversas e até rascunhos ainda não enviados. Quando funções supostamente ligadas à IA são acionadas, esses dados acabam sendo enviados para servidores externos controlados pelos operadores do esquema.</p>
+## Fonte e transparencia
+- Fonte primaria: https://tecnoblog.net/noticias/chrome-extensoes-fingem-ser-ia-e-roubam-dados-de-300-mil-usuarios/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
 
-<p>Confira os nomes de algumas extensão identificadas pelo site especializado <em><a href="https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/">Bleeping Computer</a></em>, seguidos da identificação na loja do Chrome:</p>
-
-<ol>
-<li><strong>AI Sidebar</strong>&nbsp;(gghdfkafnhfpaooiolhncejnlgglhkhe)</li>
-
-<li><strong>AI Assistant</strong>&nbsp;(nlhpidbjmmffhoogcennoiopekbiglbp)</li>
-
-<li><strong>ChatGPT Translate</strong>&nbsp;(acaeafediijmccnjlokgcdiojiljfpbe)</li>
-
-<li><strong>AI GPT&nbsp;</strong>(kblengdlefjpjkekanpoidgoghdngdgl)</li>
-
-<li><strong>ChatGPT&nbsp;</strong>(llojfncgbabajmdglnkbhmiebiinohek)</li>
-
-<li><strong>AI Sidebar</strong>&nbsp;(djhjckkfgancelbmgcamjimgphaphjdl)</li>
-
-<li><strong>Google Gemini</strong>&nbsp;(fdlagfnfaheppaigholhoojabfaapnhb)</li>
-</ol>
-
-Extensões maliciosas podiam capturar credenciais e conteúdo de e-mails (ilustração: Vitor Pádua/Tecnoblog)
-
-<h2><strong>Quais dados podem ser capturados dos usuários?</strong></h2>
-
-<p>O alcance da coleta vai além de emails. Dependendo das permissões concedidas, algumas extensões ativam recursos de reconhecimento de voz por meio da Web Speech API, gerando transcrições que também são enviadas aos servidores remotos.</p>
-
-<p>A LayerX resume o risco de forma direta: “o texto das mensagens de email e dados contextuais relacionados podem ser enviados para fora do dispositivo, fora do limite de segurança do Gmail, para servidores remotos”.</p>
-
-<p>Especialistas recomendam que usuários revisem extensões instaladas, removam qualquer complemento suspeito e redefinam senhas caso identifiquem sinais de comprometimento. A <em>Bleeping Computer</em> entrou em contato com o Google, mas, até a publicação desta matéria, a empresa ainda não havia se pronunciado.</p>
-<p><a href="https://tecnoblog.net/noticias/chrome-extensoes-fingem-ser-ia-e-roubam-dados-de-300-mil-usuarios/">Chrome: extensões fingem ser IA e roubam dados de 300 mil usuários</a></p>
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #negocios](/tags/negocios)
+- [Outros destaques em #ciencia](/tags/ciencia)

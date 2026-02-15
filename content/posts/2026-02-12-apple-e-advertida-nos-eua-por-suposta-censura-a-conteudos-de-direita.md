@@ -7,6 +7,69 @@ original_url: "https://www.tecmundo.com.br/mercado/410694-apple-e-advertida-nos-
 image_url: "https://tm.ibxk.com.br/2026/02/12/apple_censura_conservadores_13ad247231.png"
 image: "https://tm.ibxk.com.br/2026/02/12/apple_censura_conservadores_13ad247231.png"
 slug: "apple-e-advertida-nos-eua-por-suposta-censura-a-conteudos-de-direita"
+seo_title: "Apple é advertida nos EUA por suposta censura a conteúdos de d"
+meta_description: "Apple é advertida nos EUA por suposta censura a conteúdos de direita. A Comissão Federal de Comércio dos Estados Unidos (FTC) advertiu a Apple por supostamente"
+canonical_url: "https://news.juliano340.com/posts/apple-e-advertida-nos-eua-por-suposta-censura-a-conteudos-de-direita"
+og_type: "article"
+published_at: "2026-02-12T21:30:00.000Z"
+modified_at: "2026-02-12T21:30:00.000Z"
+primary_source: "https://www.tecmundo.com.br/mercado/410694-apple-e-advertida-nos-eua-por-suposta-censura-a-conteudos-de-direita.htm"
+schema_type: "NewsArticle"
+schema_headline: "Apple é advertida nos EUA por suposta censura a conteúdos de direita"
+schema_description: "Apple é advertida nos EUA por suposta censura a conteúdos de direita. A Comissão Federal de Comércio dos Estados Unidos (FTC) advertiu a Apple por supostamente"
+schema_date_published: "2026-02-12T21:30:00.000Z"
+schema_date_modified: "2026-02-12T21:30:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/apple-e-advertida-nos-eua-por-suposta-censura-a-conteudos-de-direita"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/apple-e-advertida-nos-eua-por-suposta-censura-a-conteudos-de-direita"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Apple é advertida nos EUA por suposta censura a conteúdos de direita" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>A Comissão Federal de Comércio dos Estados Unidos (FTC) advertiu a Apple por <strong>supostamente promover notícias de veículos de esquerda</strong>, suprimindo as fontes de direita. A prática estaria acontecendo no aplicativo Apple News.</p><p>O tema foi abordado em uma carta enviada pelo presidente do órgão, Andrew N. Ferguson, ao CEO da Apple, <a href="https://www.tecmundo.com.br/mercado/408593-tim-cook-vai-deixar-cargo-de-ceo-da-apple-em-2026-diz-jornal.htm">Tim Cook</a>, na quarta-feira (11). O documento cita estudos do Media Research Center, com as mesmas alegações, divulgados por Donald Trump esta semana.</p><h2>Possíveis violações à lei da FTC</h2><p>Nomeado para a Comissão pelo ex-presidente Joe Biden e indicado para a presidência por Trump, Ferguson argumenta que a <a href="https://www.tecmundo.com.br/produto/410650-apple-envia-e-mail-exigindo-cpf-de-brasileiros-para-atualizar-cadastro.htm">gigante de Cupertino</a> <strong>excluiu fontes conservadoras do ranking de artigos mais lidos na plataforma</strong>. Ele diz que isso acontece sistematicamente.</p><ul><li>"Esses relatos levantam sérias questões sobre se o Apple News está agindo de acordo com seus termos de serviço e suas declarações aos consumidores", comentou o executivo;</li><li>Apesar de ponderar que a FTC não tem autoridade para exigir a adoção de posições ideológicas ou políticas na escolha dos artigos, ele cita a possibilidade de violação à lei do órgão;</li><li>O texto aponta que isso acontece quando as práticas<strong> </strong>são<strong> inconsistentes com os termos e condições de serviço e contrárias às expectativas razoáveis dos expectadores</strong>;</li><li>A incompatibilidade com a legislação também ocorre ao causar danos que não sejam razoavelmente evitáveis nem compensados aos consumidores e à concorrência, segundo a carta.</li></ul>Segundo a acusação, as notícias de fontes conservadoras estariam sendo escondidas no Apple News. (Imagem: App Store/Reprodução)<p>Baseado nos resultados dos estudos, Ferguson afirma que a Apple optou por não exibir um único artigo de "fonte de notícia americana com <a href="https://www.tecmundo.com.br/software/407780-openai-quer-chatgpt-sem-vies-politico-em-nenhuma-direcao.htm">viés conservador</a>" no serviço, nos últimos meses. Ao mesmo tempo, promovia "centenas de arquivos de publicações liberais", conforme a acusação.</p><p>O app agregador de notícias reúne conteúdos produzidos por diferentes fontes, facilitando acesso aos materiais de jornais, revistas e publicações digitais, organizando-os em um feed.</p><h2>O que a FTC pediu à Apple?</h2><p>Para finalizar, o presidente da FTC solicitou à gigante da tecnologia que realize uma <strong>"revisão abrangente" dos seus termos de serviço</strong>. Dessa forma, a companhia poderia garantir que estejam em conformidade com as políticas da marca.</p><p>Ele também sugeriu a adoção de medidas corretivas se a empresa identificar erros na seleção de notícias. "Eu repudio e condeno qualquer tentativa de censurar conteúdo por razões ideológicas", comentou Ferguson.</p><p>Até o momento, a <strong>Apple não se manifestou</strong> sobre as <a href="https://www.tecmundo.com.br/mercado/405407-riscos-a-liberdade-de-expressao-meta-google-e-especialistas-criticam-decisao-do-stf-de-responsabilizar-redes.htm">acusações de censura</a> às notícias de veículos de direita feitas pela FTC.</p><p>Continue no TecMundo para acompanhar as <a href="https://www.tecmundo.com.br/novidades">últimas novidades</a> sobre o mercado de tecnologia.</p>
+## Resumo em 3 bullets
+- A Comissão Federal de Comércio dos Estados Unidos (FTC) advertiu a Apple por supostamente promover notícias de veículos de esquerda , suprimindo as fontes de...
+- A prática estaria acontecendo no aplicativo Apple News.
+- O tema foi abordado em uma carta enviada pelo presidente do órgão, Andrew N.
+
+## Contexto
+A Comissão Federal de Comércio dos Estados Unidos (FTC) advertiu a Apple por supostamente promover notícias de veículos de esquerda , suprimindo as fontes de direita. A prática estaria acontecendo no aplicativo Apple News. O tema foi abordado em uma carta enviada pelo presidente do órgão, Andrew N.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/mercado/410694-apple-e-advertida-nos-eua-por-suposta-censura-a-conteudos-de-direita.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

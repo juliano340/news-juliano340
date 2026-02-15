@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/games/lancou-demitiu-estudio-de-highguar
 image_url: "https://t.ctcdn.com.br/IagQHWStrB49Fkw5YxEqbzlIh-0=/700x394/smart/i1097217.png"
 image: "https://t.ctcdn.com.br/IagQHWStrB49Fkw5YxEqbzlIh-0=/700x394/smart/i1097217.png"
 slug: "lancou-demitiu-estudio-de-highguard-despede-equipe-2-semanas-apos-o-lancamento"
+seo_title: "Lançou, demitiu: Estúdio de Highguard despede equipe 2 semanas"
+meta_description: "Lançou, demitiu: Estúdio de Highguard despede equipe 2 semanas após o lançamento. A Wildlight Entertainment passou por uma grande rodada de demissões , após ape"
+canonical_url: "https://news.juliano340.com/posts/lancou-demitiu-estudio-de-highguard-despede-equipe-2-semanas-apos-o-lancamento"
+og_type: "article"
+published_at: "2026-02-12T19:35:00.000Z"
+modified_at: "2026-02-12T19:35:00.000Z"
+primary_source: "https://canaltech.com.br/games/lancou-demitiu-estudio-de-highguard-despede-equipe-2-semanas-apos-o-lancamento/"
+schema_type: "NewsArticle"
+schema_headline: "Lançou, demitiu: Estúdio de Highguard despede equipe 2 semanas após o lançamento"
+schema_description: "Lançou, demitiu: Estúdio de Highguard despede equipe 2 semanas após o lançamento. A Wildlight Entertainment passou por uma grande rodada de demissões , após ape"
+schema_date_published: "2026-02-12T19:35:00.000Z"
+schema_date_modified: "2026-02-12T19:35:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/lancou-demitiu-estudio-de-highguard-despede-equipe-2-semanas-apos-o-lancamento"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/lancou-demitiu-estudio-de-highguard-despede-equipe-2-semanas-apos-o-lancamento"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Lançou, demitiu: Estúdio de Highguard despede equipe 2 semanas após o lançamento" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p><strong>A Wildlight Entertainment passou por uma grande rodada de demissões</strong>, após apenas <a href="https://canaltech.com.br/games/preview-highguard-uma-virada-de-jogo-inesperada/">duas semanas do lançamento de Highguard</a>. O estúdio não revelou o número exato de desenvolvedores que ficaram sem emprego na movimentação.</p>  <ul>  <li><a href="https://canaltech.com.br/games/tipos-de-jogos-que-ninguem-aguenta-mais/">5 tipos de jogos que ninguém aguenta mais</a></li>  <li><a href="https://canaltech.com.br/games/lancamentos-jogos-novos-fevereiro-2026/">Resident Evil Requiem, Dragon Quest VII e mais lançamentos de jogos em fevereiro</a></li>  </ul>  <p>De acordo com publicações em plataformas como o LinkedIn, <strong>foram vários cargos impactados</strong>: engenheiros de jogabilidade e de software, designers de UI e muito mais. O designer de níveis, Alex Garner, aponta que “a maioria” das pessoas foi demitida.</p>  <p>Não foi revelada a razão pela qual <a href="https://canaltech.com.br/games/highguard-como-se-formou-o-time-de-vingadores-por-tras-do-novo-raid-shooter/">o “time dos sonhos” da indústria dos jogos se desfez do fim de janeiro ao início do mês de fevereiro</a>. <strong>A especulação gira em torno da impopularidade de Highguard e as constantes críticas que a experiência sofreu ao longo deste período</strong>.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <p>O estúdio não revelou se as demissões vão impactar a sua promessa de trazer o conteúdo de um ano ou não. Recentemente eles disponibilizaram um modo 5v5, um novo personagem jogável e realizaram diversos ajustes na obra para manter o interesse dos jogadores.&nbsp;</p>    A equipe foi de "time dos sonhos" a demissões em uma questão de 2 semanas (Imagem: Divulgação/Wildlight Entertainment)    <h2>A mensagem da Wildlight Entertainment</h2>  <p>Até o momento, o único pronunciamento da Wildlight Entertainment ocorreu nas redes sociais em publicação da última quarta-feira (11).&nbsp;</p>  <p>Na carta, eles afirmam que não foi uma escolha fácil, mas garantem que continuarão a dar suporte a Highguard.</p>  <blockquote>  <p>"Hoje tomamos a decisão incrivelmente difícil de nos despedirmos de vários membros da nossa equipe, mas manteremos um grupo central de desenvolvedores para continuar a inovar e dar suporte ao jogo”, revelou a Wildlight.</p>  </blockquote>  <p>No fim, eles agradecem aos colaboradores que trabalharam no projeto e ao público que continua a acompanhar o multiplayer online.</p>  <blockquote>  <p>“Estamos orgulhosos da equipe, do talento e do produto que criamos juntos. Também somos gratos aos jogadores que deram uma chance ao jogo e àqueles que continuam fazendo parte da nossa comunidade"</p>  </blockquote>  <h2>Highguard virou Lowguard?</h2>  <p>A trajetória de Highguard virou uma grande montanha-russa dentro da indústria dos jogos. O seu anúncio na The Game Awards 2025 foi o ponto de partida que deveria ser glorioso, mas gerou controvérsias por ter ocorrido ao fim do evento — espaço supostamente reservado para grandes revelações.</p>  <p></p>  <p>Seguido por um silêncio descomunal, as críticas ao jogo foram positivas, mas nem isso garantiu o engajamento da comunidade.&nbsp;</p>  <p>Em seu lançamento, <a href="https://canaltech.com.br/games/highguard-registra-quase-100-mil-jogadores-no-steam-mas-e-detonado-no-pc/">atingiu o pico de 97 mil jogadores simultâneos no Steam</a>, mas hoje circula entre 2,5 mil e 5 mil – em queda expressiva, <a href="https://steamdb.info/app/4128260/charts/">de acordo com o SteamDB</a>, plataforma que monitora o desempenho de títulos no PC.</p>  <p>Em janeiro, o chefe da Wildlight Entertainment declarou que “não importaria” se o título tivesse milhares de jogadores ou cem milhões. Porém, isso não era relacionado aos empregos dentro do estúdio.</p>  <p><strong>Leia também no Canaltech:</strong></p>  <ul>  <li><a href="https://canaltech.com.br/games/acabou-a-farra-fortnite-vai-exigir-tpm-20-para-banir-cheaters-de-vez/">Acabou a farra: Fortnite vai exigir TPM 2.0 para banir cheaters de vez</a></li>  <li><a href="https://canaltech.com.br/hardware/mais-caro-que-iphone-17-razer-relanca-seu-1o-mouse-por-preco-absurdo/">Mais caro que iPhone 17: Razer relança seu 1º mouse por preço absurdo</a></li>  <li><a href="https://canaltech.com.br/games/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo/">Overwatch remove loot boxes pagas no Brasil; Lei Felca pode ser o motivo</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/games/lancou-demitiu-estudio-de-highguard-despede-equipe-2-semanas-apos-o-lancamento/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- A Wildlight Entertainment passou por uma grande rodada de demissões , após apenas duas semanas do lançamento de Highguard.
+- O estúdio não revelou o número exato de desenvolvedores que ficaram sem emprego na movimentação.
+- 5 tipos de jogos que ninguém aguenta mais Resident Evil Requiem, Dragon Quest VII e mais lançamentos de jogos em fevereiro De acordo com publicações em plata...
+
+## Contexto
+A Wildlight Entertainment passou por uma grande rodada de demissões , após apenas duas semanas do lançamento de Highguard. O estúdio não revelou o número exato de desenvolvedores que ficaram sem emprego na movimentação. 5 tipos de jogos que ninguém aguenta mais Resident Evil Requiem, Dragon Quest VII e mais lançamentos de jogos em fevereiro De acordo com publicações em plataformas como o LinkedIn, foram vários cargos impactados : engenheiros de jogabilidade e de software, designers de UI e muito mais.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/games/lancou-demitiu-estudio-de-highguard-despede-equipe-2-semanas-apos-o-lancamento/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #esporte](/tags/esporte)

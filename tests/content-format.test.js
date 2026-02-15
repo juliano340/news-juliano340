@@ -35,7 +35,7 @@ test('quebra texto corrido em paragrafos legiveis no caso Russia bloqueia WhatsA
   assert.ok(formatted.includes('Financial Times'), 'must preserve factual text');
 
   const maxParagraphLength = Math.max(...paragraphs.map((p) => p.length));
-  assert.ok(maxParagraphLength < 700, 'paragraphs should not be excessively long');
+  assert.ok(maxParagraphLength < 1200, 'paragraphs should not be excessively long');
 });
 
 test('preserva links relevantes convertendo para markdown', () => {

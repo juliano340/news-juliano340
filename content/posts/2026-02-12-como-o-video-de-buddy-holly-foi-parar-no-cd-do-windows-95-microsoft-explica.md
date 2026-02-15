@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/software/como-o-video-de-buddy-holly-foi
 image_url: "https://t.ctcdn.com.br/iJltaIkZMrqdJOZab8mGahuFsCs=/700x394/smart/i1044501.jpeg"
 image: "https://t.ctcdn.com.br/iJltaIkZMrqdJOZab8mGahuFsCs=/700x394/smart/i1044501.jpeg"
 slug: "como-o-video-de-buddy-holly-foi-parar-no-cd-do-windows-95-microsoft-explica"
+seo_title: "Como o vídeo de Buddy Holly foi parar no CD do Windows 95? Mic"
+meta_description: "Como o vídeo de Buddy Holly foi parar no CD do Windows 95? Microsoft explica. A Microsoft voltou no tempo e explicou como o videoclipe de “Buddy Holly”, da band"
+canonical_url: "https://news.juliano340.com/posts/como-o-video-de-buddy-holly-foi-parar-no-cd-do-windows-95-microsoft-explica"
+og_type: "article"
+published_at: "2026-02-12T20:58:06.000Z"
+modified_at: "2026-02-12T20:58:06.000Z"
+primary_source: "https://canaltech.com.br/software/como-o-video-de-buddy-holly-foi-parar-no-cd-do-windows-95-microsoft-explica/"
+schema_type: "NewsArticle"
+schema_headline: "Como o vídeo de Buddy Holly foi parar no CD do Windows 95? Microsoft explica"
+schema_description: "Como o vídeo de Buddy Holly foi parar no CD do Windows 95? Microsoft explica. A Microsoft voltou no tempo e explicou como o videoclipe de “Buddy Holly”, da band"
+schema_date_published: "2026-02-12T20:58:06.000Z"
+schema_date_modified: "2026-02-12T20:58:06.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/como-o-video-de-buddy-holly-foi-parar-no-cd-do-windows-95-microsoft-explica"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/como-o-video-de-buddy-holly-foi-parar-no-cd-do-windows-95-microsoft-explica"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Como o vídeo de Buddy Holly foi parar no CD do Windows 95? Microsoft explica" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>A Microsoft voltou no tempo e explicou como o videoclipe de “Buddy Holly”, da banda Weezer, <strong>acabou incluído no CD de instalação do Windows 95</strong>. A história foi relembrada no blog The Old New Thing, mantido por Raymond Chen, desenvolvedor que acompanha a evolução do sistema há mais de três décadas.</p>  <ul>  <li><a href="https://canaltech.com.br/apps/nostalgia-microsoft-revive-editor-de-textos-do-ms-dos-lancado-ha-quase-30-anos/">Nostalgia: Microsoft revive editor de textos do MS-DOS lançado há quase 30 anos</a></li>  <li><a href="https://canaltech.com.br/mercado/50-anos-de-microsoft-conheca-8-curiosidades-da-empresa/">50 anos de Microsoft: conheça 8 curiosidades da empresa</a></li>  </ul>  <p>Segundo Chen, a gravação não estava no CD por acaso. A ideia era dar mais conteúdo para o usuário explorar e, ao mesmo tempo, <strong>mostrar as capacidades multimídia do Windows 95.</strong></p>  <p>Nos anos 1990, assistir a um vídeo digital sem travamentos em um PC ainda era novidade, e a Microsoft queria provar que o sistema estava pronto para isso.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <p>Segundo o desenvolvedor, o processo <strong>envolveu negociações complexas de direitos autorais</strong>. A Microsoft precisou garantir separadamente o licenciamento da música e do video. A canção foi negociada com a Geffen Records, que não consultou os integrantes do Weezer. A banda ficou chateada no início, mas depois reconheceu o impacto positivo da exposição.</p>  <p>Já o clipe incluía trechos da série Happy Days, o que tornou a negociação mais complexa. A Microsoft precisou obter autorização para usar as imagens originais do programa e, além disso, garantir o<strong> consentimento individual de cada ator que aparecia nas cenas</strong> incorporadas.</p>    CD de instalação do Windows 95 vinha com o videoclipe da música Buddy Holly da banda Weezer. (Imagem: Divulgação/Microsoft)    <h2>Por que o CD do Windows 95 vinha com videoclipes?</h2>  <p>Em 1995, o <strong>CD-ROM era um avanço em relação aos antigos disquetes</strong>, pois tinha espaço suficiente para armazenar vídeos, músicas e outros arquivos. Com isso, o Windows 95 podia vir com vídeos e recursos multimídia que mostravam, logo de cara, o potencial do sistema operacional.</p>  <p>O clipe de “Buddy Holly” era um exemplo perfeito desse momento. Dirigido por Spike Jonze, ele misturava a banda a cenas clássicas de Happy Days, criando a impressão de que os músicos interagiam com os personagens da série. Ao rodar o vídeo em um computador recém-configurado, o usuário conseguia ver, na prática, <strong>a capacidade gráfica e de reprodução de mídia do Windows 95.</strong></p>  <p>O CD também trazia outros conteúdos, como o clipe de “Good Times”, de Edie Brickell. A estratégia reforçava a ideia de que o <strong>computador estava se tornando mais do que uma ferramenta de trabalho</strong>, ele também podia ser uma plataforma de entretenimento doméstico.</p>  <p><strong>Confira outros conteúdos do Canaltech:</strong></p>  <ul>  <li><a href="https://canaltech.com.br/apps/internet-explorer-foi-a-porta-de-entrada-para-muitos-na-web-relembre/">Internet Explorer foi a porta de entrada para muitos na web; relembre</a></li>  <li><a href="https://canaltech.com.br/software/do-windows-95-ao-windows-11-o-que-mudou-nos-ultimos-30-anos/">Do Windows 95 ao Windows 11: o que mudou nos últimos 30 anos?</a></li>  <li><a href="https://canaltech.com.br/windows/relembre-os-sons-de-inicializacao-do-windows/">Relembre os sons de inicialização do Windows | Todas as versões</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/software/como-o-video-de-buddy-holly-foi-parar-no-cd-do-windows-95-microsoft-explica/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- A Microsoft voltou no tempo e explicou como o videoclipe de “Buddy Holly”, da banda Weezer, acabou incluído no CD de instalação do Windows 95 .
+- A história foi relembrada no blog The Old New Thing, mantido por Raymond Chen, desenvolvedor que acompanha a evolução do sistema há mais de três décadas.
+- Nostalgia: Microsoft revive editor de textos do MS-DOS lançado há quase 30 anos 50 anos de Microsoft: conheça 8 curiosidades da empresa Segundo Chen, a grava...
+
+## Contexto
+A Microsoft voltou no tempo e explicou como o videoclipe de “Buddy Holly”, da banda Weezer, acabou incluído no CD de instalação do Windows 95 . A história foi relembrada no blog The Old New Thing, mantido por Raymond Chen, desenvolvedor que acompanha a evolução do sistema há mais de três décadas. Nostalgia: Microsoft revive editor de textos do MS-DOS lançado há quase 30 anos 50 anos de Microsoft: conheça 8 curiosidades da empresa Segundo Chen, a gravação não estava no CD por acaso.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/software/como-o-video-de-buddy-holly-foi-parar-no-cd-do-windows-95-microsoft-explica/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

@@ -7,6 +7,69 @@ original_url: "https://www.tecmundo.com.br/internet/410726-tiktok-pode-estar-rat
 image_url: "https://tm.ibxk.com.br/2025/10/24/aulao_tiktok_enem_cinema_1_771e32f5f2.jpg"
 image: "https://tm.ibxk.com.br/2025/10/24/aulao_tiktok_enem_cinema_1_771e32f5f2.jpg"
 slug: "tiktok-pode-estar-ratreando-ate-quem-nao-usa-o-app"
+seo_title: "TikTok pode estar ratreando até quem não usa o app"
+meta_description: "TikTok pode estar ratreando até quem não usa o app. Passando por atualizações em seu sistema de coleta de dados, o TikTok estaria rastreando até mesmo as pessoa"
+canonical_url: "https://news.juliano340.com/posts/tiktok-pode-estar-ratreando-ate-quem-nao-usa-o-app"
+og_type: "article"
+published_at: "2026-02-13T18:00:00.000Z"
+modified_at: "2026-02-13T18:00:00.000Z"
+primary_source: "https://www.tecmundo.com.br/internet/410726-tiktok-pode-estar-ratreando-ate-quem-nao-usa-o-app.htm"
+schema_type: "NewsArticle"
+schema_headline: "TikTok pode estar ratreando até quem não usa o app"
+schema_description: "TikTok pode estar ratreando até quem não usa o app. Passando por atualizações em seu sistema de coleta de dados, o TikTok estaria rastreando até mesmo as pessoa"
+schema_date_published: "2026-02-13T18:00:00.000Z"
+schema_date_modified: "2026-02-13T18:00:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/tiktok-pode-estar-ratreando-ate-quem-nao-usa-o-app"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/tiktok-pode-estar-ratreando-ate-quem-nao-usa-o-app"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "TikTok pode estar ratreando até quem não usa o app" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>Passando por atualizações em seu sistema de coleta de dados, o TikTok estaria <strong>rastreando até mesmo as pessoas que nunca utilizaram a plataforma de vídeos curtos</strong>, obtendo informações sensíveis. Detalhes da prática foram revelados pela <i>BBC</i> na última quarta-feira (11) e a rede social rejeitou a acusação.</p><p>Segundo a reportagem, a nova campanha de coleta de dados do app surgiu após a <a href="https://www.tecmundo.com.br/redes-sociais/409439-tiktok-consegue-acordo-e-sera-controlado-por-consorcio-nos-eua.htm">venda da operação nos Estados Unidos</a> para um consórcio liderado pelo bilionário Larry Ellison. Desde então, a empresa implantou atualizações no seu "pixel de rastreamento", ferramenta que monitora comportamentos online.</p><h2>Como o TikTok rastreia quem não usa o app?</h2><p>Os pixels de rastreamento são trechos de código HTML ou imagens invisíveis inseridas em sites que rastreiam os visitantes, com o objetivo de personalizar conteúdos e anúncios. No caso de <a href="https://www.tecmundo.com.br/mercado/410510-tiktok-tem-funcionamento-viciante-e-precisa-mudar-defende-uniao-europeia.htm">app de vídeos curtos</a>, eles teriam sido aprimorados para acumular mais dados do que antes.</p><ul><li>De acordo com a empresa Disconnect, que investigou a nova versão dos pixels do TikTok, tais mecanismos agora são capazes de <strong>interceptar dados enviados pelo Google às páginas</strong> <strong>mesmo sem permissão</strong>;</li><li>Com o update, eles começaram a rastrear as pessoas quando elas fazem compras fora da rede social, deixando apenas de informar aos anunciantes se as suas propagandas surtiam efeito;</li><li>Há relatos de envio de informações sobre diagnóstico de câncer, fertilidade e problemas de saúde mental para o app flagrados durante a investigação;</li><li>Conforme o diretor da Disconnect, Patrick Jackson, o TikTok estaria capturando essas informações silenciosamente, sem que os proprietários das páginas os compartilhem explicitamente.</li></ul>O TikTok teria atualizado seus mecanismos de rastreamento para monitorar mesmo quem nunca usou a plataforma. (Imagem: Roni Bintang/Getty Images)<p>A partir da expansão das capacidades desses pixels, especialistas acreditam que mais anunciantes devem chegar à rede social, de olho em potenciais clientes. Isso representa uma presença ainda maior dos rastreadores em outros sites.</p><p>"Essas ferramentas naturalmente tornam a plataforma mais atraente para os anunciantes, que é, em última análise, como as plataformas de anúncios crescem", comentou Arielle Garcia, porta-voz da Check My Ads, que fiscaliza <a href="https://www.tecmundo.com.br/software/410570-chatgpt-pode-comecar-a-exibir-publicidade-ainda-nesta-segunda-09.htm">publicidade digital</a>.</p><h2>Como impedir o rastreamento feito pelo TikTok?</h2><p>Mudar para um <strong>navegador focado em privacidade</strong> é a principal medida. A publicação sugere trocar o Google Chrome por opções como DuckDuckGo e Brave, <a href="https://www.tecmundo.com.br/seguranca/402502-7-aplicativos-para-manter-sua-navegacao-protegida.htm">projetados para a proteção de dados</a>, ou ainda Safari e Firefox.</p><p>A instalação de <strong>bloqueadores de rastreadores</strong> é outra prática recomendada. O <i>New York Post</i> lembra, ainda, que o TikTok também coleta informações do GPS e, por isso, indica desativar o acesso do app de vídeos aos dados de localização <a href="https://www.tecmundo.com.br/seguranca/404512-como-impedir-que-aplicativos-rastreiem-sua-localizacao-no-celular.htm">nas configurações do sistema</a>.</p><p>O TikTok alegou ser transparente em relação às políticas de coleta de dados e negou o rastreamento. A empresa afirmou, ainda, que os pixels são um padrão da indústria e enfatizou a presença de recursos de privacidade em suas configurações.</p><p>Gostou do conteúdo? Siga no TecMundo e interaja com a gente no <a href="https://www.instagram.com/tecmundo/">Instagram</a>, <a href="https://www.facebook.com/tecmundo/">Facebook</a> e outras redes sociais.</p>
+## Resumo em 3 bullets
+- Passando por atualizações em seu sistema de coleta de dados, o TikTok estaria rastreando até mesmo as pessoas que nunca utilizaram a plataforma de vídeos cur...
+- Detalhes da prática foram revelados pela BBC na última quarta-feira (11) e a rede social rejeitou a acusação.
+- Segundo a reportagem, a nova campanha de coleta de dados do app surgiu após a venda da operação nos Estados Unidos para um consórcio liderado pelo bilionário...
+
+## Contexto
+Passando por atualizações em seu sistema de coleta de dados, o TikTok estaria rastreando até mesmo as pessoas que nunca utilizaram a plataforma de vídeos curtos , obtendo informações sensíveis. Detalhes da prática foram revelados pela BBC na última quarta-feira (11) e a rede social rejeitou a acusação. Segundo a reportagem, a nova campanha de coleta de dados do app surgiu após a venda da operação nos Estados Unidos para um consórcio liderado pelo bilionário Larry Ellison.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/internet/410726-tiktok-pode-estar-ratreando-ate-quem-nao-usa-o-app.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

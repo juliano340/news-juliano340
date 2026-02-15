@@ -5,6 +5,69 @@ tags: ["negocios","tecnoblog"]
 source: "Tecnoblog"
 original_url: "https://tecnoblog.net/noticias/co-ceo-da-smic-diz-que-mercado-de-ram-esta-em-panico/"
 slug: "co-ceo-da-smic-diz-que-mercado-de-ram-esta-em-panico"
+seo_title: "Co-CEO da SMIC diz que mercado de RAM está em “pânico”"
+meta_description: "Co-CEO da SMIC diz que mercado de RAM está em “pânico”. Zhao Haijun é co CEO da SMIC (imagem: reprodução) Resumo O co CEO da SMIC, Zhao Haijun, afirma que a ind"
+canonical_url: "https://news.juliano340.com/posts/co-ceo-da-smic-diz-que-mercado-de-ram-esta-em-panico"
+og_type: "article"
+published_at: "2026-02-11T17:34:08.000Z"
+modified_at: "2026-02-11T17:34:08.000Z"
+primary_source: "https://tecnoblog.net/noticias/co-ceo-da-smic-diz-que-mercado-de-ram-esta-em-panico/"
+schema_type: "NewsArticle"
+schema_headline: "Co-CEO da SMIC diz que mercado de RAM está em “pânico”"
+schema_description: "Co-CEO da SMIC diz que mercado de RAM está em “pânico”. Zhao Haijun é co CEO da SMIC (imagem: reprodução) Resumo O co CEO da SMIC, Zhao Haijun, afirma que a ind"
+schema_date_published: "2026-02-11T17:34:08.000Z"
+schema_date_modified: "2026-02-11T17:34:08.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/co-ceo-da-smic-diz-que-mercado-de-ram-esta-em-panico"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/co-ceo-da-smic-diz-que-mercado-de-ram-esta-em-panico"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Co-CEO da SMIC diz que mercado de RAM está em “pânico”" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-Zhao Haijun é co-CEO da SMIC (imagem: reprodução) Resumo O co-CEO da SMIC, Zhao Haijun, afirma que a indústria de semicondutores está em pânico devido à escassez de chips de memória. Os preços de memória RAM subiram até 90% no início de 2026, segundo a Counterpoint Research. A demanda por IA está canibalizando a oferta de componentes, afetando dispositivos como smartphones, enquanto a produção de DRAM para servidores não acompanha a demanda. A indústria global de semicondutores entrou oficialmente em modo de crise. O co-CEO da Semiconductor Manufacturing International Corp. (SMIC), Zhao Haijun, afirma que o setor vive um estado de “pânico” provocado pela escassez severa de chips de memória. Durante a última conferência de resultados, realizada em Hong Kong, o executivo explicou que a voracidade do setor de inteligência artificial por hardware está canibalizando a oferta de componentes para outras áreas. A SMIC, vale lembrar, é a maior fabricante de chips sob encomenda da China. Segundo o executivo, o boom da IA comprimiu a disponibilidade de memórias para dispositivos populares, como smartphones de entrada e intermediários. O cenário atual, relatado pelo The Wall Street Journal, é agravado por um comportamento defensivo das empresas: temendo o desabastecimento, fabricantes estão inflacionando seus pedidos para tentar garantir estoques, gerando uma falsa percepção de demanda ainda maior. Indústria mudou a prioridade Preço das memórias RAM subiu quase 90% em menos de um ano (imagem: reprodução/SMIC) A crise de abastecimento é um reflexo da mudança de prioridades das “Três Gigantes” da memória: Samsung, SK Hynix e Micron. Juntas, elas controlam mais de 90% do mercado global. Dados da consultoria Counterpoint Research revelam que os preços da memória RAM dispararam entre 80% e 90% neste início de 2026, em comparação com o final do ano passado. O aumento foi puxado pela memória DRAM usada em servidores, indispensáveis para treinar e rodar grandes modelos de linguagem. Como a produção dessas empresas não conseguiu escalar na mesma velocidade da demanda por IA, o fornecimento para o mercado de PCs e smartphones acabou ficando em segundo plano. A SMIC já reportou uma queda nas encomendas vindas de fabricantes de celulares de gama média e baixa, os mais sensíveis a flutuações de custo. Quando a oferta de memória RAM deve melhorar? Escassez de DRAM afeta smartphones de entrada e intermediários (imagem: Liam Briese/Unsplash) A boa notícia é que há uma perspectiva de alívio no horizonte para o consumidor comum. A má é que ela não será imediata: a previsão da SMIC é que novas remessas de chips de memória RAM convencional cheguem primeiro aos fabricantes de eletrônicos de consumo, podendo equilibrar os estoques globais até o terceiro trimestre de 2026. A empresa está orientando clientes a não serem tão pessimistas e a evitarem cortes drásticos em outros componentes. O risco, segundo Zhao, é que a memória volte ao mercado em nove meses e as empresas não tenham outros chips necessários para completar a montagem de seus produtos. Apesar da turbulência no mercado de memórias, a SMIC vive um momento de expansão financeira. A companhia reportou uma receita recorde de US$ 9,32 bilhões em 2025 (cerca de R$ 48 bilhões), um crescimento de 12,8% em relação ao ano anterior. O lucro líquido também subiu 38,9%, atingindo US$ 685 milhões. Esse desempenho é sustentado por um movimento de reestruturação da indústria na China, focado na localização da cadeia de suprimentos. Segundo a Nikkei Asia, desenvolvedores chineses de chips estão migrando em massa suas linhas de produção do exterior para fábricas locais. Co-CEO da SMIC diz que mercado de RAM está em “pânico”
+## Resumo em 3 bullets
+- Zhao Haijun é co-CEO da SMIC (imagem: reprodução) Resumo O co-CEO da SMIC, Zhao Haijun, afirma que a indústria de semicondutores está em pânico devido à esca...
+- Os preços de memória RAM subiram até 90% no início de 2026, segundo a Counterpoint Research.
+- A demanda por IA está canibalizando a oferta de componentes, afetando dispositivos como smartphones, enquanto a produção de DRAM para servidores não acompanh...
+
+## Contexto
+Zhao Haijun é co-CEO da SMIC (imagem: reprodução) Resumo O co-CEO da SMIC, Zhao Haijun, afirma que a indústria de semicondutores está em pânico devido à escassez de chips de memória. Os preços de memória RAM subiram até 90% no início de 2026, segundo a Counterpoint Research. A demanda por IA está canibalizando a oferta de componentes, afetando dispositivos como smartphones, enquanto a produção de DRAM para servidores não acompanha a demanda.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://tecnoblog.net/noticias/co-ceo-da-smic-diz-que-mercado-de-ram-esta-em-panico/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #negocios](/tags/negocios)
+- [Outros destaques em #tecnoblog](/tags/tecnoblog)

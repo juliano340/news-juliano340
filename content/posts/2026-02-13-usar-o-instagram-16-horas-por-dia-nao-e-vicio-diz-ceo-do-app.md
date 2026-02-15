@@ -7,6 +7,69 @@ original_url: "https://www.tecmundo.com.br/redes-sociais/410713-usar-o-instagram
 image_url: "https://tm.ibxk.com.br/2026/02/13/adam_mosseri_ceo_instagram_160a882bb6.jpg"
 image: "https://tm.ibxk.com.br/2026/02/13/adam_mosseri_ceo_instagram_160a882bb6.jpg"
 slug: "usar-o-instagram-16-horas-por-dia-nao-e-vicio-diz-ceo-do-app"
+seo_title: "Usar o Instagram 16 horas por dia não é vício, diz CEO do app"
+meta_description: "Usar o Instagram 16 horas por dia não é vício, diz CEO do app. O chefe do Instagram , Adam Mosseri, defendeu que o uso da rede social durante várias horas por d"
+canonical_url: "https://news.juliano340.com/posts/usar-o-instagram-16-horas-por-dia-nao-e-vicio-diz-ceo-do-app"
+og_type: "article"
+published_at: "2026-02-13T15:00:00.000Z"
+modified_at: "2026-02-13T15:00:00.000Z"
+primary_source: "https://www.tecmundo.com.br/redes-sociais/410713-usar-o-instagram-16-horas-por-dia-nao-e-vicio-diz-ceo-do-app.htm"
+schema_type: "NewsArticle"
+schema_headline: "Usar o Instagram 16 horas por dia não é vício, diz CEO do app"
+schema_description: "Usar o Instagram 16 horas por dia não é vício, diz CEO do app. O chefe do Instagram , Adam Mosseri, defendeu que o uso da rede social durante várias horas por d"
+schema_date_published: "2026-02-13T15:00:00.000Z"
+schema_date_modified: "2026-02-13T15:00:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/usar-o-instagram-16-horas-por-dia-nao-e-vicio-diz-ceo-do-app"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/usar-o-instagram-16-horas-por-dia-nao-e-vicio-diz-ceo-do-app"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Usar o Instagram 16 horas por dia não é vício, diz CEO do app" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>O chefe do <a href="https://www.tecmundo.com.br/tags/instagram">Instagram</a>, Adam Mosseri, defendeu que <strong>o uso da rede social durante várias horas por dia não deve ser considerado um vício ou caso de avaliação clínica</strong>. O executivo falou sobre hábitos de consumo de plataformas digitais durante um processo encarado por empresas de tecnologia nos Estados Unidos.</p><p>Mosseri prestou depoimento <a href="https://www.tecmundo.com.br/mercado/410129-jovem-processa-meta-tiktok-e-youtube-por-vicio-em-redes-sociais.htm">sob acusações de uma jovem identificada pelas iniciais K.G.M</a>. Ela e a mãe acusam companhias como Meta, TikTok, Snapchat e YouTube de <strong>desenvolverem interfaces viciantes de propósito que prejudicam a saúde mental de usuários</strong>, em especial no público adolescente.</p><p>Ao ouvir que o pico de acesso diário ao Instagram pela jovem foi de 16 horas em um dia, o executivo respondeu que o tempo "<strong>parece um uso problemático</strong>" em vez de indícios de vício.</p><p>"<strong>É importante diferenciar entre vício diagnosticado clinicamente e uso problemático</strong>. (...) Eu com certeza <strong>já disse que estava viciado em um programa da Netflix quando eu maratonei ele tarde da noite</strong>, mas não acho que isso é a mesma coisa que dependência clínica", alega Mosseri.</p>Adam Mosseri. (Imagem: Divulgação/Meta)<p>O responsável pelo Instagram disse ainda que "<strong>não é especialista em vícios</strong>" ao ser questionado sobre o caso e alegou desconhecer a informação de que <strong>K.G.M. fez cerca de 300 denúncias ao Instagram sobre bullying na plataforma</strong>, sem nunca ter os pedidos atendidos.</p><p>Mosseri também reconheceu que a política do Instagram sobre filtros de beleza ou que modificam a aparência do usuário foi "<strong>modificada</strong>". Esse era considerado <a href="https://www.tecmundo.com.br/seguranca/133107-dismorfia-snapchat-obsessao-aparencia-filtros-app-tem-nome.htm">um recurso problemático da plataforma</a> por envolver padrões de beleza e aceitação do corpo e <strong>chegou a ser proibido por um tempo, mas depois foi novamente liberado</strong>.</p><h2>O processo contra as redes sociais</h2><ul><li>A ação judicial de K.G.M deve durar mais algumas semanas e <strong>contar com depoimentos de outras figuras de renome na indústria</strong>, como Mark Zuckerberg (CEO da Meta, dona também de WhatsApp e Facebook) e Neil Mohan, atual gerente executivo do YouTube;</li><li>O Snapchat e o TikTok também foram mencionados como prejudiciais no processo, mas <strong>ambos ficaram de fora do julgamento por terem feito um acordo</strong> com a responsável pela denúncia;</li><li>As donas de plataformas digitais encaram o caso como importante do ponto de vista jurídico, já que <strong>a acusação é uma inédita reclamação contra a interface e o modelo de negócios </strong>dos aplicativos. O resultado pode servir de precedente para processos futuros nos EUA;</li></ul><p>A importância dos termos é o principal motivo que fez Mosseri não usar a palavra "vício", mesmo para descrever comportamentos nada saudáveis por parte de jovens — esse <strong>seria um reconhecimento de um responsável pela própria rede social que ela pode fazer mal para a saúde</strong> do público.</p><p>Como ajudar alguém ou a si mesmo a combater a dependência virtual? <a href="https://www.tecmundo.com.br/internet/400541-9-dicas-de-combate-a-dependencia-virtual.htm">Confira algumas dicas valiosas neste artigo</a>.</p>
+## Resumo em 3 bullets
+- O chefe do Instagram, Adam Mosseri, defendeu que o uso da rede social durante várias horas por dia não deve ser considerado um vício ou caso de avaliação clí...
+- O executivo falou sobre hábitos de consumo de plataformas digitais durante um processo encarado por empresas de tecnologia nos Estados Unidos.
+- Mosseri prestou depoimento sob acusações de uma jovem identificada pelas iniciais K.G.M.
+
+## Contexto
+O chefe do Instagram, Adam Mosseri, defendeu que o uso da rede social durante várias horas por dia não deve ser considerado um vício ou caso de avaliação clínica . O executivo falou sobre hábitos de consumo de plataformas digitais durante um processo encarado por empresas de tecnologia nos Estados Unidos. Mosseri prestou depoimento sob acusações de uma jovem identificada pelas iniciais K.G.M.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/redes-sociais/410713-usar-o-instagram-16-horas-por-dia-nao-e-vicio-diz-ceo-do-app.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

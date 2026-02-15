@@ -7,6 +7,69 @@ original_url: "https://tecnoblog.net/noticias/siri-mais-inteligente-pode-ser-adi
 image_url: "https://files.tecnoblog.net/wp-content/uploads/2024/06/siri-wwdc-24-1-1060x596.jpg"
 image: "https://files.tecnoblog.net/wp-content/uploads/2024/06/siri-wwdc-24-1-1060x596.jpg"
 slug: "siri-mais-inteligente-pode-ser-adiada-novamente"
+seo_title: "Siri mais inteligente pode ser adiada novamente"
+meta_description: "Siri mais inteligente pode ser adiada novamente. Promessa de Siri mais “esperta” está mais de um ano atrasada (imagem: reprodução/Apple) Resumo A Siri com IA ge"
+canonical_url: "https://news.juliano340.com/posts/siri-mais-inteligente-pode-ser-adiada-novamente"
+og_type: "article"
+published_at: "2026-02-12T15:38:54.000Z"
+modified_at: "2026-02-12T15:38:54.000Z"
+primary_source: "https://tecnoblog.net/noticias/siri-mais-inteligente-pode-ser-adiada-novamente/"
+schema_type: "NewsArticle"
+schema_headline: "Siri mais inteligente pode ser adiada novamente"
+schema_description: "Siri mais inteligente pode ser adiada novamente. Promessa de Siri mais “esperta” está mais de um ano atrasada (imagem: reprodução/Apple) Resumo A Siri com IA ge"
+schema_date_published: "2026-02-12T15:38:54.000Z"
+schema_date_modified: "2026-02-12T15:38:54.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/siri-mais-inteligente-pode-ser-adiada-novamente"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/siri-mais-inteligente-pode-ser-adiada-novamente"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Siri mais inteligente pode ser adiada novamente" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<figure data-wp-context="{"imageId":"698e034d825ad"}" data-wp-interactive="core/image" data-wp-key="698e034d825ad" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2024/06/siri-wwdc-24-1-1060x596.jpg" alt="Uma mulher está em pé, à direita de um grande painel branco, em um ambiente amplo e minimalista com teto circular e iluminação embutida. O painel central exibe um ícone quadrado de cantos arredondados com um degradê de cores vibrantes em laranja, rosa, roxo e azul. No centro do ícone, há um símbolo branco que lembra o formato de um "infinito" estilizado dentro de um círculo. Abaixo do ícone, está escrita a palavra "Siri" em fonte preta. A mulher veste roupas escuras e segura um smartphone na mão esquerda." class="wp-image-768051"/><button class="lightbox-trigger" type="button" aria-haspopup="dialog" aria-label="Ampliar" data-wp-init="callbacks.initTriggerButton" data-wp-on--click="actions.showLightbox" data-wp-style--right="state.imageButtonRight" data-wp-style--top="state.imageButtonTop" > <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12"> <path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" /> </svg> </button><figcaption class="wp-element-caption">Promessa de Siri mais “esperta” está mais de um ano atrasada (imagem: reprodução/Apple)</figcaption></figure> <details class="tb-resumo tb-callout padrao"> <summary class="tb-callout-titulo">Resumo</summary> <div class="tb-resumo-topicos tb-callout-texto"><ul> <li>A Siri com IA generativa pode ser adiada para o iOS 27, previsto para setembro de 2026, devido a problemas nos testes.</li> <li>A Apple usará modelos de IA da família Gemini, do Google, pagando US$ 1 bilhão por ano, para melhorar a Siri.</li> <li>A assistente enfrenta atrasos desde o anúncio na WWDC 2024, devido a uma taxa de erros considerada inaceitável pela própria empresa.</li> </ul> </div> </details> <p>A Siri com recursos de inteligência artificial generativa pode ficar para o segundo semestre de 2026, chegando somente no lançamento do iOS 27. Antes, a expectativa era de que ela estaria disponível em março ou abril, no iOS 26.4.</p> <p>As informações são do jornalista Mark Gurman, da <em>Bloomberg</em>. De acordo com a publicação, a Apple encontrou dificuldades ao testar a nova versão da assistente, precisando de mais tempo para corrigir os problemas.</p> <p>O adiamento para o iOS 27, em setembro de 2026, é o pior cenário. Existe ainda a possibilidade de a Siri turbinada chegar em maio de 2026, em uma atualização do iOS posterior ao 26.4.</p> <h2 class="wp-block-heading" id="h-o-que-sabemos-sobre-a-nova-siri">O que sabemos sobre a nova Siri?</h2> <figure data-wp-context="{"imageId":"698e034d82e75"}" data-wp-interactive="core/image" data-wp-key="698e034d82e75" class="wp-block-image size-large wp-lightbox-container"><img decoding="async" width="1060" height="596" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://files.tecnoblog.net/wp-content/uploads/2025/07/tbr-siri-01-1060x596.png" alt="ilustração sobre a assistente virtual Siri" class="wp-image-842893"/><button class="lightbox-trigger" type="button" aria-haspopup="dialog" aria-label="Ampliar" data-wp-init="callbacks.initTriggerButton" data-wp-on...
+## Resumo em 3 bullets
+- Promessa de Siri mais “esperta” está mais de um ano atrasada (imagem: reprodução/Apple) Resumo A Siri com IA generativa pode ser adiada para o iOS 27, previs...
+- A Apple usará modelos de IA da família Gemini, do Google, pagando US$ 1 bilhão por ano, para melhorar a Siri.
+- A assistente enfrenta atrasos desde o anúncio na WWDC 2024, devido a uma taxa de erros considerada inaceitável pela própria empresa.
+
+## Contexto
+Promessa de Siri mais “esperta” está mais de um ano atrasada (imagem: reprodução/Apple) Resumo A Siri com IA generativa pode ser adiada para o iOS 27, previsto para setembro de 2026, devido a problemas nos testes. A Apple usará modelos de IA da família Gemini, do Google, pagando US$ 1 bilhão por ano, para melhorar a Siri. A assistente enfrenta atrasos desde o anúncio na WWDC 2024, devido a uma taxa de erros considerada inaceitável pela própria empresa.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://tecnoblog.net/noticias/siri-mais-inteligente-pode-ser-adiada-novamente/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

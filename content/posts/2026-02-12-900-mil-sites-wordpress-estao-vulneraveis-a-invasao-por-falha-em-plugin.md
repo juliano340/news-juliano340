@@ -7,6 +7,69 @@ original_url: "https://www.tecmundo.com.br/seguranca/410695-900-mil-sites-wordpr
 image_url: "https://tm.ibxk.com.br/2025/09/05/05173049250149.jpg"
 image: "https://tm.ibxk.com.br/2025/09/05/05173049250149.jpg"
 slug: "900-mil-sites-wordpress-estao-vulneraveis-a-invasao-por-falha-em-plugin"
+seo_title: "900 mil sites WordPress estão vulneráveis a invasão por falha"
+meta_description: "900 mil sites WordPress estão vulneráveis a invasão por falha em plugin. Uma vulnerabilidade gravíssima foi descoberta no plugin WPvivid Backup &amp; Migration,"
+canonical_url: "https://news.juliano340.com/posts/900-mil-sites-wordpress-estao-vulneraveis-a-invasao-por-falha-em-plugin"
+og_type: "article"
+published_at: "2026-02-12T20:45:00.000Z"
+modified_at: "2026-02-12T20:45:00.000Z"
+primary_source: "https://www.tecmundo.com.br/seguranca/410695-900-mil-sites-wordpress-estao-vulneraveis-a-invasao-por-falha-em-plugin.htm"
+schema_type: "NewsArticle"
+schema_headline: "900 mil sites WordPress estão vulneráveis a invasão por falha em plugin"
+schema_description: "900 mil sites WordPress estão vulneráveis a invasão por falha em plugin. Uma vulnerabilidade gravíssima foi descoberta no plugin WPvivid Backup &amp; Migration,"
+schema_date_published: "2026-02-12T20:45:00.000Z"
+schema_date_modified: "2026-02-12T20:45:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/900-mil-sites-wordpress-estao-vulneraveis-a-invasao-por-falha-em-plugin"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/900-mil-sites-wordpress-estao-vulneraveis-a-invasao-por-falha-em-plugin"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "900 mil sites WordPress estão vulneráveis a invasão por falha em plugin" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>Uma vulnerabilidade gravíssima foi descoberta no plugin WPvivid Backup &amp; Migration, usado por mais de 900 mil sites WordPress em todo o mundo. A falha, identificada como CVE-2026-1357, recebeu pontuação de 9.8 em uma escala que vai até 10, sendo classificada como crítica pelos especialistas em segurança.</p><p>Plugins são extensões que adicionam funcionalidades extras ao WordPress, neste caso, o WPvivid permite fazer cópias de segurança e migrar sites entre servidores.</p><p>O mais alarmante é que a vulnerabilidade permite RCE (Remote Code Execution, ou Execução Remota de Código), ou seja, qualquer cibercriminoso consegue fazer o servidor executar comandos e programas maliciosos como se fosse o próprio dono do site.</p><p>Com RCE, criminosos conseguem executar esses comandos no servidor da vítima sem precisar de senha ou qualquer tipo de autenticação, assumindo controle total sobre o site.</p><h2>Como funciona o ataque</h2><p>A vulnerabilidade foi descoberta pelo pesquisador Lucas Montes (NiRoX) e reportada à Defiant, empresa especializada em segurança para WordPress, em 12 de janeiro. A falha está presente em todas as versões do plugin até a 0.9.123 e envolve uma combinação letal de erros no código.</p><p>O problema começa na funcionalidade "receber backup de outro site” (receive backup from another site), usada quando administradores querem transferir arquivos de backup entre diferentes instalações WordPress. Embora essa função não esteja ativada por padrão, ela é comumente habilitada durante migrações de sites e transferências entre hospedagens.</p><p>Quando essa funcionalidade está ativa, o plugin falha ao validar corretamente os dados criptografados recebidos. Criptografia é o processo de embaralhar informações para que apenas quem tenha a "chave" correta possa lê-las.</p><p>A descriptografia RSA é o processo inverso: usar uma chave privada para desembaralhar dados que foram criptografados com uma chave pública. RSA é um dos sistemas de criptografia mais usados na internet.</p><p>Especificamente, quando a descriptografia RSA não funciona, ou seja, quando o plugin não consegue "abrir o cofre" com a chave correta, o código não interrompe a execução como deveria. Em vez disso, passa um valor de erro para a próxima etapa do processo, criando uma chave de criptografia composta apenas de zeros.</p><p>Com essa chave previsível em mãos, hackers podem criar arquivos maliciosos criptografados que o plugin aceita como legítimos. Mas o plugin também não valida corretamente os nomes dos arquivos recebidos, permitindo que atacantes usem uma técnica chamada travessia de diretórios para salvar arquivos PHP maliciosos em diretórios públicos do site.</p><p>Durante a travessia de diretórios o plugin é programado para salvar arquivos exclusivamente na pasta designada para backups, mas o invasor envia um arquivo com o nome "../../themes/malware.php". A sequência de dois pontos seguidos de barra (../) é interpretada pelos sistemas operacionais como um comando para retroceder um nível na hierarquia de diretórios.</p><p>Ao repetir essa sequência, o atacante consegue "escapar" do diretório protegido de backups e gravar o arquivo em qualquer localização do servidor, incluindo pastas publicamente acessíveis via internet.</p><h2>Takeover completo do site</h2><p>Uma vez que o arquivo malicioso está no servidor, o hacker simplesmente acessa esse arquivo através do navegador. Aqui entra outro detalhe importante: PHP é a linguagem de programação em que o WordPress é escrito.</p><p>Arquivos PHP executáveis são programas que o servidor web roda automaticamente quando alguém os acessa. É diferente de uma imagem ou documento, quando você acessa um arquivo .php, o servidor executa os comandos que estão dentro dele.</p><p>No caso desta vulnerabilidade, o hacker consegue colocar um arquivo PHP malicioso em uma pasta pública do site. Quando ele acessa esse arquivo pelo navegador (por exemplo, visitando sitedavitima.com/wp-content/themes/malware.php), o servidor executa o código PHP inserido, e a partir daí o atacante tem controle total.</p><p>Ele pode roubar dados do banco de dados, modificar o conteúdo do site, criar contas administrativas, instalar backdoors (portas dos fundos são códigos ocultos que permitem ao invasor voltar ao sistema mesmo depois que a falha original for corrigida) para acesso futuro ou até usar o servidor comprometido para atacar outros sistemas.</p><p>"A vulnerabilidade pode levar a um takeover completo do site", alertam os pesquisadores da Defiant. Esse tipo de ataque é particularmente perigoso porque não deixa rastros óbvios inicialmente — o invasor já está dentro do sistema antes que qualquer alerta seja disparado.</p><h2>Janela de 24 horas torna exploração mais complexa</h2><p>Apesar da gravidade extrema, existem alguns fatores que limitam a exploração em massa da vulnerabilidade. Primeiro, como mencionado, a funcionalidade vulnerável não está ativada por padrão, os administradores precisam habilitá-la manualmente. Segundo, quando ativada, o plugin gera uma chave válida por apenas 24 horas.</p><p>No entanto, especialistas alertam que essas limitações são apenas barreiras parciais. Como o WPvivid é usado especificamente para migrações e transferências de backup, é muito provável que administradores ativem a função vulnerável em algum momento, criando janelas de oportunidade para ataques. Além disso, a falha criptográfica permite contornar parcialmente a proteção da chave de 24 horas.</p><h2>Correção já está disponível</h2><p>Após a validação da vulnerabilidade com provas de conceito, a Defiant notificou a WPVividPlugins, desenvolvedora do plugin, em 22 de janeiro. A correção foi lançada rapidamente na versão 0.9.124, em 28 de janeiro.</p><p>A atualização implementa três camadas de proteção. Primeiro ela adiciona verificação para interromper a execução se a descriptografia RSA falhar, implementa sanitização adequada dos nomes de arquivo para impedir escapadas de diretório, e restringe os uploads apenas a tipos de arquivo legítimos para backup (ZIP, GZ, TAR e SQL), bloqueando arquivos PHP executáveis que poderiam conter código malicioso.</p><p>Sanitização é o processo de "limpar" dados recebidos, removendo caracteres perigosos e validando que o nome do arquivo não contém truques como o directory traversal.</p><p>Especialistas recomendam que usuários do WPvivid Backup &amp; Migration atualizem imediatamente para a versão 0.9.124. Com mais de 900 mil instalações potencialmente vulneráveis, é questão de tempo até que grupos de hackers criem scripts automatizados para explorar sites que ainda não foram atualizados.</p><p>Para verificar se seu site WordPress está usando o plugin e qual versão está instalada, acesse o painel administrativo, vá em "Plugins" e procure por "WPvivid". Se a versão for 0.9.123 ou anterior, atualize imediatamente. Mesmo que a funcionalidade "receive backup from another site" não esteja ativa no momento, a presença do código vulnerável já representa um risco.</p><p>Acompanhe o TecMundo nas redes sociais. Para mais notícias de segurança e tecnologia, inscreva-se em nossa newsletter e <a href="https://www.youtube.com/@TecMundoSecurity">canal do YouTube.</a></p>
+## Resumo em 3 bullets
+- Uma vulnerabilidade gravíssima foi descoberta no plugin WPvivid Backup &amp; Migration, usado por mais de 900 mil sites WordPress em todo o mundo.
+- A falha, identificada como CVE-2026-1357, recebeu pontuação de 9.8 em uma escala que vai até 10, sendo classificada como crítica pelos especialistas em segur...
+- Plugins são extensões que adicionam funcionalidades extras ao WordPress, neste caso, o WPvivid permite fazer cópias de segurança e migrar sites entre servido...
+
+## Contexto
+Uma vulnerabilidade gravíssima foi descoberta no plugin WPvivid Backup &amp; Migration, usado por mais de 900 mil sites WordPress em todo o mundo. A falha, identificada como CVE-2026-1357, recebeu pontuação de 9.8 em uma escala que vai até 10, sendo classificada como crítica pelos especialistas em segurança. Plugins são extensões que adicionam funcionalidades extras ao WordPress, neste caso, o WPvivid permite fazer cópias de segurança e migrar sites entre servidores.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/seguranca/410695-900-mil-sites-wordpress-estao-vulneraveis-a-invasao-por-falha-em-plugin.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

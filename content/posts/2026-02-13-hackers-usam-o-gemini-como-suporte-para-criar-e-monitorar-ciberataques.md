@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/seguranca/hackers-usam-o-gemini-como-sup
 image_url: "https://t.ctcdn.com.br/p8f1JDirrl0R-SV6jUlSJj0FnRs=/700x394/smart/i1102121.png"
 image: "https://t.ctcdn.com.br/p8f1JDirrl0R-SV6jUlSJj0FnRs=/700x394/smart/i1102121.png"
 slug: "hackers-usam-o-gemini-como-suporte-para-criar-e-monitorar-ciberataques"
+seo_title: "Hackers usam o Gemini como suporte para criar e monitorar cibe"
+meta_description: "Hackers usam o Gemini como suporte para criar e monitorar ciberataques. Grupos de cibercriminosos apostam em ferramentas do Gemini como suporte para lançar camp"
+canonical_url: "https://news.juliano340.com/posts/hackers-usam-o-gemini-como-suporte-para-criar-e-monitorar-ciberataques"
+og_type: "article"
+published_at: "2026-02-13T12:10:00.000Z"
+modified_at: "2026-02-13T12:10:00.000Z"
+primary_source: "https://canaltech.com.br/seguranca/hackers-usam-o-gemini-como-suporte-para-criar-e-monitorar-ciberataques/"
+schema_type: "NewsArticle"
+schema_headline: "Hackers usam o Gemini como suporte para criar e monitorar ciberataques"
+schema_description: "Hackers usam o Gemini como suporte para criar e monitorar ciberataques. Grupos de cibercriminosos apostam em ferramentas do Gemini como suporte para lançar camp"
+schema_date_published: "2026-02-13T12:10:00.000Z"
+schema_date_modified: "2026-02-13T12:10:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/hackers-usam-o-gemini-como-suporte-para-criar-e-monitorar-ciberataques"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/hackers-usam-o-gemini-como-suporte-para-criar-e-monitorar-ciberataques"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Hackers usam o Gemini como suporte para criar e monitorar ciberataques" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>Grupos de cibercriminosos apostam em ferramentas do <strong>Gemini</strong> como suporte para lançar campanhas sofisticadas na web. Segundo análise do grupo de inteligência de ameaças do Google, os hackers aproveitam os recursos para acompanhar desde a criação do ataque&nbsp;até o pós-comprometimento de dispositivos.</p>  <ul>  <li><a href="https://canaltech.com.br/seguranca/falha-em-extensoes-do-claude-expoe-10-mil-usuarios-a-execucao-remota-de-codigos/">Falha em extensões do Claude expõe 10 mil usuários a execução remota de códigos</a></li>  <li><a href="https://canaltech.com.br/seguranca/olhou-vazou-ataque-em-ia-rouba-seus-dados-sem-voce-clicar-em-nada/">Olhou, vazou: ataque em IA rouba seus dados sem você clicar em nada</a></li>  </ul>  <p>A empresa descobriu que esses ataques são <strong>patrocinados por governos</strong>, com casos identificados na China, Irã, Coreia do Norte e Rússia. De modo geral, os hackers usam o Gemini para gerar iscas de phishing, traduzir textos, programar, testar vulnerabilidades e solucionar problemas.</p>  <p>Também foram encontrados interesses golpistas voltados para o uso de ferramentas de IA para aprimorar<strong> campanhas de engenharia social</strong> <strong>e ataques do tipo ClickFix</strong>.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <h2>Integração perigosa</h2>  <p>O relatório do Google trouxe alguns apontamentos preocupantes em relação ao uso do Gemini por hackers como suporte para ciberataques. Isso ocorre desde o momento da criação do malware ou das iscas de phishing, chegando ao momento da exfiltração de dados após a infecção do sistema.</p>    Gemini é usado por hackers para aprimorar táticas de golpe (Imagem:&nbsp;Viviane França/Canaltech).    <p>Um dos casos, por exemplo, consistiu no sequestro do perfil de um especialista em cibersegurança para pedir ao Gemini que a ferramenta automatizasse uma <strong>análise de vulnerabilidades</strong>, oferecendo também estratégias direcionadas para testes. Tudo fingindo um “cenário fictício” para marcar alvos específicos nos Estados Unidos.</p>  <p>Outro grupo hacker vindo da China também aproveitou a ferramenta para fins maliciosos, solicitando para a IA a correção de código e uma <strong>consultoria completa</strong> sobre técnicas para invasão.</p>  <p>Também há relatos de hackers iranianos que usaram o Gemini para impulsionar campanhas de engenharia social com uma plataforma para criar ferramentas maliciosas personalizadas de maneira rápida e automatizada.</p>  <h2>Ataques automatizados</h2>  <p>A equipe de inteligência do Google identificou que as ferramentas disponíveis no Gemini também foram usadas para <strong>automatizar ataques e personalizar malware</strong>, implementando novas funcionalidades no software malicioso.</p>  <p>Os serviços de IA oferecem ainda recursos para disseminação de campanhas ClickFix que induzem a vítima a executar comandos maliciosos por meio de anúncios exibidos em resultados de busca nessas plataformas. Dessa forma, os hackers conseguem<strong> roubar informações sensíveis</strong> da vítima rapidamente sem que ela perceba.</p>    Hackers apostam em recursos do Gemini para automatizar ataques (Imagem:&nbsp;Pexels/Pixabay).    <p>Embora não ofereça ameaça direta para quem usa o Gemini, essa estratégia mostra como os criminosos seguem aprimorando suas táticas para aumentar o alcance de seus ataques contra usuários desavisados. Há também o roubo de propriedade intelectual, além da possibilidade de comprometer as ferramentas de forma crítica.</p>  <p>Leia também:</p>  <ul>  <li><a href="https://canaltech.com.br/seguranca/especialistas-alertam-para-falhas-de-seguranca-criticas-no-moltbook/">Especialistas alertam para falhas de segurança críticas no Moltbook</a></li>  <li><a href="https://canaltech.com.br/seguranca/espionagem-chinesa-grupo-usa-falha-no-winrar-para-atacar-paises-asiaticos/">Espionagem chinesa: grupo usa falha no WinRAR para atacar países asiáticos</a></li>  <li><a href="https://canaltech.com.br/seguranca/agentes-de-ia-ainda-nao-realizam-ciberataques-sozinhos-mas-estao-quase-la/">Agentes de IA ainda não realizam ciberataques sozinhos, mas estão quase lá</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/seguranca/hackers-usam-o-gemini-como-suporte-para-criar-e-monitorar-ciberataques/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- Grupos de cibercriminosos apostam em ferramentas do Gemini como suporte para lançar campanhas sofisticadas na web.
+- Segundo análise do grupo de inteligência de ameaças do Google, os hackers aproveitam os recursos para acompanhar desde a criação do ataque&nbsp;até o pós-com...
+- Falha em extensões do Claude expõe 10 mil usuários a execução remota de códigos Olhou, vazou: ataque em IA rouba seus dados sem você clicar em nada A empresa...
+
+## Contexto
+Grupos de cibercriminosos apostam em ferramentas do Gemini como suporte para lançar campanhas sofisticadas na web. Segundo análise do grupo de inteligência de ameaças do Google, os hackers aproveitam os recursos para acompanhar desde a criação do ataque&nbsp;até o pós-comprometimento de dispositivos. Falha em extensões do Claude expõe 10 mil usuários a execução remota de códigos Olhou, vazou: ataque em IA rouba seus dados sem você clicar em nada A empresa descobriu que esses ataques são patrocinados por governos , com casos identificados na China, Irã, Coreia do Norte e Rússia.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/seguranca/hackers-usam-o-gemini-como-suporte-para-criar-e-monitorar-ciberataques/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

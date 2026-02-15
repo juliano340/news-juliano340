@@ -25,6 +25,7 @@ class NewsWorker {
 
     this.slugs = new Set();
     this.urls = new Set();
+    this.postIndex = [];
     this.publishedPosts = [];
   }
 
@@ -40,8 +41,92 @@ class NewsWorker {
     await logger.init();
     await git.init();
     await git.pull();
+    await fs.mkdir(config.REPORT_PATH, { recursive: true });
     await this.loadExistingPosts();
     logger.info('Iniciado');
+  }
+
+  clampTextRange(text, min, max) {
+    const normalized = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!normalized) return '';
+    if (normalized.length > max) return normalized.slice(0, max).trim();
+    if (normalized.length >= min) return normalized;
+
+    const filler = ' Saiba o que muda na pratica, riscos e proximos passos para acompanhar o caso.';
+    return (normalized + filler).slice(0, max).trim();
+  }
+
+  buildSeoMetadata(post) {
+    const canonicalUrl = `https://news.juliano340.com/posts/${post.slug}`;
+    const baseTitle = String(post.title || '').trim();
+    const seoTitle = this.clampTextRange(baseTitle, 45, 62);
+
+    const summaryText = String(post.summary_text || '').replace(/\s+/g, ' ').trim();
+    const descriptionSeed = summaryText || `${baseTitle} com contexto, impacto pratico e pontos de acompanhamento.`;
+    const metaDescription = this.clampTextRange(descriptionSeed, 140, 160);
+
+    return {
+      seo_title: seoTitle,
+      meta_description: metaDescription,
+      canonical_url: canonicalUrl,
+      og_type: 'article',
+      schema_type: 'NewsArticle',
+      schema_headline: baseTitle,
+      schema_description: metaDescription,
+      schema_date_published: post.date,
+      schema_date_modified: post.date,
+      schema_author_name: 'News juliano340',
+      schema_publisher_name: 'News juliano340',
+      schema_publisher_logo: 'https://news.juliano340.com/logo.png',
+      schema_main_entity_of_page: canonicalUrl,
+      breadcrumb_home: 'https://news.juliano340.com/',
+      breadcrumb_posts: 'https://news.juliano340.com/posts',
+      breadcrumb_current: canonicalUrl
+    };
+  }
+
+  validatePostMetadata(post) {
+    const checks = [];
+    const fail = (id, reason, details = {}) => checks.push({ id, status: 'FAIL', level: 'BLOCK', reason, ...details });
+    const pass = (id) => checks.push({ id, status: 'PASS', level: 'BLOCK' });
+
+    const requiredFields = ['title', 'slug', 'date', 'source', 'original_url', 'primary_source', 'content', 'meta_description', 'canonical_url'];
+    for (const field of requiredFields) {
+      const value = String(post[field] || '').trim();
+      if (!value) fail(`required_${field}`, `${field}_ausente`);
+      else pass(`required_${field}`);
+    }
+
+    if (/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(String(post.slug || '').trim())) pass('slug_format');
+    else fail('slug_format', 'slug_invalido');
+
+    if (/^https?:\/\//i.test(String(post.original_url || ''))) pass('original_url_format');
+    else fail('original_url_format', 'original_url_invalida');
+
+    if (String(post.canonical_url || '') === `https://news.juliano340.com/posts/${post.slug}`) pass('canonical_matches_slug');
+    else fail('canonical_matches_slug', 'canonical_inconsistente');
+
+    const descLen = String(post.meta_description || '').length;
+    if (descLen >= 140 && descLen <= 160) pass('meta_description_length');
+    else fail('meta_description_length', 'meta_description_fora_faixa', { length: descLen, min: 140, max: 160 });
+
+    const hasSchema =
+      String(post.schema_type || '') === 'NewsArticle' &&
+      String(post.schema_headline || '').trim() &&
+      String(post.schema_date_published || '').trim() &&
+      String(post.schema_main_entity_of_page || '').trim();
+
+    if (hasSchema) pass('schema_min_fields');
+    else fail('schema_min_fields', 'schema_campos_obrigatorios_ausentes');
+
+    const failures = checks.filter((check) => check.status === 'FAIL');
+    return {
+      status: failures.length > 0 ? 'BLOCK' : 'PASS',
+      checks,
+      warnings: [],
+      errors: failures.map((check) => check.reason),
+      score: failures.length > 0 ? Math.max(0, 100 - failures.length * 10) : 100
+    };
   }
 
   async loadExistingPosts() {
@@ -55,14 +140,91 @@ class NewsWorker {
         const slugMatch = content.match(/slug:\s*"([^"]+)"/);
         const urlMatch = content.match(/original_url:\s*"([^"]+)"/);
         const titleMatch = content.match(/title:\s*"([^"]+)"/);
+        const topicMatch = content.match(/topic:\s*"([^"]*)"/);
+        const dateMatch = content.match(/date:\s*"([^"]+)"/);
+        const tagsMatch = content.match(/tags:\s*\[([^\]]*)\]/);
 
         if (slugMatch) this.slugs.add(slugMatch[1]);
         if (urlMatch) this.urls.add(urlMatch[1]);
         if (titleMatch) this.urls.add(Utils.generateSlug(titleMatch[1]));
+
+        if (slugMatch && titleMatch) {
+          const tags = tagsMatch
+            ? tagsMatch[1]
+              .split(',')
+              .map((tag) => tag.replace(/^\s*"|"\s*$/g, '').trim())
+              .filter(Boolean)
+            : [];
+
+          this.postIndex.push({
+            slug: slugMatch[1],
+            title: titleMatch[1],
+            topic: topicMatch ? topicMatch[1] : '',
+            date: dateMatch ? dateMatch[1] : '',
+            tags
+          });
+        }
       }
     } catch (error) {
       logger.error('L', { error: error.message });
     }
+  }
+
+  getRelatedLinks(post, max = 3) {
+    const postTags = new Set(post.tags || []);
+    const currentDate = post.date ? new Date(post.date) : new Date();
+
+    const scored = this.postIndex
+      .filter((item) => item.slug !== post.slug)
+      .map((item) => {
+        let score = 0;
+        if (item.topic && post.topic && item.topic === post.topic) score += 5;
+
+        const overlap = (item.tags || []).filter((tag) => postTags.has(tag)).length;
+        score += overlap * 2;
+
+        if (item.date) {
+          const diff = Math.abs(currentDate.getTime() - new Date(item.date).getTime());
+          const days = diff / (1000 * 60 * 60 * 24);
+          score += Math.max(0, 2 - Math.floor(days / 7));
+        }
+
+        return { ...item, score };
+      })
+      .filter((item) => item.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, max);
+
+    return scored;
+  }
+
+  appendRelatedLinks(content, relatedLinks) {
+    if (!relatedLinks || relatedLinks.length === 0) return content;
+
+    const uniqueLinks = relatedLinks.filter((item) => !content.includes(`(/posts/${item.slug})`));
+    if (uniqueLinks.length === 0) return content;
+
+    const section = [
+      '## Leitura relacionada',
+      ...uniqueLinks.map((item) => `- [${item.title}](/posts/${item.slug})`)
+    ].join('\n');
+
+    return `${content.trim()}\n\n${section}\n`;
+  }
+
+  async saveQualityReport(slug, report) {
+    if (!slug || !report) return;
+    const safeSlug = String(slug).trim();
+    if (!safeSlug) return;
+
+    const filePath = path.join(config.REPORT_PATH, `${safeSlug}.json`);
+    const payload = {
+      slug: safeSlug,
+      generated_at: new Date().toISOString(),
+      ...report
+    };
+
+    await fs.writeFile(filePath, JSON.stringify(payload, null, 2), 'utf8');
   }
 
   isDuplicate(post) {
@@ -84,10 +246,20 @@ class NewsWorker {
 
   buildPostContent(post) {
     const tags = (post.tags || []).map((tag) => `"${this.escapeYaml(tag)}"`).join(',');
+    const seoTitle = post.seo_title || Utils.truncateText(post.title || '', 62);
+    const description = post.meta_description || Utils.truncateText((post.summary_text || post.title || '').trim(), 155);
+    const canonicalUrl = post.canonical_url || `https://news.juliano340.com/posts/${post.slug}`;
+    const dateValue = this.escapeYaml(post.date);
 
     return `---\n` +
       `title: "${this.escapeYaml(post.title)}"\n` +
-      `date: "${this.escapeYaml(post.date)}"\n` +
+      `seo_title: "${this.escapeYaml(seoTitle)}"\n` +
+      `meta_description: "${this.escapeYaml(description)}"\n` +
+      `canonical_url: "${this.escapeYaml(canonicalUrl)}"\n` +
+      `og_type: "${this.escapeYaml(post.og_type || 'article')}"\n` +
+      `date: "${dateValue}"\n` +
+      `published_at: "${dateValue}"\n` +
+      `modified_at: "${dateValue}"\n` +
       `tags: [${tags}]\n` +
       `source: "${this.escapeYaml(post.source)}"\n` +
       `original_url: "${this.escapeYaml(post.original_url)}"\n` +
@@ -102,6 +274,20 @@ class NewsWorker {
       `ai_model: "${this.escapeYaml(post.ai_model || '')}"\n` +
       `ai_confidence: "${this.escapeYaml(post.ai_confidence || '')}"\n` +
       `primary_source: "${this.escapeYaml(post.primary_source || post.original_url || '')}"\n` +
+      `schema_type: "${this.escapeYaml(post.schema_type || 'NewsArticle')}"\n` +
+      `schema_headline: "${this.escapeYaml(post.schema_headline || post.title || '')}"\n` +
+      `schema_description: "${this.escapeYaml(post.schema_description || description)}"\n` +
+      `schema_date_published: "${this.escapeYaml(post.schema_date_published || post.date || '')}"\n` +
+      `schema_date_modified: "${this.escapeYaml(post.schema_date_modified || post.date || '')}"\n` +
+      `schema_author_name: "${this.escapeYaml(post.schema_author_name || 'News juliano340')}"\n` +
+      `schema_publisher_name: "${this.escapeYaml(post.schema_publisher_name || 'News juliano340')}"\n` +
+      `schema_publisher_logo: "${this.escapeYaml(post.schema_publisher_logo || 'https://news.juliano340.com/logo.png')}"\n` +
+      `schema_main_entity_of_page: "${this.escapeYaml(post.schema_main_entity_of_page || canonicalUrl)}"\n` +
+      `breadcrumb_home: "${this.escapeYaml(post.breadcrumb_home || 'https://news.juliano340.com/')}"\n` +
+      `breadcrumb_posts: "${this.escapeYaml(post.breadcrumb_posts || 'https://news.juliano340.com/posts')}"\n` +
+      `breadcrumb_current: "${this.escapeYaml(post.breadcrumb_current || canonicalUrl)}"\n` +
+      `lang: "pt-BR"\n` +
+      `is_ai_curated: "true"\n` +
       `---\n\n` +
       `${post.content || ''}\n`;
   }
@@ -124,6 +310,13 @@ class NewsWorker {
 
     this.slugs.add(post.slug);
     this.urls.add(post.original_url);
+    this.postIndex.push({
+      slug: post.slug,
+      title: post.title,
+      topic: post.topic || '',
+      date: post.date,
+      tags: post.tags || []
+    });
     this.publishedPosts.push(post);
 
     logger.ok('Salvo: ' + post.title);
@@ -135,7 +328,21 @@ class NewsWorker {
       return {
         accepted: true,
         post,
-        quality: null
+        quality: null,
+        report: {
+          status: 'PASS',
+          checks: [
+            {
+              id: 'editorial_disabled',
+              status: 'PASS',
+              level: 'WARN',
+              reason: 'politica_editorial_desativada'
+            }
+          ],
+          warnings: ['politica_editorial_desativada'],
+          errors: [],
+          score: 100
+        }
       };
     }
 
@@ -147,26 +354,61 @@ class NewsWorker {
         deferred: true,
         reason: curated.block_reason || 'ai_generation_failed',
         quality: null,
-        post
+        post,
+        report: {
+          status: 'BLOCK',
+          checks: [
+            {
+              id: 'ai_editorial_generation',
+              status: 'FAIL',
+              level: 'BLOCK',
+              reason: curated.block_reason || 'ai_generation_failed'
+            }
+          ],
+          warnings: [],
+          errors: [curated.block_reason || 'ai_generation_failed'],
+          score: 0
+        }
       };
     }
 
-    const qualityCheck = quality.evaluate(post, curated);
+    const relatedLinks = this.getRelatedLinks({ ...post, topic: curated.topic }, 3);
+    const curatedWithLinks = {
+      ...curated,
+      content: this.appendRelatedLinks(curated.content, relatedLinks)
+    };
 
-    if (!qualityCheck.passed && qualityCheck.shouldDiscard) {
+    const qualityCheck = quality.evaluate(post, curatedWithLinks);
+
+    if (qualityCheck.status === 'BLOCK') {
       return {
         accepted: false,
         post,
-        quality: qualityCheck
+        quality: qualityCheck,
+        report: {
+          status: qualityCheck.status,
+          checks: qualityCheck.checks,
+          warnings: qualityCheck.warnings,
+          errors: qualityCheck.reasons,
+          score: qualityCheck.score
+        }
       };
     }
 
     return {
       accepted: true,
       quality: qualityCheck,
+      report: {
+        status: qualityCheck.status,
+        checks: qualityCheck.checks,
+        warnings: qualityCheck.warnings,
+        errors: qualityCheck.reasons,
+        score: qualityCheck.score
+      },
       post: {
         ...post,
-        content: curated.content,
+        summary_text: quality.sectionText(curatedWithLinks.content, '## Resumo em 3 bullets').replace(/^\s*-\s+/gm, '').trim(),
+        content: curatedWithLinks.content,
         topic: curated.topic,
         subtopic: curated.subtopic,
         content_kind: curated.content_kind,
@@ -259,6 +501,41 @@ class NewsWorker {
             }
 
             const policyResult = await this.applyEditorialPolicy(post);
+            const reportSlug = policyResult.post?.slug || post.slug || Utils.generateSlug(post.title);
+            const enrichedPost = policyResult.accepted
+              ? {
+                ...policyResult.post,
+                ...this.buildSeoMetadata(policyResult.post)
+              }
+              : policyResult.post;
+
+            let metadataReport = null;
+            if (policyResult.accepted) {
+              metadataReport = this.validatePostMetadata(enrichedPost);
+            }
+
+            const finalReport = {
+              ...(policyResult.report || {
+                status: 'PASS',
+                checks: [],
+                warnings: [],
+                errors: [],
+                score: 100
+              }),
+              metadata: metadataReport
+            };
+
+            await this.saveQualityReport(reportSlug, finalReport);
+
+            if (metadataReport && metadataReport.status === 'BLOCK') {
+              descartados += 1;
+              logger.skip('Descartado por metadados SEO: ' + post.title, {
+                status: metadataReport.status,
+                errors: metadataReport.errors,
+                failed_checks: metadataReport.checks.filter((check) => check.status === 'FAIL').map((check) => check.id)
+              });
+              continue;
+            }
 
             if (!policyResult.accepted) {
               if (policyResult.deferred) {
@@ -270,11 +547,14 @@ class NewsWorker {
               }
 
               descartados += 1;
+              const failedChecks = (policyResult.quality?.checks || [])
+                .filter((check) => check.status === 'FAIL' && check.level === 'BLOCK')
+                .map((check) => check.id);
               logger.skip('Descartado por qualidade: ' + post.title, {
-                score: policyResult.quality.score,
-                threshold: policyResult.quality.threshold,
-                reasons: policyResult.quality.reasons,
-                checks: policyResult.quality.checks
+                status: policyResult.quality?.status || 'BLOCK',
+                score: policyResult.quality?.score || 0,
+                errors: policyResult.quality?.reasons || [],
+                failed_checks: failedChecks
               });
               continue;
             }
@@ -284,13 +564,13 @@ class NewsWorker {
                 score: policyResult.quality.score,
                 threshold: policyResult.quality.threshold,
                 checks: policyResult.quality.checks,
-                editorial_mode: policyResult.post.editorial_mode,
-                ai_model: policyResult.post.ai_model,
-                ai_confidence: policyResult.post.ai_confidence
+                editorial_mode: enrichedPost.editorial_mode,
+                ai_model: enrichedPost.ai_model,
+                ai_confidence: enrichedPost.ai_confidence
               });
             }
 
-            if (await this.savePost(policyResult.post)) novos += 1;
+            if (await this.savePost(enrichedPost)) novos += 1;
             else pulados += 1;
           } catch (error) {
             logger.error('P', { error: error.message });
@@ -321,11 +601,15 @@ class NewsWorker {
   }
 }
 
-const worker = new NewsWorker();
-worker
-  .init()
-  .then(() => worker.run())
-  .catch((error) => {
-    logger.error('Fatal', { error: error.message });
-    process.exit(1);
-  });
+if (require.main === module) {
+  const worker = new NewsWorker();
+  worker
+    .init()
+    .then(() => worker.run())
+    .catch((error) => {
+      logger.error('Fatal', { error: error.message });
+      process.exit(1);
+    });
+}
+
+module.exports = NewsWorker;

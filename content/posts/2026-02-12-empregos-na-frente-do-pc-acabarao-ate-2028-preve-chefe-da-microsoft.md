@@ -7,6 +7,69 @@ original_url: "https://www.tecmundo.com.br/mercado/410673-empregos-na-frente-do-
 image_url: "https://tm.ibxk.com.br/2025/09/08/08113356440203.jpg"
 image: "https://tm.ibxk.com.br/2025/09/08/08113356440203.jpg"
 slug: "empregos-na-frente-do-pc-acabarao-ate-2028-preve-chefe-da-microsoft"
+seo_title: "Empregos na frente do PC acabarão até 2028, prevê chefe da Mic"
+meta_description: "Empregos na frente do PC acabarão até 2028, prevê chefe da Microsoft. O atual gerente da divisão de inteligência artificial (IA) da Microsoft, Mustafa Suleyman,"
+canonical_url: "https://news.juliano340.com/posts/empregos-na-frente-do-pc-acabarao-ate-2028-preve-chefe-da-microsoft"
+og_type: "article"
+published_at: "2026-02-12T14:00:00.000Z"
+modified_at: "2026-02-12T14:00:00.000Z"
+primary_source: "https://www.tecmundo.com.br/mercado/410673-empregos-na-frente-do-pc-acabarao-ate-2028-preve-chefe-da-microsoft.htm"
+schema_type: "NewsArticle"
+schema_headline: "Empregos na frente do PC acabarão até 2028, prevê chefe da Microsoft"
+schema_description: "Empregos na frente do PC acabarão até 2028, prevê chefe da Microsoft. O atual gerente da divisão de inteligência artificial (IA) da Microsoft, Mustafa Suleyman,"
+schema_date_published: "2026-02-12T14:00:00.000Z"
+schema_date_modified: "2026-02-12T14:00:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/empregos-na-frente-do-pc-acabarao-ate-2028-preve-chefe-da-microsoft"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/empregos-na-frente-do-pc-acabarao-ate-2028-preve-chefe-da-microsoft"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Empregos na frente do PC acabarão até 2028, prevê chefe da Microsoft" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>O atual gerente da divisão de <a href="https://tecmundo.com.br/inteligencia-artificial">inteligência artificial (IA)</a> da Microsoft, Mustafa Suleyman, acredita que a substituição massiva de trabalhadores humanos por sistemas automatizados está próxima. Ele comentou sobre a previsão em uma entrevista ao jornal <i>Financial Times</i>.</p><p>"O trabalho de escritório, em que você fica sentado em frente a um computador, seja como advogado, contador, gerente de projetos ou profissional de marketing — <strong>a maioria dessas tarefas será totalmente automatizada por uma IA nos próximos 12 a 18 meses</strong>", afirma Suleyman.</p><p>De acordo com o executivo, o segredo está na criação de IAs generativas de nível profissional cada vez melhores, a partir de ferramentas que são capazes de realizar tarefas diárias que hoje ainda são específicas de alguma categoria de trabalhador.</p><p>"Criar um novo modelo de IA será <strong>mais ou menos igual a criar um podcast ou escrever um blog</strong>. Será possível desenvolver uma IA que atenda aos seus requisitos para qualquer organização institucional e pessoa no planeta", alega o executivo.</p><p>Suleyman ainda crê que <a href="https://www.tecmundo.com.br/software/406877-agente-de-ia-o-que-e-e-como-pode-revolucionar-o-trabalho.htm">agentes de IA </a>terão uma coordenação melhor entre si nos próximos dois ou três anos, além de melhorarem o próprio desempenho a ponto de começar a realizar ações autônomas na medida em que o tempo passa. Por outro lado, o gerente reforça que <strong>a ideia da Microsoft é ter uma "superinteligência humanista"</strong>, que ainda tenha controle humano para evitar riscos já levantados pela indústria.</p><h2>"Divórcio" da OpenAI</h2><p>Na entrevista, Suleyman também abordou um tema cada vez mais frequente para a empresa. Trata-se dos <strong>planos para se tornar cada vez mais autossuficiente no setor de IA</strong>, o que significa treinar modelos de linguagem próprios para oferecer alternativas aos sistemas já existentes.</p><p>A Microsoft atualmente é uma das maiores investidoras e parcerias comerciais da OpenAI, inclusive no uso de versões do GPT dentro do Copilot. Porém, o objetivo da marca é ter uma variante interna que possa reduzir a atual dependência dos serviços da startup.</p><p>As <a href="https://www.tecmundo.com.br/mercado/407003-microsoft-e-openai-renovam-parceria-em-acordo-que-deixa-chatgpt-mais-independente.htm">últimas negociações contratuais entre OpenAI e Microsoft</a> já indicavam um distanciamento entre as duas companhias, assim como o estabelecimento de <a href="https://www.tecmundo.com.br/mercado/405069-openai-quebra-exclusividade-com-microsoft-e-vai-usar-cloud-do-google-revela-jornal.htm">acordos da dona do ChatGPT com concorrentes</a>. Novos investimentos massivos da gigante também indicam que <strong>um modelo fundacional de autoria própria é o novo foco da companhia na indústria</strong>.</p><div><blockquote data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/DGjWGUyK71v/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14"><div> <a href="https://www.instagram.com/reel/DGjWGUyK71v/?utm_source=ig_embed&utm_campaign=loading"> <div> <div></div> <div> <div></div> <div></div></div></div><div></div> <div><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524...
+## Resumo em 3 bullets
+- O atual gerente da divisão de inteligência artificial (IA) da Microsoft, Mustafa Suleyman, acredita que a substituição massiva de trabalhadores humanos por s...
+- Ele comentou sobre a previsão em uma entrevista ao jornal Financial Times .
+- "O trabalho de escritório, em que você fica sentado em frente a um computador, seja como advogado, contador, gerente de projetos ou profissional de marketing...
+
+## Contexto
+O atual gerente da divisão de inteligência artificial (IA) da Microsoft, Mustafa Suleyman, acredita que a substituição massiva de trabalhadores humanos por sistemas automatizados está próxima. Ele comentou sobre a previsão em uma entrevista ao jornal Financial Times . "O trabalho de escritório, em que você fica sentado em frente a um computador, seja como advogado, contador, gerente de projetos ou profissional de marketing — a maioria dessas tarefas será totalmente automatizada por uma IA nos próximos 12 a 18 meses ", afirma Suleyman.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/mercado/410673-empregos-na-frente-do-pc-acabarao-ate-2028-preve-chefe-da-microsoft.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

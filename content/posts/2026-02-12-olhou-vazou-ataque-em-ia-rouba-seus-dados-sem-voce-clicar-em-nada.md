@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/seguranca/olhou-vazou-ataque-em-ia-rouba
 image_url: "https://t.ctcdn.com.br/h9uG6viev7PEhRrasvKFX2e-GKI=/700x394/smart/i1101837.png"
 image: "https://t.ctcdn.com.br/h9uG6viev7PEhRrasvKFX2e-GKI=/700x394/smart/i1101837.png"
 slug: "olhou-vazou-ataque-em-ia-rouba-seus-dados-sem-voce-clicar-em-nada"
+seo_title: "Olhou, vazou: ataque em IA rouba seus dados sem você clicar em"
+meta_description: "Olhou, vazou: ataque em IA rouba seus dados sem você clicar em nada. Um ataque de clique zero que afeta ferramentas de inteligência artificial (IA) pode vazar o"
+canonical_url: "https://news.juliano340.com/posts/olhou-vazou-ataque-em-ia-rouba-seus-dados-sem-voce-clicar-em-nada"
+og_type: "article"
+published_at: "2026-02-12T10:35:00.000Z"
+modified_at: "2026-02-12T10:35:00.000Z"
+primary_source: "https://canaltech.com.br/seguranca/olhou-vazou-ataque-em-ia-rouba-seus-dados-sem-voce-clicar-em-nada/"
+schema_type: "NewsArticle"
+schema_headline: "Olhou, vazou: ataque em IA rouba seus dados sem você clicar em nada"
+schema_description: "Olhou, vazou: ataque em IA rouba seus dados sem você clicar em nada. Um ataque de clique zero que afeta ferramentas de inteligência artificial (IA) pode vazar o"
+schema_date_published: "2026-02-12T10:35:00.000Z"
+schema_date_modified: "2026-02-12T10:35:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/olhou-vazou-ataque-em-ia-rouba-seus-dados-sem-voce-clicar-em-nada"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/olhou-vazou-ataque-em-ia-rouba-seus-dados-sem-voce-clicar-em-nada"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Olhou, vazou: ataque em IA rouba seus dados sem você clicar em nada" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/h9uG6viev7PEhRrasvKFX2e-GKI=/700x394/smart/i1101837.png"></p> <p>Um ataque de clique zero que afeta ferramentas de inteligência artificial (IA) pode <strong>vazar os seus dados</strong> <strong>sem que você precise interagir com links maliciosos</strong>. Basta olhar para eles que o estrago está feito.</p> <ul> <li><a href="https://canaltech.com.br/seguranca/golpe-do-tribunal-de-justica-engana-brasileiros-com-cpfs-vazados-para-roubar-pix/">Golpe do Tribunal de Justiça engana brasileiros com CPFs vazados para roubar Pix</a></li> <li><a href="https://canaltech.com.br/seguranca/antivirus-falso-no-android-rouba-senhas-bancarias-em-vez-de-proteger/">Antivírus falso no Android rouba senhas bancárias em vez de proteger</a></li> </ul> <p>Segundo a empresa de segurança PromptArmor, a campanha consiste na<strong> injeção de prompts</strong> comprometidos na IA que fingem ser o usuário em um aplicativo de mensagem. O objetivo é distribuir um link malicioso que não precisa ser clicado para conseguir infectar o sistema.</p> <p>Isso é possível graças a um recurso legítimo de plataformas de conversa, como o Telegram e o Slack, que verificam links inseridos em uma mensagem para extrair informações (título, descrição e miniatura) e exibi-los no chat no lugar de uma URL completa. É justamente essa <strong>pré-visualização de links</strong> que, a partir do prompt malicioso, rouba informações sensíveis do usuário sem que ele precise interagir.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <h2>Mudança de tática</h2> <p>Um ponto que chamou a atenção dos especialistas durante as investigações é a maneira como a campanha coleta informações sensíveis sem necessitar do clique da vítima. Afinal, injeções de prompts são ataques comuns quando IAs estão envolvidas, mas muitos casos exigem que os usuários interajam com links corrompidos para que a cadeia de contaminação comece.</p> <figure class="image"><img src="https://t.ctcdn.com.br/bYkfy2EgzgULtbWIHfrIt5HojY0=/1024x0/smart/i1101839.png" alt="" caption="true" data-ivi="pylb"> <figcaption>Pré-visualização de links enviados por IAs corrompidas em aplicativos de mensagem podem roubar dados (Imagem: Reprodução/Freepik).</figcaption> </figure> <p>Com essa alteração de estratégia, os ataques se tornaram ainda mais<strong> instantâneos e bem-sucedidos</strong>, porque o usuário não precisa fazer todo o processo de clicar no link e inserir suas informações pessoais em uma página controlada pelo hacker, por exemplo. No caso da infecção por pré-visualização, tudo ocorre num piscar de olhos.</p> <p>Mas o que exatamente essa simples olhada no link pode provocar? Considerando que a pré-visualização extrai <a href="https://canaltech.com.br/seguranca/metadados-o-perigo-invisivel-escondido-nas-suas-fotos/">metadados </a>do dispositivo, a URL comprometida consegue captar dados confidenciais da vítima, como chaves de API e credenciais sensíveis, por meio de uma busca automática baseada nas requisições do hacker.</p> <p>É por isso que o ataque se concretiza “sozinho”, excluindo a necessidade de interação por parte do usuário para que as informações sejam roubadas.</p> <p>Leia também:</p> <ul> <li><a href="https://canaltech.com.br/seguranca/o-stalker-foi-stalkeado-vazamento-expoe-dados-de-quem-usava-apps-espioes/">O stalker foi stalkeado: vazamento expõe dados de quem usava apps espiões</a></li> <li><a href="https://canaltech.com.br/seguranca/bug-em-ransomware-faz-grupo-perder-chaves-e-destroi-dados-hackeados-para-sempre/">Bug em ransomware faz grupo perder chaves e destrói dados hackeados para sempre</a></li> <li><a href="https://canaltech.com.br/seguranca/hackers-usam-qr-code-para-espionar-conversas-de-politicos-e-militares/">Hackers usam QR Code para espionar conversas de políticos e militares</a></li> </ul> <p...
+## Resumo em 3 bullets
+- Um ataque de clique zero que afeta ferramentas de inteligência artificial (IA) pode vazar os seus dados sem que você precise interagir com links maliciosos .
+- Basta olhar para eles que o estrago está feito.
+- Golpe do Tribunal de Justiça engana brasileiros com CPFs vazados para roubar Pix Antivírus falso no Android rouba senhas bancárias em vez de proteger Segundo...
+
+## Contexto
+Um ataque de clique zero que afeta ferramentas de inteligência artificial (IA) pode vazar os seus dados sem que você precise interagir com links maliciosos . Basta olhar para eles que o estrago está feito. Golpe do Tribunal de Justiça engana brasileiros com CPFs vazados para roubar Pix Antivírus falso no Android rouba senhas bancárias em vez de proteger Segundo a empresa de segurança PromptArmor, a campanha consiste na injeção de prompts comprometidos na IA que fingem ser o usuário em um aplicativo de mensagem.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/seguranca/olhou-vazou-ataque-em-ia-rouba-seus-dados-sem-voce-clicar-em-nada/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

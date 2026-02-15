@@ -5,6 +5,69 @@ tags: ["canaltech"]
 source: "Canaltech"
 original_url: "https://canaltech.com.br/hardware/monstro-da-intel-nova-lake-pode-ter-die-4x-maior-que-ryzen-e-virar-forno/"
 slug: "monstro-da-intel-nova-lake-pode-ter-die-4x-maior-que-ryzen-e-virar-forno"
+seo_title: "Monstro da Intel? Nova Lake pode ter die 4x maior que Ryzen e"
+meta_description: ". Um processador moderno é feito de várias partes, que são os diferentes chiplets de dies, cada um com seu papel específico. O die de processamento, que comport"
+canonical_url: "https://news.juliano340.com/posts/monstro-da-intel-nova-lake-pode-ter-die-4x-maior-que-ryzen-e-virar-forno"
+og_type: "article"
+published_at: "2026-02-11T21:45:00.000Z"
+modified_at: "2026-02-11T21:45:00.000Z"
+primary_source: "https://canaltech.com.br/hardware/monstro-da-intel-nova-lake-pode-ter-die-4x-maior-que-ryzen-e-virar-forno/"
+schema_type: "NewsArticle"
+schema_headline: "Monstro da Intel? Nova Lake pode ter die 4x maior que Ryzen e virar \"forno\""
+schema_description: ". Um processador moderno é feito de várias partes, que são os diferentes chiplets de dies, cada um com seu papel específico. O die de processamento, que comport"
+schema_date_published: "2026-02-11T21:45:00.000Z"
+schema_date_modified: "2026-02-11T21:45:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/monstro-da-intel-nova-lake-pode-ter-die-4x-maior-que-ryzen-e-virar-forno"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/monstro-da-intel-nova-lake-pode-ter-die-4x-maior-que-ryzen-e-virar-forno"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Monstro da Intel? Nova Lake pode ter die 4x maior que Ryzen e virar "forno"" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-Um processador moderno é feito de várias partes, que são os diferentes chiplets de dies, cada um com seu papel específico. O die de processamento, que comporta os núcleos, costuma ser um dos maiores. No caso da próxima geração de CPUs Intel, Nova Lake, esse pedaço mais importante deve medir cerca de 110 mm² em uma configuração de 8 núcleos eficientes e 16 núcleos de performance, chegando a quase 3x mais na configuração máxima. Dicas para melhorar o desempenho de CPUs Intel Quando vale a pena comprar um processador Intel Core i9? As informações vêm do leaker HXL e nos dá uma ideia do que esperar em termos de "entranhas" dos novos Core Ultra 400 para desktop, embora isso não seja atraente para a maior parte dos usuários. Segundo o rumor, a adição de 144 MB de cache bLLC, que é a tentativa da Intel de destronar os AMD Ryzen X3D, aumentaria o tile die para cerca de 150 mm². Esse rumor afirma ainda que esses dies de processamento serão feitos em 2 nm da TSMC, então nada de Intel 18A. CPU Nova Lake topo de linha pode ter tile de núcleos enorme Agora olhando para a configuração máxima, segundo rumores, com tile comportando até 52 núcleos, é possível o die de computação passe de 300 mm² com dois tiles, principalmente considerando a grande quantidade de cache bLLC, que pode chegar a quase 300 MB. Para efeito de comparação, um die CCD da AMD, com 8 núcleos Zen 5, mais 32 MB de cache L3 e 64 MB de cache 3D, tem cerca de 71 mm². -Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.- NVL 8+16 Die TSMC N2 ~110+mm2NVL 8+16 bLLC Die TSMC N2 ~150+mm2 https://t.co/beHNikpl1O — HXL (@9550pro) February 11, 2026 "E isso significa o que para o consumidor?", você pode se perguntar. Duas coisas essenciais: consumo e aquecimento. Dies maiores têm potencial para consumirem mais energia, algo que parece realmente ser o caso das CPUs Nova Lake high-end, que consequentemente gera mais aquecimento. Com tiles desse tamanho, logo imaginamos que os processadores serão maiores e precisarão de novos coolers em relação ao que a Intel oferece hoje com os Arrow Lake e a plataforma LGA-1851. Rumores indicam que os Core Ultra 400 usarão um novo socket com mais pinos (LGA-1954), mas terá o mesmo tamanho dos sockets atuais para CPUs Alder Lake, Raptor Lake e Arrow Lake. Isso significa que será possível usar seu cooler que comprou ainda para refrigerar seu Core i5-12400F na nova CPU Nova Lake, considerando esses rumores. Os novos processadores Nova Lake estão previstos para chegar no final de 2026. Veja mais do CTUP: Z970 sem PCIe 5.0? Vazamento revela corte polêmico no novo chipset Intel ASRock libera nova BIOS com correções de memória para CPUs AMD Ryzen Adoção do Intel 18A exige reestruturação de design e afasta clientes de fundição Leia a matéria no Canaltech.
+## Resumo em 3 bullets
+- Um processador moderno é feito de várias partes, que são os diferentes chiplets de dies, cada um com seu papel específico.
+- O die de processamento, que comporta os núcleos, costuma ser um dos maiores.
+- No caso da próxima geração de CPUs Intel, Nova Lake, esse pedaço mais importante deve medir cerca de 110 mm² em uma configuração de 8 núcleos eficientes e 16...
+
+## Contexto
+Um processador moderno é feito de várias partes, que são os diferentes chiplets de dies, cada um com seu papel específico. O die de processamento, que comporta os núcleos, costuma ser um dos maiores. No caso da próxima geração de CPUs Intel, Nova Lake, esse pedaço mais importante deve medir cerca de 110 mm² em uma configuração de 8 núcleos eficientes e 16 núcleos de performance, chegando a quase 3x mais na configuração máxima.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/hardware/monstro-da-intel-nova-lake-pode-ter-die-4x-maior-que-ryzen-e-virar-forno/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #canaltech](/tags/canaltech)
+- [Outros destaques em #negocios](/tags/negocios)

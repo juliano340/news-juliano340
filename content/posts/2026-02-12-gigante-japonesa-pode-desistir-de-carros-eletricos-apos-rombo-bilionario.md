@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/carros/gigante-japonesa-pode-desistir-de
 image_url: "https://t.ctcdn.com.br/KIg3yJkfBu19Zmf_2ga945Tk6-8=/700x394/smart/i636945.jpeg"
 image: "https://t.ctcdn.com.br/KIg3yJkfBu19Zmf_2ga945Tk6-8=/700x394/smart/i636945.jpeg"
 slug: "gigante-japonesa-pode-desistir-de-carros-eletricos-apos-rombo-bilionario"
+seo_title: "Gigante japonesa pode desistir de carros elétricos após rombo"
+meta_description: "Gigante japonesa pode desistir de carros elétricos após rombo bilionário. Enquanto as marcas chinesas seguem apostando cada vez mais na popularização dos carros"
+canonical_url: "https://news.juliano340.com/posts/gigante-japonesa-pode-desistir-de-carros-eletricos-apos-rombo-bilionario"
+og_type: "article"
+published_at: "2026-02-12T16:05:00.000Z"
+modified_at: "2026-02-12T16:05:00.000Z"
+primary_source: "https://canaltech.com.br/carros/gigante-japonesa-pode-desistir-de-carros-eletricos-apos-rombo-bilionario/"
+schema_type: "NewsArticle"
+schema_headline: "Gigante japonesa pode desistir de carros elétricos após rombo bilionário"
+schema_description: "Gigante japonesa pode desistir de carros elétricos após rombo bilionário. Enquanto as marcas chinesas seguem apostando cada vez mais na popularização dos carros"
+schema_date_published: "2026-02-12T16:05:00.000Z"
+schema_date_modified: "2026-02-12T16:05:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/gigante-japonesa-pode-desistir-de-carros-eletricos-apos-rombo-bilionario"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/gigante-japonesa-pode-desistir-de-carros-eletricos-apos-rombo-bilionario"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Gigante japonesa pode desistir de carros elétricos após rombo bilionário" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/KIg3yJkfBu19Zmf_2ga945Tk6-8=/700x394/smart/i636945.jpeg"></p> <p>Enquanto as <strong>marcas chinesas seguem apostando cada vez mais</strong> na <strong>popularização dos carros elétricos</strong>, fabricantes de um <strong>outro país</strong>, curiosamente <strong>também de origem asiática</strong>, não parecem <strong>convencidos</strong> de que a frota do <strong>futuro será cada vez mais “verde”</strong>.</p> <ul> <li><a href="https://canaltech.com.br/carros/top-10-das-montadoras-byd-deixa-mais-uma-gigante-para-tras/">Top 10 das montadoras: BYD deixa mais uma gigante para trás</a></li> <li><a href="https://canaltech.com.br/carros/como-funcionam-as-cameras-da-cybertruck-de-acidente-que-matou-motociclista-em-sp/">Como funcionam as câmeras da Cybertruck de acidente que matou motociclista em SP</a></li> </ul> <p><strong>Depois de a Toyota</strong> afirmar categoricamente que <strong>não vê a eletrificação total de seus carros</strong> como solução para descarbonizar o planeta, <strong>agora é a vez da Honda</strong> flertar com <strong>novos rumos</strong> no que diz respeito aos seus <strong>próximos passos no mercado automotivo</strong>.</p> <p>O <strong>último relatório apresentado pela fabricante</strong> japonesa constatou que a <strong>aposta nos carros elétricos não trouxe o retorno esperado. </strong>Por isso, uma <strong>mudanças radical</strong> está sendo preparada.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <p>Segundo os dados divulgados, a <strong>Honda registrou prejuízo de R$ 27 bilhões em 2025</strong>, graças às baixas contábeis, projetos cancelados e <strong>vendas aquém do esperado</strong> de seus modelos elétricos.</p> <figure class="image"><img src="https://t.ctcdn.com.br/mfd3fWJl5VvIxTNo88Jgu48WQmY=/1024x0/smart/i636951.jpeg" alt="" caption="true" data-ivi="juyu"> <figcaption>Prologue foi projetado em cima da arquitetura do Blazer EV (Imagem: Divulgação/Honda)</figcaption> </figure> <h2>Por que a Honda fracassou no segmento elétrico?</h2> <p>O <strong>rombo bilionário nas contas da Honda</strong> por causa do <strong>mau desempenho dos carros elétricos</strong> da marca no mercado tem explicação. Na visão dos analistas de mercado, o <strong>fracasso pode ser atribuído a três principais fatores</strong>:</p> <ol> <li> <strong>Dependência da GM:</strong> a Honda lançou apenas dois modelos elétricos nos Estados Unidos, Prologue e Acura ZDX, ambos derivados do Chevrolet Blazer EV, mas sem o mesmo sucesso do carro elétrico “original”;</li> <li> <strong>Baixa competitividade</strong>: lançar poucos modelos acabou afetando a marca na disputa com BYD, Tesla e outras fabricantes que têm um leque amplo de opções.</li> <li> <strong>Falta de identidade</strong>: a “dependência” da GM acabou gerando um outro ponto negativo para a Honda fracassar no segmento de elétricos, que é a falta de identidade dos carros lançados pela marca.</li> </ol> <p>Para dar a volta por cima e <a href="https://canaltech.com.br/carros/honda-apresenta-seu-novo-carro-eletrico-com-cambio-manual-e-ronco-no-motor/">não desistir definitivamente dos carros elétricos</a><strong>, </strong>a Honda <strong>anunciou uma revisão completa de sua estratégia para o segmento</strong>. A montadora informou que pretende <strong>reduzir a dependência de parceiros externos</strong> e <strong>investir em plataformas próprias</strong>, buscando <strong>recuperar competitividade e credibilidade</strong> no mercado.</p> <p><strong>Leia também</strong>:</p> <ul> <li><a href="https://canaltech.com.br/carros/quanto-custaria-uma-honda-cg-125-hoje-com-a-inflacao/">Quanto custaria uma Honda CG 125 hoje, com a inflação?</a></li> <li><a href="https://canaltech.com.br/carros/5-suvs-mais-baratos-do-brasil-em-fevereiro-de-2026/">5 SUVs mais baratos do Brasil em fe...
+## Resumo em 3 bullets
+- Enquanto as marcas chinesas seguem apostando cada vez mais na popularização dos carros elétricos , fabricantes de um outro país , curiosamente também de orig...
+- Top 10 das montadoras: BYD deixa mais uma gigante para trás Como funcionam as câmeras da Cybertruck de acidente que matou motociclista em SP Depois de a Toyo...
+- O último relatório apresentado pela fabricante japonesa constatou que a aposta nos carros elétricos não trouxe o retorno esperado.
+
+## Contexto
+Enquanto as marcas chinesas seguem apostando cada vez mais na popularização dos carros elétricos , fabricantes de um outro país , curiosamente também de origem asiática , não parecem convencidos de que a frota do futuro será cada vez mais “verde” . Top 10 das montadoras: BYD deixa mais uma gigante para trás Como funcionam as câmeras da Cybertruck de acidente que matou motociclista em SP Depois de a Toyota afirmar categoricamente que não vê a eletrificação total de seus carros como solução para descarbonizar o planeta, agora é a vez da Honda flertar com novos rumos no que diz respeito aos seus próximos passos no mercado automotivo . O últim...
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/carros/gigante-japonesa-pode-desistir-de-carros-eletricos-apos-rombo-bilionario/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

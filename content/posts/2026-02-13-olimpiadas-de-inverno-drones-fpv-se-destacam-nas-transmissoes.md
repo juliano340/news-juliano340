@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/drones/olimpiadas-de-inverno-drones-fpv-
 image_url: "https://t.ctcdn.com.br/PA485WesiaMP6-147VaBjJlorsg=/0x48:1460x878/700x394/smart/i1102403.png"
 image: "https://t.ctcdn.com.br/PA485WesiaMP6-147VaBjJlorsg=/0x48:1460x878/700x394/smart/i1102403.png"
 slug: "olimpiadas-de-inverno-drones-fpv-se-destacam-nas-transmissoes"
+seo_title: "Olimpíadas de Inverno: drones FPV se destacam nas transmissões"
+meta_description: "Olimpíadas de Inverno: drones FPV se destacam nas transmissões. A edição atual das Olimpíadas de Inverno ganhou um destaque que vai além do aspecto esportivo: a"
+canonical_url: "https://news.juliano340.com/posts/olimpiadas-de-inverno-drones-fpv-se-destacam-nas-transmissoes"
+og_type: "article"
+published_at: "2026-02-13T10:38:21.000Z"
+modified_at: "2026-02-13T10:38:21.000Z"
+primary_source: "https://canaltech.com.br/drones/olimpiadas-de-inverno-drones-fpv-se-destacam-nas-transmissoes/"
+schema_type: "NewsArticle"
+schema_headline: "Olimpíadas de Inverno: drones FPV se destacam nas transmissões"
+schema_description: "Olimpíadas de Inverno: drones FPV se destacam nas transmissões. A edição atual das Olimpíadas de Inverno ganhou um destaque que vai além do aspecto esportivo: a"
+schema_date_published: "2026-02-13T10:38:21.000Z"
+schema_date_modified: "2026-02-13T10:38:21.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/olimpiadas-de-inverno-drones-fpv-se-destacam-nas-transmissoes"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/olimpiadas-de-inverno-drones-fpv-se-destacam-nas-transmissoes"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Olimpíadas de Inverno: drones FPV se destacam nas transmissões" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>A edição atual das Olimpíadas de Inverno ganhou um destaque que vai além do aspecto esportivo: a transmissão com drones de visão em primeira pessoa (FPV). A tecnologia tem sido utilizada de forma ampla em diferentes modalidades, para capturar imagens dinâmicas que “acompanham os atletas”.&nbsp;</p>  <ul>  <li><a href="https://canaltech.com.br/produtos/3-melhores-drones-para-amadores-veja-como-comecar/">3 melhores drones para amadores: veja como começar</a></li>  <li><a href="https://canaltech.com.br/produtos/10-dicas-para-gravar-videos-incriveis-com-o-seu-smartphone/">10 dicas para gravar vídeos incríveis com o seu smartphone</a></li>  </ul>  <p>De acordo com a Olympic Broadcasting Services (OBS), responsável pelas transmissões, a ferramenta entrega uma "terceira dimensão" às transmissões, em comparação com as câmeras fixas tradicionais.</p>  <ul>  <li><a href="https://www.whatsapp.com/channel/0029Va8w71Y9xVJhPriudt0q?utm_source=produtos">🤩 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas</a></li>  </ul>  <h2>Como funciona um drone FPV</h2>  <p>Os drones utilizados nas transmissões das Olimpíadas são desenvolvidos pela Dutch Drone Gods, responsável também por equipamentos utilizados na captura de <a href="https://canaltech.com.br/carros/formula-1-qual-e-a-velocidade-maxima-de-um-carro-na-f1/">carros de Fórmula 1.</a></p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>    Drones fazem transmissões dinâmicas nas Olimpíadas (Imagem: Reprodução/Dutch Drone Gods)    <p>As unidades implementadas<a href="https://canaltech.com.br/drones/dji-fpv-e-o-drone-que-mescla-recreacao-esporte-e-fotografia-aerea-179876/"> pesam menos de 250 gramas, </a>o que é essencial para permitir a proximidade com pessoas dentro das normas de segurança. Os dispositivos atingem velocidades de até 120 km/h, o que é suficiente para acompanhar diversas modalidades de perto.&nbsp;</p>  <p>Seu design apresenta lâminas invertidas, com propulsores montados na parte inferior do chassi. Essa configuração visa melhorar a eficiência aerodinâmica e a precisão em curvas fechadas.</p>  <p>Cada equipamento é operado por uma equipe composta por um piloto, um diretor e um técnico. O grupo mantém comunicação direta com o caminhão de transmissão para a realização de ajustes de filtros de vídeo em tempo real.</p>  <p>Os pilotos trabalham em posições elevadas para garantir a manutenção da linha de visão durante o voo.&nbsp;</p>  <p>A instalação dos equipamentos varia conforme o ambiente, já que pode usar andaimes em locais fechados e soluções adaptadas ao terreno íngreme em áreas alpinas.</p>  <h2>Drones nas Olimpíadas - principais modalidades&nbsp;</h2>  <p>Nos esportes de deslize, como Luge, Skeleton e Bobsled, a tecnologia faz sua estreia histórica ao acompanhar o atleta nas primeiras três ou quatro curvas para registrar a velocidade e a precisão da linha percorrida.</p>  <p>Já no esqui alpino, os dispositivos perseguem os competidores em descidas íngremes. A captação foca na técnica aplicada em trechos de cristas cegas e zonas de compressão.</p>  <p>Durante o salto de esqui, o drone segue o atleta na rampa de decolagem e realiza um desvio no ar, para registrar o posicionamento do corpo durante a fase de voo.</p>  <p>Além disso, pela primeira vez, drones realizam a perseguição de patinadores por trás em arenas fechadas de patinação de velocidade. No biatlo, o recurso é aplicado na largada para mostrar a disputa por posições no pelotão.</p>  <p>Por serem muito leves e compactos, os drones têm baterias com capacidade reduzida. Após cerca de duas descidas, é preciso retornar à base para substituir as células.</p>  <p>A operação em Milão-Cortina, sedes das Olimpíadas, conta com um total de 15 drones FPV. Também são utilizados <a href="https://canaltech.com.br/produtos/5-drones-que-fazem-coisas-que-voce-nunca-imaginou/">10 drones tradicionais</a> para capturas estáticas e de cenários.</p>  <h2>Outras tecnologias de transmissão</h2>  <p>Para além dos drones, a OBS ainda introduziu tecnologias de análise visual avançada em parceria com a Alibaba e a OMEGA. Um dos destaques é o sistema de Replay 360º em tempo real, que utiliza entre 20 e 50 câmeras integradas por inteligência artificial.</p>    Solução tem recepções mistas (Imagem: Reprodução/Dutch Drone Gods)    <p>Na prática, a tecnologia permite capturar todos os ângulos simultaneamente, com o congelamento da imagem e a rotação total da cena. A análise estroboscópica via IA também destaca trajetórias de movimento e posições corporais em uma única sequência visual.</p>  <p>No total, a transmissão das Olimpíadas demanda a utilização de aproximadamente 800 câmeras.&nbsp;</p>  <h2>Atletas têm opiniões mistas</h2>  <p>A utilização de drones rápidos gera reações mistas entre atletas participantes das Olimpíadas.&nbsp;</p>  <p>A bobsledder Ashley Farquharson, por exemplo, avaliou a inovação de forma positiva, já que contribui para dar “visibilidade e dimensão real às modalidades”.</p>  <p>No entanto, há registros de preocupações relacionadas à segurança após a queda de um drone durante um treino de esqui downhill. O incidente resultou na presença de detritos na pista de competição.</p>  <p>Além disso, a snowboarder Bea Kim relatou que alguns dispositivos voam muito próximos aos atletas. O ruído agudo dos propulsores também é alvo de queixas, ao ser comparado com as vuvuzelas da Copa do Mundo de 2010.</p>  <p>Já a bobsledder Elana Meyers Taylor afirmou que o ângulo de visão FPV pode causar náusea em parte dos espectadores, por conta da agitação excessiva das imagens capturadas em movimento.</p>  <h3>Leia mais no Canaltech:</h3>  <ul>  <li><a href="https://canaltech.com.br/smartphone/motorola-signature-se-destaca-em-teste-de-camera-ultrawide-veja-resultados/">Motorola Signature se destaca em teste de câmera ultrawide; veja resultados</a></li>  <li><a href="https://canaltech.com.br/fone-de-ouvido/sony-lanca-seus-melhores-fones-buds-ate-hoje-xm6-tem-anc-renovado/">Sony lança seus melhores fones buds até hoje; XM6 tem ANC renovado</a></li>  <li><a href="https://canaltech.com.br/tv/anatel-abre-consulta-publica-sobre-tv-30-no-brasil-veja-o-que-muda/">Anatel abre consulta pública sobre TV 3.0 no Brasil; veja o que muda</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/drones/olimpiadas-de-inverno-drones-fpv-se-destacam-nas-transmissoes/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- A edição atual das Olimpíadas de Inverno ganhou um destaque que vai além do aspecto esportivo: a transmissão com drones de visão em primeira pessoa (FPV).
+- A tecnologia tem sido utilizada de forma ampla em diferentes modalidades, para capturar imagens dinâmicas que “acompanham os atletas”.&nbsp; 3 melhores drone...
+- 🤩 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Como funciona um drone FPV Os drones utilizados nas transmissões das Olimpíadas são desenvolv...
+
+## Contexto
+A edição atual das Olimpíadas de Inverno ganhou um destaque que vai além do aspecto esportivo: a transmissão com drones de visão em primeira pessoa (FPV). A tecnologia tem sido utilizada de forma ampla em diferentes modalidades, para capturar imagens dinâmicas que “acompanham os atletas”.&nbsp; 3 melhores drones para amadores: veja como começar 10 dicas para gravar vídeos incríveis com o seu smartphone De acordo com a Olympic Broadcasting Services (OBS), responsável pelas transmissões, a ferramenta entrega uma "terceira dimensão" às transmissões, em comparação com as câmeras fixas tradicionais. 🤩 Veja as melhores promoções de hoje no What...
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/drones/olimpiadas-de-inverno-drones-fpv-se-destacam-nas-transmissoes/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #esporte](/tags/esporte)

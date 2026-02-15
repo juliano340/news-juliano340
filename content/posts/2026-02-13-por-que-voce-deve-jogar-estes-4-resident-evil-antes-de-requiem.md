@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/games/por-que-voce-deve-jogar-estes-4-re
 image_url: "https://t.ctcdn.com.br/CAOOp6wzFRxtYAEQBcSh_t6B270=/700x394/smart/i1102383.png"
 image: "https://t.ctcdn.com.br/CAOOp6wzFRxtYAEQBcSh_t6B270=/700x394/smart/i1102383.png"
 slug: "por-que-voce-deve-jogar-estes-4-resident-evil-antes-de-requiem"
+seo_title: "Por que você deve jogar estes 4 Resident Evil antes de Requiem"
+meta_description: "Por que você deve jogar estes 4 Resident Evil antes de Requiem?. Nos últimos dias, publicamos diferentes materiais envolvendo Resident Evil em preparação ao Req"
+canonical_url: "https://news.juliano340.com/posts/por-que-voce-deve-jogar-estes-4-resident-evil-antes-de-requiem"
+og_type: "article"
+published_at: "2026-02-13T18:00:00.000Z"
+modified_at: "2026-02-13T18:00:00.000Z"
+primary_source: "https://canaltech.com.br/games/por-que-voce-deve-jogar-estes-4-resident-evil-antes-de-requiem/"
+schema_type: "NewsArticle"
+schema_headline: "Por que você deve jogar estes 4 Resident Evil antes de Requiem?"
+schema_description: "Por que você deve jogar estes 4 Resident Evil antes de Requiem?. Nos últimos dias, publicamos diferentes materiais envolvendo Resident Evil em preparação ao Req"
+schema_date_published: "2026-02-13T18:00:00.000Z"
+schema_date_modified: "2026-02-13T18:00:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/por-que-voce-deve-jogar-estes-4-resident-evil-antes-de-requiem"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/por-que-voce-deve-jogar-estes-4-resident-evil-antes-de-requiem"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Por que você deve jogar estes 4 Resident Evil antes de Requiem?" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>Nos últimos dias, publicamos diferentes materiais envolvendo Resident Evil em preparação ao <strong>Requiem, que chega no dia 27 de fevereiro</strong>. Agora, vamos sugerir alguns títulos que merecem uma atenção maior antes do novo jogo, caso não queira <a href="https://canaltech.com.br/games/maratonando-resident-evil-saiba-o-tempo-de-duracao-de-cada-jogo/">"maratonar" toda a franquia</a>. <strong>Os jogos escolhidos envolvem os personagens principais da nova trama</strong> e é interessante para termos noção de seus passados.</p>  <ul>  <li><a href="https://canaltech.com.br/games/resident-evil-saiba-a-ordem-certa-para-jogar-e-assistir/">Resident Evil: saiba a ordem certa para jogar e assistir</a></li>  <li><a href="https://canaltech.com.br/games/quantos-anos-leon-tinha-em-cada-um-dos-resident-evil/">Quantos anos Leon tinha em cada um dos Resident Evil?</a></li>  </ul>  <p>A franquia conecta sua história por dezenas de títulos (nem todos canônicos) ao longo desses 30 anos. Por isso, <strong>o que a Capcom apresentará em Resident Evil Requiem começou muito antes com jogos focados em Leon Kenndy e <a href="https://canaltech.com.br/games/quem-e-alyssa-ashcroft-mae-da-protagonista-de-resident-evil-requiem/">Alyssa Ashcroft</a></strong>, ambos contemporâneos do <a href="https://canaltech.com.br/games/27-anos-do-incidente-em-raccoon-city-como-estao-leon-claire-e-jill-atualmente/">incidente de Raccoon City</a>.</p>  <p>Quer estar totalmente preparado para jogar Resident Evil Requiem? Então veja os 4 jogos indispensáveis para aproveitar o novo capítulo da franquia ao máximo.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <h2>Resident Evil 2</h2>  <p>A primeira escolha é óbvia, já que se trata do início da história de Leon na franquia. Tanto <strong>Resident Evil 2</strong> original de 1998, quanto o remake que chegou 20 anos depois, <strong>narram a chegada do personagem em Racoon City para seu primeiro dia de trabalho como policial da cidade</strong>. Embora a história seja a mesma, o motivo pelo qual ele chega atrasado ao seu primeiro dia de trabalho muda.</p>  <p></p>  <p>De qualquer forma, Leon passa pelo pior pesadelo possível na sua estreia profissional. Eventualmente, ele consegue lidar com tudo, <strong>conhece Claire Redfield</strong>, irmã de Chris Redfield, protagonista do primeiro jogo, além de <strong>Ada Wong (que sempre aparece nos mesmos jogos que ele)</strong> e <strong>Sherry Birkin</strong>, filha do cientista responsável por criar o T-Vírus. E aqui vale uma observação: a comunidade acredita que quem fala com Leon nos t<a href="https://canaltech.com.br/games/showcase-de-resident-evil-requiem-e-recheado-de-gameplay-brutal-com-leon/">railers de Resident Evil Requiem</a> <strong>é a Sherry</strong>, já que <strong>ela se torna uma agente do governo dos EUA</strong>, como podemos ver em RE 6.</p>  <p>Antes de partirmos para o próximo jogo, aqui vale uma <strong>menção honrosa: Resident Evil 3</strong>. O jogo em si não tem tanta importância para Requiem, a não ser pelo fato de Raccoon City ter sido obliterada por uma bomba no fim da trama de Jill Valentine. Isso é importante, porque <a href="https://canaltech.com.br/games/como-raccoon-city-ainda-existe-em-resident-evil-requiem/">a cidade estará de volta no novo jogo</a>.</p>  <h2>Resident Evil Outbreak</h2>  <p>Agora, focamos na personagem que tem ligação com a nova protagonista da franquia, <strong>Grace Ashcroft, filha de Alyssa</strong>, que é uma das várias protagonistas dos dois Resident Evil Outbreak. Nos games de PS2, que podem ser jogados no console ou emulado (assistir no <a href="https://canaltech.com.br/empresa/youtube/">YouTube</a> também é uma opção), Alyssa é apresentada como uma <strong>jornalista investigativa</strong>.</p>  <p></p>  <p>A Capcom poderia ter pego qualquer um dois oito personagens desse spin-off, mas a decisão por Alyssa pode ser embasada no fato de ela ser uma pessoa que vai a fundo na investigação de algo, sem medo, para expor os "podres" de algo ou alguém, assim como ela fez com a Umbrella em 1998. <strong>A personagem é citada até mesmo em RE7</strong>.</p>  <h2>Resident Evil 4 e 6</h2>  <p>No game de 2005, temos um aprofundamento na história de Leon. Aqui, ele parte para a Espanha atrás da filha do presidente dos EUA, Ashley Graham. É nesse jogo que vemos o <strong>Leon mais "zoeiro" da franquia, fazendo piada de tudo</strong>. Por isso, o remake de RE2 trouxe um pouco mais desse lado, diferente do original.</p>  <p>Já em Resident Evil 6, temos um Leon mais maduro, com mais de 30 anos, e bastante experiente. Esse jogo, que é considerado por muitos fãs da franquia como o pior, é importante porque o herói tem um <strong>gameplay um pouco parecido com RE Requiem</strong>, onde ele consegue desferir diferentes golpes contra os inimigos. Além disso, se observar bem, até a forma como os zumbis recebem danos é similar em ambos os jogos (considerando o que vimos em trailers do novo jogo).</p>  <p></p>  <p>Além disso, temos a presença de <strong>Sherry Birkin adulta, confirmado pelo trailer mais recente de Resident Evil Requiem, como uma agente dos EUA, possivelmente a mesma equipe de Leon</strong>, que por sua vez continua com o mesmo empregador em Requiem. RE6 pode ser uma boa oportunidade&nbsp;para conhecer a personagem, caso nunca tenha jogado.</p>  <p>Além dos jogos, Leon é o personagem que mais aparece nos longas. Então existem mais histórias sobre o personagem do que só nos jogos, principalmente considerando que eles são canônicos. Neles, vemos <strong>Leon e Claire juntos de novo</strong>; <strong>Leon por conta própria no leste europeu</strong>; <strong>Leon com uma nova equipe e contra o próprio EUA</strong>; e <strong>Leon conhecendo Jill Valentine pela primeira vez</strong> (em tela), além de uma reunião com todos os outros protagonistas.</p>  <p><strong>Veja mais do CTUP:</strong></p>  <ul>  <li><a href="https://canaltech.com.br/games/jogos-resident-evil-presos-consoles-antigos/">7 Resident Evil que estão presos no passado e não podem ser jogados hoje</a></li>  <li><a href="https://canaltech.com.br/games/preview-resident-evil-requiem-a-forma-perfeita-de-celebrar-30-anos-da-franquia/">Preview Resident Evil Requiem | A forma perfeita de celebrar 30 anos da franquia</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/games/por-que-voce-deve-jogar-estes-4-resident-evil-antes-de-requiem/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- Nos últimos dias, publicamos diferentes materiais envolvendo Resident Evil em preparação ao Requiem, que chega no dia 27 de fevereiro .
+- Agora, vamos sugerir alguns títulos que merecem uma atenção maior antes do novo jogo, caso não queira "maratonar" toda a franquia.
+- Os jogos escolhidos envolvem os personagens principais da nova trama e é interessante para termos noção de seus passados.
+
+## Contexto
+Nos últimos dias, publicamos diferentes materiais envolvendo Resident Evil em preparação ao Requiem, que chega no dia 27 de fevereiro . Agora, vamos sugerir alguns títulos que merecem uma atenção maior antes do novo jogo, caso não queira "maratonar" toda a franquia. Os jogos escolhidos envolvem os personagens principais da nova trama e é interessante para termos noção de seus passados.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/games/por-que-voce-deve-jogar-estes-4-resident-evil-antes-de-requiem/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #ciencia](/tags/ciencia)

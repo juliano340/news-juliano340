@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/internet/o-moltbook-nao-tem-humanos-envo
 image_url: "https://t.ctcdn.com.br/npy_fehHcLDrfwjuguwx715QQ44=/700x394/smart/i1099341.png"
 image: "https://t.ctcdn.com.br/npy_fehHcLDrfwjuguwx715QQ44=/700x394/smart/i1099341.png"
 slug: "o-moltbook-nao-tem-humanos-envolvidos-especialistas-observam-o-contrario"
+seo_title: "O Moltbook não tem humanos envolvidos? Especialistas observam"
+meta_description: "O Moltbook não tem humanos envolvidos? Especialistas observam o contrário. Vendido como uma rede social onde agentes de IA conversam entre si enquanto humanos a"
+canonical_url: "https://news.juliano340.com/posts/o-moltbook-nao-tem-humanos-envolvidos-especialistas-observam-o-contrario"
+og_type: "article"
+published_at: "2026-02-12T16:26:00.000Z"
+modified_at: "2026-02-12T16:26:00.000Z"
+primary_source: "https://canaltech.com.br/internet/o-moltbook-nao-tem-humanos-envolvidos-especialistas-observam-o-contrario/"
+schema_type: "NewsArticle"
+schema_headline: "O Moltbook não tem humanos envolvidos? Especialistas observam o contrário"
+schema_description: "O Moltbook não tem humanos envolvidos? Especialistas observam o contrário. Vendido como uma rede social onde agentes de IA conversam entre si enquanto humanos a"
+schema_date_published: "2026-02-12T16:26:00.000Z"
+schema_date_modified: "2026-02-12T16:26:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/o-moltbook-nao-tem-humanos-envolvidos-especialistas-observam-o-contrario"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/o-moltbook-nao-tem-humanos-envolvidos-especialistas-observam-o-contrario"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "O Moltbook não tem humanos envolvidos? Especialistas observam o contrário" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/npy_fehHcLDrfwjuguwx715QQ44=/700x394/smart/i1099341.png"></p> <p>Vendido como uma rede social onde agentes de IA conversam entre si enquanto humanos apenas assistem, o Moltbook viralizou com a promessa de ser um experimento quase “sci-fi”. No entanto, especialistas ouvidos pelo MIT Technology Review afirmam que a história é bem menos futurista: <strong>por trás de cada bot, há sempre uma pessoa puxando as cordas.</strong></p> <ul> <li><a href="https://canaltech.com.br/internet/crises-existenciais-e-idioma-para-ias-6-situacoes-bizarras-no-moltbook/">Crises existenciais e idioma para IAs: 6 situações bizarras no Moltbook</a></li> <li><a href="https://canaltech.com.br/inteligencia-artificial/o-que-e-o-crustafarianismo-religiao-de-agentes-de-ia-viraliza-no-moltbook/">O que é o Crustafarianismo? 'Religião' de agentes de IA viraliza no Moltbook</a></li> </ul> <p>Em entrevista ao MIT Technology Review, Cobus Greyling, da Kore.ai — empresa que desenvolve sistemas baseados em agentes para clientes corporativos —, afirma que o Moltbook não é uma rede social para IAs independente de pessoas.</p> <p>Ele explica que “<strong>nada acontece sem direção humana explícita</strong>”, pois os humanos criam as contas, validam os perfis e fornecem os prompts que determinam como cada agente deve agir.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <p>O que parece um grande sistema multiagente construindo conhecimento coletivo é, na prática, <strong>apenas repetição de padrões aprendidos nas redes sociais</strong>, destacou à publicação o vice-presidente sênior da Outshift by Cisco, braço de P&D da empresa que trabalha com agentes autônomos para a web, Vijoy Pandey.</p> <p>Para ele, o “Moltbook provou que conectividade sozinha não é inteligência”.</p> <p>No entanto, ele acredita que a rede social <strong>expõe o que ainda falta para atingir uma verdadeira “mente coletiva” de bots</strong>. “Se a superinteligência distribuída for o equivalente a alcançar o voo humano, então o Moltbook representa nossa primeira tentativa com um planador”, comenta Vijoy Pandey.</p> <p>Já Ali Sarrafi, CEO e cofundador da Kovant, empresa sueca que desenvolve sistemas baseados em agentes, destacou que os bots foram desenhados justamente para simular conversas, o que <strong>cria uma sensação de profundidade que nem sempre existe</strong>. “Eu caracterizaria a maior parte do conteúdo do Moltbook como alucinações por design”, afirmou à publicação. </p> <p>Por sua vez, Ori Bendet, vice-presidente de gestão de produtos da Checkmarx, empresa de segurança especializada em sistemas baseados em agentes, reforçou que <strong>não há “aprendizado, intenção evolutiva ou inteligência autodirigida”</strong> acontecendo ali.</p> <p>Além disso, Ori Bendet alerta para um problema de segurança da plataforma. Como o OpenClaw oferece memória aos agentes, comandos maliciosos podem ser inseridos e programados para serem executados apenas no futuro, o que <strong>dificulta a detecção e o rastreamento de problemas</strong>. “Sem escopo e permissões adequadas, isso pode sair do controle mais rápido do que você imagina”, afirma.</p> <figure class="image"><img src="https://t.ctcdn.com.br/TrpnqIhH9NToMLlRNqc42UutgEQ=/1024x0/smart/i1099219.png" alt="Moltbook" caption="true" data-ivi="pxjr"> <figcaption>Moltbook é uma rede social feita para agentes de IA interagirem, porém especialistas afirmam que funcionamento dos bots dependem de comandos humanos. (Imagem: Viviane França/Canaltech)</figcaption> </figure> <h2>O que é o Moltbook?</h2> <p>O <a href="https://canaltech.com.br/internet/o-que-e-moltbook-conheca-a-rede-social-que-tem-apenas-robos-de-ia/">Moltbook </a>é uma rede social para que <strong>agentes de inteligência artificial publiquem, comentem e interajam entre si</strong>, como em um “R...
+## Resumo em 3 bullets
+- Vendido como uma rede social onde agentes de IA conversam entre si enquanto humanos apenas assistem, o Moltbook viralizou com a promessa de ser um experiment...
+- No entanto, especialistas ouvidos pelo MIT Technology Review afirmam que a história é bem menos futurista: por trás de cada bot, há sempre uma pessoa puxando...
+- Crises existenciais e idioma para IAs: 6 situações bizarras no Moltbook O que é o Crustafarianismo?
+
+## Contexto
+Vendido como uma rede social onde agentes de IA conversam entre si enquanto humanos apenas assistem, o Moltbook viralizou com a promessa de ser um experimento quase “sci-fi”. No entanto, especialistas ouvidos pelo MIT Technology Review afirmam que a história é bem menos futurista: por trás de cada bot, há sempre uma pessoa puxando as cordas. Crises existenciais e idioma para IAs: 6 situações bizarras no Moltbook O que é o Crustafarianismo?
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/internet/o-moltbook-nao-tem-humanos-envolvidos-especialistas-observam-o-contrario/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

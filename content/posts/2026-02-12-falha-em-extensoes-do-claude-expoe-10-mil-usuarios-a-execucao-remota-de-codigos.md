@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/seguranca/falha-em-extensoes-do-claude-e
 image_url: "https://t.ctcdn.com.br/DLfgwqxNMAeM7LuwlZvIfs7svSw=/700x394/smart/i1052583.jpeg"
 image: "https://t.ctcdn.com.br/DLfgwqxNMAeM7LuwlZvIfs7svSw=/700x394/smart/i1052583.jpeg"
 slug: "falha-em-extensoes-do-claude-expoe-10-mil-usuarios-a-execucao-remota-de-codigos"
+seo_title: "Falha em extensões do Claude expõe 10 mil usuários a execução"
+meta_description: "Falha em extensões do Claude expõe 10 mil usuários a execução remota de códigos. Uma falha de clique zero detectada na execução remota de código de extensões do"
+canonical_url: "https://news.juliano340.com/posts/falha-em-extensoes-do-claude-expoe-10-mil-usuarios-a-execucao-remota-de-codigos"
+og_type: "article"
+published_at: "2026-02-12T13:35:00.000Z"
+modified_at: "2026-02-12T13:35:00.000Z"
+primary_source: "https://canaltech.com.br/seguranca/falha-em-extensoes-do-claude-expoe-10-mil-usuarios-a-execucao-remota-de-codigos/"
+schema_type: "NewsArticle"
+schema_headline: "Falha em extensões do Claude expõe 10 mil usuários a execução remota de códigos"
+schema_description: "Falha em extensões do Claude expõe 10 mil usuários a execução remota de códigos. Uma falha de clique zero detectada na execução remota de código de extensões do"
+schema_date_published: "2026-02-12T13:35:00.000Z"
+schema_date_modified: "2026-02-12T13:35:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/falha-em-extensoes-do-claude-expoe-10-mil-usuarios-a-execucao-remota-de-codigos"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/falha-em-extensoes-do-claude-expoe-10-mil-usuarios-a-execucao-remota-de-codigos"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Falha em extensões do Claude expõe 10 mil usuários a execução remota de códigos" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/DLfgwqxNMAeM7LuwlZvIfs7svSw=/700x394/smart/i1052583.jpeg"></p> <p>Uma falha de clique zero detectada na <strong>execução remota de código</strong> de extensões do Claude impacta <strong>mais de 10 mil usuários ativos</strong> da ferramenta de inteligência artificial (IA) da Anthropic.</p> <ul> <li><a href="https://canaltech.com.br/apps/tudo-sobre-o-claude-conheca-os-modelos-e-recursos-da-ia-da-anthropic/">Tudo sobre o Claude: conheça os modelos e recursos da IA da Anthropic</a></li> <li><a href="https://canaltech.com.br/apps/quais-sao-e-como-funcionam-os-estilos-do-claude/">Quais são e como funcionam os estilos do Claude?</a></li> </ul> <p>A descoberta foi feita por pesquisadores da LayerX, que identificaram o erro vindo da <strong>criação de um evento no Google Agenda</strong>. Isso foi possível porque as extensões do Claude possuem <strong>acesso total ao sistema</strong> do dispositivo, permitindo que a ferramenta realize ações automáticas de baixo risco, como inserir um compromisso na agenda do Google, por exemplo, sem pedir permissão ao usuário.</p> <p>Dessa forma, um comando malicioso pode desencadear uma série de ações que comprometem o sistema e violam os limites de confiança nos fluxos de trabalho dentro da IA. Tudo isso porque a ferramenta tem autorização para marcar e organizar os seus compromissos por você.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <h2>Evento corrompido</h2> <p>O erro na execução remota de código ocorre graças à própria arquitetura do sistema do Claude, cujas extensões agem de maneira ativa dentro da plataforma. Assim, ao processar informações com conectores públicos, a ferramenta pode <strong>determinar automaticamente</strong> quais recursos vinculados podem melhor atender à solicitação maliciosa, com o Google Agenda sendo um dos mais “solícitos”.</p> <p>Diante desse cenário, uma extensão que está sob uma influência corrompida consegue se conectar a uma ferramenta de baixo risco para executar o código comprometido, encaminhando os dados para um MCP local. Logo, basta que um simples comando para <strong>verificar eventos recentes</strong> seja acionado para que a IA da Anthropic comece a impulsionar a cadeia de destruição.</p> <figure class="image"><img src="https://t.ctcdn.com.br/KAUZtPmN2k9AnDjbJfim4vccqUc=/660x0/smart/i1101651.png" alt="" caption="true" data-ivi="pyj5"> <figcaption>Comandos simples, como verificar eventos recentes no Google Agenda, pode resultar em operações maliciosas (Imagem: Reprodução/LayerX).</figcaption> </figure> <p>A ação ocorre principalmente por meio da execução de um git pull e de um arquivo make, uma combinação que não requer cliques e nem mesmo confirmações vindas de prompts para operar.</p> <figure class="image"><img src="https://t.ctcdn.com.br/SGsitMFGhjB2YLG4bBerLspCpus=/i1101649.png" alt="" caption="true" data-ivi="pyj3"> <figcaption>Claude consegue executar código remoto sem a devida permissão do usuário (Imagem: Reprodução/LayerX).</figcaption> </figure> <p>Até mesmo uma alteração no nome de um evento pode desencadear o erro, <strong>sem que o usuário precise conceder qualquer tipo de autorização explícita</strong>. A ferramenta pode, então, executar comandos maliciosos sem levantar suspeitas, permanecendo oculta como se tivesse promovendo uma ação legítima.</p> <p>Por enquanto, não há registros acerca de uma possível correção do erro pela Anthropic devido à complexidade do caso, que tem relação com uma vulnerabilidade de infraestrutura em vez de ser algo localizado.</p> <p>Leia também:</p> <ul> <li><a href="https://canaltech.com.br/seguranca/especialistas-alertam-para-falhas-de-seguranca-criticas-no-moltbook/">Especialistas alertam para falhas de segurança críticas no Moltbook</a></li> <li><a href="https://canaltech.com.br/seguranca/espionagem-n...
+## Resumo em 3 bullets
+- Uma falha de clique zero detectada na execução remota de código de extensões do Claude impacta mais de 10 mil usuários ativos da ferramenta de inteligência a...
+- Tudo sobre o Claude: conheça os modelos e recursos da IA da Anthropic Quais são e como funcionam os estilos do Claude?
+- A descoberta foi feita por pesquisadores da LayerX, que identificaram o erro vindo da criação de um evento no Google Agenda .
+
+## Contexto
+Uma falha de clique zero detectada na execução remota de código de extensões do Claude impacta mais de 10 mil usuários ativos da ferramenta de inteligência artificial (IA) da Anthropic. Tudo sobre o Claude: conheça os modelos e recursos da IA da Anthropic Quais são e como funcionam os estilos do Claude? A descoberta foi feita por pesquisadores da LayerX, que identificaram o erro vindo da criação de um evento no Google Agenda .
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/seguranca/falha-em-extensoes-do-claude-expoe-10-mil-usuarios-a-execucao-remota-de-codigos/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #ciencia](/tags/ciencia)

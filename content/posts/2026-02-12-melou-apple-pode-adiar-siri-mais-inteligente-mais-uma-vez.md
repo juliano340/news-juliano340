@@ -7,6 +7,69 @@ original_url: "https://www.tecmundo.com.br/software/410669-melou-apple-pode-adia
 image_url: "https://tm.ibxk.com.br/2025/03/21/21175952947293.jpg"
 image: "https://tm.ibxk.com.br/2025/03/21/21175952947293.jpg"
 slug: "melou-apple-pode-adiar-siri-mais-inteligente-mais-uma-vez"
+seo_title: "Melou? Apple pode adiar Siri mais 'inteligente' mais uma vez"
+meta_description: "Melou? Apple pode adiar Siri mais 'inteligente' mais uma vez. A Apple pode novamente adiar o lançamento da Siri reformulada com capacidades de inteligência arti"
+canonical_url: "https://news.juliano340.com/posts/melou-apple-pode-adiar-siri-mais-inteligente-mais-uma-vez"
+og_type: "article"
+published_at: "2026-02-12T12:30:00.000Z"
+modified_at: "2026-02-12T12:30:00.000Z"
+primary_source: "https://www.tecmundo.com.br/software/410669-melou-apple-pode-adiar-siri-mais-inteligente-mais-uma-vez.htm"
+schema_type: "NewsArticle"
+schema_headline: "Melou? Apple pode adiar Siri mais 'inteligente' mais uma vez"
+schema_description: "Melou? Apple pode adiar Siri mais 'inteligente' mais uma vez. A Apple pode novamente adiar o lançamento da Siri reformulada com capacidades de inteligência arti"
+schema_date_published: "2026-02-12T12:30:00.000Z"
+schema_date_modified: "2026-02-12T12:30:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/melou-apple-pode-adiar-siri-mais-inteligente-mais-uma-vez"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/melou-apple-pode-adiar-siri-mais-inteligente-mais-uma-vez"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Melou? Apple pode adiar Siri mais 'inteligente' mais uma vez" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>A Apple pode novamente adiar o lançamento da Siri reformulada com capacidades de inteligência artificial. Informações do jornalista Mark Gurman, da<i> Bloomberg</i>, indicam que a aguardada atualização na assistente pessoal enfrentou problemas durante testes nas últimas semanas, e isso pode implicar mais adiamentos.</p><p>O plano da Apple para a nova Siri era lançar algumas funcionalidades desse software na atualização 26.4 do iOS já em março, mas o planejamento mudou e a Maçã trabalha para distribuí-las ao longo de versões futuras. Dessa forma, a chegada da Siri pode ficar para maio com o iOS 26.5, ou somente no iOS 27 de setembro.</p><p>Após inúmeros atrasos, a Apple tinha circulado março deste ano como a melhor janela de lançamento para a Siri. Contudo, os testes mais recentes apontaram uma nova leva de problemas com o software. A nova Siri nem sempre consegue processar solicitações ou demora muito para responder.</p><figure><img src="https://tm.ibxk.com.br/2025/03/21/21175952947293.jpg" alt="Apple Intelligence em iPhone" srcset="https://tm.ibxk.com.br/2025/03/21/21175952979294.jpg 245w,https://tm.ibxk.com.br/2025/03/21/21175953119296.jpg 500w,https://tm.ibxk.com.br/2025/03/21/21175953088295.jpg 750w,https://tm.ibxk.com.br/2025/03/21/21175953166297.jpg 1000w," sizes="100vw"><figcaption>Após a recepção ruim do Apple Intelligence, a Maçã quer acertar bem na Siri reformulada (Imagem: Apple)</figcaption></figure><p>Fontes sugerem que a ordem era de que os engenheiros testassem as novas funcionalidades com o iOS 26.5 de maio em mente. No entanto, a possibilidade da Siri pesquisar mensagens em aplicativos para entregar informações ao usuário não deve chegar tão cedo.</p><h2>Controle por voz da Siri ainda é instável</h2><p>Outras funcionalidades da Siri reformulada também devem ficar em segundo plano durante o desenvolvimento. É o caso do controle por voz de ações dentro de alguns apps, que até funciona nas versões internas de desenvolvimento, mas não é totalmente confiável e não entende tão bem as vozes dos usuários.</p><ul><li>A nova Siri também recorre à sua integração com o ChatGPT da OpenAI em vez de usar sua própria tecnologia;</li><li>Executivos da Maçã estão firmes na decisão de não lançar a nova Siri após a primavera de 2026;</li><li>O objetivo da empresa era de <a href="https://www.tecmundo.com.br/software/410114-nova-siri-com-ia-do-gemini-enfim-deve-ser-revelada-em-fevereiro.htm">conduzir uma apresentação sobre as novidades neste mês</a>, mas os testes erráticos acabaram com os planos.</li><li>A Siri reformulada foi construída sobre uma arquitetura totalmente nova chamada Linwood;</li><li>Esse software vai operar sob o modelo de linguagem chamado Apple Foundation, mas terá tecnologias incorporadas do Gemini;</li><li>Um acordo bilionário selou a parceria entre Gemini e Apple após meses de procura por uma infraestrutura parruda;</li><li>Apesar dos adiamentos, a Siri deve trazer uma nova ferramenta de busca na web e geração de imagens personalizadas;</li><li>Para o iOS 27 e demais sistemas, <a href="https://www.tecmundo.com.br/software/410035-nova-siri-com-ia-vai-ser-um-chatbot-intimamente-integrado-ao-ios-27-diz-analista.htm">a Maçã quer lançar a Siri reformulada que opera como um chatbot</a>, potencializada pelo Gemini.</li></ul><div><blockquote data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/DHghRX_qh8-/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14"><div> <a href="https://www.instagram.com/reel/DHghRX_qh8-/?utm_source=ig_embed&utm_campaign=loading"> <div> <div></div> <div> <div></div> <div></div></div></div><div></div> <div><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34....
+## Resumo em 3 bullets
+- A Apple pode novamente adiar o lançamento da Siri reformulada com capacidades de inteligência artificial.
+- Informações do jornalista Mark Gurman, da Bloomberg , indicam que a aguardada atualização na assistente pessoal enfrentou problemas durante testes nas última...
+- O plano da Apple para a nova Siri era lançar algumas funcionalidades desse software na atualização 26.4 do iOS já em março, mas o planejamento mudou e a Maçã...
+
+## Contexto
+A Apple pode novamente adiar o lançamento da Siri reformulada com capacidades de inteligência artificial. Informações do jornalista Mark Gurman, da Bloomberg , indicam que a aguardada atualização na assistente pessoal enfrentou problemas durante testes nas últimas semanas, e isso pode implicar mais adiamentos. O plano da Apple para a nova Siri era lançar algumas funcionalidades desse software na atualização 26.4 do iOS já em março, mas o planejamento mudou e a Maçã trabalha para distribuí-las ao longo de versões futuras.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/software/410669-melou-apple-pode-adiar-siri-mais-inteligente-mais-uma-vez.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

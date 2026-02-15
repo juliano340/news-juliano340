@@ -5,6 +5,69 @@ tags: ["canaltech"]
 source: "Canaltech"
 original_url: "https://canaltech.com.br/inteligencia-artificial/latam-gpt-e-o-novo-modelo-de-ia-aberto-que-entende-a-america-latina/"
 slug: "latam-gpt-e-o-novo-modelo-de-ia-aberto-que-entende-a-america-latina"
+seo_title: "Latam-GPT é o novo modelo de IA aberto que 'entende' a América"
+meta_description: "Latam-GPT é o novo modelo de IA aberto que 'entende' a América Latina. A América Latina ganhou um modelo de linguagem (LLM) de código aberto para chamar de seu:"
+canonical_url: "https://news.juliano340.com/posts/latam-gpt-e-o-novo-modelo-de-ia-aberto-que-entende-a-america-latina"
+og_type: "article"
+published_at: "2026-02-11T20:13:36.000Z"
+modified_at: "2026-02-11T20:13:36.000Z"
+primary_source: "https://canaltech.com.br/inteligencia-artificial/latam-gpt-e-o-novo-modelo-de-ia-aberto-que-entende-a-america-latina/"
+schema_type: "NewsArticle"
+schema_headline: "Latam-GPT é o novo modelo de IA aberto que 'entende' a América Latina"
+schema_description: "Latam-GPT é o novo modelo de IA aberto que 'entende' a América Latina. A América Latina ganhou um modelo de linguagem (LLM) de código aberto para chamar de seu:"
+schema_date_published: "2026-02-11T20:13:36.000Z"
+schema_date_modified: "2026-02-11T20:13:36.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/latam-gpt-e-o-novo-modelo-de-ia-aberto-que-entende-a-america-latina"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/latam-gpt-e-o-novo-modelo-de-ia-aberto-que-entende-a-america-latina"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Latam-GPT é o novo modelo de IA aberto que 'entende' a América Latina" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-A América Latina ganhou um modelo de linguagem (LLM) de código aberto para chamar de seu: o Latam-GPT. Anunciada nesta terça-feira (10), a IA foi desenvolvida pelo Centro Nacional de Inteligência Artificial do Chile (CENIA) em parceria com mais de 60 organizações espalhadas por 15 países da região, incluindo o Brasil. O que são tokens? Entenda como funciona a 'unidade fundamental' da IA Prompt, tokens, LLM e mais: 10 termos de IA essenciais para o seu dia a dia Diferentemente de ferramentas dominantes no mercado, treinadas majoritariamente em inglês, o novo LLM foi alimentado com cerca de 300 bilhões de tokens em espanhol e português, algo em torno de 230 bilhões de palavras. Todo esse acervo textual passou por curadoria rigorosa, com remoção de conteúdos nocivos, como notícias falsas e discriminação, e anonimização de informações pessoais, cobrindo áreas como humanidades, saúde, políticas públicas e culturas indígenas. -Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.- O projeto se apoia na arquitetura Llama 3.1, com 70 bilhões de parâmetros, e contou com infraestrutura de nuvem fornecida pela Amazon Web Services (AWS). Segundo a empresa, a otimização dos recursos computacionais encurtou o período de treinamento de 25 para apenas 9 dias, uma redução de 64%. O Banco de Desenvolvimento da América Latina e Caribe (CAF) e o Data Observatory também participaram do esforço. Modelo aberto Mais de cem pesquisadores, cientistas e engenheiros colaboraram na construção do Latam-GPT, que carrega um propósito específico: funcionar como bem público para democratizar o acesso à tecnologia e viabilizar seu uso em áreas estratégicas. Por ter licença aberta, universidades, governos e startups podem adaptá-lo livremente para criar ferramentas próprias em campos como educação, empreendedorismo e administração estatal. A escassez de material em idiomas latinos nos bancos globais de treinamento motivou a iniciativa. Estimativas baseadas no repositório Common Crawl indicam que textos em espanhol correspondem a cerca de 4% do total disponível, enquanto o português responde por apenas 2%. Essa disparidade faz com que particularidades culturais, históricas e políticas do continente sejam ignoradas ou tratadas superficialmente pelos sistemas existentes. Para o diretor do CENIA, Álvaro Soto, a ferramenta não é um produto final, mas um alicerce sobre o qual diferentes atores poderão erguer soluções ajustadas às suas realidades. Leia mais: O que é OpenClaw (ex-Clawdbot)? Conheça o agente ‘faz tudo’ de IA O que é UCP? Conheça o protocolo de comércio para IA do Google O que é janela de contexto? Veja como funciona a atenção da IA Leia a matéria no Canaltech.
+## Resumo em 3 bullets
+- A América Latina ganhou um modelo de linguagem (LLM) de código aberto para chamar de seu: o Latam-GPT.
+- Anunciada nesta terça-feira (10), a IA foi desenvolvida pelo Centro Nacional de Inteligência Artificial do Chile (CENIA) em parceria com mais de 60 organizaç...
+- O que são tokens?
+
+## Contexto
+A América Latina ganhou um modelo de linguagem (LLM) de código aberto para chamar de seu: o Latam-GPT. Anunciada nesta terça-feira (10), a IA foi desenvolvida pelo Centro Nacional de Inteligência Artificial do Chile (CENIA) em parceria com mais de 60 organizações espalhadas por 15 países da região, incluindo o Brasil. O que são tokens?
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/inteligencia-artificial/latam-gpt-e-o-novo-modelo-de-ia-aberto-que-entende-a-america-latina/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #canaltech](/tags/canaltech)
+- [Outros destaques em #negocios](/tags/negocios)

@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/seguranca/hackers-usam-ferramentas-legit
 image_url: "https://t.ctcdn.com.br/ryoZikflKaUBXw00WHgaJ_w4aw4=/700x394/smart/i1092181.jpeg"
 image: "https://t.ctcdn.com.br/ryoZikflKaUBXw00WHgaJ_w4aw4=/700x394/smart/i1092181.jpeg"
 slug: "hackers-usam-ferramentas-legitimas-para-atacar-o-web-help-desk-do-solarwinds"
+seo_title: "Hackers usam ferramentas legítimas para atacar o Web Help Desk"
+meta_description: "Hackers usam ferramentas legítimas para atacar o Web Help Desk do SolarWinds. Uma nova campanha hacker, iniciada neste ano, explora uma cadeia inédita de invasã"
+canonical_url: "https://news.juliano340.com/posts/hackers-usam-ferramentas-legitimas-para-atacar-o-web-help-desk-do-solarwinds"
+og_type: "article"
+published_at: "2026-02-12T11:50:00.000Z"
+modified_at: "2026-02-12T11:50:00.000Z"
+primary_source: "https://canaltech.com.br/seguranca/hackers-usam-ferramentas-legitimas-para-atacar-o-web-help-desk-do-solarwinds/"
+schema_type: "NewsArticle"
+schema_headline: "Hackers usam ferramentas legítimas para atacar o Web Help Desk do SolarWinds"
+schema_description: "Hackers usam ferramentas legítimas para atacar o Web Help Desk do SolarWinds. Uma nova campanha hacker, iniciada neste ano, explora uma cadeia inédita de invasã"
+schema_date_published: "2026-02-12T11:50:00.000Z"
+schema_date_modified: "2026-02-12T11:50:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/hackers-usam-ferramentas-legitimas-para-atacar-o-web-help-desk-do-solarwinds"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/hackers-usam-ferramentas-legitimas-para-atacar-o-web-help-desk-do-solarwinds"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Hackers usam ferramentas legítimas para atacar o Web Help Desk do SolarWinds" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/ryoZikflKaUBXw00WHgaJ_w4aw4=/700x394/smart/i1092181.jpeg"></p> <p>Uma nova campanha hacker, iniciada neste ano, explora uma cadeia inédita de invasão ao <strong>Web Help</strong> Desk (WHD) do software de gerenciamento de rede <strong>SolarWinds</strong>, <strong>transformando ferramentas de defesa das empresas em armas</strong>. A onda de ataques, que teve seu pico no último sábado (7), começou em meados de janeiro.</p> <ul> <li><a href="https://canaltech.com.br/seguranca/white-hat-vs-black-hat-o-que-e-um-hacker-etico/">White Hat vs. Black Hat: O que é um hacker ético?</a></li> <li><a href="https://canaltech.com.br/seguranca/o-que-e-uma-vulnerabilidade-de-dia-zero-zero-day/">O que é uma vulnerabilidade de dia zero (Zero-Day)?</a></li> </ul> <p>A análise da iniciativa cibercriminosa foi da empresa <strong>Huntress</strong>, que notou a instalação dos programas <strong>Zoho ManageEngine Assist</strong> e <strong>Velociraptor</strong> nas máquinas infectadas. Essa última ferramenta é <strong>usada para análises forenses digitais</strong> e resposta a incidentes, normalmente fazendo parte de <strong>investigações de <a href="https://canaltech.com.br/seguranca/ataque-hacker-a-under-armour-expos-72-milhoes-mas-empresa-segue-em-silencio/">ataques hackers</a></strong>, ironicamente.</p> <h2>Como agem os hackers</h2> <p>O <strong>Velociraptor</strong>, nas invasões, <strong>se torna um servidor de comando e controle</strong> (C2) dos golpistas, instalado através de <strong>arquivos MSI</strong>. Uma versão desatualizada do programa, a <strong>0.73.4</strong>, é <strong>vulnerável a escalada de privilégios</strong>, dando a capacidade de comprometer e se comunicar com o sistema através do <strong>Cloudflare Workers</strong>, o que também dificulta a detecção e medidas de segurança como <a href="https://canaltech.com.br/seguranca/o-que-e-firewall-e-como-funciona/">firewalls</a>.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <figure class="image"><img src="https://t.ctcdn.com.br/6diR1mUCUz8EZ0zBqRJlbNTS3-4=/1024x0/smart/i1101645.png" alt="Captura de tela do Web Help Desk, plataforma de tickets do software de gerenciamento de rede SolarWinds (Imagem: SolarWinds/Divulgação)" caption="true" data-ivi="pyj1"> <figcaption>Captura de tela do Web Help Desk, plataforma de tickets do software de gerenciamento de rede SolarWinds (Imagem: SolarWinds/Divulgação)</figcaption> </figure> <p>No SolarWinds, a porta de entrada se dá por conta de <strong>duas <a href="https://canaltech.com.br/seguranca/um-bilhao-de-celulares-ficaram-vulneraveis-apos-atualizacao-do-android-16/">vulnerabilidades</a></strong>, <strong>CVE-2025-40551</strong> e <strong>CVE-2025-26399</strong>: ambas críticas, elas permitem execução remota de códigos sem autenticação. A <strong>Agência de Ciber Defesa dos Estados Unidos</strong> (CISA) emitiu alertas em relação à exploração das falhas na semana passada, dada a gravidade da situação.</p> <p>Após a invasão, os hackers ainda <strong>desativam o <a href="https://canaltech.com.br/windows/como-ativar-novamente-o-windows-defender/">Windows Defender</a></strong> e modificam o registro do sistema para evitar que firewalls bloqueiem demais downloads. Para corrigir o problema, é necessário <strong>atualizar o</strong> <strong>SolarWinds WHD</strong> para a <strong>versão 2026.1</strong> ou superior, também <strong>removendo acesso público</strong> a interfaces de administração e <strong>renovando senhas</strong> associadas ao aplicativo.</p> <h3>Leia mais no Canaltech:</h3> <ul> <li><a href="https://canaltech.com.br/seguranca/efeito-hidra-fim-do-megafilmeshd-fez-pirataria-crescer-20-entenda-por-que/">Efeito Hidra: fim do MegaFilmesHD fez pirataria crescer 20%; entenda por que</a></li> <li><a href="https://canaltech.com.br/seguranc...
+## Resumo em 3 bullets
+- Uma nova campanha hacker, iniciada neste ano, explora uma cadeia inédita de invasão ao Web Help Desk (WHD) do software de gerenciamento de rede SolarWinds ,...
+- A onda de ataques, que teve seu pico no último sábado (7), começou em meados de janeiro.
+- White Hat vs.
+
+## Contexto
+Uma nova campanha hacker, iniciada neste ano, explora uma cadeia inédita de invasão ao Web Help Desk (WHD) do software de gerenciamento de rede SolarWinds , transformando ferramentas de defesa das empresas em armas . A onda de ataques, que teve seu pico no último sábado (7), começou em meados de janeiro. White Hat vs.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/seguranca/hackers-usam-ferramentas-legitimas-para-atacar-o-web-help-desk-do-solarwinds/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

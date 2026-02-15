@@ -7,8 +7,69 @@ original_url: "https://canaltech.com.br/carros/designer-do-iphone-critica-telas-
 image_url: "https://t.ctcdn.com.br/5iSd9gGxlRfORXjLsRlzz0vFkVw=/700x394/smart/i1102613.png"
 image: "https://t.ctcdn.com.br/5iSd9gGxlRfORXjLsRlzz0vFkVw=/700x394/smart/i1102613.png"
 slug: "designer-do-iphone-critica-telas-em-carros-e-um-erro-de-design"
+seo_title: "Designer do iPhone critica telas em carros: \"É um erro de desi"
+meta_description: ". As telas touchscreen nos carros são um erro de design — ao menos é no que acredita Jony Ive , designer britânico responsável pelo iPhone e outros produtos icô"
+canonical_url: "https://news.juliano340.com/posts/designer-do-iphone-critica-telas-em-carros-e-um-erro-de-design"
+og_type: "article"
+published_at: "2026-02-13T18:00:00.000Z"
+modified_at: "2026-02-13T18:00:00.000Z"
+primary_source: "https://canaltech.com.br/carros/designer-do-iphone-critica-telas-em-carros-e-um-erro-de-design/"
+schema_type: "NewsArticle"
+schema_headline: "Designer do iPhone critica telas em carros: \"É um erro de design\""
+schema_description: ". As telas touchscreen nos carros são um erro de design — ao menos é no que acredita Jony Ive , designer britânico responsável pelo iPhone e outros produtos icô"
+schema_date_published: "2026-02-13T18:00:00.000Z"
+schema_date_modified: "2026-02-13T18:00:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/designer-do-iphone-critica-telas-em-carros-e-um-erro-de-design"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/designer-do-iphone-critica-telas-em-carros-e-um-erro-de-design"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Designer do iPhone critica telas em carros: "É um erro de design"" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>As <strong>telas touchscreen</strong> nos <strong>carros</strong> são um <strong>erro de design</strong> — ao menos é no que acredita <strong>Jony Ive</strong>, designer britânico responsável pelo <strong>iPhone</strong> e outros produtos icônicos da Maçã. A declaração veio em uma entrevista sobre a <a href="https://canaltech.com.br/carros/ferrari-revela-nome-e-imagens-ineditas-do-seu-1o-superesportivo-100-eletrico/"><strong>Ferrari Luce</strong></a>, seu primeiro <strong>projeto automotivo</strong> em parceria com a montadora italiana.&nbsp;</p>  <ul>  <li>
-<a href="https://canaltech.com.br/carros/botoes-escondidos-nas-telas-dos-carros-entram-na-mira-de-orgao-de-seguranca/">Botões "escondidos" nas telas dos carros entram na mira de órgão de segurança</a>&nbsp;</li>  <li>
-<a href="https://canaltech.com.br/carros/adeus-sossego-anuncio-em-central-multimidia-dos-carros-e-tendencia-para-2026/">Adeus, sossego? Anúncio em central multimídia dos carros é tendência para 2026</a>&nbsp;</li>  </ul>  <p>Para Ive, a <strong>indústria</strong> confundiu <strong>modernidade com funcionalidade</strong>. O resultado disso é o sacrifício da <strong>ergonomia cognitiva</strong> dos motoristas em prol de interfaces puramente visuais que, embora sejam <strong>bonitas e modernas,</strong> aumentam o risco de acidentes.</p>  <p>A crítica do <strong>designer</strong> foca principalmente na <strong>perda da "memória muscular"</strong> dentro do habitáculo. Ele observou que a ausência do <strong>feedback tátil</strong> em superfícies de vidro, como é o <a href="https://canaltech.com.br/carros/audi-quer-acabar-com-as-telas-muito-grandes-em-interiores-de-modelos-da-marca/">caso das telas</a>, força o motorista a confirmar visualmente onde está tocando — e ao dirigir, o <strong>condutor não pode desviar os olhos</strong> da via para confirmar se acertou um comando em uma superfície lisa.&nbsp;</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <h2>Luxo do clique e retorno aos controles físicos</h2>  <p>Sem o <strong>feedback tátil</strong> de um botão físico, a <strong>operação</strong> de sistemas ocorre sem a <strong>memória muscular</strong>. O designer concorda que a distração é breve, claro, mas mesmo alguns segundos podem se <strong>transformar em fatores de risco</strong> nas rodovias.&nbsp;</p>    Interior da nova Ferrari Luce (Ferrari/Divulgação)    <p>Pensando nisso, <strong>Ive</strong> e sua equipe trabalharam no <strong>supercarro elétrico</strong> <strong>Ferrari Luce</strong> para trazer <strong>controles analógicos</strong> pensados para serem identificados pelo <strong>tato.</strong> Assim, o projeto do interior do carro traz seletores rotativos, interruptores e alavancas esculpidos com <strong>texturas distintas</strong>, que permitam que o motorista sinta a resistência e o <strong>"clique" mecânico</strong> de cada função.</p>  <p>A <strong>ideia da equipe</strong> é permitir o controle total do carro sem qualquer necessidade de olhar para o console central, especialmente em <a href="https://canaltech.com.br/carros/carros-que-fazem-de-0-a-100-kmh-em-menos-de-2-segundos/"><strong>altas velocidades</strong></a>. E não pense que a visão é exclusiva de Ive e seus colegas: na verdade, o time aplicou uma tendência global no setor — basta lembrar que órgãos de segurança como o <strong>Euro NCAP</strong> já começaram a penalizar veículos que escondem <strong>funções essenciais</strong>, como <strong>setas e limpadores</strong>, em menus digitais complexos.&nbsp;</p>  <p><strong>Leia também:</strong></p>  <ul>  <li><strong><a href="https://canaltech.com.br/apps/celulares-poderao-transmitir-conteudo-para-o-carro-via-android-auto-diz-site/">Celulares poderão transmitir conteúdo para o carro via Android Auto, diz site</a>&nbsp;</strong></li>  <li><strong><a href="https://canaltech.com.br/carros/7-suvs-que-devem-ser-lancados-no-brasil-em-2026/">7 SUVs que devem ser lançados no Brasil em 2026</a></strong></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/carros/designer-do-iphone-critica-telas-em-carros-e-um-erro-de-design/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- As telas touchscreen nos carros são um erro de design — ao menos é no que acredita Jony Ive , designer britânico responsável pelo iPhone e outros produtos ic...
+- A declaração veio em uma entrevista sobre a Ferrari Luce , seu primeiro projeto automotivo em parceria com a montadora italiana.&nbsp; Botões "escondidos" na...
+- Anúncio em central multimídia dos carros é tendência para 2026&nbsp; Para Ive, a indústria confundiu modernidade com funcionalidade .
+
+## Contexto
+As telas touchscreen nos carros são um erro de design — ao menos é no que acredita Jony Ive , designer britânico responsável pelo iPhone e outros produtos icônicos da Maçã. A declaração veio em uma entrevista sobre a Ferrari Luce , seu primeiro projeto automotivo em parceria com a montadora italiana.&nbsp; Botões "escondidos" nas telas dos carros entram na mira de órgão de segurança&nbsp; Adeus, sossego? Anúncio em central multimídia dos carros é tendência para 2026&nbsp; Para Ive, a indústria confundiu modernidade com funcionalidade .
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/carros/designer-do-iphone-critica-telas-em-carros-e-um-erro-de-design/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #canaltech](/tags/canaltech)

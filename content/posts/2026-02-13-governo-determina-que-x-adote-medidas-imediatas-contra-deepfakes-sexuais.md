@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/mercado/x-deve-adotar-medidas-imediatas-
 image_url: "https://t.ctcdn.com.br/Jb_aF94xsmLQQatbs8178_46SbM=/700x394/smart/i1056523.jpeg"
 image: "https://t.ctcdn.com.br/Jb_aF94xsmLQQatbs8178_46SbM=/700x394/smart/i1056523.jpeg"
 slug: "governo-determina-que-x-adote-medidas-imediatas-contra-deepfakes-sexuais"
+seo_title: "Governo determina que X adote medidas imediatas contra deepfak"
+meta_description: "Governo determina que X adote medidas imediatas contra deepfakes sexuais. Órgãos do Governo Federal determinaram que o X (antigo Twitter ) deve adotar, de forma"
+canonical_url: "https://news.juliano340.com/posts/governo-determina-que-x-adote-medidas-imediatas-contra-deepfakes-sexuais"
+og_type: "article"
+published_at: "2026-02-13T14:38:00.000Z"
+modified_at: "2026-02-13T14:38:00.000Z"
+primary_source: "https://canaltech.com.br/mercado/x-deve-adotar-medidas-imediatas-para-deter-deepfake-sexual-determina-governo/"
+schema_type: "NewsArticle"
+schema_headline: "Governo determina que X adote medidas imediatas contra deepfakes sexuais"
+schema_description: "Governo determina que X adote medidas imediatas contra deepfakes sexuais. Órgãos do Governo Federal determinaram que o X (antigo Twitter ) deve adotar, de forma"
+schema_date_published: "2026-02-13T14:38:00.000Z"
+schema_date_modified: "2026-02-13T14:38:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/governo-determina-que-x-adote-medidas-imediatas-contra-deepfakes-sexuais"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/governo-determina-que-x-adote-medidas-imediatas-contra-deepfakes-sexuais"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Governo determina que X adote medidas imediatas contra deepfakes sexuais" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>Órgãos do Governo Federal determinaram que o <strong>X (antigo <a href="https://canaltech.com.br/empresa/twitter/">Twitter</a>)</strong> deve adotar, de forma imediata,<strong> uma série de medidas para impedir a criação e disseminação de deepfakes sexuais</strong>. As ordens foram expedidas diante da proliferação de conteúdos sensíveis e sem consentimento na plataforma a partir do Grok.</p>  <ul>  <li><a href="https://canaltech.com.br/seguranca/deepfakes-estao-fora-de-controle-entenda-os-riscos-e-como-se-proteger/">Deepfakes estão fora de controle? Entenda os riscos e como se proteger</a></li>  <li><a href="https://canaltech.com.br/inteligencia-artificial/como-saber-se-uma-foto-foi-criada-por-inteligencia-artificial/">Como saber se uma foto foi criada por Inteligência Artificial</a></li>  </ul>  <p>A decisão veio após a plataforma informar que removeu milhares de publicações e contas ligadas a conteúdos ilegais.</p>  <p>No entanto, a <strong>Agência Nacional de Proteção de Dados (ANPD)</strong>, o <strong>Ministério Público Federal (MPF)</strong> e a <strong>Secretaria Nacional do Consumidor (SENACON)</strong> concluíram que as providências adotadas pela plataforma foram insuficientes para conter o uso da IA para edição e publicação das mídias.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <h2>Medidas a serem adotadas pela rede social</h2>  <p>As determinações elaboradas pela Senacon e pela ANPD exigem que a rede social implemente <strong>soluções técnicas a fim de impedir que o Grok viabilize a geração de conteúdos de cunho sexual sem consentimento</strong>.</p>  <p>As secretarias também ordenaram que a plataforma forneça uma<strong> lista enumerada detalhando as providências já tomadas para bloquear a geração das mídias em questão</strong>, além de dados sobre a identificação e remoção de postagens.</p>  <p>O MPF, por sua vez, determinou que a rede social de<strong> Elon Musk</strong> entregue <strong>relatórios mensais com detalhes de como está atuando para reprimir a produção de deepfakes sexuais</strong>. A medida foi imposta devido à falta de transparência da plataforma em relação às ações para coibir a geração de conteúdos sensíveis.</p>  <p>O descumprimento das providências estabelecidas e a eventual continuidade das irregularidades podem resultar em <strong>multas diárias e na responsabilização por crime de desobediência</strong>.</p>    X deve adotar medidas para impedir a criação de deepfakes sexuais a partir do Grok (Imagem: Unsplash/Salvador Rios)    <h2>Grok usado para gerar deepfakes sexuais</h2>  <p>Desde o início do ano,<strong> foi identificada uma onda de geração e publicação de deepfakes sexuais no X</strong>. Usuários utilizam a ferramenta de IA Grok para solicitar a edição de imagens, produzindo conteúdos sensíveis envolvendo menores de idade e adultos sem consentimento.</p>  <p>Países como<a href="https://canaltech.com.br/apps/grok-e-bloqueado-em-alguns-paises-apos-gerar-deepfake-sensual-sem-consentimento/"> Indonésia e Malásia bloquearam o acesso ao Grok</a> dentro da rede social devido à produção de conteúdos ilegais. Já o Reino Unido e a União Europeia <a href="https://canaltech.com.br/mercado/x-e-investigado-na-europa-devido-aos-deepfakes-sexuais-criados-com-ia-pelo-grok/">abriram investigações</a> para avaliar se a plataforma está<strong> infringindo normas relacionadas à mitigação e prevenção de conteúdos nocivos aos usuários</strong>.</p>  <p>No Brasil, o Instituto de Defesa do Consumidor (Idec) já havia <a href="https://canaltech.com.br/mercado/idec-solicita-suspensao-do-grok-no-brasil-apos-gerar-deepfakes-sexuais/">solicitado a suspensão do Grok</a> ao identificar "violações graves" associadas ao uso da IA na rede social.</p>  <p><strong>Leia também:&nbsp;</strong></p>  <ul>  <li><a href="https://canaltech.com.br/inteligencia-artificial/e-verdade-que-as-imagens-geradas-por-ia-tem-marca-dagua-oculta-que-voce-nao-ve/">É VERDADE que as imagens geradas por IA têm marca d’água oculta que você não vê</a></li>  <li><a href="https://canaltech.com.br/redes-sociais/11-imagens-polemicas-geradas-com-a-ia-grok-no-xtwitter/">11 imagens polêmicas geradas com a IA Grok no X/Twitter</a></li>  <li><a href="https://canaltech.com.br/apps/gemini-agora-identifica-fotos-criadas-por-ia-veja-como-usar/">Gemini agora identifica fotos criadas por IA; veja como usar</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/mercado/x-deve-adotar-medidas-imediatas-para-deter-deepfake-sexual-determina-governo/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- Órgãos do Governo Federal determinaram que o X (antigo Twitter) deve adotar, de forma imediata, uma série de medidas para impedir a criação e disseminação de...
+- As ordens foram expedidas diante da proliferação de conteúdos sensíveis e sem consentimento na plataforma a partir do Grok.
+- Deepfakes estão fora de controle?
+
+## Contexto
+Órgãos do Governo Federal determinaram que o X (antigo Twitter) deve adotar, de forma imediata, uma série de medidas para impedir a criação e disseminação de deepfakes sexuais . As ordens foram expedidas diante da proliferação de conteúdos sensíveis e sem consentimento na plataforma a partir do Grok. Deepfakes estão fora de controle?
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/mercado/x-deve-adotar-medidas-imediatas-para-deter-deepfake-sexual-determina-governo/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #politica](/tags/politica)

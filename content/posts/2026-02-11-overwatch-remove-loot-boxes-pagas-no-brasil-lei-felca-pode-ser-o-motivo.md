@@ -5,6 +5,69 @@ tags: ["canaltech"]
 source: "Canaltech"
 original_url: "https://canaltech.com.br/games/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo/"
 slug: "overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo"
+seo_title: "Overwatch remove loot boxes pagas no Brasil; Lei Felca pode se"
+meta_description: "Overwatch remove loot boxes pagas no Brasil; Lei Felca pode ser o motivo. A primeira temporada de Overwatch, após o rebranding do jogo , foi lançada nesta terça"
+canonical_url: "https://news.juliano340.com/posts/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo"
+og_type: "article"
+published_at: "2026-02-11T21:17:00.000Z"
+modified_at: "2026-02-11T21:17:00.000Z"
+primary_source: "https://canaltech.com.br/games/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo/"
+schema_type: "NewsArticle"
+schema_headline: "Overwatch remove loot boxes pagas no Brasil; Lei Felca pode ser o motivo"
+schema_description: "Overwatch remove loot boxes pagas no Brasil; Lei Felca pode ser o motivo. A primeira temporada de Overwatch, após o rebranding do jogo , foi lançada nesta terça"
+schema_date_published: "2026-02-11T21:17:00.000Z"
+schema_date_modified: "2026-02-11T21:17:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Overwatch remove loot boxes pagas no Brasil; Lei Felca pode ser o motivo" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>A primeira temporada de Overwatch, <a href="https://canaltech.com.br/games/volta-por-cima-overwatch-perde-o-2-e-passa-por-reformulacao/">após o rebranding do jogo</a>, foi lançada nesta terça-feira (10). No entanto, os jogadores podem ter se deparado com uma questão inusitada ao tentar adquirir o Passe de Batalha Premium: <strong>as loot boxes não estão mais disponíveis no Brasil</strong>.</p>  <ul>  <li><a href="https://canaltech.com.br/jogos-mobile/o-que-e-e-como-funcionam-as-loot-boxes/">O que é e como funcionam as loot boxes?</a></li>  <li><a href="https://canaltech.com.br/games/jogos-microtransacoes-absurdas-161517/">10 jogos com microtransações absurdas</a></li>  </ul>  <p>De acordo com o suporte da Blizzard na Battle.net, as caixas de itens não estão disponíveis no Passe de Batalha Premium na Bélgica e no Brasil. O movimento é, muito provavelmente, uma antecipação à Lei nº 15.211/2025 (<strong>mais conhecida como Lei Felca ou ECA Digital</strong>).</p>  <p><a href="https://canaltech.com.br/games/brasil-proibe-venda-de-loot-boxes-para-menores-de-18-anos/">A norma, sancionada em setembro do ano passado, entrará em vigor a partir de março de 2026</a> e <strong>tem como objetivo proteger crianças e adolescentes no ambiente online</strong>.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <p>A Lei Felca repassa a responsabilidade sobre a segurança de menores de idade para plataformas digitais, aplicativos, empresas de tecnologia ou qualquer outro serviço digital acessado por crianças e adolescentes no Brasil, <strong>mesmo que a empresa esteja sediada em outro país</strong>, conforme destaca a Associação Brasileira dos Fabricantes de Brinquedos (ABRINQ).</p>    Loot boxes do Passe de Batalha Premium do Overwatch não estão disponíveis no Brasil e Bélgica (Divulgação/Microsoft)    <p>Os jogos eletrônicos também são enquadrados pelo ECA Digital. O art. 20 da Lei nº 15.211/2025 <strong>proíbe loot boxes oferecidas em jogos direcionados a crianças e adolescentes ou de acesso provável por eles</strong>, nos termos da respectiva classificação indicativa.</p>  <p>Neste contexto, a Blizzard acaba de eliminar as loot boxes do Passe de Batalha Premium (pago), pouco antes da lei netrar em questão.</p>  <h2>O que são loot boxes?</h2>  <p>Com a popularização dos jogos digitais na sétima geração de consoles (e no PC, em plataformas como o Steam), as desenvolvedoras passaram a explorar ainda mais meios de monetização, como a venda de cosméticos, expansões e a famigerada loot box.</p>  <p>Esta última é uma verdadeira "caixinha de surpresas". Os jogadores podem adquiri-la com dinheiro, ganhá-la em eventos ou a partir de passes de batalha. Com o recurso, é possível conseguir itens aleatórios e de diferentes raridades.</p>    Loot boxes em Overwatch são gratuítas, mas&nbsp;Passe é pago (Divulgação/Microsoft)    <p>O grande problema é que a prática foi <a href="https://canaltech.com.br/games/caixas-de-loot-sao-porta-de-entrada-para-jogos-de-azar-conclui-reino-unido-127447/">acusada inúmeras vezes de ser uma espécie de jogo de azar altamente viciante</a>, como concluiu a Comissão de Jogos de Azar (Gambling Comission) do Reino Unido em 2018. O recurso é bem comum em jogos online gratuitos, mas também está presente em experiências para um jogador.</p>  <p>Além disso, <strong>o modelo foi frequentemente acompanhado de artifícios para fazer com que os jogadores gastassem muito dinheiro</strong>. Um bom exemplo disso é tornar os melhores itens&nbsp;muito difíceis de serem adquiridos ou elevar o preço dos itens à valores altos, induzindo o usuário a gastar dinheiro real.</p>  <h2>O que vai acontecer com jogos com loot boxes no Brasil?</h2>  <p>Como dito anteriormente, <strong>a Lei Felca passará a valer a partir do mês que vem. Há três caminhos para que jogos como o EA Sports FC</strong>, que hoje contam com este tipo de microtransação paga, evitem multas ou um banimento do Brasil:</p>  <ul>  <li>Empresas de jogos eletrônicos precisarão implementar sistemas de verificação de idade para impedir que menores de 18 anos comprem loot boxes. A medida permitiria que os títulos mantenham o recurso apenas para adultos.</li>  <li>Substituir ou remover o recurso, como a Blizzard fez com as loot boxes pagas disponíveis em seu Passe de Batalha Premium;</li>  <li>Ou passar novamente pelo órgão de Classificação Indicativa do Brasil (ClassInd). Assim, o jogo pode elevar a classificação para +18 anos e seguir com as loot boxes restritas a adultos.</li>  </ul>  <p>No caso do Hero Shooter, a medida adotada parece ter sido remover toda a loot box paga do jogo (inclusa no Passe de Batalha Premium). Com isso,<strong> a empresa não precisará implementar um sistema de verificação de idade ou elevar a classificação de Overwatch para +18 anos</strong>. Vale lembrar que loot boxes gratuitas seguem disponíveis no jogo.</p>    Overwatch perdeu o "2" em um rebranding&nbsp;    <p>Outra preocupação envolve as desenvolvedoras que oferecem recurso de chat por voz, áudio, vídeo ou qualquer troca de conteúdo, síncrona ou assíncrona; elas devem redobrar a atenção no que se refere "à moderação de conteúdos, à proteção contra contatos prejudiciais e à atuação parental sobre os mecanismos de comunicação", conforme o art. 21 da Lei nº 15.211/2025.</p>  <p>Procurada pela reportagem do Canaltech, <strong>a Blizzard ainda não se manifestou sobre a retirada das loot boxes em Overwatch</strong>.</p>  <p><strong>Leia também no Canaltech:</strong></p>  <ul>  <li><a href="https://canaltech.com.br/games/jogos-para-celular-com-graficos-jogabilidade-de-console-2025/">7 jogos para celular com gráficos ou jogabilidade de console em 2025</a></li>  <li><a href="https://canaltech.com.br/games/fim-da-festa-jogos-podem-deixar-sua-assinatura-da-netflix-mais-cara/">Fim da festa? Jogos podem deixar sua assinatura da Netflix mais cara</a></li>  <li><a href="https://canaltech.com.br/games/piores-jogos-activision-blizzard/">10 piores jogos já feitos pela Activision Blizzard</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/games/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- A primeira temporada de Overwatch, após o rebranding do jogo, foi lançada nesta terça-feira (10).
+- No entanto, os jogadores podem ter se deparado com uma questão inusitada ao tentar adquirir o Passe de Batalha Premium: as loot boxes não estão mais disponív...
+- O que é e como funcionam as loot boxes?
+
+## Contexto
+A primeira temporada de Overwatch, após o rebranding do jogo, foi lançada nesta terça-feira (10). No entanto, os jogadores podem ter se deparado com uma questão inusitada ao tentar adquirir o Passe de Batalha Premium: as loot boxes não estão mais disponíveis no Brasil . O que é e como funcionam as loot boxes?
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/games/overwatch-remove-loot-boxes-pagas-no-brasil-lei-felca-pode-ser-o-motivo/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #canaltech](/tags/canaltech)
+- [Outros destaques em #negocios](/tags/negocios)

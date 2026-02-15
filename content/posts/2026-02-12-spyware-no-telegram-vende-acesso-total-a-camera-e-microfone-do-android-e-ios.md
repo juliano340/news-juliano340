@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/seguranca/spyware-no-telegram-vende-aces
 image_url: "https://t.ctcdn.com.br/IqKojo3GujYlrbbbVH8HlaxFiWw=/700x394/smart/i1101899.png"
 image: "https://t.ctcdn.com.br/IqKojo3GujYlrbbbVH8HlaxFiWw=/700x394/smart/i1101899.png"
 slug: "spyware-no-telegram-vende-acesso-total-a-camera-e-microfone-do-android-e-ios"
+seo_title: "Spyware no Telegram vende acesso total à câmera e microfone do"
+meta_description: "Spyware no Telegram vende acesso total à câmera e microfone do Android e iOS. Um novo spyware comercializado no Telegram visa dispositivos Android e iOS para ro"
+canonical_url: "https://news.juliano340.com/posts/spyware-no-telegram-vende-acesso-total-a-camera-e-microfone-do-android-e-ios"
+og_type: "article"
+published_at: "2026-02-12T12:20:00.000Z"
+modified_at: "2026-02-12T12:20:00.000Z"
+primary_source: "https://canaltech.com.br/seguranca/spyware-no-telegram-vende-acesso-total-a-camera-e-microfone-do-android-e-ios/"
+schema_type: "NewsArticle"
+schema_headline: "Spyware no Telegram vende acesso total à câmera e microfone do Android e iOS"
+schema_description: "Spyware no Telegram vende acesso total à câmera e microfone do Android e iOS. Um novo spyware comercializado no Telegram visa dispositivos Android e iOS para ro"
+schema_date_published: "2026-02-12T12:20:00.000Z"
+schema_date_modified: "2026-02-12T12:20:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/spyware-no-telegram-vende-acesso-total-a-camera-e-microfone-do-android-e-ios"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/spyware-no-telegram-vende-acesso-total-a-camera-e-microfone-do-android-e-ios"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Spyware no Telegram vende acesso total à câmera e microfone do Android e iOS" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p><img src="https://t.ctcdn.com.br/IqKojo3GujYlrbbbVH8HlaxFiWw=/700x394/smart/i1101899.png"></p> <p>Um novo <strong>spyware</strong> comercializado no Telegram visa <strong>dispositivos Android e iOS</strong> para roubar dados a partir de um <strong>acesso remoto completo</strong> por parte dos hackers.</p> <ul> <li><a href="https://canaltech.com.br/seguranca/antivirus-falso-no-android-rouba-senhas-bancarias-em-vez-de-proteger/">Antivírus falso no Android rouba senhas bancárias em vez de proteger</a></li> <li><a href="https://canaltech.com.br/seguranca/um-bilhao-de-celulares-ficaram-vulneraveis-apos-atualizacao-do-android-16/">Um bilhão de celulares ficaram vulneráveis após atualização do Android 16</a></li> </ul> <p>De acordo com a pesquisa da iVerify, o malware em questão é o <strong>ZeroDayRAT</strong>, um software malicioso que oferece aos cibercriminosos a possibilidade de gerenciar aparelhos comprometidos à distância. O esquema possui suporte até mesmo para versões mais recentes dos sistemas visados, como o<strong> iOS 26</strong> e o <strong>Android 16</strong>.</p> <p>Para além do roubo de dados, o spyware ainda consegue<strong> espionar o dispositivo em tempo real</strong> e coletar informações financeiras do usuário.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p> <h2>Kit de contaminação</h2> <p>Embora a iVerify não tenha detalhado como o spyware chega até aos aparelhos, a empresa destacou que o ZeroDayRAT funciona como um “kit de ferramentas completo para comprometer dispositivos móveis”.</p> <figure class="image"><img src="https://t.ctcdn.com.br/WW6l7BeoWpw0k5uAzsLp0pzV16Q=/1024x0/smart/i1101893.jpeg" alt="" caption="true" data-ivi="pym3"> <figcaption>Painel de controle do spyware permite acesso remoto a dispositivos comprometidos (Imagem: Divulgação/iVerify).</figcaption> </figure> <p>Nos bastidores, o software corrompido mostra aos hackers, que usam um painel de controle para monitorar as vítimas, um <strong>panorama completo dos aparelhos</strong>, reunindo informações sobre o modelo, a versão do sistema operacional, o status da bateria e dados de localização.</p> <p>A central de controle do spyware também tem acesso remoto a mensagens SMS e todas as atividades registradas, como notificações e a exata localização geográfica da vítima com base no Google Maps.</p> <p>Os hackers ainda conseguem ativar as câmeras e o microfone do aparelho, abrindo espaço para mais coletas de informações confidenciais, e registrar senhas e padrões de desbloqueio de tela graças a um <a href="https://canaltech.com.br/seguranca/keyloggers-o-espiao-que-grava-tudo-o-que-voce-digita-e-como-se-proteger/">keylogger</a>.</p> <h2>Carteira em risco</h2> <p>O alerta dos pesquisadores apontou a lupa para a <strong>questão financeira</strong> por trás do golpe, que é facilitado por meio de um <strong>módulo de roubo de criptomoedas</strong>. Ele é ativado assim que o malware infecta o dispositivo para escanear aplicativos financeiros e plataformas como o Google Pay, <a href="https://canaltech.com.br/empresa/apple/">Apple</a> Pay e PayPal.</p> <p>Dessa forma, os hackers obtêm acesso remoto a informações sensíveis, como saldos de carteiras de criptomoedas e senhas de contas, apresentando uma sobreposição de telas falsas para que a vítima não perceba que está sendo roubado.</p> <figure class="image"><img src="https://t.ctcdn.com.br/Ehi6v5twTG4VxNkwAhmWtp9hBhY=/1024x0/smart/i1101897.jpeg" alt="" caption="true" data-ivi="pym7"> <figcaption>Spyware também possui módulo de roubo de criptomoedas (Imagem: Divulgação/iVerify).</figcaption> </figure> <p>Diante da falta de informações sobre o <em>modus operandi</em> dos hackers, a recomendação dos especialistas é que os usuários nunca instalem aplicativos fora das lojas oficiais do Android e iOS. Plataformas que vem de fora de serviços...
+## Resumo em 3 bullets
+- Um novo spyware comercializado no Telegram visa dispositivos Android e iOS para roubar dados a partir de um acesso remoto completo por parte dos hackers.
+- Antivírus falso no Android rouba senhas bancárias em vez de proteger Um bilhão de celulares ficaram vulneráveis após atualização do Android 16 De acordo com...
+- O esquema possui suporte até mesmo para versões mais recentes dos sistemas visados, como o iOS 26 e o Android 16 .
+
+## Contexto
+Um novo spyware comercializado no Telegram visa dispositivos Android e iOS para roubar dados a partir de um acesso remoto completo por parte dos hackers. Antivírus falso no Android rouba senhas bancárias em vez de proteger Um bilhão de celulares ficaram vulneráveis após atualização do Android 16 De acordo com a pesquisa da iVerify, o malware em questão é o ZeroDayRAT , um software malicioso que oferece aos cibercriminosos a possibilidade de gerenciar aparelhos comprometidos à distância. O esquema possui suporte até mesmo para versões mais recentes dos sistemas visados, como o iOS 26 e o Android 16 .
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/seguranca/spyware-no-telegram-vende-acesso-total-a-camera-e-microfone-do-android-e-ios/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

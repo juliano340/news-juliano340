@@ -101,11 +101,140 @@ class EditorialComposer {
     return (actions[topic] || actions['produtividade-dev']).map((line) => `- ${line}`).join('\n');
   }
 
-  buildContext(post) {
+  buildContext(topic, title) {
+    const contextByTopic = {
+      llms: 'A pauta conecta disputa regulatoria, seguranca de modelos e contratos com governo em um momento de aceleracao da IA generativa.',
+      agentes: 'O tema reforca que autonomia sem governanca cria risco operacional, juridico e reputacional para produtos baseados em agentes.',
+      frameworks: 'A discussao sinaliza impacto direto em padroes de integracao, requisitos de observabilidade e escolha de stack para escalar IA.',
+      'infra-ia': 'A noticia toca em capacidade de operacao segura, previsibilidade de custo e requisitos tecnicos para workloads sensiveis.',
+      'seguranca-ia': 'A cobertura aponta para pressao por controles tecnicos mais rigorosos e trilha de auditoria em sistemas com IA.',
+      'produtividade-dev': 'O assunto mostra como decisao de mercado e regulacao pode mudar backlog de engenharia e prioridades de entrega em curto prazo.'
+    };
+
     return [
-      `- Fonte original: ${post.source || 'Fonte nao informada'}`,
-      `- Publicado em: ${post.date || new Date().toISOString()}`,
-      `- Niche editorial: ${config.EDITORIAL_NICHE}`
+      contextByTopic[topic] || contextByTopic['produtividade-dev'],
+      `No caso de "${Utils.truncateText(title || 'esta noticia', 90)}", o ponto central e transformar informacao em decisao pratica de produto.`
+    ].join(' ');
+  }
+
+  buildIntro(topic, title) {
+    const leadByTopic = {
+      llms: 'A disputa sobre salvaguardas de IA ganhou peso estrategico e pode redefinir como empresas negociam uso de modelos em contextos sensiveis.',
+      agentes: 'Mudancas em governanca de IA estao elevando o nivel de exigencia para fluxos autonomos usados em producao.',
+      frameworks: 'O ecossistema de IA continua mudando rapido e exige leitura tecnica para evitar decisoes de stack com alto custo de reversao.',
+      'infra-ia': 'Decisoes recentes reforcam que infraestrutura de IA precisa equilibrar desempenho, custo e conformidade.',
+      'seguranca-ia': 'A pauta aumenta o foco em controles de seguranca e responsabilidade no uso de IA em ambientes criticos.',
+      'produtividade-dev': 'A noticia traz sinais relevantes para times de engenharia que dependem de IA no fluxo diario de desenvolvimento.'
+    };
+
+    return [
+      leadByTopic[topic] || leadByTopic['produtividade-dev'],
+      `Em "${Utils.truncateText(title || 'noticia de IA', 90)}", o impacto nao e apenas narrativo: ele afeta risco, roadmap e criterio de decisao tecnica.`
+    ].join(' ');
+  }
+
+  buildDeveloperChecklist(topic) {
+    const checklist = {
+      llms: [
+        'Mapear onde o produto depende de um unico provedor de modelo.',
+        'Definir fallback tecnico e contratual para indisponibilidade ou mudanca de politica.',
+        'Atualizar matriz de risco para uso de IA em contexto regulado.'
+      ],
+      agentes: [
+        'Classificar tarefas que podem ser automatizadas com baixo risco.',
+        'Aplicar limites de autonomia com aprovacoes humanas em decisoes criticas.',
+        'Registrar logs de acoes para auditoria e troubleshooting.'
+      ],
+      frameworks: [
+        'Comparar lock-in tecnico entre opcoes antes de migrar stack.',
+        'Validar compatibilidade com monitoramento e observabilidade existentes.',
+        'Planejar rollout incremental com metas de desempenho e custo.'
+      ],
+      'infra-ia': [
+        'Revisar SLA e SLO de inferencia para cargas sensiveis.',
+        'Definir budget de custo por requisicao e alertas por anomalia.',
+        'Testar plano de contingencia para aumento brusco de latencia.'
+      ],
+      'seguranca-ia': [
+        'Aplicar validacao de entrada e filtros de saida em prompts.',
+        'Reforcar trilha de auditoria para respostas e acoes automatizadas.',
+        'Executar revisao de seguranca antes de ampliar escopo do uso de IA.'
+      ],
+      'produtividade-dev': [
+        'Definir politica interna para uso de IA em codigo e documentacao.',
+        'Medir impacto de produtividade com metrica de lead time.',
+        'Manter revisao humana obrigatoria em entregas de alto risco.'
+      ]
+    };
+
+    return (checklist[topic] || checklist['produtividade-dev']).map((line) => `- ${line}`).join('\n');
+  }
+
+  buildWatchList(topic) {
+    const watch = {
+      llms: [
+        'Comunicados oficiais sobre requisitos de seguranca para contratos de IA.',
+        'Mudancas em clausulas de conformidade entre governo e fornecedores.',
+        'Sinais de atraso ou cancelamento em programas que dependem de modelos generativos.'
+      ],
+      agentes: [
+        'Novas restricoes para autonomia em fluxos de decisao automatizada.',
+        'Atualizacoes de boas praticas para supervisao humana.',
+        'Incidentes que motivem revisao de governanca em agentes.'
+      ],
+      frameworks: [
+        'Lancamentos de recursos voltados a compliance e auditoria.',
+        'Mudancas de licenca e termos de uso em ferramentas chave.',
+        'Estudos comparativos de desempenho em casos reais.'
+      ],
+      'infra-ia': [
+        'Anuncios de requisitos extras para operacao em ambientes criticos.',
+        'Variacao de custo de infraestrutura para inferencia em escala.',
+        'Atualizacoes de latencia e disponibilidade dos provedores.'
+      ],
+      'seguranca-ia': [
+        'Guias e normativos novos sobre seguranca aplicada a IA.',
+        'Incidentes publicos relacionados a prompt injection e vazamento.',
+        'Exigencias de auditoria em setores regulados.'
+      ],
+      'produtividade-dev': [
+        'Mudancas de politica em ferramentas de IA usadas no desenvolvimento.',
+        'Novos recursos que alterem custo-beneficio no fluxo de engenharia.',
+        'Casos de uso com ganho comprovado em produtividade real.'
+      ]
+    };
+
+    return (watch[topic] || watch['produtividade-dev']).map((line) => `- ${line}`).join('\n');
+  }
+
+  buildFaq(topic) {
+    const generic = [
+      {
+        q: '### O que aconteceu de fato?',
+        a: 'Houve um impasse entre as partes sobre requisitos de seguranca e governanca no uso de IA, com potencial impacto em contratos e continuidade de projetos.'
+      },
+      {
+        q: '### Qual o impacto para times de tecnologia?',
+        a: 'Times podem precisar rever riscos de fornecedor, compliance e arquitetura para reduzir dependencia e manter continuidade operacional.'
+      },
+      {
+        q: '### O que fazer agora?',
+        a: 'Priorize mapeamento de dependencia, ajuste de politicas internas e acompanhamento de comunicados oficiais para agir antes de mudancas bruscas.'
+      }
+    ];
+
+    if (topic === 'seguranca-ia') {
+      generic[1].a = 'O impacto principal recai sobre controles de seguranca, auditoria de prompts e exigencias de rastreabilidade em sistemas com IA.';
+    }
+
+    return generic.map((item) => `${item.q}\n${item.a}`).join('\n\n');
+  }
+
+  buildSourceTransparency(post, sourceUrl) {
+    return [
+      sourceUrl ? `- Fonte primaria: ${sourceUrl}` : '- Fonte primaria nao identificada',
+      '- Este conteudo foi gerado automaticamente com curadoria editorial assistida por IA.',
+      '- Encontrou um erro? Solicite revisao via repositorio oficial do projeto.'
     ].join('\n');
   }
 
@@ -146,53 +275,85 @@ class EditorialComposer {
   buildHeuristicContent(post, topic, title, rawFormatted, primarySource) {
     const sentences = this.sentenceCandidates(rawFormatted);
     const summary = this.buildSummary(sentences, title);
+    const intro = this.buildIntro(topic, title);
     const whyMatters = this.buildWhyMatters(topic, title);
     const practical = this.buildPracticalImpact(topic);
-    const context = this.buildContext(post);
+    const context = this.buildContext(topic, title);
+    const checklist = this.buildDeveloperChecklist(topic);
+    const watchList = this.buildWatchList(topic);
+    const faq = this.buildFaq(topic);
+    const sourceTransparency = this.buildSourceTransparency(post, primarySource);
 
     return [
+      intro,
+      '',
       '## Resumo em 3 bullets',
       ...summary,
       '',
-      '## Por que isso importa para devs',
-      whyMatters,
+      '## Contexto',
+      context,
       '',
       '## O que muda na pratica',
       practical,
       '',
-      '## Contexto rapido',
-      context,
+      '## Para devs/negocios (checklist)',
+      checklist,
       '',
-      '## Fonte primaria',
-      primarySource ? `- ${primarySource}` : '- Fonte primaria nao identificada'
+      '## O que observar nos proximos dias',
+      watchList,
+      '',
+      '## FAQ',
+      faq,
+      '',
+      '## Fonte e transparencia',
+      sourceTransparency,
+      '',
+      '## Por que isso importa para devs',
+      whyMatters
     ].join('\n');
   }
 
   buildAIContent(post, aiDraft, primarySource) {
     const summary = this.normalizeAIBullets(aiDraft.summary_bullets);
+    const intro = this.buildIntro(post.topic || 'produtividade-dev', post.title);
     const whyMatters = Utils.truncateText(String(aiDraft.why_matters || '').trim(), 700);
     const practical = this.normalizeAIActions(aiDraft.practical_actions);
-    const context = this.normalizeAIContext(aiDraft.context_bullets, post);
+    const context = this.buildContext(post.topic || 'produtividade-dev', post.title);
+    const checklist = this.buildDeveloperChecklist(post.topic || 'produtividade-dev');
+    const watchList = this.buildWatchList(post.topic || 'produtividade-dev');
+    const faq = this.buildFaq(post.topic || 'produtividade-dev');
     const resolvedSource = aiDraft.source_reference && /^https?:\/\//i.test(aiDraft.source_reference)
       ? aiDraft.source_reference
       : primarySource;
+    const sourceTransparency = this.buildSourceTransparency(post, resolvedSource);
 
     return {
       content: [
+        intro,
+        '',
         '## Resumo em 3 bullets',
         ...summary,
         '',
-        '## Por que isso importa para devs',
-        whyMatters,
+        '## Contexto',
+        context,
         '',
         '## O que muda na pratica',
         practical,
         '',
-        '## Contexto rapido',
-        context,
+        '## Para devs/negocios (checklist)',
+        checklist,
         '',
-        '## Fonte primaria',
-        resolvedSource ? `- ${resolvedSource}` : '- Fonte primaria nao identificada'
+        '## O que observar nos proximos dias',
+        watchList,
+        '',
+        '## FAQ',
+        faq,
+        '',
+        '## Fonte e transparencia',
+        sourceTransparency,
+        '',
+        '## Por que isso importa para devs',
+        whyMatters
       ].join('\n'),
       primarySource: resolvedSource,
       aiMetadata: {
@@ -228,7 +389,7 @@ class EditorialComposer {
     });
 
     if (aiDraft) {
-      const aiOutput = this.buildAIContent(post, aiDraft, primarySource);
+      const aiOutput = this.buildAIContent({ ...post, topic }, aiDraft, primarySource);
       content = aiOutput.content;
       resolvedPrimarySource = aiOutput.primarySource;
       editorialMode = aiDraft.fallback_used ? 'ai_fallback_model' : 'ai_primary_model';

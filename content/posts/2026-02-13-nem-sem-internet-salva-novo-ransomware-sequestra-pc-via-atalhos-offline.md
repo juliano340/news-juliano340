@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/seguranca/nem-sem-internet-salva-novo-ra
 image_url: "https://t.ctcdn.com.br/lIw-pqs6zoyi3S1GDR92HnT1Dpo=/700x394/smart/i1076619.png"
 image: "https://t.ctcdn.com.br/lIw-pqs6zoyi3S1GDR92HnT1Dpo=/700x394/smart/i1076619.png"
 slug: "nem-sem-internet-salva-novo-ransomware-sequestra-pc-via-atalhos-offline"
+seo_title: "Nem sem internet salva: novo ransomware sequestra PC via atalh"
+meta_description: "Nem sem internet salva: novo ransomware sequestra PC via atalhos offline. Especialistas da Forcepoint X Labs detectaram uma campanha de phishing que distribui a"
+canonical_url: "https://news.juliano340.com/posts/nem-sem-internet-salva-novo-ransomware-sequestra-pc-via-atalhos-offline"
+og_type: "article"
+published_at: "2026-02-13T10:35:00.000Z"
+modified_at: "2026-02-13T10:35:00.000Z"
+primary_source: "https://canaltech.com.br/seguranca/nem-sem-internet-salva-novo-ransomware-sequestra-pc-via-atalhos-offline/"
+schema_type: "NewsArticle"
+schema_headline: "Nem sem internet salva: novo ransomware sequestra PC via atalhos offline"
+schema_description: "Nem sem internet salva: novo ransomware sequestra PC via atalhos offline. Especialistas da Forcepoint X Labs detectaram uma campanha de phishing que distribui a"
+schema_date_published: "2026-02-13T10:35:00.000Z"
+schema_date_modified: "2026-02-13T10:35:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/nem-sem-internet-salva-novo-ransomware-sequestra-pc-via-atalhos-offline"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/nem-sem-internet-salva-novo-ransomware-sequestra-pc-via-atalhos-offline"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Nem sem internet salva: novo ransomware sequestra PC via atalhos offline" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>Especialistas da Forcepoint X-Labs detectaram uma<strong> campanha de phishing</strong> que distribui ataques de ransomware <strong>sem a necessidade de conexão com a internet</strong>.</p>  <ul>  <li><a href="https://canaltech.com.br/seguranca/bug-em-ransomware-faz-grupo-perder-chaves-e-destroi-dados-hackeados-para-sempre/">Bug em ransomware faz grupo perder chaves e destrói dados hackeados para sempre</a></li>  <li><a href="https://canaltech.com.br/seguranca/o-stalker-foi-stalkeado-vazamento-expoe-dados-de-quem-usava-apps-espioes/">O stalker foi stalkeado: vazamento expõe dados de quem usava apps espiões</a></li>  </ul>  <p>A investigação aponta que a campanha usa <strong>atalhos do Windows</strong> com arquivos criptografados, que são enviados por e-mail para as vítimas. O <em>modus operandi</em> é descrito como <strong>“silencioso”</strong> pelo fato de os criminosos não precisarem estar online para burlar os sistemas de segurança do dispositivo visado.</p>  <p>O caso preocupa pelo <strong>alcance global</strong> do ciberataque, que visa o sequestro de computadores para roubar dados pessoais de usuários, e pelo envolvimento do ransomware Global Group, uma <strong>operação de Ransomware como Serviço (RaaS)</strong> que está na ativa desde 2025.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <h2>Por trás da campanha</h2>  <p>Usando táticas simples de phishing, a campanha conta com o <strong>envio de um e-mail</strong> cujo assunto aparece como “Seu Documento”. Assim que a pessoa abre a mensagem, ela se depara com um <strong>anexo com uma pasta compactada</strong> que é intitulada “Document.doc.lnk”.</p>    E-mail envia documento malicioso para usuário que instala malware no dispositivo (Imagem:&nbsp;Divulgação/Forcepoint).    <p>Para um usuário comum, o arquivo parece bastante legítimo, mas os pesquisadores descobriram que esse documento é, na verdade, um atalho do Windows que, ao ser clicado, instrui o sistema a <strong>executar comandos em segundo plano</strong> sem precisar de arquivos maliciosos.</p>  <p>Dessa forma, os hackers conseguem usar as próprias ferramentas do dispositivo para iniciar o ataque, corrompendo programas legítimos, como o PowerShell e o Prompt de Comando, para concretizar a infecção. É assim que o malware entra no sistema, escondendo-se em pastas para evitar ser detectado.</p>  <h2>Sem internet</h2>  <p>O mais surpreendente da campanha é a possibilidade de desencadear uma série de processos maliciosos de maneira <strong>offline</strong>. Silencioso como um ninja, o Global Group realiza as ações de maneira local, gerando uma chave de criptografia própria na máquina contaminada.</p>  <p>Além disso, o malware consegue bloquear arquivos mesmo sem estar conectado a um servidor, dificultando a recuperação de documentos pela vítima. Também há um temporizador de cerca de três segundos que, uma vez encerrado, faz o software malicioso apagar os próprios arquivos do disco rígido, dificultando a detecção.</p>  <p>Leia também:</p>  <ul>  <li><a href="https://canaltech.com.br/seguranca/hackers-usam-qr-code-para-espionar-conversas-de-politicos-e-militares/">Hackers usam QR Code para espionar conversas de políticos e militares</a></li>  <li><a href="https://canaltech.com.br/seguranca/um-bilhao-de-celulares-ficaram-vulneraveis-apos-atualizacao-do-android-16/">Um bilhão de celulares ficaram vulneráveis após atualização do Android 16</a></li>  <li><a href="https://canaltech.com.br/seguranca/shinyhunters-invade-sistemas-das-universidades-de-harvard-e-da-pensilvania/">ShinyHunters invade sistemas das universidades de Harvard e da Pensilvânia</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/seguranca/nem-sem-internet-salva-novo-ransomware-sequestra-pc-via-atalhos-offline/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- Especialistas da Forcepoint X-Labs detectaram uma campanha de phishing que distribui ataques de ransomware sem a necessidade de conexão com a internet .
+- Bug em ransomware faz grupo perder chaves e destrói dados hackeados para sempre O stalker foi stalkeado: vazamento expõe dados de quem usava apps espiões A i...
+- O modus operandi é descrito como “silencioso” pelo fato de os criminosos não precisarem estar online para burlar os sistemas de segurança do dispositivo visado.
+
+## Contexto
+Especialistas da Forcepoint X-Labs detectaram uma campanha de phishing que distribui ataques de ransomware sem a necessidade de conexão com a internet . Bug em ransomware faz grupo perder chaves e destrói dados hackeados para sempre O stalker foi stalkeado: vazamento expõe dados de quem usava apps espiões A investigação aponta que a campanha usa atalhos do Windows com arquivos criptografados, que são enviados por e-mail para as vítimas. O modus operandi é descrito como “silencioso” pelo fato de os criminosos não precisarem estar online para burlar os sistemas de segurança do dispositivo visado.
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/seguranca/nem-sem-internet-salva-novo-ransomware-sequestra-pc-via-atalhos-offline/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #ciencia](/tags/ciencia)

@@ -7,6 +7,69 @@ original_url: "https://canaltech.com.br/apps/whatsapp-prepara-novos-ajustes-de-p
 image_url: "https://t.ctcdn.com.br/7sylzZZ7dk4Xcg4pkDVxYlqxNWY=/700x394/smart/i1072075.jpeg"
 image: "https://t.ctcdn.com.br/7sylzZZ7dk4Xcg4pkDVxYlqxNWY=/700x394/smart/i1072075.jpeg"
 slug: "whatsapp-prepara-novos-ajustes-de-privacidade-para-enquetes"
+seo_title: "WhatsApp prepara novos ajustes de privacidade para enquetes"
+meta_description: "WhatsApp prepara novos ajustes de privacidade para enquetes. A ferramenta de enquetes do WhatsApp deve receber novos ajustes de privacidade. Segundo o site WABe"
+canonical_url: "https://news.juliano340.com/posts/whatsapp-prepara-novos-ajustes-de-privacidade-para-enquetes"
+og_type: "article"
+published_at: "2026-02-13T13:29:00.000Z"
+modified_at: "2026-02-13T13:29:00.000Z"
+primary_source: "https://canaltech.com.br/apps/whatsapp-prepara-novos-ajustes-de-privacidade-para-enquetes/"
+schema_type: "NewsArticle"
+schema_headline: "WhatsApp prepara novos ajustes de privacidade para enquetes"
+schema_description: "WhatsApp prepara novos ajustes de privacidade para enquetes. A ferramenta de enquetes do WhatsApp deve receber novos ajustes de privacidade. Segundo o site WABe"
+schema_date_published: "2026-02-13T13:29:00.000Z"
+schema_date_modified: "2026-02-13T13:29:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/whatsapp-prepara-novos-ajustes-de-privacidade-para-enquetes"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/whatsapp-prepara-novos-ajustes-de-privacidade-para-enquetes"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "WhatsApp prepara novos ajustes de privacidade para enquetes" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p></p> <p>A ferramenta de <strong>enquetes</strong> do <strong><a href="https://canaltech.com.br/empresa/whatsapp/">WhatsApp</a></strong> deve receber novos ajustes de privacidade. Segundo o site <em>WABetaInfo</em>, os usuários poderão <strong>alterar configurações como a exibição dos votantes e a expiração da votação</strong>.</p>  <ul>  <li><a href="https://canaltech.com.br/apps/de-etiquetas-em-grupos-a-modo-de-fortaleza-4-novidades-do-whatsapp-em-janeiro/">De etiquetas em grupos a modo de "fortaleza": 4 novidades do WhatsApp em janeiro</a></li>  <li><a href="https://canaltech.com.br/apps/quando-o-whatsapp-para-de-funcionar-em-celulares-antigos-entenda-regras/">Quando o WhatsApp para de funcionar em celulares antigos? Entenda regras</a></li>  </ul>  <p>A novidade foi disponibilizada na <strong>versão beta 2.26.6.7 do WhatsApp para Android</strong>, distribuída pela Google Play Store.</p>  <p>A nova seção dedicada às enquetes no mensageiro da <a href="https://canaltech.com.br/empresa/meta/">Meta</a> deve permitir que <strong>o criador da votação defina se será possível visualizar qual participante escolheu determinada resposta</strong>. Uma vez habilitada, essa funcionalidade esconde o nome do votante até mesmo de quem criou a enquete.</p> <p>-<br>Entre no <a href="https://canalte.ch/whatsapp-canaltech-parceiros">Canal do WhatsApp do Canaltech</a> e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis.<br>-</p>  <p>Vale ressaltar que, embora o nome dos votantes fique oculto, <strong>o número de votos continuará a ser exibido a todos os membros da conversa</strong>. A adição desse recurso visa criar uma camada adicional de privacidade para os usuários que participam das votações.</p>    Usuários do WhatsAppterão acesso a novos ajustes na ferramenta de enquetes (Imagem: Reprodução/WABetaInfo)    <h2>Expiração da enquete</h2>  <p>Os registros feitos pelo <em>WABetaInfo</em> também indicam que a aba dedicada às enquetes no WhatsApp dará aos criadores a opção de<strong> selecionar uma data e um horário para a expiração da votação</strong>.</p>  <p>Após o fim do período estabelecido, a ferramenta bloqueará a contabilização de novos votos.<strong> As informações sobre o encerramento serão exibidas claramente na conversa</strong> para que todos os membros saibam até quando podem escolher suas respostas.</p>  <h2>As novas configurações das enquetes já estão disponíveis?</h2>  <p>As novas configurações relacionadas às enquetes ainda estão em fase de testes. <strong>A expectativa é que esses ajustes sejam liberados em uma futura atualização do aplicativo</strong>.</p>  <p><strong>Leia também:</strong></p>  <ul>  <li><a href="https://canaltech.com.br/apps/whatsapp-vai-ganhar-uma-aba-dedicada-ao-meta-ai-antecipa-portal/">WhatsApp vai ganhar uma aba dedicada ao Meta AI, antecipa portal</a></li>  <li><a href="https://canaltech.com.br/apps/whatsapp-agora-mostra-contatos-buscados-recentemente-no-android/">WhatsApp agora mostra contatos buscados recentemente no Android</a></li>  <li><a href="https://canaltech.com.br/apps/whatsapp-para-ios-agora-mostra-quantas-vezes-um-post-do-canal-foi-compartilhado/">WhatsApp para iOS agora mostra quantas vezes um post do canal foi compartilhado</a></li>  </ul> <p>Leia a matéria no <a href="https://canaltech.com.br/apps/whatsapp-prepara-novos-ajustes-de-privacidade-para-enquetes/">Canaltech</a>.</p>
+## Resumo em 3 bullets
+- A ferramenta de enquetes do WhatsApp deve receber novos ajustes de privacidade.
+- Segundo o site WABetaInfo , os usuários poderão alterar configurações como a exibição dos votantes e a expiração da votação .
+- De etiquetas em grupos a modo de "fortaleza": 4 novidades do WhatsApp em janeiro Quando o WhatsApp para de funcionar em celulares antigos?
+
+## Contexto
+A ferramenta de enquetes do WhatsApp deve receber novos ajustes de privacidade. Segundo o site WABetaInfo , os usuários poderão alterar configurações como a exibição dos votantes e a expiração da votação . De etiquetas em grupos a modo de "fortaleza": 4 novidades do WhatsApp em janeiro Quando o WhatsApp para de funcionar em celulares antigos?
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://canaltech.com.br/apps/whatsapp-prepara-novos-ajustes-de-privacidade-para-enquetes/
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #educacao](/tags/educacao)

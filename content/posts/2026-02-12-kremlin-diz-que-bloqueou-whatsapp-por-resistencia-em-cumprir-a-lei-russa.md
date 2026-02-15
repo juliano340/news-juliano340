@@ -7,6 +7,69 @@ original_url: "https://g1.globo.com/tecnologia/noticia/2026/02/12/kremlin-diz-qu
 image_url: "https://s2-g1.glbimg.com/G0A2iPvtefGUv7YSUrlTBOq8TvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/T/vEa2b4REAbVVs7pfuwIQ/facebook-instagram-whatsapp.jpg"
 image: "https://s2-g1.glbimg.com/G0A2iPvtefGUv7YSUrlTBOq8TvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/T/vEa2b4REAbVVs7pfuwIQ/facebook-instagram-whatsapp.jpg"
 slug: "kremlin-diz-que-bloqueou-whatsapp-por-resistencia-em-cumprir-a-lei-russa"
+seo_title: "Kremlin diz que bloqueou WhatsApp por 'resistência em cumprir"
+meta_description: "Kremlin diz que bloqueou WhatsApp por 'resistência em cumprir a lei' russa. Facebook, Instagram e WhatsApp, plataformas da Meta Richard Drew/AP O Kremlin afirmo"
+canonical_url: "https://news.juliano340.com/posts/kremlin-diz-que-bloqueou-whatsapp-por-resistencia-em-cumprir-a-lei-russa"
+og_type: "article"
+published_at: "2026-02-12T10:06:06.000Z"
+modified_at: "2026-02-12T10:06:06.000Z"
+primary_source: "https://g1.globo.com/tecnologia/noticia/2026/02/12/kremlin-diz-que-bloqueou-whatsapp-por-resistencia-em-cumprir-a-lei-russa.ghtml"
+schema_type: "NewsArticle"
+schema_headline: "Kremlin diz que bloqueou WhatsApp por 'resistência em cumprir a lei' russa"
+schema_description: "Kremlin diz que bloqueou WhatsApp por 'resistência em cumprir a lei' russa. Facebook, Instagram e WhatsApp, plataformas da Meta Richard Drew/AP O Kremlin afirmo"
+schema_date_published: "2026-02-12T10:06:06.000Z"
+schema_date_modified: "2026-02-12T10:06:06.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/kremlin-diz-que-bloqueou-whatsapp-por-resistencia-em-cumprir-a-lei-russa"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/kremlin-diz-que-bloqueou-whatsapp-por-resistencia-em-cumprir-a-lei-russa"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Kremlin diz que bloqueou WhatsApp por 'resistência em cumprir a lei' russa" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<img src="https://s2-g1.glbimg.com/G0A2iPvtefGUv7YSUrlTBOq8TvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/T/vEa2b4REAbVVs7pfuwIQ/facebook-instagram-whatsapp.jpg" /><br /> Facebook, Instagram e WhatsApp, plataformas da Meta Richard Drew/AP O Kremlin afirmou nesta quinta-feira (12) que bloqueou o Whatsapp na Rússia por sua "resistência de cumprir a lei" russa. “Essa decisão de fato foi tomada e implementada [pela] relutância do WhatsApp em cumprir as normas e a letra da lei russa”, disse o porta-voz do Kremlin, Dmitry Peskov, a jornalistas em coletiva nesta quinta. O bloqueio do Whatsapp na Rússia, juntamente com o Facebook e o Instagram, foi revelado pelo jornal norte-americano Financial Times na quarta-feira (leia mais abaixo). Peskov não mencionou os outros dois aplicativos na coletiva. Em resposta à ação do governo russo, o Whatsapp afirmou que continua tentando manter seus serviços ativos na Rússia e acusou o governo de Vladimir Putin de retrocesso. "Tentar isolar mais de 100 milhões de usuários de uma comunicação privada e segura é um retrocesso e só pode levar a menos segurança para as pessoas na Rússia", afirmou a empresa em comunicado. Peskov, no entanto, se esquivou de perguntas sobre tentativas de bloquear o Telegram. Ele disse apenas para consultar o Roskomnadzor, órgão regulador da internet no país. Plataforma russa, o Telegram é considerado importante no país porque é o principal meio de comunicação não militar entre os soldados no front da guerra da Ucrânia, e também por onde eles se comunicam com suas famílias. O bloqueio das mídias ocorre em um momento em que o governo russo tenta forçar sua população a utilizar o Max, uma plataforma de comunicação desenvolvida pelo próprio Estado. O aplicativo tem sido chamado de "super aplicativo" por combinar mensagens e serviços governamentais, mas sem criptografia. Investida do Kremlin contra WhatsApp, Instagram e Facebook e Telegram A Rússia bloqueou o acesso a WhatsApp, Instagram e Facebook, informou na quarta-feira (11) o jornal americano Financial Times. Os aplicativos foram removidos de um diretório online mantido pelo Roskomnadzor, órgão regulador da internet no país. Na prática, a medida apaga as plataformas da internet russa, tornando praticamente impossível o acesso sem meios alternativos como VPNs. Na decisão de derrubar o Instagram e o Facebook, também controlados pela Meta, do diretório online, a Rússia classificou os aplicativos como "extremistas". O acesso ao YouTube também foi limitado, mas, de acordo com o Financial Times, não está claro se ele foi derrubado desse diretório. Ainda segundo a reportagem, o governo russo já tinha adotado outras medidas contra o WhatsApp, mas esta decisão indica que o país pretende manter o aplicativo suspenso por um período maior ou até mesmo de forma permanente. Roblox, Discord, YouTube e mais: redes adotam verificação de idade com selfie após pressão; veja como funciona Veja os vídeos que estão em alta no g1 O WhatsApp afirma ter 100 milhões de usuários na Rússia e classificou o bloqueio como um "retrocesso" que só pode levar menos segurança para a população do país. "Hoje, o governo russo tentou bloquear completamente o WhatsApp, numa tentativa de direcionar os usuários para um aplicativo de vigilância estatal", afirmou o WhatsApp ao Financial Times. O posicionamento do WhatsApp faz referência ao Max, aplicativo inspirado no chinês WeChat e que permite trocar mensagens e utilizar serviços de governo. Ao contrário do WhatsApp, o Max não tem criptografia, o que permitiria a terceiros acessar conversas de seus usuários, informou o Financial Times. A Rússia nega as acusações. O Max foi criado pela rede social russa VKontakte (VK), mas era pouco conhecido até ser classificado como o "mensageiro nacional". A VK é controlada por aliados do presidente russo Vladimir Putin. A Rússia também restringiu parcialmente o acesso ao Telegram e impediu as chamadas de voz pelo aplicativo, algo que já ti...
+## Resumo em 3 bullets
+- Facebook, Instagram e WhatsApp, plataformas da Meta Richard Drew/AP O Kremlin afirmou nesta quinta-feira (12) que bloqueou o Whatsapp na Rússia por sua "resi...
+- “Essa decisão de fato foi tomada e implementada [pela] relutância do WhatsApp em cumprir as normas e a letra da lei russa”, disse o porta-voz do Kremlin, Dmi...
+- O bloqueio do Whatsapp na Rússia, juntamente com o Facebook e o Instagram, foi revelado pelo jornal norte-americano Financial Times na quarta-feira (leia mai...
+
+## Contexto
+Facebook, Instagram e WhatsApp, plataformas da Meta Richard Drew/AP O Kremlin afirmou nesta quinta-feira (12) que bloqueou o Whatsapp na Rússia por sua "resistência de cumprir a lei" russa. “Essa decisão de fato foi tomada e implementada [pela] relutância do WhatsApp em cumprir as normas e a letra da lei russa”, disse o porta-voz do Kremlin, Dmitry Peskov, a jornalistas em coletiva nesta quinta. O bloqueio do Whatsapp na Rússia, juntamente com o Facebook e o Instagram, foi revelado pelo jornal norte-americano Financial Times na quarta-feira (leia mais abaixo).
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://g1.globo.com/tecnologia/noticia/2026/02/12/kremlin-diz-que-bloqueou-whatsapp-por-resistencia-em-cumprir-a-lei-russa.ghtml
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #negocios](/tags/negocios)

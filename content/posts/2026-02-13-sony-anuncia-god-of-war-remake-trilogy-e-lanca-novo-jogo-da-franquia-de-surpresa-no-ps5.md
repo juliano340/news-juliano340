@@ -7,8 +7,69 @@ original_url: "https://www.tecmundo.com.br/voxel/503018-god-of-war-trilogy-remak
 image_url: "https://tm.ibxk.com.br/2026/02/12/GOD_OF_WAR_TRILOGY_REMAKE_64c59820c7.jpg"
 image: "https://tm.ibxk.com.br/2026/02/12/GOD_OF_WAR_TRILOGY_REMAKE_64c59820c7.jpg"
 slug: "sony-anuncia-god-of-war-remake-trilogy-e-lanca-novo-jogo-da-franquia-de-surpresa-no-ps5"
+seo_title: "Sony anuncia God of War Remake Trilogy e lança novo jogo da fr"
+meta_description: "Sony anuncia God of War Remake Trilogy e lança novo jogo da franquia de surpresa no PS5. Apesar de não ter conquistado a mesma aclamação que o reboot de 2018,&n"
+canonical_url: "https://news.juliano340.com/posts/sony-anuncia-god-of-war-remake-trilogy-e-lanca-novo-jogo-da-franquia-de-surpresa-no-ps5"
+og_type: "article"
+published_at: "2026-02-12T23:17:22.000Z"
+modified_at: "2026-02-12T23:17:22.000Z"
+primary_source: "https://www.tecmundo.com.br/voxel/503018-god-of-war-trilogy-remake-e-revelado-no-state-of-play-confira-o-gameplay-insano-com-kratos.htm"
+schema_type: "NewsArticle"
+schema_headline: "Sony anuncia God of War Remake Trilogy e lança novo jogo da franquia de surpresa no PS5"
+schema_description: "Sony anuncia God of War Remake Trilogy e lança novo jogo da franquia de surpresa no PS5. Apesar de não ter conquistado a mesma aclamação que o reboot de 2018,&n"
+schema_date_published: "2026-02-12T23:17:22.000Z"
+schema_date_modified: "2026-02-12T23:17:22.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/sony-anuncia-god-of-war-remake-trilogy-e-lanca-novo-jogo-da-franquia-de-surpresa-no-ps5"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/sony-anuncia-god-of-war-remake-trilogy-e-lanca-novo-jogo-da-franquia-de-surpresa-no-ps5"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Sony anuncia God of War Remake Trilogy e lança novo jogo da franquia de surpresa no PS5" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>Apesar de não ter conquistado a mesma aclamação que o reboot de 2018,&nbsp;<i>God of War Ragnarok</i>&nbsp;ainda assim foi uma sequência épica e digna de todos os elogios que recebeu. Bom, naturalmente, muitos fãs estavam se perguntando quais seriam os próximos passos para a franquia de sucesso da Santa Monica —&nbsp;e a resposta para isso veio em alto e bom tom na noite desta quinta (12).</p><p>Isso mesmo, <strong>o remake de </strong><i><strong>God of War</strong></i><strong> Trilogy Remake acaba de ser revelado durante o primeiro State of Play de 2026</strong>. O anúncio vem logo após uma série de rumores nos últimos meses e certamente deixou os fãs do deus da guerra muito felizes.</p><p>Sendo um dos maiores clássicos da era de ouro da PlayStation, a trilogia original de<i> God of War</i> conquistou uma legião de fãs desde o seu lançamento no PS2. Confira o teaser com o ator de dublagem original de Kratos!</p><blockquote> <a href="https://www.instagram.com/reel/DUrRE43jzJE/?utm_source=ig_embed&amp;utm_campaign=loading">       Ver essa foto no Instagram            </a><p><a href="https://www.instagram.com/reel/DUrRE43jzJE/?utm_source=ig_embed&amp;utm_campaign=loading">Um post compartilhado por Voxel (@voxeloficial)</a></p></blockquote>
-<p>O remake, certamente, trará um visual atualizado para Kratos, só não ficou claro se será nos moldes do jogo de 2018 — mas, claro, sem o seu lendário machado Leviatã, sua principal arma na mitologia nórdica.</p><h2>God of War: Sons of Sparta também foi anunciado e já está disponível no PS5</h2><p>Outra grande novidade do evento de hoje foi <i>God of War: Sons of Sparta</i>, que mal foi anunciado e já está disponível para PlayStation 5. O novo título apresenta uma história inédita e canônica focada na juventude de Kratos, explorando um período anterior aos eventos já conhecidos da franquia. Confira o trailer!</p><blockquote> <a href="https://www.instagram.com/reel/DUrR2ZdkU2D/?utm_source=ig_embed&amp;utm_campaign=loading">       Ver essa foto no Instagram            </a><p><a href="https://www.instagram.com/reel/DUrR2ZdkU2D/?utm_source=ig_embed&amp;utm_campaign=loading">Um post compartilhado por Voxel (@voxeloficial)</a></p></blockquote>
-<p>Desenvolvido pela Mega Cat Studios, o jogo aposta em uma estrutura de ação e plataforma em 2D, acompanhando Kratos durante seu treinamento na Agoge ao lado de seu irmão Deimos.&nbsp;</p><p>A proposta é revisitar o passado do personagem sob uma nova perspectiva, mantendo vínculos diretos com a mitologia da série.</p><p>A narrativa conta com a colaboração da equipe de roteiristas do Santa Monica Studio, responsável por <i>God of War</i> (2018) e <i>God of War Ragnarok</i>. Segundo o estúdio, a história aborda temas como dever, honra e irmandade dentro do contexto da Esparta antiga.</p><p>Outro destaque é o retorno de TC Carson, que volta a dar voz a Kratos pela primeira vez em mais de uma década, atuando como narrador da versão adulta do personagem.&nbsp;</p><p>O combate foi adaptado para o estilo 2D, com uso de lança, escudo e artefatos conhecidos como Dádivas do Olimpo.</p><h2>Quanto custa God of War: Sons of Sparta? Veja o preço na PS Store</h2><p><i>God of War: Sons of Sparta</i> já pode ser adquirido na PlayStation Store em duas edições digitais: Standard e Digital Deluxe — com a segunda opção oferecendo conteúdos adicionais para os jogadores que quiserem expandir a experiência no PS5. Os preços você confere abaixo!</p><ul><li><strong>Edição Standard</strong> — <a href="https://store.playstation.com/pt-br/product/UP9000-PPSA28997_00-SONSOFSPARTAPS50">R$ 169,90</a></li><li><strong>Edição Digital Deluxe </strong>— <a href="https://store.playstation.com/pt-br/product/UP9000-PPSA28997_00-SONSOFSPARTADLUX">R$ 229,90</a></li></ul><h2>Relembre o clássico God of War</h2><p>Aos nostálgicos que querem relembrar o clássico, o <i>God of War</i> de PS2 combina combate rápido em estilo hack and slash com exploração linear, puzzles e elementos de plataforma.&nbsp;</p><p>O jogador controla Kratos usando as Lâminas do Caos para executar combos insanos e acessíveis com ataques leves e pesados, assim como também usa magias obtidas ao longo da campanha — enquanto coleta red orbs para melhorar armas e habilidades.&nbsp;</p><p>A câmera do clássico é fixa e cinematográfica, guiando o ritmo da ação e limitando o controle visual, mas reforçando a atmosfera intimidadora do Olimpo.&nbsp;</p><p>O jogo alterna constantemente entre confrontos intensos, quebra-cabeças que envolvem mecanismos e movimentação de objetos, além de trechos de escalada, equilíbrio e armadilhas.&nbsp;</p><p>Chefes e mini-chefes utilizam Quick Time Events para finalizações e momentos mais coreografados, mantendo o ritmo dinâmico e integrado à narrativa.&nbsp;</p><p>O game de estreia do deus da guerra acabou se tornando um verdadeiro clássico entre os títulos de PS2 — e agora o remake trará novos ares para essa aventura épica.</p><p>Ansioso para reviver a história de Kratos sobre uma nova perspectiva na mitologia grega? Comente suas expectativas para o remake nas redes sociais do <strong>Voxel</strong>!</p>
+## Resumo em 3 bullets
+- Apesar de não ter conquistado a mesma aclamação que o reboot de 2018,&nbsp; God of War Ragnarok &nbsp;ainda assim foi uma sequência épica e digna de todos os...
+- Bom, naturalmente, muitos fãs estavam se perguntando quais seriam os próximos passos para a franquia de sucesso da Santa Monica —&nbsp;e a resposta para isso...
+- Isso mesmo, o remake de God of War Trilogy Remake acaba de ser revelado durante o primeiro State of Play de 2026 .
+
+## Contexto
+Apesar de não ter conquistado a mesma aclamação que o reboot de 2018,&nbsp; God of War Ragnarok &nbsp;ainda assim foi uma sequência épica e digna de todos os elogios que recebeu. Bom, naturalmente, muitos fãs estavam se perguntando quais seriam os próximos passos para a franquia de sucesso da Santa Monica —&nbsp;e a resposta para isso veio em alto e bom tom na noite desta quinta (12). Isso mesmo, o remake de God of War Trilogy Remake acaba de ser revelado durante o primeiro State of Play de 2026 .
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/voxel/503018-god-of-war-trilogy-remake-e-revelado-no-state-of-play-confira-o-gameplay-insano-com-kratos.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #esporte](/tags/esporte)

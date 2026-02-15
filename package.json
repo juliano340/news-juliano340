@@ -8,7 +8,13 @@
     "test": "node --test tests/**/*.test.js",
     "test:worker": "node worker.js --dry-run",
     "calibrate:quality": "node scripts/calibrate-quality.js",
-    "preview:post": "node scripts/generate-preview-post.js"
+    "preview:post": "node scripts/generate-preview-post.js",
+    "qa:seo": "node scripts/qa-seo.js",
+    "qa:seo:metadata": "node scripts/qa-seo.js --metadata-only",
+    "sitemap:preview": "node scripts/generate-sitemap-preview.js",
+    "migrate:legacy:metadata": "node scripts/migrate-legacy-metadata.js",
+    "migrate:legacy:content": "node scripts/migrate-legacy-content-template.js",
+    "migrate:legacy:internal-links": "node scripts/add-internal-links-legacy.js"
   },
   "author": "juliano340",
   "license": "MIT",

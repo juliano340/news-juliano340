@@ -38,9 +38,8 @@ module.exports = {
   },
   QUALITY_LIMITS: {
     summary_bullets: parseNumber(process.env.QUALITY_MIN_SUMMARY_BULLETS, 3),
-    why_min_chars: parseNumber(process.env.QUALITY_MIN_WHY_CHARS, 180),
-    practical_min_chars: parseNumber(process.env.QUALITY_MIN_PRACTICAL_CHARS, 100),
-    content_min_chars: parseNumber(process.env.QUALITY_MIN_CONTENT_CHARS, 550)
+    min_word_count: parseNumber(process.env.QUALITY_MIN_WORD_COUNT, 220),
+    min_internal_links: parseNumber(process.env.QUALITY_MIN_INTERNAL_LINKS, 3)
   },
   TOPIC_TAXONOMY: [
     'llms',
@@ -52,6 +51,7 @@ module.exports = {
   ],
   REPO_PATH: path.resolve(__dirname), POSTS_PATH: path.resolve(__dirname, 'content/posts'),
   DIGEST_PATH: path.resolve(__dirname, 'content/digests'),
+  REPORT_PATH: path.resolve(__dirname, 'content/reports'),
   GIT_USER_NAME: 'News Worker', GIT_USER_EMAIL: 'worker@juliano340.com',
   MAX_POSTS_PER_SOURCE: 10, REQUEST_TIMEOUT: 30000, LOG_LEVEL: 'info',
   LOG_FILE: path.resolve(__dirname, 'logs/news-worker.log'),

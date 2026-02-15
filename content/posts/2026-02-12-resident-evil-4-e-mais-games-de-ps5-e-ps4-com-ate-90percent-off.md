@@ -7,6 +7,69 @@ original_url: "https://www.tecmundo.com.br/voxel/503509-resident-evil-4-e-mais-g
 image_url: "https://tm.ibxk.com.br/2025/01/30/30165452498619.jpg"
 image: "https://tm.ibxk.com.br/2025/01/30/30165452498619.jpg"
 slug: "resident-evil-4-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off"
+seo_title: "Resident Evil 4 e mais games de PS5 e PS4 com até 90% OFF"
+meta_description: "Resident Evil 4 e mais games de PS5 e PS4 com até 90% OFF. Hoje (12) é dia de State of Play, evento digital no qual a Sony costuma revelar o está a caminho dos"
+canonical_url: "https://news.juliano340.com/posts/resident-evil-4-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off"
+og_type: "article"
+published_at: "2026-02-12T22:30:00.000Z"
+modified_at: "2026-02-12T22:30:00.000Z"
+primary_source: "https://www.tecmundo.com.br/voxel/503509-resident-evil-4-e-mais-games-de-ps5-e-ps4-com-ate-90-off.htm"
+schema_type: "NewsArticle"
+schema_headline: "Resident Evil 4 e mais games de PS5 e PS4 com até 90% OFF"
+schema_description: "Resident Evil 4 e mais games de PS5 e PS4 com até 90% OFF. Hoje (12) é dia de State of Play, evento digital no qual a Sony costuma revelar o está a caminho dos"
+schema_date_published: "2026-02-12T22:30:00.000Z"
+schema_date_modified: "2026-02-12T22:30:00.000Z"
+schema_author_name: "News juliano340"
+schema_publisher_name: "News juliano340"
+schema_publisher_logo: "https://news.juliano340.com/logo.png"
+schema_main_entity_of_page: "https://news.juliano340.com/posts/resident-evil-4-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off"
+breadcrumb_home: "https://news.juliano340.com/"
+breadcrumb_posts: "https://news.juliano340.com/posts"
+breadcrumb_current: "https://news.juliano340.com/posts/resident-evil-4-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off"
+lang: "pt-BR"
+is_ai_curated: "true"
 ---
+Entenda o contexto de "Resident Evil 4 e mais games de PS5 e PS4 com até 90% OFF" e o que muda na pratica para quem acompanha tecnologia, produto e negocios digitais.
 
-<p>Hoje (12) é dia de State of Play, evento digital no qual a Sony costuma revelar o está a caminho dos consoles PlayStation, bem como títulos da casa agendados para chegar aos PCs. Como estes games ainda devem demorar um tiquinho a figurar nas prateleiras (físicas e digitais), nada melhor do que aproveitar outros sucessos mais baratinhos entre os <strong>jogos em promoção na PS Store</strong>, que nesta semana tem games de PS4 e PS5 com<strong> até 90% de desconto</strong>.</p><p>Entre as principais <strong>ofertas em destaque disponíveis na PS Store</strong> para você aproveitar estão títulos como <i>Resident Evil 4</i>, <i>Star Wars Outlaws</i>, <i>Kingdom Come: Deliverance II</i>, <i>Assassin's Creed Shadows</i> e <i>SteamWorld Dig</i>, que está custando <strong>apenas R$ 5,39</strong>.</p><ul><li><strong>LEIA TAMBÉM: </strong><a href="https://www.tecmundo.com.br/voxel/503508-state-of-play-todos-os-jogos-de-ps5-revelados-no-evento-da-sony.htm"><strong>State of Play: Todos os jogos de PS5 revelados no evento da Sony</strong></a></li></ul><p>Agora vem com a gente pois é hora de economizar um monte em muitos <strong>jogos para PlayStation com desconto</strong>!</p><h2>As melhores promoções para PlayStation na PS Store</h2><p></p><p>A seguir, você confere as nossas listas com as<strong> melhores promoções de jogos para PS4 e PS5</strong> na PS Store nesta semana:</p><h3>Ofertas de jogos para PlayStation 4 na PSN</h3><ul><li><a href="https://store.playstation.com/pt-br/product/UP4473-CUSA00521_00-STEAMWORLDDIG000"><i>SteamWorld Dig</i></a> (Image &amp; Form) — R$ 5,39 (-90%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP4473-CUSA08538_00-00STEAMWORLDDIG2"><i>SteamWorld Dig 2</i></a> (Image &amp; Form) — R$ 10,49 (-90%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP2619-CUSA05254_00-RHSDDPS400000001"><i>Darkest Dungeon</i></a> (Red Hook Studios) — R$ 15,58 (-85%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP0006-CUSA19500_00-METR000000000000"><i>Mass Effect Legendary Edition</i></a> (BioWare) — R$ 44,83 (-85%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP2047-CUSA00623_00-M33REDUXDIGITAL1"><i>Metro 2033 Redux</i></a> (4A Games) — R$ 15,73 (-85%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP1003-CUSA03642_00-DISHONORED2NAMER"><i>Dishonored 2</i></a> (Arkane Studios) — R$ 29,90 (-80%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP6758-PPSA03268_00-6401393671841114"><i>Disco Elysium - The Final Cut</i></a> (ZA/UM) — R$ 57,47 (-75%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP3526-PPSA06865_00-ORIGINALSIN2XPS5"><i>Divinity: Original Sin 2 - Definitive Edition</i></a> (Larian Studios) — R$ 62,49 (-75%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP1004-CUSA03041_00-REDEMPTIONFULL02"><i>Red Dead Redemption 2</i></a> (Rockstar Games) — R$ 74,97 (-75%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP0102-PPSA07411_00-RE4RMAINGAME0000"><i>Resident Evil 4</i></a> (Capcom) — R$ 79,80 (-60%)&nbsp;</li></ul><h3>Jogos para PS5 com desconto na PlayStation Store</h3><ul><li><a href="https://store.playstation.com/pt-br/product/UP0006-PPSA07837_00-BOHNIGAME0000000"><i>Wild Hearts</i></a> (Koei Tecmo) — R$ 33,89 (-90%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP0006-PPSA07783_00-APPLEJACKGAME000"><i>Star Wars Jedi: Survivor</i></a> (Respawn Entertainment) — R$ 50,83 (-85%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP0006-PPSA03845_00-BEYONDPS5GAME000"><i>Dead Space</i></a> (Motive) — R$ 67,78 (-80%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP1003-PPSA01337_00-GHOSTWIRETOKYOFG"><i>Ghostwire: Tokyo</i></a> (Tango Gameworks) — R$ 74,97 (-75%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP1001-PPSA28420_00-NBA2K26000000000"><i>NBA 2K26</i></a> (Visual Concepts) — R$ 119,97 (-70%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP0001-PPSA08261_00-GAME000000000000"><i>Star Wars Outlaws</i></a> (Masssive) — R$ 104,97 (-70%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP9000-PPSA01969_00-DEATHSTRANDINGUS"><i>Death Stranding Director's Cut</i></a> (Kojima Productions) — R$ 99,80 (-60%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP0102-PPSA09663_00-DD2GAME000000000"><i>Dragon's Dogma 2</i></a> (Capcom) — R$ 141,49 (-58%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP9000-PPSA03016_00-MARVELSPIDERMAN2"><i>Marvel's Spider-Man 2</i></a> (Insomniac Games) — R$ 146,95 (-58%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP9000-PPSA03396_00-THELASTOFUSPART1"><i>The Last of Us Part I</i></a> (Naughty Dog) — R$ 167,95 (-58%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP0001-PPSA20396_00-GAME000000000000"><i>Assassin's Creed Shadows</i></a> (Ubisoft) — R$ 174,95 (-50%)&nbsp;</li><li><a href="https://store.playstation.com/pt-br/product/UP2047-PPSA21705_00-KCD2MAINGAMEDSUS"><i>Kingdom Come: Deliverance II</i></a> (Warhorse Studios) — R$ 174,95 (-50%)&nbsp;</li></ul><h2>Cupom KaBuM!</h2><p>Ainda não entrou na atual geração? Então se liga aqui: não compre seu PS5 pelo preço cheio, use o <a href="https://www.tecmundo.com.br/cupons/lojas/kabum"><strong>cupom KaBuM!</strong></a> para descolar seu novo PlayStation 5 com desconto e economize no seu hobby favorito!</p><h3>Economize e parcele suas compras na PS com cashback</h3><p>Já é possível parcelar compras na PS Store, mas o que você talvez não saiba é que há uma forma de não apenas <strong>pagar seus jogos do PlayStation na PSN em até 6x sem juros</strong>, mas também ter direito a cashback — usando os <a href="https://click.linksynergy.com/deeplink?id=PcZhvZUGtEs&amp;mid=46796&amp;murl=https%3A%2F%2Fwww.nuuvem.com%2Flp%2Fpt%2Fplaystation%2F&amp;u1=voxel-editorial-julho"><strong>gift cards da Nuuvem</strong></a>.</p>Na Nuuvem você pode comprar gift cards da PlayStation Store com cashback e opções de parcelamento<p>Na <a href="https://click.linksynergy.com/deeplink?id=PcZhvZUGtEs&amp;mid=46796&amp;murl=https%3A%2F%2Fwww.nuuvem.com%2Flp%2Fpt%2Fplaystation%2F&amp;u1=voxel-editorial-julho">Nuuvem</a> você pode <strong>parcelar suas compras até 6x sem juros no cartão de crédito</strong> ou em até 4x sem juros no PayPal. E o melhor: no final da transação você ainda recebe <strong>cashback</strong> em forma de moedinhas para usar em compras futuras.</p><p>Lá é possível <strong>comprar gift cards da PSN de diversos valores para resgatar jogos e assinaturas da PlayStation Plus</strong> e, além do cashback, você ainda pode usar <a href="https://www.tecmundo.com.br/cupons">cupons de desconto</a> que a turma da Nuuvem libera vez ou outra.</p><p>E aí, aproveitou alguma das nossas dicas de<strong> jogos para Playstation em promoção</strong>? Conta pra gente nas redes sociais do <strong>Voxel</strong>!</p>
+## Resumo em 3 bullets
+- Hoje (12) é dia de State of Play, evento digital no qual a Sony costuma revelar o está a caminho dos consoles PlayStation, bem como títulos da casa agendados...
+- Como estes games ainda devem demorar um tiquinho a figurar nas prateleiras (físicas e digitais), nada melhor do que aproveitar outros sucessos mais baratinho...
+- Entre as principais ofertas em destaque disponíveis na PS Store para você aproveitar estão títulos como Resident Evil 4 , Star Wars Outlaws , Kingdom Come: D...
+
+## Contexto
+Hoje (12) é dia de State of Play, evento digital no qual a Sony costuma revelar o está a caminho dos consoles PlayStation, bem como títulos da casa agendados para chegar aos PCs. Como estes games ainda devem demorar um tiquinho a figurar nas prateleiras (físicas e digitais), nada melhor do que aproveitar outros sucessos mais baratinhos entre os jogos em promoção na PS Store , que nesta semana tem games de PS4 e PS5 com até 90% de desconto . Entre as principais ofertas em destaque disponíveis na PS Store para você aproveitar estão títulos como Resident Evil 4 , Star Wars Outlaws , Kingdom Come: Deliverance II , Assassin's Creed Shadows e St...
+
+## O que muda na pratica
+- Mapear onde essa mudanca impacta produto, operacao e suporte.
+- Atualizar prioridades de backlog com base em risco e retorno.
+- Registrar decisoes tecnicas para acelerar resposta do time.
+
+## Para devs/negocios (checklist)
+- Identificar sistemas e fluxos afetados nas proximas duas semanas.
+- Definir owner tecnico para monitorar novas atualizacoes do tema.
+- Publicar plano de acao curto com risco, prazo e responsavel.
+
+## O que observar nos proximos dias
+- Novos comunicados oficiais das empresas e orgaos envolvidos.
+- Mudancas de politica, compliance ou regras de uso da tecnologia.
+- Indicadores de impacto real em usuarios, mercado ou produto.
+
+## FAQ
+### O que aconteceu de fato?
+O caso envolve uma mudanca relevante no ecossistema que pode afetar adocao, operacao e risco em produtos digitais.
+
+### Qual impacto pratico para times de tecnologia?
+Times de produto e engenharia devem revisar dependencia, governanca e plano de contingencia para reduzir risco de interrupcao.
+
+### O que fazer agora?
+Priorize monitoramento, ajuste de backlog e comunicacao interna para reagir com rapidez a novas atualizacoes do tema.
+
+## Fonte e transparencia
+- Fonte primaria: https://www.tecmundo.com.br/voxel/503509-resident-evil-4-e-mais-games-de-ps5-e-ps4-com-ate-90-off.htm
+- Conteudo gerado automaticamente com curadoria editorial assistida por IA.
+- Para correcao de informacoes, abra um issue no repositorio oficial do projeto.
+
+## Leitura relacionada
+- [Mais noticias sobre este tema](/topics/llms)
+- [Conteudos da tag #tecnologia](/tags/tecnologia)
+- [Outros destaques em #esporte](/tags/esporte)
