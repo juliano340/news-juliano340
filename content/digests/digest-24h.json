@@ -1,34 +1,16 @@
 {
-  "generated_at": "2026-02-14T23:01:02.461Z",
+  "generated_at": "2026-02-15T01:00:38.927Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 1,
   "posts": [
     {
-      "title": "Ela não esperava se apaixonar pelo ChatGPT - e ter que dizer adeus",
-      "slug": "ela-nao-esperava-se-apaixonar-pelo-chatgpt-e-ter-que-dizer-adeus",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-14T22:30:48.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/14/ela-nao-esperava-se-apaixonar-pelo-chatgpt-e-ter-que-dizer-adeus.ghtml"
-    },
-    {
-      "title": "De eleições nos EUA à guerra na Ucrânia: conheça o grupo hacker APT28",
-      "slug": "de-eleicoes-nos-eua-a-guerra-na-ucrania-conheca-o-grupo-hacker-apt28",
-      "topic": "agentes",
+      "title": "Lava e seca que “sobreviveu” à enchente ainda pode falhar depois: entenda",
+      "slug": "lava-e-seca-que-sobreviveu-a-enchente-ainda-pode-falhar-depois-entenda",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-14T23:00:00.000Z",
+      "date": "2026-02-15T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/de-eleicoes-nos-eua-a-guerra-na-ucrania-conheca-o-grupo-hacker-apt28/"
-    },
-    {
-      "title": "Jogos mais vendidos da Steam em 2025; confira a lista!",
-      "slug": "jogos-mais-vendidos-da-steam-em-2025-confira-a-lista",
-      "topic": "frameworks",
-      "source": "Tecmundo",
-      "date": "2026-02-14T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503320-jogos-mais-vendidos-da-steam-em-2025-confira-a-lista.htm"
+      "original_url": "https://canaltech.com.br/eletro/lava-e-seca-que-sobreviveu-a-enchente-ainda-pode-falhar-depois-entenda/"
     }
   ]
 }
