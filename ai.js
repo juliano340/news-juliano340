@@ -97,6 +97,7 @@ class AIService {
   buildEditorialPrompt(payload) {
     return [
       'Você é editor de tecnologia focado em IA para desenvolvedores.',
+      'Todos os textos devem ser escritos em Português do Brasil (pt-BR).',
       'Escreva com clareza, sem frases soltas, sem invenção de fatos.',
       'Use apenas as informações do material de entrada.',
       'Retorne exclusivamente JSON válido, sem markdown e sem texto extra.',
@@ -118,6 +119,7 @@ class AIService {
       '- practical_actions: exatamente 3 ações executáveis para time técnico.',
       '- context_bullets: 2 ou 3 bullets com contexto factual direto.',
       '- source_reference: URL da fonte principal fornecida.',
+      '- Todos os campos textuais do JSON devem estar em Português do Brasil (pt-BR), mesmo quando a fonte estiver em outro idioma.',
       '- Se faltar dado, adicionar flag em risk_flags.',
       '',
       'Entrada:',
@@ -137,7 +139,7 @@ class AIService {
           messages: [
             {
               role: 'system',
-              content: 'Você é um editor técnico rigoroso que retorna apenas JSON válido.'
+              content: 'Você é um editor técnico rigoroso que retorna apenas JSON válido em Português do Brasil (pt-BR).'
             },
             {
               role: 'user',
@@ -244,11 +246,11 @@ class AIService {
           messages: [
             {
               role: 'system',
-              content: 'Você é um assistente que resume notícias de forma objetiva e clara em português.'
+              content: 'Você é um assistente que resume notícias de forma objetiva e clara em Português do Brasil (pt-BR).'
             },
             {
               role: 'user',
-              content: `Resuma o seguinte texto em até ${maxLength} caracteres:\n\n${text}`
+              content: `Resuma o seguinte texto em até ${maxLength} caracteres, sempre em Português do Brasil (pt-BR):\n\n${text}`
             }
           ],
           max_tokens: 200
@@ -277,7 +279,7 @@ class AIService {
           messages: [
             {
               role: 'system',
-              content: 'Você é um assistente que sugere tags relevantes para notícias em português. Retorne apenas um array JSON com as tags.'
+              content: 'Você é um assistente que sugere tags relevantes para notícias em Português do Brasil (pt-BR). Retorne apenas um array JSON com as tags.'
             },
             {
               role: 'user',
