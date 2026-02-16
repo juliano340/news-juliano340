@@ -5,10 +5,9 @@ class QualityGate {
     return [
       '## Resumo em 3 bullets',
       '## Contexto',
-      '## O que muda na pratica',
-      '## Checklist pratico',
-      '## O que observar nos proximos dias',
-      '## FAQ',
+      '## Insights e implicacoes',
+      '## O que fazer agora',
+      '## O que vale acompanhar',
       '## Fonte e transparencia'
     ];
   }
@@ -145,14 +144,9 @@ class QualityGate {
       min: limits.summary_bullets
     });
 
-    const watchBullets = this.countSectionBullets(content, '## O que observar nos proximos dias');
+    const watchBullets = this.countSectionBullets(content, '## O que vale acompanhar');
     registerCheck('watch_bullets', watchBullets >= 3 && watchBullets <= 5, 'BLOCK', 'observacao_sem_3_a_5_bullets', {
       bullets: watchBullets
-    });
-
-    const faqCount = this.countFaqQuestions(content);
-    registerCheck('faq_count', faqCount >= 3, 'BLOCK', 'faq_com_menos_de_3_perguntas', {
-      count: faqCount
     });
 
     const hasPrimarySource = editorial.primary_source && /^https?:\/\//i.test(editorial.primary_source);

@@ -152,36 +152,44 @@ class EditorialComposer {
 
   buildContext(domain, title) {
     const contextByTopic = {
-      'ia-dev': 'A pauta se conecta a uso pratico de IA em produto, decisao tecnica e governanca de implementacao.',
-      games: 'O tema se encaixa no calendario de lancamentos e no comportamento de consumo de jogadores em diferentes plataformas.',
-      entretenimento: 'A cobertura ganha relevancia por combinar interesse publico, contexto cultural e impacto de audiencia.',
-      seguranca: 'A discussao envolve risco real para usuarios e exige leitura atenta de orientacoes e mitigacoes oficiais.',
-      hardware: 'A noticia conversa com ciclo de renovacao de dispositivos, desempenho esperado e custo de atualizacao.',
-      negocios: 'O assunto cruza estrategia, competicao e movimento financeiro de empresas do setor.',
-      geral: 'A materia organiza os principais fatos e ajuda a entender o contexto sem ruido.'
+      'ia-dev': `A discussao em "${Utils.truncateText(title || 'esta noticia', 90)}" toca diretamente em decisao de produto, risco e ritmo de implementacao.`,
+      games: `Em "${Utils.truncateText(title || 'esta noticia', 90)}", o contexto passa por disponibilidade em plataformas, janela de lancamento e recepcao da comunidade.`,
+      entretenimento: `A pauta de "${Utils.truncateText(title || 'esta noticia', 90)}" ganha peso por combinar interesse de publico, relevancia cultural e timing de lancamento.`,
+      seguranca: `O caso de "${Utils.truncateText(title || 'esta noticia', 90)}" exige atencao porque mistura risco real, resposta rapida e impacto em usuarios.`,
+      hardware: `No tema "${Utils.truncateText(title || 'esta noticia', 90)}", o contexto passa por custo, desempenho e momento certo de compra.`,
+      negocios: `A noticia "${Utils.truncateText(title || 'esta noticia', 90)}" se encaixa em movimento de mercado e pode influenciar decisao de carreira e estrategia.`,
+      geral: `"${Utils.truncateText(title || 'esta noticia', 90)}" e um tema que vale acompanhar pelo efeito pratico no dia a dia de quem consome tecnologia.`
     };
 
-    return [
-      contextByTopic[domain] || contextByTopic.geral,
-      `No caso de "${Utils.truncateText(title || 'esta noticia', 90)}", o ponto central e transformar informacao em decisao pratica para o leitor.`
-    ].join(' ');
+    return contextByTopic[domain] || contextByTopic.geral;
   }
 
   buildIntro(domain, title) {
     const leadByTopic = {
-      'ia-dev': 'A noticia traz um sinal util para quem trabalha com IA e precisa tomar decisoes tecnicas com mais previsibilidade.',
-      games: 'A semana de games ganhou destaque com novos lancamentos e mudancas de plataforma que afetam decisao de compra.',
-      entretenimento: 'A pauta ganhou tracao por reunir contexto, nomes relevantes e impacto de audiencia no momento atual.',
-      seguranca: 'O caso chama atencao por envolver risco digital e necessidade de resposta rapida para reduzir impacto.',
-      hardware: 'A novidade chama atencao por potencial efeito em desempenho, custo e escolha de equipamentos.',
-      negocios: 'A movimentacao do mercado sinaliza mudancas importantes para estrategia e posicionamento no setor.',
-      geral: 'A noticia traz informacoes relevantes e pede leitura com foco em fatos e desdobramentos imediatos.'
+      'ia-dev': `A noticia "${Utils.truncateText(title || 'esta pauta', 90)}" traz um sinal relevante para quem decide stack, risco e governanca em IA.`,
+      games: `"${Utils.truncateText(title || 'esta pauta', 90)}" entra no radar de quem acompanha lancamentos e quer decidir melhor onde e quando jogar.`,
+      entretenimento: `Em "${Utils.truncateText(title || 'esta pauta', 90)}", o ponto mais interessante e separar hype de informacao realmente util para o publico.`,
+      seguranca: `"${Utils.truncateText(title || 'esta pauta', 90)}" merece leitura atenta porque combina risco imediato com possivel efeito em usuarios e servicos.`,
+      hardware: `A pauta "${Utils.truncateText(title || 'esta pauta', 90)}" chama atencao por mexer com custo, desempenho e decisao de compra.`,
+      negocios: `"${Utils.truncateText(title || 'esta pauta', 90)}" aponta um movimento com impacto pratico para carreira, mercado e estrategia.`,
+      geral: `"${Utils.truncateText(title || 'esta pauta', 90)}" e uma noticia que vale ler com foco no que muda de forma concreta para o leitor.`
     };
 
-    return [
-      leadByTopic[domain] || leadByTopic.geral,
-      `Em "${Utils.truncateText(title || 'esta noticia', 90)}", o valor esta em entender o que muda na pratica para o publico interessado no tema.`
-    ].join(' ');
+    return leadByTopic[domain] || leadByTopic.geral;
+  }
+
+  buildInsights(domain, title) {
+    const insights = {
+      'ia-dev': 'O principal insight e que o custo de adotar cedo pode ser menor que o custo de corrigir tarde, especialmente quando risco e compliance entram na conta.',
+      games: 'O insight pratico e simples: quem compara plataforma, desempenho inicial e preco de lancamento costuma errar menos na compra.',
+      entretenimento: 'O ganho para o leitor esta em distinguir o que e confirmacao oficial do que e apenas repercussao de rede social.',
+      seguranca: 'O ponto central e que resposta rapida reduz dano: atraso de poucas horas pode ampliar impacto tecnico e reputacional.',
+      hardware: 'O insight mais util e fugir de decisao por hype: especificacao isolada sem contexto de uso quase sempre leva a compra ruim.',
+      negocios: 'A leitura mais valiosa e observar como essa pauta mexe em oferta, demanda e janela de oportunidade para profissionais e empresas.',
+      geral: 'A leitura mais util e transformar manchete em criterio pratico: o que muda agora, o que pode mudar depois e o que ainda precisa de confirmacao.'
+    };
+
+    return `${insights[domain] || insights.geral} Em "${Utils.truncateText(title || 'esta noticia', 90)}", esse filtro ajuda a tomar decisoes mais conscientes.`;
   }
 
   buildDeveloperChecklist(domain) {
@@ -383,9 +391,8 @@ class EditorialComposer {
     const whyMatters = this.buildWhyMatters(domain, title);
     const practical = this.buildPracticalImpact(domain);
     const context = this.buildContext(domain, title);
-    const checklist = this.buildDeveloperChecklist(domain);
     const watchList = this.buildWatchList(domain);
-    const faq = this.buildFaq(domain, title);
+    const insights = this.buildInsights(domain, title);
     const sourceTransparency = this.buildSourceTransparency(post, primarySource);
 
     return [
@@ -397,17 +404,14 @@ class EditorialComposer {
       '## Contexto',
       context,
       '',
-      '## O que muda na pratica',
+      '## Insights e implicacoes',
+      insights,
+      '',
+      '## O que fazer agora',
       practical,
       '',
-      '## Checklist pratico',
-      checklist,
-      '',
-      '## O que observar nos proximos dias',
+      '## O que vale acompanhar',
       watchList,
-      '',
-      '## FAQ',
-      faq,
       '',
       '## Fonte e transparencia',
       sourceTransparency,
@@ -424,9 +428,8 @@ class EditorialComposer {
     const whyMatters = this.pickWhyMatters(domain, aiDraft.why_matters, post.title);
     const practical = this.pickPractical(domain, aiDraft.practical_actions);
     const context = this.buildContext(domain, post.title);
-    const checklist = practical;
     const watchList = this.buildWatchList(domain);
-    const faq = this.buildFaq(domain, post.title);
+    const insights = this.buildInsights(domain, post.title);
     const resolvedSource = aiDraft.source_reference && /^https?:\/\//i.test(aiDraft.source_reference)
       ? aiDraft.source_reference
       : primarySource;
@@ -442,17 +445,14 @@ class EditorialComposer {
         '## Contexto',
         context,
         '',
-        '## O que muda na pratica',
+        '## Insights e implicacoes',
+        insights,
+        '',
+        '## O que fazer agora',
         practical,
         '',
-        '## Checklist pratico',
-        checklist,
-        '',
-        '## O que observar nos proximos dias',
+        '## O que vale acompanhar',
         watchList,
-        '',
-        '## FAQ',
-        faq,
         '',
         '## Fonte e transparencia',
         sourceTransparency,

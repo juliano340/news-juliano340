@@ -6,10 +6,9 @@ const config = require('../config');
 const REQUIRED_SECTIONS = [
   '## Resumo em 3 bullets',
   '## Contexto',
-  '## O que muda na pratica',
-  '## Checklist pratico',
-  '## O que observar nos proximos dias',
-  '## FAQ',
+  '## Insights e implicacoes',
+  '## O que fazer agora',
+  '## O que vale acompanhar',
   '## Fonte e transparencia'
 ];
 
@@ -42,14 +41,8 @@ function hasNewContract(frontmatter) {
   return ['seo_title', 'meta_description', 'canonical_url', 'schema_type'].every((key) => String(frontmatter[key] || '').trim());
 }
 
-function countFaqQuestions(body) {
-  const sectionMatch = body.match(/## FAQ\n([\s\S]*?)(\n## |$)/);
-  if (!sectionMatch) return 0;
-  return (sectionMatch[1].match(/^\s*###\s+/gm) || []).length;
-}
-
 function countWatchBullets(body) {
-  const sectionMatch = body.match(/## O que observar nos proximos dias\n([\s\S]*?)(\n## |$)/);
+  const sectionMatch = body.match(/## O que vale acompanhar\n([\s\S]*?)(\n## |$)/);
   if (!sectionMatch) return 0;
   return (sectionMatch[1].match(/^\s*-\s+/gm) || []).length;
 }
@@ -97,13 +90,10 @@ function validatePost(file, frontmatter, body) {
 
   for (const heading of REQUIRED_SECTIONS) {
     if (!body.includes(heading)) {
-      const legacyChecklist = heading === '## Checklist pratico' && body.includes('## Para devs/negocios (checklist)');
+      const legacyChecklist = heading === '## O que fazer agora' && body.includes('## O que muda na pratica');
       if (!legacyChecklist) errors.push(`secao_ausente:${heading}`);
     }
   }
-
-  const faqCount = countFaqQuestions(body);
-  if (faqCount < 3) errors.push(`faq_insuficiente(${faqCount})`);
 
   const watchBullets = countWatchBullets(body);
   if (watchBullets < 3 || watchBullets > 5) errors.push(`observacao_bullets_invalido(${watchBullets})`);

@@ -23,7 +23,7 @@ test('composer gera texto coerente para pauta de games sem forcar contexto dev',
 
     assert.equal(result.blocked, false);
     assert.equal(result.domain, 'games');
-    assert.ok(result.content.includes('## O que muda na pratica'));
+    assert.ok(result.content.includes('## O que fazer agora'));
     assert.ok(result.content.includes('Conferir plataformas e datas'));
     assert.equal(result.content.includes('time de engenharia'), false);
     assert.equal(result.content.includes('impasse entre as partes sobre requisitos de seguranca e governanca no uso de IA'), false);

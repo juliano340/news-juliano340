@@ -28,10 +28,9 @@ test('composer gera secoes editoriais obrigatorias', async () => {
     assert.ok(result.content.includes('- '), 'summary should include bullets');
     assert.equal(result.content.includes('**Topico 1**'), false, 'summary should not include numbered topic labels');
     assert.ok(result.content.includes('## Contexto'));
-    assert.ok(result.content.includes('## O que muda na pratica'));
-    assert.ok(result.content.includes('## Checklist pratico'));
-    assert.ok(result.content.includes('## O que observar nos proximos dias'));
-    assert.ok(result.content.includes('## FAQ'));
+    assert.ok(result.content.includes('## Insights e implicacoes'));
+    assert.ok(result.content.includes('## O que fazer agora'));
+    assert.ok(result.content.includes('## O que vale acompanhar'));
     assert.ok(result.content.includes('## Fonte e transparencia'));
     assert.equal(result.primary_source, 'https://example.com/noticia');
     assert.equal(result.content_kind, 'news-curated');
