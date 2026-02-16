@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-02-16T09:01:55.710Z",
+  "generated_at": "2026-02-16T11:02:13.119Z",
   "niche": "ia-para-desenvolvedores",
   "total": 3,
   "posts": [
     {
-      "title": "eFootball no Brasil: tecnologia, comunidade e o legado do futebol",
-      "slug": "efootball-no-brasil-tecnologia-comunidade-e-o-legado-do-futebol",
+      "title": "O que é um Supply Chain Attack?",
+      "slug": "o-que-e-um-supply-chain-attack",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-16T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/efootball-no-brasil-tecnologia-comunidade-e-o-legado-do-futebol-6355/"
-    },
-    {
-      "title": "Rodízio de veículos será suspenso em São Paulo no Carnaval? Confira",
-      "slug": "rodizio-de-veiculos-sera-suspenso-em-sao-paulo-no-carnaval-confira",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-02-16T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/rodizio-de-veiculos-sera-suspenso-em-sao-paulo-no-carnaval-confira/"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (16)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-fevereiro-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-16T08:30:00.000Z",
+      "date": "2026-02-16T11:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/16/qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "original_url": "https://canaltech.com.br/seguranca/o-que-e-um-supply-chain-attack/"
+    },
+    {
+      "title": "10 apps essenciais para quem ganhou Galaxy Tab em 2026",
+      "slug": "10-apps-essenciais-para-quem-ganhou-galaxy-tab-em-2026",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-16T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/10-apps-essenciais-para-quem-ganhou-galaxy-tab-em-2026/"
+    },
+    {
+      "title": "Qual é a diferença entre banco digital e fintech?",
+      "slug": "qual-e-a-diferenca-entre-banco-digital-e-fintech",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-02-16T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/410264-qual-e-a-diferenca-entre-banco-digital-e-fintech.htm"
     }
   ]
 }

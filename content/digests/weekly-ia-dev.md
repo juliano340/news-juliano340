@@ -1,7 +1,7 @@
 # Weekly IA para Devs - 2026-02-16
 
-Gerado em 2026-02-16T09:01:55.710Z
+Gerado em 2026-02-16T11:02:13.119Z
 
-- [eFootball no Brasil: tecnologia, comunidade e o legado do futebol](https://canaltech.com.br/podcast/podcast-canaltech/efootball-no-brasil-tecnologia-comunidade-e-o-legado-do-futebol-6355/) | topico: geral | score: 100
-- [Rodízio de veículos será suspenso em São Paulo no Carnaval? Confira](https://canaltech.com.br/carros/rodizio-de-veiculos-sera-suspenso-em-sao-paulo-no-carnaval-confira/) | topico: infra-ia | score: 100
-- [Qual é a fase da Lua hoje (16)? Veja calendário lunar de fevereiro de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/02/16/qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-fevereiro-de-2026.htm) | topico: geral | score: 92
+- [O que é um Supply Chain Attack?](https://canaltech.com.br/seguranca/o-que-e-um-supply-chain-attack/) | topico: geral | score: 92
+- [10 apps essenciais para quem ganhou Galaxy Tab em 2026](https://canaltech.com.br/apps/10-apps-essenciais-para-quem-ganhou-galaxy-tab-em-2026/) | topico: agentes | score: 100
+- [Qual é a diferença entre banco digital e fintech?](https://www.tecmundo.com.br/internet/410264-qual-e-a-diferenca-entre-banco-digital-e-fintech.htm) | topico: llms | score: 100
