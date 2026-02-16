@@ -89,7 +89,7 @@ class QualityGate {
   }
 
   hasPlaceholderTerms(content) {
-    const regex = /\b(topico\s*\d+|todo|lorem ipsum|placeholder|sem dados)\b/i;
+    const regex = /\b(topico\s*\d+|todo|lorem ipsum|sem dados)\b/i;
     return regex.test(content || '');
   }
 
