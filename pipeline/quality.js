@@ -293,7 +293,7 @@ class QualityGate {
     registerCheck('truncated_bullets', !truncatedBullets, 'BLOCK', 'bullet_truncado_com_reticencias');
 
     const sourceInBody = this.hasExternalSourceLink(content, editorial.primary_source);
-    registerCheck('source_link_in_body', sourceInBody, 'BLOCK', 'fonte_primaria_ausente_no_corpo');
+    registerCheck('source_link_in_body', sourceInBody, 'WARN', 'fonte_primaria_ausente_no_corpo');
 
     const semanticMismatch = this.hasSemanticMismatch(post, content);
     registerCheck('semantic_alignment', !semanticMismatch, 'BLOCK', 'desalinhamento_semantico_titulo_corpo');

@@ -4,6 +4,7 @@ const config = require('./config');
 const logger = require('./logger');
 const Utils = require('./utils');
 const git = require('./git');
+const ai = require('./ai');
 const editorial = require('./pipeline/editorial');
 const quality = require('./pipeline/quality');
 
@@ -64,7 +65,7 @@ class NewsWorker {
   buildSeoMetadata(post) {
     const canonicalUrl = `https://news.juliano340.com/posts/${post.slug}`;
     const baseTitle = String(post.title || '').trim();
-    const seoTitle = this.clampTextRange(baseTitle, 45, 62);
+    const seoTitle = this.clampTextRange(post.seo_title || baseTitle, 45, 62);
 
     const summaryText = String(post.summary_text || '').replace(/\s+/g, ' ').trim();
     const descriptionSeed = summaryText || `${baseTitle} com contexto, impacto pratico e pontos de acompanhamento.`;
@@ -88,6 +89,58 @@ class NewsWorker {
       breadcrumb_posts: 'https://news.juliano340.com/posts',
       breadcrumb_current: canonicalUrl
     };
+  }
+
+  tokenizeForSimilarity(text) {
+    return String(text || '')
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .split(/[^a-z0-9]+/)
+      .map((token) => token.trim())
+      .filter((token) => token.length >= 4);
+  }
+
+  isSeoTitleAligned(originalTitle, seoTitle) {
+    const originalTokens = new Set(this.tokenizeForSimilarity(originalTitle));
+    const seoTokens = this.tokenizeForSimilarity(seoTitle);
+    if (originalTokens.size === 0 || seoTokens.length === 0) return false;
+    const overlap = seoTokens.filter((token) => originalTokens.has(token)).length;
+    return overlap >= 1;
+  }
+
+  async resolveSeoTitle(post) {
+    const originalTitle = String(post.title || '').trim();
+    const fallbackTitle = this.clampTextRange(originalTitle, 45, 62);
+    if (!ai.editorialEnabled || !originalTitle) return fallbackTitle;
+
+    try {
+      const suggested = await ai.generateSeoTitle({
+        title: originalTitle,
+        post_type: post.post_type || 'standard',
+        domain: post.domain || 'geral',
+        summary: post.summary_text || ''
+      });
+
+      if (!suggested) return fallbackTitle;
+
+      const normalized = this.clampTextRange(suggested, 45, 62);
+      if (!this.isSeoTitleAligned(originalTitle, normalized)) {
+        logger.warn('SEO title IA descartado por baixa aderencia semantica', {
+          title: originalTitle,
+          suggested: normalized
+        });
+        return fallbackTitle;
+      }
+
+      return normalized;
+    } catch (error) {
+      logger.warn('Falha ao gerar SEO title com IA', {
+        title: originalTitle,
+        error: error.message
+      });
+      return fallbackTitle;
+    }
   }
 
   validatePostMetadata(post) {
@@ -562,12 +615,15 @@ class NewsWorker {
 
             const policyResult = await this.applyEditorialPolicy(post);
             const reportSlug = policyResult.post?.slug || post.slug || Utils.generateSlug(post.title);
-            const enrichedPost = policyResult.accepted
-              ? {
+            let enrichedPost = policyResult.post;
+            if (policyResult.accepted) {
+              const seoTitle = await this.resolveSeoTitle(policyResult.post);
+              enrichedPost = {
                 ...policyResult.post,
-                ...this.buildSeoMetadata(policyResult.post)
-              }
-              : policyResult.post;
+                seo_title: seoTitle,
+                ...this.buildSeoMetadata({ ...policyResult.post, seo_title: seoTitle })
+              };
+            }
 
             let metadataReport = null;
             if (policyResult.accepted) {

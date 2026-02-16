@@ -663,6 +663,40 @@ class AIService {
     };
   }
 
+  async generateSeoTitle(input) {
+    if (!this.editorialEnabled) return null;
+
+    const payload = {
+      title: String(input.title || '').trim(),
+      post_type: this.normalizePostType(input.post_type || 'standard'),
+      domain: String(input.domain || 'geral').trim(),
+      summary: String(input.summary || '').replace(/\s+/g, ' ').trim().slice(0, 350)
+    };
+
+    const prompt = [
+      'Gere um title SEO em pt-BR para notícia.',
+      'Retorne SOMENTE JSON válido: {"seo_title":"..."}',
+      'Regras:',
+      '- 50 a 65 caracteres.',
+      '- Sem clickbait e sem inventar fatos.',
+      '- Preservar assunto principal do título original.',
+      '- Linguagem clara e natural.',
+      'Entrada:',
+      JSON.stringify(payload)
+    ].join('\n');
+
+    const primary = await this.tryJsonModel(this.editorialPrimaryModel, prompt, Math.min(config.AI_EDITORIAL_TIMEOUT_MS, 6000), 180);
+    const fallback = primary ? null : await this.tryJsonModel(this.editorialFallbackModel, prompt, Math.min(config.AI_EDITORIAL_TIMEOUT_MS, 6000), 180);
+    const parsed = primary || fallback;
+    if (!parsed || typeof parsed !== 'object') return null;
+
+    const seoTitle = String(parsed.seo_title || '').replace(/\s+/g, ' ').trim();
+    if (!seoTitle) return null;
+    if (seoTitle.length < 35 || seoTitle.length > 90) return null;
+
+    return seoTitle;
+  }
+
   buildEditorialPrompt(payload) {
     return [
       'Você é editor de noticias de tecnologia e cultura digital.',
