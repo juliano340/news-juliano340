@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-02-16T07:13:41.913Z",
+  "generated_at": "2026-02-16T07:40:00.401Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 0,
-  "posts": []
+  "total": 1,
+  "posts": [
+    {
+      "title": "Quanto você economiza trazendo um iPad dos EUA?",
+      "slug": "quanto-voce-economiza-trazendo-um-ipad-dos-eua",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-16T00:00:00.000Z",
+      "editorial_score": 85,
+      "original_url": "https://canaltech.com.br/tablet/quanto-voce-economiza-trazendo-um-ipad-dos-eua/"
+    }
+  ]
 }
