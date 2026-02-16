@@ -1,7 +1,7 @@
 {
   "slug": "quanto-voce-economiza-trazendo-um-ipad-dos-eua",
-  "generated_at": "2026-02-16T07:13:09.844Z",
-  "status": "BLOCK",
+  "generated_at": "2026-02-16T07:39:22.462Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 359,
+      "words": 310,
       "min": 220
     },
     {
@@ -67,7 +67,7 @@
     {
       "id": "source_link_in_body",
       "status": "FAIL",
-      "level": "BLOCK",
+      "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
     {
@@ -92,11 +92,87 @@
     }
   ],
   "warnings": [
+    "fonte_primaria_ausente_no_corpo",
     "poucos_links_internos"
   ],
-  "errors": [
-    "fonte_primaria_ausente_no_corpo"
-  ],
+  "errors": [],
   "score": 85,
-  "metadata": null
+  "metadata": {
+    "status": "PASS",
+    "checks": [
+      {
+        "id": "required_title",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_date",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_original_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_primary_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_content",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_meta_description",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_canonical_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "slug_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "original_url_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "canonical_matches_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "meta_description_length",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "schema_min_fields",
+        "status": "PASS",
+        "level": "BLOCK"
+      }
+    ],
+    "warnings": [],
+    "errors": [],
+    "score": 100
+  }
 }
