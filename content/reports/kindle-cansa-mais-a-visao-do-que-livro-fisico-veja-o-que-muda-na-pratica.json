@@ -1,6 +1,6 @@
 {
-  "slug": "aposta-simples-o-que-e-e-como-funciona-guia-completo",
-  "generated_at": "2026-02-16T13:04:23.302Z",
+  "slug": "kindle-cansa-mais-a-visao-do-que-livro-fisico-veja-o-que-muda-na-pratica",
+  "generated_at": "2026-02-16T13:01:12.310Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 6
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 455,
+      "words": 397,
       "min": 220
     },
     {
