@@ -246,12 +246,33 @@ class AIService {
   }
 
   validateMarkdownStructure(content, postType) {
-    const required = postType === 'job_roundup'
-      ? ['## Resumo em 3 bullets', '## Como usar esta lista', '## Destaques rapidos', '## Checklist de candidatura', '## O que observar nos proximos dias', '## FAQ', '## Fonte e transparencia', '## Por que isso importa']
-      : ['## Resumo em 3 bullets', '## Contexto', '## Insights e implicacoes', '## O que fazer agora', '## O que vale acompanhar', '## Fonte e transparencia', '## Por que isso importa'];
+    const normalized = String(content || '')
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase();
 
-    const text = String(content || '');
-    return required.every((heading) => text.includes(heading));
+    const requiredGroups = postType === 'job_roundup'
+      ? [
+        ['## resumo em 3 bullets'],
+        ['## como usar esta lista', '## como usar a lista'],
+        ['## destaques rapidos', '## destaques rapidos da lista'],
+        ['## checklist de candidatura', '## checklist pratico de candidatura'],
+        ['## o que observar nos proximos dias', '## o que vale acompanhar nos proximos dias'],
+        ['## faq'],
+        ['## fonte e transparencia'],
+        ['## por que isso importa']
+      ]
+      : [
+        ['## resumo em 3 bullets'],
+        ['## contexto'],
+        ['## insights e implicacoes'],
+        ['## o que fazer agora'],
+        ['## o que vale acompanhar'],
+        ['## fonte e transparencia'],
+        ['## por que isso importa']
+      ];
+
+    return requiredGroups.every((group) => group.some((heading) => normalized.includes(heading)));
   }
 
   async classifyPostType(input) {
@@ -319,13 +340,21 @@ class AIService {
       return null;
     }
 
-    if (!this.validateMarkdownStructure(reviewed, classification.post_type)) {
-      logger.warn('Estrutura markdown inválida após revisão', { post_type: classification.post_type });
-      return null;
+    const reviewedValid = this.validateMarkdownStructure(reviewed, classification.post_type);
+    if (!reviewedValid) {
+      const generatedValid = this.validateMarkdownStructure(generatedContent, classification.post_type);
+      if (generatedValid) {
+        logger.warn('Revisao IA alterou estrutura; mantendo versao gerada original', {
+          post_type: classification.post_type
+        });
+      } else {
+        logger.warn('Estrutura markdown inválida após revisão e geração', { post_type: classification.post_type });
+        return null;
+      }
     }
 
     return {
-      content: reviewed,
+      content: reviewedValid ? reviewed : generatedContent,
       post_type: classification.post_type,
       editorial_confidence: classification.confidence,
       risk_flags: [],
