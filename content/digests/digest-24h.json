@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-02-16T07:01:56.381Z",
+  "generated_at": "2026-02-16T07:13:41.913Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
-  "posts": [
-    {
-      "title": "Por que as aves são um perigo para a aviação?",
-      "slug": "por-que-as-aves-sao-um-perigo-para-a-aviacao",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-15T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/por-que-as-aves-sao-um-perigo-para-a-aviacao/"
-    },
-    {
-      "title": "Tudo sobre Timothée Chalamet: história, atuações e curiosidades",
-      "slug": "tudo-sobre-timothee-chalamet-historia-atuacoes-e-curiosidades",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-15T19:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603094-tudo-sobre-timothee-chalamet-historia-atuacoes-e-curiosidades.htm"
-    }
-  ]
+  "total": 0,
+  "posts": []
 }

@@ -1,6 +1,5 @@
 # Weekly IA para Devs - 2026-02-16
 
-Gerado em 2026-02-16T07:01:56.381Z
+Gerado em 2026-02-16T07:13:41.913Z
 
-- [Por que as aves são um perigo para a aviação?](https://canaltech.com.br/carros/por-que-as-aves-sao-um-perigo-para-a-aviacao/) | topico: produtividade-dev | score: 100
-- [Tudo sobre Timothée Chalamet: história, atuações e curiosidades](https://www.tecmundo.com.br/minha-serie/603094-tudo-sobre-timothee-chalamet-historia-atuacoes-e-curiosidades.htm) | topico: geral | score: 92
+- [Investigação da BBC revela rede de homens que gravam mulheres em saídas à noite ao redor do mundo e vendem vídeos na internet](https://g1.globo.com/tecnologia/noticia/2026/02/14/investigacao-da-bbc-revela-rede-de-homens-que-gravam-mulheres-em-saidas-a-noite-ao-redor-do-mundo-e-vendem-videos-na-internet.ghtml) | topico: agentes | score: 100
