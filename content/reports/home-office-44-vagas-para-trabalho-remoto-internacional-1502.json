@@ -1,6 +1,6 @@
 {
   "slug": "home-office-44-vagas-para-trabalho-remoto-internacional-1502",
-  "generated_at": "2026-02-16T00:53:26.638Z",
+  "generated_at": "2026-02-16T02:06:37.707Z",
   "status": "PASS",
   "checks": [
     {
@@ -42,7 +42,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 523,
+      "words": 492,
       "min": 220
     },
     {
@@ -76,6 +76,12 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "desalinhamento_semantico_titulo_corpo"
+    },
+    {
+      "id": "forced_ia_bias",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "viés_ia_forcado_em_tema_nao_ia"
     },
     {
       "id": "internal_links",

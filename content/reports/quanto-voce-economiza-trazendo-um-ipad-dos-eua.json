@@ -1,6 +1,6 @@
 {
   "slug": "quanto-voce-economiza-trazendo-um-ipad-dos-eua",
-  "generated_at": "2026-02-16T00:53:10.706Z",
+  "generated_at": "2026-02-16T02:06:12.833Z",
   "status": "PASS",
   "checks": [
     {
@@ -42,7 +42,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 511,
+      "words": 526,
       "min": 220
     },
     {
@@ -76,6 +76,12 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "desalinhamento_semantico_titulo_corpo"
+    },
+    {
+      "id": "forced_ia_bias",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "viés_ia_forcado_em_tema_nao_ia"
     },
     {
       "id": "internal_links",
