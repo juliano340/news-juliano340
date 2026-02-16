@@ -248,33 +248,87 @@ class AIService {
     ].join('\n');
   }
 
-  normalizeStructuredArticle(parsed, postType, sourceUrl) {
+  ensureMinList(list, min, fallbackItems) {
+    const output = Array.isArray(list) ? [...list] : [];
+    const fallback = Array.isArray(fallbackItems) ? fallbackItems : [];
+    let idx = 0;
+    while (output.length < min && idx < fallback.length) {
+      output.push(fallback[idx]);
+      idx += 1;
+    }
+    while (output.length < min) {
+      output.push('Atualizacao em andamento com base na fonte primaria.');
+    }
+    return output;
+  }
+
+  normalizeStructuredArticle(parsed, postType, sourceUrl, input = {}) {
     if (!parsed || typeof parsed !== 'object') return null;
 
-    const title = String(parsed.title || '').trim();
-    const intro = String(parsed.intro || '').trim();
-    const summaryBullets = this.normalizeStringList(parsed.summary_bullets, 3);
-    const whyItMatters = String(parsed.why_it_matters || '').trim();
+    const fallbackTitle = String(input.title || '').trim();
+    const title = String(parsed.title || fallbackTitle).trim();
+    const intro = String(parsed.intro || '').trim() || 'Resumo objetivo do tema com foco no que muda na pratica para o leitor.';
+    const summaryBullets = this.ensureMinList(
+      this.normalizeStringList(parsed.summary_bullets, 3),
+      3,
+      [
+        'Fato principal organizado de forma objetiva para leitura rapida.',
+        'Contexto essencial para entender o que mudou e por que importa.',
+        'Pontos praticos para acompanhar os proximos desdobramentos.'
+      ]
+    );
+    const whyItMatters = String(parsed.why_it_matters || '').trim() || 'A leitura ajuda a separar ruido de informacao util e facilita decisoes mais praticas no curto prazo.';
 
-    if (!title || !intro || summaryBullets.length < 3 || !whyItMatters) return null;
+    if (!title) return null;
 
     if (postType === 'job_roundup') {
-      const howToUse = this.normalizeStringList(parsed.how_to_use, 6);
-      const highlights = this.normalizeStringList(parsed.highlights, 8);
-      const checklist = this.normalizeStringList(parsed.application_checklist, 12);
-      const watchItems = this.normalizeStringList(parsed.watch_items, 6);
+      const howToUse = this.ensureMinList(this.normalizeStringList(parsed.how_to_use, 6), 4, [
+        'Filtre a lista por area e senioridade antes de aplicar.',
+        'Priorize vagas com requisitos que voce ja atende hoje.',
+        'Ajuste CV e LinkedIn para o contexto internacional.',
+        'Confirme idioma, fuso e formato de contrato antes da candidatura.'
+      ]);
+      const highlights = this.ensureMinList(this.normalizeStringList(parsed.highlights, 8), 6, [
+        'Vagas em tecnologia com foco em engenharia e produto.',
+        'Oportunidades em marketing e crescimento.',
+        'Posicoes em vendas e relacionamento comercial.',
+        'Cargos de design e experiencia do usuario.',
+        'Funcoes operacionais e administrativas remotas.',
+        'Papeis multidisciplinares para times internacionais.'
+      ]);
+      const checklist = this.ensureMinList(this.normalizeStringList(parsed.application_checklist, 12), 8, [
+        'Curriculo atualizado com foco em resultados.',
+        'LinkedIn revisado e alinhado com a vaga.',
+        'Portfolio com projetos relevantes.',
+        'Carta curta de apresentacao personalizada.',
+        'Confirmacao de idioma e disponibilidade de fuso.',
+        'Validacao do tipo de contrato e pagamento.',
+        'Pesquisa basica sobre a empresa contratante.',
+        'Controle de candidaturas para follow-up.'
+      ]);
+      const watchItems = this.ensureMinList(this.normalizeStringList(parsed.watch_items, 6), 4, [
+        'Novas vagas e atualizacoes de candidatura na plataforma.',
+        'Mudancas de requisitos de idioma e senioridade.',
+        'Vagas que costumam fechar rapido nos primeiros dias.',
+        'Novas areas com crescimento de demanda remota.'
+      ]);
       const faqRaw = Array.isArray(parsed.faq) ? parsed.faq : [];
-      const faq = faqRaw
+      const faq = this.ensureMinList(
+        faqRaw
         .map((item) => ({
           q: String(item?.q || '').trim(),
           a: String(item?.a || '').trim()
         }))
         .filter((item) => item.q && item.a)
-        .slice(0, 4);
-
-      if (howToUse.length < 4 || highlights.length < 6 || checklist.length < 8 || watchItems.length < 4 || faq.length < 4) {
-        return null;
-      }
+        .slice(0, 4),
+        4,
+        [
+          { q: 'Preciso de ingles para me candidatar?', a: 'Na maioria das vagas internacionais, sim. Inglês funcional aumenta a chance de avancar no processo.' },
+          { q: 'Fuso horario importa?', a: 'Importa. Muitas vagas exigem sobreposicao minima de horario com o time principal.' },
+          { q: 'Como reduzir erros na candidatura?', a: 'Adapte CV e portfolio para cada vaga e valide requisitos antes de enviar.' },
+          { q: 'Como evitar vagas falsas?', a: 'Prefira links oficiais, valide dominio da empresa e desconfie de pedidos financeiros.' }
+        ]
+      );
 
       return {
         content: [
@@ -297,7 +351,11 @@ class AIService {
           ...watchItems.map((line) => `- ${line}`),
           '',
           '## FAQ',
-          ...faq.flatMap((item) => [`### ${item.q.replace(/^#+\s*/, '')}`, item.a, '']),
+          ...faq.flatMap((item) => {
+            const q = typeof item === 'string' ? item : item.q;
+            const a = typeof item === 'string' ? 'Consulte a fonte primaria para detalhes atualizados.' : item.a;
+            return [`### ${String(q || '').replace(/^#+\s*/, '')}`, String(a || '').trim(), ''];
+          }),
           '## Fonte e transparencia',
           `- Fonte primaria: ${sourceUrl || ''}`,
           '- Conteudo gerado com apoio de IA e revisado automaticamente.',
@@ -311,10 +369,19 @@ class AIService {
 
     const context = String(parsed.context || '').trim();
     const insights = String(parsed.insights || '').trim();
-    const doNow = this.normalizeStringList(parsed.do_now, 5);
-    const watchItems = this.normalizeStringList(parsed.watch_items, 6);
-
-    if (!context || !insights || doNow.length < 3 || watchItems.length < 3) return null;
+    const excerpt = String(input.excerpt || '').replace(/\s+/g, ' ').trim();
+    const safeContext = context || excerpt || 'Contexto principal da noticia organizado de forma objetiva para facilitar entendimento rapido.';
+    const safeInsights = insights || 'O principal insight e usar os fatos apresentados para decidir os proximos passos com criterio pratico.';
+    const doNow = this.ensureMinList(this.normalizeStringList(parsed.do_now, 5), 3, [
+      'Revise os fatos centrais antes de tomar qualquer decisao.',
+      'Compare fontes e acompanhe atualizacoes do tema.',
+      'Priorize acoes de curto prazo com impacto real.'
+    ]);
+    const watchItems = this.ensureMinList(this.normalizeStringList(parsed.watch_items, 6), 3, [
+      'Novos desdobramentos e confirmacoes oficiais.',
+      'Mudancas de contexto que alterem a leitura inicial.',
+      'Impacto pratico para usuarios e mercado.'
+    ]);
 
     return {
       content: [
@@ -325,10 +392,10 @@ class AIService {
         ...summaryBullets.map((line) => `- ${line}`),
         '',
         '## Contexto',
-        context,
+        safeContext,
         '',
         '## Insights e implicacoes',
-        insights,
+        safeInsights,
         '',
         '## O que fazer agora',
         ...doNow.map((line) => `- ${line}`),
@@ -554,7 +621,11 @@ class AIService {
     const structured = this.normalizeStructuredArticle(
       parsedContent,
       classification.post_type,
-      input.original_url || input.source_url || ''
+      input.original_url || input.source_url || '',
+      {
+        title: input.title,
+        excerpt: String(input.raw_content || '').replace(/\s+/g, ' ').trim().slice(0, 900)
+      }
     );
     if (!structured) {
       logger.warn('Falha ao normalizar resposta estruturada da IA', {
