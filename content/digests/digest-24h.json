@@ -1,34 +1,25 @@
 {
-  "generated_at": "2026-02-15T23:01:39.879Z",
+  "generated_at": "2026-02-16T00:53:28.734Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 2,
   "posts": [
     {
-      "title": "Pós-graduação em tecnologia é alvo de 72% dos profissionais em 2026; entenda",
-      "slug": "pos-graduacao-em-tecnologia-e-alvo-de-72percent-dos-profissionais-em-2026-entenda",
-      "topic": "llms",
+      "title": "Quanto você economiza trazendo um iPad dos EUA?",
+      "slug": "quanto-voce-economiza-trazendo-um-ipad-dos-eua",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
+      "date": "2026-02-16T00:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/tablet/quanto-voce-economiza-trazendo-um-ipad-dos-eua/"
+    },
+    {
+      "title": "Home office: 44 vagas para trabalho remoto internacional [15/02]",
+      "slug": "home-office-44-vagas-para-trabalho-remoto-internacional-1502",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
       "date": "2026-02-15T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/pos-graduacao-em-tecnologia-e-alvo-de-72-dos-profissionais-em-2026-entenda/"
-    },
-    {
-      "title": "Avowed para PlayStation 5, Styx: Blades of Greed e mais! Veja os lançamentos de games da semana",
-      "slug": "avowed-para-playstation-5-styx-blades-of-greed-e-mais-veja-os-lancamentos-de-games-da-semana",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-15T22:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503533-avowed-para-playstation-5-styx-blades-of-greed-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
-    },
-    {
-      "title": "O Agente Noturno, The Moment e mais! Os lançamentos de filmes e séries da semana (15/02)",
-      "slug": "o-agente-noturno-the-moment-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1502",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-15T21:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603093-o-agente-noturno-the-moment-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1502.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/410741-home-office-44-vagas-para-trabalho-remoto-internacional-1502.htm"
     }
   ]
 }
