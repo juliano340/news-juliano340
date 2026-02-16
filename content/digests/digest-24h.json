@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-02-16T19:06:48.466Z",
+  "generated_at": "2026-02-16T21:07:10.634Z",
   "niche": "ia-para-desenvolvedores",
   "total": 12,
   "posts": [
     {
-      "title": "Reino Unido vai endurecer regras para chatbots de IA após polêmica com o Grok, de Musk",
-      "slug": "reino-unido-vai-endurecer-regras-para-chatbots-de-ia-apos-polemica-com-o-grok-de-musk",
-      "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-16T17:37:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/16/reino-unido-vai-endurecer-regras-para-chatbots-de-ia-apos-polemica-com-o-grok-de-musk.ghtml"
-    },
-    {
-      "title": "EUA podem mudar o “CPF” de toda a população após falha de segurança massiva",
-      "slug": "eua-podem-mudar-o-cpf-de-toda-a-populacao-apos-falha-de-seguranca-massiva",
-      "topic": "infra-ia",
-      "source": "Tecnoblog",
-      "date": "2026-02-16T18:52:49.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/eua-podem-mudar-o-cpf-de-toda-a-populacao-apos-falha-de-seguranca-massiva/"
-    },
-    {
-      "title": "Galaxy S25 Ultra (512 GB) tem impressionantes 51% OFF com cupom no Magalu",
-      "slug": "galaxy-s25-ultra-512-gb-tem-impressionantes-51percent-off-com-cupom-no-magalu",
+      "title": "O que é internet? Entenda o funcionamento da rede global de computadores",
+      "slug": "o-que-e-internet-entenda-o-funcionamento-da-rede-global-de-computadores",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-16T18:51:05.000Z",
+      "date": "2026-02-16T20:20:44.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-impressionantes-51-off-com-cupom-no-magalu/"
+      "original_url": "https://tecnoblog.net/responde/o-que-e-internet-entenda-o-funcionamento-da-rede-global-de-computadores/"
     },
     {
-      "title": "iPhone 16 (256 GB) fica 40% mais barato com cupom na Amazon",
-      "slug": "iphone-16-256-gb-fica-40percent-mais-barato-com-cupom-na-amazon",
-      "topic": "geral",
+      "title": "Apple marca evento em março; MacBook acessível e iPhone 17e são esperados",
+      "slug": "apple-marca-evento-em-marco-macbook-acessivel-e-iphone-17e-sao-esperados",
+      "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-16T17:59:17.000Z",
+      "date": "2026-02-16T19:46:31.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/iphone-16-256-gb-fica-40-mais-barato-com-cupom-na-amazon/"
+      "original_url": "https://tecnoblog.net/noticias/apple-marca-evento-em-marco-macbook-acessivel-e-iphone-17e-sao-esperados/"
     },
     {
-      "title": "iPhone 16e (256 GB) tem desconto histórico de 44% com cupom na Amazon",
-      "slug": "iphone-16e-256-gb-tem-desconto-historico-de-44percent-com-cupom-na-amazon",
+      "title": "Moto G86 (512 GB) tem 44% OFF na melhor oferta dos últimos meses",
+      "slug": "moto-g86-512-gb-tem-44percent-off-na-melhor-oferta-dos-ultimos-meses",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-16T17:24:45.000Z",
+      "date": "2026-02-16T19:41:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/moto-g86-512-gb-tem-44-off-na-melhor-oferta-dos-ultimos-meses/"
+    },
+    {
+      "title": "Locutor de rádio processa Google por uso indevido de voz no NotebookLM",
+      "slug": "locutor-de-radio-processa-google-por-uso-indevido-de-voz-no-notebooklm",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-02-16T19:01:46.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/locutor-de-radio-processa-google-por-uso-indevido-de-voz-no-notebooklm/"
+    },
+    {
+      "title": "Motorola Edge 60 Pro (256 GB) tem 36% de desconto na Amazon com cupom",
+      "slug": "motorola-edge-60-pro-256-gb-tem-36percent-de-desconto-na-amazon-com-cupom",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-16T18:58:45.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-16e-256-gb-tem-desconto-historico-de-44-com-cupom-na-amazon/"
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-36-de-desconto-na-amazon-com-cupom/"
     },
     {
-      "title": "O Clube iFood vale a pena? Conheça os benefícios e preços",
-      "slug": "o-clube-ifood-vale-a-pena-conheca-os-beneficios-e-precos",
+      "title": "Quanto custaria um Corsa sedan Classic hoje, com a inflação?",
+      "slug": "quanto-custaria-um-corsa-sedan-classic-hoje-com-a-inflacao",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-16T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-clube-ifood-vale-a-pena-conheca-os-beneficios-e-precos/"
+      "date": "2026-02-16T20:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/carros/quanto-custaria-um-corsa-sedan-classic-hoje-com-a-inflacao/"
     },
     {
-      "title": "Mercado Livre faz queima de iPhone 15 de 256 GB; melhor iPhone com preço no chão",
-      "slug": "mercado-livre-faz-queima-de-iphone-15-de-256-gb-melhor-iphone-com-preco-no-chao",
+      "title": "HD externo pode ser alternativa mais econômica à nuvem; modelo da Toshiba entra em oferta",
+      "slug": "hd-externo-pode-ser-alternativa-mais-economica-a-nuvem-modelo-da-toshiba-entra-em-oferta",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-16T17:41:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-15-de-256-gb-melhor-iphone-com-preco-no-chao/"
+      "source": "Tecmundo",
+      "date": "2026-02-16T20:16:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410774-hd-externo-pode-ser-alternativa-mais-economica-a-nuvem-modelo-da-toshiba-entra-em-oferta.htm"
     },
     {
-      "title": "MacBook 'baratinho' com chip de iPhone deve ser anunciado em breve",
-      "slug": "macbook-baratinho-com-chip-de-iphone-deve-ser-anunciado-em-breve",
+      "title": "iOS 27 deve corrigir problemas de estabilidade e melhorar bateria do iPhone",
+      "slug": "ios-27-deve-corrigir-problemas-de-estabilidade-e-melhorar-bateria-do-iphone",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-02-16T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410772-ios-27-deve-corrigir-problemas-de-estabilidade-e-melhorar-bateria-do-iphone.htm"
+    },
+    {
+      "title": "Vídeo de drone quase caindo em atleta durante prova volta a viralizar",
+      "slug": "video-de-drone-quase-caindo-em-atleta-durante-prova-volta-a-viralizar",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-16T19:00:00.000Z",
+      "date": "2026-02-16T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410770-macbook-baratinho-com-chip-de-iphone-deve-ser-anunciado-em-breve.htm"
+      "original_url": "https://www.tecmundo.com.br/internet/410771-video-de-drone-quase-caindo-em-atleta-durante-prova-volta-a-viralizar.htm"
     },
     {
-      "title": "Asus e Acer são temporariamente proibidas de vender PCs na Alemanha; entenda",
-      "slug": "asus-e-acer-sao-temporariamente-proibidas-de-vender-pcs-na-alemanha-entenda",
+      "title": "O Poder e a Lei vai ter 5ª temporada? Confira o que esperar",
+      "slug": "o-poder-e-a-lei-vai-ter-5a-temporada-confira-o-que-esperar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T18:00:00.000Z",
+      "date": "2026-02-16T19:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/410769-asus-e-acer-sao-temporariamente-proibidas-de-vender-pcs-na-alemanha-entenda.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603121-o-poder-e-a-lei-vai-ter-5-temporada-confira-o-que-esperar.htm"
     },
     {
-      "title": "O Cavaleiro dos Sete Reinos episódio 5 tem uma das melhores notas da história de Game of Thrones",
-      "slug": "o-cavaleiro-dos-sete-reinos-episodio-5-tem-uma-das-melhores-notas-da-historia-de-game-of-thrones",
+      "title": "Rival do PS6, novo Xbox será como um PC? Entenda",
+      "slug": "rival-do-ps6-novo-xbox-sera-como-um-pc-entenda",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T17:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603119-o-cavaleiro-dos-sete-reinos-episodio-5-tem-uma-das-melhores-notas-da-historia-de-game-of-thrones.htm"
+      "date": "2026-02-16T19:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503472-rival-do-ps6-novo-xbox-sera-como-um-pc-entenda.htm"
     },
     {
-      "title": "A história de GTA San Andreas! Relembre a narrativa de CJ antes de GTA 6",
-      "slug": "a-historia-de-gta-san-andreas-relembre-a-narrativa-de-cj-antes-de-gta-6",
+      "title": "Ofertas e cupons Amazon com até 60% OFF: JBL, GoPro, Logitech, LG e mais",
+      "slug": "ofertas-e-cupons-amazon-com-ate-60percent-off-jbl-gopro-logitech-lg-e-mais",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T17:15:00.000Z",
+      "date": "2026-02-16T19:08:41.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503156-a-historia-de-gta-san-andreas-relembre-a-narrativa-de-cj-antes-de-gta-6.htm"
-    },
-    {
-      "title": "Gambiarra coloca bateria absurda de 12.000 mAh em um iPhone; isso é possível?",
-      "slug": "gambiarra-coloca-bateria-absurda-de-12000-mah-em-um-iphone-isso-e-possivel",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-16T17:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410761-gambiarra-coloca-bateria-absurda-de-12000-mah-em-um-iphone-isso-e-possivel.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410773-ofertas-e-cupons-amazon-com-ate-60-off-jbl-gopro-logitech-lg-e-mais.htm"
     }
   ]
 }
