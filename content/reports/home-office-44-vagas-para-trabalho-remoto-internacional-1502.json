@@ -1,7 +1,7 @@
 {
   "slug": "home-office-44-vagas-para-trabalho-remoto-internacional-1502",
-  "generated_at": "2026-02-16T02:45:56.535Z",
-  "status": "PASS",
+  "generated_at": "2026-02-16T05:42:43.104Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -19,10 +19,10 @@
     },
     {
       "id": "watch_bullets",
-      "status": "PASS",
-      "level": "BLOCK",
+      "status": "FAIL",
+      "level": "WARN",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 0
     },
     {
       "id": "faq_count",
@@ -45,6 +45,22 @@
       "reason": "boilerplate_inadequado_para_job_roundup"
     },
     {
+      "id": "job_roundup_highlights_count",
+      "status": "PASS",
+      "level": "WARN",
+      "reason": "destaques_insuficientes_no_job_roundup",
+      "count": 12,
+      "min": 6
+    },
+    {
+      "id": "job_roundup_highlights_examples",
+      "status": "FAIL",
+      "level": "WARN",
+      "reason": "destaques_sem_exemplos_suficientes",
+      "count": 0,
+      "min": 3
+    },
+    {
       "id": "primary_source",
       "status": "PASS",
       "level": "BLOCK",
@@ -55,7 +71,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 571,
+      "words": 591,
       "min": 220
     },
     {
@@ -63,7 +79,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "estrutura_com_poucos_paragrafos",
-      "paragraphs": 13,
+      "paragraphs": 14,
       "min": 5
     },
     {
@@ -77,6 +93,12 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "frase_generica_sem_justificativa"
+    },
+    {
+      "id": "truncated_bullets",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "bullet_truncado_com_reticencias"
     },
     {
       "id": "source_link_in_body",
@@ -105,9 +127,12 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "observacao_sem_3_a_5_bullets",
+    "destaques_sem_exemplos_suficientes"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 89,
   "metadata": {
     "status": "PASS",
     "checks": [
