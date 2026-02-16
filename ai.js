@@ -124,6 +124,9 @@ class AIService {
       'Não copie frases literais da fonte.',
       'Não invente fatos, números ou nomes que não estejam no material.',
       'Evite frases genéricas e vazias.',
+      'Seja conciso: frases curtas e diretas.',
+      'Prefira bullets curtos (ate 12 palavras por bullet).',
+      'Evite parágrafos longos (máximo 2 frases por parágrafo).',
       'Retorne SOMENTE markdown final, sem explicações extras.'
     ];
 
@@ -306,12 +309,11 @@ class AIService {
     const maxTotalMs = Math.max(10000, config.AI_EDITORIAL_TOTAL_TIMEOUT_MS || 40000);
     const timedOut = () => Date.now() - startedAt > maxTotalMs;
 
-    logger.info('IA editorial: classificando tipo de post', {
-      title: input.title,
-      source: input.source
-    });
+    const postTypeFromInput = this.normalizePostType(input.post_type || 'standard');
+    const classification = postTypeFromInput === 'standard'
+      ? await this.classifyPostType(input)
+      : { post_type: postTypeFromInput, confidence: 100, evidence: ['post_type_fornecido_pelo_pipeline'] };
 
-    const classification = await this.classifyPostType(input);
     if (!classification) {
       logger.warn('Falha ao classificar tipo de post com IA');
       return null;
@@ -343,18 +345,28 @@ class AIService {
       post_type: classification.post_type
     });
 
-    const primaryContent = await this.tryMarkdownModel(this.editorialPrimaryModel, prompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
+    const primaryContent = await this.tryMarkdownModel(
+      this.editorialPrimaryModel,
+      prompt,
+      config.AI_EDITORIAL_TIMEOUT_MS,
+      Math.max(300, config.AI_EDITORIAL_MAX_TOKENS)
+    );
     const fallbackUsed = !primaryContent;
-    const generatedContent = primaryContent || await this.tryMarkdownModel(this.editorialFallbackModel, prompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
+    const generatedContent = primaryContent || await this.tryMarkdownModel(
+      this.editorialFallbackModel,
+      prompt,
+      config.AI_EDITORIAL_TIMEOUT_MS,
+      Math.max(300, config.AI_EDITORIAL_MAX_TOKENS)
+    );
     if (!generatedContent) {
       logger.warn('Falha ao gerar markdown editorial com IA');
       return null;
     }
 
-    if (classification.post_type === 'job_roundup') {
+    if (classification.post_type === 'job_roundup' || config.AI_EDITORIAL_SKIP_REVIEW) {
       const generatedValid = this.validateMarkdownStructure(generatedContent, classification.post_type);
       if (!generatedValid) {
-        logger.warn('Estrutura markdown inválida para job_roundup', { post_type: classification.post_type });
+        logger.warn('Estrutura markdown inválida na geracao editorial', { post_type: classification.post_type });
         return null;
       }
 
@@ -388,8 +400,18 @@ class AIService {
       post_type: classification.post_type
     });
 
-    const reviewedPrimary = await this.tryMarkdownModel(this.editorialPrimaryModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
-    const reviewed = reviewedPrimary || await this.tryMarkdownModel(this.editorialFallbackModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
+    const reviewedPrimary = await this.tryMarkdownModel(
+      this.editorialPrimaryModel,
+      reviewPrompt,
+      config.AI_EDITORIAL_TIMEOUT_MS,
+      Math.max(250, Math.floor(config.AI_EDITORIAL_MAX_TOKENS * 0.7))
+    );
+    const reviewed = reviewedPrimary || await this.tryMarkdownModel(
+      this.editorialFallbackModel,
+      reviewPrompt,
+      config.AI_EDITORIAL_TIMEOUT_MS,
+      Math.max(250, Math.floor(config.AI_EDITORIAL_MAX_TOKENS * 0.7))
+    );
     if (!reviewed) {
       logger.warn('Falha na revisão editorial com IA');
       return null;
