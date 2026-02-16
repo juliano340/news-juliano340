@@ -1,133 +1,115 @@
 {
-  "generated_at": "2026-02-16T17:08:17.813Z",
+  "generated_at": "2026-02-16T19:06:48.466Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 14,
+  "total": 12,
   "posts": [
     {
-      "title": "GPT-4o: usuários fazem abaixo-assinado contra aposentadoria do modelo",
-      "slug": "gpt-4o-usuarios-fazem-abaixo-assinado-contra-aposentadoria-do-modelo",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-16T16:23:05.000Z",
+      "title": "Reino Unido vai endurecer regras para chatbots de IA após polêmica com o Grok, de Musk",
+      "slug": "reino-unido-vai-endurecer-regras-para-chatbots-de-ia-apos-polemica-com-o-grok-de-musk",
+      "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-16T17:37:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/gpt-4o-usuarios-fazem-abaixo-assinado-contra-aposentadoria-do-modelo/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/16/reino-unido-vai-endurecer-regras-para-chatbots-de-ia-apos-polemica-com-o-grok-de-musk.ghtml"
     },
     {
-      "title": "Crise de chips de memória pode adiar sucessor do PlayStation 5 para 2028",
-      "slug": "crise-de-chips-de-memoria-pode-adiar-sucessor-do-playstation-5-para-2028",
-      "topic": "geral",
+      "title": "EUA podem mudar o “CPF” de toda a população após falha de segurança massiva",
+      "slug": "eua-podem-mudar-o-cpf-de-toda-a-populacao-apos-falha-de-seguranca-massiva",
+      "topic": "infra-ia",
       "source": "Tecnoblog",
-      "date": "2026-02-16T16:05:52.000Z",
+      "date": "2026-02-16T18:52:49.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/crise-de-chips-de-memoria-pode-adiar-sucessor-do-playstation-5-para-2028/"
+      "original_url": "https://tecnoblog.net/noticias/eua-podem-mudar-o-cpf-de-toda-a-populacao-apos-falha-de-seguranca-massiva/"
     },
     {
-      "title": "Disney e Paramount reclamam de pirataria em nova IA",
-      "slug": "disney-e-paramount-reclamam-de-pirataria-em-nova-ia",
+      "title": "Galaxy S25 Ultra (512 GB) tem impressionantes 51% OFF com cupom no Magalu",
+      "slug": "galaxy-s25-ultra-512-gb-tem-impressionantes-51percent-off-com-cupom-no-magalu",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-16T15:45:30.000Z",
+      "date": "2026-02-16T18:51:05.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-impressionantes-51-off-com-cupom-no-magalu/"
+    },
+    {
+      "title": "iPhone 16 (256 GB) fica 40% mais barato com cupom na Amazon",
+      "slug": "iphone-16-256-gb-fica-40percent-mais-barato-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-16T17:59:17.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/iphone-16-256-gb-fica-40-mais-barato-com-cupom-na-amazon/"
+    },
+    {
+      "title": "iPhone 16e (256 GB) tem desconto histórico de 44% com cupom na Amazon",
+      "slug": "iphone-16e-256-gb-tem-desconto-historico-de-44percent-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-16T17:24:45.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/disney-e-paramount-reclamam-de-pirataria-em-nova-ia/"
+      "original_url": "https://tecnoblog.net/achados/iphone-16e-256-gb-tem-desconto-historico-de-44-com-cupom-na-amazon/"
     },
     {
-      "title": "O que acontece quando seu celular para de receber atualizações?",
-      "slug": "o-que-acontece-quando-seu-celular-para-de-receber-atualizacoes",
+      "title": "O Clube iFood vale a pena? Conheça os benefícios e preços",
+      "slug": "o-clube-ifood-vale-a-pena-conheca-os-beneficios-e-precos",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-16T17:00:00.000Z",
-      "editorial_score": 85,
-      "original_url": "https://canaltech.com.br/apps/o-que-acontece-quando-seu-celular-para-de-receber-atualizacoes/"
-    },
-    {
-      "title": "Mercado Livre derruba preço de smartwatch Huawei Watch GT 6; bateria de 21 dias",
-      "slug": "mercado-livre-derruba-preco-de-smartwatch-huawei-watch-gt-6-bateria-de-21-dias",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-16T16:10:00.000Z",
+      "date": "2026-02-16T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartwatch/mercado-livre-derruba-preco-de-smartwatch-huawei-watch-gt-6-bateria-de-21-dias/"
+      "original_url": "https://canaltech.com.br/apps/o-clube-ifood-vale-a-pena-conheca-os-beneficios-e-precos/"
     },
     {
-      "title": "Vale a pena comprar celular Motorola nos EUA? Veja quanto você economiza",
-      "slug": "vale-a-pena-comprar-celular-motorola-nos-eua-veja-quanto-voce-economiza",
+      "title": "Mercado Livre faz queima de iPhone 15 de 256 GB; melhor iPhone com preço no chão",
+      "slug": "mercado-livre-faz-queima-de-iphone-15-de-256-gb-melhor-iphone-com-preco-no-chao",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-16T16:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/vale-a-pena-comprar-celular-motorola-nos-eua-veja-quanto-voce-economiza/"
+      "date": "2026-02-16T17:41:58.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-15-de-256-gb-melhor-iphone-com-preco-no-chao/"
     },
     {
-      "title": "Obama volta a falar sobre existência de aliens e se justifica",
-      "slug": "obama-volta-a-falar-sobre-existencia-de-aliens-e-se-justifica",
+      "title": "MacBook 'baratinho' com chip de iPhone deve ser anunciado em breve",
+      "slug": "macbook-baratinho-com-chip-de-iphone-deve-ser-anunciado-em-breve",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-16T16:00:00.000Z",
+      "date": "2026-02-16T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/ciencia/410759-obama-volta-a-falar-sobre-existencia-de-aliens-e-se-justifica.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410770-macbook-baratinho-com-chip-de-iphone-deve-ser-anunciado-em-breve.htm"
     },
     {
-      "title": "Wagner Moura entrega prêmio para Adolpho Veloso, por Sonhos de Trem, também indicado ao Oscar",
-      "slug": "wagner-moura-entrega-premio-para-adolpho-veloso-por-sonhos-de-trem-tambem-indicado-ao-oscar",
+      "title": "Asus e Acer são temporariamente proibidas de vender PCs na Alemanha; entenda",
+      "slug": "asus-e-acer-sao-temporariamente-proibidas-de-vender-pcs-na-alemanha-entenda",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T15:45:00.000Z",
+      "date": "2026-02-16T18:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603117-wagner-moura-entrega-premio-para-adolpho-veloso-por-sonhos-de-trem-tambem-indicado-ao-oscar.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/410769-asus-e-acer-sao-temporariamente-proibidas-de-vender-pcs-na-alemanha-entenda.htm"
     },
     {
-      "title": "Razr 60 pelo menor preço: garanta o dobrável da Motorola com 41% OFF",
-      "slug": "razr-60-pelo-menor-preco-garanta-o-dobravel-da-motorola-com-41percent-off",
+      "title": "O Cavaleiro dos Sete Reinos episódio 5 tem uma das melhores notas da história de Game of Thrones",
+      "slug": "o-cavaleiro-dos-sete-reinos-episodio-5-tem-uma-das-melhores-notas-da-historia-de-game-of-thrones",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T15:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410768-razr-60-pelo-menor-preco-garanta-o-dobravel-da-motorola-com-41-off.htm"
+      "date": "2026-02-16T17:45:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603119-o-cavaleiro-dos-sete-reinos-episodio-5-tem-uma-das-melhores-notas-da-historia-de-game-of-thrones.htm"
     },
     {
-      "title": "Kena Scars of Kosmora: Confira gameplay e tudo sobreo jogo para PC e PS5",
-      "slug": "kena-scars-of-kosmora-confira-gameplay-e-tudo-sobreo-jogo-para-pc-e-ps5",
+      "title": "A história de GTA San Andreas! Relembre a narrativa de CJ antes de GTA 6",
+      "slug": "a-historia-de-gta-san-andreas-relembre-a-narrativa-de-cj-antes-de-gta-6",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T15:15:00.000Z",
+      "date": "2026-02-16T17:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503515-kena-scars-of-kosmora-confira-gameplay-e-tudo-sobreo-jogo-para-pc-e-ps5.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503156-a-historia-de-gta-san-andreas-relembre-a-narrativa-de-cj-antes-de-gta-6.htm"
     },
     {
-      "title": "Rede X volta a funcionar após interrupção nos EUA e no Reino Unido, segundo o Downdetector",
-      "slug": "rede-x-volta-a-funcionar-apos-interrupcao-nos-eua-e-no-reino-unido-segundo-o-downdetector",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-16T16:46:58.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/rede-x-volta-a-funcionar-apos-interrupcao-nos-eua-e-no-reino-unido-segundo-o-downdetector.htm"
-    },
-    {
-      "title": "Consórcio entre EAU e Iraque planeja cabo de dados de US$ 700 milhões para rivalizar com ligação entre Arábia Saudita e Síria",
-      "slug": "consorcio-entre-eau-e-iraque-planeja-cabo-de-dados-de-usdollar-700-milhoes-para-rivalizar-com-ligacao-entre-arabia-saudita-e-siria",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-16T15:18:56.000Z",
+      "title": "Gambiarra coloca bateria absurda de 12.000 mAh em um iPhone; isso é possível?",
+      "slug": "gambiarra-coloca-bateria-absurda-de-12000-mah-em-um-iphone-isso-e-possivel",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-16T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/consorcio-entre-eau-e-iraque-planeja-cabo-de-dados-de-us-700-milhoes-para-rivalizar-com-ligacao-entre-arabia-saudita-e-siria.htm"
-    },
-    {
-      "title": "Robôs humanóides chineses são centro das atenções no espetáculo do Ano Novo Lunar",
-      "slug": "robos-humanoides-chineses-sao-centro-das-atencoes-no-espetaculo-do-ano-novo-lunar",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-16T15:12:13.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/robos-humanoides-chineses-sao-centro-das-atencoes-no-espetaculo-do-ano-novo-lunar.htm"
-    },
-    {
-      "title": "Governo Lula definirá o que é pornografia em regra para idade na internet",
-      "slug": "governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-16T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/16/governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410761-gambiarra-coloca-bateria-absurda-de-12000-mah-em-um-iphone-isso-e-possivel.htm"
     }
   ]
 }

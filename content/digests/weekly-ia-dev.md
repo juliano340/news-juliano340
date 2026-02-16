@@ -1,18 +1,16 @@
 # Weekly IA para Devs - 2026-02-16
 
-Gerado em 2026-02-16T17:08:17.813Z
+Gerado em 2026-02-16T19:06:48.466Z
 
-- [GPT-4o: usuários fazem abaixo-assinado contra aposentadoria do modelo](https://tecnoblog.net/noticias/gpt-4o-usuarios-fazem-abaixo-assinado-contra-aposentadoria-do-modelo/) | topico: llms | score: 100
-- [Crise de chips de memória pode adiar sucessor do PlayStation 5 para 2028](https://tecnoblog.net/noticias/crise-de-chips-de-memoria-pode-adiar-sucessor-do-playstation-5-para-2028/) | topico: geral | score: 100
-- [Disney e Paramount reclamam de pirataria em nova IA](https://tecnoblog.net/noticias/disney-e-paramount-reclamam-de-pirataria-em-nova-ia/) | topico: geral | score: 92
-- [O que acontece quando seu celular para de receber atualizações?](https://canaltech.com.br/apps/o-que-acontece-quando-seu-celular-para-de-receber-atualizacoes/) | topico: geral | score: 85
-- [Mercado Livre derruba preço de smartwatch Huawei Watch GT 6; bateria de 21 dias](https://canaltech.com.br/smartwatch/mercado-livre-derruba-preco-de-smartwatch-huawei-watch-gt-6-bateria-de-21-dias/) | topico: geral | score: 100
-- [Vale a pena comprar celular Motorola nos EUA? Veja quanto você economiza](https://canaltech.com.br/smartphone/vale-a-pena-comprar-celular-motorola-nos-eua-veja-quanto-voce-economiza/) | topico: geral | score: 92
-- [Obama volta a falar sobre existência de aliens e se justifica](https://www.tecmundo.com.br/ciencia/410759-obama-volta-a-falar-sobre-existencia-de-aliens-e-se-justifica.htm) | topico: produtividade-dev | score: 100
-- [Wagner Moura entrega prêmio para Adolpho Veloso, por Sonhos de Trem, também indicado ao Oscar](https://www.tecmundo.com.br/minha-serie/603117-wagner-moura-entrega-premio-para-adolpho-veloso-por-sonhos-de-trem-tambem-indicado-ao-oscar.htm) | topico: geral | score: 92
-- [Razr 60 pelo menor preço: garanta o dobrável da Motorola com 41% OFF](https://www.tecmundo.com.br/guia-de-compras/410768-razr-60-pelo-menor-preco-garanta-o-dobravel-da-motorola-com-41-off.htm) | topico: geral | score: 100
-- [Kena Scars of Kosmora: Confira gameplay e tudo sobreo jogo para PC e PS5](https://www.tecmundo.com.br/voxel/503515-kena-scars-of-kosmora-confira-gameplay-e-tudo-sobreo-jogo-para-pc-e-ps5.htm) | topico: geral | score: 100
-- [Rede X volta a funcionar após interrupção nos EUA e no Reino Unido, segundo o Downdetector](https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/rede-x-volta-a-funcionar-apos-interrupcao-nos-eua-e-no-reino-unido-segundo-o-downdetector.htm) | topico: geral | score: 92
-- [Consórcio entre EAU e Iraque planeja cabo de dados de US$ 700 milhões para rivalizar com ligação entre Arábia Saudita e Síria](https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/consorcio-entre-eau-e-iraque-planeja-cabo-de-dados-de-us-700-milhoes-para-rivalizar-com-ligacao-entre-arabia-saudita-e-siria.htm) | topico: geral | score: 100
-- [Robôs humanóides chineses são centro das atenções no espetáculo do Ano Novo Lunar](https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/robos-humanoides-chineses-sao-centro-das-atencoes-no-espetaculo-do-ano-novo-lunar.htm) | topico: geral | score: 92
-- [Governo Lula definirá o que é pornografia em regra para idade na internet](https://www.uol.com.br/tilt/noticias/redacao/2026/02/16/governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet.htm) | topico: geral | score: 100
+- [Reino Unido vai endurecer regras para chatbots de IA após polêmica com o Grok, de Musk](https://g1.globo.com/tecnologia/noticia/2026/02/16/reino-unido-vai-endurecer-regras-para-chatbots-de-ia-apos-polemica-com-o-grok-de-musk.ghtml) | topico: agentes | score: 100
+- [EUA podem mudar o “CPF” de toda a população após falha de segurança massiva](https://tecnoblog.net/noticias/eua-podem-mudar-o-cpf-de-toda-a-populacao-apos-falha-de-seguranca-massiva/) | topico: infra-ia | score: 100
+- [Galaxy S25 Ultra (512 GB) tem impressionantes 51% OFF com cupom no Magalu](https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-impressionantes-51-off-com-cupom-no-magalu/) | topico: geral | score: 100
+- [iPhone 16 (256 GB) fica 40% mais barato com cupom na Amazon](https://tecnoblog.net/achados/iphone-16-256-gb-fica-40-mais-barato-com-cupom-na-amazon/) | topico: geral | score: 100
+- [iPhone 16e (256 GB) tem desconto histórico de 44% com cupom na Amazon](https://tecnoblog.net/achados/iphone-16e-256-gb-tem-desconto-historico-de-44-com-cupom-na-amazon/) | topico: geral | score: 92
+- [O Clube iFood vale a pena? Conheça os benefícios e preços](https://canaltech.com.br/apps/o-clube-ifood-vale-a-pena-conheca-os-beneficios-e-precos/) | topico: geral | score: 100
+- [Mercado Livre faz queima de iPhone 15 de 256 GB; melhor iPhone com preço no chão](https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-15-de-256-gb-melhor-iphone-com-preco-no-chao/) | topico: geral | score: 100
+- [MacBook 'baratinho' com chip de iPhone deve ser anunciado em breve](https://www.tecmundo.com.br/produto/410770-macbook-baratinho-com-chip-de-iphone-deve-ser-anunciado-em-breve.htm) | topico: produtividade-dev | score: 100
+- [Asus e Acer são temporariamente proibidas de vender PCs na Alemanha; entenda](https://www.tecmundo.com.br/mercado/410769-asus-e-acer-sao-temporariamente-proibidas-de-vender-pcs-na-alemanha-entenda.htm) | topico: geral | score: 92
+- [O Cavaleiro dos Sete Reinos episódio 5 tem uma das melhores notas da história de Game of Thrones](https://www.tecmundo.com.br/minha-serie/603119-o-cavaleiro-dos-sete-reinos-episodio-5-tem-uma-das-melhores-notas-da-historia-de-game-of-thrones.htm) | topico: geral | score: 92
+- [A história de GTA San Andreas! Relembre a narrativa de CJ antes de GTA 6](https://www.tecmundo.com.br/voxel/503156-a-historia-de-gta-san-andreas-relembre-a-narrativa-de-cj-antes-de-gta-6.htm) | topico: geral | score: 100
+- [Gambiarra coloca bateria absurda de 12.000 mAh em um iPhone; isso é possível?](https://www.tecmundo.com.br/produto/410761-gambiarra-coloca-bateria-absurda-de-12000-mah-em-um-iphone-isso-e-possivel.htm) | topico: produtividade-dev | score: 100
