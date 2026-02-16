@@ -1,6 +1,6 @@
 {
-  "slug": "como-desativar-o-botao-do-copilot-no-microsoft-edge",
-  "generated_at": "2026-02-16T23:03:56.787Z",
+  "slug": "youtube-da-novo-golpe-contra-o-adblock",
+  "generated_at": "2026-02-16T23:02:07.467Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 417,
+      "words": 334,
       "min": 220
     },
     {

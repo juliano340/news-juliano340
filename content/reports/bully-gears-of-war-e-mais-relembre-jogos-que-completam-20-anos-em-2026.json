@@ -1,6 +1,6 @@
 {
-  "slug": "como-desativar-o-botao-do-copilot-no-microsoft-edge",
-  "generated_at": "2026-02-16T23:03:56.787Z",
+  "slug": "bully-gears-of-war-e-mais-relembre-jogos-que-completam-20-anos-em-2026",
+  "generated_at": "2026-02-16T23:04:40.730Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 417,
+      "words": 385,
       "min": 220
     },
     {
