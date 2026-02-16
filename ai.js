@@ -303,9 +303,26 @@ class AIService {
     if (!this.editorialEnabled) return null;
 
     const startedAt = Date.now();
+    const maxTotalMs = Math.max(10000, config.AI_EDITORIAL_TOTAL_TIMEOUT_MS || 40000);
+    const timedOut = () => Date.now() - startedAt > maxTotalMs;
+
+    logger.info('IA editorial: classificando tipo de post', {
+      title: input.title,
+      source: input.source
+    });
+
     const classification = await this.classifyPostType(input);
     if (!classification) {
       logger.warn('Falha ao classificar tipo de post com IA');
+      return null;
+    }
+
+    if (timedOut()) {
+      logger.warn('Timeout total da IA editorial apos classificacao', {
+        elapsed_ms: Date.now() - startedAt,
+        limit_ms: maxTotalMs,
+        title: input.title
+      });
       return null;
     }
 
@@ -321,11 +338,26 @@ class AIService {
     };
 
     const prompt = this.buildMarkdownPrompt(payload);
-    const primaryContent = await this.tryMarkdownModel(this.editorialPrimaryModel, prompt);
+    logger.info('IA editorial: gerando markdown', {
+      title: input.title,
+      post_type: classification.post_type
+    });
+
+    const primaryContent = await this.tryMarkdownModel(this.editorialPrimaryModel, prompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
     const fallbackUsed = !primaryContent;
-    const generatedContent = primaryContent || await this.tryMarkdownModel(this.editorialFallbackModel, prompt);
+    const generatedContent = primaryContent || await this.tryMarkdownModel(this.editorialFallbackModel, prompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
     if (!generatedContent) {
       logger.warn('Falha ao gerar markdown editorial com IA');
+      return null;
+    }
+
+    if (timedOut()) {
+      logger.warn('Timeout total da IA editorial apos geracao', {
+        elapsed_ms: Date.now() - startedAt,
+        limit_ms: maxTotalMs,
+        title: input.title,
+        post_type: classification.post_type
+      });
       return null;
     }
 
@@ -333,8 +365,13 @@ class AIService {
       post_type: classification.post_type,
       markdown: generatedContent
     });
-    const reviewedPrimary = await this.tryMarkdownModel(this.editorialPrimaryModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 2000);
-    const reviewed = reviewedPrimary || await this.tryMarkdownModel(this.editorialFallbackModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 2000);
+    logger.info('IA editorial: revisando markdown', {
+      title: input.title,
+      post_type: classification.post_type
+    });
+
+    const reviewedPrimary = await this.tryMarkdownModel(this.editorialPrimaryModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
+    const reviewed = reviewedPrimary || await this.tryMarkdownModel(this.editorialFallbackModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 1400);
     if (!reviewed) {
       logger.warn('Falha na revisão editorial com IA');
       return null;

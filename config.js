@@ -21,6 +21,7 @@ module.exports = {
   AI_EDITORIAL_MODEL_PRIMARY: process.env.AI_EDITORIAL_MODEL_PRIMARY || 'qwen/qwen-2.5-72b-instruct:free',
   AI_EDITORIAL_MODEL_FALLBACK: process.env.AI_EDITORIAL_MODEL_FALLBACK || 'deepseek/deepseek-chat:free',
   AI_EDITORIAL_TIMEOUT_MS: parseNumber(process.env.AI_EDITORIAL_TIMEOUT_MS, 12000),
+  AI_EDITORIAL_TOTAL_TIMEOUT_MS: parseNumber(process.env.AI_EDITORIAL_TOTAL_TIMEOUT_MS, 40000),
   AI_EDITORIAL_MAX_RETRIES: parseNumber(process.env.AI_EDITORIAL_MAX_RETRIES, 1),
   AI_EDITORIAL_MAX_INPUT_CHARS: parseNumber(process.env.AI_EDITORIAL_MAX_INPUT_CHARS, 12000),
   OPENROUTER_HTTP_REFERER: process.env.OPENROUTER_HTTP_REFERER || 'https://juliano340.com',
