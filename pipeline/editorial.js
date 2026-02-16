@@ -95,6 +95,25 @@ class EditorialComposer {
     return selected;
   }
 
+  detectPostType(title, rawContent, sourceUrl = '') {
+    const text = `${String(title || '')} ${Utils.stripHtml(rawContent || '')}`.toLowerCase();
+    const url = String(sourceUrl || '').toLowerCase();
+
+    const isJobsUrl = /remotar|vagas|home-office|trabalho-remoto/.test(url);
+    const jobsSignals = [
+      'vagas',
+      'trabalho remoto',
+      'home office',
+      'candidate',
+      'candidatura',
+      'remotar',
+      'remoto internacional'
+    ].filter((signal) => text.includes(signal)).length;
+
+    if (isJobsUrl || jobsSignals >= 2) return 'job_roundup';
+    return 'standard';
+  }
+
   sentenceCandidates(text) {
     const cleaned = text.replace(/\s+/g, ' ').trim();
     if (!cleaned) return [];
@@ -318,6 +337,115 @@ class EditorialComposer {
     ].join('\n');
   }
 
+  buildJobRoundupHighlights(rawFormatted) {
+    const text = Utils.stripHtml(rawFormatted || '').toLowerCase();
+    const categoryMap = [
+      ['administrativa', 'Area administrativa e operacional'],
+      ['marketing', 'Funcoes de marketing e crescimento'],
+      ['vendas', 'Posicoes em vendas e relacionamento comercial'],
+      ['design', 'Oportunidades em design de produto e experiencia'],
+      ['produto', 'Vagas ligadas a produto e gestao de roadmap'],
+      ['ti', 'Posicoes tecnicas em TI e engenharia de software'],
+      ['engenheiro', 'Cargos para engenheiros e perfis tecnicos'],
+      ['backend', 'Vagas para backend e infraestrutura de aplicacoes']
+    ];
+
+    const picks = [];
+    for (const [keyword, label] of categoryMap) {
+      if (text.includes(keyword)) picks.push(`- ${label}.`);
+      if (picks.length >= 8) break;
+    }
+
+    if (picks.length === 0) {
+      return [
+        '- A lista inclui vagas internacionais com trabalho remoto para brasileiros.',
+        '- Ha oportunidades em diferentes niveis de senioridade e especialidades.',
+        '- A candidatura costuma ocorrer por links diretos na plataforma indicada na fonte.'
+      ].join('\n');
+    }
+
+    return picks.slice(0, 8).join('\n');
+  }
+
+  buildJobRoundupContent(post, title, rawFormatted, primarySource, summaryBullets = null) {
+    const summary = Array.isArray(summaryBullets) && summaryBullets.length >= 3
+      ? summaryBullets
+      : this.buildSummary(this.sentenceCandidates(rawFormatted), title);
+
+    const intro = [
+      `Saiu uma nova rodada de vagas em "${Utils.truncateText(title || 'trabalho remoto internacional', 90)}", com foco em oportunidades remotas e candidatura online.`,
+      'A leitura vale para quem quer filtrar melhor as opcoes, priorizar as vagas com mais aderencia e se candidatar com mais qualidade.'
+    ].join(' ');
+
+    const howTo = [
+      '- Abra a fonte primaria e filtre primeiro por area de atuacao e senioridade.',
+      '- Priorize vagas com requisitos que voce ja atende hoje para ganhar velocidade de candidatura.',
+      '- Ajuste CV, LinkedIn e portfolio para o contexto internacional antes de aplicar.',
+      '- Verifique idioma exigido, fuso horario e formato de contrato antes de enviar o perfil.',
+      '- Organize um rastreador simples com vaga, data de envio e status do processo.'
+    ].join('\n');
+
+    const checklist = [
+      '- CV em ingles com resultados objetivos e links validos.',
+      '- LinkedIn atualizado com resumo profissional e stack atual.',
+      '- Portfolio com 2 a 4 projetos relevantes para a vaga.',
+      '- Carta curta de apresentacao adaptada para cada candidatura.',
+      '- Confirmacao de idioma, fuso e disponibilidade para entrevistas.',
+      '- Validacao do tipo de contrato (contractor, PJ, CLT local ou equivalente).',
+      '- Planejamento de recebimento internacional (moeda, taxas e meios de pagamento).',
+      '- Checagem basica da empresa para evitar vagas falsas ou desatualizadas.'
+    ].join('\n');
+
+    const watch = [
+      '- Novas listas de vagas e atualizacoes de links de candidatura.',
+      '- Posicoes que costumam fechar rapido nas primeiras 48 a 72 horas.',
+      '- Mudancas de requisitos de idioma, senioridade ou localidade.',
+      '- Novas vagas em areas com maior demanda para remoto internacional.'
+    ].join('\n');
+
+    const faq = [
+      '### Preciso falar ingles para me candidatar?',
+      'Na maioria das vagas internacionais, sim. Mesmo quando a vaga aceita portugues, ingles funcional costuma ser diferencial no processo.',
+      '',
+      '### Fuso horario realmente importa?',
+      'Importa bastante. Muitas empresas pedem sobreposicao minima de horario para reunioes e colaboracao com o time.',
+      '',
+      '### Como receber em dolar ou euro trabalhando do Brasil?',
+      'Depende do tipo de contrato e da empresa. O essencial e confirmar meio de pagamento, taxas e obrigacoes fiscais antes de aceitar a proposta.',
+      '',
+      '### Como evitar vagas falsas?',
+      'Prefira links oficiais, valide dominio da empresa, desconfie de pedidos financeiros e confirme a vaga em canais institucionais.'
+    ].join('\n');
+
+    return [
+      intro,
+      '',
+      '## Resumo em 3 bullets',
+      ...summary,
+      '',
+      '## Como usar esta lista',
+      howTo,
+      '',
+      '## Destaques rapidos',
+      this.buildJobRoundupHighlights(rawFormatted),
+      '',
+      '## Checklist de candidatura',
+      checklist,
+      '',
+      '## O que observar nos proximos dias',
+      watch,
+      '',
+      '## FAQ',
+      faq,
+      '',
+      '## Fonte e transparencia',
+      this.buildSourceTransparency(post, primarySource),
+      '',
+      '## Por que isso importa',
+      'Quando a curadoria de vagas vem organizada, o candidato ganha tempo, evita candidatura no escuro e aumenta a chance de entrar em processos com melhor aderencia ao seu perfil.'
+    ].join('\n');
+  }
+
   normalizeAIBullets(summaryBullets) {
     const cleaned = (summaryBullets || []).map((line) => String(line || '').trim()).filter(Boolean);
     const list = [...cleaned];
@@ -383,7 +511,11 @@ class EditorialComposer {
     return list.slice(0, 3).map((line) => `- ${Utils.truncateText(line, 170)}`).join('\n');
   }
 
-  buildHeuristicContent(post, topic, title, rawFormatted, primarySource) {
+  buildHeuristicContent(post, topic, title, rawFormatted, primarySource, postType = 'standard') {
+    if (postType === 'job_roundup') {
+      return this.buildJobRoundupContent(post, title, rawFormatted, primarySource);
+    }
+
     const sentences = this.sentenceCandidates(rawFormatted);
     const domain = this.detectDomain(title, rawFormatted, post.original_url || post.source_url || '');
     const summary = this.buildSummary(sentences, title);
@@ -421,7 +553,23 @@ class EditorialComposer {
     ].join('\n');
   }
 
-  buildAIContent(post, aiDraft, primarySource) {
+  buildAIContent(post, aiDraft, primarySource, postType = 'standard') {
+    if (postType === 'job_roundup') {
+      const summary = this.normalizeAIBullets(aiDraft.summary_bullets);
+      return {
+        content: this.buildJobRoundupContent(post, post.title, post.raw_content || post.content || '', primarySource, summary),
+        primarySource: primarySource,
+        aiMetadata: {
+          model_used: aiDraft.model_used || '',
+          latency_ms: aiDraft.latency_ms || null,
+          fallback_used: Boolean(aiDraft.fallback_used),
+          editorial_confidence: aiDraft.editorial_confidence || 0,
+          risk_flags: aiDraft.risk_flags || [],
+          domain: 'negocios'
+        }
+      };
+    }
+
     const summary = this.normalizeAIBullets(aiDraft.summary_bullets);
     const domain = this.detectDomain(post.title, post.raw_content || post.content || '', post.original_url || post.source_url || '');
     const intro = this.buildIntro(domain, post.title);
@@ -479,6 +627,7 @@ class EditorialComposer {
 
     let { topic, subtopic } = this.detectTopic(post.title, rawFormatted);
     const domain = this.detectDomain(post.title, rawFormatted, post.original_url || post.source_url || '');
+    const postType = this.detectPostType(post.title, rawFormatted, post.original_url || post.source_url || '');
     if (domain !== 'ia-dev') {
       topic = 'geral';
       subtopic = 'geral';
@@ -498,11 +647,12 @@ class EditorialComposer {
       date: post.date,
       topic,
       domain,
+      post_type: postType,
       raw_content: Utils.stripHtml(rawFormatted)
     });
 
     if (aiDraft) {
-      const aiOutput = this.buildAIContent({ ...post, topic, domain }, aiDraft, primarySource);
+      const aiOutput = this.buildAIContent({ ...post, topic, domain }, aiDraft, primarySource, postType);
       content = aiOutput.content;
       resolvedPrimarySource = aiOutput.primarySource;
       editorialMode = aiDraft.fallback_used ? 'ai_fallback_model' : 'ai_primary_model';
@@ -521,7 +671,7 @@ class EditorialComposer {
         editorial_mode: 'blocked'
       };
     } else {
-      content = this.buildHeuristicContent(post, topic, post.title, rawFormatted, primarySource);
+      content = this.buildHeuristicContent(post, topic, post.title, rawFormatted, primarySource, postType);
       editorialMode = 'heuristic';
     }
 
@@ -530,6 +680,7 @@ class EditorialComposer {
       content,
       raw_formatted: rawFormatted,
       domain,
+      post_type: postType,
       topic,
       subtopic,
       primary_source: resolvedPrimarySource,

@@ -1,7 +1,19 @@
 const config = require('../config');
 
 class QualityGate {
-  requiredSections() {
+  requiredSections(postType = 'standard') {
+    if (postType === 'job_roundup') {
+      return [
+        '## Resumo em 3 bullets',
+        '## Como usar esta lista',
+        '## Destaques rapidos',
+        '## Checklist de candidatura',
+        '## O que observar nos proximos dias',
+        '## FAQ',
+        '## Fonte e transparencia'
+      ];
+    }
+
     return [
       '## Resumo em 3 bullets',
       '## Contexto',
@@ -119,11 +131,40 @@ class QualityGate {
     return forcedSignals.some((signal) => body.includes(signal));
   }
 
+  hasJobRoundupBoilerplate(content) {
+    const text = String(content || '').toLowerCase();
+    const forbidden = [
+      'movimentacao do mercado sinaliza',
+      'posicionamento no setor',
+      'movimentos de concorrentes',
+      'resultados financeiros',
+      'mudancas regulatorias'
+    ];
+    return forbidden.some((term) => text.includes(term));
+  }
+
+  sectionSimilarity(content, headingA, headingB) {
+    const a = this.sectionText(content, headingA).toLowerCase().replace(/\s+/g, ' ').trim();
+    const b = this.sectionText(content, headingB).toLowerCase().replace(/\s+/g, ' ').trim();
+    if (!a || !b) return 0;
+    if (a === b) return 1;
+
+    const tokensA = new Set(a.split(' ').filter(Boolean));
+    const tokensB = new Set(b.split(' ').filter(Boolean));
+    let intersection = 0;
+    for (const token of tokensA) {
+      if (tokensB.has(token)) intersection += 1;
+    }
+    const union = new Set([...tokensA, ...tokensB]).size || 1;
+    return intersection / union;
+  }
+
   evaluate(post, editorial) {
     const reasons = [];
     const warnings = [];
     const checks = [];
     let score = 0;
+    const postType = String(post.post_type || editorial.post_type || 'standard').toLowerCase();
     const content = editorial.content || '';
     const limits = config.QUALITY_LIMITS;
     const registerCheck = (id, passed, level, reason, details = {}) => {
@@ -135,7 +176,7 @@ class QualityGate {
       checks.push({ id, status: passed ? 'PASS' : 'FAIL', level, reason, ...details });
     };
 
-    const hasAllSections = this.requiredSections().every((section) => content.includes(section));
+    const hasAllSections = this.requiredSections(postType).every((section) => content.includes(section));
     registerCheck('sections', hasAllSections, 'BLOCK', 'secoes_obrigatorias_ausentes');
 
     const bullets = this.countSummaryBullets(content);
@@ -144,10 +185,25 @@ class QualityGate {
       min: limits.summary_bullets
     });
 
-    const watchBullets = this.countSectionBullets(content, '## O que vale acompanhar');
+    const watchHeading = postType === 'job_roundup' ? '## O que observar nos proximos dias' : '## O que vale acompanhar';
+    const watchBullets = this.countSectionBullets(content, watchHeading);
     registerCheck('watch_bullets', watchBullets >= 3 && watchBullets <= 5, 'BLOCK', 'observacao_sem_3_a_5_bullets', {
       bullets: watchBullets
     });
+
+    if (postType === 'job_roundup') {
+      const faqCount = this.countFaqQuestions(content);
+      registerCheck('faq_count', faqCount >= 4, 'BLOCK', 'faq_job_roundup_insuficiente', {
+        count: faqCount,
+        min: 4
+      });
+
+      const duplicated = this.sectionSimilarity(content, '## O que fazer agora', '## Checklist de candidatura') >= 0.85;
+      registerCheck('non_duplicate_sections', !duplicated, 'BLOCK', 'secoes_duplicadas');
+
+      const hasBoilerplate = this.hasJobRoundupBoilerplate(content);
+      registerCheck('job_roundup_boilerplate', !hasBoilerplate, 'BLOCK', 'boilerplate_inadequado_para_job_roundup');
+    }
 
     const hasPrimarySource = editorial.primary_source && /^https?:\/\//i.test(editorial.primary_source);
     registerCheck('primary_source', hasPrimarySource, 'BLOCK', 'fonte_primaria_invalida');

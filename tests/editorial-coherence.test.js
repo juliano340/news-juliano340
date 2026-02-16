@@ -115,3 +115,30 @@ test('composer evita viés ia-dev em pauta de consumo de hardware', async () => 
     config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
+
+test('composer usa template job roundup com seções orientadas a candidatura', async () => {
+  const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
+  config.AI_EDITORIAL_REQUIRED = false;
+  ai.generateEditorialDraft = async () => null;
+
+  try {
+    const result = await editorial.compose({
+      title: 'Home office: 44 vagas para trabalho remoto internacional [15/02]',
+      raw_content: '<p>Lista com 44 vagas remotas internacionais para brasileiros em areas como marketing, design, produto e TI, com links para candidatura na Remotar.</p>',
+      source: 'Tecmundo',
+      original_url: 'https://www.tecmundo.com.br/mercado/410741-home-office-44-vagas-para-trabalho-remoto-internacional-1502.htm',
+      date: '2026-02-16T00:00:00.000Z'
+    });
+
+    assert.equal(result.post_type, 'job_roundup');
+    assert.ok(result.content.includes('## Como usar esta lista'));
+    assert.ok(result.content.includes('## Checklist de candidatura'));
+    assert.ok(result.content.includes('## FAQ'));
+    assert.equal(result.content.includes('movimentos de concorrentes'), false);
+    assert.equal(result.content.includes('resultados financeiros'), false);
+  } finally {
+    ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    config.AI_EDITORIAL_REQUIRED = originalAIRequired;
+  }
+});

@@ -3,12 +3,22 @@ const path = require('path');
 
 const config = require('../config');
 
-const REQUIRED_SECTIONS = [
+const REQUIRED_SECTIONS_STANDARD = [
   '## Resumo em 3 bullets',
   '## Contexto',
   '## Insights e implicacoes',
   '## O que fazer agora',
   '## O que vale acompanhar',
+  '## Fonte e transparencia'
+];
+
+const REQUIRED_SECTIONS_JOB = [
+  '## Resumo em 3 bullets',
+  '## Como usar esta lista',
+  '## Destaques rapidos',
+  '## Checklist de candidatura',
+  '## O que observar nos proximos dias',
+  '## FAQ',
   '## Fonte e transparencia'
 ];
 
@@ -42,9 +52,15 @@ function hasNewContract(frontmatter) {
 }
 
 function countWatchBullets(body) {
-  const sectionMatch = body.match(/## O que vale acompanhar\n([\s\S]*?)(\n## |$)/);
+  const sectionMatch = body.match(/## O que vale acompanhar\n([\s\S]*?)(\n## |$)/) || body.match(/## O que observar nos proximos dias\n([\s\S]*?)(\n## |$)/);
   if (!sectionMatch) return 0;
   return (sectionMatch[1].match(/^\s*-\s+/gm) || []).length;
+}
+
+function countFaqQuestions(body) {
+  const sectionMatch = body.match(/## FAQ\n([\s\S]*?)(\n## |$)/);
+  if (!sectionMatch) return 0;
+  return (sectionMatch[1].match(/^\s*###\s+/gm) || []).length;
 }
 
 function validatePost(file, frontmatter, body) {
@@ -88,11 +104,19 @@ function validatePost(file, frontmatter, body) {
     }
   }
 
-  for (const heading of REQUIRED_SECTIONS) {
+  const postType = String(frontmatter.post_type || 'standard').toLowerCase();
+  const requiredSections = postType === 'job_roundup' ? REQUIRED_SECTIONS_JOB : REQUIRED_SECTIONS_STANDARD;
+
+  for (const heading of requiredSections) {
     if (!body.includes(heading)) {
       const legacyChecklist = heading === '## O que fazer agora' && body.includes('## O que muda na pratica');
       if (!legacyChecklist) errors.push(`secao_ausente:${heading}`);
     }
+  }
+
+  if (postType === 'job_roundup') {
+    const faqCount = countFaqQuestions(body);
+    if (faqCount < 4) errors.push(`faq_job_roundup_insuficiente(${faqCount})`);
   }
 
   const watchBullets = countWatchBullets(body);
