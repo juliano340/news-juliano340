@@ -198,6 +198,155 @@ class AIService {
     ].join('\n');
   }
 
+  buildStructuredArticlePrompt(payload) {
+    const postType = this.normalizePostType(payload.post_type || 'standard');
+
+    const schema = postType === 'job_roundup'
+      ? `{
+  "title": "...",
+  "intro": "...",
+  "summary_bullets": ["...", "...", "..."],
+  "how_to_use": ["...", "...", "...", "..."],
+  "highlights": ["...", "...", "...", "...", "...", "..."],
+  "application_checklist": ["...", "...", "...", "...", "...", "...", "...", "..."],
+  "watch_items": ["...", "...", "...", "..."],
+  "faq": [
+    {"q": "...", "a": "..."},
+    {"q": "...", "a": "..."},
+    {"q": "...", "a": "..."},
+    {"q": "...", "a": "..."}
+  ],
+  "why_it_matters": "..."
+}`
+      : `{
+  "title": "...",
+  "intro": "...",
+  "summary_bullets": ["...", "...", "..."],
+  "context": "...",
+  "insights": "...",
+  "do_now": ["...", "...", "..."],
+  "watch_items": ["...", "...", "..."],
+  "why_it_matters": "..."
+}`;
+
+    return [
+      'Você é editor de notícias. Gere conteúdo em JSON estruturado para montagem do post.',
+      'Use Português do Brasil natural.',
+      'Não copie frases literais da fonte e não invente fatos.',
+      'Responda SOMENTE JSON válido no schema exigido.',
+      `Tipo do post: ${postType}`,
+      'Schema obrigatório:',
+      schema,
+      'Regras de estilo:',
+      '- Frases curtas e objetivas.',
+      '- Bullets com no máximo 14 palavras.',
+      '- Sem reticências no final de bullets.',
+      '- Evitar jargão desnecessário.',
+      '',
+      'Entrada:',
+      JSON.stringify(payload)
+    ].join('\n');
+  }
+
+  normalizeStructuredArticle(parsed, postType, sourceUrl) {
+    if (!parsed || typeof parsed !== 'object') return null;
+
+    const title = String(parsed.title || '').trim();
+    const intro = String(parsed.intro || '').trim();
+    const summaryBullets = this.normalizeStringList(parsed.summary_bullets, 3);
+    const whyItMatters = String(parsed.why_it_matters || '').trim();
+
+    if (!title || !intro || summaryBullets.length < 3 || !whyItMatters) return null;
+
+    if (postType === 'job_roundup') {
+      const howToUse = this.normalizeStringList(parsed.how_to_use, 6);
+      const highlights = this.normalizeStringList(parsed.highlights, 8);
+      const checklist = this.normalizeStringList(parsed.application_checklist, 12);
+      const watchItems = this.normalizeStringList(parsed.watch_items, 6);
+      const faqRaw = Array.isArray(parsed.faq) ? parsed.faq : [];
+      const faq = faqRaw
+        .map((item) => ({
+          q: String(item?.q || '').trim(),
+          a: String(item?.a || '').trim()
+        }))
+        .filter((item) => item.q && item.a)
+        .slice(0, 4);
+
+      if (howToUse.length < 4 || highlights.length < 6 || checklist.length < 8 || watchItems.length < 4 || faq.length < 4) {
+        return null;
+      }
+
+      return {
+        content: [
+          `# ${title}`,
+          intro,
+          '',
+          '## Resumo em 3 bullets',
+          ...summaryBullets.map((line) => `- ${line}`),
+          '',
+          '## Como usar esta lista',
+          ...howToUse.map((line) => `- ${line}`),
+          '',
+          '## Destaques rapidos',
+          ...highlights.map((line) => `- ${line}`),
+          '',
+          '## Checklist de candidatura',
+          ...checklist.map((line) => `- ${line}`),
+          '',
+          '## O que observar nos proximos dias',
+          ...watchItems.map((line) => `- ${line}`),
+          '',
+          '## FAQ',
+          ...faq.flatMap((item) => [`### ${item.q.replace(/^#+\s*/, '')}`, item.a, '']),
+          '## Fonte e transparencia',
+          `- Fonte primaria: ${sourceUrl || ''}`,
+          '- Conteudo gerado com apoio de IA e revisado automaticamente.',
+          '',
+          '## Por que isso importa',
+          whyItMatters
+        ].join('\n'),
+        post_type: 'job_roundup'
+      };
+    }
+
+    const context = String(parsed.context || '').trim();
+    const insights = String(parsed.insights || '').trim();
+    const doNow = this.normalizeStringList(parsed.do_now, 5);
+    const watchItems = this.normalizeStringList(parsed.watch_items, 6);
+
+    if (!context || !insights || doNow.length < 3 || watchItems.length < 3) return null;
+
+    return {
+      content: [
+        `# ${title}`,
+        intro,
+        '',
+        '## Resumo em 3 bullets',
+        ...summaryBullets.map((line) => `- ${line}`),
+        '',
+        '## Contexto',
+        context,
+        '',
+        '## Insights e implicacoes',
+        insights,
+        '',
+        '## O que fazer agora',
+        ...doNow.map((line) => `- ${line}`),
+        '',
+        '## O que vale acompanhar',
+        ...watchItems.map((line) => `- ${line}`),
+        '',
+        '## Fonte e transparencia',
+        `- Fonte primaria: ${sourceUrl || ''}`,
+        '- Conteudo gerado com apoio de IA e revisado automaticamente.',
+        '',
+        '## Por que isso importa',
+        whyItMatters
+      ].join('\n'),
+      post_type: postType
+    };
+  }
+
   buildReviewPrompt(payload) {
     return [
       'Você é revisor final de qualidade editorial.',
@@ -210,6 +359,45 @@ class AIService {
       `Tipo do post: ${payload.post_type}`,
       'Markdown de entrada:',
       payload.markdown
+    ].join('\n');
+  }
+
+  buildRepairPrompt(payload) {
+    const template = payload.post_type === 'job_roundup'
+      ? [
+        '## Resumo em 3 bullets',
+        '## Como usar esta lista',
+        '## Destaques rapidos',
+        '## Checklist de candidatura',
+        '## O que observar nos proximos dias',
+        '## FAQ',
+        '## Fonte e transparencia',
+        '## Por que isso importa'
+      ].join('\n')
+      : [
+        '## Resumo em 3 bullets',
+        '## Contexto',
+        '## Insights e implicacoes',
+        '## O que fazer agora',
+        '## O que vale acompanhar',
+        '## Fonte e transparencia',
+        '## Por que isso importa'
+      ].join('\n');
+
+    return [
+      'Reestruture o markdown abaixo para seguir EXATAMENTE os headings obrigatorios.',
+      'Nao invente fatos.',
+      'Preserve o conteúdo util e complete seções faltantes com texto curto e coerente.',
+      'Retorne somente markdown.',
+      '',
+      `Tipo: ${payload.post_type}`,
+      'Headings obrigatorios:',
+      template,
+      '',
+      'Markdown atual:',
+      payload.markdown,
+      '',
+      `Fonte primaria: ${payload.source_url || ''}`
     ].join('\n');
   }
 
@@ -339,40 +527,74 @@ class AIService {
       article_excerpt: String(input.raw_content || '').replace(/\s+/g, ' ').trim().slice(0, config.AI_EDITORIAL_MAX_INPUT_CHARS)
     };
 
-    const prompt = this.buildMarkdownPrompt(payload);
+    const prompt = this.buildStructuredArticlePrompt(payload);
     logger.info('IA editorial: gerando markdown', {
       title: input.title,
       post_type: classification.post_type
     });
 
-    const primaryContent = await this.tryMarkdownModel(
+    const primaryJson = await this.tryJsonModel(
       this.editorialPrimaryModel,
       prompt,
       config.AI_EDITORIAL_TIMEOUT_MS,
-      Math.max(300, config.AI_EDITORIAL_MAX_TOKENS)
+      Math.max(350, config.AI_EDITORIAL_MAX_TOKENS)
     );
-    const fallbackUsed = !primaryContent;
-    const generatedContent = primaryContent || await this.tryMarkdownModel(
+    const fallbackUsed = !primaryJson;
+    const parsedContent = primaryJson || await this.tryJsonModel(
       this.editorialFallbackModel,
       prompt,
       config.AI_EDITORIAL_TIMEOUT_MS,
-      Math.max(300, config.AI_EDITORIAL_MAX_TOKENS)
+      Math.max(350, config.AI_EDITORIAL_MAX_TOKENS)
     );
-    if (!generatedContent) {
+    if (!parsedContent) {
       logger.warn('Falha ao gerar markdown editorial com IA');
       return null;
     }
 
+    const structured = this.normalizeStructuredArticle(
+      parsedContent,
+      classification.post_type,
+      input.original_url || input.source_url || ''
+    );
+    if (!structured) {
+      logger.warn('Falha ao normalizar resposta estruturada da IA', {
+        post_type: classification.post_type,
+        title: input.title
+      });
+      return null;
+    }
+    const generatedContent = structured.content;
+
     if (classification.post_type === 'job_roundup' || config.AI_EDITORIAL_SKIP_REVIEW) {
-      const generatedValid = this.validateMarkdownStructure(generatedContent, classification.post_type);
+      let finalContent = generatedContent;
+      let generatedValid = this.validateMarkdownStructure(finalContent, classification.post_type);
       if (!generatedValid) {
-        logger.warn('Estrutura markdown inválida na geracao editorial', { post_type: classification.post_type });
-        return null;
+        logger.warn('Estrutura markdown inválida na geracao; tentando reparo', { post_type: classification.post_type });
+        const repairPrompt = this.buildRepairPrompt({
+          post_type: classification.post_type,
+          markdown: finalContent,
+          source_url: input.original_url || input.source_url || ''
+        });
+        const repaired = await this.tryMarkdownModel(
+          this.editorialPrimaryModel,
+          repairPrompt,
+          Math.min(config.AI_EDITORIAL_TIMEOUT_MS, 7000),
+          Math.max(350, Math.floor(config.AI_EDITORIAL_MAX_TOKENS * 0.9))
+        );
+        if (repaired) {
+          finalContent = repaired;
+          generatedValid = this.validateMarkdownStructure(finalContent, classification.post_type);
+        }
+
+        if (!generatedValid) {
+          logger.warn('Falha no reparo de estrutura markdown', { post_type: classification.post_type });
+          return null;
+        }
       }
 
       return {
-        content: generatedContent,
-        post_type: classification.post_type,
+        content: finalContent,
+        post_type: structured.post_type || classification.post_type,
         editorial_confidence: classification.confidence,
         risk_flags: [],
         model_used: fallbackUsed ? this.editorialFallbackModel : this.editorialPrimaryModel,
