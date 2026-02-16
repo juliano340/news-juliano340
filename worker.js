@@ -146,6 +146,7 @@ class NewsWorker {
         const urlMatch = content.match(/original_url:\s*"([^"]+)"/);
         const titleMatch = content.match(/title:\s*"([^"]+)"/);
         const topicMatch = content.match(/topic:\s*"([^"]*)"/);
+        const domainMatch = content.match(/domain:\s*"([^"]*)"/);
         const dateMatch = content.match(/date:\s*"([^"]+)"/);
         const tagsMatch = content.match(/tags:\s*\[([^\]]*)\]/);
 
@@ -165,6 +166,7 @@ class NewsWorker {
             slug: slugMatch[1],
             title: titleMatch[1],
             topic: topicMatch ? topicMatch[1] : '',
+            domain: domainMatch ? domainMatch[1] : '',
             date: dateMatch ? dateMatch[1] : '',
             tags
           });
@@ -183,6 +185,7 @@ class NewsWorker {
       .filter((item) => item.slug !== post.slug)
       .map((item) => {
         let score = 0;
+        if (item.domain && post.domain && item.domain === post.domain) score += 5;
         if (item.topic && post.topic && item.topic === post.topic) score += 5;
 
         const overlap = (item.tags || []).filter((tag) => postTags.has(tag)).length;
@@ -277,6 +280,7 @@ class NewsWorker {
       `image: "${this.escapeYaml(post.image_url || '')}"\n` +
       `slug: "${this.escapeYaml(post.slug)}"\n` +
       `topic: "${this.escapeYaml(post.topic || '')}"\n` +
+      `domain: "${this.escapeYaml(post.domain || '')}"\n` +
       `subtopic: "${this.escapeYaml(post.subtopic || '')}"\n` +
       `content_kind: "${this.escapeYaml(post.content_kind || 'news')}"\n` +
       `editorial_score: "${this.escapeYaml(post.editorial_score || '')}"\n` +
@@ -325,6 +329,7 @@ class NewsWorker {
         slug: post.slug,
         title: post.title,
         topic: post.topic || '',
+        domain: post.domain || '',
         date: post.date,
         tags: post.tags || []
       });
@@ -399,13 +404,13 @@ class NewsWorker {
       };
     }
 
-    const relatedLinks = this.getRelatedLinks({ ...post, topic: curated.topic }, 3);
+    const relatedLinks = this.getRelatedLinks({ ...post, topic: curated.topic, domain: curated.domain || '' }, 3);
     const curatedWithLinks = {
       ...curated,
       content: this.appendRelatedLinks(curated.content, relatedLinks)
     };
 
-    const qualityCheck = quality.evaluate(post, curatedWithLinks);
+    const qualityCheck = quality.evaluate({ ...post, domain: curated.domain || '' }, curatedWithLinks);
 
     if (qualityCheck.status === 'BLOCK') {
       return {
@@ -437,6 +442,7 @@ class NewsWorker {
         summary_text: quality.sectionText(curatedWithLinks.content, '## Resumo em 3 bullets').replace(/^\s*-\s+/gm, '').trim(),
         content: curatedWithLinks.content,
         topic: curated.topic,
+        domain: curated.domain || '',
         subtopic: curated.subtopic,
         content_kind: curated.content_kind,
         primary_source: curated.primary_source,

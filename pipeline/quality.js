@@ -104,6 +104,22 @@ class QualityGate {
     return titleLooksEntertainment && devCount >= 2 && !bodyHasEntertainment;
   }
 
+  hasForcedIABias(post, content) {
+    const domain = String(post.domain || '').toLowerCase();
+    if (!domain || domain === 'ia-dev') return false;
+
+    const body = String(content || '').toLowerCase();
+    const forcedSignals = [
+      'governanca de implementacao',
+      'programas que dependem de modelos generativos',
+      'mapear onde o produto depende de um unico provedor de modelo',
+      'rever arquitetura, custo, risco e governanca',
+      'times que usam ia no dia a dia'
+    ];
+
+    return forcedSignals.some((signal) => body.includes(signal));
+  }
+
   evaluate(post, editorial) {
     const reasons = [];
     const warnings = [];
@@ -165,6 +181,9 @@ class QualityGate {
 
     const semanticMismatch = this.hasSemanticMismatch(post, content);
     registerCheck('semantic_alignment', !semanticMismatch, 'BLOCK', 'desalinhamento_semantico_titulo_corpo');
+
+    const forcedIABias = this.hasForcedIABias(post, content);
+    registerCheck('forced_ia_bias', !forcedIABias, 'BLOCK', 'viés_ia_forcado_em_tema_nao_ia');
 
     const internalLinks = this.countInternalLinks(content);
     registerCheck('internal_links', internalLinks >= limits.min_internal_links, 'WARN', 'poucos_links_internos', {

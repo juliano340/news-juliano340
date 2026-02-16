@@ -41,6 +41,14 @@ const DOMAIN_RULES = {
   negocios: ['mercado', 'investimento', 'acoes', 'receita', 'fusao', 'aquisicao', 'preco', 'contrato']
 };
 
+const DOMAIN_URL_HINTS = {
+  games: ['/voxel/', '/games/', '/jogos/'],
+  entretenimento: ['/minha-serie/', '/cinema/', '/series/', '/entretenimento/'],
+  negocios: ['/mercado/', '/negocios/'],
+  hardware: ['/hardware/', '/tablet/', '/smartphone/', '/notebook/'],
+  seguranca: ['/seguranca/', '/privacidade/']
+};
+
 class EditorialComposer {
   detectTopic(title, rawContent) {
     const text = `${title || ''} ${Utils.stripHtml(rawContent || '')}`.toLowerCase();
@@ -59,17 +67,25 @@ class EditorialComposer {
     return { topic: best.topic, subtopic: best.subtopic };
   }
 
-  detectDomain(title, rawContent, topic) {
-    if (['llms', 'agentes', 'frameworks', 'infra-ia', 'seguranca-ia', 'produtividade-dev'].includes(topic)) {
-      return 'ia-dev';
+  detectDomain(title, rawContent, sourceUrl = '') {
+    const titleText = String(title || '').toLowerCase();
+    const bodyText = Utils.stripHtml(rawContent || '').toLowerCase();
+    const text = `${titleText} ${bodyText}`;
+    const lowerUrl = String(sourceUrl || '').toLowerCase();
+
+    for (const [domain, urlHints] of Object.entries(DOMAIN_URL_HINTS)) {
+      if (urlHints.some((hint) => lowerUrl.includes(hint))) {
+        return domain;
+      }
     }
 
-    const text = `${title || ''} ${Utils.stripHtml(rawContent || '')}`.toLowerCase();
     let selected = 'geral';
     let score = 0;
 
     for (const [domain, keywords] of Object.entries(DOMAIN_RULES)) {
-      const matches = keywords.filter((keyword) => text.includes(keyword)).length;
+      const titleMatches = keywords.filter((keyword) => titleText.includes(keyword)).length;
+      const bodyMatches = keywords.filter((keyword) => bodyText.includes(keyword)).length;
+      const matches = (titleMatches * 3) + bodyMatches;
       if (matches > score) {
         score = matches;
         selected = domain;
@@ -307,9 +323,40 @@ class EditorialComposer {
   normalizeAIActions(actions) {
     const list = (actions || []).map((line) => String(line || '').trim()).filter(Boolean);
     while (list.length < 3) {
-      list.push('Monitorar atualizacoes e adaptar backlog tecnico com base no impacto para o produto.');
+      list.push('Monitorar atualizacoes e adaptar os proximos passos com base no impacto para o publico.');
     }
     return list.slice(0, 3).map((line) => `- ${Utils.truncateText(line, 140)}`).join('\n');
+  }
+
+  hasForcedIABias(text) {
+    const value = String(text || '').toLowerCase();
+    const signals = [
+      'governanca de implementacao',
+      'provedor de modelo',
+      'modelos generativos',
+      'backlog tecnico',
+      'times que usam ia',
+      'arquitetura de ia'
+    ];
+    return signals.some((signal) => value.includes(signal));
+  }
+
+  pickWhyMatters(domain, aiWhyMatters, title) {
+    const candidate = Utils.truncateText(String(aiWhyMatters || '').trim(), 700);
+    if (!candidate) return this.buildWhyMatters(domain, title);
+    if (domain !== 'ia-dev' && this.hasForcedIABias(candidate)) {
+      return this.buildWhyMatters(domain, title);
+    }
+    return candidate;
+  }
+
+  pickPractical(domain, aiActions) {
+    const candidate = this.normalizeAIActions(aiActions);
+    if (!candidate) return this.buildPracticalImpact(domain);
+    if (domain !== 'ia-dev' && this.hasForcedIABias(candidate)) {
+      return this.buildPracticalImpact(domain);
+    }
+    return candidate;
   }
 
   normalizeAIContext(contextBullets, post) {
@@ -330,7 +377,7 @@ class EditorialComposer {
 
   buildHeuristicContent(post, topic, title, rawFormatted, primarySource) {
     const sentences = this.sentenceCandidates(rawFormatted);
-    const domain = this.detectDomain(title, rawFormatted, topic);
+    const domain = this.detectDomain(title, rawFormatted, post.original_url || post.source_url || '');
     const summary = this.buildSummary(sentences, title);
     const intro = this.buildIntro(domain, title);
     const whyMatters = this.buildWhyMatters(domain, title);
@@ -365,19 +412,19 @@ class EditorialComposer {
       '## Fonte e transparencia',
       sourceTransparency,
       '',
-      '## Por que isso importa para devs',
+      '## Por que isso importa',
       whyMatters
     ].join('\n');
   }
 
   buildAIContent(post, aiDraft, primarySource) {
     const summary = this.normalizeAIBullets(aiDraft.summary_bullets);
-    const domain = this.detectDomain(post.title, post.raw_content || post.content || '', post.topic);
+    const domain = this.detectDomain(post.title, post.raw_content || post.content || '', post.original_url || post.source_url || '');
     const intro = this.buildIntro(domain, post.title);
-    const whyMatters = Utils.truncateText(String(aiDraft.why_matters || '').trim(), 700);
-    const practical = this.normalizeAIActions(aiDraft.practical_actions);
+    const whyMatters = this.pickWhyMatters(domain, aiDraft.why_matters, post.title);
+    const practical = this.pickPractical(domain, aiDraft.practical_actions);
     const context = this.buildContext(domain, post.title);
-    const checklist = this.buildDeveloperChecklist(domain);
+    const checklist = practical;
     const watchList = this.buildWatchList(domain);
     const faq = this.buildFaq(domain, post.title);
     const resolvedSource = aiDraft.source_reference && /^https?:\/\//i.test(aiDraft.source_reference)
@@ -410,7 +457,7 @@ class EditorialComposer {
         '## Fonte e transparencia',
         sourceTransparency,
         '',
-        '## Por que isso importa para devs',
+        '## Por que isso importa',
         whyMatters
       ].join('\n'),
       primarySource: resolvedSource,
@@ -430,7 +477,12 @@ class EditorialComposer {
       heroImageUrl: post.image_url || ''
     });
 
-    const { topic, subtopic } = this.detectTopic(post.title, rawFormatted);
+    let { topic, subtopic } = this.detectTopic(post.title, rawFormatted);
+    const domain = this.detectDomain(post.title, rawFormatted, post.original_url || post.source_url || '');
+    if (domain !== 'ia-dev') {
+      topic = 'geral';
+      subtopic = 'geral';
+    }
     const primarySource = post.original_url || post.source_url || '';
 
     let content = '';
@@ -445,11 +497,12 @@ class EditorialComposer {
       original_url: post.original_url,
       date: post.date,
       topic,
+      domain,
       raw_content: Utils.stripHtml(rawFormatted)
     });
 
     if (aiDraft) {
-      const aiOutput = this.buildAIContent({ ...post, topic }, aiDraft, primarySource);
+      const aiOutput = this.buildAIContent({ ...post, topic, domain }, aiDraft, primarySource);
       content = aiOutput.content;
       resolvedPrimarySource = aiOutput.primarySource;
       editorialMode = aiDraft.fallback_used ? 'ai_fallback_model' : 'ai_primary_model';
@@ -476,6 +529,7 @@ class EditorialComposer {
       blocked: false,
       content,
       raw_formatted: rawFormatted,
+      domain,
       topic,
       subtopic,
       primary_source: resolvedPrimarySource,

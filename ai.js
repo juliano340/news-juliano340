@@ -118,6 +118,8 @@ class AIService {
       '- why_matters: 1 parágrafo coeso, concreto, sem repetir os bullets.',
       '- practical_actions: exatamente 3 acoes praticas e coerentes com o tema da noticia.',
       '- context_bullets: 2 ou 3 bullets com contexto factual direto.',
+      '- Nao force viés de IA/dev quando o tema for games, entretenimento, hardware, negocios ou geral.',
+      '- Use o campo "domain" da entrada para ajustar linguagem e recomendacoes.',
       '- source_reference: URL da fonte principal fornecida.',
       '- Todos os campos textuais do JSON devem estar em Português do Brasil (pt-BR), mesmo quando a fonte estiver em outro idioma.',
       '- Se faltar dado, adicionar flag em risk_flags.',
@@ -192,6 +194,7 @@ class AIService {
       original_url: input.original_url,
       published_at: input.date,
       topic: input.topic,
+      domain: input.domain || 'geral',
       article_excerpt: String(input.raw_content || '')
         .replace(/\s+/g, ' ')
         .trim()
