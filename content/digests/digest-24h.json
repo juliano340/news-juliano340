@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-02-16T06:25:14.916Z",
+  "generated_at": "2026-02-16T06:59:03.344Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 3,
   "posts": [
     {
-      "title": "Além do Gemini com Nano Banana: 5 apps para gerar imagens com IA",
-      "slug": "alem-do-gemini-com-nano-banana-5-apps-para-gerar-imagens-com-ia",
-      "topic": "llms",
+      "title": "Pós-graduação em tecnologia é alvo de 72% dos profissionais em 2026; entenda",
+      "slug": "pos-graduacao-em-tecnologia-e-alvo-de-72percent-dos-profissionais-em-2026-entenda",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-15T21:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/alem-do-gemini-com-nano-banana-5-apps-para-gerar-imagens-com-ia/"
+      "date": "2026-02-15T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/pos-graduacao-em-tecnologia-e-alvo-de-72-dos-profissionais-em-2026-entenda/"
+    },
+    {
+      "title": "Avowed para PlayStation 5, Styx: Blades of Greed e mais! Veja os lançamentos de games da semana",
+      "slug": "avowed-para-playstation-5-styx-blades-of-greed-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-15T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503533-avowed-para-playstation-5-styx-blades-of-greed-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
+    },
+    {
+      "title": "O Agente Noturno, The Moment e mais! Os lançamentos de filmes e séries da semana (15/02)",
+      "slug": "o-agente-noturno-the-moment-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1502",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-15T21:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603093-o-agente-noturno-the-moment-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1502.htm"
     }
   ]
 }
