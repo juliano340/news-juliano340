@@ -535,6 +535,7 @@ class NewsWorker {
     let descartados = 0;
     let adiados = 0;
     let blockedSemantic = 0;
+    const generatedPosts = [];
 
     logger.info('Iniciando...');
     if (this.dryRun) {
@@ -630,8 +631,16 @@ class NewsWorker {
               });
             }
 
-            if (await this.savePost(enrichedPost)) novos += 1;
-            else pulados += 1;
+            if (await this.savePost(enrichedPost)) {
+              novos += 1;
+              generatedPosts.push({
+                title: enrichedPost.title,
+                slug: enrichedPost.slug,
+                url: `https://news.juliano340.com/posts/${enrichedPost.slug}`
+              });
+            } else {
+              pulados += 1;
+            }
           } catch (error) {
             logger.error('P', { error: error.message });
             erros += 1;
@@ -659,7 +668,8 @@ class NewsWorker {
       descartados,
       adiados,
       erros,
-      blocked_semantic_alignment: blockedSemantic
+      blocked_semantic_alignment: blockedSemantic,
+      generated_posts: generatedPosts
     });
   }
 }
