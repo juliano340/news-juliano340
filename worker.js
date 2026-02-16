@@ -261,7 +261,8 @@ class NewsWorker {
   }
 
   buildPostContent(post) {
-    const tags = (post.tags || []).map((tag) => `"${this.escapeYaml(tag)}"`).join(',');
+    const uniqueTags = Array.from(new Set((post.tags || []).map((tag) => String(tag || '').trim()).filter(Boolean)));
+    const tags = uniqueTags.map((tag) => `"${this.escapeYaml(tag)}"`).join(',');
     const seoTitle = post.seo_title || Utils.truncateText(post.title || '', 62);
     const description = post.meta_description || Utils.truncateText((post.summary_text || post.title || '').trim(), 155);
     const canonicalUrl = post.canonical_url || `https://news.juliano340.com/posts/${post.slug}`;

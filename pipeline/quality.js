@@ -82,6 +82,10 @@ class QualityGate {
     return paragraphs.some((paragraph) => vagueRegex.test(paragraph) && !reasonRegex.test(paragraph));
   }
 
+  hasTruncatedBullets(content) {
+    return /^\s*-\s+.*\.\.\.\s*$/gm.test(String(content || ''));
+  }
+
   countInternalLinks(content) {
     const links = String(content || '').match(/\[[^\]]+\]\(([^)]+)\)/g) || [];
     let count = 0;
@@ -141,6 +145,16 @@ class QualityGate {
       'mudancas regulatorias'
     ];
     return forbidden.some((term) => text.includes(term));
+  }
+
+  countHighlightsBullets(content) {
+    return this.countSectionBullets(content, '## Destaques rapidos');
+  }
+
+  countHighlightsExamples(content) {
+    const section = this.sectionText(content, '## Destaques rapidos');
+    if (!section) return 0;
+    return (section.match(/ex\.:/gi) || []).length;
   }
 
   sectionSimilarity(content, headingA, headingB) {
@@ -203,6 +217,18 @@ class QualityGate {
 
       const hasBoilerplate = this.hasJobRoundupBoilerplate(content);
       registerCheck('job_roundup_boilerplate', !hasBoilerplate, 'BLOCK', 'boilerplate_inadequado_para_job_roundup');
+
+      const highlightsBullets = this.countHighlightsBullets(content);
+      registerCheck('job_roundup_highlights_count', highlightsBullets >= 6, 'WARN', 'destaques_insuficientes_no_job_roundup', {
+        count: highlightsBullets,
+        min: 6
+      });
+
+      const highlightsExamples = this.countHighlightsExamples(content);
+      registerCheck('job_roundup_highlights_examples', highlightsExamples >= 3, 'WARN', 'destaques_sem_exemplos_suficientes', {
+        count: highlightsExamples,
+        min: 3
+      });
     }
 
     const hasPrimarySource = editorial.primary_source && /^https?:\/\//i.test(editorial.primary_source);
@@ -225,6 +251,9 @@ class QualityGate {
 
     const hasVagueParagraph = this.hasVaguePhrasesWithoutReason(content);
     registerCheck('vague_phrases', !hasVagueParagraph, 'BLOCK', 'frase_generica_sem_justificativa');
+
+    const truncatedBullets = this.hasTruncatedBullets(content);
+    registerCheck('truncated_bullets', !truncatedBullets, 'BLOCK', 'bullet_truncado_com_reticencias');
 
     const sourceInBody = this.hasExternalSourceLink(content, editorial.primary_source);
     registerCheck('source_link_in_body', sourceInBody, 'BLOCK', 'fonte_primaria_ausente_no_corpo');

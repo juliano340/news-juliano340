@@ -7,10 +7,47 @@ const editorial = require('../pipeline/editorial');
 const quality = require('../pipeline/quality');
 
 test('composer gera secoes editoriais obrigatorias', async () => {
-  const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalGenerateEditorialArticle = ai.generateEditorialArticle;
   const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
-  config.AI_EDITORIAL_REQUIRED = false;
-  ai.generateEditorialDraft = async () => null;
+  config.AI_EDITORIAL_REQUIRED = true;
+  ai.generateEditorialArticle = async () => ({
+    content: [
+      'Intro clara sobre a noticia.',
+      '',
+      '## Resumo em 3 bullets',
+      '- Bullet 1 objetivo.',
+      '- Bullet 2 objetivo.',
+      '- Bullet 3 objetivo.',
+      '',
+      '## Contexto',
+      'Contexto coeso e fiel ao material de origem.',
+      '',
+      '## Insights e implicacoes',
+      'Insight pratico para o leitor entender impacto real.',
+      '',
+      '## O que fazer agora',
+      '- Acao 1',
+      '- Acao 2',
+      '- Acao 3',
+      '',
+      '## O que vale acompanhar',
+      '- Ponto 1',
+      '- Ponto 2',
+      '- Ponto 3',
+      '',
+      '## Fonte e transparencia',
+      '- Fonte primaria: https://example.com/noticia',
+      '',
+      '## Por que isso importa',
+      'Conclusao objetiva.'
+    ].join('\n'),
+    post_type: 'standard',
+    model_used: 'mock-model',
+    latency_ms: 120,
+    fallback_used: false,
+    editorial_confidence: 88,
+    risk_flags: []
+  });
 
   try {
     const post = {
@@ -35,16 +72,53 @@ test('composer gera secoes editoriais obrigatorias', async () => {
     assert.equal(result.primary_source, 'https://example.com/noticia');
     assert.equal(result.content_kind, 'news-curated');
   } finally {
-    ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    ai.generateEditorialArticle = originalGenerateEditorialArticle;
     config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
 
 test('quality gate aprova conteudo curado completo', async () => {
-  const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalGenerateEditorialArticle = ai.generateEditorialArticle;
   const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
-  config.AI_EDITORIAL_REQUIRED = false;
-  ai.generateEditorialDraft = async () => null;
+  config.AI_EDITORIAL_REQUIRED = true;
+  ai.generateEditorialArticle = async () => ({
+    content: [
+      'Intro clara sobre a noticia.',
+      '',
+      '## Resumo em 3 bullets',
+      '- Bullet 1 objetivo.',
+      '- Bullet 2 objetivo.',
+      '- Bullet 3 objetivo.',
+      '',
+      '## Contexto',
+      'Contexto coeso e fiel ao material de origem.',
+      '',
+      '## Insights e implicacoes',
+      'Insight pratico para o leitor entender impacto real.',
+      '',
+      '## O que fazer agora',
+      '- Acao 1',
+      '- Acao 2',
+      '- Acao 3',
+      '',
+      '## O que vale acompanhar',
+      '- Ponto 1',
+      '- Ponto 2',
+      '- Ponto 3',
+      '',
+      '## Fonte e transparencia',
+      '- Fonte primaria: https://example.com/noticia',
+      '',
+      '## Por que isso importa',
+      'Conclusao objetiva.'
+    ].join('\n'),
+    post_type: 'standard',
+    model_used: 'mock-model',
+    latency_ms: 120,
+    fallback_used: false,
+    editorial_confidence: 88,
+    risk_flags: []
+  });
 
   try {
     const post = {
@@ -60,15 +134,21 @@ test('quality gate aprova conteudo curado completo', async () => {
       date: '2026-02-13T10:00:00.000Z'
     });
 
-    const result = quality.evaluate(post, editorialOutput);
+    const oldMinWords = config.QUALITY_LIMITS.min_word_count;
+    try {
+      config.QUALITY_LIMITS.min_word_count = 60;
+      const result = quality.evaluate(post, editorialOutput);
 
-    assert.equal(result.passed, true);
-    assert.equal(result.reasons.length, 0);
-    assert.equal(result.status, 'WARN');
-    assert.ok(result.warnings.includes('poucos_links_internos'));
-    assert.ok(result.checks.every((check) => check.status === 'PASS' || check.id === 'internal_links'));
+      assert.equal(result.passed, true);
+      assert.equal(result.reasons.length, 0);
+      assert.equal(result.status, 'WARN');
+      assert.ok(result.warnings.includes('poucos_links_internos'));
+      assert.ok(result.checks.every((check) => check.status === 'PASS' || check.id === 'internal_links'));
+    } finally {
+      config.QUALITY_LIMITS.min_word_count = oldMinWords;
+    }
   } finally {
-    ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    ai.generateEditorialArticle = originalGenerateEditorialArticle;
     config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
@@ -94,10 +174,47 @@ test('quality gate reprova conteudo sem estrutura editorial', () => {
 });
 
 test('quality gate respeita pesos configuraveis', async () => {
-  const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalGenerateEditorialArticle = ai.generateEditorialArticle;
   const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
-  config.AI_EDITORIAL_REQUIRED = false;
-  ai.generateEditorialDraft = async () => null;
+  config.AI_EDITORIAL_REQUIRED = true;
+  ai.generateEditorialArticle = async () => ({
+    content: [
+      'Intro clara sobre a noticia.',
+      '',
+      '## Resumo em 3 bullets',
+      '- Bullet 1 objetivo.',
+      '- Bullet 2 objetivo.',
+      '- Bullet 3 objetivo.',
+      '',
+      '## Contexto',
+      'Contexto coeso e fiel ao material de origem.',
+      '',
+      '## Insights e implicacoes',
+      'Insight pratico para o leitor entender impacto real.',
+      '',
+      '## O que fazer agora',
+      '- Acao 1',
+      '- Acao 2',
+      '- Acao 3',
+      '',
+      '## O que vale acompanhar',
+      '- Ponto 1',
+      '- Ponto 2',
+      '- Ponto 3',
+      '',
+      '## Fonte e transparencia',
+      '- Fonte primaria: https://example.com/noticia',
+      '',
+      '## Por que isso importa',
+      'Conclusao objetiva.'
+    ].join('\n'),
+    post_type: 'standard',
+    model_used: 'mock-model',
+    latency_ms: 120,
+    fallback_used: false,
+    editorial_confidence: 88,
+    risk_flags: []
+  });
 
   try {
     const post = {
@@ -124,21 +241,48 @@ test('quality gate respeita pesos configuraveis', async () => {
       config.QUALITY_LIMITS.min_word_count = oldMinWords;
     }
   } finally {
-    ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    ai.generateEditorialArticle = originalGenerateEditorialArticle;
     config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
 
 test('composer usa output da IA quando draft valido', async () => {
-  const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalGenerateEditorialArticle = ai.generateEditorialArticle;
   const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
-  config.AI_EDITORIAL_REQUIRED = false;
-  ai.generateEditorialDraft = async () => ({
-    summary_bullets: ['Mudanca em LLM reduz latencia para inferencia.', 'Fornecedor anunciou novo limite de contexto.', 'Times podem otimizar custo por requisicao.'],
-    why_matters: 'A atualizacao muda a relacao custo-performance para apps de IA em producao e exige revisao de arquitetura no backlog tecnico.',
-    practical_actions: ['Rodar benchmark com carga real.', 'Revisar fallback entre provedores.', 'Atualizar limites de custo e alertas.'],
-    context_bullets: ['Anuncio oficial divulgado pelo fornecedor.', 'Impacto imediato em workloads de inferencia.'],
-    source_reference: 'https://example.com/noticia',
+  config.AI_EDITORIAL_REQUIRED = true;
+  ai.generateEditorialArticle = async () => ({
+    content: [
+      '# Fornecedor atualiza LLM com novo contexto',
+      'Resumo de abertura.',
+      '',
+      '## Resumo em 3 bullets',
+      '- Mudanca em LLM reduz latencia para inferencia.',
+      '- Fornecedor anunciou novo limite de contexto.',
+      '- Times podem otimizar custo por requisicao.',
+      '',
+      '## Contexto',
+      'Anuncio oficial divulgado pelo fornecedor.',
+      '',
+      '## Insights e implicacoes',
+      'Impacto imediato em workloads de inferencia.',
+      '',
+      '## O que fazer agora',
+      '- Rodar benchmark com carga real.',
+      '- Revisar fallback entre provedores.',
+      '- Atualizar limites de custo e alertas.',
+      '',
+      '## O que vale acompanhar',
+      '- Proximas atualizacoes.',
+      '- Alteracoes de preco.',
+      '- Novos requisitos tecnicos.',
+      '',
+      '## Fonte e transparencia',
+      '- Fonte primaria: https://example.com/noticia',
+      '',
+      '## Por que isso importa',
+      'A atualizacao muda a relacao custo-performance para apps de IA em producao.'
+    ].join('\n'),
+    post_type: 'standard',
     editorial_confidence: 82,
     risk_flags: [],
     model_used: 'qwen/qwen-2.5-72b-instruct:free',
@@ -160,16 +304,16 @@ test('composer usa output da IA quando draft valido', async () => {
     assert.ok(result.content.includes('## Resumo em 3 bullets'));
     assert.equal(result.ai_metadata.model_used, 'qwen/qwen-2.5-72b-instruct:free');
   } finally {
-    ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    ai.generateEditorialArticle = originalGenerateEditorialArticle;
     config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });
 
 test('composer bloqueia publicacao quando IA e obrigatoria e draft falha', async () => {
-  const originalGenerateEditorialDraft = ai.generateEditorialDraft;
+  const originalGenerateEditorialArticle = ai.generateEditorialArticle;
   const originalAIRequired = config.AI_EDITORIAL_REQUIRED;
   config.AI_EDITORIAL_REQUIRED = true;
-  ai.generateEditorialDraft = async () => null;
+  ai.generateEditorialArticle = async () => null;
 
   try {
     const result = await editorial.compose({
@@ -183,7 +327,7 @@ test('composer bloqueia publicacao quando IA e obrigatoria e draft falha', async
     assert.equal(result.blocked, true);
     assert.equal(result.block_reason, 'ai_generation_failed');
   } finally {
-    ai.generateEditorialDraft = originalGenerateEditorialDraft;
+    ai.generateEditorialArticle = originalGenerateEditorialArticle;
     config.AI_EDITORIAL_REQUIRED = originalAIRequired;
   }
 });

@@ -94,6 +94,247 @@ class AIService {
     };
   }
 
+  normalizePostType(value) {
+    const normalized = String(value || '').trim().toLowerCase();
+    const allowed = ['job_roundup', 'news_event', 'howto_guide', 'product_release', 'other', 'standard'];
+    if (allowed.includes(normalized)) return normalized;
+    return 'standard';
+  }
+
+  buildPostTypePrompt(payload) {
+    return [
+      'Classifique o tipo de conteúdo da notícia.',
+      'Retorne SOMENTE JSON válido no formato:',
+      '{"post_type":"job_roundup|news_event|howto_guide|product_release|other|standard","confidence":0,"evidence":["...","...","..."]}',
+      'Regras:',
+      '- job_roundup: lista de vagas/oportunidades com links de candidatura.',
+      '- news_event: evento/notícia factual.',
+      '- howto_guide: tutorial/prática de como fazer.',
+      '- product_release: lançamento/atualização de produto.',
+      '- other/standard: quando não encaixar claramente.',
+      'Entrada:',
+      JSON.stringify(payload)
+    ].join('\n');
+  }
+
+  buildMarkdownPrompt(payload) {
+    const postType = this.normalizePostType(payload.post_type || 'standard');
+    const commonRules = [
+      'Escreva em Português do Brasil (pt-BR) natural e fluido.',
+      'Não copie frases literais da fonte.',
+      'Não invente fatos, números ou nomes que não estejam no material.',
+      'Evite frases genéricas e vazias.',
+      'Retorne SOMENTE markdown final, sem explicações extras.'
+    ];
+
+    const jobRoundupTemplate = [
+      '# <titulo>',
+      '<intro de 2-3 linhas>',
+      '## Resumo em 3 bullets',
+      '- ...',
+      '- ...',
+      '- ...',
+      '## Como usar esta lista',
+      '- 4 a 6 bullets praticos',
+      '## Destaques rapidos',
+      '- 6 a 8 bullets com exemplos de cargos/areas',
+      '## Checklist de candidatura',
+      '- 8 a 12 bullets praticos',
+      '## O que observar nos proximos dias',
+      '- 4 a 6 bullets',
+      '## FAQ',
+      '### pergunta 1',
+      'resposta',
+      '### pergunta 2',
+      'resposta',
+      '### pergunta 3',
+      'resposta',
+      '### pergunta 4',
+      'resposta',
+      '## Fonte e transparencia',
+      '- Fonte primaria: <url>',
+      '- Conteudo gerado com apoio de IA e revisado automaticamente.',
+      '## Por que isso importa',
+      '<paragrafo final coeso>'
+    ].join('\n');
+
+    const standardTemplate = [
+      '# <titulo>',
+      '<intro de 2-3 linhas>',
+      '## Resumo em 3 bullets',
+      '- ...',
+      '- ...',
+      '- ...',
+      '## Contexto',
+      '<paragrafo>',
+      '## Insights e implicacoes',
+      '<paragrafo>',
+      '## O que fazer agora',
+      '- 3 a 5 bullets praticos',
+      '## O que vale acompanhar',
+      '- 3 a 5 bullets',
+      '## Fonte e transparencia',
+      '- Fonte primaria: <url>',
+      '- Conteudo gerado com apoio de IA e revisado automaticamente.',
+      '## Por que isso importa',
+      '<paragrafo final coeso>'
+    ].join('\n');
+
+    const template = postType === 'job_roundup' ? jobRoundupTemplate : standardTemplate;
+
+    return [
+      'Você é um editor especialista em coesão textual e utilidade prática.',
+      ...commonRules,
+      '',
+      `Tipo do post: ${postType}`,
+      'Template obrigatório:',
+      template,
+      '',
+      'Entrada:',
+      JSON.stringify(payload)
+    ].join('\n');
+  }
+
+  buildReviewPrompt(payload) {
+    return [
+      'Você é revisor final de qualidade editorial.',
+      'Reescreva o markdown para melhorar coesão, clareza e fluidez, preservando os fatos.',
+      'Corrija acentuação/ortografia em pt-BR.',
+      'Não remova headings obrigatórios do conteúdo.',
+      'Não invente fatos.',
+      'Retorne somente markdown revisado.',
+      '',
+      `Tipo do post: ${payload.post_type}`,
+      'Markdown de entrada:',
+      payload.markdown
+    ].join('\n');
+  }
+
+  async tryJsonModel(model, prompt, timeoutMs = config.AI_EDITORIAL_TIMEOUT_MS, maxTokens = 400) {
+    try {
+      const raw = await this.requestCompletion({
+        model,
+        messages: [
+          { role: 'system', content: 'Retorne apenas JSON válido.' },
+          { role: 'user', content: prompt }
+        ],
+        maxTokens,
+        timeoutMs,
+        responseFormat: { type: 'json_object' }
+      });
+      return this.extractJson(raw);
+    } catch (_error) {
+      return null;
+    }
+  }
+
+  async tryMarkdownModel(model, prompt, timeoutMs = config.AI_EDITORIAL_TIMEOUT_MS, maxTokens = 1800) {
+    try {
+      const raw = await this.requestCompletion({
+        model,
+        messages: [
+          { role: 'system', content: 'Responda apenas com markdown final.' },
+          { role: 'user', content: prompt }
+        ],
+        maxTokens,
+        timeoutMs
+      });
+      return String(raw || '').trim();
+    } catch (_error) {
+      return '';
+    }
+  }
+
+  validateMarkdownStructure(content, postType) {
+    const required = postType === 'job_roundup'
+      ? ['## Resumo em 3 bullets', '## Como usar esta lista', '## Destaques rapidos', '## Checklist de candidatura', '## O que observar nos proximos dias', '## FAQ', '## Fonte e transparencia', '## Por que isso importa']
+      : ['## Resumo em 3 bullets', '## Contexto', '## Insights e implicacoes', '## O que fazer agora', '## O que vale acompanhar', '## Fonte e transparencia', '## Por que isso importa'];
+
+    const text = String(content || '');
+    return required.every((heading) => text.includes(heading));
+  }
+
+  async classifyPostType(input) {
+    if (!this.editorialEnabled) return null;
+
+    const payload = {
+      title: input.title,
+      source: input.source,
+      source_url: input.source_url,
+      original_url: input.original_url,
+      excerpt: String(input.raw_content || '').replace(/\s+/g, ' ').trim().slice(0, 2000)
+    };
+
+    const prompt = this.buildPostTypePrompt(payload);
+    const primary = await this.tryJsonModel(this.editorialPrimaryModel, prompt);
+    const fallback = primary ? null : await this.tryJsonModel(this.editorialFallbackModel, prompt);
+    const parsed = primary || fallback;
+    if (!parsed) return null;
+
+    return {
+      post_type: this.normalizePostType(parsed.post_type),
+      confidence: Number.isFinite(Number(parsed.confidence)) ? Number(parsed.confidence) : 0,
+      evidence: this.normalizeStringList(parsed.evidence, 5)
+    };
+  }
+
+  async generateEditorialArticle(input) {
+    if (!this.editorialEnabled) return null;
+
+    const startedAt = Date.now();
+    const classification = await this.classifyPostType(input);
+    if (!classification) {
+      logger.warn('Falha ao classificar tipo de post com IA');
+      return null;
+    }
+
+    const payload = {
+      title: input.title,
+      source: input.source,
+      source_url: input.source_url,
+      original_url: input.original_url,
+      published_at: input.date,
+      domain: input.domain || 'geral',
+      post_type: classification.post_type,
+      article_excerpt: String(input.raw_content || '').replace(/\s+/g, ' ').trim().slice(0, config.AI_EDITORIAL_MAX_INPUT_CHARS)
+    };
+
+    const prompt = this.buildMarkdownPrompt(payload);
+    const primaryContent = await this.tryMarkdownModel(this.editorialPrimaryModel, prompt);
+    const fallbackUsed = !primaryContent;
+    const generatedContent = primaryContent || await this.tryMarkdownModel(this.editorialFallbackModel, prompt);
+    if (!generatedContent) {
+      logger.warn('Falha ao gerar markdown editorial com IA');
+      return null;
+    }
+
+    const reviewPrompt = this.buildReviewPrompt({
+      post_type: classification.post_type,
+      markdown: generatedContent
+    });
+    const reviewedPrimary = await this.tryMarkdownModel(this.editorialPrimaryModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 2000);
+    const reviewed = reviewedPrimary || await this.tryMarkdownModel(this.editorialFallbackModel, reviewPrompt, config.AI_EDITORIAL_TIMEOUT_MS, 2000);
+    if (!reviewed) {
+      logger.warn('Falha na revisão editorial com IA');
+      return null;
+    }
+
+    if (!this.validateMarkdownStructure(reviewed, classification.post_type)) {
+      logger.warn('Estrutura markdown inválida após revisão', { post_type: classification.post_type });
+      return null;
+    }
+
+    return {
+      content: reviewed,
+      post_type: classification.post_type,
+      editorial_confidence: classification.confidence,
+      risk_flags: [],
+      model_used: fallbackUsed ? this.editorialFallbackModel : this.editorialPrimaryModel,
+      latency_ms: Date.now() - startedAt,
+      fallback_used: fallbackUsed
+    };
+  }
+
   buildEditorialPrompt(payload) {
     return [
       'Você é editor de noticias de tecnologia e cultura digital.',

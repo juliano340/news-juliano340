@@ -50,6 +50,65 @@ const DOMAIN_URL_HINTS = {
 };
 
 class EditorialComposer {
+  truncateWithoutEllipsis(text, maxLength = 120) {
+    const value = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!value) return '';
+    if (value.length <= maxLength) return value;
+
+    const sliced = value.slice(0, maxLength);
+    const lastSpace = sliced.lastIndexOf(' ');
+    if (lastSpace > Math.floor(maxLength * 0.6)) {
+      return sliced.slice(0, lastSpace).trim();
+    }
+    return sliced.trim();
+  }
+
+  stripTrailingEllipsis(text) {
+    return String(text || '')
+      .replace(/\s*\.\.\.\s*$/g, '')
+      .replace(/[,:;]\s*$/g, '')
+      .trim();
+  }
+
+  polishPtBrText(content) {
+    const replacements = {
+      movimentacao: 'movimenta\u00e7\u00e3o',
+      estrategia: 'estrat\u00e9gia',
+      proximos: 'pr\u00f3ximos',
+      adocao: 'ado\u00e7\u00e3o',
+      opcoes: 'op\u00e7\u00f5es',
+      aderencia: 'ader\u00eancia',
+      atuacao: 'atua\u00e7\u00e3o',
+      ingles: 'ingl\u00eas',
+      voce: 'voc\u00ea',
+      voces: 'voc\u00eas',
+      area: '\u00e1rea',
+      areas: '\u00e1reas',
+      atualizacoes: 'atualiza\u00e7\u00f5es',
+      posicoes: 'posi\u00e7\u00f5es',
+      reunioes: 'reuni\u00f5es',
+      horario: 'hor\u00e1rio',
+      operacoes: 'opera\u00e7\u00f5es',
+      funcoes: 'fun\u00e7\u00f5es',
+      materia: 'mat\u00e9ria',
+      ja: 'j\u00e1'
+    };
+
+    const withCase = (matched, replacement) => {
+      if (matched[0] === matched[0].toUpperCase()) {
+        return replacement[0].toUpperCase() + replacement.slice(1);
+      }
+      return replacement;
+    };
+
+    let output = String(content || '');
+    for (const [source, target] of Object.entries(replacements)) {
+      const regex = new RegExp(`\\b${source}\\b`, 'gi');
+      output = output.replace(regex, (matched) => withCase(matched, target));
+    }
+    return output;
+  }
+
   detectTopic(title, rawContent) {
     const text = `${title || ''} ${Utils.stripHtml(rawContent || '')}`.toLowerCase();
     let best = { topic: DEFAULT_TOPIC, subtopic: DEFAULT_SUBTOPIC, matches: 0 };
@@ -124,7 +183,7 @@ class EditorialComposer {
   }
 
   toBullet(_topicIndex, line, maxLength = 120) {
-    const clipped = Utils.truncateText(line, maxLength);
+    const clipped = this.stripTrailingEllipsis(this.truncateWithoutEllipsis(line, maxLength));
     return `- ${clipped}`;
   }
 
@@ -340,19 +399,21 @@ class EditorialComposer {
   buildJobRoundupHighlights(rawFormatted) {
     const text = Utils.stripHtml(rawFormatted || '').toLowerCase();
     const categoryMap = [
-      ['administrativa', 'Area administrativa e operacional'],
-      ['marketing', 'Funcoes de marketing e crescimento'],
-      ['vendas', 'Posicoes em vendas e relacionamento comercial'],
-      ['design', 'Oportunidades em design de produto e experiencia'],
-      ['produto', 'Vagas ligadas a produto e gestao de roadmap'],
-      ['ti', 'Posicoes tecnicas em TI e engenharia de software'],
-      ['engenheiro', 'Cargos para engenheiros e perfis tecnicos'],
-      ['backend', 'Vagas para backend e infraestrutura de aplicacoes']
+      ['administrativa', 'Area administrativa e operacional', 'assistente administrativo'],
+      ['marketing', 'Funcoes de marketing e crescimento', 'marketing specialist'],
+      ['vendas', 'Posicoes em vendas e relacionamento comercial', 'sales representative'],
+      ['design', 'Oportunidades em design de produto e experiencia', 'product designer'],
+      ['produto', 'Vagas ligadas a produto e gestao de roadmap', 'product manager'],
+      ['ti', 'Posicoes tecnicas em TI e engenharia de software', 'software engineer'],
+      ['engenheiro', 'Cargos para engenheiros e perfis tecnicos', 'backend engineer'],
+      ['backend', 'Vagas para backend e infraestrutura de aplicacoes', 'backend developer']
     ];
 
     const picks = [];
-    for (const [keyword, label] of categoryMap) {
-      if (text.includes(keyword)) picks.push(`- ${label}.`);
+    for (const [keyword, label, example] of categoryMap) {
+      if (text.includes(keyword)) {
+        picks.push(`- ${label} (ex.: ${example}).`);
+      }
       if (picks.length >= 8) break;
     }
 
@@ -370,7 +431,7 @@ class EditorialComposer {
   buildJobRoundupContent(post, title, rawFormatted, primarySource, summaryBullets = null) {
     const summary = Array.isArray(summaryBullets) && summaryBullets.length >= 3
       ? summaryBullets
-      : this.buildSummary(this.sentenceCandidates(rawFormatted), title);
+      : this.buildJobRoundupSummary(rawFormatted, title);
 
     const intro = [
       `Saiu uma nova rodada de vagas em "${Utils.truncateText(title || 'trabalho remoto internacional', 90)}", com foco em oportunidades remotas e candidatura online.`,
@@ -417,7 +478,7 @@ class EditorialComposer {
       'Prefira links oficiais, valide dominio da empresa, desconfie de pedidos financeiros e confirme a vaga em canais institucionais.'
     ].join('\n');
 
-    return [
+    const content = [
       intro,
       '',
       '## Resumo em 3 bullets',
@@ -444,6 +505,23 @@ class EditorialComposer {
       '## Por que isso importa',
       'Quando a curadoria de vagas vem organizada, o candidato ganha tempo, evita candidatura no escuro e aumenta a chance de entrar em processos com melhor aderencia ao seu perfil.'
     ].join('\n');
+
+    return this.polishPtBrText(content);
+  }
+
+  buildJobRoundupSummary(rawFormatted, title) {
+    const text = Utils.stripHtml(rawFormatted || '').toLowerCase();
+    const bullets = [
+      `- "${this.truncateWithoutEllipsis(title || 'Rodada de vagas remotas internacionais', 95)}" organiza oportunidades com links para candidatura.`,
+      '- A lista permite filtrar vagas por area, senioridade, idioma e disponibilidade de fuso.',
+      '- O foco para quem aplica e priorizar aderencia de perfil e velocidade de candidatura nas vagas mais recentes.'
+    ];
+
+    if (text.includes('44 vagas')) {
+      bullets[0] = '- A rodada destaca 44 vagas remotas internacionais com candidatura online e atualizacao recorrente.';
+    }
+
+    return bullets;
   }
 
   normalizeAIBullets(summaryBullets) {
@@ -453,7 +531,10 @@ class EditorialComposer {
       list.push('Detalhe tecnico em evolucao, acompanhe atualizacoes da fonte primaria.');
     }
 
-    return list.slice(0, 3).map((line) => `- ${Utils.truncateText(line, 140)}`);
+    return list
+      .slice(0, 3)
+      .map((line) => this.stripTrailingEllipsis(this.truncateWithoutEllipsis(line, 140)))
+      .map((line) => `- ${line}`);
   }
 
   normalizeAIActions(actions) {
@@ -461,7 +542,11 @@ class EditorialComposer {
     while (list.length < 3) {
       list.push('Monitorar atualizacoes e adaptar os proximos passos com base no impacto para o publico.');
     }
-    return list.slice(0, 3).map((line) => `- ${Utils.truncateText(line, 140)}`).join('\n');
+    return list
+      .slice(0, 3)
+      .map((line) => this.stripTrailingEllipsis(this.truncateWithoutEllipsis(line, 140)))
+      .map((line) => `- ${line}`)
+      .join('\n');
   }
 
   hasForcedIABias(text) {
@@ -527,7 +612,7 @@ class EditorialComposer {
     const insights = this.buildInsights(domain, title);
     const sourceTransparency = this.buildSourceTransparency(post, primarySource);
 
-    return [
+    return this.polishPtBrText([
       intro,
       '',
       '## Resumo em 3 bullets',
@@ -550,7 +635,7 @@ class EditorialComposer {
       '',
       '## Por que isso importa',
       whyMatters
-    ].join('\n');
+    ].join('\n'));
   }
 
   buildAIContent(post, aiDraft, primarySource, postType = 'standard') {
@@ -584,7 +669,7 @@ class EditorialComposer {
     const sourceTransparency = this.buildSourceTransparency(post, resolvedSource);
 
     return {
-      content: [
+      content: this.polishPtBrText([
         intro,
         '',
         '## Resumo em 3 bullets',
@@ -607,7 +692,7 @@ class EditorialComposer {
         '',
         '## Por que isso importa',
         whyMatters
-      ].join('\n'),
+      ].join('\n')),
       primarySource: resolvedSource,
       aiMetadata: {
         model_used: aiDraft.model_used || '',
@@ -627,19 +712,14 @@ class EditorialComposer {
 
     let { topic, subtopic } = this.detectTopic(post.title, rawFormatted);
     const domain = this.detectDomain(post.title, rawFormatted, post.original_url || post.source_url || '');
-    const postType = this.detectPostType(post.title, rawFormatted, post.original_url || post.source_url || '');
+    const fallbackPostType = this.detectPostType(post.title, rawFormatted, post.original_url || post.source_url || '');
     if (domain !== 'ia-dev') {
       topic = 'geral';
       subtopic = 'geral';
     }
     const primarySource = post.original_url || post.source_url || '';
 
-    let content = '';
-    let resolvedPrimarySource = primarySource;
-    let editorialMode = '';
-    let aiMetadata = null;
-
-    const aiDraft = await ai.generateEditorialDraft({
+    const aiArticle = await ai.generateEditorialArticle({
       title: post.title,
       source: post.source,
       source_url: post.source_url,
@@ -647,33 +727,29 @@ class EditorialComposer {
       date: post.date,
       topic,
       domain,
-      post_type: postType,
+      post_type: fallbackPostType,
       raw_content: Utils.stripHtml(rawFormatted)
     });
 
-    if (aiDraft) {
-      const aiOutput = this.buildAIContent({ ...post, topic, domain }, aiDraft, primarySource, postType);
-      content = aiOutput.content;
-      resolvedPrimarySource = aiOutput.primarySource;
-      editorialMode = aiDraft.fallback_used ? 'ai_fallback_model' : 'ai_primary_model';
-      aiMetadata = aiOutput.aiMetadata;
-    } else if (config.AI_EDITORIAL_REQUIRED) {
+    if (!aiArticle) {
       const reason = ai.editorialEnabled ? 'ai_generation_failed' : 'ai_editorial_disabled';
-
       return {
         blocked: true,
         block_reason: reason,
         raw_formatted: rawFormatted,
+        domain,
+        post_type: fallbackPostType,
         topic,
         subtopic,
         primary_source: primarySource,
         content_kind: 'news-curated',
         editorial_mode: 'blocked'
       };
-    } else {
-      content = this.buildHeuristicContent(post, topic, post.title, rawFormatted, primarySource, postType);
-      editorialMode = 'heuristic';
     }
+
+    const postType = aiArticle.post_type || fallbackPostType;
+    const content = this.polishPtBrText(String(aiArticle.content || '').trim());
+    const editorialMode = aiArticle.fallback_used ? 'ai_fallback_model' : 'ai_primary_model';
 
     return {
       blocked: false,
@@ -683,10 +759,17 @@ class EditorialComposer {
       post_type: postType,
       topic,
       subtopic,
-      primary_source: resolvedPrimarySource,
+      primary_source: primarySource,
       content_kind: 'news-curated',
       editorial_mode: editorialMode,
-      ai_metadata: aiMetadata
+      ai_metadata: {
+        model_used: aiArticle.model_used || '',
+        latency_ms: aiArticle.latency_ms || null,
+        fallback_used: Boolean(aiArticle.fallback_used),
+        editorial_confidence: aiArticle.editorial_confidence || 0,
+        risk_flags: aiArticle.risk_flags || [],
+        domain
+      }
     };
   }
 }
