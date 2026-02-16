@@ -29,22 +29,54 @@ const TOPIC_RULES = {
   }
 };
 
-const DEFAULT_TOPIC = 'produtividade-dev';
-const DEFAULT_SUBTOPIC = 'workflow-de-codigo';
+const DEFAULT_TOPIC = 'geral';
+const DEFAULT_SUBTOPIC = 'geral';
+
+const DOMAIN_RULES = {
+  'ia-dev': ['ia', 'inteligencia artificial', 'llm', 'gpt', 'claude', 'gemini', 'openai', 'anthropic', 'agente', 'prompt', 'copilot', 'cursor'],
+  games: ['game', 'jogo', 'playstation', 'xbox', 'nintendo', 'steam', 'rpg', 'fps'],
+  entretenimento: ['filme', 'serie', 'ator', 'atriz', 'oscar', 'trailer', 'cinema', 'netflix', 'disney'],
+  seguranca: ['malware', 'ransomware', 'vazamento', 'phishing', 'ciber', 'ataque', 'exploit', 'privacidade'],
+  hardware: ['gpu', 'cpu', 'chip', 'nvidia', 'amd', 'intel', 'memoria', 'processador', 'datacenter'],
+  negocios: ['mercado', 'investimento', 'acoes', 'receita', 'fusao', 'aquisicao', 'preco', 'contrato']
+};
 
 class EditorialComposer {
   detectTopic(title, rawContent) {
     const text = `${title || ''} ${Utils.stripHtml(rawContent || '')}`.toLowerCase();
+    let best = { topic: DEFAULT_TOPIC, subtopic: DEFAULT_SUBTOPIC, matches: 0 };
 
     for (const topic of config.TOPIC_TAXONOMY) {
       const rule = TOPIC_RULES[topic];
       if (!rule) continue;
-      if (rule.keywords.some((keyword) => text.includes(keyword))) {
-        return { topic, subtopic: rule.subtopic };
+      const matches = rule.keywords.filter((keyword) => text.includes(keyword)).length;
+      if (matches > best.matches) {
+        best = { topic, subtopic: rule.subtopic, matches };
       }
     }
 
-    return { topic: DEFAULT_TOPIC, subtopic: DEFAULT_SUBTOPIC };
+    if (best.matches < 1) return { topic: DEFAULT_TOPIC, subtopic: DEFAULT_SUBTOPIC };
+    return { topic: best.topic, subtopic: best.subtopic };
+  }
+
+  detectDomain(title, rawContent, topic) {
+    if (['llms', 'agentes', 'frameworks', 'infra-ia', 'seguranca-ia', 'produtividade-dev'].includes(topic)) {
+      return 'ia-dev';
+    }
+
+    const text = `${title || ''} ${Utils.stripHtml(rawContent || '')}`.toLowerCase();
+    let selected = 'geral';
+    let score = 0;
+
+    for (const [domain, keywords] of Object.entries(DOMAIN_RULES)) {
+      const matches = keywords.filter((keyword) => text.includes(keyword)).length;
+      if (matches > score) {
+        score = matches;
+        selected = domain;
+      }
+    }
+
+    return selected;
   }
 
   sentenceCandidates(text) {
@@ -71,160 +103,184 @@ class EditorialComposer {
     return pool.slice(0, 3).map((line, index) => this.toBullet(index + 1, line));
   }
 
-  buildWhyMatters(topic, title) {
+  buildWhyMatters(domain, title) {
     const core = {
-      llms: 'A mudanca afeta diretamente selecao de modelos, custo por token e qualidade de resposta em produtos com IA.',
-      agentes: 'A noticia mexe no desenho de agentes e automacoes, impactando confiabilidade, observabilidade e manutencao.',
-      frameworks: 'A atualizacao pode alterar stack e velocidade de entrega para times que integram IA em produto.',
-      'infra-ia': 'O impacto principal aparece em latencia, throughput e custo operacional de inferencia para squads de engenharia.',
-      'seguranca-ia': 'O ponto central e reduzir superficie de ataque em apps com IA e fortalecer praticas de seguranca de software.',
-      'produtividade-dev': 'A mudanca influencia fluxo diario de desenvolvimento e pode acelerar ou travar ciclos de entrega.'
+      'ia-dev': 'A pauta impacta decisoes de produto, arquitetura e governanca para times que usam IA no dia a dia.',
+      games: 'A noticia importa para jogadores porque afeta catalogo, plataforma e expectativa de lancamento no curto prazo.',
+      entretenimento: 'A pauta ajuda o leitor a entender contexto cultural, carreira e repercussao publica do tema.',
+      seguranca: 'O impacto principal esta em risco digital, protecao de dados e medidas praticas de prevencao.',
+      hardware: 'A atualizacao influencia desempenho, custo e decisoes de compra para usuarios e empresas.',
+      negocios: 'O tema altera cenario competitivo, estrategia e movimentacao de mercado para os proximos meses.',
+      geral: 'A noticia e relevante porque organiza fatos-chave e mostra o que muda para o leitor no curto prazo.'
     };
 
     return [
-      `${core[topic] || core['produtividade-dev']}`,
-      `Para quem desenvolve, o valor esta em entender implicacoes praticas cedo e ajustar backlog tecnico antes da concorrencia.`,
-      `No contexto de "${Utils.truncateText(title || 'noticia de IA', 90)}", o ganho real vem de transformar sinal de mercado em decisao de implementacao.`
+      `${core[domain] || core.geral}`,
+      `No contexto de "${Utils.truncateText(title || 'esta noticia', 90)}", o ganho real e separar ruido de informacao util para decidir o proximo passo.`
     ].join(' ');
   }
 
-  buildPracticalImpact(topic) {
+  buildPracticalImpact(domain) {
     const actions = {
-      llms: ['Revisar benchmark dos modelos usados hoje.', 'Comparar custo e qualidade em cenarios reais da aplicacao.', 'Planejar fallback multi-modelo para reduzir risco.'],
-      agentes: ['Auditar tarefas criticas que dependem de autonomia.', 'Adicionar telemetria e limites de execucao por agente.', 'Criar testes de regressao para fluxos com tool calling.'],
-      frameworks: ['Mapear compatibilidade da stack atual com o novo ecossistema.', 'Atualizar provas de conceito para validar ganho tecnico.', 'Documentar estrategia de migracao antes de escalar uso.'],
-      'infra-ia': ['Monitorar latencia p95 e custo por requisicao.', 'Ajustar politicas de cache e roteamento de inferencia.', 'Revisar capacidade de ambiente para picos de uso.'],
-      'seguranca-ia': ['Aplicar validacao de entrada e saida contra abuso.', 'Adicionar checagens de seguranca no pipeline de prompts.', 'Reforcar trilha de auditoria para incidentes com IA.'],
-      'produtividade-dev': ['Definir guideline de uso de IA no time.', 'Mensurar impacto em lead time e qualidade de codigo.', 'Padronizar revisao humana para saidas criticas.']
+      'ia-dev': ['Revisar impacto tecnico no stack atual e no backlog de curto prazo.', 'Definir criterios claros de risco, custo e desempenho para decidir proximos passos.', 'Planejar experimento pequeno antes de escalar qualquer mudanca.'],
+      games: ['Conferir plataformas e datas para evitar compra no ecossistema errado.', 'Comparar preco, desempenho e disponibilidade antes de decidir a compra.', 'Acompanhar anuncios oficiais de edicao, bonus e atualizacoes de lancamento.'],
+      entretenimento: ['Verificar contexto da obra ou da carreira para entender o destaque atual.', 'Separar fato de rumor antes de compartilhar ou tomar conclusoes.', 'Acompanhar confirmacoes oficiais sobre elenco, estreia e distribuicao.'],
+      seguranca: ['Aplicar medida preventiva imediata nos dispositivos e contas afetadas.', 'Verificar se ha atualizacao oficial, patch ou mitigacao disponivel.', 'Registrar incidente e revisar politica interna para reduzir recorrencia.'],
+      hardware: ['Comparar especificacoes reais com necessidade de uso do dia a dia.', 'Avaliar custo-beneficio considerando durabilidade e suporte.', 'Esperar benchmarks independentes antes de compra de alto valor.'],
+      negocios: ['Monitorar impacto no mercado e no posicionamento dos principais atores.', 'Revisar implicacoes de preco, contrato e estrategia de curto prazo.', 'Acompanhar comunicados oficiais para confirmar mudancas estruturais.'],
+      geral: ['Entender o fato central antes de formar opiniao.', 'Acompanhar os desdobramentos nos proximos dias.', 'Usar fontes primarias para validar pontos sensiveis.']
     };
 
-    return (actions[topic] || actions['produtividade-dev']).map((line) => `- ${line}`).join('\n');
+    return (actions[domain] || actions.geral).map((line) => `- ${line}`).join('\n');
   }
 
-  buildContext(topic, title) {
+  buildContext(domain, title) {
     const contextByTopic = {
-      llms: 'A pauta conecta disputa regulatoria, seguranca de modelos e contratos com governo em um momento de aceleracao da IA generativa.',
-      agentes: 'O tema reforca que autonomia sem governanca cria risco operacional, juridico e reputacional para produtos baseados em agentes.',
-      frameworks: 'A discussao sinaliza impacto direto em padroes de integracao, requisitos de observabilidade e escolha de stack para escalar IA.',
-      'infra-ia': 'A noticia toca em capacidade de operacao segura, previsibilidade de custo e requisitos tecnicos para workloads sensiveis.',
-      'seguranca-ia': 'A cobertura aponta para pressao por controles tecnicos mais rigorosos e trilha de auditoria em sistemas com IA.',
-      'produtividade-dev': 'O assunto mostra como decisao de mercado e regulacao pode mudar backlog de engenharia e prioridades de entrega em curto prazo.'
+      'ia-dev': 'A pauta se conecta a uso pratico de IA em produto, decisao tecnica e governanca de implementacao.',
+      games: 'O tema se encaixa no calendario de lancamentos e no comportamento de consumo de jogadores em diferentes plataformas.',
+      entretenimento: 'A cobertura ganha relevancia por combinar interesse publico, contexto cultural e impacto de audiencia.',
+      seguranca: 'A discussao envolve risco real para usuarios e exige leitura atenta de orientacoes e mitigacoes oficiais.',
+      hardware: 'A noticia conversa com ciclo de renovacao de dispositivos, desempenho esperado e custo de atualizacao.',
+      negocios: 'O assunto cruza estrategia, competicao e movimento financeiro de empresas do setor.',
+      geral: 'A materia organiza os principais fatos e ajuda a entender o contexto sem ruido.'
     };
 
     return [
-      contextByTopic[topic] || contextByTopic['produtividade-dev'],
-      `No caso de "${Utils.truncateText(title || 'esta noticia', 90)}", o ponto central e transformar informacao em decisao pratica de produto.`
+      contextByTopic[domain] || contextByTopic.geral,
+      `No caso de "${Utils.truncateText(title || 'esta noticia', 90)}", o ponto central e transformar informacao em decisao pratica para o leitor.`
     ].join(' ');
   }
 
-  buildIntro(topic, title) {
+  buildIntro(domain, title) {
     const leadByTopic = {
-      llms: 'A disputa sobre salvaguardas de IA ganhou peso estrategico e pode redefinir como empresas negociam uso de modelos em contextos sensiveis.',
-      agentes: 'Mudancas em governanca de IA estao elevando o nivel de exigencia para fluxos autonomos usados em producao.',
-      frameworks: 'O ecossistema de IA continua mudando rapido e exige leitura tecnica para evitar decisoes de stack com alto custo de reversao.',
-      'infra-ia': 'Decisoes recentes reforcam que infraestrutura de IA precisa equilibrar desempenho, custo e conformidade.',
-      'seguranca-ia': 'A pauta aumenta o foco em controles de seguranca e responsabilidade no uso de IA em ambientes criticos.',
-      'produtividade-dev': 'A noticia traz sinais relevantes para times de engenharia que dependem de IA no fluxo diario de desenvolvimento.'
+      'ia-dev': 'A noticia traz um sinal util para quem trabalha com IA e precisa tomar decisoes tecnicas com mais previsibilidade.',
+      games: 'A semana de games ganhou destaque com novos lancamentos e mudancas de plataforma que afetam decisao de compra.',
+      entretenimento: 'A pauta ganhou tracao por reunir contexto, nomes relevantes e impacto de audiencia no momento atual.',
+      seguranca: 'O caso chama atencao por envolver risco digital e necessidade de resposta rapida para reduzir impacto.',
+      hardware: 'A novidade chama atencao por potencial efeito em desempenho, custo e escolha de equipamentos.',
+      negocios: 'A movimentacao do mercado sinaliza mudancas importantes para estrategia e posicionamento no setor.',
+      geral: 'A noticia traz informacoes relevantes e pede leitura com foco em fatos e desdobramentos imediatos.'
     };
 
     return [
-      leadByTopic[topic] || leadByTopic['produtividade-dev'],
-      `Em "${Utils.truncateText(title || 'noticia de IA', 90)}", o impacto nao e apenas narrativo: ele afeta risco, roadmap e criterio de decisao tecnica.`
+      leadByTopic[domain] || leadByTopic.geral,
+      `Em "${Utils.truncateText(title || 'esta noticia', 90)}", o valor esta em entender o que muda na pratica para o publico interessado no tema.`
     ].join(' ');
   }
 
-  buildDeveloperChecklist(topic) {
+  buildDeveloperChecklist(domain) {
     const checklist = {
-      llms: [
+      'ia-dev': [
         'Mapear onde o produto depende de um unico provedor de modelo.',
         'Definir fallback tecnico e contratual para indisponibilidade ou mudanca de politica.',
         'Atualizar matriz de risco para uso de IA em contexto regulado.'
       ],
-      agentes: [
-        'Classificar tarefas que podem ser automatizadas com baixo risco.',
-        'Aplicar limites de autonomia com aprovacoes humanas em decisoes criticas.',
-        'Registrar logs de acoes para auditoria e troubleshooting.'
+      games: [
+        'Conferir plataformas, requisitos e idioma antes da compra.',
+        'Comparar faixa de preco entre lojas e edicoes disponiveis.',
+        'Acompanhar atualizacoes de desempenho e eventuais correcoes no lancamento.'
       ],
-      frameworks: [
-        'Comparar lock-in tecnico entre opcoes antes de migrar stack.',
-        'Validar compatibilidade com monitoramento e observabilidade existentes.',
-        'Planejar rollout incremental com metas de desempenho e custo.'
+      entretenimento: [
+        'Verificar informacoes em fontes oficiais e comunicados dos estúdios.',
+        'Separar anuncio confirmado de especulacao de redes sociais.',
+        'Acompanhar calendario de estreia e disponibilidade por plataforma.'
       ],
-      'infra-ia': [
-        'Revisar SLA e SLO de inferencia para cargas sensiveis.',
-        'Definir budget de custo por requisicao e alertas por anomalia.',
-        'Testar plano de contingencia para aumento brusco de latencia.'
+      seguranca: [
+        'Aplicar patches e mitigacoes recomendadas pelo fornecedor.',
+        'Revisar credenciais, acessos e politicas de autenticao.',
+        'Registrar incidente e monitorar tentativas de exploracao relacionadas.'
       ],
-      'seguranca-ia': [
-        'Aplicar validacao de entrada e filtros de saida em prompts.',
-        'Reforcar trilha de auditoria para respostas e acoes automatizadas.',
-        'Executar revisao de seguranca antes de ampliar escopo do uso de IA.'
+      hardware: [
+        'Comparar especificacoes reais com seu uso principal.',
+        'Avaliar custo total considerando acessorios e suporte.',
+        'Aguardar reviews independentes para confirmar desempenho prometido.'
       ],
-      'produtividade-dev': [
-        'Definir politica interna para uso de IA em codigo e documentacao.',
-        'Medir impacto de produtividade com metrica de lead time.',
-        'Manter revisao humana obrigatoria em entregas de alto risco.'
+      negocios: [
+        'Mapear impactos da noticia em concorrencia e posicionamento.',
+        'Acompanhar indicadores de preco, margem e demanda.',
+        'Ajustar comunicacao e planejamento conforme novos desdobramentos.'
+      ],
+      geral: [
+        'Priorizar fatos confirmados em fontes primarias.',
+        'Acompanhar atualizacoes oficiais nos proximos dias.',
+        'Evitar conclusoes definitivas antes de novos dados.'
       ]
     };
 
-    return (checklist[topic] || checklist['produtividade-dev']).map((line) => `- ${line}`).join('\n');
+    return (checklist[domain] || checklist.geral).map((line) => `- ${line}`).join('\n');
   }
 
-  buildWatchList(topic) {
+  buildWatchList(domain) {
     const watch = {
-      llms: [
+      'ia-dev': [
         'Comunicados oficiais sobre requisitos de seguranca para contratos de IA.',
         'Mudancas em clausulas de conformidade entre governo e fornecedores.',
         'Sinais de atraso ou cancelamento em programas que dependem de modelos generativos.'
       ],
-      agentes: [
-        'Novas restricoes para autonomia em fluxos de decisao automatizada.',
-        'Atualizacoes de boas praticas para supervisao humana.',
-        'Incidentes que motivem revisao de governanca em agentes.'
+      games: [
+        'Atualizacoes de data, preco e disponibilidade por plataforma.',
+        'Analises iniciais de desempenho e estabilidade nos primeiros dias.',
+        'Feedback da comunidade sobre jogabilidade e conteudo.'
       ],
-      frameworks: [
-        'Lancamentos de recursos voltados a compliance e auditoria.',
-        'Mudancas de licenca e termos de uso em ferramentas chave.',
-        'Estudos comparativos de desempenho em casos reais.'
+      entretenimento: [
+        'Novas confirmacoes de elenco, producao e distribuicao.',
+        'Repercussao de publico e critica especializada.',
+        'Mudancas no calendario oficial de lancamento.'
       ],
-      'infra-ia': [
-        'Anuncios de requisitos extras para operacao em ambientes criticos.',
-        'Variacao de custo de infraestrutura para inferencia em escala.',
-        'Atualizacoes de latencia e disponibilidade dos provedores.'
+      seguranca: [
+        'Comunicados oficiais sobre alcance e mitigacao do risco.',
+        'Liberacao de patches, atualizacoes e indicadores de exploracao.',
+        'Recomendacoes de autoridades e equipes de resposta a incidentes.'
       ],
-      'seguranca-ia': [
-        'Guias e normativos novos sobre seguranca aplicada a IA.',
-        'Incidentes publicos relacionados a prompt injection e vazamento.',
-        'Exigencias de auditoria em setores regulados.'
+      hardware: [
+        'Novos benchmarks e testes independentes de desempenho.',
+        'Mudanca de preco, estoque e janela de disponibilidade.',
+        'Atualizacoes tecnicas de firmware, drivers e compatibilidade.'
       ],
-      'produtividade-dev': [
-        'Mudancas de politica em ferramentas de IA usadas no desenvolvimento.',
-        'Novos recursos que alterem custo-beneficio no fluxo de engenharia.',
-        'Casos de uso com ganho comprovado em produtividade real.'
+      negocios: [
+        'Movimentos de concorrentes apos o anuncio inicial.',
+        'Resultados financeiros e sinais de adocao do mercado.',
+        'Mudancas regulatórias ou contratuais ligadas ao tema.'
+      ],
+      geral: [
+        'Confirmacoes oficiais e atualizacoes da historia.',
+        'Dados adicionais que mudem a interpretacao inicial.',
+        'Reacao do publico e dos atores diretamente envolvidos.'
       ]
     };
 
-    return (watch[topic] || watch['produtividade-dev']).map((line) => `- ${line}`).join('\n');
+    return (watch[domain] || watch.geral).map((line) => `- ${line}`).join('\n');
   }
 
-  buildFaq(topic) {
+  buildFaq(domain, title) {
     const generic = [
       {
         q: '### O que aconteceu de fato?',
-        a: 'Houve um impasse entre as partes sobre requisitos de seguranca e governanca no uso de IA, com potencial impacto em contratos e continuidade de projetos.'
+        a: `A noticia "${Utils.truncateText(title || 'desta pauta', 100)}" apresenta um novo desdobramento com impacto direto para quem acompanha esse assunto.`
       },
       {
-        q: '### Qual o impacto para times de tecnologia?',
-        a: 'Times podem precisar rever riscos de fornecedor, compliance e arquitetura para reduzir dependencia e manter continuidade operacional.'
+        q: '### Qual o impacto pratico para o publico?',
+        a: 'O impacto depende do tipo de pauta, mas em geral afeta decisao de consumo, expectativa de lancamento ou forma de acompanhamento do tema.'
       },
       {
         q: '### O que fazer agora?',
-        a: 'Priorize mapeamento de dependencia, ajuste de politicas internas e acompanhamento de comunicados oficiais para agir antes de mudancas bruscas.'
+        a: 'A melhor estrategia e acompanhar fontes oficiais, comparar informacoes e aguardar confirmacoes antes de uma conclusao definitiva.'
       }
     ];
 
-    if (topic === 'seguranca-ia') {
-      generic[1].a = 'O impacto principal recai sobre controles de seguranca, auditoria de prompts e exigencias de rastreabilidade em sistemas com IA.';
+    if (domain === 'ia-dev') {
+      generic[1].q = '### Qual o impacto para times de tecnologia?';
+      generic[1].a = 'Times podem precisar rever arquitetura, custo, risco e governanca para adaptar o produto com seguranca.';
+      generic[2].a = 'Mapeie dependencia tecnica, revise criterios de risco e execute um teste controlado antes de escalar a mudanca.';
+    }
+
+    if (domain === 'games') {
+      generic[1].a = 'Para jogadores, o efeito aparece em escolha de plataforma, momento de compra e avaliacao de custo-beneficio.';
+    }
+
+    if (domain === 'seguranca') {
+      generic[1].a = 'O impacto pode envolver risco de exposicao de dados e necessidade de atualizacao imediata para reduzir vulnerabilidade.';
+      generic[2].a = 'Aplique recomendacoes oficiais, atualize sistemas e monitore sinais de exploracao ligados ao caso.';
     }
 
     return generic.map((item) => `${item.q}\n${item.a}`).join('\n\n');
@@ -274,14 +330,15 @@ class EditorialComposer {
 
   buildHeuristicContent(post, topic, title, rawFormatted, primarySource) {
     const sentences = this.sentenceCandidates(rawFormatted);
+    const domain = this.detectDomain(title, rawFormatted, topic);
     const summary = this.buildSummary(sentences, title);
-    const intro = this.buildIntro(topic, title);
-    const whyMatters = this.buildWhyMatters(topic, title);
-    const practical = this.buildPracticalImpact(topic);
-    const context = this.buildContext(topic, title);
-    const checklist = this.buildDeveloperChecklist(topic);
-    const watchList = this.buildWatchList(topic);
-    const faq = this.buildFaq(topic);
+    const intro = this.buildIntro(domain, title);
+    const whyMatters = this.buildWhyMatters(domain, title);
+    const practical = this.buildPracticalImpact(domain);
+    const context = this.buildContext(domain, title);
+    const checklist = this.buildDeveloperChecklist(domain);
+    const watchList = this.buildWatchList(domain);
+    const faq = this.buildFaq(domain, title);
     const sourceTransparency = this.buildSourceTransparency(post, primarySource);
 
     return [
@@ -296,7 +353,7 @@ class EditorialComposer {
       '## O que muda na pratica',
       practical,
       '',
-      '## Para devs/negocios (checklist)',
+      '## Checklist pratico',
       checklist,
       '',
       '## O que observar nos proximos dias',
@@ -315,13 +372,14 @@ class EditorialComposer {
 
   buildAIContent(post, aiDraft, primarySource) {
     const summary = this.normalizeAIBullets(aiDraft.summary_bullets);
-    const intro = this.buildIntro(post.topic || 'produtividade-dev', post.title);
+    const domain = this.detectDomain(post.title, post.raw_content || post.content || '', post.topic);
+    const intro = this.buildIntro(domain, post.title);
     const whyMatters = Utils.truncateText(String(aiDraft.why_matters || '').trim(), 700);
     const practical = this.normalizeAIActions(aiDraft.practical_actions);
-    const context = this.buildContext(post.topic || 'produtividade-dev', post.title);
-    const checklist = this.buildDeveloperChecklist(post.topic || 'produtividade-dev');
-    const watchList = this.buildWatchList(post.topic || 'produtividade-dev');
-    const faq = this.buildFaq(post.topic || 'produtividade-dev');
+    const context = this.buildContext(domain, post.title);
+    const checklist = this.buildDeveloperChecklist(domain);
+    const watchList = this.buildWatchList(domain);
+    const faq = this.buildFaq(domain, post.title);
     const resolvedSource = aiDraft.source_reference && /^https?:\/\//i.test(aiDraft.source_reference)
       ? aiDraft.source_reference
       : primarySource;
@@ -340,7 +398,7 @@ class EditorialComposer {
         '## O que muda na pratica',
         practical,
         '',
-        '## Para devs/negocios (checklist)',
+        '## Checklist pratico',
         checklist,
         '',
         '## O que observar nos proximos dias',
@@ -361,7 +419,8 @@ class EditorialComposer {
         latency_ms: aiDraft.latency_ms || null,
         fallback_used: Boolean(aiDraft.fallback_used),
         editorial_confidence: aiDraft.editorial_confidence || 0,
-        risk_flags: aiDraft.risk_flags || []
+        risk_flags: aiDraft.risk_flags || [],
+        domain
       }
     };
   }
@@ -370,6 +429,7 @@ class EditorialComposer {
     const rawFormatted = Utils.formatArticleContent(post.raw_content || post.content || '', {
       heroImageUrl: post.image_url || ''
     });
+
     const { topic, subtopic } = this.detectTopic(post.title, rawFormatted);
     const primarySource = post.original_url || post.source_url || '';
 

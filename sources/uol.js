@@ -56,13 +56,15 @@ class UolSource {
         feed = parsed;
       }
 
-      return feed.items.slice(0, config.MAX_POSTS_PER_SOURCE).map((item) => {
+      const posts = [];
+
+      for (const item of feed.items.slice(0, config.MAX_POSTS_PER_SOURCE)) {
         const title = Utils.normalizeEncoding(item.title);
         const raw_content = item['content:encoded'] || item.content || item.summary || '';
         const image_url = Utils.extractFirstImageUrl(item);
         const resolvedDate = this.resolveItemDate(item.pubDate || item.isoDate);
 
-        return {
+        posts.push({
           title,
           date: Utils.formatDate(resolvedDate),
           published_at: Utils.formatDate(resolvedDate),
@@ -74,8 +76,10 @@ class UolSource {
           raw_content,
           image_url,
           tags: Utils.extractTags(title, Utils.stripHtml(raw_content), this.name)
-        };
-      });
+        });
+      }
+
+      return posts;
     } catch (error) {
       logger.error(`Erro ao buscar ${this.name}`, { error: error.message });
       return [];

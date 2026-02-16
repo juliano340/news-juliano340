@@ -7,7 +7,7 @@ const REQUIRED_SECTIONS = [
   '## Resumo em 3 bullets',
   '## Contexto',
   '## O que muda na pratica',
-  '## Para devs/negocios (checklist)',
+  '## Checklist pratico',
   '## O que observar nos proximos dias',
   '## FAQ',
   '## Fonte e transparencia'
@@ -178,7 +178,7 @@ function buildStructuredBody(post, body) {
     '## O que muda na pratica',
     buildPractical(post.topic || ''),
     '',
-    '## Para devs/negocios (checklist)',
+    '## Checklist pratico',
     buildChecklist(post.topic || ''),
     '',
     '## O que observar nos proximos dias',

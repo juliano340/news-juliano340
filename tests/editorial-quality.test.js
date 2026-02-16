@@ -29,7 +29,7 @@ test('composer gera secoes editoriais obrigatorias', async () => {
     assert.equal(result.content.includes('**Topico 1**'), false, 'summary should not include numbered topic labels');
     assert.ok(result.content.includes('## Contexto'));
     assert.ok(result.content.includes('## O que muda na pratica'));
-    assert.ok(result.content.includes('## Para devs/negocios (checklist)'));
+    assert.ok(result.content.includes('## Checklist pratico'));
     assert.ok(result.content.includes('## O que observar nos proximos dias'));
     assert.ok(result.content.includes('## FAQ'));
     assert.ok(result.content.includes('## Fonte e transparencia'));
@@ -174,7 +174,7 @@ test('composer bloqueia publicacao quando IA e obrigatoria e draft falha', async
 
   try {
     const result = await editorial.compose({
-      title: 'Teste de bloqueio por IA obrigatoria',
+      title: 'Teste de bloqueio por IA obrigatoria em LLM para devs',
       raw_content: '<p>Conteudo de teste.</p>',
       source: 'Fonte Teste',
       original_url: 'https://example.com/noticia',

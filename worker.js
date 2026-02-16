@@ -14,7 +14,8 @@ const tecmundo = require('./sources/tecmundo');
 const uol = require('./sources/uol');
 
 class NewsWorker {
-  constructor() {
+  constructor(options = {}) {
+    this.dryRun = Boolean(options.dryRun);
     this.sources = [];
 
     if (config.SOURCES.G1.enabled) this.sources.push(g1);
@@ -40,7 +41,11 @@ class NewsWorker {
   async init() {
     await logger.init();
     await git.init();
-    await git.pull();
+    if (this.dryRun) {
+      logger.info('Dry-run ativo: pull desabilitado');
+    } else {
+      await git.pull();
+    }
     await fs.mkdir(config.REPORT_PATH, { recursive: true });
     await this.loadExistingPosts();
     logger.info('Iniciado');
@@ -224,6 +229,11 @@ class NewsWorker {
       ...report
     };
 
+    if (this.dryRun) {
+      logger.info('Dry-run: relatorio nao gravado', { slug: safeSlug, path: filePath });
+      return;
+    }
+
     await fs.writeFile(filePath, JSON.stringify(payload, null, 2), 'utf8');
   }
 
@@ -305,6 +315,23 @@ class NewsWorker {
 
     const fileName = Utils.generateFileName(post.slug);
     const filePath = path.join(config.POSTS_PATH, fileName);
+
+    if (this.dryRun) {
+      logger.info('Dry-run: post nao gravado', { title: post.title, slug: post.slug, file: filePath });
+
+      this.slugs.add(post.slug);
+      this.urls.add(post.original_url);
+      this.postIndex.push({
+        slug: post.slug,
+        title: post.title,
+        topic: post.topic || '',
+        date: post.date,
+        tags: post.tags || []
+      });
+      this.publishedPosts.push(post);
+
+      return true;
+    }
 
     await fs.writeFile(filePath, this.buildPostContent(post), 'utf8');
 
@@ -424,6 +451,11 @@ class NewsWorker {
   async generateDigests() {
     if (this.publishedPosts.length === 0) return;
 
+    if (this.dryRun) {
+      logger.info('Dry-run: digest nao gravado', { total: this.publishedPosts.length });
+      return;
+    }
+
     await fs.mkdir(config.DIGEST_PATH, { recursive: true });
 
     const now = new Date();
@@ -479,8 +511,12 @@ class NewsWorker {
     let erros = 0;
     let descartados = 0;
     let adiados = 0;
+    let blockedSemantic = 0;
 
     logger.info('Iniciando...');
+    if (this.dryRun) {
+      logger.info('Modo dry-run: sem gravacao, commit ou push');
+    }
 
     for (const source of this.sources) {
       try {
@@ -550,10 +586,11 @@ class NewsWorker {
               const failedChecks = (policyResult.quality?.checks || [])
                 .filter((check) => check.status === 'FAIL' && check.level === 'BLOCK')
                 .map((check) => check.id);
+              if (failedChecks.includes('semantic_alignment')) blockedSemantic += 1;
               logger.skip('Descartado por qualidade: ' + post.title, {
                 status: policyResult.quality?.status || 'BLOCK',
                 score: policyResult.quality?.score || 0,
-                errors: policyResult.quality?.reasons || [],
+                errors: policyResult.quality?.reasons || [policyResult.reason || 'descartado'],
                 failed_checks: failedChecks
               });
               continue;
@@ -587,8 +624,10 @@ class NewsWorker {
 
     await this.generateDigests();
 
-    if (novos > 0) {
+    if (novos > 0 && !this.dryRun) {
       await git.commitAndPush('feat: ' + novos + ' posts');
+    } else if (novos > 0 && this.dryRun) {
+      logger.info('Dry-run: commit/push ignorado', { novos });
     }
 
     logger.ok('Fim em ' + ((Date.now() - start) / 1000).toFixed(1) + 's', {
@@ -596,13 +635,15 @@ class NewsWorker {
       pulados,
       descartados,
       adiados,
-      erros
+      erros,
+      blocked_semantic_alignment: blockedSemantic
     });
   }
 }
 
 if (require.main === module) {
-  const worker = new NewsWorker();
+  const dryRun = process.argv.includes('--dry-run');
+  const worker = new NewsWorker({ dryRun });
   worker
     .init()
     .then(() => worker.run())

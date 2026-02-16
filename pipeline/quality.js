@@ -6,7 +6,7 @@ class QualityGate {
       '## Resumo em 3 bullets',
       '## Contexto',
       '## O que muda na pratica',
-      '## Para devs/negocios (checklist)',
+      '## Checklist pratico',
       '## O que observar nos proximos dias',
       '## FAQ',
       '## Fonte e transparencia'
@@ -91,6 +91,19 @@ class QualityGate {
     return new RegExp(`\\([^)]*${escaped}[^)]*\\)`, 'i').test(content || '');
   }
 
+  hasSemanticMismatch(post, content) {
+    const title = String(post.title || '').toLowerCase();
+    const body = String(content || '').toLowerCase();
+    const entertainmentSignals = ['ator', 'atriz', 'filme', 'serie', 'trailer', 'oscar', 'celebridade', 'curiosidades', 'cinema'];
+    const devSignals = ['backlog', 'roadmap', 'time de engenharia', 'lead time', 'pipeline', 'deploy', 'arquitetura', 'governanca de ia'];
+
+    const titleLooksEntertainment = entertainmentSignals.some((signal) => title.includes(signal));
+    const devCount = devSignals.filter((signal) => body.includes(signal)).length;
+    const bodyHasEntertainment = entertainmentSignals.some((signal) => body.includes(signal));
+
+    return titleLooksEntertainment && devCount >= 2 && !bodyHasEntertainment;
+  }
+
   evaluate(post, editorial) {
     const reasons = [];
     const warnings = [];
@@ -149,6 +162,9 @@ class QualityGate {
 
     const sourceInBody = this.hasExternalSourceLink(content, editorial.primary_source);
     registerCheck('source_link_in_body', sourceInBody, 'BLOCK', 'fonte_primaria_ausente_no_corpo');
+
+    const semanticMismatch = this.hasSemanticMismatch(post, content);
+    registerCheck('semantic_alignment', !semanticMismatch, 'BLOCK', 'desalinhamento_semantico_titulo_corpo');
 
     const internalLinks = this.countInternalLinks(content);
     registerCheck('internal_links', internalLinks >= limits.min_internal_links, 'WARN', 'poucos_links_internos', {

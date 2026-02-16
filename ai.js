@@ -96,7 +96,7 @@ class AIService {
 
   buildEditorialPrompt(payload) {
     return [
-      'Você é editor de tecnologia focado em IA para desenvolvedores.',
+      'Você é editor de noticias de tecnologia e cultura digital.',
       'Todos os textos devem ser escritos em Português do Brasil (pt-BR).',
       'Escreva com clareza, sem frases soltas, sem invenção de fatos.',
       'Use apenas as informações do material de entrada.',
@@ -114,9 +114,9 @@ class AIService {
       '}',
       '',
       'Regras:',
-      '- summary_bullets: exatamente 3 bullets curtos, distintos, orientados a devs.',
+      '- summary_bullets: exatamente 3 bullets curtos, distintos, fieis aos fatos da fonte.',
       '- why_matters: 1 parágrafo coeso, concreto, sem repetir os bullets.',
-      '- practical_actions: exatamente 3 ações executáveis para time técnico.',
+      '- practical_actions: exatamente 3 acoes praticas e coerentes com o tema da noticia.',
       '- context_bullets: 2 ou 3 bullets com contexto factual direto.',
       '- source_reference: URL da fonte principal fornecida.',
       '- Todos os campos textuais do JSON devem estar em Português do Brasil (pt-BR), mesmo quando a fonte estiver em outro idioma.',
@@ -139,7 +139,7 @@ class AIService {
           messages: [
             {
               role: 'system',
-              content: 'Você é um editor técnico rigoroso que retorna apenas JSON válido em Português do Brasil (pt-BR).'
+              content: 'Você é um editor rigoroso de noticias que retorna apenas JSON válido em Português do Brasil (pt-BR).'
             },
             {
               role: 'user',

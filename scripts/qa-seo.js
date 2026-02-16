@@ -7,7 +7,7 @@ const REQUIRED_SECTIONS = [
   '## Resumo em 3 bullets',
   '## Contexto',
   '## O que muda na pratica',
-  '## Para devs/negocios (checklist)',
+  '## Checklist pratico',
   '## O que observar nos proximos dias',
   '## FAQ',
   '## Fonte e transparencia'
@@ -96,7 +96,10 @@ function validatePost(file, frontmatter, body) {
   }
 
   for (const heading of REQUIRED_SECTIONS) {
-    if (!body.includes(heading)) errors.push(`secao_ausente:${heading}`);
+    if (!body.includes(heading)) {
+      const legacyChecklist = heading === '## Checklist pratico' && body.includes('## Para devs/negocios (checklist)');
+      if (!legacyChecklist) errors.push(`secao_ausente:${heading}`);
+    }
   }
 
   const faqCount = countFaqQuestions(body);
