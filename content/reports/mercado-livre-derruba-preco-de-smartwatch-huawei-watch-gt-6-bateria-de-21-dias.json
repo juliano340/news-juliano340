@@ -1,6 +1,6 @@
 {
-  "slug": "governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet",
-  "generated_at": "2026-02-16T17:08:16.807Z",
+  "slug": "mercado-livre-derruba-preco-de-smartwatch-huawei-watch-gt-6-bateria-de-21-dias",
+  "generated_at": "2026-02-16T17:03:26.325Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 351,
+      "words": 407,
       "min": 220
     },
     {

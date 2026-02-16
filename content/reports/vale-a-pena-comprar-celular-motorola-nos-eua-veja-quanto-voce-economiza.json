@@ -1,7 +1,7 @@
 {
-  "slug": "governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet",
-  "generated_at": "2026-02-16T17:08:16.807Z",
-  "status": "PASS",
+  "slug": "vale-a-pena-comprar-celular-motorola-nos-eua-veja-quanto-voce-economiza",
+  "generated_at": "2026-02-16T17:03:55.680Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 351,
+      "words": 299,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

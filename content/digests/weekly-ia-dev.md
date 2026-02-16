@@ -1,25 +1,18 @@
 # Weekly IA para Devs - 2026-02-16
 
-Gerado em 2026-02-16T15:11:45.409Z
+Gerado em 2026-02-16T17:08:17.813Z
 
-- [X fora do ar? Rede social tem instabilidade nesta segunda-feira](https://g1.globo.com/tecnologia/noticia/2026/02/16/rede-social-x-tem-instabilidade-nesta-segunda-feira.ghtml) | topico: produtividade-dev | score: 100
-- [Criador do OpenClaw é contratado pela OpenAI](https://tecnoblog.net/noticias/criador-do-openclaw-e-contratado-pela-openai/) | topico: agentes | score: 100
-- [Estamos em fevereiro e a Western Digital esgotou o estoque de HDs para o ano](https://tecnoblog.net/noticias/estamos-em-fevereiro-e-a-western-digital-esgotou-o-estoque-de-hds-para-o-ano/) | topico: llms | score: 100
-- [6 jogos de mundo aberto que você não conhece](https://canaltech.com.br/games/jogos-de-mundo-aberto-que-voce-nao-conhece/) | topico: geral | score: 92
-- [O X (ex-Twitter) caiu? App está fora do ar nesta segunda (16)](https://canaltech.com.br/apps/o-x-ex-twitter-caiu-app-esta-fora-do-ar-nesta-segunda-16/) | topico: geral | score: 100
-- [Como evitar a rolagem sem fim: 5 truques contra a exaustão em redes sociais](https://canaltech.com.br/apps/como-evitar-a-rolagem-sem-fim-5-truques-contra-a-exaustao-em-redes-sociais/) | topico: agentes | score: 100
-- [Amazon faz queima de iPhone 16e de 256 GB; celular no menor preço histórico](https://canaltech.com.br/smartphone/amazon-faz-queima-de-iphone-16e-de-256-gb-celular-no-menor-preco-historico/) | topico: geral | score: 100
-- [Celular resistente à água dura quanto tempo depois da garantia?](https://canaltech.com.br/smartphone/celular-resistente-a-agua-dura-quanto-tempo-depois-da-garantia/) | topico: geral | score: 100
-- [Trabalhar no sofá prejudica coluna? Ortopedistas explicam](https://canaltech.com.br/produtos/trabalhar-no-sofa-prejudica-coluna-ortopedistas-explicam/) | topico: produtividade-dev | score: 100
-- [Play Store ganha 4 apps e pacotes de ícones para baixar grátis por tempo limitado](https://www.tecmundo.com.br/software/410557-play-store-ganha-4-apps-e-pacotes-de-icones-para-baixar-gratis-por-tempo-limitado.htm) | topico: produtividade-dev | score: 100
-- [Festival das Grandes Marcas no Meli com até 60% OFF em Apple, Samsung, LG e mais marcas de eletrônicos](https://www.tecmundo.com.br/guia-de-compras/410767-festival-das-grandes-marcas-no-meli-com-ate-60-off-em-apple-samsung-lg-e-mais-marcas-de-eletronicos.htm) | topico: geral | score: 100
-- [Apple confirma evento para lançar iPhone 17e; saiba o que esperar](https://www.tecmundo.com.br/produto/410764-apple-confirma-evento-para-lancar-iphone-17e-saiba-o-que-esperar.htm) | topico: geral | score: 100
-- [X caiu? Antigo Twitter sofre com instabilidade nesta segunda (16)](https://www.tecmundo.com.br/internet/410762-x-caiu-antigo-twitter-sofre-com-instabilidade-nesta-segunda-16.htm) | topico: geral | score: 100
-- [Galaxy S26: novo vídeo promocional mostra função de privacidade na tela](https://www.tecmundo.com.br/produto/410760-galaxy-s26-novo-video-promocional-mostra-funcao-de-privacidade-na-tela.htm) | topico: geral | score: 100
-- [Conheça Chloé Zhao, diretora vencedora do Oscar que foi esnobada pelo MCU](https://www.tecmundo.com.br/minha-serie/603116-conheca-chloe-zhao-diretora-vencedora-do-oscar-que-foi-esnobada-pelo-mcu.htm) | topico: geral | score: 92
-- [Drones causam interrupção de voos no aeroporto de Guarulhos no domingo (15)](https://www.tecmundo.com.br/mercado/410757-drones-causam-interrupcao-de-voos-no-aeroporto-de-guarulhos-no-domingo-15.htm) | topico: geral | score: 100
-- [5 jogos curtos do PlayStation Plus para zerar em menos de cinco horas](https://www.tecmundo.com.br/voxel/503486-5-jogos-curtos-do-playstation-plus-para-zerar-em-menos-de-cinco-horas.htm) | topico: geral | score: 100
-- [Notebook Lenovo IdeaPad 1i por menos de R$ 2.000: confira os detalhes e a oferta](https://www.tecmundo.com.br/guia-de-compras/410758-notebook-lenovo-ideapad-1i-por-menos-de-r-2000-confira-os-detalhes-e-a-oferta.htm) | topico: geral | score: 100
-- [Primeiras imagens do Galaxy Z Fold “Wide” vazam e mostram formato de tablet](https://www.tecmundo.com.br/produto/410756-primeiras-imagens-do-galaxy-z-fold-wide-vazam-e-mostram-formato-de-tablet.htm) | topico: geral | score: 100
-- [X volta a funcionar após instabilidade nesta segunda no Brasil e nos EUA](https://www.uol.com.br/tilt/noticias/redacao/2026/02/16/x-apresenta-instabilidade-e-usuarios-reclamam-no-brasil-e-nos-eua.htm) | topico: geral | score: 92
-- [X fora do ar para milhares de usuários nos EUA, mostra o Downdetector](https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/x-fora-do-ar-para-milhares-de-usuarios-nos-eua-mostra-o-downdetector.htm) | topico: geral | score: 92
+- [GPT-4o: usuários fazem abaixo-assinado contra aposentadoria do modelo](https://tecnoblog.net/noticias/gpt-4o-usuarios-fazem-abaixo-assinado-contra-aposentadoria-do-modelo/) | topico: llms | score: 100
+- [Crise de chips de memória pode adiar sucessor do PlayStation 5 para 2028](https://tecnoblog.net/noticias/crise-de-chips-de-memoria-pode-adiar-sucessor-do-playstation-5-para-2028/) | topico: geral | score: 100
+- [Disney e Paramount reclamam de pirataria em nova IA](https://tecnoblog.net/noticias/disney-e-paramount-reclamam-de-pirataria-em-nova-ia/) | topico: geral | score: 92
+- [O que acontece quando seu celular para de receber atualizações?](https://canaltech.com.br/apps/o-que-acontece-quando-seu-celular-para-de-receber-atualizacoes/) | topico: geral | score: 85
+- [Mercado Livre derruba preço de smartwatch Huawei Watch GT 6; bateria de 21 dias](https://canaltech.com.br/smartwatch/mercado-livre-derruba-preco-de-smartwatch-huawei-watch-gt-6-bateria-de-21-dias/) | topico: geral | score: 100
+- [Vale a pena comprar celular Motorola nos EUA? Veja quanto você economiza](https://canaltech.com.br/smartphone/vale-a-pena-comprar-celular-motorola-nos-eua-veja-quanto-voce-economiza/) | topico: geral | score: 92
+- [Obama volta a falar sobre existência de aliens e se justifica](https://www.tecmundo.com.br/ciencia/410759-obama-volta-a-falar-sobre-existencia-de-aliens-e-se-justifica.htm) | topico: produtividade-dev | score: 100
+- [Wagner Moura entrega prêmio para Adolpho Veloso, por Sonhos de Trem, também indicado ao Oscar](https://www.tecmundo.com.br/minha-serie/603117-wagner-moura-entrega-premio-para-adolpho-veloso-por-sonhos-de-trem-tambem-indicado-ao-oscar.htm) | topico: geral | score: 92
+- [Razr 60 pelo menor preço: garanta o dobrável da Motorola com 41% OFF](https://www.tecmundo.com.br/guia-de-compras/410768-razr-60-pelo-menor-preco-garanta-o-dobravel-da-motorola-com-41-off.htm) | topico: geral | score: 100
+- [Kena Scars of Kosmora: Confira gameplay e tudo sobreo jogo para PC e PS5](https://www.tecmundo.com.br/voxel/503515-kena-scars-of-kosmora-confira-gameplay-e-tudo-sobreo-jogo-para-pc-e-ps5.htm) | topico: geral | score: 100
+- [Rede X volta a funcionar após interrupção nos EUA e no Reino Unido, segundo o Downdetector](https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/rede-x-volta-a-funcionar-apos-interrupcao-nos-eua-e-no-reino-unido-segundo-o-downdetector.htm) | topico: geral | score: 92
+- [Consórcio entre EAU e Iraque planeja cabo de dados de US$ 700 milhões para rivalizar com ligação entre Arábia Saudita e Síria](https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/consorcio-entre-eau-e-iraque-planeja-cabo-de-dados-de-us-700-milhoes-para-rivalizar-com-ligacao-entre-arabia-saudita-e-siria.htm) | topico: geral | score: 100
+- [Robôs humanóides chineses são centro das atenções no espetáculo do Ano Novo Lunar](https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/robos-humanoides-chineses-sao-centro-das-atencoes-no-espetaculo-do-ano-novo-lunar.htm) | topico: geral | score: 92
+- [Governo Lula definirá o que é pornografia em regra para idade na internet](https://www.uol.com.br/tilt/noticias/redacao/2026/02/16/governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet.htm) | topico: geral | score: 100

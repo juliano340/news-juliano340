@@ -1,6 +1,6 @@
 {
-  "slug": "governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet",
-  "generated_at": "2026-02-16T17:08:16.807Z",
+  "slug": "consorcio-entre-eau-e-iraque-planeja-cabo-de-dados-de-usdollar-700-milhoes-para-rivalizar-com-ligacao-entre-arabia-saudita-e-siria",
+  "generated_at": "2026-02-16T17:07:14.895Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 351,
+      "words": 334,
       "min": 220
     },
     {

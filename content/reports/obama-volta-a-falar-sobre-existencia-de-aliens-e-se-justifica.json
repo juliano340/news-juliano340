@@ -1,6 +1,6 @@
 {
-  "slug": "governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet",
-  "generated_at": "2026-02-16T17:08:16.807Z",
+  "slug": "obama-volta-a-falar-sobre-existencia-de-aliens-e-se-justifica",
+  "generated_at": "2026-02-16T17:04:48.082Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 351,
+      "words": 361,
       "min": 220
     },
     {

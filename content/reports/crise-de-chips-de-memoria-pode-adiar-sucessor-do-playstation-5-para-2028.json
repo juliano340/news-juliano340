@@ -1,6 +1,6 @@
 {
-  "slug": "governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet",
-  "generated_at": "2026-02-16T17:08:16.807Z",
+  "slug": "crise-de-chips-de-memoria-pode-adiar-sucessor-do-playstation-5-para-2028",
+  "generated_at": "2026-02-16T17:01:48.240Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 351,
+      "words": 325,
       "min": 220
     },
     {
