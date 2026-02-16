@@ -1,61 +1,196 @@
 {
-  "generated_at": "2026-02-16T13:04:25.520Z",
+  "generated_at": "2026-02-16T15:11:45.409Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 21,
   "posts": [
     {
-      "title": "Kindle cansa mais a visão do que livro físico? Veja o que muda na prática",
-      "slug": "kindle-cansa-mais-a-visao-do-que-livro-fisico-veja-o-que-muda-na-pratica",
+      "title": "X fora do ar? Rede social tem instabilidade nesta segunda-feira",
+      "slug": "x-fora-do-ar-rede-social-tem-instabilidade-nesta-segunda-feira",
+      "topic": "produtividade-dev",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-16T13:52:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/16/rede-social-x-tem-instabilidade-nesta-segunda-feira.ghtml"
+    },
+    {
+      "title": "Criador do OpenClaw é contratado pela OpenAI",
+      "slug": "criador-do-openclaw-e-contratado-pela-openai",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-02-16T14:35:01.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/criador-do-openclaw-e-contratado-pela-openai/"
+    },
+    {
+      "title": "Estamos em fevereiro e a Western Digital esgotou o estoque de HDs para o ano",
+      "slug": "estamos-em-fevereiro-e-a-western-digital-esgotou-o-estoque-de-hds-para-o-ano",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-02-16T14:25:41.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/estamos-em-fevereiro-e-a-western-digital-esgotou-o-estoque-de-hds-para-o-ano/"
+    },
+    {
+      "title": "6 jogos de mundo aberto que você não conhece",
+      "slug": "6-jogos-de-mundo-aberto-que-voce-nao-conhece",
       "topic": "geral",
       "source": "Canaltech",
+      "date": "2026-02-16T15:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/jogos-de-mundo-aberto-que-voce-nao-conhece/"
+    },
+    {
+      "title": "O X (ex-Twitter) caiu? App está fora do ar nesta segunda (16)",
+      "slug": "o-x-ex-twitter-caiu-app-esta-fora-do-ar-nesta-segunda-16",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-16T14:29:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/o-x-ex-twitter-caiu-app-esta-fora-do-ar-nesta-segunda-16/"
+    },
+    {
+      "title": "Como evitar a rolagem sem fim: 5 truques contra a exaustão em redes sociais",
+      "slug": "como-evitar-a-rolagem-sem-fim-5-truques-contra-a-exaustao-em-redes-sociais",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-16T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-evitar-a-rolagem-sem-fim-5-truques-contra-a-exaustao-em-redes-sociais/"
+    },
+    {
+      "title": "Amazon faz queima de iPhone 16e de 256 GB; celular no menor preço histórico",
+      "slug": "amazon-faz-queima-de-iphone-16e-de-256-gb-celular-no-menor-preco-historico",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-16T13:37:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/amazon-faz-queima-de-iphone-16e-de-256-gb-celular-no-menor-preco-historico/"
+    },
+    {
+      "title": "Celular resistente à água dura quanto tempo depois da garantia?",
+      "slug": "celular-resistente-a-agua-dura-quanto-tempo-depois-da-garantia",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-16T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celular-resistente-a-agua-dura-quanto-tempo-depois-da-garantia/"
+    },
+    {
+      "title": "Trabalhar no sofá prejudica coluna? Ortopedistas explicam",
+      "slug": "trabalhar-no-sofa-prejudica-coluna-ortopedistas-explicam",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-16T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/trabalhar-no-sofa-prejudica-coluna-ortopedistas-explicam/"
+    },
+    {
+      "title": "Play Store ganha 4 apps e pacotes de ícones para baixar grátis por tempo limitado",
+      "slug": "play-store-ganha-4-apps-e-pacotes-de-icones-para-baixar-gratis-por-tempo-limitado",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-16T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/410557-play-store-ganha-4-apps-e-pacotes-de-icones-para-baixar-gratis-por-tempo-limitado.htm"
+    },
+    {
+      "title": "Festival das Grandes Marcas no Meli com até 60% OFF em Apple, Samsung, LG e mais marcas de eletrônicos",
+      "slug": "festival-das-grandes-marcas-no-meli-com-ate-60percent-off-em-apple-samsung-lg-e-mais-marcas-de-eletronicos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T14:56:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410767-festival-das-grandes-marcas-no-meli-com-ate-60-off-em-apple-samsung-lg-e-mais-marcas-de-eletronicos.htm"
+    },
+    {
+      "title": "Apple confirma evento para lançar iPhone 17e; saiba o que esperar",
+      "slug": "apple-confirma-evento-para-lancar-iphone-17e-saiba-o-que-esperar",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T14:39:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410764-apple-confirma-evento-para-lancar-iphone-17e-saiba-o-que-esperar.htm"
+    },
+    {
+      "title": "X caiu? Antigo Twitter sofre com instabilidade nesta segunda (16)",
+      "slug": "x-caiu-antigo-twitter-sofre-com-instabilidade-nesta-segunda-16",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T14:26:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/410762-x-caiu-antigo-twitter-sofre-com-instabilidade-nesta-segunda-16.htm"
+    },
+    {
+      "title": "Galaxy S26: novo vídeo promocional mostra função de privacidade na tela",
+      "slug": "galaxy-s26-novo-video-promocional-mostra-funcao-de-privacidade-na-tela",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T14:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410760-galaxy-s26-novo-video-promocional-mostra-funcao-de-privacidade-na-tela.htm"
+    },
+    {
+      "title": "Conheça Chloé Zhao, diretora vencedora do Oscar que foi esnobada pelo MCU",
+      "slug": "conheca-chloe-zhao-diretora-vencedora-do-oscar-que-foi-esnobada-pelo-mcu",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T13:45:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603116-conheca-chloe-zhao-diretora-vencedora-do-oscar-que-foi-esnobada-pelo-mcu.htm"
+    },
+    {
+      "title": "Drones causam interrupção de voos no aeroporto de Guarulhos no domingo (15)",
+      "slug": "drones-causam-interrupcao-de-voos-no-aeroporto-de-guarulhos-no-domingo-15",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/410757-drones-causam-interrupcao-de-voos-no-aeroporto-de-guarulhos-no-domingo-15.htm"
+    },
+    {
+      "title": "5 jogos curtos do PlayStation Plus para zerar em menos de cinco horas",
+      "slug": "5-jogos-curtos-do-playstation-plus-para-zerar-em-menos-de-cinco-horas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T13:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503486-5-jogos-curtos-do-playstation-plus-para-zerar-em-menos-de-cinco-horas.htm"
+    },
+    {
+      "title": "Notebook Lenovo IdeaPad 1i por menos de R$ 2.000: confira os detalhes e a oferta",
+      "slug": "notebook-lenovo-ideapad-1i-por-menos-de-rdollar-2000-confira-os-detalhes-e-a-oferta",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-16T13:04:31.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410758-notebook-lenovo-ideapad-1i-por-menos-de-r-2000-confira-os-detalhes-e-a-oferta.htm"
+    },
+    {
+      "title": "Primeiras imagens do Galaxy Z Fold “Wide” vazam e mostram formato de tablet",
+      "slug": "primeiras-imagens-do-galaxy-z-fold-wide-vazam-e-mostram-formato-de-tablet",
+      "topic": "geral",
+      "source": "Tecmundo",
       "date": "2026-02-16T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/kindle-cansa-mais-a-visao-do-que-livro-fisico-veja-o-que-muda-na-pratica/"
+      "original_url": "https://www.tecmundo.com.br/produto/410756-primeiras-imagens-do-galaxy-z-fold-wide-vazam-e-mostram-formato-de-tablet.htm"
     },
     {
-      "title": "Dependência digital: entenda os sinais de alerta do uso excessivo do celular",
-      "slug": "dependencia-digital-entenda-os-sinais-de-alerta-do-uso-excessivo-do-celular",
+      "title": "X volta a funcionar após instabilidade nesta segunda no Brasil e nos EUA",
+      "slug": "x-volta-a-funcionar-apos-instabilidade-nesta-segunda-no-brasil-e-nos-eua",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-16T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/internet/dependencia-digital-entenda-os-sinais-de-alerta-do-uso-excessivo-do-celular/"
-    },
-    {
-      "title": "Criador do OpenClaw é contratado pela OpenAI e promete manter projeto em código aberto",
-      "slug": "criador-do-openclaw-e-contratado-pela-openai-e-promete-manter-projeto-em-codigo-aberto",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-16T12:30:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-16T14:08:41.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/410755-criador-do-openclaw-e-contratado-pela-openai-e-promete-manter-projeto-em-codigo-aberto.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/16/x-apresenta-instabilidade-e-usuarios-reclamam-no-brasil-e-nos-eua.htm"
     },
     {
-      "title": "Prime Video possui dois filmes indicados ao Oscar 2026! Conheça",
-      "slug": "prime-video-possui-dois-filmes-indicados-ao-oscar-2026-conheca",
+      "title": "X fora do ar para milhares de usuários nos EUA, mostra o Downdetector",
+      "slug": "x-fora-do-ar-para-milhares-de-usuarios-nos-eua-mostra-o-downdetector",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-16T11:45:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-16T14:07:19.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603101-prime-video-possui-dois-filmes-indicados-ao-oscar-2026-conheca.htm"
-    },
-    {
-      "title": "7 jogos com o Batman fora da franquia Arkham",
-      "slug": "7-jogos-com-o-batman-fora-da-franquia-arkham",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-16T11:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503436-7-jogos-com-o-batman-fora-da-franquia-arkham.htm"
-    },
-    {
-      "title": "Aposta simples: o que é e como funciona? Guia completo",
-      "slug": "aposta-simples-o-que-e-e-como-funciona-guia-completo",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-16T10:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410643-aposta-simples-o-que-e-e-como-funciona-guia-completo.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/16/x-fora-do-ar-para-milhares-de-usuarios-nos-eua-mostra-o-downdetector.htm"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "trabalhar-no-sofa-prejudica-coluna-ortopedistas-explicam",
-  "generated_at": "2026-02-16T15:04:38.532Z",
+  "slug": "festival-das-grandes-marcas-no-meli-com-ate-60percent-off-em-apple-samsung-lg-e-mais-marcas-de-eletronicos",
+  "generated_at": "2026-02-16T15:05:43.094Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 364,
+      "words": 337,
       "min": 220
     },
     {

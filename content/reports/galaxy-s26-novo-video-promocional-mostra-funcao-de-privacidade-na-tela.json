@@ -1,6 +1,6 @@
 {
-  "slug": "trabalhar-no-sofa-prejudica-coluna-ortopedistas-explicam",
-  "generated_at": "2026-02-16T15:04:38.532Z",
+  "slug": "galaxy-s26-novo-video-promocional-mostra-funcao-de-privacidade-na-tela",
+  "generated_at": "2026-02-16T15:07:14.431Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 364,
+      "words": 317,
       "min": 220
     },
     {

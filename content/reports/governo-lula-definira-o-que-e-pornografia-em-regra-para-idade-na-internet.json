@@ -1,0 +1,19 @@
+{
+  "slug": "governo-lula-definira-o-que-e-pornografia-em-regra-para-idade-na-internet",
+  "generated_at": "2026-02-16T15:11:44.407Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
