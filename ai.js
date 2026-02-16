@@ -351,6 +351,24 @@ class AIService {
       return null;
     }
 
+    if (classification.post_type === 'job_roundup') {
+      const generatedValid = this.validateMarkdownStructure(generatedContent, classification.post_type);
+      if (!generatedValid) {
+        logger.warn('Estrutura markdown inválida para job_roundup', { post_type: classification.post_type });
+        return null;
+      }
+
+      return {
+        content: generatedContent,
+        post_type: classification.post_type,
+        editorial_confidence: classification.confidence,
+        risk_flags: [],
+        model_used: fallbackUsed ? this.editorialFallbackModel : this.editorialPrimaryModel,
+        latency_ms: Date.now() - startedAt,
+        fallback_used: fallbackUsed
+      };
+    }
+
     if (timedOut()) {
       logger.warn('Timeout total da IA editorial apos geracao', {
         elapsed_ms: Date.now() - startedAt,

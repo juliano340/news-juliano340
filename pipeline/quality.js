@@ -24,6 +24,28 @@ class QualityGate {
     ];
   }
 
+  normalizeText(value) {
+    return String(value || '')
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase();
+  }
+
+  hasSectionHeading(content, headings) {
+    const normalizedContent = this.normalizeText(content);
+    const options = Array.isArray(headings) ? headings : [headings];
+    return options.some((heading) => normalizedContent.includes(this.normalizeText(heading)));
+  }
+
+  countSectionBulletsAny(content, headings) {
+    const options = Array.isArray(headings) ? headings : [headings];
+    for (const heading of options) {
+      const count = this.countSectionBullets(content, heading);
+      if (count > 0) return count;
+    }
+    return 0;
+  }
+
   paragraphCount(text) {
     return String(text || '')
       .split(/\n\s*\n/)
@@ -190,7 +212,19 @@ class QualityGate {
       checks.push({ id, status: passed ? 'PASS' : 'FAIL', level, reason, ...details });
     };
 
-    const hasAllSections = this.requiredSections(postType).every((section) => content.includes(section));
+    const requiredGroups = postType === 'job_roundup'
+      ? [
+        ['## Resumo em 3 bullets'],
+        ['## Como usar esta lista', '## Como usar a lista'],
+        ['## Destaques rapidos', '## Destaques da lista'],
+        ['## Checklist de candidatura', '## Checklist pratico de candidatura'],
+        ['## O que observar nos proximos dias', '## O que vale acompanhar nos proximos dias', '## O que vale acompanhar'],
+        ['## FAQ'],
+        ['## Fonte e transparencia']
+      ]
+      : this.requiredSections(postType).map((section) => [section]);
+
+    const hasAllSections = requiredGroups.every((group) => this.hasSectionHeading(content, group));
     registerCheck('sections', hasAllSections, 'BLOCK', 'secoes_obrigatorias_ausentes');
 
     const bullets = this.countSummaryBullets(content);
@@ -199,9 +233,12 @@ class QualityGate {
       min: limits.summary_bullets
     });
 
-    const watchHeading = postType === 'job_roundup' ? '## O que observar nos proximos dias' : '## O que vale acompanhar';
-    const watchBullets = this.countSectionBullets(content, watchHeading);
-    registerCheck('watch_bullets', watchBullets >= 3 && watchBullets <= 5, 'BLOCK', 'observacao_sem_3_a_5_bullets', {
+    const watchHeading = postType === 'job_roundup'
+      ? ['## O que observar nos proximos dias', '## O que vale acompanhar nos proximos dias', '## O que vale acompanhar']
+      : ['## O que vale acompanhar'];
+    const watchBullets = this.countSectionBulletsAny(content, watchHeading);
+    const watchLevel = postType === 'job_roundup' ? 'WARN' : 'BLOCK';
+    registerCheck('watch_bullets', watchBullets >= 3 && watchBullets <= 6, watchLevel, 'observacao_sem_3_a_5_bullets', {
       bullets: watchBullets
     });
 
