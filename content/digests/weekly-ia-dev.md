@@ -1,14 +1,14 @@
 # Weekly IA para Devs - 2026-02-17
 
-Gerado em 2026-02-17T19:05:23.890Z
+Gerado em 2026-02-17T21:05:01.674Z
 
-- [Acer e Asus suspendem vendas de PCs na Alemanha após vitória da Nokia na Justiça](https://tecnoblog.net/noticias/acer-e-asus-suspendem-vendas-de-pcs-na-alemanha-apos-vitoria-da-nokia-na-justica/) | topico: produtividade-dev | score: 100
-- [Gentoo Linux abandona GitHub por causa da IA da plataforma](https://tecnoblog.net/noticias/gentoo-linux-abandona-github-por-causa-da-ia-da-plataforma/) | topico: produtividade-dev | score: 100
-- [8 curiosidades da franquia Resident Evil](https://canaltech.com.br/games/8-curiosidades-da-franquia-resident-evil/) | topico: geral | score: 100
-- [Fuja de golpes: como bloquear chamadas de vídeos de desconhecidos no WhatsApp](https://canaltech.com.br/apps/fuja-de-golpes-como-bloquear-chamadas-de-videos-de-desconhecidos-no-whatsapp/) | topico: geral | score: 100
-- [Motorola Edge 60 Pro de 256 GB cai muito de preço na Amazon com cupom relâmpago](https://canaltech.com.br/smartphone/motorola-edge-60-pro-de-256-gb-cai-muito-de-preco-na-amazon-com-cupom-relampago/) | topico: geral | score: 100
-- [Xbox Game Pass recebe The Witcher e Kindgom Come Deliverance 2! Veja lançamentos](https://www.tecmundo.com.br/voxel/503539-xbox-game-pass-recebe-the-witcher-e-kindgom-come-deliverance-2-veja-lancamentos.htm) | topico: geral | score: 100
-- [Headsets, controles, jogos e mais de grandes marcas com até 61% OFF no Mercado Livre](https://www.tecmundo.com.br/voxel/503540-headsets-controles-jogos-e-mais-de-grandes-marcas-com-ate-61-off-no-mercado-livre.htm) | topico: geral | score: 92
-- [ChatGPT terá acesso ao seu número de telefone? Entenda nova política](https://www.tecmundo.com.br/seguranca/410787-chatgpt-tera-acesso-ao-seu-numero-de-telefone-entenda-nova-politica.htm) | topico: geral | score: 100
-- [Netflix acusa Paramount de enganar a Warner Bros. em nova fase da batalha pela aquisição](https://www.tecmundo.com.br/minha-serie/603125-netflix-acusa-paramount-de-enganar-a-warner-bros-em-nova-fase-da-batalha-pela-aquisicao.htm) | topico: geral | score: 92
-- [AMD pressiona Intel com bons resultados em chips para data centers e PCs](https://www.tecmundo.com.br/mercado/410793-amd-pressiona-intel-com-bons-resultados-em-chips-para-data-centers-e-pcs.htm) | topico: geral | score: 100
+- [Smart TV Samsung QLED Ultra 43” possui 34% OFF em até 12x na Amazon](https://tecnoblog.net/achados/smart-tv-samsung-qled-ultra-43-possui-34-off-em-ate-12x-na-amazon/) | topico: geral | score: 100
+- [Galaxy A36 5G fica pela metade do preço com cupom em promoção na Amazon](https://tecnoblog.net/achados/galaxy-a36-5g-fica-pela-metade-do-preco-com-cupom-em-promocao-na-amazon/) | topico: geral | score: 92
+- [Quais as diferenças entre blindagem e película anti-vandalismo no carro?](https://canaltech.com.br/carros/quais-as-diferencas-entre-blindagem-e-pelicula-anti-vandalismo-no-carro/) | topico: geral | score: 100
+- [Google I/O 2026 é confirmado com novidades no Gemini, Android e Chrome](https://www.tecmundo.com.br/produto/410808-google-io-2026-e-confirmado-com-novidades-no-gemini-android-e-chrome.htm) | topico: agentes | score: 100
+- [9 recursos que chegarão aos iPhones com o iOS 26.4; confira a lista](https://www.tecmundo.com.br/produto/410798-9-recursos-que-chegarao-aos-iphones-com-o-ios-264-confira-a-lista.htm) | topico: frameworks | score: 100
+- [PS4 ainda recebe lançamentos em 2026! Veja lista de novos jogos](https://www.tecmundo.com.br/voxel/503384-ps4-ainda-recebe-lancamentos-em-2026-veja-lista-de-novos-jogos.htm) | topico: geral | score: 100
+- [Drone ucraniano acha 'armazém de antiguidades' durante missão](https://www.tecmundo.com.br/seguranca/410791-drone-ucraniano-acha-armazem-de-antiguidades-durante-missao.htm) | topico: geral | score: 100
+- [Robôs aspiradores em promoção e com cupons no Magazine Luiza; aproveite](https://www.tecmundo.com.br/guia-de-compras/410804-robos-aspiradores-em-promocao-e-com-cupons-no-magazine-luiza-aproveite.htm) | topico: agentes | score: 100
+- [Scorcese é confirmado em O Mandaloriano e Grogu! Veja trailer do filme](https://www.tecmundo.com.br/minha-serie/603127-scorcese-e-confirmado-em-o-mandaloriano-e-grogu-veja-trailer-do-filme.htm) | topico: geral | score: 92
+- [Paramount tem sete dias para convencer Warner Bros a abandonar Netflix](https://www.tecmundo.com.br/internet/410790-paramount-tem-sete-dias-para-convencer-warner-bros-a-abandonar-netflix.htm) | topico: geral | score: 92
