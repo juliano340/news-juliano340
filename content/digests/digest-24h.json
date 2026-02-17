@@ -1,52 +1,88 @@
 {
-  "generated_at": "2026-02-17T11:02:59.852Z",
+  "generated_at": "2026-02-17T13:06:30.524Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 9,
   "posts": [
     {
-      "title": "Santander, Ticketmaster e agora Tinder: quem é o grupo ShinyHunters?",
-      "slug": "santander-ticketmaster-e-agora-tinder-quem-e-o-grupo-shinyhunters",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-17T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/santander-ticketmaster-e-agora-tinder-quem-e-o-grupo-shinyhunters/"
-    },
-    {
-      "title": "10 apps essenciais para quem comprou um iPad em 2026",
-      "slug": "10-apps-essenciais-para-quem-comprou-um-ipad-em-2026",
+      "title": "Espanha investigará X, Meta e TikTok por material de abuso sexual infantil gerado por IA",
+      "slug": "espanha-investigara-x-meta-e-tiktok-por-material-de-abuso-sexual-infantil-gerado-por-ia",
       "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-17T07:54:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/17/espanha-investigara-apps-abuso-infantil-ia.ghtml"
+    },
+    {
+      "title": "Gboard, teclado do Google, deve ganhar modo “trackpad” em breve",
+      "slug": "gboard-teclado-do-google-deve-ganhar-modo-trackpad-em-breve",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-17T12:24:34.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/gboard-teclado-do-google-deve-ganhar-modo-trackpad-em-breve/"
+    },
+    {
+      "title": "Como transformar seu celular velho em um PlayStation",
+      "slug": "como-transformar-seu-celular-velho-em-um-playstation",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-17T10:00:00.000Z",
+      "date": "2026-02-17T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/10-apps-essenciais-para-quem-comprou-um-ipad-em-2026/"
+      "original_url": "https://canaltech.com.br/smartphone/como-transformar-seu-celular-velho-em-um-playstation/"
     },
     {
-      "title": "Drones autônomos: o que é, qual é a autonomia e exemplos reais",
-      "slug": "drones-autonomos-o-que-e-qual-e-a-autonomia-e-exemplos-reais",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-17T10:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410662-drones-autonomos-o-que-e-qual-e-a-autonomia-e-exemplos-reais.htm"
+      "title": "Por que o ouvido \"tampa\" quando viajamos de avião? 3 dicas para destampar",
+      "slug": "por-que-o-ouvido-tampa-quando-viajamos-de-aviao-3-dicas-para-destampar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-17T12:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/carros/por-que-o-ouvido-tampa-quando-viajamos-de-aviao-3-dicas-para-destampar/"
     },
     {
-      "title": "Palpites para Nacional Potosí x Botafogo: Análises e Onde Assistir (18/02/2026)",
-      "slug": "palpites-para-nacional-potosi-x-botafogo-analises-e-onde-assistir-18022026",
+      "title": "Windows 11 26H2: tudo sobre a próxima grande atualização do sistema",
+      "slug": "windows-11-26h2-tudo-sobre-a-proxima-grande-atualizacao-do-sistema",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-17T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/software/windows-11-26h2-tudo-sobre-a-proxima-grande-atualizacao-do-sistema/"
+    },
+    {
+      "title": "HDDs também ficarão mais caros por causa da IA e crise preocupa Western Digital",
+      "slug": "hdds-tambem-ficarao-mais-caros-por-causa-da-ia-e-crise-preocupa-western-digital",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-17T10:00:00.000Z",
+      "date": "2026-02-17T12:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410728-palpites-para-nacional-potosi-x-botafogo-analises-e-onde-assistir-18022026.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410775-hdds-tambem-ficarao-mais-caros-por-causa-da-ia-e-crise-preocupa-western-digital.htm"
     },
     {
-      "title": "Palpites para O'Higgins x Bahia: Análises e Onde Assistir (18/02/2026)",
-      "slug": "palpites-para-ohiggins-x-bahia-analises-e-onde-assistir-18022026",
-      "topic": "produtividade-dev",
+      "title": "IA de vídeo Seedance 2.0 será limitada após reclamações de Hollywood",
+      "slug": "ia-de-video-seedance-20-sera-limitada-apos-reclamacoes-de-hollywood",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-17T09:00:00.000Z",
+      "date": "2026-02-17T12:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410743-palpites-para-ohiggins-x-bahia-analises-e-onde-assistir-18022026.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/410778-ia-de-video-seedance-20-sera-limitada-apos-reclamacoes-de-hollywood.htm"
+    },
+    {
+      "title": "Meu PC roda Resident Evil Requiem? Veja requisitos mínimos e recomendados",
+      "slug": "meu-pc-roda-resident-evil-requiem-veja-requisitos-minimos-e-recomendados",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503499-meu-pc-roda-resident-evil-requiem-veja-requisitos-minimos-e-recomendados.htm"
+    },
+    {
+      "title": "Breaking Bad: como estão os atores da série hoje",
+      "slug": "breaking-bad-como-estao-os-atores-da-serie-hoje",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T11:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/602964-breaking-bad-como-estao-os-atores-da-serie-hoje.htm"
     }
   ]
 }

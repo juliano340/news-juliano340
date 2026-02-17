@@ -1,6 +1,6 @@
 {
-  "slug": "espanha-investigara-x-meta-e-tiktok-por-material-de-abuso-sexual-infantil-gerado-por-ia",
-  "generated_at": "2026-02-17T13:00:59.881Z",
+  "slug": "windows-11-26h2-tudo-sobre-a-proxima-grande-atualizacao-do-sistema",
+  "generated_at": "2026-02-17T13:03:30.749Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 376,
+      "words": 368,
       "min": 220
     },
     {

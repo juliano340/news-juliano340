@@ -1,6 +1,6 @@
 {
-  "slug": "espanha-investigara-x-meta-e-tiktok-por-material-de-abuso-sexual-infantil-gerado-por-ia",
-  "generated_at": "2026-02-17T13:00:59.881Z",
+  "slug": "meu-pc-roda-resident-evil-requiem-veja-requisitos-minimos-e-recomendados",
+  "generated_at": "2026-02-17T13:05:46.101Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 376,
+      "words": 324,
       "min": 220
     },
     {

@@ -1,9 +1,13 @@
 # Weekly IA para Devs - 2026-02-17
 
-Gerado em 2026-02-17T11:02:59.852Z
+Gerado em 2026-02-17T13:06:30.524Z
 
-- [Santander, Ticketmaster e agora Tinder: quem é o grupo ShinyHunters?](https://canaltech.com.br/seguranca/santander-ticketmaster-e-agora-tinder-quem-e-o-grupo-shinyhunters/) | topico: geral | score: 100
-- [10 apps essenciais para quem comprou um iPad em 2026](https://canaltech.com.br/apps/10-apps-essenciais-para-quem-comprou-um-ipad-em-2026/) | topico: agentes | score: 100
-- [Drones autônomos: o que é, qual é a autonomia e exemplos reais](https://www.tecmundo.com.br/produto/410662-drones-autonomos-o-que-e-qual-e-a-autonomia-e-exemplos-reais.htm) | topico: seguranca-ia | score: 100
-- [Palpites para Nacional Potosí x Botafogo: Análises e Onde Assistir (18/02/2026)](https://www.tecmundo.com.br/apostas/410728-palpites-para-nacional-potosi-x-botafogo-analises-e-onde-assistir-18022026.htm) | topico: geral | score: 92
-- [Palpites para O'Higgins x Bahia: Análises e Onde Assistir (18/02/2026)](https://www.tecmundo.com.br/apostas/410743-palpites-para-ohiggins-x-bahia-analises-e-onde-assistir-18022026.htm) | topico: produtividade-dev | score: 100
+- [Espanha investigará X, Meta e TikTok por material de abuso sexual infantil gerado por IA](https://g1.globo.com/tecnologia/noticia/2026/02/17/espanha-investigara-apps-abuso-infantil-ia.ghtml) | topico: agentes | score: 100
+- [Gboard, teclado do Google, deve ganhar modo “trackpad” em breve](https://tecnoblog.net/noticias/gboard-teclado-do-google-deve-ganhar-modo-trackpad-em-breve/) | topico: produtividade-dev | score: 100
+- [Como transformar seu celular velho em um PlayStation](https://canaltech.com.br/smartphone/como-transformar-seu-celular-velho-em-um-playstation/) | topico: geral | score: 100
+- [Por que o ouvido "tampa" quando viajamos de avião? 3 dicas para destampar](https://canaltech.com.br/carros/por-que-o-ouvido-tampa-quando-viajamos-de-aviao-3-dicas-para-destampar/) | topico: geral | score: 92
+- [Windows 11 26H2: tudo sobre a próxima grande atualização do sistema](https://canaltech.com.br/software/windows-11-26h2-tudo-sobre-a-proxima-grande-atualizacao-do-sistema/) | topico: geral | score: 100
+- [HDDs também ficarão mais caros por causa da IA e crise preocupa Western Digital](https://www.tecmundo.com.br/produto/410775-hdds-tambem-ficarao-mais-caros-por-causa-da-ia-e-crise-preocupa-western-digital.htm) | topico: geral | score: 92
+- [IA de vídeo Seedance 2.0 será limitada após reclamações de Hollywood](https://www.tecmundo.com.br/mercado/410778-ia-de-video-seedance-20-sera-limitada-apos-reclamacoes-de-hollywood.htm) | topico: geral | score: 100
+- [Meu PC roda Resident Evil Requiem? Veja requisitos mínimos e recomendados](https://www.tecmundo.com.br/voxel/503499-meu-pc-roda-resident-evil-requiem-veja-requisitos-minimos-e-recomendados.htm) | topico: geral | score: 100
+- [Breaking Bad: como estão os atores da série hoje](https://www.tecmundo.com.br/minha-serie/602964-breaking-bad-como-estao-os-atores-da-serie-hoje.htm) | topico: geral | score: 92
