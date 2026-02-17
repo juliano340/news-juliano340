@@ -1,7 +1,9 @@
 # Weekly IA para Devs - 2026-02-17
 
-Gerado em 2026-02-17T09:01:43.572Z
+Gerado em 2026-02-17T11:02:59.852Z
 
-- [Como dados, IA e tecnologia estão mudando o esporte olímpico](https://canaltech.com.br/podcast/podcast-canaltech/como-dados-ia-e-tecnologia-estao-mudando-o-esporte-olimpico-6357/) | topico: geral | score: 100
-- [Lâmpada inteligente x interruptor inteligente: qual vale mais a pena?](https://canaltech.com.br/gadgets/lampada-inteligente-x-interruptor-inteligente-qual-vale-mais-a-pena/) | topico: geral | score: 100
-- [Qual é a fase da Lua hoje (17)? Veja calendário lunar de fevereiro de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/02/17/qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-fevereiro-de-2026.htm) | topico: geral | score: 92
+- [Santander, Ticketmaster e agora Tinder: quem é o grupo ShinyHunters?](https://canaltech.com.br/seguranca/santander-ticketmaster-e-agora-tinder-quem-e-o-grupo-shinyhunters/) | topico: geral | score: 100
+- [10 apps essenciais para quem comprou um iPad em 2026](https://canaltech.com.br/apps/10-apps-essenciais-para-quem-comprou-um-ipad-em-2026/) | topico: agentes | score: 100
+- [Drones autônomos: o que é, qual é a autonomia e exemplos reais](https://www.tecmundo.com.br/produto/410662-drones-autonomos-o-que-e-qual-e-a-autonomia-e-exemplos-reais.htm) | topico: seguranca-ia | score: 100
+- [Palpites para Nacional Potosí x Botafogo: Análises e Onde Assistir (18/02/2026)](https://www.tecmundo.com.br/apostas/410728-palpites-para-nacional-potosi-x-botafogo-analises-e-onde-assistir-18022026.htm) | topico: geral | score: 92
+- [Palpites para O'Higgins x Bahia: Análises e Onde Assistir (18/02/2026)](https://www.tecmundo.com.br/apostas/410743-palpites-para-ohiggins-x-bahia-analises-e-onde-assistir-18022026.htm) | topico: produtividade-dev | score: 100

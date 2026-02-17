@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-02-17T09:01:43.572Z",
+  "generated_at": "2026-02-17T11:02:59.852Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 5,
   "posts": [
     {
-      "title": "Como dados, IA e tecnologia estão mudando o esporte olímpico",
-      "slug": "como-dados-ia-e-tecnologia-estao-mudando-o-esporte-olimpico",
+      "title": "Santander, Ticketmaster e agora Tinder: quem é o grupo ShinyHunters?",
+      "slug": "santander-ticketmaster-e-agora-tinder-quem-e-o-grupo-shinyhunters",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-17T09:00:00.000Z",
+      "date": "2026-02-17T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/como-dados-ia-e-tecnologia-estao-mudando-o-esporte-olimpico-6357/"
+      "original_url": "https://canaltech.com.br/seguranca/santander-ticketmaster-e-agora-tinder-quem-e-o-grupo-shinyhunters/"
     },
     {
-      "title": "Lâmpada inteligente x interruptor inteligente: qual vale mais a pena?",
-      "slug": "lampada-inteligente-x-interruptor-inteligente-qual-vale-mais-a-pena",
-      "topic": "geral",
+      "title": "10 apps essenciais para quem comprou um iPad em 2026",
+      "slug": "10-apps-essenciais-para-quem-comprou-um-ipad-em-2026",
+      "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-17T09:00:00.000Z",
+      "date": "2026-02-17T10:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/gadgets/lampada-inteligente-x-interruptor-inteligente-qual-vale-mais-a-pena/"
+      "original_url": "https://canaltech.com.br/apps/10-apps-essenciais-para-quem-comprou-um-ipad-em-2026/"
     },
     {
-      "title": "Qual é a fase da Lua hoje (17)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-fevereiro-de-2026",
+      "title": "Drones autônomos: o que é, qual é a autonomia e exemplos reais",
+      "slug": "drones-autonomos-o-que-e-qual-e-a-autonomia-e-exemplos-reais",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-17T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410662-drones-autonomos-o-que-e-qual-e-a-autonomia-e-exemplos-reais.htm"
+    },
+    {
+      "title": "Palpites para Nacional Potosí x Botafogo: Análises e Onde Assistir (18/02/2026)",
+      "slug": "palpites-para-nacional-potosi-x-botafogo-analises-e-onde-assistir-18022026",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-17T08:30:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-17T10:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/17/qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/410728-palpites-para-nacional-potosi-x-botafogo-analises-e-onde-assistir-18022026.htm"
+    },
+    {
+      "title": "Palpites para O'Higgins x Bahia: Análises e Onde Assistir (18/02/2026)",
+      "slug": "palpites-para-ohiggins-x-bahia-analises-e-onde-assistir-18022026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-17T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/apostas/410743-palpites-para-ohiggins-x-bahia-analises-e-onde-assistir-18022026.htm"
     }
   ]
 }
