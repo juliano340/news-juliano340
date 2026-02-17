@@ -1,79 +1,34 @@
 {
-  "generated_at": "2026-02-16T23:04:42.923Z",
+  "generated_at": "2026-02-17T01:01:53.183Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 3,
   "posts": [
     {
-      "title": "Samsung confirma função de privacidade do Galaxy S26 em novo vídeo",
-      "slug": "samsung-confirma-funcao-de-privacidade-do-galaxy-s26-em-novo-video",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-16T22:06:19.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/samsung-confirma-funcao-de-privacidade-do-galaxy-s26-em-novo-video/"
-    },
-    {
-      "title": "YouTube dá novo golpe contra o adblock",
-      "slug": "youtube-da-novo-golpe-contra-o-adblock",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-16T22:02:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/youtube-da-novo-golpe-contra-o-adblock/"
-    },
-    {
-      "title": "Galaxy Tab A11 Plus tem oferta em até 10x sem juros no Mercado Livre",
-      "slug": "galaxy-tab-a11-plus-tem-oferta-em-ate-10x-sem-juros-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-16T21:22:10.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-tab-a11-plus-tem-oferta-em-ate-10x-sem-juros-no-mercado-livre/"
-    },
-    {
-      "title": "Muito pior que a senha: o que hackers podem fazer com sua localização do Tinder?",
-      "slug": "muito-pior-que-a-senha-o-que-hackers-podem-fazer-com-sua-localizacao-do-tinder",
-      "topic": "geral",
+      "title": "Contar passos no smartwatch realmente mede sua saúde ou é só marketing?",
+      "slug": "contar-passos-no-smartwatch-realmente-mede-sua-saude-ou-e-so-marketing",
+      "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-16T23:00:00.000Z",
+      "date": "2026-02-17T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/muito-pior-que-a-senha-o-que-hackers-podem-fazer-com-sua-localizacao-do-tinder/"
+      "original_url": "https://canaltech.com.br/smartwatch/contar-passos-no-smartwatch-realmente-mede-sua-saude-ou-e-so-marketing/"
     },
     {
-      "title": "Amazon faz queima de Moto g86 5G de 256 GB; celular bom e barato da Motorola",
-      "slug": "amazon-faz-queima-de-moto-g86-5g-de-256-gb-celular-bom-e-barato-da-motorola",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-16T21:48:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/amazon-faz-queima-de-moto-g86-5g-de-256-gb-celular-bom-e-barato-da-motorola/"
-    },
-    {
-      "title": "Como desativar o botão do Copilot no Microsoft Edge",
-      "slug": "como-desativar-o-botao-do-copilot-no-microsoft-edge",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-16T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/como-desativar-o-botao-do-copilot-no-microsoft-edge/"
-    },
-    {
-      "title": "Netflix recebe 8 filmes e séries de peso na semana! Veja lista de lançamentos (16)",
-      "slug": "netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-16",
+      "title": "Cavaleiro dos Sete Reinos: O que acontece com a linha de sucessão depois do trágico episódio 5",
+      "slug": "cavaleiro-dos-sete-reinos-o-que-acontece-com-a-linha-de-sucessao-depois-do-tragico-episodio-5",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T21:45:00.000Z",
+      "date": "2026-02-16T23:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603120-netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-16.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603122-cavaleiro-dos-sete-reinos-o-que-acontece-com-a-linha-de-sucessao-depois-do-tragico-episodio-5.htm"
     },
     {
-      "title": "Bully, Gears of War e mais! Relembre jogos que completam 20 anos em 2026",
-      "slug": "bully-gears-of-war-e-mais-relembre-jogos-que-completam-20-anos-em-2026",
+      "title": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (16)",
+      "slug": "android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-16",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-16T21:15:00.000Z",
+      "date": "2026-02-16T23:15:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503334-bully-gears-of-war-e-mais-relembre-jogos-que-completam-20-anos-em-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503536-android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-16.htm"
     }
   ]
 }
