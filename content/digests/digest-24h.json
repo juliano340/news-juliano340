@@ -1,79 +1,97 @@
 {
-  "generated_at": "2026-02-17T17:06:08.867Z",
+  "generated_at": "2026-02-17T19:05:23.890Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 10,
   "posts": [
     {
-      "title": "iPhone 17 Pro (256 GB) tem oferta com cupom de R$ 200 OFF no Mercado Livre",
-      "slug": "iphone-17-pro-256-gb-tem-oferta-com-cupom-de-rdollar-200-off-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-17T15:46:25.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-256-gb-tem-oferta-com-cupom-de-r-200-off-no-mercado-livre/"
-    },
-    {
-      "title": "Quanto você economiza trazendo um iPhone dos EUA? Veja qual modelo vale a pena",
-      "slug": "quanto-voce-economiza-trazendo-um-iphone-dos-eua-veja-qual-modelo-vale-a-pena",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-17T17:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/quanto-voce-economiza-trazendo-um-iphone-dos-eua-veja-qual-modelo-vale-a-pena/"
-    },
-    {
-      "title": "6 apps de mensagens além do WhatsApp que você precisa conhecer",
-      "slug": "6-apps-de-mensagens-alem-do-whatsapp-que-voce-precisa-conhecer",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-17T16:00:00.000Z",
-      "editorial_score": 85,
-      "original_url": "https://canaltech.com.br/apps/6-apps-de-mensagens-alem-do-whatsapp-que-voce-precisa-conhecer/"
-    },
-    {
-      "title": "Carregador ambulante vende carga para celular por R$ 15 no Carnaval 26",
-      "slug": "carregador-ambulante-vende-carga-para-celular-por-rdollar-15-no-carnaval-26",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T17:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/410786-carregador-ambulante-vende-carga-para-celular-por-r-15-no-carnaval-26.htm"
-    },
-    {
-      "title": "Como jogar Campo Minado no Google? Confira as dicas e regras",
-      "slug": "como-jogar-campo-minado-no-google-confira-as-dicas-e-regras",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T16:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/501885-como-jogar-campo-minado-no-google-confira-as-dicas-e-regras.htm"
-    },
-    {
-      "title": "Huawei Band 10 com 100 modos de treino e 14 dias de bateria por apenas R$179 no Mercado Livre",
-      "slug": "huawei-band-10-com-100-modos-de-treino-e-14-dias-de-bateria-por-apenas-rdollar179-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T15:51:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410795-huawei-band-10-com-100-modos-de-treino-e-14-dias-de-bateria-por-apenas-r179-no-mercado-livre.htm"
-    },
-    {
-      "title": "Ar-Condicionado com até 43% OFF na Amazon: confira opções Midea, Samsung, TCL e mais",
-      "slug": "ar-condicionado-com-ate-43percent-off-na-amazon-confira-opcoes-midea-samsung-tcl-e-mais",
+      "title": "Acer e Asus suspendem vendas de PCs na Alemanha após vitória da Nokia na Justiça",
+      "slug": "acer-e-asus-suspendem-vendas-de-pcs-na-alemanha-apos-vitoria-da-nokia-na-justica",
       "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-17T15:20:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410794-ar-condicionado-com-ate-43-off-na-amazon-confira-opcoes-midea-samsung-tcl-e-mais.htm"
+      "source": "Tecnoblog",
+      "date": "2026-02-17T18:27:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/acer-e-asus-suspendem-vendas-de-pcs-na-alemanha-apos-vitoria-da-nokia-na-justica/"
     },
     {
-      "title": "Quem foi Robert Duvall? Relembre a carreira de um dos maiores atores de Hollywood",
-      "slug": "quem-foi-robert-duvall-relembre-a-carreira-de-um-dos-maiores-atores-de-hollywood",
+      "title": "Gentoo Linux abandona GitHub por causa da IA da plataforma",
+      "slug": "gentoo-linux-abandona-github-por-causa-da-ia-da-plataforma",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-17T17:32:05.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/gentoo-linux-abandona-github-por-causa-da-ia-da-plataforma/"
+    },
+    {
+      "title": "8 curiosidades da franquia Resident Evil",
+      "slug": "8-curiosidades-da-franquia-resident-evil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-17T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/8-curiosidades-da-franquia-resident-evil/"
+    },
+    {
+      "title": "Fuja de golpes: como bloquear chamadas de vídeos de desconhecidos no WhatsApp",
+      "slug": "fuja-de-golpes-como-bloquear-chamadas-de-videos-de-desconhecidos-no-whatsapp",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-17T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/fuja-de-golpes-como-bloquear-chamadas-de-videos-de-desconhecidos-no-whatsapp/"
+    },
+    {
+      "title": "Motorola Edge 60 Pro de 256 GB cai muito de preço na Amazon com cupom relâmpago",
+      "slug": "motorola-edge-60-pro-de-256-gb-cai-muito-de-preco-na-amazon-com-cupom-relampago",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-17T17:52:49.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/motorola-edge-60-pro-de-256-gb-cai-muito-de-preco-na-amazon-com-cupom-relampago/"
+    },
+    {
+      "title": "Xbox Game Pass recebe The Witcher e Kindgom Come Deliverance 2! Veja lançamentos",
+      "slug": "xbox-game-pass-recebe-the-witcher-e-kindgom-come-deliverance-2-veja-lancamentos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-17T15:15:00.000Z",
+      "date": "2026-02-17T18:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503539-xbox-game-pass-recebe-the-witcher-e-kindgom-come-deliverance-2-veja-lancamentos.htm"
+    },
+    {
+      "title": "Headsets, controles, jogos e mais de grandes marcas com até 61% OFF no Mercado Livre",
+      "slug": "headsets-controles-jogos-e-mais-de-grandes-marcas-com-ate-61percent-off-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T18:06:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603124-quem-foi-robert-duvall-relembre-a-carreira-de-um-dos-maiores-atores-de-hollywood.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503540-headsets-controles-jogos-e-mais-de-grandes-marcas-com-ate-61-off-no-mercado-livre.htm"
+    },
+    {
+      "title": "ChatGPT terá acesso ao seu número de telefone? Entenda nova política",
+      "slug": "chatgpt-tera-acesso-ao-seu-numero-de-telefone-entenda-nova-politica",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/410787-chatgpt-tera-acesso-ao-seu-numero-de-telefone-entenda-nova-politica.htm"
+    },
+    {
+      "title": "Netflix acusa Paramount de enganar a Warner Bros. em nova fase da batalha pela aquisição",
+      "slug": "netflix-acusa-paramount-de-enganar-a-warner-bros-em-nova-fase-da-batalha-pela-aquisicao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T17:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603125-netflix-acusa-paramount-de-enganar-a-warner-bros-em-nova-fase-da-batalha-pela-aquisicao.htm"
+    },
+    {
+      "title": "AMD pressiona Intel com bons resultados em chips para data centers e PCs",
+      "slug": "amd-pressiona-intel-com-bons-resultados-em-chips-para-data-centers-e-pcs",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T16:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/410793-amd-pressiona-intel-com-bons-resultados-em-chips-para-data-centers-e-pcs.htm"
     }
   ]
 }
