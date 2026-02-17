@@ -1,7 +1,7 @@
 # Weekly IA para Devs - 2026-02-17
 
-Gerado em 2026-02-17T01:01:53.183Z
+Gerado em 2026-02-17T09:01:43.572Z
 
-- [Contar passos no smartwatch realmente mede sua saúde ou é só marketing?](https://canaltech.com.br/smartwatch/contar-passos-no-smartwatch-realmente-mede-sua-saude-ou-e-so-marketing/) | topico: agentes | score: 100
-- [Cavaleiro dos Sete Reinos: O que acontece com a linha de sucessão depois do trágico episódio 5](https://www.tecmundo.com.br/minha-serie/603122-cavaleiro-dos-sete-reinos-o-que-acontece-com-a-linha-de-sucessao-depois-do-tragico-episodio-5.htm) | topico: geral | score: 92
-- [Android: 5 jogos grátis em alta para baixar na Play Store esta semana (16)](https://www.tecmundo.com.br/voxel/503536-android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-16.htm) | topico: geral | score: 100
+- [Como dados, IA e tecnologia estão mudando o esporte olímpico](https://canaltech.com.br/podcast/podcast-canaltech/como-dados-ia-e-tecnologia-estao-mudando-o-esporte-olimpico-6357/) | topico: geral | score: 100
+- [Lâmpada inteligente x interruptor inteligente: qual vale mais a pena?](https://canaltech.com.br/gadgets/lampada-inteligente-x-interruptor-inteligente-qual-vale-mais-a-pena/) | topico: geral | score: 100
+- [Qual é a fase da Lua hoje (17)? Veja calendário lunar de fevereiro de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/02/17/qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-fevereiro-de-2026.htm) | topico: geral | score: 92
