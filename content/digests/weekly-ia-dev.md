@@ -1,14 +1,15 @@
 # Weekly IA para Devs - 2026-02-17
 
-Gerado em 2026-02-17T21:05:01.674Z
+Gerado em 2026-02-17T23:06:15.732Z
 
-- [Smart TV Samsung QLED Ultra 43” possui 34% OFF em até 12x na Amazon](https://tecnoblog.net/achados/smart-tv-samsung-qled-ultra-43-possui-34-off-em-ate-12x-na-amazon/) | topico: geral | score: 100
-- [Galaxy A36 5G fica pela metade do preço com cupom em promoção na Amazon](https://tecnoblog.net/achados/galaxy-a36-5g-fica-pela-metade-do-preco-com-cupom-em-promocao-na-amazon/) | topico: geral | score: 92
-- [Quais as diferenças entre blindagem e película anti-vandalismo no carro?](https://canaltech.com.br/carros/quais-as-diferencas-entre-blindagem-e-pelicula-anti-vandalismo-no-carro/) | topico: geral | score: 100
-- [Google I/O 2026 é confirmado com novidades no Gemini, Android e Chrome](https://www.tecmundo.com.br/produto/410808-google-io-2026-e-confirmado-com-novidades-no-gemini-android-e-chrome.htm) | topico: agentes | score: 100
-- [9 recursos que chegarão aos iPhones com o iOS 26.4; confira a lista](https://www.tecmundo.com.br/produto/410798-9-recursos-que-chegarao-aos-iphones-com-o-ios-264-confira-a-lista.htm) | topico: frameworks | score: 100
-- [PS4 ainda recebe lançamentos em 2026! Veja lista de novos jogos](https://www.tecmundo.com.br/voxel/503384-ps4-ainda-recebe-lancamentos-em-2026-veja-lista-de-novos-jogos.htm) | topico: geral | score: 100
-- [Drone ucraniano acha 'armazém de antiguidades' durante missão](https://www.tecmundo.com.br/seguranca/410791-drone-ucraniano-acha-armazem-de-antiguidades-durante-missao.htm) | topico: geral | score: 100
-- [Robôs aspiradores em promoção e com cupons no Magazine Luiza; aproveite](https://www.tecmundo.com.br/guia-de-compras/410804-robos-aspiradores-em-promocao-e-com-cupons-no-magazine-luiza-aproveite.htm) | topico: agentes | score: 100
-- [Scorcese é confirmado em O Mandaloriano e Grogu! Veja trailer do filme](https://www.tecmundo.com.br/minha-serie/603127-scorcese-e-confirmado-em-o-mandaloriano-e-grogu-veja-trailer-do-filme.htm) | topico: geral | score: 92
-- [Paramount tem sete dias para convencer Warner Bros a abandonar Netflix](https://www.tecmundo.com.br/internet/410790-paramount-tem-sete-dias-para-convencer-warner-bros-a-abandonar-netflix.htm) | topico: geral | score: 92
+- [Melhor celular Xiaomi em 2026: qual modelo comprar?](https://tecnoblog.net/guias/melhor-celular-xiaomi/) | topico: produtividade-dev | score: 92
+- [Como reproduzir o YouTube em segundo plano sem YouTube Premium](https://tecnoblog.net/responde/como-reproduzir-youtube-em-segundo-plano-sem-youtube-premium/) | topico: agentes | score: 100
+- [UX ruim e arquivos bloqueados: por que a Microsoft Store nunca venceu o Steam?](https://canaltech.com.br/games/ux-ruim-e-arquivos-bloqueados-por-que-a-microsoft-store-nunca-venceu-o-steam/) | topico: geral | score: 100
+- [Magalu faz queima de lava e seca Midea HealthGuard 13 kg; ótimo custo-benefício](https://canaltech.com.br/eletro/magalu-faz-queima-de-lava-e-seca-midea-healthguard-13-kg-otimo-custo-beneficio/) | topico: produtividade-dev | score: 100
+- [Exoesqueletos viralizam nas redes: como funciona e quanto custa no Brasil?](https://www.tecmundo.com.br/internet/410776-exoesqueletos-viralizam-nas-redes-como-funciona-e-quanto-custa-no-brasil.htm) | topico: produtividade-dev | score: 100
+- [Clair Obscur: Expedition 33 e mais jogos da Steam com até 93% OFF na Nuuvem; confira](https://www.tecmundo.com.br/voxel/503541-clair-obscur-expedition-33-e-mais-jogos-da-steam-com-ate-93-off-na-nuuvem-confira.htm) | topico: geral | score: 92
+- [Pentágono ameaça romper com a Anthropic por exigências de segurança](https://www.tecmundo.com.br/seguranca/410796-pentagono-ameaca-romper-com-a-anthropic-por-exigencias-de-seguranca.htm) | topico: geral | score: 100
+- [Celulares usados da Samsung encostam na valorização do iPhone, mas ainda não passam](https://www.tecmundo.com.br/produto/410803-celulares-usados-da-samsung-encostam-na-valorizacao-do-iphone-mas-ainda-nao-passam.htm) | topico: produtividade-dev | score: 100
+- [Google testa desbloqueio facial no Pixel para brigar com Face ID da Apple](https://www.tecmundo.com.br/produto/410799-google-testa-desbloqueio-facial-no-pixel-para-brigar-com-face-id-da-apple.htm) | topico: agentes | score: 100
+- [Carnaval Tech no AliExpress: confira ofertas em eletrônicos e cupons de até R$270 OFF](https://www.tecmundo.com.br/guia-de-compras/410809-carnaval-tech-no-aliexpress-confira-ofertas-em-eletronicos-e-cupons-de-ate-r270-off.htm) | topico: produtividade-dev | score: 100
+- [Quando sai o episódio 8 de Jujutsu Kaisen? Saiba a data e hora após pausa do anime](https://www.tecmundo.com.br/minha-serie/603126-quando-sai-o-episodio-8-de-jujutsu-kaisen-saiba-a-data-e-hora-apos-pausa-do-anime.htm) | topico: geral | score: 92

@@ -1,97 +1,106 @@
 {
-  "generated_at": "2026-02-17T21:05:01.674Z",
+  "generated_at": "2026-02-17T23:06:15.732Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 10,
+  "total": 11,
   "posts": [
     {
-      "title": "Smart TV Samsung QLED Ultra 43” possui 34% OFF em até 12x na Amazon",
-      "slug": "smart-tv-samsung-qled-ultra-43-possui-34percent-off-em-ate-12x-na-amazon",
-      "topic": "geral",
+      "title": "Melhor celular Xiaomi em 2026: qual modelo comprar?",
+      "slug": "melhor-celular-xiaomi-em-2026-qual-modelo-comprar",
+      "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-17T19:54:10.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/smart-tv-samsung-qled-ultra-43-possui-34-off-em-ate-12x-na-amazon/"
-    },
-    {
-      "title": "Galaxy A36 5G fica pela metade do preço com cupom em promoção na Amazon",
-      "slug": "galaxy-a36-5g-fica-pela-metade-do-preco-com-cupom-em-promocao-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-17T19:14:32.000Z",
+      "date": "2026-02-17T22:40:53.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-a36-5g-fica-pela-metade-do-preco-com-cupom-em-promocao-na-amazon/"
+      "original_url": "https://tecnoblog.net/guias/melhor-celular-xiaomi/"
     },
     {
-      "title": "Quais as diferenças entre blindagem e película anti-vandalismo no carro?",
-      "slug": "quais-as-diferencas-entre-blindagem-e-pelicula-anti-vandalismo-no-carro",
+      "title": "Como reproduzir o YouTube em segundo plano sem YouTube Premium",
+      "slug": "como-reproduzir-o-youtube-em-segundo-plano-sem-youtube-premium",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-02-17T18:56:08.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/como-reproduzir-youtube-em-segundo-plano-sem-youtube-premium/"
+    },
+    {
+      "title": "UX ruim e arquivos bloqueados: por que a Microsoft Store nunca venceu o Steam?",
+      "slug": "ux-ruim-e-arquivos-bloqueados-por-que-a-microsoft-store-nunca-venceu-o-steam",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-17T20:00:00.000Z",
+      "date": "2026-02-17T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/quais-as-diferencas-entre-blindagem-e-pelicula-anti-vandalismo-no-carro/"
+      "original_url": "https://canaltech.com.br/games/ux-ruim-e-arquivos-bloqueados-por-que-a-microsoft-store-nunca-venceu-o-steam/"
     },
     {
-      "title": "Google I/O 2026 é confirmado com novidades no Gemini, Android e Chrome",
-      "slug": "google-io-2026-e-confirmado-com-novidades-no-gemini-android-e-chrome",
+      "title": "Magalu faz queima de lava e seca Midea HealthGuard 13 kg; ótimo custo-benefício",
+      "slug": "magalu-faz-queima-de-lava-e-seca-midea-healthguard-13-kg-otimo-custo-beneficio",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-17T22:46:10.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/magalu-faz-queima-de-lava-e-seca-midea-healthguard-13-kg-otimo-custo-beneficio/"
+    },
+    {
+      "title": "Exoesqueletos viralizam nas redes: como funciona e quanto custa no Brasil?",
+      "slug": "exoesqueletos-viralizam-nas-redes-como-funciona-e-quanto-custa-no-brasil",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-17T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/410776-exoesqueletos-viralizam-nas-redes-como-funciona-e-quanto-custa-no-brasil.htm"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 e mais jogos da Steam com até 93% OFF na Nuuvem; confira",
+      "slug": "clair-obscur-expedition-33-e-mais-jogos-da-steam-com-ate-93percent-off-na-nuuvem-confira",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T22:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503541-clair-obscur-expedition-33-e-mais-jogos-da-steam-com-ate-93-off-na-nuuvem-confira.htm"
+    },
+    {
+      "title": "Pentágono ameaça romper com a Anthropic por exigências de segurança",
+      "slug": "pentagono-ameaca-romper-com-a-anthropic-por-exigencias-de-seguranca",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-17T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/410796-pentagono-ameaca-romper-com-a-anthropic-por-exigencias-de-seguranca.htm"
+    },
+    {
+      "title": "Celulares usados da Samsung encostam na valorização do iPhone, mas ainda não passam",
+      "slug": "celulares-usados-da-samsung-encostam-na-valorizacao-do-iphone-mas-ainda-nao-passam",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-17T21:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410803-celulares-usados-da-samsung-encostam-na-valorizacao-do-iphone-mas-ainda-nao-passam.htm"
+    },
+    {
+      "title": "Google testa desbloqueio facial no Pixel para brigar com Face ID da Apple",
+      "slug": "google-testa-desbloqueio-facial-no-pixel-para-brigar-com-face-id-da-apple",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-02-17T20:34:25.000Z",
+      "date": "2026-02-17T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410808-google-io-2026-e-confirmado-com-novidades-no-gemini-android-e-chrome.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410799-google-testa-desbloqueio-facial-no-pixel-para-brigar-com-face-id-da-apple.htm"
     },
     {
-      "title": "9 recursos que chegarão aos iPhones com o iOS 26.4; confira a lista",
-      "slug": "9-recursos-que-chegarao-aos-iphones-com-o-ios-264-confira-a-lista",
-      "topic": "frameworks",
+      "title": "Carnaval Tech no AliExpress: confira ofertas em eletrônicos e cupons de até R$270 OFF",
+      "slug": "carnaval-tech-no-aliexpress-confira-ofertas-em-eletronicos-e-cupons-de-ate-rdollar270-off",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-17T20:30:00.000Z",
+      "date": "2026-02-17T21:16:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410798-9-recursos-que-chegarao-aos-iphones-com-o-ios-264-confira-a-lista.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410809-carnaval-tech-no-aliexpress-confira-ofertas-em-eletronicos-e-cupons-de-ate-r270-off.htm"
     },
     {
-      "title": "PS4 ainda recebe lançamentos em 2026! Veja lista de novos jogos",
-      "slug": "ps4-ainda-recebe-lancamentos-em-2026-veja-lista-de-novos-jogos",
+      "title": "Quando sai o episódio 8 de Jujutsu Kaisen? Saiba a data e hora após pausa do anime",
+      "slug": "quando-sai-o-episodio-8-de-jujutsu-kaisen-saiba-a-data-e-hora-apos-pausa-do-anime",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-17T20:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503384-ps4-ainda-recebe-lancamentos-em-2026-veja-lista-de-novos-jogos.htm"
-    },
-    {
-      "title": "Drone ucraniano acha 'armazém de antiguidades' durante missão",
-      "slug": "drone-ucraniano-acha-armazem-de-antiguidades-durante-missao",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410791-drone-ucraniano-acha-armazem-de-antiguidades-durante-missao.htm"
-    },
-    {
-      "title": "Robôs aspiradores em promoção e com cupons no Magazine Luiza; aproveite",
-      "slug": "robos-aspiradores-em-promocao-e-com-cupons-no-magazine-luiza-aproveite",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-17T19:51:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410804-robos-aspiradores-em-promocao-e-com-cupons-no-magazine-luiza-aproveite.htm"
-    },
-    {
-      "title": "Scorcese é confirmado em O Mandaloriano e Grogu! Veja trailer do filme",
-      "slug": "scorcese-e-confirmado-em-o-mandaloriano-e-grogu-veja-trailer-do-filme",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T19:15:00.000Z",
+      "date": "2026-02-17T21:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603127-scorcese-e-confirmado-em-o-mandaloriano-e-grogu-veja-trailer-do-filme.htm"
-    },
-    {
-      "title": "Paramount tem sete dias para convencer Warner Bros a abandonar Netflix",
-      "slug": "paramount-tem-sete-dias-para-convencer-warner-bros-a-abandonar-netflix",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T19:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/410790-paramount-tem-sete-dias-para-convencer-warner-bros-a-abandonar-netflix.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603126-quando-sai-o-episodio-8-de-jujutsu-kaisen-saiba-a-data-e-hora-apos-pausa-do-anime.htm"
     }
   ]
 }

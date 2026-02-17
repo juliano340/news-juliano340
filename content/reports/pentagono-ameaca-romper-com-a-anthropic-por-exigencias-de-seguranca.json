@@ -1,6 +1,6 @@
 {
-  "slug": "como-reproduzir-o-youtube-em-segundo-plano-sem-youtube-premium",
-  "generated_at": "2026-02-17T23:01:48.665Z",
+  "slug": "pentagono-ameaca-romper-com-a-anthropic-por-exigencias-de-seguranca",
+  "generated_at": "2026-02-17T23:04:23.996Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 297,
+      "words": 269,
       "min": 220
     },
     {
