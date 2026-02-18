@@ -1,6 +1,6 @@
 # Weekly IA para Devs - 2026-02-18
 
-Gerado em 2026-02-18T01:01:11.260Z
+Gerado em 2026-02-18T03:02:05.496Z
 
-- [Tela grande causa mais cansaço visual? Veja o que dizem especialistas](https://canaltech.com.br/produtos/tela-grande-causa-mais-cansaco-visual-veja-o-que-dizem-especialistas/) | topico: seguranca-ia | score: 92
-- [Remain: Novo filme com Adolpho Veloso, brasileiro indicado ao Oscar, terá Jake Gyllenhaal](https://www.tecmundo.com.br/minha-serie/603123-remain-novo-filme-com-adolpho-veloso-brasileiro-indicado-ao-oscar-tera-jake-gyllenhaal.htm) | topico: geral | score: 92
+- [YouTube caiu? Usuários relatam problemas na plataforma nesta terça-feira](https://g1.globo.com/tecnologia/noticia/2026/02/17/youtube-caiu-usuarios-relatam-problemas-na-plataforma-nesta-terca-feira.ghtml) | topico: geral | score: 100
+- [YouTube fora do ar? Serviços do Google instáveis nesta terça-feira (17)](https://www.tecmundo.com.br/internet/410813-google-fora-do-ar-youtube-e-outros-servicos-do-google-instaveis-nesta-terca-feira-17.htm) | topico: geral | score: 92
