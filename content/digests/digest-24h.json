@@ -1,232 +1,115 @@
 {
-  "generated_at": "2026-02-18T21:15:24.221Z",
+  "generated_at": "2026-02-18T23:07:58.313Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 25,
+  "total": 12,
   "posts": [
     {
-      "title": "É oficial: Windows 11 terá botão que testa velocidade da internet",
-      "slug": "e-oficial-windows-11-tera-botao-que-testa-velocidade-da-internet",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-18T20:54:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/e-oficial-windows-11-tera-botao-que-testa-velocidade-da-internet/"
-    },
-    {
-      "title": "WhatsApp prepara opção de proteger contas com senha alfanumérica",
-      "slug": "whatsapp-prepara-opcao-de-proteger-contas-com-senha-alfanumerica",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-18T20:44:12.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/whatsapp-prepara-opcao-de-proteger-contas-com-senha-alfanumerica/"
-    },
-    {
-      "title": "Acaba hoje: Galaxy A36 5G (256 GB) sai com 49% OFF em promoção com cupom",
-      "slug": "acaba-hoje-galaxy-a36-5g-256-gb-sai-com-49percent-off-em-promocao-com-cupom",
+      "title": "Ar-condicionado Samsung Windfree AI 12.000 Btus tem oferta em 12x na Amazon",
+      "slug": "ar-condicionado-samsung-windfree-ai-12000-btus-tem-oferta-em-12x-na-amazon",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-18T20:26:27.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/acaba-hoje-galaxy-a36-5g-256-gb-sai-com-49-off-em-promocao-com-cupom/"
-    },
-    {
-      "title": "Gemini agora cria músicas de até 30 segundos; conheça o Lyria 3",
-      "slug": "gemini-agora-cria-musicas-de-ate-30-segundos-conheca-o-lyria-3",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-18T20:01:54.000Z",
+      "date": "2026-02-18T21:30:13.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/gemini-agora-cria-musicas-de-ate-30-segundos-conheca-o-lyria-3/"
+      "original_url": "https://tecnoblog.net/achados/ar-condicionado-samsung-windfree-ai-12-000-btus-tem-oferta-em-12x-na-amazon/"
     },
     {
-      "title": "iPhone 17 (512 GB) fica com preço mais baixo na Amazon em oferta",
-      "slug": "iphone-17-512-gb-fica-com-preco-mais-baixo-na-amazon-em-oferta",
+      "title": "Lenovo Idea Tab fica em oferta por até 10x sem juros no Mercado Livre",
+      "slug": "lenovo-idea-tab-fica-em-oferta-por-ate-10x-sem-juros-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-18T20:00:07.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-512-gb-fica-com-preco-mais-baixo-na-amazon-em-oferta/"
+      "date": "2026-02-18T21:28:41.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/lenovo-idea-tab-fica-em-oferta-por-ate-10x-sem-juros/"
     },
     {
-      "title": "Email confidencial? O Copilot está lendo mesmo assim, admite Microsoft",
-      "slug": "email-confidencial-o-copilot-esta-lendo-mesmo-assim-admite-microsoft",
+      "title": "AirPods 4 fica 33% mais barato em promoção na Amazon",
+      "slug": "airpods-4-fica-33percent-mais-barato-em-promocao-na-amazon",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-18T21:18:21.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/airpods-4-fica-33-mais-barato-em-promocao-na-amazon/"
+    },
+    {
+      "title": "O que são operadoras de telecomunicações? Conheça as categorias dessas empresas",
+      "slug": "o-que-sao-operadoras-de-telecomunicacoes-conheca-as-categorias-dessas-empresas",
       "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-02-18T19:56:09.000Z",
+      "date": "2026-02-18T18:54:20.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/email-confidencial-o-copilot-esta-lendo-mesmo-assim-admite-microsoft/"
+      "original_url": "https://tecnoblog.net/responde/o-que-sao-operadoras-de-telecomunicacoes-conheca-as-categorias-dessas-empresas/"
     },
     {
-      "title": "A internet ficou lenta? Windows 11 terá teste de velocidade nativo",
-      "slug": "a-internet-ficou-lenta-windows-11-tera-teste-de-velocidade-nativo",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-18T20:59:32.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/a-internet-ficou-lenta-windows-11-tera-teste-de-velocidade-nativo/"
-    },
-    {
-      "title": "Novo filme de Resident Evil está \"bem longe\" dos jogos da Capcom",
-      "slug": "novo-filme-de-resident-evil-esta-bem-longe-dos-jogos-da-capcom",
+      "title": "Jeep Renegade muda “tudo” e será lançado antes do Avenger",
+      "slug": "jeep-renegade-muda-tudo-e-sera-lancado-antes-do-avenger",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-18T20:55:00.000Z",
+      "date": "2026-02-18T22:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/novo-filme-de-resident-evil-esta-bem-longe-dos-jogos-da-capcom/"
+      "original_url": "https://canaltech.com.br/carros/jeep-renegade-muda-tudo-e-sera-lancado-antes-do-avenger/"
     },
     {
-      "title": "OpenAI contrata o criador do OpenClaw; entenda o futuro do agente de IA",
-      "slug": "openai-contrata-o-criador-do-openclaw-entenda-o-futuro-do-agente-de-ia",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-18T20:51:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/openai-contrata-o-criador-do-openclaw-entenda-o-futuro-do-agente-de-ia/"
-    },
-    {
-      "title": "Privada japonesa tem recurso \"autolimpante\" e descarga 5x mais poderosa",
-      "slug": "privada-japonesa-tem-recurso-autolimpante-e-descarga-5x-mais-poderosa",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-18T20:20:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/privada-japonesa-tem-recurso-autolimpante-e-descarga-5x-mais-poderosa/"
-    },
-    {
-      "title": "WordPress ganha assistente de IA para você criar o seu site ou blog",
-      "slug": "wordpress-ganha-assistente-de-ia-para-voce-criar-o-seu-site-ou-blog",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-18T20:14:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/wordpress-ganha-assistente-de-ia-para-voce-criar-o-seu-site-ou-blog/"
-    },
-    {
-      "title": "iPhone e MacBook “baratos”: o que a Apple pode anunciar em 4 de março",
-      "slug": "iphone-e-macbook-baratos-o-que-a-apple-pode-anunciar-em-4-de-marco",
+      "title": "Battlefield 6: Temporada 2 estreia guerra em larga escala e armas químicas",
+      "slug": "battlefield-6-temporada-2-estreia-guerra-em-larga-escala-e-armas-quimicas",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-18T20:01:00.000Z",
+      "date": "2026-02-18T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/iphone-e-macbook-baratos-o-que-a-apple-pode-anunciar-em-4-de-marco/"
+      "original_url": "https://canaltech.com.br/games/battlefield-6-temporada-2-estreia-guerra-em-larga-escala-e-armas-quimicas/"
     },
     {
-      "title": "SUVs chineses elétricos \"abrem\" desfiles no Carnaval de 2026; mas por quê?",
-      "slug": "suvs-chineses-eletricos-abrem-desfiles-no-carnaval-de-2026-mas-por-que",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-18T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/suvs-chineses-eletricos-abrem-desfiles-no-carnaval-de-2026-mas-por-que/"
-    },
-    {
-      "title": "Senhas geradas pelo ChatGPT e Gemini não são seguras, alertam especialistas",
-      "slug": "senhas-geradas-pelo-chatgpt-e-gemini-nao-sao-seguras-alertam-especialistas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-18T19:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/senhas-geradas-pelo-chatgpt-e-gemini-nao-sao-seguras-alertam-especialistas/"
-    },
-    {
-      "title": "Audible segue o Spotify e ganha sincronização de audiobook com ebook do Kindle",
-      "slug": "audible-segue-o-spotify-e-ganha-sincronizacao-de-audiobook-com-ebook-do-kindle",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-18T19:23:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/audible-segue-o-spotify-e-ganha-sincronizacao-de-audiobook-com-ebook-do-kindle/"
-    },
-    {
-      "title": "Entenda o que é real em História de Amor, nova série do Disney+ sobre a família Kennedy",
-      "slug": "entenda-o-que-e-real-em-historia-de-amor-nova-serie-do-disney-sobre-a-familia-kennedy",
+      "title": "Nvidia irá anunciar chip “que vai surpreender o mundo”",
+      "slug": "nvidia-ira-anunciar-chip-que-vai-surpreender-o-mundo",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T20:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603130-entenda-o-que-e-real-em-historia-de-amor-nova-serie-do-disney-sobre-a-familia-kennedy.htm"
-    },
-    {
-      "title": "Rival da Starlink, internet via satélite SpaceSail é autorizada no Brasil",
-      "slug": "rival-da-starlink-internet-via-satelite-spacesail-e-autorizada-no-brasil",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-18T20:30:00.000Z",
+      "date": "2026-02-18T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/ciencia/410846-rival-da-starlink-internet-via-satelite-spacesail-e-autorizada-no-brasil.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410843-nvidia-ira-anunciar-chip-que-vai-surpreender-o-mundo.htm"
     },
     {
-      "title": "Trump tem discurso pronto sobre a existência de ETs, revela nora",
-      "slug": "trump-tem-discurso-pronto-sobre-a-existencia-de-ets-revela-nora",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-18T20:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/ciencia/410841-trump-tem-discurso-pronto-sobre-a-existencia-de-ets-revela-nora.htm"
-    },
-    {
-      "title": "Celulares da Apple, Xiaomi, Motorola e mais para comprar com os cupons do Magazine Luiza",
-      "slug": "celulares-da-apple-xiaomi-motorola-e-mais-para-comprar-com-os-cupons-do-magazine-luiza",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-18T20:16:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410844-celulares-da-apple-xiaomi-motorola-e-mais-para-comprar-com-os-cupons-do-magazine-luiza.htm"
-    },
-    {
-      "title": "Malware Keenadu ataca celulares Android de brasileiros",
-      "slug": "malware-keenadu-ataca-celulares-android-de-brasileiros",
+      "title": "Star Wars Jedi: Survivor e mais jogos de Xbox com até 95% OFF; aproveite",
+      "slug": "star-wars-jedi-survivor-e-mais-jogos-de-xbox-com-ate-95percent-off-aproveite",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T19:30:00.000Z",
+      "date": "2026-02-18T22:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410825-malware-keenadu-ataca-celulares-android-de-brasileiros.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503554-star-wars-jedi-survivor-e-mais-jogos-de-xbox-com-ate-95-off-aproveite.htm"
     },
     {
-      "title": "Aspirador DJI Romo tinha falha que expunha câmera e mapa da casa de 7 mil usuários",
-      "slug": "aspirador-dji-romo-tinha-falha-que-expunha-camera-e-mapa-da-casa-de-7-mil-usuarios",
+      "title": "ICE pressiona Google, Discord, Meta e Reddit por dados de usuários",
+      "slug": "ice-pressiona-google-discord-meta-e-reddit-por-dados-de-usuarios",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T19:22:28.000Z",
+      "date": "2026-02-18T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410828-aspirador-dji-romo-tinha-falha-que-expunha-camera-e-mapa-da-casa-de-7-mil-usuarios.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/410840-ice-pressiona-google-discord-meta-e-reddit-por-dados-de-usuarios.htm"
     },
     {
-      "title": "Promoção de geladeiras nas Casas Bahia tem modelos Frost Free com desconto",
-      "slug": "promocao-de-geladeiras-nas-casas-bahia-tem-modelos-frost-free-com-desconto",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-18T19:16:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410836-promocao-de-geladeiras-nas-casas-bahia-tem-modelos-frost-free-com-desconto.htm"
-    },
-    {
-      "title": "Criadores de High On Life 2 falam sobre impacto do Xbox Game Pass e PS Plus na franquia",
-      "slug": "criadores-de-high-on-life-2-falam-sobre-impacto-do-xbox-game-pass-e-ps-plus-na-franquia",
+      "title": "Meta não faz mais apps que 'prendem' usuários por horas, afirma Zuckerberg",
+      "slug": "meta-nao-faz-mais-apps-que-prendem-usuarios-por-horas-afirma-zuckerberg",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T19:15:50.000Z",
+      "date": "2026-02-18T21:57:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503547-criadores-de-high-on-life-2-falam-sobre-impacto-do-xbox-game-pass-e-ps-plus-na-franquia.htm"
+      "original_url": "https://www.tecmundo.com.br/redes-sociais/410850-meta-nao-faz-mais-apps-que-prendem-usuarios-por-horas-garante-zuckerberg.htm"
     },
     {
-      "title": "World Labs, da pioneira em IA Fei-Fei Li, levanta US$1 bilhão",
-      "slug": "world-labs-da-pioneira-em-ia-fei-fei-li-levanta-usdollar1-bilhao",
+      "title": "A IA 'trapaceia'. E 2026 pode ser o ano em que ela passa a se lembrar disso",
+      "slug": "a-ia-trapaceia-e-2026-pode-ser-o-ano-em-que-ela-passa-a-se-lembrar-disso",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-18T19:06:38.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-18T21:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/18/world-labs-da-pioneira-em-ia-fei-fei-li-levanta-us1-bilhao.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/410834-a-ia-trapaceia-e-2026-pode-ser-o-ano-em-que-ela-passa-a-se-lembrar-disso.htm"
     },
     {
-      "title": "Zuckerberg diz que Meta não busca mais maximizar o tempo de tela de usuários",
-      "slug": "zuckerberg-diz-que-meta-nao-busca-mais-maximizar-o-tempo-de-tela-de-usuarios",
+      "title": "Como usar um controle de Xbox ou PlayStation no PC?",
+      "slug": "como-usar-um-controle-de-xbox-ou-playstation-no-pc",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-18T18:50:24.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/18/zuckerberg-afirma-que-a-meta-nao-desenvolve-mais-aplicativos-para-maximizar-o-tempo-de-tela.htm"
+      "source": "Tecmundo",
+      "date": "2026-02-18T21:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/501772-como-usar-um-controle-de-xbox-ou-playstation-no-pc.htm"
     }
   ]
 }

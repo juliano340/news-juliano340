@@ -1,6 +1,6 @@
 {
-  "slug": "quem-e-o-autor-de-um-texto-encomendado-por-um-humano-a-uma-ia",
-  "generated_at": "2026-02-18T23:07:56.104Z",
+  "slug": "br-101-tera-5g-em-todo-percurso-promete-anatel-veja-mais-rodovias-contempladas",
+  "generated_at": "2026-02-18T23:03:45.263Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 302,
+      "words": 312,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "quem-e-o-autor-de-um-texto-encomendado-por-um-humano-a-uma-ia",
-  "generated_at": "2026-02-18T23:07:56.104Z",
+  "slug": "anemona-e-mais-filmes-para-assistir-no-cinema-nesta-semana-confira-lista",
+  "generated_at": "2026-02-18T23:05:21.238Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 302,
+      "words": 480,
       "min": 220
     },
     {
@@ -84,17 +84,19 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 2,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [
     "placeholder_detectado"
   ],
-  "score": 92,
+  "score": 85,
   "metadata": null
 }
