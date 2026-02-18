@@ -1,25 +1,43 @@
 {
-  "generated_at": "2026-02-18T03:02:05.496Z",
+  "generated_at": "2026-02-18T09:01:18.116Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 4,
   "posts": [
     {
-      "title": "YouTube caiu? Usuários relatam problemas na plataforma nesta terça-feira",
-      "slug": "youtube-caiu-usuarios-relatam-problemas-na-plataforma-nesta-terca-feira",
+      "title": "Prêmio Canaltech: bastidores, critérios e impacto no mercado de tecnologia",
+      "slug": "premio-canaltech-bastidores-criterios-e-impacto-no-mercado-de-tecnologia",
       "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-18T01:38:20.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-18T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/17/youtube-caiu-usuarios-relatam-problemas-na-plataforma-nesta-terca-feira.ghtml"
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/premio-canaltech-bastidores-criterios-e-impacto-no-mercado-de-tecnologia-6359/"
     },
     {
-      "title": "YouTube fora do ar? Serviços do Google instáveis nesta terça-feira (17)",
-      "slug": "youtube-fora-do-ar-servicos-do-google-instaveis-nesta-terca-feira-17",
-      "topic": "geral",
+      "title": "5 carros que a Caoa Chery deve lançar no Brasil em 2026",
+      "slug": "5-carros-que-a-caoa-chery-deve-lancar-no-brasil-em-2026",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-18T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/5-carros-que-a-caoa-chery-deve-lancar-no-brasil-em-2026/"
+    },
+    {
+      "title": "Palpites para Athletico-PR x Corinthians: Análises e Onde Assistir (19/02/2026)",
+      "slug": "palpites-para-athletico-pr-x-corinthians-analises-e-onde-assistir-19022026",
+      "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-02-18T01:42:58.000Z",
+      "date": "2026-02-18T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/apostas/410727-palpites-para-athletico-pr-x-corinthians-analises-e-onde-assistir-19022026.htm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (18)? Veja calendário lunar de fevereiro de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-18-veja-calendario-lunar-de-fevereiro-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-18T07:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/410813-google-fora-do-ar-youtube-e-outros-servicos-do-google-instaveis-nesta-terca-feira-17.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/18/qual-e-a-fase-da-lua-hoje-18-veja-calendario-lunar-de-fevereiro-de-2026.htm"
     }
   ]
 }
