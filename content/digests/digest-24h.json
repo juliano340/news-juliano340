@@ -1,43 +1,97 @@
 {
-  "generated_at": "2026-02-18T11:02:58.709Z",
+  "generated_at": "2026-02-18T13:05:16.108Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 10,
   "posts": [
     {
-      "title": "Adeus, protótipos: por que a IA em 2026 será a era dos 'agentes de execução'",
-      "slug": "adeus-prototipos-por-que-a-ia-em-2026-sera-a-era-dos-agentes-de-execucao",
+      "title": "Mark Zuckerberg é interrogado em meio a julgamento sobre vício de jovens em redes sociais",
+      "slug": "mark-zuckerberg-e-interrogado-em-meio-a-julgamento-sobre-vicio-de-jovens-em-redes-sociais",
       "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-18T10:00:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-18T11:08:09.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/adeus-prototipos-por-que-a-ia-em-2026-sera-a-era-dos-agentes-de-execucao/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/18/mark-zuckerberg-e-interrogado-pela-justica-americana-em-meio-a-julgamento-sobre-vicio-de-jovens-em-redes-sociais.ghtml"
     },
     {
-      "title": "Depois de 800 episódios de Os Simpsons, showrunner revela planos para o final",
-      "slug": "depois-de-800-episodios-de-os-simpsons-showrunner-revela-planos-para-o-final",
+      "title": "KDE Plasma 6.6 chega para enfrentar o Gnome; confira as novidades",
+      "slug": "kde-plasma-66-chega-para-enfrentar-o-gnome-confira-as-novidades",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-18T12:33:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/kde-plasma-6-6-chega-para-enfrentar-o-gnome-confira-as-novidades/"
+    },
+    {
+      "title": "7 jogos que permitem jogar outros games dentro deles",
+      "slug": "7-jogos-que-permitem-jogar-outros-games-dentro-deles",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-18T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/jogos-com-outros-dentro-deles/"
+    },
+    {
+      "title": "iPhone recondicionado tem garantia? Entenda os seus direitos",
+      "slug": "iphone-recondicionado-tem-garantia-entenda-os-seus-direitos",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-18T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/iphone-recondicionado-tem-garantia-entenda-os-seus-direitos/"
+    },
+    {
+      "title": "OpenClaw: malware rouba dados do assistente de IA pela primeira vez",
+      "slug": "openclaw-malware-rouba-dados-do-assistente-de-ia-pela-primeira-vez",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T10:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603128-depois-de-800-episodios-de-os-simpsons-showrunner-revela-planos-para-o-final.htm"
-    },
-    {
-      "title": "Controle parental do YouTube: como configurar e usar corretamente",
-      "slug": "controle-parental-do-youtube-como-configurar-e-usar-corretamente",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-18T10:15:00.000Z",
+      "date": "2026-02-18T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/redes-sociais/410686-controle-parental-do-youtube-como-configurar-e-usar-corretamente.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/410811-openclaw-malware-rouba-dados-do-assistente-de-ia-pela-primeira-vez.htm"
     },
     {
-      "title": "Palpites para Lanús x Flamengo: Análises e Onde Assistir (19/02/2026)",
-      "slug": "palpites-para-lanus-x-flamengo-analises-e-onde-assistir-19022026",
-      "topic": "produtividade-dev",
+      "title": "Onde assistir Pecadores? Conheça o filme mais indicado da história do Oscar",
+      "slug": "onde-assistir-pecadores-conheca-o-filme-mais-indicado-da-historia-do-oscar",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T10:00:00.000Z",
+      "date": "2026-02-18T12:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410723-palpites-para-lanus-x-flamengo-analises-e-onde-assistir-19022026.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603105-onde-assistir-pecadores-conheca-o-filme-mais-indicado-da-historia-do-oscar.htm"
+    },
+    {
+      "title": "WordPress ganha assistente de IA integrado a sites para edição e design",
+      "slug": "wordpress-ganha-assistente-de-ia-integrado-a-sites-para-edicao-e-design",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-18T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/410797-wordpress-ganha-assistente-de-ia-integrado-a-sites-para-edicao-e-design.htm"
+    },
+    {
+      "title": "8 jogos com roteiros melhores que filmes de Hollywood",
+      "slug": "8-jogos-com-roteiros-melhores-que-filmes-de-hollywood",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-18T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503232-8-jogos-com-roteiros-melhores-que-filmes-de-hollywood.htm"
+    },
+    {
+      "title": "Zuckerberg é ouvido hoje em julgamento sobre dependência em redes sociais",
+      "slug": "zuckerberg-e-ouvido-hoje-em-julgamento-sobre-dependencia-em-redes-sociais",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-18T12:23:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/18/zuckerberg-interrogado-hoje-julgamento-redes-sociais.htm"
+    },
+    {
+      "title": "Saiu do ar aí? YouTube diz que solucionou interrupção do serviço",
+      "slug": "saiu-do-ar-ai-youtube-diz-que-solucionou-interrupcao-do-servico",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-18T11:16:30.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/18/saiu-do-ar-ai-youtube-diz-que-solucionou-interrupcao-do-servico.htm"
     }
   ]
 }
