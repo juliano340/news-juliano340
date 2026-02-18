@@ -1,106 +1,25 @@
 {
-  "generated_at": "2026-02-17T23:06:15.732Z",
+  "generated_at": "2026-02-18T01:01:11.260Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 11,
+  "total": 2,
   "posts": [
     {
-      "title": "Melhor celular Xiaomi em 2026: qual modelo comprar?",
-      "slug": "melhor-celular-xiaomi-em-2026-qual-modelo-comprar",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-17T22:40:53.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/guias/melhor-celular-xiaomi/"
-    },
-    {
-      "title": "Como reproduzir o YouTube em segundo plano sem YouTube Premium",
-      "slug": "como-reproduzir-o-youtube-em-segundo-plano-sem-youtube-premium",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-17T18:56:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/como-reproduzir-youtube-em-segundo-plano-sem-youtube-premium/"
-    },
-    {
-      "title": "UX ruim e arquivos bloqueados: por que a Microsoft Store nunca venceu o Steam?",
-      "slug": "ux-ruim-e-arquivos-bloqueados-por-que-a-microsoft-store-nunca-venceu-o-steam",
-      "topic": "geral",
+      "title": "Tela grande causa mais cansaço visual? Veja o que dizem especialistas",
+      "slug": "tela-grande-causa-mais-cansaco-visual-veja-o-que-dizem-especialistas",
+      "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-02-17T23:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ux-ruim-e-arquivos-bloqueados-por-que-a-microsoft-store-nunca-venceu-o-steam/"
-    },
-    {
-      "title": "Magalu faz queima de lava e seca Midea HealthGuard 13 kg; ótimo custo-benefício",
-      "slug": "magalu-faz-queima-de-lava-e-seca-midea-healthguard-13-kg-otimo-custo-beneficio",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-17T22:46:10.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/magalu-faz-queima-de-lava-e-seca-midea-healthguard-13-kg-otimo-custo-beneficio/"
-    },
-    {
-      "title": "Exoesqueletos viralizam nas redes: como funciona e quanto custa no Brasil?",
-      "slug": "exoesqueletos-viralizam-nas-redes-como-funciona-e-quanto-custa-no-brasil",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-17T23:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/410776-exoesqueletos-viralizam-nas-redes-como-funciona-e-quanto-custa-no-brasil.htm"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33 e mais jogos da Steam com até 93% OFF na Nuuvem; confira",
-      "slug": "clair-obscur-expedition-33-e-mais-jogos-da-steam-com-ate-93percent-off-na-nuuvem-confira",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T22:30:00.000Z",
+      "date": "2026-02-18T00:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503541-clair-obscur-expedition-33-e-mais-jogos-da-steam-com-ate-93-off-na-nuuvem-confira.htm"
+      "original_url": "https://canaltech.com.br/produtos/tela-grande-causa-mais-cansaco-visual-veja-o-que-dizem-especialistas/"
     },
     {
-      "title": "Pentágono ameaça romper com a Anthropic por exigências de segurança",
-      "slug": "pentagono-ameaca-romper-com-a-anthropic-por-exigencias-de-seguranca",
+      "title": "Remain: Novo filme com Adolpho Veloso, brasileiro indicado ao Oscar, terá Jake Gyllenhaal",
+      "slug": "remain-novo-filme-com-adolpho-veloso-brasileiro-indicado-ao-oscar-tera-jake-gyllenhaal",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-17T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410796-pentagono-ameaca-romper-com-a-anthropic-por-exigencias-de-seguranca.htm"
-    },
-    {
-      "title": "Celulares usados da Samsung encostam na valorização do iPhone, mas ainda não passam",
-      "slug": "celulares-usados-da-samsung-encostam-na-valorizacao-do-iphone-mas-ainda-nao-passam",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-17T21:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410803-celulares-usados-da-samsung-encostam-na-valorizacao-do-iphone-mas-ainda-nao-passam.htm"
-    },
-    {
-      "title": "Google testa desbloqueio facial no Pixel para brigar com Face ID da Apple",
-      "slug": "google-testa-desbloqueio-facial-no-pixel-para-brigar-com-face-id-da-apple",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-17T21:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410799-google-testa-desbloqueio-facial-no-pixel-para-brigar-com-face-id-da-apple.htm"
-    },
-    {
-      "title": "Carnaval Tech no AliExpress: confira ofertas em eletrônicos e cupons de até R$270 OFF",
-      "slug": "carnaval-tech-no-aliexpress-confira-ofertas-em-eletronicos-e-cupons-de-ate-rdollar270-off",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-17T21:16:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410809-carnaval-tech-no-aliexpress-confira-ofertas-em-eletronicos-e-cupons-de-ate-r270-off.htm"
-    },
-    {
-      "title": "Quando sai o episódio 8 de Jujutsu Kaisen? Saiba a data e hora após pausa do anime",
-      "slug": "quando-sai-o-episodio-8-de-jujutsu-kaisen-saiba-a-data-e-hora-apos-pausa-do-anime",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-17T21:15:00.000Z",
+      "date": "2026-02-17T23:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603126-quando-sai-o-episodio-8-de-jujutsu-kaisen-saiba-a-data-e-hora-apos-pausa-do-anime.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603123-remain-novo-filme-com-adolpho-veloso-brasileiro-indicado-ao-oscar-tera-jake-gyllenhaal.htm"
     }
   ]
 }
