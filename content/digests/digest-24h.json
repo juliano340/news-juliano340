@@ -1,250 +1,232 @@
 {
-  "generated_at": "2026-02-18T19:14:11.466Z",
+  "generated_at": "2026-02-18T21:15:24.221Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 27,
+  "total": 25,
   "posts": [
     {
-      "title": "Gemini, IA do Google, passa a criar músicas por comando de texto ou imagem",
-      "slug": "gemini-ia-do-google-passa-a-criar-musicas-por-comando-de-texto-ou-imagem",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-18T17:32:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/18/gemini-ia-do-google-passa-a-criar-musicas-por-comando-de-texto-ou-imagem.ghtml"
-    },
-    {
-      "title": "iPhone 16e fica 43% mais barato com cupom em oferta na Amazon",
-      "slug": "iphone-16e-fica-43percent-mais-barato-com-cupom-em-oferta-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-18T18:09:02.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-16e-fica-43-mais-barato-com-cupom-em-oferta-na-amazon/"
-    },
-    {
-      "title": "Escassez de Mac Mini reflete avanço da IA local",
-      "slug": "escassez-de-mac-mini-reflete-avanco-da-ia-local",
+      "title": "É oficial: Windows 11 terá botão que testa velocidade da internet",
+      "slug": "e-oficial-windows-11-tera-botao-que-testa-velocidade-da-internet",
       "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-02-18T17:49:28.000Z",
+      "date": "2026-02-18T20:54:39.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/escassez-de-mac-mini-reflete-avanco-da-ia-local/"
+      "original_url": "https://tecnoblog.net/noticias/e-oficial-windows-11-tera-botao-que-testa-velocidade-da-internet/"
     },
     {
-      "title": "Google mostra como será a interface dos óculos smart com Android XR",
-      "slug": "google-mostra-como-sera-a-interface-dos-oculos-smart-com-android-xr",
+      "title": "WhatsApp prepara opção de proteger contas com senha alfanumérica",
+      "slug": "whatsapp-prepara-opcao-de-proteger-contas-com-senha-alfanumerica",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-02-18T20:44:12.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/whatsapp-prepara-opcao-de-proteger-contas-com-senha-alfanumerica/"
+    },
+    {
+      "title": "Acaba hoje: Galaxy A36 5G (256 GB) sai com 49% OFF em promoção com cupom",
+      "slug": "acaba-hoje-galaxy-a36-5g-256-gb-sai-com-49percent-off-em-promocao-com-cupom",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-18T20:26:27.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/acaba-hoje-galaxy-a36-5g-256-gb-sai-com-49-off-em-promocao-com-cupom/"
+    },
+    {
+      "title": "Gemini agora cria músicas de até 30 segundos; conheça o Lyria 3",
+      "slug": "gemini-agora-cria-musicas-de-ate-30-segundos-conheca-o-lyria-3",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-02-18T17:44:07.000Z",
+      "date": "2026-02-18T20:01:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-mostra-como-sera-a-interface-dos-oculos-smart-com-android-xr/"
+      "original_url": "https://tecnoblog.net/noticias/gemini-agora-cria-musicas-de-ate-30-segundos-conheca-o-lyria-3/"
     },
     {
-      "title": "TVs da Samsung sofrem primeira derrota para TCL",
-      "slug": "tvs-da-samsung-sofrem-primeira-derrota-para-tcl",
+      "title": "iPhone 17 (512 GB) fica com preço mais baixo na Amazon em oferta",
+      "slug": "iphone-17-512-gb-fica-com-preco-mais-baixo-na-amazon-em-oferta",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-18T17:27:09.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/tvs-da-samsung-sofrem-primeira-derrota-para-tcl/"
-    },
-    {
-      "title": "Vivo lança plano controle mais barato da história da operadora; 45 GB por R$ 35",
-      "slug": "vivo-lanca-plano-controle-mais-barato-da-historia-da-operadora-45-gb-por-rdollar-35",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-02-18T18:58:00.000Z",
+      "date": "2026-02-18T20:00:07.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/telecom/vivo-lanca-plano-controle-mais-barato-da-historia-da-operadora-45-gb-por-r-35/"
+      "original_url": "https://tecnoblog.net/achados/iphone-17-512-gb-fica-com-preco-mais-baixo-na-amazon-em-oferta/"
     },
     {
-      "title": "WhatsApp terá senha para proteger a conta de invasões, antecipa portal",
-      "slug": "whatsapp-tera-senha-para-proteger-a-conta-de-invasoes-antecipa-portal",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-18T18:54:11.000Z",
+      "title": "Email confidencial? O Copilot está lendo mesmo assim, admite Microsoft",
+      "slug": "email-confidencial-o-copilot-esta-lendo-mesmo-assim-admite-microsoft",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-02-18T19:56:09.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/whatsapp-tera-senha-para-proteger-a-conta-de-invasoes-antecipa-portal/"
+      "original_url": "https://tecnoblog.net/noticias/email-confidencial-o-copilot-esta-lendo-mesmo-assim-admite-microsoft/"
     },
     {
-      "title": "Estratégia da Samsung para evitar vazamentos acabou vazando",
-      "slug": "estrategia-da-samsung-para-evitar-vazamentos-acabou-vazando",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-18T18:50:23.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/estrategia-da-samsung-para-evitar-vazamentos-acabou-vazando/"
-    },
-    {
-      "title": "Extensões falsas de IA no Chrome roubam credenciais pelo e-mail das vítimas",
-      "slug": "extensoes-falsas-de-ia-no-chrome-roubam-credenciais-pelo-e-mail-das-vitimas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-18T18:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/extensoes-falsas-de-ia-no-chrome-roubam-credenciais-pelo-e-mail-das-vitimas/"
-    },
-    {
-      "title": "Varredura no GitHub: Nintendo derruba mais de 10 emuladores de uma vez",
-      "slug": "varredura-no-github-nintendo-derruba-mais-de-10-emuladores-de-uma-vez",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-18T18:30:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/varredura-no-github-nintendo-derruba-mais-de-10-emuladores-de-uma-vez/"
-    },
-    {
-      "title": "Samsung revela truque do Galaxy S26 que vai deixar o Photoshop no passado; veja",
-      "slug": "samsung-revela-truque-do-galaxy-s26-que-vai-deixar-o-photoshop-no-passado-veja",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-18T18:25:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-revela-truque-do-galaxy-s26-que-vai-deixar-o-photoshop-no-passado-veja/"
-    },
-    {
-      "title": "Jeep derruba preço do Renegade Altitude e SUV sai por preço do Basalt",
-      "slug": "jeep-derruba-preco-do-renegade-altitude-e-suv-sai-por-preco-do-basalt",
+      "title": "A internet ficou lenta? Windows 11 terá teste de velocidade nativo",
+      "slug": "a-internet-ficou-lenta-windows-11-tera-teste-de-velocidade-nativo",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-18T18:00:00.000Z",
+      "date": "2026-02-18T20:59:32.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/jeep-derruba-preco-do-renegade-altitude-e-suv-sai-por-preco-do-basalt/"
+      "original_url": "https://canaltech.com.br/software/a-internet-ficou-lenta-windows-11-tera-teste-de-velocidade-nativo/"
     },
     {
-      "title": "Gemini ganha recurso para criar músicas com IA; veja como funciona",
-      "slug": "gemini-ganha-recurso-para-criar-musicas-com-ia-veja-como-funciona",
+      "title": "Novo filme de Resident Evil está \"bem longe\" dos jogos da Capcom",
+      "slug": "novo-filme-de-resident-evil-esta-bem-longe-dos-jogos-da-capcom",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-18T20:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/novo-filme-de-resident-evil-esta-bem-longe-dos-jogos-da-capcom/"
+    },
+    {
+      "title": "OpenAI contrata o criador do OpenClaw; entenda o futuro do agente de IA",
+      "slug": "openai-contrata-o-criador-do-openclaw-entenda-o-futuro-do-agente-de-ia",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-18T20:51:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/openai-contrata-o-criador-do-openclaw-entenda-o-futuro-do-agente-de-ia/"
+    },
+    {
+      "title": "Privada japonesa tem recurso \"autolimpante\" e descarga 5x mais poderosa",
+      "slug": "privada-japonesa-tem-recurso-autolimpante-e-descarga-5x-mais-poderosa",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-18T20:20:52.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/privada-japonesa-tem-recurso-autolimpante-e-descarga-5x-mais-poderosa/"
+    },
+    {
+      "title": "WordPress ganha assistente de IA para você criar o seu site ou blog",
+      "slug": "wordpress-ganha-assistente-de-ia-para-voce-criar-o-seu-site-ou-blog",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-18T20:14:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/wordpress-ganha-assistente-de-ia-para-voce-criar-o-seu-site-ou-blog/"
+    },
+    {
+      "title": "iPhone e MacBook “baratos”: o que a Apple pode anunciar em 4 de março",
+      "slug": "iphone-e-macbook-baratos-o-que-a-apple-pode-anunciar-em-4-de-marco",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-18T20:01:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/iphone-e-macbook-baratos-o-que-a-apple-pode-anunciar-em-4-de-marco/"
+    },
+    {
+      "title": "SUVs chineses elétricos \"abrem\" desfiles no Carnaval de 2026; mas por quê?",
+      "slug": "suvs-chineses-eletricos-abrem-desfiles-no-carnaval-de-2026-mas-por-que",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-02-18T17:58:00.000Z",
+      "date": "2026-02-18T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/gemini-ganha-recurso-para-criar-musicas-com-ia-veja-como-funciona/"
+      "original_url": "https://canaltech.com.br/carros/suvs-chineses-eletricos-abrem-desfiles-no-carnaval-de-2026-mas-por-que/"
     },
     {
-      "title": "Claude Sonnet 4.6 é o novo modelo de IA com janela de 1 milhão de tokens",
-      "slug": "claude-sonnet-46-e-o-novo-modelo-de-ia-com-janela-de-1-milhao-de-tokens",
-      "topic": "llms",
+      "title": "Senhas geradas pelo ChatGPT e Gemini não são seguras, alertam especialistas",
+      "slug": "senhas-geradas-pelo-chatgpt-e-gemini-nao-sao-seguras-alertam-especialistas",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-18T17:53:00.000Z",
+      "date": "2026-02-18T19:50:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/claude-sonnet-46-e-o-novo-modelo-de-ia-com-janela-de-1-milhao-de-tokens/"
+      "original_url": "https://canaltech.com.br/seguranca/senhas-geradas-pelo-chatgpt-e-gemini-nao-sao-seguras-alertam-especialistas/"
     },
     {
-      "title": "OpenAI é proibida de usar termo 'Cameo' em app de vídeos; entenda o motivo",
-      "slug": "openai-e-proibida-de-usar-termo-cameo-em-app-de-videos-entenda-o-motivo",
+      "title": "Audible segue o Spotify e ganha sincronização de audiobook com ebook do Kindle",
+      "slug": "audible-segue-o-spotify-e-ganha-sincronizacao-de-audiobook-com-ebook-do-kindle",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-18T19:23:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/audible-segue-o-spotify-e-ganha-sincronizacao-de-audiobook-com-ebook-do-kindle/"
+    },
+    {
+      "title": "Entenda o que é real em História de Amor, nova série do Disney+ sobre a família Kennedy",
+      "slug": "entenda-o-que-e-real-em-historia-de-amor-nova-serie-do-disney-sobre-a-familia-kennedy",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/410835-openai-e-proibida-de-usar-termo-cameo-em-app-de-videos-entenda-o-motivo.htm"
+      "date": "2026-02-18T20:45:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603130-entenda-o-que-e-real-em-historia-de-amor-nova-serie-do-disney-sobre-a-familia-kennedy.htm"
     },
     {
-      "title": "Ano Novo Chinês: robôs humanoides lutam Kung Fu, empunham espadas e nunchakus",
-      "slug": "ano-novo-chines-robos-humanoides-lutam-kung-fu-empunham-espadas-e-nunchakus",
+      "title": "Rival da Starlink, internet via satélite SpaceSail é autorizada no Brasil",
+      "slug": "rival-da-starlink-internet-via-satelite-spacesail-e-autorizada-no-brasil",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-18T19:00:00.000Z",
+      "date": "2026-02-18T20:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/ciencia/410846-rival-da-starlink-internet-via-satelite-spacesail-e-autorizada-no-brasil.htm"
+    },
+    {
+      "title": "Trump tem discurso pronto sobre a existência de ETs, revela nora",
+      "slug": "trump-tem-discurso-pronto-sobre-a-existencia-de-ets-revela-nora",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-18T20:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/410810-ano-novo-chines-robos-humanoides-lutam-kung-fu-empunham-espadas-e-nunchakus.htm"
+      "original_url": "https://www.tecmundo.com.br/ciencia/410841-trump-tem-discurso-pronto-sobre-a-existencia-de-ets-revela-nora.htm"
     },
     {
-      "title": "Marty Supreme quase teve final parecido com Pecadores! Confira a fala do diretor",
-      "slug": "marty-supreme-quase-teve-final-parecido-com-pecadores-confira-a-fala-do-diretor",
+      "title": "Celulares da Apple, Xiaomi, Motorola e mais para comprar com os cupons do Magazine Luiza",
+      "slug": "celulares-da-apple-xiaomi-motorola-e-mais-para-comprar-com-os-cupons-do-magazine-luiza",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-18T20:16:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410844-celulares-da-apple-xiaomi-motorola-e-mais-para-comprar-com-os-cupons-do-magazine-luiza.htm"
+    },
+    {
+      "title": "Malware Keenadu ataca celulares Android de brasileiros",
+      "slug": "malware-keenadu-ataca-celulares-android-de-brasileiros",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T18:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603131-marty-supreme-quase-teve-final-parecido-com-pecadores-confira-a-fala-do-diretor.htm"
+      "date": "2026-02-18T19:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/410825-malware-keenadu-ataca-celulares-android-de-brasileiros.htm"
     },
     {
-      "title": "Lojas oficiais com até 61% OFF na Shopee reúnem ofertas de grandes marcas",
-      "slug": "lojas-oficiais-com-ate-61percent-off-na-shopee-reunem-ofertas-de-grandes-marcas",
-      "topic": "infra-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-18T18:27:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410830-lojas-oficiais-com-ate-61-off-na-shopee-reunem-ofertas-de-grandes-marcas.htm"
-    },
-    {
-      "title": "Óculos e pingente inteligente com IA devem ser o novo foco da Apple",
-      "slug": "oculos-e-pingente-inteligente-com-ia-devem-ser-o-novo-foco-da-apple",
+      "title": "Aspirador DJI Romo tinha falha que expunha câmera e mapa da casa de 7 mil usuários",
+      "slug": "aspirador-dji-romo-tinha-falha-que-expunha-camera-e-mapa-da-casa-de-7-mil-usuarios",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T18:00:00.000Z",
+      "date": "2026-02-18T19:22:28.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410823-oculos-e-pingente-inteligente-com-ia-devem-ser-o-novo-foco-da-apple.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/410828-aspirador-dji-romo-tinha-falha-que-expunha-camera-e-mapa-da-casa-de-7-mil-usuarios.htm"
     },
     {
-      "title": "'Pirataria': Netflix quer processar dona do TikTok por IA que gera vídeos realistas",
-      "slug": "pirataria-netflix-quer-processar-dona-do-tiktok-por-ia-que-gera-videos-realistas",
+      "title": "Promoção de geladeiras nas Casas Bahia tem modelos Frost Free com desconto",
+      "slug": "promocao-de-geladeiras-nas-casas-bahia-tem-modelos-frost-free-com-desconto",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-18T19:16:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410836-promocao-de-geladeiras-nas-casas-bahia-tem-modelos-frost-free-com-desconto.htm"
+    },
+    {
+      "title": "Criadores de High On Life 2 falam sobre impacto do Xbox Game Pass e PS Plus na franquia",
+      "slug": "criadores-de-high-on-life-2-falam-sobre-impacto-do-xbox-game-pass-e-ps-plus-na-franquia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-18T17:45:00.000Z",
+      "date": "2026-02-18T19:15:50.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/410826-pirataria-netflix-quer-processar-dona-do-tiktok-por-ia-que-gera-videos-realistas.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503547-criadores-de-high-on-life-2-falam-sobre-impacto-do-xbox-game-pass-e-ps-plus-na-franquia.htm"
     },
     {
-      "title": "Gemini ganha gerador de músicas a partir de textos",
-      "slug": "gemini-ganha-gerador-de-musicas-a-partir-de-textos",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-18T17:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/410833-gemini-ganha-gerador-de-musicas-a-partir-de-textos.htm"
-    },
-    {
-      "title": "Entenda polêmica envolvendo God of War Sons of Sparta e o criador da franquia",
-      "slug": "entenda-polemica-envolvendo-god-of-war-sons-of-sparta-e-o-criador-da-franquia",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-18T17:15:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503545-entenda-polemica-envolvendo-god-of-war-sons-of-sparta-e-o-criador-da-franquia.htm"
-    },
-    {
-      "title": "Hacker preso pagava R$ 0,06 em diárias de hotéis de luxo na Espanha",
-      "slug": "hacker-preso-pagava-rdollar-006-em-diarias-de-hoteis-de-luxo-na-espanha",
+      "title": "World Labs, da pioneira em IA Fei-Fei Li, levanta US$1 bilhão",
+      "slug": "world-labs-da-pioneira-em-ia-fei-fei-li-levanta-usdollar1-bilhao",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-18T17:46:20.000Z",
+      "date": "2026-02-18T19:06:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/18/hacker-preso-pagava-r-006-em-diarias-de-hoteis-de-luxo-na-espanha.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/18/world-labs-da-pioneira-em-ia-fei-fei-li-levanta-us1-bilhao.htm"
     },
     {
-      "title": "Apple fará evento em março que pode apresentar iPhone 17e e MacBook 'barato'",
-      "slug": "apple-fara-evento-em-marco-que-pode-apresentar-iphone-17e-e-macbook-barato",
+      "title": "Zuckerberg diz que Meta não busca mais maximizar o tempo de tela de usuários",
+      "slug": "zuckerberg-diz-que-meta-nao-busca-mais-maximizar-o-tempo-de-tela-de-usuarios",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-18T17:31:22.000Z",
+      "date": "2026-02-18T18:50:24.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/02/18/apple-fara-evento-em-marco-que-pode-apresentar-iphone-17e-e-macbook-barato.htm"
-    },
-    {
-      "title": "Microsoft diz que continuará comprando energia renovável para atender suas necessidades",
-      "slug": "microsoft-diz-que-continuara-comprando-energia-renovavel-para-atender-suas-necessidades",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-18T17:23:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/18/microsoft-diz-que-continuara-comprando-energia-renovavel-para-atender-suas-necessidades.htm"
-    },
-    {
-      "title": "Adoção da IA já afeta empregos para estudantes na Irlanda, diz governo",
-      "slug": "adocao-da-ia-ja-afeta-empregos-para-estudantes-na-irlanda-diz-governo",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-18T17:10:14.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/18/adocao-da-ia-ja-afeta-empregos-para-estudantes-na-irlanda-diz-governo.htm"
-    },
-    {
-      "title": "Luísa Sonza tem medo da câmera que detecta pum, mas imagens são reais?",
-      "slug": "luisa-sonza-tem-medo-da-camera-que-detecta-pum-mas-imagens-sao-reais",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-18T17:04:23.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/18/camera-termica-pum-luisa-sonza.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/18/zuckerberg-afirma-que-a-meta-nao-desenvolve-mais-aplicativos-para-maximizar-o-tempo-de-tela.htm"
     }
   ]
 }
