@@ -1,6 +1,6 @@
 {
-  "slug": "anatel-autoriza-spacesail-rival-chinesa-da-starlink-a-operar-no-brasil",
-  "generated_at": "2026-02-18T15:02:13.121Z",
+  "slug": "exynos-2600-dos-galaxy-s26-surpreende-em-teste-de-ray-tracing",
+  "generated_at": "2026-02-18T15:04:35.138Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 460,
+      "words": 397,
       "min": 220
     },
     {

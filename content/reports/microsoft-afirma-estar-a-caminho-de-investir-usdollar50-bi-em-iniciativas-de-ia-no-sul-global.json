@@ -1,6 +1,6 @@
 {
-  "slug": "anatel-autoriza-spacesail-rival-chinesa-da-starlink-a-operar-no-brasil",
-  "generated_at": "2026-02-18T15:02:13.121Z",
+  "slug": "microsoft-afirma-estar-a-caminho-de-investir-usdollar50-bi-em-iniciativas-de-ia-no-sul-global",
+  "generated_at": "2026-02-18T15:10:52.309Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 460,
+      "words": 279,
       "min": 220
     },
     {

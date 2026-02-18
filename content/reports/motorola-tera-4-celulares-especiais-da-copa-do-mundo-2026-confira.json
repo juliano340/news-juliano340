@@ -1,6 +1,6 @@
 {
-  "slug": "anatel-autoriza-spacesail-rival-chinesa-da-starlink-a-operar-no-brasil",
-  "generated_at": "2026-02-18T15:02:13.121Z",
+  "slug": "motorola-tera-4-celulares-especiais-da-copa-do-mundo-2026-confira",
+  "generated_at": "2026-02-18T15:07:26.405Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 460,
+      "words": 363,
       "min": 220
     },
     {

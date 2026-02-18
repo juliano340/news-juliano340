@@ -1,6 +1,6 @@
 {
-  "slug": "anatel-autoriza-spacesail-rival-chinesa-da-starlink-a-operar-no-brasil",
-  "generated_at": "2026-02-18T15:02:13.121Z",
+  "slug": "apple-tv-conta-com-3-filmes-indicados-ao-oscar-2026-veja-a-lista",
+  "generated_at": "2026-02-18T15:06:58.513Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 460,
+      "words": 368,
       "min": 220
     },
     {
