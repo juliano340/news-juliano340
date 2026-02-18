@@ -1,18 +1,29 @@
 # Weekly IA para Devs - 2026-02-18
 
-Gerado em 2026-02-18T17:09:16.344Z
+Gerado em 2026-02-18T19:14:11.466Z
 
-- [Huawei Watch Fit 4 com tela AMOLED recebe 49% de desconto em oferta](https://tecnoblog.net/achados/huawei-watch-fit-4-com-tela-amoled-recebe-49-de-desconto-em-oferta/) | topico: geral | score: 100
-- [Ex-Microsoft recria Gerenciador de Tarefas do Windows em conceito](https://tecnoblog.net/noticias/ex-microsoft-recria-gerenciador-de-tarefas-do-windows-em-conceito/) | topico: agentes | score: 100
-- [Galaxy Buds Core possui a melhor promoção do ano com 40% OFF na Amazon](https://tecnoblog.net/achados/galaxy-buds-core-possui-a-melhor-promocao-do-ano-com-40-off-na-amazon/) | topico: geral | score: 100
-- [iPhone 16e de 128 GB cai de preço no Magalu; ótima oferta por tempo limitado](https://canaltech.com.br/smartphone/iphone-16e-de-128-gb-cai-de-preco-no-magalu-otima-oferta-por-tempo-limitado/) | topico: geral | score: 100
-- [Magalu faz queima de ar-condicionado portátil Philco; preço baixo em 12.000 BTUs](https://canaltech.com.br/eletro/magalu-faz-queima-de-ar-condicionado-portatil-philco-preco-baixo-em-12000-btus/) | topico: geral | score: 100
-- [Lava louças em oferta: Amazon derruba preço de Midea 8 serviços econômica](https://canaltech.com.br/eletro/lava-loucas-em-oferta-amazon-derruba-preco-de-midea-8-servicos-economica/) | topico: produtividade-dev | score: 100
-- [Hackers usam apps de monitoramento do seu chefe para invadir seu PC](https://canaltech.com.br/seguranca/hackers-usam-apps-de-monitoramento-do-seu-chefe-para-invadir-seu-pc/) | topico: geral | score: 100
-- [Samsung cria modo de chat seguro para evitar vazamentos — e recurso vaza na web](https://www.tecmundo.com.br/mercado/410824-samsung-cria-modo-de-chat-seguro-para-evitar-vazamentos-e-recurso-vaza-na-web.htm) | topico: geral | score: 100
-- [WhatsApp vai permitir proteger contas com senhas personalizadas](https://www.tecmundo.com.br/software/410829-whatsapp-vai-permitir-proteger-contas-com-senhas-personalizadas.htm) | topico: produtividade-dev | score: 100
-- [Gostou de Cavaleiro dos Sete Reinos? Esse filme clássico disponível no streaming é uma boa pedida](https://www.tecmundo.com.br/minha-serie/603129-gostou-de-cavaleiro-dos-sete-reinos-esse-filme-classico-disponivel-no-streaming-e-uma-boa-pedida.htm) | topico: geral | score: 92
-- [Perplexity desiste de anúncios e critica propaganda nas IAs](https://www.tecmundo.com.br/mercado/410817-perplexity-desiste-de-anuncios-e-critica-propaganda-nas-ias.htm) | topico: geral | score: 100
-- [Google lança Pixel 10a com visual idêntico e poucas novidades](https://www.tecmundo.com.br/produto/410818-google-lanca-pixel-10a-com-visual-identico-e-poucas-novidades.htm) | topico: llms | score: 100
-- [TCL liderou venda de TVs no fim de 2025, mas segue atrás da Samsung](https://www.tecmundo.com.br/mercado/410821-tcl-liderou-venda-de-tvs-no-fim-de-2025-mas-segue-atras-da-samsung.htm) | topico: geral | score: 100
-- [8 jogos parecidos com Resident Evil para aproveitar no PC e consoles](https://www.tecmundo.com.br/voxel/503531-8-jogos-parecidos-com-resident-evil-para-aproveitar-no-pc-e-consoles.htm) | topico: geral | score: 92
+- [Gemini, IA do Google, passa a criar músicas por comando de texto ou imagem](https://g1.globo.com/tecnologia/noticia/2026/02/18/gemini-ia-do-google-passa-a-criar-musicas-por-comando-de-texto-ou-imagem.ghtml) | topico: llms | score: 100
+- [iPhone 16e fica 43% mais barato com cupom em oferta na Amazon](https://tecnoblog.net/achados/iphone-16e-fica-43-mais-barato-com-cupom-em-oferta-na-amazon/) | topico: geral | score: 92
+- [Escassez de Mac Mini reflete avanço da IA local](https://tecnoblog.net/noticias/escassez-de-mac-mini-reflete-avanco-da-ia-local/) | topico: agentes | score: 100
+- [Google mostra como será a interface dos óculos smart com Android XR](https://tecnoblog.net/noticias/google-mostra-como-sera-a-interface-dos-oculos-smart-com-android-xr/) | topico: llms | score: 100
+- [TVs da Samsung sofrem primeira derrota para TCL](https://tecnoblog.net/noticias/tvs-da-samsung-sofrem-primeira-derrota-para-tcl/) | topico: geral | score: 100
+- [Vivo lança plano controle mais barato da história da operadora; 45 GB por R$ 35](https://canaltech.com.br/telecom/vivo-lanca-plano-controle-mais-barato-da-historia-da-operadora-45-gb-por-r-35/) | topico: seguranca-ia | score: 92
+- [WhatsApp terá senha para proteger a conta de invasões, antecipa portal](https://canaltech.com.br/apps/whatsapp-tera-senha-para-proteger-a-conta-de-invasoes-antecipa-portal/) | topico: geral | score: 100
+- [Estratégia da Samsung para evitar vazamentos acabou vazando](https://canaltech.com.br/smartphone/estrategia-da-samsung-para-evitar-vazamentos-acabou-vazando/) | topico: geral | score: 92
+- [Extensões falsas de IA no Chrome roubam credenciais pelo e-mail das vítimas](https://canaltech.com.br/seguranca/extensoes-falsas-de-ia-no-chrome-roubam-credenciais-pelo-e-mail-das-vitimas/) | topico: geral | score: 100
+- [Varredura no GitHub: Nintendo derruba mais de 10 emuladores de uma vez](https://canaltech.com.br/games/varredura-no-github-nintendo-derruba-mais-de-10-emuladores-de-uma-vez/) | topico: geral | score: 100
+- [Samsung revela truque do Galaxy S26 que vai deixar o Photoshop no passado; veja](https://canaltech.com.br/smartphone/samsung-revela-truque-do-galaxy-s26-que-vai-deixar-o-photoshop-no-passado-veja/) | topico: geral | score: 100
+- [Jeep derruba preço do Renegade Altitude e SUV sai por preço do Basalt](https://canaltech.com.br/carros/jeep-derruba-preco-do-renegade-altitude-e-suv-sai-por-preco-do-basalt/) | topico: produtividade-dev | score: 100
+- [Gemini ganha recurso para criar músicas com IA; veja como funciona](https://canaltech.com.br/apps/gemini-ganha-recurso-para-criar-musicas-com-ia-veja-como-funciona/) | topico: llms | score: 100
+- [Claude Sonnet 4.6 é o novo modelo de IA com janela de 1 milhão de tokens](https://canaltech.com.br/inteligencia-artificial/claude-sonnet-46-e-o-novo-modelo-de-ia-com-janela-de-1-milhao-de-tokens/) | topico: llms | score: 100
+- [OpenAI é proibida de usar termo 'Cameo' em app de vídeos; entenda o motivo](https://www.tecmundo.com.br/mercado/410835-openai-e-proibida-de-usar-termo-cameo-em-app-de-videos-entenda-o-motivo.htm) | topico: geral | score: 100
+- [Ano Novo Chinês: robôs humanoides lutam Kung Fu, empunham espadas e nunchakus](https://www.tecmundo.com.br/produto/410810-ano-novo-chines-robos-humanoides-lutam-kung-fu-empunham-espadas-e-nunchakus.htm) | topico: produtividade-dev | score: 92
+- [Marty Supreme quase teve final parecido com Pecadores! Confira a fala do diretor](https://www.tecmundo.com.br/minha-serie/603131-marty-supreme-quase-teve-final-parecido-com-pecadores-confira-a-fala-do-diretor.htm) | topico: geral | score: 92
+- [Lojas oficiais com até 61% OFF na Shopee reúnem ofertas de grandes marcas](https://www.tecmundo.com.br/guia-de-compras/410830-lojas-oficiais-com-ate-61-off-na-shopee-reunem-ofertas-de-grandes-marcas.htm) | topico: infra-ia | score: 92
+- [Óculos e pingente inteligente com IA devem ser o novo foco da Apple](https://www.tecmundo.com.br/produto/410823-oculos-e-pingente-inteligente-com-ia-devem-ser-o-novo-foco-da-apple.htm) | topico: geral | score: 100
+- ['Pirataria': Netflix quer processar dona do TikTok por IA que gera vídeos realistas](https://www.tecmundo.com.br/software/410826-pirataria-netflix-quer-processar-dona-do-tiktok-por-ia-que-gera-videos-realistas.htm) | topico: geral | score: 100
+- [Gemini ganha gerador de músicas a partir de textos](https://www.tecmundo.com.br/software/410833-gemini-ganha-gerador-de-musicas-a-partir-de-textos.htm) | topico: llms | score: 100
+- [Entenda polêmica envolvendo God of War Sons of Sparta e o criador da franquia](https://www.tecmundo.com.br/voxel/503545-entenda-polemica-envolvendo-god-of-war-sons-of-sparta-e-o-criador-da-franquia.htm) | topico: geral | score: 100
+- [Hacker preso pagava R$ 0,06 em diárias de hotéis de luxo na Espanha](https://www.uol.com.br/tilt/noticias/afp/2026/02/18/hacker-preso-pagava-r-006-em-diarias-de-hoteis-de-luxo-na-espanha.htm) | topico: geral | score: 100
+- [Apple fará evento em março que pode apresentar iPhone 17e e MacBook 'barato'](https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/02/18/apple-fara-evento-em-marco-que-pode-apresentar-iphone-17e-e-macbook-barato.htm) | topico: geral | score: 92
+- [Microsoft diz que continuará comprando energia renovável para atender suas necessidades](https://www.uol.com.br/tilt/noticias/reuters/2026/02/18/microsoft-diz-que-continuara-comprando-energia-renovavel-para-atender-suas-necessidades.htm) | topico: geral | score: 100
