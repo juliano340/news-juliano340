@@ -1,6 +1,6 @@
 {
-  "slug": "megaways-o-que-e-como-funciona-e-onde-jogar-slots-com-milhares-de-combinacoes",
-  "generated_at": "2026-02-19T13:07:43.620Z",
+  "slug": "conforto-e-velocidade-monitor-odyssey-g40-25-em-promocao-com-cupom-na-samsung",
+  "generated_at": "2026-02-19T13:01:33.240Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 424,
+      "words": 370,
       "min": 220
     },
     {

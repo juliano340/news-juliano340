@@ -1,7 +1,7 @@
 {
-  "slug": "megaways-o-que-e-como-funciona-e-onde-jogar-slots-com-milhares-de-combinacoes",
-  "generated_at": "2026-02-19T13:07:43.620Z",
-  "status": "PASS",
+  "slug": "rodizio-ja-voltou-a-valer-em-sao-paulo-saiba-quando-fiscalizacao-e-retomada",
+  "generated_at": "2026-02-19T13:04:27.528Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 424,
+      "words": 336,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [
