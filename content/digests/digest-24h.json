@@ -1,43 +1,70 @@
 {
-  "generated_at": "2026-02-19T09:04:12.311Z",
+  "generated_at": "2026-02-19T11:04:53.843Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 7,
   "posts": [
     {
-      "title": "Aprendizagem por rolagem: dá para aprender nas redes sociais?",
-      "slug": "aprendizagem-por-rolagem-da-para-aprender-nas-redes-sociais",
+      "title": "Hacker é preso após burlar sistemas para pagar um centavo de euro em hospedagens de luxo",
+      "slug": "hacker-e-preso-apos-burlar-sistemas-para-pagar-um-centavo-de-euro-em-hospedagens-de-luxo",
+      "topic": "geral",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-19T08:00:34.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/19/hacker-e-preso-apos-burlar-sistemas-para-pagar-um-centavo-de-euro-em-hospedagens-de-luxo.ghtml"
+    },
+    {
+      "title": "Como a IA generativa no smartphone muda as regras do jogo em 2026",
+      "slug": "como-a-ia-generativa-no-smartphone-muda-as-regras-do-jogo-em-2026",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-19T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/colunas/como-a-ia-generativa-no-smartphone-muda-as-regras-do-jogo-em-2026/"
+    },
+    {
+      "title": "Celulares 4G ainda dominam vendas na América Latina, mostra pesquisa",
+      "slug": "celulares-4g-ainda-dominam-vendas-na-america-latina-mostra-pesquisa",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-19T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/aprendizagem-por-rolagem-da-para-aprender-nas-redes-sociais-6361/"
+      "date": "2026-02-19T10:17:25.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celulares-4g-ainda-dominam-vendas-na-america-latina-mostra-pesquisa/"
     },
     {
-      "title": "Palpites para Corinthians x Fluminense - feminino: Análises e Onde Assistir (20/02/2026)",
-      "slug": "palpites-para-corinthians-x-fluminense-feminino-analises-e-onde-assistir-20022026",
-      "topic": "seguranca-ia",
+      "title": "Waymo nega que controle seus robotáxis remotamente de fora dos EUA",
+      "slug": "waymo-nega-que-controle-seus-robotaxis-remotamente-de-fora-dos-eua",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-19T09:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/waymo-nega-que-controle-seus-robotaxis-remotamente-de-fora-dos-eua/"
+    },
+    {
+      "title": "Chris Hemsworth explica intenção do humor polêmico de Thor: Amor e Trovão",
+      "slug": "chris-hemsworth-explica-intencao-do-humor-polemico-de-thor-amor-e-trovao",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-19T09:00:00.000Z",
+      "date": "2026-02-19T10:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410848-palpites-para-corinthians-x-fluminense-feminino-analises-e-onde-assistir-20022026.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603133-chris-hemsworth-explica-intencao-do-humor-polemico-de-thor-amor-e-trovao.htm"
     },
     {
-      "title": "Palpites para Deportivo Táchira x Tolima: Análises e Onde Assistir (19/02/2026)",
-      "slug": "palpites-para-deportivo-tachira-x-tolima-analises-e-onde-assistir-19022026",
-      "topic": "seguranca-ia",
+      "title": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (18)",
+      "slug": "play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-18",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-19T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410847-palpites-para-deportivo-tachira-x-tolima-analises-e-onde-assistir-19022026.htm"
+      "date": "2026-02-19T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503546-play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-18.htm"
     },
     {
-      "title": "Qual é a fase da Lua hoje (19)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-fevereiro-de-2026",
+      "title": "Na Índia, Lula diz que IA sem regulação ameaça a democracia e aprofunda desigualdades",
+      "slug": "na-india-lula-diz-que-ia-sem-regulacao-ameaca-a-democracia-e-aprofunda-desigualdades",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-19T08:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/19/qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "date": "2026-02-19T09:14:54.000Z",
+      "editorial_score": 100,
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/02/19/na-india-lula-diz-que-ia-sem-regulacao-ameaca-a-democracia-e-aprofunda-desigualdades.htm"
     }
   ]
 }

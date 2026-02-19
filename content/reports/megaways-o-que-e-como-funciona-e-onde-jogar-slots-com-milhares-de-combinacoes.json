@@ -1,6 +1,6 @@
 {
-  "slug": "br-101-tera-5g-em-todo-percurso-promete-anatel-veja-mais-rodovias-contempladas",
-  "generated_at": "2026-02-19T11:02:43.708Z",
+  "slug": "megaways-o-que-e-como-funciona-e-onde-jogar-slots-com-milhares-de-combinacoes",
+  "generated_at": "2026-02-19T11:03:56.897Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 310,
+      "words": 363,
       "min": 220
     },
     {
