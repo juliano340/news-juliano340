@@ -1,187 +1,277 @@
 {
-  "generated_at": "2026-02-19T13:09:11.567Z",
+  "generated_at": "2026-02-19T15:15:35.596Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 20,
+  "total": 30,
   "posts": [
     {
-      "title": "Adobe Illustrator integra ChatGPT e Gemini para criar designs com IA generativa",
-      "slug": "adobe-illustrator-integra-chatgpt-e-gemini-para-criar-designs-com-ia-generativa",
+      "title": "Galaxy Z Flip 7 FE (128 GB) cai para menos da metade do preço em oferta",
+      "slug": "galaxy-z-flip-7-fe-128-gb-cai-para-menos-da-metade-do-preco-em-oferta",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T14:31:50.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-z-flip-7-fe-128-gb-cai-para-menos-da-metade-do-preco-em-oferta/"
+    },
+    {
+      "title": "AsteroidOS 2.0: conheça o sistema Linux que dá vida nova a smartwatches",
+      "slug": "asteroidos-20-conheca-o-sistema-linux-que-da-vida-nova-a-smartwatches",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T14:14:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/asteroidos-2-0-conheca-o-sistema-linux-que-da-vida-nova-a-smartwatches/"
+    },
+    {
+      "title": "Smart TV 4K OLED Samsung de 65″ tem 32% OFF com cupom no Magalu",
+      "slug": "smart-tv-4k-oled-samsung-de-65-tem-32percent-off-com-cupom-no-magalu",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T13:46:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/smart-tv-4k-oled-samsung-de-65-tem-32-off-com-cupom-no-magalu/"
+    },
+    {
+      "title": "Investidores criticam gasto excessivo das big techs com IA",
+      "slug": "investidores-criticam-gasto-excessivo-das-big-techs-com-ia",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T13:39:11.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/investidores-criticam-gasto-excessivo-das-big-techs-com-ia/"
+    },
+    {
+      "title": "GTA 4: conheça todos os códigos e cheats para PS3, Xbox 360 e PC",
+      "slug": "gta-4-conheca-todos-os-codigos-e-cheats-para-ps3-xbox-360-e-pc",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T13:20:58.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/cheats-e-codigos-gta-4-ps3-xbox-360-e-pc/"
+    },
+    {
+      "title": "Secretário compara “jailbreak” do caça F-35 a desbloqueio de iPhone",
+      "slug": "secretario-compara-jailbreak-do-caca-f-35-a-desbloqueio-de-iphone",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T13:11:54.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/secretario-compara-jailbreak-do-caca-f-35-a-desbloqueio-de-iphone/"
+    },
+    {
+      "title": "Adeus, Rosetta 2: Apple entra na reta final da transição de Intel para Arm",
+      "slug": "adeus-rosetta-2-apple-entra-na-reta-final-da-transicao-de-intel-para-arm",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T13:06:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/adeus-rosetta-2-apple-entra-na-reta-final-da-transicao-de-intel-para-arm/"
+    },
+    {
+      "title": "iPhone 17 Pro Max (512 GB) recebe desconto em oferta no Mercado Livre",
+      "slug": "iphone-17-pro-max-512-gb-recebe-desconto-em-oferta-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T12:58:04.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-max-512-gb-recebe-desconto-em-oferta-no-mercado-livre/"
+    },
+    {
+      "title": "Trello fora do ar? Usuários relatam problemas nesta quinta (19)",
+      "slug": "trello-fora-do-ar-usuarios-relatam-problemas-nesta-quinta-19",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-19T14:44:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/trello-fora-do-ar-usuarios-relatam-problemas-nesta-quinta-19/"
+    },
+    {
+      "title": "Windows 11 26H1 será liberado apenas para alguns computadores; entenda",
+      "slug": "windows-11-26h1-sera-liberado-apenas-para-alguns-computadores-entenda",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-19T14:26:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/software/windows-11-26h1-sera-liberado-apenas-para-alguns-computadores-entenda/"
+    },
+    {
+      "title": "Resident Evil Requiem vaza antes da hora: como bloquear spoilers nas redes",
+      "slug": "resident-evil-requiem-vaza-antes-da-hora-como-bloquear-spoilers-nas-redes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-19T14:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/resident-evil-requiem-vaza-antes-da-hora-como-bloquear-spoilers-nas-redes/"
+    },
+    {
+      "title": "Nova regra na China pode impactar carros elétricos no Brasil?",
+      "slug": "nova-regra-na-china-pode-impactar-carros-eletricos-no-brasil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-19T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/nova-regra-na-china-pode-impactar-carros-eletricos-no-brasil/"
+    },
+    {
+      "title": "iPad 11 está com preço no chão em nova oferta da Shopee; veja o cupom",
+      "slug": "ipad-11-esta-com-preco-no-chao-em-nova-oferta-da-shopee-veja-o-cupom",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-19T13:59:25.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/tablet/ipad-11-esta-com-preco-no-chao-em-nova-oferta-da-shopee-veja-o-cupom/"
+    },
+    {
+      "title": "Sonic 4: Kristen Bell se junta ao elenco do filme como Amy Rose",
+      "slug": "sonic-4-kristen-bell-se-junta-ao-elenco-do-filme-como-amy-rose",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-19T13:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/sonic-4-kristen-bell-se-junta-ao-elenco-do-filme-como-amy-rose/"
+    },
+    {
+      "title": "Como criar músicas com IA pelo Gemini",
+      "slug": "como-criar-musicas-com-ia-pelo-gemini",
       "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-19T13:38:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-criar-musicas-com-ia-pelo-gemini/"
+    },
+    {
+      "title": "Seedance 2.0: IA para criar vídeos terá restrições após críticas de Hollywood",
+      "slug": "seedance-20-ia-para-criar-videos-tera-restricoes-apos-criticas-de-hollywood",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-19T13:24:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/seedance-20-ia-para-criar-videos-tera-restricoes-apos-criticas-de-hollywood/"
+    },
+    {
+      "title": "YouTube para TVs ganha chatbot com IA em novo experimento do app",
+      "slug": "youtube-para-tvs-ganha-chatbot-com-ia-em-novo-experimento-do-app",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-19T13:12:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/youtube-para-tvs-ganha-chatbot-com-ia-em-novo-experimento-do-app/"
+    },
+    {
+      "title": "O Pix do Itaú está fora do ar? App apresenta instabilidade nesta quinta (19)",
+      "slug": "o-pix-do-itau-esta-fora-do-ar-app-apresenta-instabilidade-nesta-quinta-19",
+      "topic": "agentes",
       "source": "Canaltech",
       "date": "2026-02-19T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/adobe-illustrator-integra-chatgpt-e-gemini-para-criar-designs-com-ia-generativa/"
+      "original_url": "https://canaltech.com.br/apps/o-pix-do-itau-esta-fora-do-ar-app-apresenta-problemas-nesta-quinta-19/"
     },
     {
-      "title": "5G no Brasil é melhor que da Alemanha e Espanha, revela estudo",
-      "slug": "5g-no-brasil-e-melhor-que-da-alemanha-e-espanha-revela-estudo",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:49:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/telecom/5g-no-brasil-e-melhor-que-da-alemanha-e-espanha-revela-estudo/"
-    },
-    {
-      "title": "Conforto e velocidade: Monitor Odyssey G40 25\" em promoção com cupom na Samsung",
-      "slug": "conforto-e-velocidade-monitor-odyssey-g40-25-em-promocao-com-cupom-na-samsung",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:39:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/conforto-e-velocidade-monitor-odyssey-g40-25-em-promocao-com-cupom-na-samsung/"
-    },
-    {
-      "title": "Vazam detalhes da linha Poco X8 Pro; veja fichas técnicas",
-      "slug": "vazam-detalhes-da-linha-poco-x8-pro-veja-fichas-tecnicas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:34:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/vazam-detalhes-da-linha-poco-x8-pro-veja-fichas-tecnicas/"
-    },
-    {
-      "title": "Snapseed para iOS ganha câmera com ajuste manual e filtros de máquina analógica",
-      "slug": "snapseed-para-ios-ganha-camera-com-ajuste-manual-e-filtros-de-maquina-analogica",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/snapseed-para-ios-ganha-camera-com-ajuste-manual-e-filtros-de-maquina-analogica/"
-    },
-    {
-      "title": "WhatsApp terá opção para enviar spoilers por mensagens ocultas, mostra portal",
-      "slug": "whatsapp-tera-opcao-para-enviar-spoilers-por-mensagens-ocultas-mostra-portal",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:10:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/whatsapp-tera-opcao-para-enviar-spoilers-por-mensagens-ocultas-mostra-portal/"
-    },
-    {
-      "title": "Bug faz Copilot do Windows exibir e-mails confidenciais em resumos",
-      "slug": "bug-faz-copilot-do-windows-exibir-e-mails-confidenciais-em-resumos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/bug-faz-copilot-do-windows-exibir-e-mails-confidenciais-em-resumos/"
-    },
-    {
-      "title": "Cuidado: versões falsas do Galaxy S26 Ultra já estão circulando",
-      "slug": "cuidado-versoes-falsas-do-galaxy-s26-ultra-ja-estao-circulando",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:06:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/cuidado-versoes-falsas-do-galaxy-s26-ultra-ja-estao-circulando/"
-    },
-    {
-      "title": "Rodízio já voltou a valer em São Paulo? Saiba quando fiscalização é retomada",
-      "slug": "rodizio-ja-voltou-a-valer-em-sao-paulo-saiba-quando-fiscalizacao-e-retomada",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-02-19T12:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/rodizio-ja-voltou-a-valer-em-sao-paulo-saiba-quando-fiscalizacao-e-retomada/"
-    },
-    {
-      "title": "Vazou tudo: novo baratinho da Motorola tem detalhes revelados; veja imagens",
-      "slug": "vazou-tudo-novo-baratinho-da-motorola-tem-detalhes-revelados-veja-imagens",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T11:43:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/vazou-tudo-novo-baratinho-da-motorola-tem-detalhes-revelados-veja-imagens/"
-    },
-    {
-      "title": "Prime Gaming: Amazon Luna recebe novos jogos grátis! Resgate agora (19)",
-      "slug": "prime-gaming-amazon-luna-recebe-novos-jogos-gratis-resgate-agora-19",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-19T12:45:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503556-prime-gaming-amazon-luna-recebe-novos-jogos-gratis-resgate-agora-19.htm"
-    },
-    {
-      "title": "Windows 11 ganha teste de velocidade da internet e outras funções; veja a lista",
-      "slug": "windows-11-ganha-teste-de-velocidade-da-internet-e-outras-funcoes-veja-a-lista",
+      "title": "Stanley celebra o Dia do Esportista com 35% OFF no copo Quencher; aproveite",
+      "slug": "stanley-celebra-o-dia-do-esportista-com-35percent-off-no-copo-quencher-aproveite",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-02-19T12:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/software/410852-windows-11-ganha-teste-de-velocidade-da-internet-e-outras-funcoes-veja-a-lista.htm"
-    },
-    {
-      "title": "Mulher se apaixona, casa e fica viúva de ChatGPT",
-      "slug": "mulher-se-apaixona-casa-e-fica-viuva-de-chatgpt",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-19T11:45:00.000Z",
+      "date": "2026-02-19T15:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/410849-mulher-se-apaixona-casa-e-fica-viuva-de-chatgpt.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410862-stanley-celebra-o-dia-do-esportista-com-35-off-no-copo-quencher-aproveite.htm"
     },
     {
-      "title": "PlayStation 6: rumores, especificações e previsão de lançamento",
-      "slug": "playstation-6-rumores-especificacoes-e-previsao-de-lancamento",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-19T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503110-playstation-6-rumores-especificacoes-e-previsao-de-lancamento.htm"
-    },
-    {
-      "title": "O que é xG no futebol? Entenda os gols esperados e como usar nas apostas",
-      "slug": "o-que-e-xg-no-futebol-entenda-os-gols-esperados-e-como-usar-nas-apostas",
+      "title": "WhatsApp testa recurso para ocultar textos em mensagens e evitar 'spoilers'",
+      "slug": "whatsapp-testa-recurso-para-ocultar-textos-em-mensagens-e-evitar-spoilers",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-02-19T11:00:00.000Z",
+      "date": "2026-02-19T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410838-o-que-e-xg-no-futebol-entenda-os-gols-esperados-e-como-usar-nas-apostas.htm"
+      "original_url": "https://www.tecmundo.com.br/software/410856-whatsapp-testa-recurso-para-ocultar-textos-em-mensagens-e-evitar-spoilers.htm"
     },
     {
-      "title": "Megaways: o que é, como funciona e onde jogar slots com milhares de combinações",
-      "slug": "megaways-o-que-e-como-funciona-e-onde-jogar-slots-com-milhares-de-combinacoes",
+      "title": "Peaky Blinders: O Homem Imortal ganha trailer intenso com filho de Tommy Shelby",
+      "slug": "peaky-blinders-o-homem-imortal-ganha-trailer-intenso-com-filho-de-tommy-shelby",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-19T10:00:00.000Z",
+      "date": "2026-02-19T14:54:02.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410837-megaways-o-que-e-como-funciona-e-onde-jogar-slots-com-milhares-de-combinacoes.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603143-peaky-blinders-o-homem-imortal-ganha-trailer-intenso-com-filho-de-tommy-shelby.htm"
     },
     {
-      "title": "O que disse Zuckerberg em julgamento histórico sobre vício em redes",
-      "slug": "o-que-disse-zuckerberg-em-julgamento-historico-sobre-vicio-em-redes",
+      "title": "Detector de câmeras, carregadores Baseus e mais com até 52% OFF e cupons",
+      "slug": "detector-de-cameras-carregadores-baseus-e-mais-com-ate-52percent-off-e-cupons",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-19T14:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410859-detector-de-cameras-carregadores-baseus-e-mais-com-ate-52-off-e-cupons.htm"
+    },
+    {
+      "title": "Lula diz que IA permite 'práticas extremamente nefastas'",
+      "slug": "lula-diz-que-ia-permite-praticas-extremamente-nefastas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-19T14:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/410857-lula-diz-que-ia-permite-praticas-extremamente-nefastas.htm"
+    },
+    {
+      "title": "EA FC já está usando inteligência artificial na narração de jogos",
+      "slug": "ea-fc-ja-esta-usando-inteligencia-artificial-na-narracao-de-jogos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-19T14:15:04.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503558-ea-fc-ja-esta-usando-inteligencia-artificial-na-narracao-de-jogos.htm"
+    },
+    {
+      "title": "Bug no Microsoft 365 Copilot faz IA resumir e-mails confidenciais",
+      "slug": "bug-no-microsoft-365-copilot-faz-ia-resumir-e-mails-confidenciais",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-19T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/410854-bug-no-microsoft-365-copilot-faz-ia-resumir-e-mails-confidenciais.htm"
+    },
+    {
+      "title": "Bad Bunny será protagonista de filme com Edward Norton e Javier Bardem",
+      "slug": "bad-bunny-sera-protagonista-de-filme-com-edward-norton-e-javier-bardem",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-19T13:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603134-bad-bunny-sera-protagonista-de-filme-com-edward-norton-e-javier-bardem.htm"
+    },
+    {
+      "title": "Kodak Charmera: câmera retrô viral pode ser comprada no Mercado Livre",
+      "slug": "kodak-charmera-camera-retro-viral-pode-ser-comprada-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-19T13:16:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410853-kodak-charmera-camera-retro-viral-pode-ser-comprada-no-mercado-livre.htm"
+    },
+    {
+      "title": "Itaú fora do ar? Banco sofre com instabilidade e problemas com Pix nesta quinta (19)",
+      "slug": "itau-fora-do-ar-banco-sofre-com-instabilidade-e-problemas-com-pix-nesta-quinta-19",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-19T13:03:01.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/410855-itau-fora-do-ar-banco-sofre-com-instabilidade-e-problemas-com-pix-nesta-quinta-19.htm"
+    },
+    {
+      "title": "Google e dona da Shopee criarão ferramentas de IA para comércio eletrônico e jogos",
+      "slug": "google-e-dona-da-shopee-criarao-ferramentas-de-ia-para-comercio-eletronico-e-jogos",
+      "topic": "agentes",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-19T14:50:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/google-e-dona-da-shopee-criarao-ferramentas-de-ia-para-comercio-eletronico-e-jogos.htm"
+    },
+    {
+      "title": "Telegram rejeita alegação russa de que espiões estrangeiros podem ler mensagens de soldados",
+      "slug": "telegram-rejeita-alegacao-russa-de-que-espioes-estrangeiros-podem-ler-mensagens-de-soldados",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-19T12:57:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/19/mark-zuckerberg-sessoa-eua-vicio-redes-sociais.htm"
-    },
-    {
-      "title": "Bill Gates desiste de cúpula de IA na Índia",
-      "slug": "bill-gates-desiste-de-cupula-de-ia-na-india",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-19T12:44:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/bill-gates-desiste-de-cupula-de-ia-na-india.htm"
-    },
-    {
-      "title": "Zuckerberg nega em julgamento em Los Angeles que Instagram tenha crianças como alvo",
-      "slug": "zuckerberg-nega-em-julgamento-em-los-angeles-que-instagram-tenha-criancas-como-alvo",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-19T12:25:32.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/zuckerberg-nega-em-julgamento-em-los-angeles-que-instagram-tenha-criancas-como-alvo.htm"
-    },
-    {
-      "title": "CEO da OpenAI defende criação de regras para inteligência artificial",
-      "slug": "ceo-da-openai-defende-criacao-de-regras-para-inteligencia-artificial",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-19T11:35:05.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/19/ceo-da-openai-defende-criacao-de-regras-para-inteligencia-artificial.htm"
+      "date": "2026-02-19T14:08:23.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/telegram-rejeita-alegacao-russa-de-que-espioes-estrangeiros-podem-ler-mensagens-de-soldados.htm"
     }
   ]
 }
