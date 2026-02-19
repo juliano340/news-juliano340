@@ -1,6 +1,6 @@
 {
-  "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-  "generated_at": "2026-02-19T21:02:41.656Z",
+  "slug": "toy-story-5-traz-tecnologia-como-vila-em-novo-trailer-confira",
+  "generated_at": "2026-02-19T21:09:02.313Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 314,
+      "words": 366,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 1,
       "min": 3
     }
   ],

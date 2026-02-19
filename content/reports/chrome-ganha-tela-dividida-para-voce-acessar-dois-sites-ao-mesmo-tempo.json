@@ -1,6 +1,6 @@
 {
-  "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-  "generated_at": "2026-02-19T21:02:41.656Z",
+  "slug": "chrome-ganha-tela-dividida-para-voce-acessar-dois-sites-ao-mesmo-tempo",
+  "generated_at": "2026-02-19T21:04:20.730Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 314,
+      "words": 421,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -84,15 +84,15 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
   "warnings": [
-    "poucos_links_internos"
+    "fonte_primaria_ausente_no_corpo"
   ],
   "errors": [],
   "score": 92,

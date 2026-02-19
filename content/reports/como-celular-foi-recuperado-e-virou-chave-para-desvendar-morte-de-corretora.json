@@ -1,6 +1,6 @@
 {
-  "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-  "generated_at": "2026-02-19T21:02:41.656Z",
+  "slug": "como-celular-foi-recuperado-e-virou-chave-para-desvendar-morte-de-corretora",
+  "generated_at": "2026-02-19T21:11:35.754Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 314,
+      "words": 241,
       "min": 220
     },
     {

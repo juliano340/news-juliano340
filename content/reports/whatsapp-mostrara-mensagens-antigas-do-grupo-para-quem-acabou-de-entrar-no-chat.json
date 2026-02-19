@@ -1,6 +1,6 @@
 {
-  "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-  "generated_at": "2026-02-19T21:02:41.656Z",
+  "slug": "whatsapp-mostrara-mensagens-antigas-do-grupo-para-quem-acabou-de-entrar-no-chat",
+  "generated_at": "2026-02-19T21:05:50.962Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 314,
+      "words": 358,
       "min": 220
     },
     {

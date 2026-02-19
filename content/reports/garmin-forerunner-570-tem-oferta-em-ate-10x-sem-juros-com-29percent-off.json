@@ -1,7 +1,7 @@
 {
-  "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-  "generated_at": "2026-02-19T21:02:41.656Z",
-  "status": "WARN",
+  "slug": "garmin-forerunner-570-tem-oferta-em-ate-10x-sem-juros-com-29percent-off",
+  "generated_at": "2026-02-19T21:01:32.249Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 314,
+      "words": 297,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

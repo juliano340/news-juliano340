@@ -1,6 +1,6 @@
 {
-  "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-  "generated_at": "2026-02-19T21:02:41.656Z",
+  "slug": "descontos-de-ate-50percent-na-ressaca-de-carnaval-do-magalu-com-cupons-ativos",
+  "generated_at": "2026-02-19T21:10:38.949Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 314,
+      "words": 346,
       "min": 220
     },
     {

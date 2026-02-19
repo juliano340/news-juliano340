@@ -1,6 +1,6 @@
 {
-  "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-  "generated_at": "2026-02-19T21:02:41.656Z",
+  "slug": "smart-tv-4k-lg-nanocell-50-fica-36percent-mais-barata-em-oferta-no-mercado-livre",
+  "generated_at": "2026-02-19T21:00:29.469Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 314,
+      "words": 362,
       "min": 220
     },
     {

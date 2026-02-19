@@ -1,28 +1,28 @@
 # Weekly IA para Devs - 2026-02-19
 
-Gerado em 2026-02-19T19:13:08.635Z
+Gerado em 2026-02-19T21:11:36.759Z
 
-- [Galaxy Tab S10 Lite (256 GB) tem 30% OFF em oferta com cupom no Magalu](https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-tem-30-off-em-oferta-com-cupom-no-magalu/) | topico: geral | score: 100
-- [“Desacato”: juíza repreende smart glasses durante audiência de Zuckerberg](https://tecnoblog.net/noticias/desacato-juiza-repreende-smart-glasses-durante-audiencia-de-zuckerberg/) | topico: seguranca-ia | score: 92
-- [Criar jogos para PS5 vai ficar mais fácil com nova plataforma da Sony](https://canaltech.com.br/games/criar-jogos-para-ps5-vai-ficar-mais-facil-com-nova-plataforma-da-sony/) | topico: geral | score: 100
-- [5 dicas para seu PC sobreviver ao apocalipse de preços](https://canaltech.com.br/hardware/dicas-pc-sobreviver-apocalipse-de-precos/) | topico: geral | score: 100
-- [WhatsApp Web fora do ar? Usuários relatam problemas nesta quinta (19)](https://canaltech.com.br/software/whatsapp-web-fora-do-ar-usuarios-relatam-problemas-nesta-quinta-19/) | topico: produtividade-dev | score: 92
-- [CEO da Phison prevê fim dos PCs baratos e falência em massa na tecnologia](https://canaltech.com.br/hardware/ceo-da-phison-preve-fim-dos-pcs-baratos-e-falencia-em-massa-na-tecnologia/) | topico: geral | score: 100
-- [Gemini 3.1 Pro é a nova IA do Google para resolver problemas complexos](https://canaltech.com.br/inteligencia-artificial/gemini-31-pro-e-a-nova-ia-do-google-para-resolver-problemas-complexos/) | topico: produtividade-dev | score: 100
-- [iPhone do ano em promoção na Amazon; iPhone 17 sai por menos de R$ 6 mil](https://canaltech.com.br/smartphone/iphone-do-ano-em-promocao-na-amazon-iphone-17-sai-por-menos-de-r-6-mil/) | topico: geral | score: 100
-- [Motorista afirma que carro da Tesla “quase o jogou” em lago](https://canaltech.com.br/carros/motorista-afirma-que-carro-da-tesla-quase-o-jogou-em-lago/) | topico: geral | score: 100
-- [Além de God of War: Santa Monica prepara IP inédita para o PlayStation 5](https://canaltech.com.br/games/alem-de-god-of-war-santa-monica-prepara-ip-inedita-para-o-playstation-5/) | topico: geral | score: 100
-- [Konami confirma exclusividade de Silent Hill: Townfall para o PS5](https://canaltech.com.br/games/konami-confirma-exclusividade-de-silent-hill-townfall-para-o-ps5/) | topico: geral | score: 100
-- [Nova operadora vai transmitir 5G direto do espaço, como "Starlink sem antena"](https://canaltech.com.br/telecom/nova-operadora-vai-transmitir-5g-direto-do-espaco-como-starlink-sem-antena/) | topico: geral | score: 100
-- [Brasil tem 5G mais rápido que França, Japão e China, mostra pesquisa](https://www.tecmundo.com.br/mercado/410875-brasil-tem-5g-mais-rapido-que-franca-japao-e-china-mostra-pesquisa.htm) | topico: geral | score: 100
-- [Grupos do WhatsApp ganham histórico de mensagens para novos membros](https://www.tecmundo.com.br/software/410894-grupos-do-whatsapp-ganham-historico-de-mensagens-para-novos-membros.htm) | topico: agentes | score: 100
-- [Geladeiras, ar-condicionado e mais com até 70% OFF e cupons nas Super Ofertas da Shopee](https://www.tecmundo.com.br/guia-de-compras/410891-geladeiras-ar-condicionado-e-mais-com-ate-70-off-e-cupons-nas-super-ofertas-da-shopee.htm) | topico: llms | score: 92
-- [Crítica: Sonhos de Trem, da Netflix, é o filme mais emocionante do Oscar 2026](https://www.tecmundo.com.br/minha-serie/603140-critica-sonhos-de-trem-da-netflix-e-o-filme-mais-emocionante-do-oscar-2026.htm) | topico: geral | score: 92
-- [Samsung Sound Tower com desconto e cupom exclusivo no site oficial](https://www.tecmundo.com.br/guia-de-compras/410884-samsung-sound-tower-com-desconto-e-cupom-exclusivo-no-site-oficial.htm) | topico: produtividade-dev | score: 100
-- [WhatsApp Web não carrega? Usuários reclamam de instabilidade nesta quinta (19)](https://www.tecmundo.com.br/software/410889-whatsapp-web-caiu-usuarios-reclamam-de-instabilidade-nesta-sexta-19.htm) | topico: geral | score: 92
-- [Senhas geradas por IA falham em testes de segurança e comprometem usuários](https://www.tecmundo.com.br/seguranca/410883-senhas-geradas-por-ia-falham-em-testes-de-seguranca-e-comprometem-usuarios.htm) | topico: geral | score: 100
-- [Julgamento da Meta: o que Mark Zuckerberg disse sobre suas redes sociais?](https://www.tecmundo.com.br/mercado/410885-julgamento-da-meta-o-que-mark-zuckerberg-disse-sobre-suas-redes-sociais.htm) | topico: geral | score: 100
-- [Preview: Denshattack é uma ideia maluca muito bem-executada](https://www.tecmundo.com.br/voxel/503557-preview-denshattack-e-uma-ideia-maluca-muito-bem-executada.htm) | topico: geral | score: 92
-- [Amazon pode ser processada por suicídios relacionados ao nitrito de sódio, decide tribunal](https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/amazon-pode-ser-processada-por-suicidios-relacionados-ao-nitrito-de-sodio-decide-tribunal.htm) | topico: geral | score: 92
-- [Governadora de Nova York retira proposta de expansão do serviço de robotáxis](https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/governadora-de-nova-york-retira-proposta-de-expansao-do-servico-de-robotaxis.htm) | topico: geral | score: 92
-- [Bill Gates desiste de cúpula de IA após divulgação de laços com Epstein](https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/bill-gates-desiste-de-cupula-de-ia-apos-divulgacao-de-lacos-com-epstein.htm) | topico: geral | score: 100
+- [Smart TV 4K LG NanoCell 50” fica 36% mais barata em oferta no Mercado Livre](https://tecnoblog.net/achados/smart-tv-4k-lg-nanocell-50-fica-36-mais-barata-em-oferta-no-mercado-livre/) | topico: geral | score: 92
+- [Diretor critica novos bloqueios ao Internet Archive](https://tecnoblog.net/noticias/diretor-critica-bloqueios-ao-internet-archive-devido-a-ia/) | topico: agentes | score: 100
+- [Garmin Forerunner 570 tem oferta em até 10x sem juros com 29% OFF](https://tecnoblog.net/achados/garmin-forerunner-570-tem-oferta-em-ate-10x-sem-juros-com-29-off/) | topico: produtividade-dev | score: 100
+- [PromptSpy é um malware que usa o Gemini para atacar o Android](https://tecnoblog.net/noticias/promptspy-e-um-malware-que-usa-o-gemini-para-atacar-o-android/) | topico: llms | score: 100
+- [Bill Gates cancela palestra em cúpula de IA após novos arquivos do caso Epstein](https://tecnoblog.net/noticias/bill-gates-cancela-palestra-em-cupula-de-ia-apos-novos-arquivos-do-caso-epstein/) | topico: llms | score: 100
+- [Mais de 80% das empresas não viram ganho de produtividade com IA, diz pesquisa](https://tecnoblog.net/noticias/mais-de-80-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa/) | topico: produtividade-dev | score: 92
+- [Homem-Aranha: Um Novo Dia ganha sinopse com detalhes da trama, veja](https://canaltech.com.br/entretenimento/homem-aranha-um-novo-dia-ganha-sinopse-com-detalhes-da-trama-veja/) | topico: geral | score: 92
+- [Novo recurso do Xbox no PC mostra melhores momentos em jogos](https://canaltech.com.br/games/novo-recurso-do-xbox-no-pc-mostra-melhores-momentos-em-jogos/) | topico: geral | score: 100
+- [Chrome ganha 'tela dividida' para você acessar dois sites ao mesmo tempo](https://canaltech.com.br/apps/chrome-ganha-tela-dividida-para-voce-acessar-dois-sites-ao-mesmo-tempo/) | topico: produtividade-dev | score: 92
+- [DLSS, FSR ou Nativo? Teste cego sem rótulos revela o favorito dos gamers](https://canaltech.com.br/games/dlss-fsr-ou-nativo-teste-cego-sem-rotulos-revela-o-favorito-dos-gamers/) | topico: geral | score: 100
+- [BYD derruba preços do Dolphin Mini e elétrico fica mais em conta que Fiat Argo](https://canaltech.com.br/carros/byd-derruba-precos-do-dolphin-mini-e-eletrico-fica-mais-em-conta-que-fiat-argo/) | topico: infra-ia | score: 100
+- [WhatsApp mostrará mensagens antigas do grupo para quem acabou de entrar no chat](https://canaltech.com.br/apps/whatsapp-mostrara-mensagens-antigas-do-grupo-para-quem-acabou-de-entrar-no-chat/) | topico: agentes | score: 92
+- [Deezer lança Flow Tuner e amplia controle sobre playlists personalizadas](https://canaltech.com.br/apps/deezer-lanca-flow-tuner-e-amplia-controle-sobre-playlists-personalizadas/) | topico: agentes | score: 100
+- [Falha crítica na Dell expõe bakcups e dá controle de servidores a criminosos](https://canaltech.com.br/seguranca/falha-critica-na-dell-expoe-bakcups-e-da-controle-de-servidores-a-criminosos/) | topico: geral | score: 100
+- [Sempre conectado, raramente protegido: os riscos de usar Wi-Fi público](https://canaltech.com.br/apps/sempre-conectado-raramente-protegido-os-riscos-de-usar-wi-fi-publico/) | topico: geral | score: 100
+- [Claude Sonnet 4.6: confira as novidades do novo modelo de linguagem da IA](https://www.tecmundo.com.br/software/410893-claude-sonnet-46-confira-as-novidades-do-novo-modelo-de-linguagem-da-ia.htm) | topico: llms | score: 100
+- [Obama 'entregou informação classificada', diz Trump sobre polêmica dos ETs](https://www.tecmundo.com.br/seguranca/410901-obama-entregou-informacao-classificada-diz-trump-sobre-polemica-dos-ets.htm) | topico: geral | score: 100
+- [Toy Story 5 traz tecnologia como “vilã” em novo trailer; confira!](https://www.tecmundo.com.br/minha-serie/603154-toy-story-5-traz-tecnologia-como-nova-vila-em-novo-trailer-confira.htm) | topico: geral | score: 92
+- [Google lança Gemini 3.1 Pro para agilizar tarefas complexas](https://www.tecmundo.com.br/software/410888-google-lanca-gemini-31-pro-para-agilizar-tarefas-complexas.htm) | topico: llms | score: 100
+- [SmarterMail virou mercadoria em canais clandestinos do Telegram](https://www.tecmundo.com.br/seguranca/410895-smartermail-virou-mercadoria-em-canais-clandestinos-do-telegram.htm) | topico: geral | score: 100
+- [Descontos de até 50% na Ressaca de Carnaval do Magalu com cupons ativos](https://www.tecmundo.com.br/guia-de-compras/410890-descontos-de-ate-50-na-ressaca-de-carnaval-do-magalu-com-cupons-ativos.htm) | topico: produtividade-dev | score: 92
+- [PlayStation fecha Bluepoint Games, estúdio de Demon's Souls e Shadow of the Colossus](https://www.tecmundo.com.br/voxel/503565-playstation-fecha-bluepoint-games-estudio-de-demons-souls-e-shadow-of-the-colossus.htm) | topico: geral | score: 100
+- [Netflix tem ampla margem para elevar oferta por Warner Bros, dizem fontes](https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/netflix-tem-ampla-margem-para-elevar-oferta-por-warner-bros-dizem-fontes.htm) | topico: geral | score: 92
+- [Como celular foi recuperado e virou chave para desvendar morte de corretora](https://www.uol.com.br/tilt/noticias/redacao/2026/02/19/desbloqueio-extracao-celular-resolver-crime-corretora-goias.htm) | topico: geral | score: 92
