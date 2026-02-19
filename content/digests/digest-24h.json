@@ -1,223 +1,106 @@
 {
-  "generated_at": "2026-02-19T21:11:36.759Z",
+  "generated_at": "2026-02-19T23:05:20.205Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 24,
+  "total": 11,
   "posts": [
     {
-      "title": "Smart TV 4K LG NanoCell 50” fica 36% mais barata em oferta no Mercado Livre",
-      "slug": "smart-tv-4k-lg-nanocell-50-fica-36percent-mais-barata-em-oferta-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T20:50:36.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/smart-tv-4k-lg-nanocell-50-fica-36-mais-barata-em-oferta-no-mercado-livre/"
-    },
-    {
-      "title": "Diretor critica novos bloqueios ao Internet Archive",
-      "slug": "diretor-critica-novos-bloqueios-ao-internet-archive",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T20:09:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/diretor-critica-bloqueios-ao-internet-archive-devido-a-ia/"
-    },
-    {
-      "title": "Garmin Forerunner 570 tem oferta em até 10x sem juros com 29% OFF",
-      "slug": "garmin-forerunner-570-tem-oferta-em-ate-10x-sem-juros-com-29percent-off",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T20:05:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-570-tem-oferta-em-ate-10x-sem-juros-com-29-off/"
-    },
-    {
-      "title": "PromptSpy é um malware que usa o Gemini para atacar o Android",
-      "slug": "promptspy-e-um-malware-que-usa-o-gemini-para-atacar-o-android",
+      "title": "Google lança Gemini 3.1 Pro, com o dobro do poder de raciocínio",
+      "slug": "google-lanca-gemini-31-pro-com-o-dobro-do-poder-de-raciocinio",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-02-19T19:33:21.000Z",
+      "date": "2026-02-19T21:55:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/promptspy-e-um-malware-que-usa-o-gemini-para-atacar-o-android/"
+      "original_url": "https://tecnoblog.net/noticias/google-lanca-gemini-3-1-pro-com-o-dobro-do-poder-de-raciocinio/"
     },
     {
-      "title": "Bill Gates cancela palestra em cúpula de IA após novos arquivos do caso Epstein",
-      "slug": "bill-gates-cancela-palestra-em-cupula-de-ia-apos-novos-arquivos-do-caso-epstein",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T19:03:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/bill-gates-cancela-palestra-em-cupula-de-ia-apos-novos-arquivos-do-caso-epstein/"
-    },
-    {
-      "title": "Mais de 80% das empresas não viram ganho de produtividade com IA, diz pesquisa",
-      "slug": "mais-de-80percent-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T17:34:57.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/mais-de-80-das-empresas-nao-viram-ganho-de-produtividade-com-ia-diz-pesquisa/"
-    },
-    {
-      "title": "Homem-Aranha: Um Novo Dia ganha sinopse com detalhes da trama, veja",
-      "slug": "homem-aranha-um-novo-dia-ganha-sinopse-com-detalhes-da-trama-veja",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T21:00:59.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/entretenimento/homem-aranha-um-novo-dia-ganha-sinopse-com-detalhes-da-trama-veja/"
-    },
-    {
-      "title": "Novo recurso do Xbox no PC mostra melhores momentos em jogos",
-      "slug": "novo-recurso-do-xbox-no-pc-mostra-melhores-momentos-em-jogos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T20:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/novo-recurso-do-xbox-no-pc-mostra-melhores-momentos-em-jogos/"
-    },
-    {
-      "title": "Chrome ganha 'tela dividida' para você acessar dois sites ao mesmo tempo",
-      "slug": "chrome-ganha-tela-dividida-para-voce-acessar-dois-sites-ao-mesmo-tempo",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-19T20:16:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/chrome-ganha-tela-dividida-para-voce-acessar-dois-sites-ao-mesmo-tempo/"
-    },
-    {
-      "title": "DLSS, FSR ou Nativo? Teste cego sem rótulos revela o favorito dos gamers",
-      "slug": "dlss-fsr-ou-nativo-teste-cego-sem-rotulos-revela-o-favorito-dos-gamers",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T20:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/dlss-fsr-ou-nativo-teste-cego-sem-rotulos-revela-o-favorito-dos-gamers/"
-    },
-    {
-      "title": "BYD derruba preços do Dolphin Mini e elétrico fica mais em conta que Fiat Argo",
-      "slug": "byd-derruba-precos-do-dolphin-mini-e-eletrico-fica-mais-em-conta-que-fiat-argo",
+      "title": "Microsoft aposta em armazenamento de dados em vidro para arquivos de longo prazo (10 mil anos)",
+      "slug": "microsoft-aposta-em-armazenamento-de-dados-em-vidro-para-arquivos-de-longo-prazo-10-mil-anos",
       "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-02-19T20:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T21:28:56.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/byd-derruba-precos-do-dolphin-mini-e-eletrico-fica-mais-em-conta-que-fiat-argo/"
+      "original_url": "https://tecnoblog.net/noticias/microsoft-aposta-em-armazenamento-de-dados-em-vidro-para-arquivos-de-longo-prazo-10-mil-anos/"
     },
     {
-      "title": "WhatsApp mostrará mensagens antigas do grupo para quem acabou de entrar no chat",
-      "slug": "whatsapp-mostrara-mensagens-antigas-do-grupo-para-quem-acabou-de-entrar-no-chat",
-      "topic": "agentes",
+      "title": "WhatsApp terá opção para evitar que você dê spoilers",
+      "slug": "whatsapp-tera-opcao-para-evitar-que-voce-de-spoilers",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T21:21:44.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/noticias/whatsapp-tera-opcao-para-evitar-que-voce-de-spoilers/"
+    },
+    {
+      "title": "Nova guerra dos navegadores: Chrome ganha Split View e edição de PDF",
+      "slug": "nova-guerra-dos-navegadores-chrome-ganha-split-view-e-edicao-de-pdf",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T21:15:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/nova-guerra-dos-navegadores-chrome-ganha-split-view-e-edicao-de-pdf/"
+    },
+    {
+      "title": "O maior RPG do SNES vai voltar: remake de Chrono Trigger já está em produção",
+      "slug": "o-maior-rpg-do-snes-vai-voltar-remake-de-chrono-trigger-ja-esta-em-producao",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-19T19:52:00.000Z",
+      "date": "2026-02-19T22:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/whatsapp-mostrara-mensagens-antigas-do-grupo-para-quem-acabou-de-entrar-no-chat/"
+      "original_url": "https://canaltech.com.br/games/o-maior-rpg-do-snes-vai-voltar-remake-de-chrono-trigger-ja-esta-em-producao/"
     },
     {
-      "title": "Deezer lança Flow Tuner e amplia controle sobre playlists personalizadas",
-      "slug": "deezer-lanca-flow-tuner-e-amplia-controle-sobre-playlists-personalizadas",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-19T19:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/deezer-lanca-flow-tuner-e-amplia-controle-sobre-playlists-personalizadas/"
-    },
-    {
-      "title": "Falha crítica na Dell expõe bakcups e dá controle de servidores a criminosos",
-      "slug": "falha-critica-na-dell-expoe-bakcups-e-da-controle-de-servidores-a-criminosos",
+      "title": "Sony fecha Bluepoint Games, estúdio de Demon's Souls e Shadow of the Colossus",
+      "slug": "sony-fecha-bluepoint-games-estudio-de-demons-souls-e-shadow-of-the-colossus",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-19T19:35:00.000Z",
+      "date": "2026-02-19T21:08:39.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/falha-critica-na-dell-expoe-bakcups-e-da-controle-de-servidores-a-criminosos/"
+      "original_url": "https://canaltech.com.br/games/sony-fecha-bluepoint-games-estudio-de-demons-souls-e-shadow-of-the-colossus/"
     },
     {
-      "title": "Sempre conectado, raramente protegido: os riscos de usar Wi-Fi público",
-      "slug": "sempre-conectado-raramente-protegido-os-riscos-de-usar-wi-fi-publico",
+      "title": "Agente Noturno Temporada 3 tem quantos episódios? Veja tempo para maratonar",
+      "slug": "agente-noturno-temporada-3-tem-quantos-episodios-veja-tempo-para-maratonar",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T19:06:48.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-19T22:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/sempre-conectado-raramente-protegido-os-riscos-de-usar-wi-fi-publico/"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603139-agente-noturno-temporada-3-tem-quantos-episodios-veja-tempo-para-maratonar.htm"
     },
     {
-      "title": "Claude Sonnet 4.6: confira as novidades do novo modelo de linguagem da IA",
-      "slug": "claude-sonnet-46-confira-as-novidades-do-novo-modelo-de-linguagem-da-ia",
+      "title": "The Last of Us e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
+      "slug": "the-last-of-us-e-mais-jogos-para-ps4-e-ps5-com-ate-90percent-off-na-ps-store",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-19T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503569-the-last-of-us-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store.htm"
+    },
+    {
+      "title": "Empresas de tecnologia proíbem uso do OpenClaw por funcionários",
+      "slug": "empresas-de-tecnologia-proibem-uso-do-openclaw-por-funcionarios",
       "topic": "llms",
       "source": "Tecmundo",
-      "date": "2026-02-19T21:00:00.000Z",
+      "date": "2026-02-19T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/410893-claude-sonnet-46-confira-as-novidades-do-novo-modelo-de-linguagem-da-ia.htm"
+      "original_url": "https://www.tecmundo.com.br/software/410892-empresas-de-tecnologia-proibem-uso-do-openclaw-por-funcionarios.htm"
     },
     {
-      "title": "Obama 'entregou informação classificada', diz Trump sobre polêmica dos ETs",
-      "slug": "obama-entregou-informacao-classificada-diz-trump-sobre-polemica-dos-ets",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-19T20:54:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410901-obama-entregou-informacao-classificada-diz-trump-sobre-polemica-dos-ets.htm"
-    },
-    {
-      "title": "Toy Story 5 traz tecnologia como “vilã” em novo trailer; confira!",
-      "slug": "toy-story-5-traz-tecnologia-como-vila-em-novo-trailer-confira",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-19T20:36:30.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603154-toy-story-5-traz-tecnologia-como-nova-vila-em-novo-trailer-confira.htm"
-    },
-    {
-      "title": "Google lança Gemini 3.1 Pro para agilizar tarefas complexas",
-      "slug": "google-lanca-gemini-31-pro-para-agilizar-tarefas-complexas",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-19T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/410888-google-lanca-gemini-31-pro-para-agilizar-tarefas-complexas.htm"
-    },
-    {
-      "title": "SmarterMail virou mercadoria em canais clandestinos do Telegram",
-      "slug": "smartermail-virou-mercadoria-em-canais-clandestinos-do-telegram",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-19T19:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410895-smartermail-virou-mercadoria-em-canais-clandestinos-do-telegram.htm"
-    },
-    {
-      "title": "Descontos de até 50% na Ressaca de Carnaval do Magalu com cupons ativos",
-      "slug": "descontos-de-ate-50percent-na-ressaca-de-carnaval-do-magalu-com-cupons-ativos",
+      "title": "WhatsApp agora notifica '@todos' os participantes de um grupo; confira",
+      "slug": "whatsapp-agora-notifica-todos-os-participantes-de-um-grupo-confira",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-19T19:16:00.000Z",
+      "date": "2026-02-19T21:40:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410890-descontos-de-ate-50-na-ressaca-de-carnaval-do-magalu-com-cupons-ativos.htm"
+      "original_url": "https://www.tecmundo.com.br/redes-sociais/410902-whatsapp-agora-notifica-todos-os-participantes-de-um-grupo-confira.htm"
     },
     {
-      "title": "PlayStation fecha Bluepoint Games, estúdio de Demon's Souls e Shadow of the Colossus",
-      "slug": "playstation-fecha-bluepoint-games-estudio-de-demons-souls-e-shadow-of-the-colossus",
+      "title": "Dublador de Kratos fala sobre gameplay de God of War Remake e novo jogo não anunciado",
+      "slug": "dublador-de-kratos-fala-sobre-gameplay-de-god-of-war-remake-e-novo-jogo-nao-anunciado",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-19T19:11:49.000Z",
+      "date": "2026-02-19T21:15:52.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503565-playstation-fecha-bluepoint-games-estudio-de-demons-souls-e-shadow-of-the-colossus.htm"
-    },
-    {
-      "title": "Netflix tem ampla margem para elevar oferta por Warner Bros, dizem fontes",
-      "slug": "netflix-tem-ampla-margem-para-elevar-oferta-por-warner-bros-dizem-fontes",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-19T18:56:54.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/netflix-tem-ampla-margem-para-elevar-oferta-por-warner-bros-dizem-fontes.htm"
-    },
-    {
-      "title": "Como celular foi recuperado e virou chave para desvendar morte de corretora",
-      "slug": "como-celular-foi-recuperado-e-virou-chave-para-desvendar-morte-de-corretora",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-19T18:38:44.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/19/desbloqueio-extracao-celular-resolver-crime-corretora-goias.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503566-dublador-de-kratos-fala-sobre-gameplay-de-god-of-war-remake-e-novo-jogo-nao-anunciado.htm"
     }
   ]
 }
