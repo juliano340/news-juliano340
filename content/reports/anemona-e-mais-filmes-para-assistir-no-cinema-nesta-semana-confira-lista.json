@@ -1,6 +1,6 @@
 {
   "slug": "anemona-e-mais-filmes-para-assistir-no-cinema-nesta-semana-confira-lista",
-  "generated_at": "2026-02-19T05:01:32.999Z",
+  "generated_at": "2026-02-19T07:02:19.572Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 449,
+      "words": 466,
       "min": 220
     },
     {
