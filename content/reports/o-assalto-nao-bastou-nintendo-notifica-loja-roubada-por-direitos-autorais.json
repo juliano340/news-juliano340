@@ -1,7 +1,7 @@
 {
-  "slug": "lua-de-sangue-sera-vista-no-brasil-veja-qual-a-data-do-eclipse-lunar-total",
-  "generated_at": "2026-02-19T17:11:32.848Z",
-  "status": "WARN",
+  "slug": "o-assalto-nao-bastou-nintendo-notifica-loja-roubada-por-direitos-autorais",
+  "generated_at": "2026-02-19T17:02:12.910Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 313,
+      "words": 347,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

@@ -1,6 +1,6 @@
 {
-  "slug": "lua-de-sangue-sera-vista-no-brasil-veja-qual-a-data-do-eclipse-lunar-total",
-  "generated_at": "2026-02-19T17:11:32.848Z",
+  "slug": "a-casa-do-dragao-temporada-3-ganha-trailer-e-mes-de-lancamento-saiba-tudo",
+  "generated_at": "2026-02-19T17:08:09.910Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 313,
+      "words": 355,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 1,
       "min": 3
     }
   ],

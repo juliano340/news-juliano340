@@ -1,29 +1,23 @@
 # Weekly IA para Devs - 2026-02-19
 
-Gerado em 2026-02-19T15:15:35.596Z
+Gerado em 2026-02-19T17:11:33.853Z
 
-- [Galaxy Z Flip 7 FE (128 GB) cai para menos da metade do preço em oferta](https://tecnoblog.net/achados/galaxy-z-flip-7-fe-128-gb-cai-para-menos-da-metade-do-preco-em-oferta/) | topico: geral | score: 92
-- [AsteroidOS 2.0: conheça o sistema Linux que dá vida nova a smartwatches](https://tecnoblog.net/noticias/asteroidos-2-0-conheca-o-sistema-linux-que-da-vida-nova-a-smartwatches/) | topico: seguranca-ia | score: 100
-- [Smart TV 4K OLED Samsung de 65″ tem 32% OFF com cupom no Magalu](https://tecnoblog.net/achados/smart-tv-4k-oled-samsung-de-65-tem-32-off-com-cupom-no-magalu/) | topico: geral | score: 100
-- [Investidores criticam gasto excessivo das big techs com IA](https://tecnoblog.net/noticias/investidores-criticam-gasto-excessivo-das-big-techs-com-ia/) | topico: infra-ia | score: 100
-- [GTA 4: conheça todos os códigos e cheats para PS3, Xbox 360 e PC](https://tecnoblog.net/responde/cheats-e-codigos-gta-4-ps3-xbox-360-e-pc/) | topico: geral | score: 100
-- [Secretário compara “jailbreak” do caça F-35 a desbloqueio de iPhone](https://tecnoblog.net/noticias/secretario-compara-jailbreak-do-caca-f-35-a-desbloqueio-de-iphone/) | topico: seguranca-ia | score: 92
-- [Adeus, Rosetta 2: Apple entra na reta final da transição de Intel para Arm](https://tecnoblog.net/noticias/adeus-rosetta-2-apple-entra-na-reta-final-da-transicao-de-intel-para-arm/) | topico: geral | score: 100
-- [iPhone 17 Pro Max (512 GB) recebe desconto em oferta no Mercado Livre](https://tecnoblog.net/achados/iphone-17-pro-max-512-gb-recebe-desconto-em-oferta-no-mercado-livre/) | topico: geral | score: 92
-- [Trello fora do ar? Usuários relatam problemas nesta quinta (19)](https://canaltech.com.br/apps/trello-fora-do-ar-usuarios-relatam-problemas-nesta-quinta-19/) | topico: produtividade-dev | score: 100
-- [Windows 11 26H1 será liberado apenas para alguns computadores; entenda](https://canaltech.com.br/software/windows-11-26h1-sera-liberado-apenas-para-alguns-computadores-entenda/) | topico: produtividade-dev | score: 100
-- [Resident Evil Requiem vaza antes da hora: como bloquear spoilers nas redes](https://canaltech.com.br/games/resident-evil-requiem-vaza-antes-da-hora-como-bloquear-spoilers-nas-redes/) | topico: geral | score: 100
-- [Nova regra na China pode impactar carros elétricos no Brasil?](https://canaltech.com.br/carros/nova-regra-na-china-pode-impactar-carros-eletricos-no-brasil/) | topico: geral | score: 100
-- [iPad 11 está com preço no chão em nova oferta da Shopee; veja o cupom](https://canaltech.com.br/tablet/ipad-11-esta-com-preco-no-chao-em-nova-oferta-da-shopee-veja-o-cupom/) | topico: geral | score: 100
-- [Sonic 4: Kristen Bell se junta ao elenco do filme como Amy Rose](https://canaltech.com.br/games/sonic-4-kristen-bell-se-junta-ao-elenco-do-filme-como-amy-rose/) | topico: geral | score: 100
-- [Como criar músicas com IA pelo Gemini](https://canaltech.com.br/apps/como-criar-musicas-com-ia-pelo-gemini/) | topico: llms | score: 100
-- [Seedance 2.0: IA para criar vídeos terá restrições após críticas de Hollywood](https://canaltech.com.br/apps/seedance-20-ia-para-criar-videos-tera-restricoes-apos-criticas-de-hollywood/) | topico: produtividade-dev | score: 100
-- [YouTube para TVs ganha chatbot com IA em novo experimento do app](https://canaltech.com.br/apps/youtube-para-tvs-ganha-chatbot-com-ia-em-novo-experimento-do-app/) | topico: llms | score: 100
-- [O Pix do Itaú está fora do ar? App apresenta instabilidade nesta quinta (19)](https://canaltech.com.br/apps/o-pix-do-itau-esta-fora-do-ar-app-apresenta-problemas-nesta-quinta-19/) | topico: agentes | score: 100
-- [Stanley celebra o Dia do Esportista com 35% OFF no copo Quencher; aproveite](https://www.tecmundo.com.br/guia-de-compras/410862-stanley-celebra-o-dia-do-esportista-com-35-off-no-copo-quencher-aproveite.htm) | topico: agentes | score: 100
-- [WhatsApp testa recurso para ocultar textos em mensagens e evitar 'spoilers'](https://www.tecmundo.com.br/software/410856-whatsapp-testa-recurso-para-ocultar-textos-em-mensagens-e-evitar-spoilers.htm) | topico: agentes | score: 100
-- [Peaky Blinders: O Homem Imortal ganha trailer intenso com filho de Tommy Shelby](https://www.tecmundo.com.br/minha-serie/603143-peaky-blinders-o-homem-imortal-ganha-trailer-intenso-com-filho-de-tommy-shelby.htm) | topico: geral | score: 100
-- [Detector de câmeras, carregadores Baseus e mais com até 52% OFF e cupons](https://www.tecmundo.com.br/guia-de-compras/410859-detector-de-cameras-carregadores-baseus-e-mais-com-ate-52-off-e-cupons.htm) | topico: geral | score: 100
-- [Lula diz que IA permite 'práticas extremamente nefastas'](https://www.tecmundo.com.br/mercado/410857-lula-diz-que-ia-permite-praticas-extremamente-nefastas.htm) | topico: geral | score: 100
-- [EA FC já está usando inteligência artificial na narração de jogos](https://www.tecmundo.com.br/voxel/503558-ea-fc-ja-esta-usando-inteligencia-artificial-na-narracao-de-jogos.htm) | topico: geral | score: 92
-- [Bug no Microsoft 365 Copilot faz IA resumir e-mails confidenciais](https://www.tecmundo.com.br/software/410854-bug-no-microsoft-365-copilot-faz-ia-resumir-e-mails-confidenciais.htm) | topico: produtividade-dev | score: 100
+- [Criador do ChatGPT se recusa a posar de mãos dadas para foto com rival em evento de IA](https://g1.globo.com/tecnologia/noticia/2026/02/19/chefoes-de-gigantes-de-ia-se-recusam-a-dar-as-maos-em-foto-em-grupo.ghtml) | topico: llms | score: 100
+- [Google Maps oculta fotos e avaliações para usuários sem login](https://tecnoblog.net/noticias/google-maps-oculta-fotos-e-avaliacoes-para-usuarios-sem-login/) | topico: geral | score: 100
+- [O assalto não bastou: Nintendo notifica loja roubada por direitos autorais](https://canaltech.com.br/games/o-assalto-nao-bastou-nintendo-notifica-loja-roubada-por-direitos-autorais/) | topico: geral | score: 100
+- [Galaxy A37 e A57 ganham nova certificação e podem chegar a qualquer momento](https://canaltech.com.br/smartphone/galaxy-a37-e-a57-ganham-nova-certificacao-e-podem-chegar-a-qualquer-momento/) | topico: geral | score: 100
+- [Iniciativa Smash Bros: Vídeo de Super Mario Galaxy sugere crossover com Star Fox](https://canaltech.com.br/games/iniciativa-smash-bros-video-de-super-mario-galaxy-sugere-crossover-com-star-fox/) | topico: geral | score: 100
+- [Meta pode lançar smartwatch após sucesso do Meta Ray-Ban; veja o que sabemos](https://canaltech.com.br/produtos/meta-pode-lancar-smartwatch-apos-sucesso-do-meta-ray-ban-veja-o-que-sabemos/) | topico: seguranca-ia | score: 92
+- [Embraer entrega novos A-29 Super Tucano e fortalece presença internacional](https://canaltech.com.br/carros/embraer-entrega-novos-a-29-super-tucano-e-fortalece-presenca-internacional/) | topico: geral | score: 100
+- [Galaxy Wearable encerra suporte a pulseiras inteligentes antigas da Samsung](https://canaltech.com.br/apps/galaxy-wearable-encerra-suporte-a-pulseiras-inteligentes-antigas-da-samsung/) | topico: geral | score: 100
+- [One UI 9 vai levar novo assistente de IA ao Samsung Internet, antecipa portal](https://canaltech.com.br/apps/one-ui-9-vai-levar-novo-assistente-de-ia-ao-samsung-internet-antecipa-portal/) | topico: agentes | score: 100
+- [Compre seu HDD agora: produção de 2026 esgota e preços vão disparar](https://canaltech.com.br/hardware/compre-seu-hdd-agora-producao-de-2026-esgota-e-precos-vao-disparar/) | topico: geral | score: 100
+- [Motorola Edge 70 Fusion: imagem promocional confirma chip da Qualcomm](https://www.tecmundo.com.br/produto/410858-motorola-edge-70-fusion-imagem-promocional-confirma-chip-da-qualcomm.htm) | topico: geral | score: 100
+- [Poco X8 Pro e X8 Pro Max terão especificações de ponta, mostra vazamento](https://www.tecmundo.com.br/produto/410863-poco-x8-pro-e-x8-pro-max-terao-especificacoes-de-ponta-mostra-vazamento.htm) | topico: geral | score: 100
+- [A Casa do Dragão Temporada 3 ganha trailer e mês de lançamento! Saiba tudo](https://www.tecmundo.com.br/minha-serie/603147-a-casa-do-dragao-temporada-3-ganha-trailer-e-mes-de-lancamento-saiba-tudo.htm) | topico: geral | score: 92
+- [Celular mais vendido da América Latina em 2025 custa R$ 600; veja top 10](https://www.tecmundo.com.br/produto/410864-celular-mais-vendido-da-america-latina-em-2025-custa-r-600-veja-top-10.htm) | topico: geral | score: 100
+- [Epic Games Store libera dois jogos grátis por tempo limitado nesta quinta (19)! Resgate agora](https://www.tecmundo.com.br/voxel/503560-epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-19-resgate-agora.htm) | topico: geral | score: 100
+- [Galaxy S26, Buds, One UI e mais: onde assistir e o que esperar do Unpacked 2026](https://www.tecmundo.com.br/produto/410831-galaxy-s26-buds-one-ui-e-mais-onde-assistir-e-o-que-esperar-do-unpacked-2026.htm) | topico: geral | score: 100
+- [IPTV falso infecta vítimas e esvazia contas bancárias](https://www.tecmundo.com.br/seguranca/410861-iptv-falso-infecta-vitimas-e-esvazia-a-contas-bancarias.htm) | topico: geral | score: 100
+- [Startup de chips Taalas levanta US$169 mi e diz ter chip para IA personalizável](https://www.uol.com.br/tilt/noticias/reuters/2026/02/19/startup-de-chips-taalas-levanta-us169-mi-e-diz-ter-chip-para-ia-personalizavel.htm) | topico: geral | score: 100
+- [Lua de Sangue será vista no Brasil? Veja qual a data do eclipse lunar total](https://www.uol.com.br/tilt/noticias/redacao/2026/02/19/lua-de-sangue-sera-vista-no-brasil-veja-qual-a-data-do-eclipse-lunar-total.htm) | topico: geral | score: 92

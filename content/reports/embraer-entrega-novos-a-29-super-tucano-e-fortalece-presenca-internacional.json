@@ -1,7 +1,7 @@
 {
-  "slug": "lua-de-sangue-sera-vista-no-brasil-veja-qual-a-data-do-eclipse-lunar-total",
-  "generated_at": "2026-02-19T17:11:32.848Z",
-  "status": "WARN",
+  "slug": "embraer-entrega-novos-a-29-super-tucano-e-fortalece-presenca-internacional",
+  "generated_at": "2026-02-19T17:04:31.164Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 313,
+      "words": 308,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

@@ -1,7 +1,7 @@
 {
-  "slug": "lua-de-sangue-sera-vista-no-brasil-veja-qual-a-data-do-eclipse-lunar-total",
-  "generated_at": "2026-02-19T17:11:32.848Z",
-  "status": "WARN",
+  "slug": "galaxy-a37-e-a57-ganham-nova-certificacao-e-podem-chegar-a-qualquer-momento",
+  "generated_at": "2026-02-19T17:02:46.889Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 313,
+      "words": 408,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
