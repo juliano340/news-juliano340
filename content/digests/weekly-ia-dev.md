@@ -1,6 +1,8 @@
 # Weekly IA para Devs - 2026-02-19
 
-Gerado em 2026-02-19T07:02:58.433Z
+Gerado em 2026-02-19T09:04:12.311Z
 
-- ['Não dá pra viver sem VPN': como brasileiros na Rússia driblam restrições às redes sociais](https://g1.globo.com/tecnologia/noticia/2026/02/19/nao-da-pra-viver-sem-vpn-como-brasileiros-na-russia-driblam-restricoes-as-redes-sociais.ghtml) | topico: agentes | score: 100
-- [Quem é o autor de um texto encomendado por um humano a uma IA?](https://www.tecmundo.com.br/seguranca/410832-quem-e-o-autor-de-um-texto-encomendado-por-um-humano-a-uma-ia.htm) | topico: geral | score: 100
+- [Aprendizagem por rolagem: dá para aprender nas redes sociais?](https://canaltech.com.br/podcast/podcast-canaltech/aprendizagem-por-rolagem-da-para-aprender-nas-redes-sociais-6361/) | topico: geral | score: 92
+- [Palpites para Corinthians x Fluminense - feminino: Análises e Onde Assistir (20/02/2026)](https://www.tecmundo.com.br/apostas/410848-palpites-para-corinthians-x-fluminense-feminino-analises-e-onde-assistir-20022026.htm) | topico: seguranca-ia | score: 92
+- [Palpites para Deportivo Táchira x Tolima: Análises e Onde Assistir (19/02/2026)](https://www.tecmundo.com.br/apostas/410847-palpites-para-deportivo-tachira-x-tolima-analises-e-onde-assistir-19022026.htm) | topico: seguranca-ia | score: 92
+- [Qual é a fase da Lua hoje (19)? Veja calendário lunar de fevereiro de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/02/19/qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-fevereiro-de-2026.htm) | topico: geral | score: 92

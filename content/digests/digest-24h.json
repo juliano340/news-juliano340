@@ -1,25 +1,43 @@
 {
-  "generated_at": "2026-02-19T07:02:58.433Z",
+  "generated_at": "2026-02-19T09:04:12.311Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 4,
   "posts": [
     {
-      "title": "'Não dá pra viver sem VPN': como brasileiros na Rússia driblam restrições às redes sociais",
-      "slug": "nao-da-pra-viver-sem-vpn-como-brasileiros-na-russia-driblam-restricoes-as-redes-sociais",
-      "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-19T06:00:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/19/nao-da-pra-viver-sem-vpn-como-brasileiros-na-russia-driblam-restricoes-as-redes-sociais.ghtml"
+      "title": "Aprendizagem por rolagem: dá para aprender nas redes sociais?",
+      "slug": "aprendizagem-por-rolagem-da-para-aprender-nas-redes-sociais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-19T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/aprendizagem-por-rolagem-da-para-aprender-nas-redes-sociais-6361/"
     },
     {
-      "title": "Quem é o autor de um texto encomendado por um humano a uma IA?",
-      "slug": "quem-e-o-autor-de-um-texto-encomendado-por-um-humano-a-uma-ia",
-      "topic": "geral",
+      "title": "Palpites para Corinthians x Fluminense - feminino: Análises e Onde Assistir (20/02/2026)",
+      "slug": "palpites-para-corinthians-x-fluminense-feminino-analises-e-onde-assistir-20022026",
+      "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-02-18T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410832-quem-e-o-autor-de-um-texto-encomendado-por-um-humano-a-uma-ia.htm"
+      "date": "2026-02-19T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/410848-palpites-para-corinthians-x-fluminense-feminino-analises-e-onde-assistir-20022026.htm"
+    },
+    {
+      "title": "Palpites para Deportivo Táchira x Tolima: Análises e Onde Assistir (19/02/2026)",
+      "slug": "palpites-para-deportivo-tachira-x-tolima-analises-e-onde-assistir-19022026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-19T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/410847-palpites-para-deportivo-tachira-x-tolima-analises-e-onde-assistir-19022026.htm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (19)? Veja calendário lunar de fevereiro de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-fevereiro-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-19T08:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/19/qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-fevereiro-de-2026.htm"
     }
   ]
 }
