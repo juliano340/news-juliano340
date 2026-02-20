@@ -1,6 +1,6 @@
 {
-  "slug": "tv-samsung-qled-ultra-de-55-tem-30percent-off-na-melhor-oferta-em-meses",
-  "generated_at": "2026-02-20T03:01:15.246Z",
+  "slug": "eric-dane-ator-de-euphoria-e-greys-anatomy-morre-aos-53-anos",
+  "generated_at": "2026-02-20T03:01:47.248Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 333,
+      "words": 336,
       "min": 220
     },
     {

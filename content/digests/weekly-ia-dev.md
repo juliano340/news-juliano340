@@ -1,7 +1,7 @@
 # Weekly IA para Devs - 2026-02-20
 
-Gerado em 2026-02-20T01:03:19.828Z
+Gerado em 2026-02-20T03:01:49.492Z
 
-- [ZeroDayRAT: spyware vendido no Telegram transforma qualquer um em espião](https://www.tecmundo.com.br/seguranca/410896-zerodayrat-spyware-vendido-no-telegram-transforma-qualquer-um-em-espiao.htm) | topico: geral | score: 100
-- [A Terra vai perder a gravidade em agosto de 2026? Entenda o boato](https://www.tecmundo.com.br/ciencia/410812-a-terra-vai-perder-a-gravidade-em-agosto-de-2026-entenda-o-boato.htm) | topico: produtividade-dev | score: 92
-- [Esse water cooler ‘salvou’ o meu Intel Core i9: Review do Cooler Master Core Nex Digital](https://www.tecmundo.com.br/voxel/503542-esse-water-cooler-salvou-o-meu-intel-core-i9-review-do-cooler-master-core-nex-digital.htm) | topico: geral | score: 100
+- [Flamengo diz sofrer ataque hacker em meio a final da Recopa](https://g1.globo.com/tecnologia/noticia/2026/02/19/flamengo-ataque-hacker.ghtml) | topico: geral | score: 100
+- [TV Samsung QLED Ultra de 55″ tem 30% OFF na melhor oferta em meses](https://tecnoblog.net/achados/tv-samsung-qled-ultra-de-55-tem-30-off-na-melhor-oferta-em-meses/) | topico: geral | score: 100
+- [Eric Dane, ator de Euphoria e Grey's Anatomy, morre aos 53 anos](https://www.tecmundo.com.br/minha-serie/603155-eric-dane-ator-de-euphoria-e-greys-anatomy-morre-aos-53-anos.htm) | topico: geral | score: 100

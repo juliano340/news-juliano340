@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-02-20T01:03:19.828Z",
+  "generated_at": "2026-02-20T03:01:49.492Z",
   "niche": "ia-para-desenvolvedores",
   "total": 3,
   "posts": [
     {
-      "title": "ZeroDayRAT: spyware vendido no Telegram transforma qualquer um em espião",
-      "slug": "zerodayrat-spyware-vendido-no-telegram-transforma-qualquer-um-em-espiao",
+      "title": "Flamengo diz sofrer ataque hacker em meio a final da Recopa",
+      "slug": "flamengo-diz-sofrer-ataque-hacker-em-meio-a-final-da-recopa",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-20T00:00:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-20T02:04:41.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410896-zerodayrat-spyware-vendido-no-telegram-transforma-qualquer-um-em-espiao.htm"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/19/flamengo-ataque-hacker.ghtml"
     },
     {
-      "title": "A Terra vai perder a gravidade em agosto de 2026? Entenda o boato",
-      "slug": "a-terra-vai-perder-a-gravidade-em-agosto-de-2026-entenda-o-boato",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-20T00:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/ciencia/410812-a-terra-vai-perder-a-gravidade-em-agosto-de-2026-entenda-o-boato.htm"
+      "title": "TV Samsung QLED Ultra de 55″ tem 30% OFF na melhor oferta em meses",
+      "slug": "tv-samsung-qled-ultra-de-55-tem-30percent-off-na-melhor-oferta-em-meses",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-19T21:42:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/tv-samsung-qled-ultra-de-55-tem-30-off-na-melhor-oferta-em-meses/"
     },
     {
-      "title": "Esse water cooler ‘salvou’ o meu Intel Core i9: Review do Cooler Master Core Nex Digital",
-      "slug": "esse-water-cooler-salvou-o-meu-intel-core-i9-review-do-cooler-master-core-nex-digital",
+      "title": "Eric Dane, ator de Euphoria e Grey's Anatomy, morre aos 53 anos",
+      "slug": "eric-dane-ator-de-euphoria-e-greys-anatomy-morre-aos-53-anos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-19T23:15:42.000Z",
+      "date": "2026-02-20T02:28:21.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503542-esse-water-cooler-salvou-o-meu-intel-core-i9-review-do-cooler-master-core-nex-digital.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603155-eric-dane-ator-de-euphoria-e-greys-anatomy-morre-aos-53-anos.htm"
     }
   ]
 }
