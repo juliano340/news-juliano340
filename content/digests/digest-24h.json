@@ -1,169 +1,259 @@
 {
-  "generated_at": "2026-02-20T13:11:47.847Z",
+  "generated_at": "2026-02-20T15:14:29.570Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 28,
   "posts": [
     {
-      "title": "Bloco de Notas do Windows 11 terá suporte a imagens",
-      "slug": "bloco-de-notas-do-windows-11-tera-suporte-a-imagens",
+      "title": "Grindr começa a exigir verificação de idade para usuários no Brasil",
+      "slug": "grindr-comeca-a-exigir-verificacao-de-idade-para-usuarios-no-brasil",
+      "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-20T12:59:17.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/20/grindr-comeca-a-exigir-verificacao-de-idade-para-usuarios-no-brasil.ghtml"
+    },
+    {
+      "title": "Galaxy S25 (256 GB) fica por menos da metade do preço com cupom na Amazon",
+      "slug": "galaxy-s25-256-gb-fica-por-menos-da-metade-do-preco-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-20T14:53:53.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-256-gb-fica-por-menos-da-metade-do-preco-com-cupom-na-amazon/"
+    },
+    {
+      "title": "Ataque de ransomware paralisa gigantesco centro médico nos EUA",
+      "slug": "ataque-de-ransomware-paralisa-gigantesco-centro-medico-nos-eua",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-20T14:42:33.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/ataque-de-ransomware-paralisa-gigantesco-centro-medico-nos-eua/"
+    },
+    {
+      "title": "BC Protege+ já defende 1 milhão de pessoas contra contas bancárias falsas",
+      "slug": "bc-protege-ja-defende-1-milhao-de-pessoas-contra-contas-bancarias-falsas",
       "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-02-20T12:46:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/bloco-de-notas-do-windows-11-tera-suporte-a-imagens/"
+      "date": "2026-02-20T14:39:51.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/bc-protege-ja-defende-1-milhao-de-pessoas-contra-contas-bancarias-falsas/"
     },
     {
-      "title": "O que é firmware? Entenda a função dessa classe específica de software",
-      "slug": "o-que-e-firmware-entenda-a-funcao-dessa-classe-especifica-de-software",
+      "title": "iPhone 17 (512 GB) tem menor preço desde lançamento em oferta na Amazon",
+      "slug": "iphone-17-512-gb-tem-menor-preco-desde-lancamento-em-oferta-na-amazon",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-20T12:39:07.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-firmware/"
+      "date": "2026-02-20T13:37:54.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-17-512-gb-tem-menor-preco-desde-lancamento-em-oferta-na-amazon/"
     },
     {
-      "title": "Criador de God of War detona Sons of Sparta: \"Não gostei. Não recomendo\"",
-      "slug": "criador-de-god-of-war-detona-sons-of-sparta-nao-gostei-nao-recomendo",
+      "title": "Toy Story 5: brinquedos disputam contra tecnologia em trailer oficial do filme",
+      "slug": "toy-story-5-brinquedos-disputam-contra-tecnologia-em-trailer-oficial-do-filme",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T12:50:00.000Z",
+      "date": "2026-02-20T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/criador-de-god-of-war-detona-sons-of-sparta-nao-gostei-nao-recomendo/"
+      "original_url": "https://canaltech.com.br/entretenimento/toy-story-5-brinquedos-disputam-contra-tecnologia-em-trailer-oficial-do-filme/"
     },
     {
-      "title": "Adidas pode ter sofrido vazamento de 815 mil registros após ataque hacker",
-      "slug": "adidas-pode-ter-sofrido-vazamento-de-815-mil-registros-apos-ataque-hacker",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-20T12:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/adidas-pode-ter-sofrido-vazamento-de-815-mil-registros-apos-ataque-hacker/"
-    },
-    {
-      "title": "Samsung revela a nova Bixby da One UI 8.5; veja o que vai mudar",
-      "slug": "samsung-revela-a-nova-bixby-da-one-ui-85-veja-o-que-vai-mudar",
+      "title": "OneDrive para macOS é atualizado com Liquid Glass e novo painel de atividades",
+      "slug": "onedrive-para-macos-e-atualizado-com-liquid-glass-e-novo-painel-de-atividades",
       "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-20T12:31:00.000Z",
+      "date": "2026-02-20T14:56:32.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/samsung-revela-a-nova-bixby-da-one-ui-85-veja-o-que-vai-mudar/"
+      "original_url": "https://canaltech.com.br/software/onedrive-para-macos-e-atualizado-com-liquid-glass-e-novo-painel-de-atividades/"
     },
     {
-      "title": "Fire TV da Amazon vai ficar mais rápida com update; veja se a sua está na lista",
-      "slug": "fire-tv-da-amazon-vai-ficar-mais-rapida-com-update-veja-se-a-sua-esta-na-lista",
+      "title": "Notepad++ finalmente corrige bug que permitia invasão de malware por atualização",
+      "slug": "notepad-finalmente-corrige-bug-que-permitia-invasao-de-malware-por-atualizacao",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T12:18:39.000Z",
+      "date": "2026-02-20T14:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tv/fire-tv-da-amazon-vai-ficar-mais-rapida-com-update-veja-se-a-sua-esta-na-lista/"
+      "original_url": "https://canaltech.com.br/seguranca/notepad-finalmente-corrige-bug-que-permitia-invasao-de-malware-por-atualizacao/"
     },
     {
-      "title": "Ryzen 7 7800X3D: O processador \"rei dos games\" está por R$ 1.999,99 na Amazon",
-      "slug": "ryzen-7-7800x3d-o-processador-rei-dos-games-esta-por-rdollar-199999-na-amazon",
+      "title": "287 extensões do Chrome estão roubando dados de 37 milhões de usuários",
+      "slug": "287-extensoes-do-chrome-estao-roubando-dados-de-37-milhoes-de-usuarios",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T12:18:02.000Z",
+      "date": "2026-02-20T14:25:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/ryzen-7-7800x3d-o-processador-rei-dos-games-esta-por-r-199999-na-amazon/"
+      "original_url": "https://canaltech.com.br/seguranca/287-extensoes-do-chrome-estao-roubando-dados-de-37-milhoes-de-usuarios/"
     },
     {
-      "title": "Fim do minimalismo? Nova regra na China mira \"telas gigantes\" nos carros",
-      "slug": "fim-do-minimalismo-nova-regra-na-china-mira-telas-gigantes-nos-carros",
+      "title": "Marca chinesa lança hatch que promete tirar o sono do BYD Dolphin",
+      "slug": "marca-chinesa-lanca-hatch-que-promete-tirar-o-sono-do-byd-dolphin",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-20T12:00:00.000Z",
+      "date": "2026-02-20T14:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/fim-do-minimalismo-nova-regra-na-china-mira-telas-gigantes-nos-carros/"
+      "original_url": "https://canaltech.com.br/carros/marca-chinesa-lanca-hatch-que-promete-tirar-o-sono-do-byd-dolphin/"
     },
     {
-      "title": "Nintendo confirma lançamento de Pokémon FireRed e LeafGreen no Switch",
-      "slug": "nintendo-confirma-lancamento-de-pokemon-firered-e-leafgreen-no-switch",
+      "title": "DuckDuckGo libera opção para criar imagens com IA no Duck.ai",
+      "slug": "duckduckgo-libera-opcao-para-criar-imagens-com-ia-no-duckai",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-20T13:52:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/duckduckgo-libera-opcao-para-criar-imagens-com-ia-no-duckai/"
+    },
+    {
+      "title": "Design do Poco X8 Pro vaza em detalhes; veja fotos",
+      "slug": "design-do-poco-x8-pro-vaza-em-detalhes-veja-fotos",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T11:57:59.000Z",
+      "date": "2026-02-20T13:39:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/nintendo-confirma-lancamento-de-pokemon-firered-e-leafgreen-no-switch/"
+      "original_url": "https://canaltech.com.br/smartphone/design-do-poco-x8-pro-vaza-em-detalhes-veja-fotos/"
     },
     {
-      "title": "E-mails vazados sugerem que a Amazon monitora clientes por câmeras inteligentes",
-      "slug": "e-mails-vazados-sugerem-que-a-amazon-monitora-clientes-por-cameras-inteligentes",
+      "title": "Bancos brasileiros querem acesso gratuito ao NFC do iPhone, critica Apple",
+      "slug": "bancos-brasileiros-querem-acesso-gratuito-ao-nfc-do-iphone-critica-apple",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T11:50:00.000Z",
+      "date": "2026-02-20T13:38:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/e-mails-vazados-sugerem-que-a-amazon-monitora-clientes-por-cameras-inteligentes/"
+      "original_url": "https://canaltech.com.br/mercado/bancos-brasileiros-querem-acesso-gratuito-ao-nfc-do-iphone-critica-apple/"
     },
     {
-      "title": "Polícia apreende carga de iPhones e MacBooks contrabandeados do Paraguai",
-      "slug": "policia-apreende-carga-de-iphones-e-macbooks-contrabandeados-do-paraguai",
-      "topic": "agentes",
+      "title": "1Password, LastPass e mais gerenciadores têm falha que entrega senhas a hackers",
+      "slug": "1password-lastpass-e-mais-gerenciadores-tem-falha-que-entrega-senhas-a-hackers",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T11:29:51.000Z",
+      "date": "2026-02-20T13:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/policia-apreende-carga-de-iphones-e-macbooks-contrabandeados-do-paraguai/"
+      "original_url": "https://canaltech.com.br/seguranca/1password-lastpass-e-mais-gerenciadores-tem-falha-que-entrega-senhas-a-hackers/"
     },
     {
-      "title": "Brigados, donos do ChatGPT e Claude têm momento bizarro em evento",
-      "slug": "brigados-donos-do-chatgpt-e-claude-tem-momento-bizarro-em-evento",
+      "title": "Google Chrome ganha tela dividida e marcação de textos",
+      "slug": "google-chrome-ganha-tela-dividida-e-marcacao-de-textos",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-02-20T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/410926-google-chrome-ganha-tela-dividida-e-marcacao-de-textos.htm"
+    },
+    {
+      "title": "Carregadores portáteis Basike com até 58% OFF e cupons na Shopee",
+      "slug": "carregadores-portateis-basike-com-ate-58percent-off-e-cupons-na-shopee",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-20T14:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410920-carregadores-portateis-basike-com-ate-58-off-e-cupons-na-shopee.htm"
+    },
+    {
+      "title": "Netflix confirma quanto tempo filmes da Warner ficarão no cinema antes de chegar ao streaming",
+      "slug": "netflix-confirma-quanto-tempo-filmes-da-warner-ficarao-no-cinema-antes-de-chegar-ao-streaming",
       "topic": "geral",
       "source": "Tecmundo",
+      "date": "2026-02-20T14:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603148-netflix-confirma-quanto-tempo-filmes-da-warner-ficarao-no-cinema-antes-de-chegar-ao-streaming.htm"
+    },
+    {
+      "title": "Liquida Tech no KaBuM! reúne ofertas em eletrônicos e cupons de desconto",
+      "slug": "liquida-tech-no-kabum-reune-ofertas-em-eletronicos-e-cupons-de-desconto",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T14:06:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410906-liquida-tech-no-kabum-reune-ofertas-em-eletronicos-e-cupons-de-desconto.htm"
+    },
+    {
+      "title": "Empresa saudita investe US$ 3 bilhões na xAI de Elon Musk",
+      "slug": "empresa-saudita-investe-usdollar-3-bilhoes-na-xai-de-elon-musk",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/410898-empresa-saudita-investe-us-3-bilhoes-na-xai-de-elon-musk.htm"
+    },
+    {
+      "title": "Vazou tudo sobre os Galaxy S26: TecMundo discute ao vivo",
+      "slug": "vazou-tudo-sobre-os-galaxy-s26-tecmundo-discute-ao-vivo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T13:52:44.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410937-vazou-tudo-sobre-os-galaxy-s26-tecmundo-discute-ao-vivo.htm"
+    },
+    {
+      "title": "Tesla lança Cybertruck mais barato e corta preço da versão premium",
+      "slug": "tesla-lanca-cybertruck-mais-barato-e-corta-preco-da-versao-premium",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-20T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410932-tesla-lanca-cybertruck-mais-barato-e-corta-preco-da-versao-premium.htm"
+    },
+    {
+      "title": "Highguard vai acabar? Entenda polêmicas envolvendo o jogo como serviço",
+      "slug": "highguard-vai-acabar-entenda-polemicas-envolvendo-o-jogo-como-servico",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T13:21:43.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503559-highguard-vai-acabar-entenda-polemicas-envolvendo-o-jogo-como-servico.htm"
+    },
+    {
+      "title": "Jogos Nintendo em promoção na Amazon: aproveite já",
+      "slug": "jogos-nintendo-em-promocao-na-amazon-aproveite-ja",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T13:06:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503568-jogos-nintendo-em-promocao-na-amazon-aproveite-ja.htm"
+    },
+    {
+      "title": "Nova York retira proposta de legalização de serviços de robotáxis",
+      "slug": "nova-york-retira-proposta-de-legalizacao-de-servicos-de-robotaxis",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-20T13:55:13.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/nova-york-retira-proposta-de-legalizacao-de-servicos-de-robotaxis.htm"
+    },
+    {
+      "title": "Após lei, criminosos vão mentir a idade para abordar criança, diz executivo",
+      "slug": "apos-lei-criminosos-vao-mentir-a-idade-para-abordar-crianca-diz-executivo",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
       "date": "2026-02-20T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/410908-brigados-donos-do-chatgpt-e-claude-tem-momento-bizarro-em-evento.htm"
+      "original_url": "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/02/20/apos-lei-criminosos-vao-mentir-a-idade-para-abordar-crianca-diz-executivo.htm"
     },
     {
-      "title": "Unfamiliar vai ter segunda temporada na Netflix? Veja o que dizem os criadores",
-      "slug": "unfamiliar-vai-ter-segunda-temporada-na-netflix-veja-o-que-dizem-os-criadores",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-20T12:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603141-unfamiliar-vai-ter-segunda-temporada-na-netflix-veja-o-que-dizem-os-criadores.htm"
-    },
-    {
-      "title": "'Será considerado desacato': juíza proíbe Zuckerberg de gravar depoimento com óculos inteligentes",
-      "slug": "sera-considerado-desacato-juiza-proibe-zuckerberg-de-gravar-depoimento-com-oculos-inteligentes",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-20T12:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/410907-sera-considerado-desacato-juiza-proibe-zuckerberg-de-gravar-depoimento-com-oculos-inteligentes.htm"
-    },
-    {
-      "title": "Meta planeja lançar smartwatch com IA e recursos fitness, aponta rumor",
-      "slug": "meta-planeja-lancar-smartwatch-com-ia-e-recursos-fitness-aponta-rumor",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-20T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410899-meta-planeja-lancar-smartwatch-com-ia-e-recursos-fitness-aponta-rumor.htm"
-    },
-    {
-      "title": "Review: Yakuza Kiwami 3 & Dark Ties mantém a consistência da série",
-      "slug": "review-yakuza-kiwami-3-and-dark-ties-mantem-a-consistencia-da-serie",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-20T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503562-review-yakuza-kiwami-3-dark-ties-mantem-a-consistencia-da-serie.htm"
-    },
-    {
-      "title": "Instagram e outras redes viciam? O que dizem especialistas sobre os riscos",
-      "slug": "instagram-e-outras-redes-viciam-o-que-dizem-especialistas-sobre-os-riscos",
+      "title": "A Lua está encolhendo: o que isso significa e por que importa para nós?",
+      "slug": "a-lua-esta-encolhendo-o-que-isso-significa-e-por-que-importa-para-nos",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-20T11:50:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/02/20/instagram-e-outras-redes-viciam-o-que-dizem-especialistas-sobre-os-riscos.htm"
+      "date": "2026-02-20T12:35:55.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/20/a-lua-esta-encolhendo-o-que-isso-pode-causar.htm"
     },
     {
-      "title": "Após vazamento de hidrogênio, Nasa completa teste antes de lançar Artemis 2",
-      "slug": "apos-vazamento-de-hidrogenio-nasa-completa-teste-antes-de-lancar-artemis-2",
+      "title": "Adeus, print? WhatsApp libera até 100 mensagens antigas em grupos",
+      "slug": "adeus-print-whatsapp-libera-ate-100-mensagens-antigas-em-grupos",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-20T11:34:52.000Z",
+      "date": "2026-02-20T12:18:14.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/20/whatsapp-compartilhamento-historico-mensagens-grupo.htm"
+    },
+    {
+      "title": "Procurador dos EUA acusa Apple de manter material de abuso sexual infantil no iCloud",
+      "slug": "procurador-dos-eua-acusa-apple-de-manter-material-de-abuso-sexual-infantil-no-icloud",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-19T21:50:14.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/20/apos-vazamento-de-hidrogenio-nasa-completa-teste-antes-de-lancar-artemis-2.htm"
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/02/19/procurador-dos-eua-processa-apple-por-material-de-abuso-sexual-infantil-no-icloud.htm"
     }
   ]
 }

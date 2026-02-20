@@ -1,6 +1,6 @@
 {
-  "slug": "procurador-dos-eua-acusa-apple-de-manter-material-de-abuso-sexual-infantil-no-icloud",
-  "generated_at": "2026-02-20T15:14:28.566Z",
+  "slug": "apos-lei-criminosos-vao-mentir-a-idade-para-abordar-crianca-diz-executivo",
+  "generated_at": "2026-02-20T15:13:06.347Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 369,
+      "words": 314,
       "min": 220
     },
     {

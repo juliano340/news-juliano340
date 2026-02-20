@@ -1,6 +1,6 @@
 {
-  "slug": "procurador-dos-eua-acusa-apple-de-manter-material-de-abuso-sexual-infantil-no-icloud",
-  "generated_at": "2026-02-20T15:14:28.566Z",
+  "slug": "empresa-saudita-investe-usdollar-3-bilhoes-na-xai-de-elon-musk",
+  "generated_at": "2026-02-20T15:10:07.754Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 369,
+      "words": 378,
       "min": 220
     },
     {

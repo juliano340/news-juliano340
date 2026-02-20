@@ -1,6 +1,6 @@
 {
-  "slug": "procurador-dos-eua-acusa-apple-de-manter-material-de-abuso-sexual-infantil-no-icloud",
-  "generated_at": "2026-02-20T15:14:28.566Z",
+  "slug": "marca-chinesa-lanca-hatch-que-promete-tirar-o-sono-do-byd-dolphin",
+  "generated_at": "2026-02-20T15:05:26.406Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 369,
+      "words": 242,
       "min": 220
     },
     {
