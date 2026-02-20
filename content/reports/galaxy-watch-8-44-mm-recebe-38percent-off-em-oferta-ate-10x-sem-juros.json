@@ -1,6 +1,6 @@
 {
-  "slug": "tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast",
-  "generated_at": "2026-02-20T17:14:10.996Z",
+  "slug": "galaxy-watch-8-44-mm-recebe-38percent-off-em-oferta-ate-10x-sem-juros",
+  "generated_at": "2026-02-20T17:04:27.688Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 365,
       "min": 220
     },
     {

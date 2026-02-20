@@ -1,6 +1,6 @@
 {
-  "slug": "tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast",
-  "generated_at": "2026-02-20T17:14:10.996Z",
+  "slug": "realme-p4-lite-e-o-novo-baratinho-chines-com-muita-bateria",
+  "generated_at": "2026-02-20T17:10:42.568Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 497,
       "min": 220
     },
     {

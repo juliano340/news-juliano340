@@ -1,6 +1,6 @@
 {
-  "slug": "tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast",
-  "generated_at": "2026-02-20T17:14:10.996Z",
+  "slug": "openai-desenvolve-dispositivos-de-ia-incluindo-alto-falantes-diz-the-information",
+  "generated_at": "2026-02-20T17:13:54.108Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 244,
       "min": 220
     },
     {

@@ -1,29 +1,23 @@
 # Weekly IA para Devs - 2026-02-20
 
-Gerado em 2026-02-20T15:14:29.570Z
+Gerado em 2026-02-20T17:14:12.002Z
 
-- [Grindr começa a exigir verificação de idade para usuários no Brasil](https://g1.globo.com/tecnologia/noticia/2026/02/20/grindr-comeca-a-exigir-verificacao-de-idade-para-usuarios-no-brasil.ghtml) | topico: agentes | score: 100
-- [Galaxy S25 (256 GB) fica por menos da metade do preço com cupom na Amazon](https://tecnoblog.net/achados/galaxy-s25-256-gb-fica-por-menos-da-metade-do-preco-com-cupom-na-amazon/) | topico: geral | score: 92
-- [Ataque de ransomware paralisa gigantesco centro médico nos EUA](https://tecnoblog.net/noticias/ataque-de-ransomware-paralisa-gigantesco-centro-medico-nos-eua/) | topico: geral | score: 100
-- [BC Protege+ já defende 1 milhão de pessoas contra contas bancárias falsas](https://tecnoblog.net/noticias/bc-protege-ja-defende-1-milhao-de-pessoas-contra-contas-bancarias-falsas/) | topico: agentes | score: 92
-- [iPhone 17 (512 GB) tem menor preço desde lançamento em oferta na Amazon](https://tecnoblog.net/achados/iphone-17-512-gb-tem-menor-preco-desde-lancamento-em-oferta-na-amazon/) | topico: geral | score: 92
-- [Toy Story 5: brinquedos disputam contra tecnologia em trailer oficial do filme](https://canaltech.com.br/entretenimento/toy-story-5-brinquedos-disputam-contra-tecnologia-em-trailer-oficial-do-filme/) | topico: geral | score: 100
-- [OneDrive para macOS é atualizado com Liquid Glass e novo painel de atividades](https://canaltech.com.br/software/onedrive-para-macos-e-atualizado-com-liquid-glass-e-novo-painel-de-atividades/) | topico: agentes | score: 100
-- [Notepad++ finalmente corrige bug que permitia invasão de malware por atualização](https://canaltech.com.br/seguranca/notepad-finalmente-corrige-bug-que-permitia-invasao-de-malware-por-atualizacao/) | topico: geral | score: 100
-- [287 extensões do Chrome estão roubando dados de 37 milhões de usuários](https://canaltech.com.br/seguranca/287-extensoes-do-chrome-estao-roubando-dados-de-37-milhoes-de-usuarios/) | topico: geral | score: 100
-- [Marca chinesa lança hatch que promete tirar o sono do BYD Dolphin](https://canaltech.com.br/carros/marca-chinesa-lanca-hatch-que-promete-tirar-o-sono-do-byd-dolphin/) | topico: produtividade-dev | score: 100
-- [DuckDuckGo libera opção para criar imagens com IA no Duck.ai](https://canaltech.com.br/apps/duckduckgo-libera-opcao-para-criar-imagens-com-ia-no-duckai/) | topico: llms | score: 100
-- [Design do Poco X8 Pro vaza em detalhes; veja fotos](https://canaltech.com.br/smartphone/design-do-poco-x8-pro-vaza-em-detalhes-veja-fotos/) | topico: geral | score: 100
-- [Bancos brasileiros querem acesso gratuito ao NFC do iPhone, critica Apple](https://canaltech.com.br/mercado/bancos-brasileiros-querem-acesso-gratuito-ao-nfc-do-iphone-critica-apple/) | topico: geral | score: 100
-- [1Password, LastPass e mais gerenciadores têm falha que entrega senhas a hackers](https://canaltech.com.br/seguranca/1password-lastpass-e-mais-gerenciadores-tem-falha-que-entrega-senhas-a-hackers/) | topico: geral | score: 100
-- [Google Chrome ganha tela dividida e marcação de textos](https://www.tecmundo.com.br/software/410926-google-chrome-ganha-tela-dividida-e-marcacao-de-textos.htm) | topico: llms | score: 100
-- [Carregadores portáteis Basike com até 58% OFF e cupons na Shopee](https://www.tecmundo.com.br/guia-de-compras/410920-carregadores-portateis-basike-com-ate-58-off-e-cupons-na-shopee.htm) | topico: produtividade-dev | score: 100
-- [Netflix confirma quanto tempo filmes da Warner ficarão no cinema antes de chegar ao streaming](https://www.tecmundo.com.br/minha-serie/603148-netflix-confirma-quanto-tempo-filmes-da-warner-ficarao-no-cinema-antes-de-chegar-ao-streaming.htm) | topico: geral | score: 100
-- [Liquida Tech no KaBuM! reúne ofertas em eletrônicos e cupons de desconto](https://www.tecmundo.com.br/guia-de-compras/410906-liquida-tech-no-kabum-reune-ofertas-em-eletronicos-e-cupons-de-desconto.htm) | topico: geral | score: 100
-- [Empresa saudita investe US$ 3 bilhões na xAI de Elon Musk](https://www.tecmundo.com.br/mercado/410898-empresa-saudita-investe-us-3-bilhoes-na-xai-de-elon-musk.htm) | topico: geral | score: 100
-- [Vazou tudo sobre os Galaxy S26: TecMundo discute ao vivo](https://www.tecmundo.com.br/produto/410937-vazou-tudo-sobre-os-galaxy-s26-tecmundo-discute-ao-vivo.htm) | topico: geral | score: 100
-- [Tesla lança Cybertruck mais barato e corta preço da versão premium](https://www.tecmundo.com.br/produto/410932-tesla-lanca-cybertruck-mais-barato-e-corta-preco-da-versao-premium.htm) | topico: seguranca-ia | score: 100
-- [Highguard vai acabar? Entenda polêmicas envolvendo o jogo como serviço](https://www.tecmundo.com.br/voxel/503559-highguard-vai-acabar-entenda-polemicas-envolvendo-o-jogo-como-servico.htm) | topico: geral | score: 100
-- [Jogos Nintendo em promoção na Amazon: aproveite já](https://www.tecmundo.com.br/voxel/503568-jogos-nintendo-em-promocao-na-amazon-aproveite-ja.htm) | topico: geral | score: 92
-- [Nova York retira proposta de legalização de serviços de robotáxis](https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/nova-york-retira-proposta-de-legalizacao-de-servicos-de-robotaxis.htm) | topico: geral | score: 92
-- [Após lei, criminosos vão mentir a idade para abordar criança, diz executivo](https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/02/20/apos-lei-criminosos-vao-mentir-a-idade-para-abordar-crianca-diz-executivo.htm) | topico: geral | score: 100
+- [Três engenheiros da mesma família são presos nos EUA acusados de roubar dados do Google para mandar para o Irã](https://g1.globo.com/tecnologia/noticia/2026/02/20/tres-engenheiros-do-vale-do-silicio-sao-presos-acusados-de-roubar-dados-do-google-para-mandar-para-o-ira.ghtml) | topico: llms | score: 100
+- [Galaxy A36 (128 GB) fica 50% mais barato em oferta no Mercado Livre](https://tecnoblog.net/achados/galaxy-a36-128-gb-fica-50-mais-barato-em-oferta-no-mercado-livre/) | topico: geral | score: 100
+- [iPhone salva 6 pessoas após avalanche na Califórnia; satélite foi fundamental](https://tecnoblog.net/noticias/iphone-salva-6-pessoas-apos-avalanche-na-california-satelite-foi-fundamental/) | topico: infra-ia | score: 100
+- [Cenário do Windows XP é refotografado no ângulo original após 30 anos](https://tecnoblog.net/noticias/cenario-do-windows-xp-e-refotografado-no-angulo-original-apos-30-anos/) | topico: produtividade-dev | score: 100
+- [Meta registra IA que interage em nome de pessoas falecidas](https://tecnoblog.net/noticias/meta-registra-ia-que-interage-em-nome-de-pessoas-falecidas/) | topico: llms | score: 100
+- [Ela não morreu: Samsung atualiza Bixby com tecnologia de LLM](https://tecnoblog.net/noticias/ela-nao-morreu-samsung-atualiza-bixby-com-tecnologia-de-llm/) | topico: agentes | score: 100
+- [Galaxy Watch 8 (44 mm) recebe 38% OFF em oferta até 10x sem juros](https://tecnoblog.net/achados/galaxy-watch-8-44-mm-recebe-38-off-em-oferta-ate-10x-sem-juros/) | topico: llms | score: 100
+- [NVIDIA comemora 6 anos do GeForce Now com 4.500 jogos disponíveis](https://canaltech.com.br/games/nvidia-comemora-6-anos-do-geforce-now-com-4500-jogos-disponiveis/) | topico: geral | score: 100
+- [Projeções mostram como pode ser a Tukan, sucessora da Saveiro](https://canaltech.com.br/carros/projecoes-mostram-como-pode-ser-a-tukan-sucessora-da-saveiro/) | topico: geral | score: 100
+- [Loja vaza tudo sobre novo Edge 70 Fusion da Motorola; veja imagens e specs](https://canaltech.com.br/smartphone/loja-vaza-tudo-sobre-novo-edge-70-fusion-da-motorola-veja-imagens-e-specs/) | topico: geral | score: 100
+- [Grindr exigirá confirmação de idade no Brasil em breve; veja como vai funcionar](https://canaltech.com.br/apps/grindr-exigira-confirmacao-de-idade-no-brasil-em-breve-veja-como-vai-funcionar/) | topico: seguranca-ia | score: 100
+- [Realme P4 Lite é o novo baratinho chinês com muita bateria](https://www.tecmundo.com.br/produto/410939-realme-p4-lite-e-o-novo-baratinho-chines-com-muita-bateria.htm) | topico: geral | score: 100
+- [Woody careca em Toy Story 5 surpreende internet e vira meme](https://www.tecmundo.com.br/minha-serie/603158-woody-careca-em-toy-story-5-surpreende-internet-e-vira-meme.htm) | topico: geral | score: 100
+- [Bixby com IA chega à One UI 8.5 beta trazendo interações mais naturais](https://www.tecmundo.com.br/produto/410959-bixby-com-ia-chega-a-one-ui-85-beta-trazendo-interacoes-mais-naturais.htm) | topico: agentes | score: 100
+- [SOS de Emergência via satélite no iPhone salva seis pessoas de avalanche](https://www.tecmundo.com.br/seguranca/410938-sos-de-emergencia-via-satelite-no-iphone-salva-seis-pessoas-de-avalanche.htm) | topico: geral | score: 100
+- [Smartphones OPPO de até 512GB entram em oferta com cupons de até R$300 OFF](https://www.tecmundo.com.br/guia-de-compras/410948-smartphones-oppo-de-ate-512gb-entram-em-oferta-com-cupons-de-ate-r300-off.htm) | topico: geral | score: 100
+- [Steam possui dois jogos grátis por tempo limitado! Resgate agora (20)](https://www.tecmundo.com.br/voxel/503572-steam-possui-dois-jogos-gratis-por-tempo-limitado-resgate-agora-20.htm) | topico: geral | score: 100
+- [OpenAI desenvolve dispositivos de IA, incluindo alto-falantes, diz The Information](https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/openai-desenvolve-dispositivos-de-ia-incluindo-alto-falantes-diz-the-information.htm) | topico: llms | score: 100
+- [Tesla revela variante mais barata da Cybertruck e reduz preço da Cyberbeast](https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast.htm) | topico: geral | score: 100

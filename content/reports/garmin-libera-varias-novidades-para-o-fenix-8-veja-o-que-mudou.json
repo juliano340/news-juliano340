@@ -1,0 +1,19 @@
+{
+  "slug": "garmin-libera-varias-novidades-para-o-fenix-8-veja-o-que-mudou",
+  "generated_at": "2026-02-20T17:04:55.393Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

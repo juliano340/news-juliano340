@@ -1,6 +1,6 @@
 {
-  "slug": "tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast",
-  "generated_at": "2026-02-20T17:14:10.996Z",
+  "slug": "meta-registra-ia-que-interage-em-nome-de-pessoas-falecidas",
+  "generated_at": "2026-02-20T17:03:26.001Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 415,
       "min": 220
     },
     {

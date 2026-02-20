@@ -1,6 +1,6 @@
 {
-  "slug": "tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast",
-  "generated_at": "2026-02-20T17:14:10.996Z",
+  "slug": "grindr-exigira-confirmacao-de-idade-no-brasil-em-breve-veja-como-vai-funcionar",
+  "generated_at": "2026-02-20T17:08:45.988Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 302,
       "min": 220
     },
     {
