@@ -1,25 +1,79 @@
 {
-  "generated_at": "2026-02-20T09:01:37.801Z",
+  "generated_at": "2026-02-20T11:03:43.159Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 8,
   "posts": [
     {
-      "title": "Por que o Brasil usa IA sem entender? Especialista explica riscos",
-      "slug": "por-que-o-brasil-usa-ia-sem-entender-especialista-explica-riscos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-20T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/por-que-o-brasil-usa-ia-sem-entender-especialista-explica-riscos-6363/"
+      "title": "ONU defende comissão de 'controle humano' da inteligência artificial, mas ideia é rejeitada pelos Estados Unidos",
+      "slug": "onu-defende-comissao-de-controle-humano-da-inteligencia-artificial-mas-ideia-e-rejeitada-pelos-estados-unidos",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-20T10:29:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/20/onu-defende-comissao-de-controle-humano-da-inteligencia-artificial-e-casa-branca-rejeita.ghtml"
     },
     {
-      "title": "Qual é a fase da Lua hoje (20)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-20-veja-calendario-lunar-de-fevereiro-de-2026",
+      "title": "Meta lembra que site do Messenger ainda existe e decide encerrá-lo",
+      "slug": "meta-lembra-que-site-do-messenger-ainda-existe-e-decide-encerra-lo",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-20T09:41:59.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/meta-lembra-que-site-do-messenger-existe-e-decide-encerra-lo/"
+    },
+    {
+      "title": "SOS Emergência do iPhone ajuda em resgate após avalanche",
+      "slug": "sos-emergencia-do-iphone-ajuda-em-resgate-apos-avalanche",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-20T08:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-20T10:52:12.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/sos-emergencia-do-iphone-ajuda-em-resgate-apos-avalanche/"
+    },
+    {
+      "title": "O que significam os nomes dos SUVs da Honda?",
+      "slug": "o-que-significam-os-nomes-dos-suvs-da-honda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-20T09:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/o-que-significam-os-nomes-dos-suvs-da-honda/"
+    },
+    {
+      "title": "Onde assistir Valor Sentimental? Conheça o filme que pode desbancar O Agente Secreto",
+      "slug": "onde-assistir-valor-sentimental-conheca-o-filme-que-pode-desbancar-o-agente-secreto",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T10:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/20/qual-e-a-fase-da-lua-hoje-20-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603138-onde-assistir-valor-sentimental-conheca-o-filme-que-pode-desbancar-o-agente-secreto.htm"
+    },
+    {
+      "title": "Moltbook: o que é a rede social de IAs que conversam entre si",
+      "slug": "moltbook-o-que-e-a-rede-social-de-ias-que-conversam-entre-si",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-20T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/redes-sociais/410702-moltbook-o-que-e-a-rede-social-de-ias-que-conversam-entre-si.htm"
+    },
+    {
+      "title": "Palpites para Aston Villa x Leeds United: Análises e Onde Assistir (21/02/2026)",
+      "slug": "palpites-para-aston-villa-x-leeds-united-analises-e-onde-assistir-21022026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-20T10:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/410851-palpites-para-aston-villa-x-leeds-united-analises-e-onde-assistir-21022026.htm"
+    },
+    {
+      "title": "Cash Out Bet365: o que é, como funciona e quando usar o encerramento antecipado",
+      "slug": "cash-out-bet365-o-que-e-como-funciona-e-quando-usar-o-encerramento-antecipado",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-20T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/apostas/410839-cash-out-bet365-o-que-e-como-funciona-e-quando-usar-o-encerramento-antecipado.htm"
     }
   ]
 }
