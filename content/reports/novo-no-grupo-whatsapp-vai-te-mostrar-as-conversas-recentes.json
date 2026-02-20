@@ -1,7 +1,7 @@
 {
-  "slug": "spider-man-2-battlefield-e-jujutsu-kaisen-agitam-jogos-gratis-do-fim-de-semana",
-  "generated_at": "2026-02-20T21:08:40.201Z",
-  "status": "PASS",
+  "slug": "novo-no-grupo-whatsapp-vai-te-mostrar-as-conversas-recentes",
+  "generated_at": "2026-02-20T21:03:43.166Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 271,
       "min": 220
     },
     {
@@ -84,16 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 2,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

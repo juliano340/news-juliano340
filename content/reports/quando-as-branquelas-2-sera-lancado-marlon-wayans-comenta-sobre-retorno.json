@@ -1,7 +1,7 @@
 {
-  "slug": "spider-man-2-battlefield-e-jujutsu-kaisen-agitam-jogos-gratis-do-fim-de-semana",
-  "generated_at": "2026-02-20T21:08:40.201Z",
-  "status": "PASS",
+  "slug": "quando-as-branquelas-2-sera-lancado-marlon-wayans-comenta-sobre-retorno",
+  "generated_at": "2026-02-20T21:10:15.546Z",
+  "status": "BLOCK",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 427,
       "min": 220
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "placeholder_terms",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "BLOCK",
       "reason": "placeholder_detectado"
     },
@@ -92,84 +92,9 @@
     }
   ],
   "warnings": [],
-  "errors": [],
-  "score": 100,
-  "metadata": {
-    "status": "PASS",
-    "checks": [
-      {
-        "id": "required_title",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_slug",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_date",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_source",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_original_url",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_primary_source",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_content",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_meta_description",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_canonical_url",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "slug_format",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "original_url_format",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "canonical_matches_slug",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "meta_description_length",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "schema_min_fields",
-        "status": "PASS",
-        "level": "BLOCK"
-      }
-    ],
-    "warnings": [],
-    "errors": [],
-    "score": 100
-  }
+  "errors": [
+    "placeholder_detectado"
+  ],
+  "score": 92,
+  "metadata": null
 }

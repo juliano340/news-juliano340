@@ -1,6 +1,6 @@
 {
-  "slug": "spider-man-2-battlefield-e-jujutsu-kaisen-agitam-jogos-gratis-do-fim-de-semana",
-  "generated_at": "2026-02-20T21:08:40.201Z",
+  "slug": "review-god-of-war-sons-of-sparta-seria-muito-legal-de-jogar-no-celular",
+  "generated_at": "2026-02-20T21:12:19.998Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 416,
       "min": 220
     },
     {

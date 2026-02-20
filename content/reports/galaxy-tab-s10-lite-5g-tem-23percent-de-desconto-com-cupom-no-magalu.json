@@ -1,6 +1,6 @@
 {
-  "slug": "spider-man-2-battlefield-e-jujutsu-kaisen-agitam-jogos-gratis-do-fim-de-semana",
-  "generated_at": "2026-02-20T21:08:40.201Z",
+  "slug": "galaxy-tab-s10-lite-5g-tem-23percent-de-desconto-com-cupom-no-magalu",
+  "generated_at": "2026-02-20T21:01:13.861Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 508,
       "min": 220
     },
     {

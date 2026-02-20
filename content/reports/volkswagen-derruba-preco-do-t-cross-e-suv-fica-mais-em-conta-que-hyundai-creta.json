@@ -1,6 +1,6 @@
 {
-  "slug": "spider-man-2-battlefield-e-jujutsu-kaisen-agitam-jogos-gratis-do-fim-de-semana",
-  "generated_at": "2026-02-20T21:08:40.201Z",
+  "slug": "volkswagen-derruba-preco-do-t-cross-e-suv-fica-mais-em-conta-que-hyundai-creta",
+  "generated_at": "2026-02-20T21:05:33.560Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 348,
       "min": 220
     },
     {
