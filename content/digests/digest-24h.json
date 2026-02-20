@@ -1,106 +1,34 @@
 {
-  "generated_at": "2026-02-19T23:05:20.205Z",
+  "generated_at": "2026-02-20T01:03:19.828Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 11,
+  "total": 3,
   "posts": [
     {
-      "title": "Google lança Gemini 3.1 Pro, com o dobro do poder de raciocínio",
-      "slug": "google-lanca-gemini-31-pro-com-o-dobro-do-poder-de-raciocinio",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T21:55:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-lanca-gemini-3-1-pro-com-o-dobro-do-poder-de-raciocinio/"
-    },
-    {
-      "title": "Microsoft aposta em armazenamento de dados em vidro para arquivos de longo prazo (10 mil anos)",
-      "slug": "microsoft-aposta-em-armazenamento-de-dados-em-vidro-para-arquivos-de-longo-prazo-10-mil-anos",
-      "topic": "infra-ia",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T21:28:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/microsoft-aposta-em-armazenamento-de-dados-em-vidro-para-arquivos-de-longo-prazo-10-mil-anos/"
-    },
-    {
-      "title": "WhatsApp terá opção para evitar que você dê spoilers",
-      "slug": "whatsapp-tera-opcao-para-evitar-que-voce-de-spoilers",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T21:21:44.000Z",
-      "editorial_score": 85,
-      "original_url": "https://tecnoblog.net/noticias/whatsapp-tera-opcao-para-evitar-que-voce-de-spoilers/"
-    },
-    {
-      "title": "Nova guerra dos navegadores: Chrome ganha Split View e edição de PDF",
-      "slug": "nova-guerra-dos-navegadores-chrome-ganha-split-view-e-edicao-de-pdf",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-19T21:15:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/nova-guerra-dos-navegadores-chrome-ganha-split-view-e-edicao-de-pdf/"
-    },
-    {
-      "title": "O maior RPG do SNES vai voltar: remake de Chrono Trigger já está em produção",
-      "slug": "o-maior-rpg-do-snes-vai-voltar-remake-de-chrono-trigger-ja-esta-em-producao",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T22:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/o-maior-rpg-do-snes-vai-voltar-remake-de-chrono-trigger-ja-esta-em-producao/"
-    },
-    {
-      "title": "Sony fecha Bluepoint Games, estúdio de Demon's Souls e Shadow of the Colossus",
-      "slug": "sony-fecha-bluepoint-games-estudio-de-demons-souls-e-shadow-of-the-colossus",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-19T21:08:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/sony-fecha-bluepoint-games-estudio-de-demons-souls-e-shadow-of-the-colossus/"
-    },
-    {
-      "title": "Agente Noturno Temporada 3 tem quantos episódios? Veja tempo para maratonar",
-      "slug": "agente-noturno-temporada-3-tem-quantos-episodios-veja-tempo-para-maratonar",
+      "title": "ZeroDayRAT: spyware vendido no Telegram transforma qualquer um em espião",
+      "slug": "zerodayrat-spyware-vendido-no-telegram-transforma-qualquer-um-em-espiao",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-19T22:45:00.000Z",
+      "date": "2026-02-20T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603139-agente-noturno-temporada-3-tem-quantos-episodios-veja-tempo-para-maratonar.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/410896-zerodayrat-spyware-vendido-no-telegram-transforma-qualquer-um-em-espiao.htm"
     },
     {
-      "title": "The Last of Us e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
-      "slug": "the-last-of-us-e-mais-jogos-para-ps4-e-ps5-com-ate-90percent-off-na-ps-store",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-19T22:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503569-the-last-of-us-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store.htm"
-    },
-    {
-      "title": "Empresas de tecnologia proíbem uso do OpenClaw por funcionários",
-      "slug": "empresas-de-tecnologia-proibem-uso-do-openclaw-por-funcionarios",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-19T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/410892-empresas-de-tecnologia-proibem-uso-do-openclaw-por-funcionarios.htm"
-    },
-    {
-      "title": "WhatsApp agora notifica '@todos' os participantes de um grupo; confira",
-      "slug": "whatsapp-agora-notifica-todos-os-participantes-de-um-grupo-confira",
+      "title": "A Terra vai perder a gravidade em agosto de 2026? Entenda o boato",
+      "slug": "a-terra-vai-perder-a-gravidade-em-agosto-de-2026-entenda-o-boato",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-19T21:40:00.000Z",
+      "date": "2026-02-20T00:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/redes-sociais/410902-whatsapp-agora-notifica-todos-os-participantes-de-um-grupo-confira.htm"
+      "original_url": "https://www.tecmundo.com.br/ciencia/410812-a-terra-vai-perder-a-gravidade-em-agosto-de-2026-entenda-o-boato.htm"
     },
     {
-      "title": "Dublador de Kratos fala sobre gameplay de God of War Remake e novo jogo não anunciado",
-      "slug": "dublador-de-kratos-fala-sobre-gameplay-de-god-of-war-remake-e-novo-jogo-nao-anunciado",
+      "title": "Esse water cooler ‘salvou’ o meu Intel Core i9: Review do Cooler Master Core Nex Digital",
+      "slug": "esse-water-cooler-salvou-o-meu-intel-core-i9-review-do-cooler-master-core-nex-digital",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-19T21:15:52.000Z",
+      "date": "2026-02-19T23:15:42.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503566-dublador-de-kratos-fala-sobre-gameplay-de-god-of-war-remake-e-novo-jogo-nao-anunciado.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503542-esse-water-cooler-salvou-o-meu-intel-core-i9-review-do-cooler-master-core-nex-digital.htm"
     }
   ]
 }
