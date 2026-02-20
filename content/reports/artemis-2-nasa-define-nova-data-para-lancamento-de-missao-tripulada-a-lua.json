@@ -1,6 +1,6 @@
 {
-  "slug": "bloco-de-notas-do-windows-11-tera-suporte-a-imagens-revela-portal",
-  "generated_at": "2026-02-20T19:05:43.226Z",
+  "slug": "artemis-2-nasa-define-nova-data-para-lancamento-de-missao-tripulada-a-lua",
+  "generated_at": "2026-02-20T19:10:06.251Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 396,
+      "words": 322,
       "min": 220
     },
     {

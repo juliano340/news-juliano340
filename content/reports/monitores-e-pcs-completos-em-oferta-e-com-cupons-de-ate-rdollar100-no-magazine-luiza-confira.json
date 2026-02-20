@@ -1,6 +1,6 @@
 {
-  "slug": "bloco-de-notas-do-windows-11-tera-suporte-a-imagens-revela-portal",
-  "generated_at": "2026-02-20T19:05:43.226Z",
+  "slug": "monitores-e-pcs-completos-em-oferta-e-com-cupons-de-ate-rdollar100-no-magazine-luiza-confira",
+  "generated_at": "2026-02-20T19:07:44.668Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 396,
+      "words": 374,
       "min": 220
     },
     {

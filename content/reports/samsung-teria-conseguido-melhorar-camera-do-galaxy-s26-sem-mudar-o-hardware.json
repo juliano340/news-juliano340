@@ -1,7 +1,7 @@
 {
-  "slug": "bloco-de-notas-do-windows-11-tera-suporte-a-imagens-revela-portal",
-  "generated_at": "2026-02-20T19:05:43.226Z",
-  "status": "WARN",
+  "slug": "samsung-teria-conseguido-melhorar-camera-do-galaxy-s26-sem-mudar-o-hardware",
+  "generated_at": "2026-02-20T19:04:32.300Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 396,
+      "words": 295,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

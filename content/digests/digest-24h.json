@@ -1,178 +1,187 @@
 {
-  "generated_at": "2026-02-20T17:14:12.002Z",
+  "generated_at": "2026-02-20T19:10:07.257Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 19,
+  "total": 20,
   "posts": [
     {
-      "title": "Três engenheiros da mesma família são presos nos EUA acusados de roubar dados do Google para mandar para o Irã",
-      "slug": "tres-engenheiros-da-mesma-familia-sao-presos-nos-eua-acusados-de-roubar-dados-do-google-para-mandar-para-o-ira",
+      "title": "Altman se posiciona contra “AI washing”, que virou moda no Vale do Silício",
+      "slug": "altman-se-posiciona-contra-ai-washing-que-virou-moda-no-vale-do-silicio",
       "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-20T14:51:26.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-20T17:51:11.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/20/tres-engenheiros-do-vale-do-silicio-sao-presos-acusados-de-roubar-dados-do-google-para-mandar-para-o-ira.ghtml"
+      "original_url": "https://tecnoblog.net/noticias/altman-se-posiciona-contra-ai-washing-que-virou-moda-no-vale-do-silicio/"
     },
     {
-      "title": "Galaxy A36 (128 GB) fica 50% mais barato em oferta no Mercado Livre",
-      "slug": "galaxy-a36-128-gb-fica-50percent-mais-barato-em-oferta-no-mercado-livre",
+      "title": "Google reforça segurança e barra 1,75 milhão de apps suspeitos",
+      "slug": "google-reforca-seguranca-e-barra-175-milhao-de-apps-suspeitos",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-20T16:51:36.000Z",
+      "date": "2026-02-20T17:45:05.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-a36-128-gb-fica-50-mais-barato-em-oferta-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/noticias/google-reforca-seguranca-e-barra-175-milhao-de-apps-suspeitos/"
     },
     {
-      "title": "iPhone salva 6 pessoas após avalanche na Califórnia; satélite foi fundamental",
-      "slug": "iphone-salva-6-pessoas-apos-avalanche-na-california-satelite-foi-fundamental",
-      "topic": "infra-ia",
+      "title": "Motorola prepara chegada do Moto Tag 2 ao Brasil",
+      "slug": "motorola-prepara-chegada-do-moto-tag-2-ao-brasil",
+      "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-02-20T16:01:48.000Z",
+      "date": "2026-02-20T17:37:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/iphone-salva-6-pessoas-apos-avalanche-na-california-satelite-foi-fundamental/"
+      "original_url": "https://tecnoblog.net/noticias/motorola-prepara-chegada-do-moto-tag-2-ao-brasil/"
     },
     {
-      "title": "Cenário do Windows XP é refotografado no ângulo original após 30 anos",
-      "slug": "cenario-do-windows-xp-e-refotografado-no-angulo-original-apos-30-anos",
+      "title": "Galaxy Z TriFold: novo dobrável da Samsung esgota em questão de minutos",
+      "slug": "galaxy-z-trifold-novo-dobravel-da-samsung-esgota-em-questao-de-minutos",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-20T15:59:45.000Z",
+      "date": "2026-02-20T17:30:52.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/cenario-do-windows-xp-e-refotografado-no-angulo-original-apos-30-anos/"
+      "original_url": "https://tecnoblog.net/noticias/galaxy-z-trifold-novo-dobravel-da-samsung-esgota-em-questao-de-minutos/"
     },
     {
-      "title": "Meta registra IA que interage em nome de pessoas falecidas",
-      "slug": "meta-registra-ia-que-interage-em-nome-de-pessoas-falecidas",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-20T15:56:29.000Z",
+      "title": "A Casa do Dragão: 3ª temporada promete batalhas intensas em trailer oficial",
+      "slug": "a-casa-do-dragao-3a-temporada-promete-batalhas-intensas-em-trailer-oficial",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-20T18:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/meta-registra-ia-que-interage-em-nome-de-pessoas-falecidas/"
+      "original_url": "https://canaltech.com.br/entretenimento/a-casa-do-dragao-3a-temporada-promete-batalhas-intensas-em-trailer-oficial/"
     },
     {
-      "title": "Ela não morreu: Samsung atualiza Bixby com tecnologia de LLM",
-      "slug": "ela-nao-morreu-samsung-atualiza-bixby-com-tecnologia-de-llm",
+      "title": "BC Protege+, serviço que combate fraudes bancárias, atinge 1 milhão de ativações",
+      "slug": "bc-protege-servico-que-combate-fraudes-bancarias-atinge-1-milhao-de-ativacoes",
       "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-20T15:45:20.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-20T18:33:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/ela-nao-morreu-samsung-atualiza-bixby-com-tecnologia-de-llm/"
+      "original_url": "https://canaltech.com.br/apps/bc-protege-servico-que-combate-fraudes-bancarias-atinge-1-milhao-de-ativacoes/"
     },
     {
-      "title": "Galaxy Watch 8 (44 mm) recebe 38% OFF em oferta até 10x sem juros",
-      "slug": "galaxy-watch-8-44-mm-recebe-38percent-off-em-oferta-ate-10x-sem-juros",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-20T15:37:09.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-watch-8-44-mm-recebe-38-off-em-oferta-ate-10x-sem-juros/"
+      "title": "Radares com IA já flagram motoristas dentro do carro e registram infrações",
+      "slug": "radares-com-ia-ja-flagram-motoristas-dentro-do-carro-e-registram-infracoes",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-02-20T18:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/carros/radares-com-ia-ja-flagram-motoristas-dentro-do-carro-e-registram-infracoes/"
     },
     {
-      "title": "NVIDIA comemora 6 anos do GeForce Now com 4.500 jogos disponíveis",
-      "slug": "nvidia-comemora-6-anos-do-geforce-now-com-4500-jogos-disponiveis",
+      "title": "Samsung teria conseguido melhorar câmera do Galaxy S26 sem mudar o hardware",
+      "slug": "samsung-teria-conseguido-melhorar-camera-do-galaxy-s26-sem-mudar-o-hardware",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T16:15:00.000Z",
+      "date": "2026-02-20T17:18:37.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/nvidia-comemora-6-anos-do-geforce-now-com-4500-jogos-disponiveis/"
+      "original_url": "https://canaltech.com.br/smartphone/samsung-teria-conseguido-melhorar-camera-do-galaxy-s26-sem-mudar-o-hardware/"
     },
     {
-      "title": "Projeções mostram como pode ser a Tukan, sucessora da Saveiro",
-      "slug": "projecoes-mostram-como-pode-ser-a-tukan-sucessora-da-saveiro",
-      "topic": "geral",
+      "title": "Garmin libera várias novidades para o Fenix 8; veja o que mudou",
+      "slug": "garmin-libera-varias-novidades-para-o-fenix-8-veja-o-que-mudou",
+      "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-20T16:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/projecoes-mostram-como-pode-ser-a-tukan-sucessora-da-saveiro/"
-    },
-    {
-      "title": "Loja vaza tudo sobre novo Edge 70 Fusion da Motorola; veja imagens e specs",
-      "slug": "loja-vaza-tudo-sobre-novo-edge-70-fusion-da-motorola-veja-imagens-e-specs",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-20T16:02:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/loja-vaza-tudo-sobre-novo-edge-70-fusion-da-motorola-veja-imagens-e-specs/"
-    },
-    {
-      "title": "Grindr exigirá confirmação de idade no Brasil em breve; veja como vai funcionar",
-      "slug": "grindr-exigira-confirmacao-de-idade-no-brasil-em-breve-veja-como-vai-funcionar",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-02-20T15:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/grindr-exigira-confirmacao-de-idade-no-brasil-em-breve-veja-como-vai-funcionar/"
-    },
-    {
-      "title": "Realme P4 Lite é o novo baratinho chinês com muita bateria",
-      "slug": "realme-p4-lite-e-o-novo-baratinho-chines-com-muita-bateria",
-      "topic": "geral",
-      "source": "Tecmundo",
       "date": "2026-02-20T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410939-realme-p4-lite-e-o-novo-baratinho-chines-com-muita-bateria.htm"
+      "original_url": "https://canaltech.com.br/apps/garmin-libera-varias-novidades-para-o-fenix-8-veja-o-que-mudou/"
     },
     {
-      "title": "Woody careca em Toy Story 5 surpreende internet e vira meme",
-      "slug": "woody-careca-em-toy-story-5-surpreende-internet-e-vira-meme",
+      "title": "Por que é tão difícil jogar Pokémon clássico hoje em dia?",
+      "slug": "por-que-e-tao-dificil-jogar-pokemon-classico-hoje-em-dia",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-20T17:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/por-que-e-tao-dificil-jogar-pokemon-classico-hoje-em-dia/"
+    },
+    {
+      "title": "Bloco de Notas do Windows 11 terá suporte a imagens, revela portal",
+      "slug": "bloco-de-notas-do-windows-11-tera-suporte-a-imagens-revela-portal",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-20T16:06:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/software/bloco-de-notas-do-windows-11-tera-suporte-a-imagens-revela-portal/"
+    },
+    {
+      "title": "Loja oficial posta vídeo do DJI Pocket 4 antes do lançamento; confira",
+      "slug": "loja-oficial-posta-video-do-dji-pocket-4-antes-do-lancamento-confira",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-20T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410960-loja-oficial-posta-video-do-dji-pocket-4-antes-do-lancamento-confira.htm"
+    },
+    {
+      "title": "10 melhores filmes e séries em alta para ver na Netflix no fim de semana (20)",
+      "slug": "10-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-20",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T16:45:00.000Z",
+      "date": "2026-02-20T18:15:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603158-woody-careca-em-toy-story-5-surpreende-internet-e-vira-meme.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603142-10-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-20.htm"
     },
     {
-      "title": "Bixby com IA chega à One UI 8.5 beta trazendo interações mais naturais",
-      "slug": "bixby-com-ia-chega-a-one-ui-85-beta-trazendo-interacoes-mais-naturais",
+      "title": "Cibercriminosos ligados à China exploram falha grave no Dell RecoverPoint",
+      "slug": "cibercriminosos-ligados-a-china-exploram-falha-grave-no-dell-recoverpoint",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/410949-cibercriminosos-ligados-a-china-exploram-falha-grave-no-dell-recoverpoint.htm"
+    },
+    {
+      "title": "Monitores e PCs completos em oferta e com cupons de até R$100 no Magazine Luiza; confira",
+      "slug": "monitores-e-pcs-completos-em-oferta-e-com-cupons-de-ate-rdollar100-no-magazine-luiza-confira",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T17:36:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410961-monitores-e-pcs-completos-em-oferta-e-com-cupons-de-ate-r100-no-magazine-luiza-confira.htm"
+    },
+    {
+      "title": "iPhones, Apple Watches e MacBooks sem nota fiscal são apreendidos no Ceará",
+      "slug": "iphones-apple-watches-e-macbooks-sem-nota-fiscal-sao-apreendidos-no-ceara",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-02-20T16:30:00.000Z",
+      "date": "2026-02-20T17:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410959-bixby-com-ia-chega-a-one-ui-85-beta-trazendo-interacoes-mais-naturais.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410947-iphones-apple-watches-e-macbooks-sem-nota-fiscal-sao-apreendidos-no-ceara.htm"
     },
     {
-      "title": "SOS de Emergência via satélite no iPhone salva seis pessoas de avalanche",
-      "slug": "sos-de-emergencia-via-satelite-no-iphone-salva-seis-pessoas-de-avalanche",
+      "title": "Entrevista emocionante com Eric Dane é lançada na Netflix após sua morte",
+      "slug": "entrevista-emocionante-com-eric-dane-e-lancada-na-netflix-apos-sua-morte",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T16:00:00.000Z",
+      "date": "2026-02-20T17:15:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410938-sos-de-emergencia-via-satelite-no-iphone-salva-seis-pessoas-de-avalanche.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603163-entrevista-emocionante-com-eric-dane-e-lancada-na-netflix-apos-sua-morte.htm"
     },
     {
-      "title": "Smartphones OPPO de até 512GB entram em oferta com cupons de até R$300 OFF",
-      "slug": "smartphones-oppo-de-ate-512gb-entram-em-oferta-com-cupons-de-ate-rdollar300-off",
+      "title": "Nintendo relança Pokémon FireRed e LeafGreen por R$ 120 cada, e tenta explicar preço alto",
+      "slug": "nintendo-relanca-pokemon-firered-e-leafgreen-por-rdollar-120-cada-e-tenta-explicar-preco-alto",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T15:36:00.000Z",
+      "date": "2026-02-20T17:07:39.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410948-smartphones-oppo-de-ate-512gb-entram-em-oferta-com-cupons-de-ate-r300-off.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503577-nintendo-relanca-pokemon-firered-e-leafgreen-por-r-120-cada-e-tenta-explicar-preco-alto.htm"
     },
     {
-      "title": "Steam possui dois jogos grátis por tempo limitado! Resgate agora (20)",
-      "slug": "steam-possui-dois-jogos-gratis-por-tempo-limitado-resgate-agora-20",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-20T15:15:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503572-steam-possui-dois-jogos-gratis-por-tempo-limitado-resgate-agora-20.htm"
-    },
-    {
-      "title": "OpenAI desenvolve dispositivos de IA, incluindo alto-falantes, diz The Information",
-      "slug": "openai-desenvolve-dispositivos-de-ia-incluindo-alto-falantes-diz-the-information",
-      "topic": "llms",
+      "title": "Unidade de computação em nuvem da Amazon sofreu em dezembro interrupção envolvendo ferramentas de IA",
+      "slug": "unidade-de-computacao-em-nuvem-da-amazon-sofreu-em-dezembro-interrupcao-envolvendo-ferramentas-de-ia",
+      "topic": "agentes",
       "source": "UOL Tecnologia",
-      "date": "2026-02-20T15:15:55.000Z",
+      "date": "2026-02-20T18:48:21.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/openai-desenvolve-dispositivos-de-ia-incluindo-alto-falantes-diz-the-information.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/unidade-de-computacao-em-nuvem-da-amazon-sofreu-em-dezembro-interrupcao-envolvendo-ferramentas-de-ia.htm"
     },
     {
-      "title": "Tesla revela variante mais barata da Cybertruck e reduz preço da Cyberbeast",
-      "slug": "tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast",
+      "title": "Artemis 2: Nasa define nova data para lançamento de missão tripulada à Lua",
+      "slug": "artemis-2-nasa-define-nova-data-para-lancamento-de-missao-tripulada-a-lua",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-20T14:20:03.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast.htm"
+      "date": "2026-02-20T17:13:48.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/20/artemis-2-nasa-lancamento.htm"
     }
   ]
 }

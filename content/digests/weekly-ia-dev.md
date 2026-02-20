@@ -1,23 +1,24 @@
 # Weekly IA para Devs - 2026-02-20
 
-Gerado em 2026-02-20T17:14:12.002Z
+Gerado em 2026-02-20T19:10:07.257Z
 
-- [Três engenheiros da mesma família são presos nos EUA acusados de roubar dados do Google para mandar para o Irã](https://g1.globo.com/tecnologia/noticia/2026/02/20/tres-engenheiros-do-vale-do-silicio-sao-presos-acusados-de-roubar-dados-do-google-para-mandar-para-o-ira.ghtml) | topico: llms | score: 100
-- [Galaxy A36 (128 GB) fica 50% mais barato em oferta no Mercado Livre](https://tecnoblog.net/achados/galaxy-a36-128-gb-fica-50-mais-barato-em-oferta-no-mercado-livre/) | topico: geral | score: 100
-- [iPhone salva 6 pessoas após avalanche na Califórnia; satélite foi fundamental](https://tecnoblog.net/noticias/iphone-salva-6-pessoas-apos-avalanche-na-california-satelite-foi-fundamental/) | topico: infra-ia | score: 100
-- [Cenário do Windows XP é refotografado no ângulo original após 30 anos](https://tecnoblog.net/noticias/cenario-do-windows-xp-e-refotografado-no-angulo-original-apos-30-anos/) | topico: produtividade-dev | score: 100
-- [Meta registra IA que interage em nome de pessoas falecidas](https://tecnoblog.net/noticias/meta-registra-ia-que-interage-em-nome-de-pessoas-falecidas/) | topico: llms | score: 100
-- [Ela não morreu: Samsung atualiza Bixby com tecnologia de LLM](https://tecnoblog.net/noticias/ela-nao-morreu-samsung-atualiza-bixby-com-tecnologia-de-llm/) | topico: agentes | score: 100
-- [Galaxy Watch 8 (44 mm) recebe 38% OFF em oferta até 10x sem juros](https://tecnoblog.net/achados/galaxy-watch-8-44-mm-recebe-38-off-em-oferta-ate-10x-sem-juros/) | topico: llms | score: 100
-- [NVIDIA comemora 6 anos do GeForce Now com 4.500 jogos disponíveis](https://canaltech.com.br/games/nvidia-comemora-6-anos-do-geforce-now-com-4500-jogos-disponiveis/) | topico: geral | score: 100
-- [Projeções mostram como pode ser a Tukan, sucessora da Saveiro](https://canaltech.com.br/carros/projecoes-mostram-como-pode-ser-a-tukan-sucessora-da-saveiro/) | topico: geral | score: 100
-- [Loja vaza tudo sobre novo Edge 70 Fusion da Motorola; veja imagens e specs](https://canaltech.com.br/smartphone/loja-vaza-tudo-sobre-novo-edge-70-fusion-da-motorola-veja-imagens-e-specs/) | topico: geral | score: 100
-- [Grindr exigirá confirmação de idade no Brasil em breve; veja como vai funcionar](https://canaltech.com.br/apps/grindr-exigira-confirmacao-de-idade-no-brasil-em-breve-veja-como-vai-funcionar/) | topico: seguranca-ia | score: 100
-- [Realme P4 Lite é o novo baratinho chinês com muita bateria](https://www.tecmundo.com.br/produto/410939-realme-p4-lite-e-o-novo-baratinho-chines-com-muita-bateria.htm) | topico: geral | score: 100
-- [Woody careca em Toy Story 5 surpreende internet e vira meme](https://www.tecmundo.com.br/minha-serie/603158-woody-careca-em-toy-story-5-surpreende-internet-e-vira-meme.htm) | topico: geral | score: 100
-- [Bixby com IA chega à One UI 8.5 beta trazendo interações mais naturais](https://www.tecmundo.com.br/produto/410959-bixby-com-ia-chega-a-one-ui-85-beta-trazendo-interacoes-mais-naturais.htm) | topico: agentes | score: 100
-- [SOS de Emergência via satélite no iPhone salva seis pessoas de avalanche](https://www.tecmundo.com.br/seguranca/410938-sos-de-emergencia-via-satelite-no-iphone-salva-seis-pessoas-de-avalanche.htm) | topico: geral | score: 100
-- [Smartphones OPPO de até 512GB entram em oferta com cupons de até R$300 OFF](https://www.tecmundo.com.br/guia-de-compras/410948-smartphones-oppo-de-ate-512gb-entram-em-oferta-com-cupons-de-ate-r300-off.htm) | topico: geral | score: 100
-- [Steam possui dois jogos grátis por tempo limitado! Resgate agora (20)](https://www.tecmundo.com.br/voxel/503572-steam-possui-dois-jogos-gratis-por-tempo-limitado-resgate-agora-20.htm) | topico: geral | score: 100
-- [OpenAI desenvolve dispositivos de IA, incluindo alto-falantes, diz The Information](https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/openai-desenvolve-dispositivos-de-ia-incluindo-alto-falantes-diz-the-information.htm) | topico: llms | score: 100
-- [Tesla revela variante mais barata da Cybertruck e reduz preço da Cyberbeast](https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/tesla-revela-variante-mais-barata-da-cybertruck-e-reduz-preco-da-cyberbeast.htm) | topico: geral | score: 100
+- [Altman se posiciona contra “AI washing”, que virou moda no Vale do Silício](https://tecnoblog.net/noticias/altman-se-posiciona-contra-ai-washing-que-virou-moda-no-vale-do-silicio/) | topico: llms | score: 100
+- [Google reforça segurança e barra 1,75 milhão de apps suspeitos](https://tecnoblog.net/noticias/google-reforca-seguranca-e-barra-175-milhao-de-apps-suspeitos/) | topico: geral | score: 100
+- [Motorola prepara chegada do Moto Tag 2 ao Brasil](https://tecnoblog.net/noticias/motorola-prepara-chegada-do-moto-tag-2-ao-brasil/) | topico: agentes | score: 100
+- [Galaxy Z TriFold: novo dobrável da Samsung esgota em questão de minutos](https://tecnoblog.net/noticias/galaxy-z-trifold-novo-dobravel-da-samsung-esgota-em-questao-de-minutos/) | topico: produtividade-dev | score: 100
+- [A Casa do Dragão: 3ª temporada promete batalhas intensas em trailer oficial](https://canaltech.com.br/entretenimento/a-casa-do-dragao-3a-temporada-promete-batalhas-intensas-em-trailer-oficial/) | topico: geral | score: 100
+- [BC Protege+, serviço que combate fraudes bancárias, atinge 1 milhão de ativações](https://canaltech.com.br/apps/bc-protege-servico-que-combate-fraudes-bancarias-atinge-1-milhao-de-ativacoes/) | topico: agentes | score: 100
+- [Radares com IA já flagram motoristas dentro do carro e registram infrações](https://canaltech.com.br/carros/radares-com-ia-ja-flagram-motoristas-dentro-do-carro-e-registram-infracoes/) | topico: infra-ia | score: 92
+- [Samsung teria conseguido melhorar câmera do Galaxy S26 sem mudar o hardware](https://canaltech.com.br/smartphone/samsung-teria-conseguido-melhorar-camera-do-galaxy-s26-sem-mudar-o-hardware/) | topico: geral | score: 100
+- [Garmin libera várias novidades para o Fenix 8; veja o que mudou](https://canaltech.com.br/apps/garmin-libera-varias-novidades-para-o-fenix-8-veja-o-que-mudou/) | topico: agentes | score: 100
+- [Por que é tão difícil jogar Pokémon clássico hoje em dia?](https://canaltech.com.br/games/por-que-e-tao-dificil-jogar-pokemon-classico-hoje-em-dia/) | topico: geral | score: 100
+- [Bloco de Notas do Windows 11 terá suporte a imagens, revela portal](https://canaltech.com.br/software/bloco-de-notas-do-windows-11-tera-suporte-a-imagens-revela-portal/) | topico: produtividade-dev | score: 92
+- [Loja oficial posta vídeo do DJI Pocket 4 antes do lançamento; confira](https://www.tecmundo.com.br/produto/410960-loja-oficial-posta-video-do-dji-pocket-4-antes-do-lancamento-confira.htm) | topico: seguranca-ia | score: 100
+- [10 melhores filmes e séries em alta para ver na Netflix no fim de semana (20)](https://www.tecmundo.com.br/minha-serie/603142-10-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-20.htm) | topico: geral | score: 100
+- [Cibercriminosos ligados à China exploram falha grave no Dell RecoverPoint](https://www.tecmundo.com.br/seguranca/410949-cibercriminosos-ligados-a-china-exploram-falha-grave-no-dell-recoverpoint.htm) | topico: geral | score: 100
+- [Monitores e PCs completos em oferta e com cupons de até R$100 no Magazine Luiza; confira](https://www.tecmundo.com.br/guia-de-compras/410961-monitores-e-pcs-completos-em-oferta-e-com-cupons-de-ate-r100-no-magazine-luiza-confira.htm) | topico: geral | score: 92
+- [iPhones, Apple Watches e MacBooks sem nota fiscal são apreendidos no Ceará](https://www.tecmundo.com.br/produto/410947-iphones-apple-watches-e-macbooks-sem-nota-fiscal-sao-apreendidos-no-ceara.htm) | topico: agentes | score: 100
+- [Entrevista emocionante com Eric Dane é lançada na Netflix após sua morte](https://www.tecmundo.com.br/minha-serie/603163-entrevista-emocionante-com-eric-dane-e-lancada-na-netflix-apos-sua-morte.htm) | topico: geral | score: 100
+- [Nintendo relança Pokémon FireRed e LeafGreen por R$ 120 cada, e tenta explicar preço alto](https://www.tecmundo.com.br/voxel/503577-nintendo-relanca-pokemon-firered-e-leafgreen-por-r-120-cada-e-tenta-explicar-preco-alto.htm) | topico: geral | score: 100
+- [Unidade de computação em nuvem da Amazon sofreu em dezembro interrupção envolvendo ferramentas de IA](https://www.uol.com.br/tilt/noticias/reuters/2026/02/20/unidade-de-computacao-em-nuvem-da-amazon-sofreu-em-dezembro-interrupcao-envolvendo-ferramentas-de-ia.htm) | topico: agentes | score: 100
+- [Artemis 2: Nasa define nova data para lançamento de missão tripulada à Lua](https://www.uol.com.br/tilt/noticias/redacao/2026/02/20/artemis-2-nasa-lancamento.htm) | topico: geral | score: 92
