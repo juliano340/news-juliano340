@@ -1,6 +1,6 @@
 {
-  "slug": "meta-decide-que-futuro-do-metaverso-nao-esta-na-realidade-virtual",
-  "generated_at": "2026-02-20T23:01:54.858Z",
+  "slug": "departamento-de-seguranca-dos-eua-pede-que-big-techs-revelem-perfis-anti-ice",
+  "generated_at": "2026-02-20T23:04:36.067Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 266,
+      "words": 364,
       "min": 220
     },
     {

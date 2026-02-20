@@ -1,6 +1,6 @@
 {
   "slug": "quando-as-branquelas-2-sera-lancado-marlon-wayans-comenta-sobre-retorno",
-  "generated_at": "2026-02-20T21:10:15.546Z",
+  "generated_at": "2026-02-20T23:07:33.900Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 427,
+      "words": 394,
       "min": 220
     },
     {

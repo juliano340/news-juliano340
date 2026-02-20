@@ -1,205 +1,142 @@
 {
-  "generated_at": "2026-02-20T21:12:53.467Z",
+  "generated_at": "2026-02-20T23:07:36.209Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 22,
+  "total": 15,
   "posts": [
     {
-      "title": "Galaxy Tab S10 Lite 5G tem 23% de desconto com cupom no Magalu",
-      "slug": "galaxy-tab-s10-lite-5g-tem-23percent-de-desconto-com-cupom-no-magalu",
+      "title": "Apple deixa vazar MacBook de baixo custo e novos monitores",
+      "slug": "apple-deixa-vazar-macbook-de-baixo-custo-e-novos-monitores",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-20T20:47:41.000Z",
+      "date": "2026-02-20T22:07:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-5g-tem-23-de-desconto-com-cupom-no-magalu/"
+      "original_url": "https://tecnoblog.net/noticias/apple-deixa-vazar-macbook-de-baixo-custo-e-novos-monitores/"
     },
     {
-      "title": "Review do Galaxy Tab A11 Plus 5G: campeão em custo-benefício?",
-      "slug": "review-do-galaxy-tab-a11-plus-5g-campeao-em-custo-beneficio",
+      "title": "Soundbar JBL SB180 tem 42% OFF na melhor oferta registrada",
+      "slug": "soundbar-jbl-sb180-tem-42percent-off-na-melhor-oferta-registrada",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-20T20:28:57.000Z",
+      "date": "2026-02-20T21:50:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/testamos/review-do-galaxy-tab-a11-plus-5g-campeao-em-custo-beneficio/"
+      "original_url": "https://tecnoblog.net/achados/soundbar-jbl-sb180-tem-42-off-na-melhor-oferta-registrada/"
     },
     {
-      "title": "Galaxy Tab S11 (256 GB) tem 29% de desconto em oferta no Mercado Livre",
-      "slug": "galaxy-tab-s11-256-gb-tem-29percent-de-desconto-em-oferta-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-20T20:04:50.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s11-256-gb-tem-29-de-desconto-em-oferta-no-mercado-livre/"
-    },
-    {
-      "title": "O que é um driver? Entenda a função do software em dispositivos eletrônicos",
-      "slug": "o-que-e-um-driver-entenda-a-funcao-do-software-em-dispositivos-eletronicos",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-20T20:02:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-um-driver-entenda-a-funcao-do-software-em-dispositivos-eletronicos/"
-    },
-    {
-      "title": "Novo no grupo? WhatsApp vai te mostrar as conversas recentes",
-      "slug": "novo-no-grupo-whatsapp-vai-te-mostrar-as-conversas-recentes",
-      "topic": "seguranca-ia",
-      "source": "Tecnoblog",
-      "date": "2026-02-20T19:27:50.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/novo-no-grupo-whatsapp-vai-te-mostrar-as-conversas-recentes/"
-    },
-    {
-      "title": "Samsung bate novo recorde de download no 6G: 3 Gb/s",
-      "slug": "samsung-bate-novo-recorde-de-download-no-6g-3-gbs",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-20T19:12:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/samsung-bate-novo-recorde-de-download-no-6g-3-gb-s/"
-    },
-    {
-      "title": "Apple começa a vender o AirTag 2 no Brasil",
-      "slug": "apple-comeca-a-vender-o-airtag-2-no-brasil",
+      "title": "Garmin Forerunner 165 está em oferta na Amazon por até 10x sem juros",
+      "slug": "garmin-forerunner-165-esta-em-oferta-na-amazon-por-ate-10x-sem-juros",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-20T19:04:47.000Z",
+      "date": "2026-02-20T21:36:41.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/apple-comeca-a-vender-o-airtag-2-no-brasil/"
+      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-165-esta-em-oferta-na-amazon-por-ate-10x-sem-juros/"
     },
     {
-      "title": "Tomb Raider: fotos do set revelam novo visual de Sophie Turner como Lara Croft",
-      "slug": "tomb-raider-fotos-do-set-revelam-novo-visual-de-sophie-turner-como-lara-croft",
+      "title": "Meta decide que futuro do metaverso não está na realidade virtual",
+      "slug": "meta-decide-que-futuro-do-metaverso-nao-esta-na-realidade-virtual",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-20T20:37:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/meta-decide-que-futuro-do-seu-metaverso-nao-esta-na-realidade-virtual/"
+    },
+    {
+      "title": "Novas CPUs AMD Ryzen Zen 6 podem trazer quantidade inédita de núcleos",
+      "slug": "novas-cpus-amd-ryzen-zen-6-podem-trazer-quantidade-inedita-de-nucleos",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T20:25:00.000Z",
+      "date": "2026-02-20T22:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/tomb-raider-fotos-do-set-revelam-novo-visual-de-sophie-turner-como-lara-croft/"
+      "original_url": "https://canaltech.com.br/hardware/novas-cpus-amd-ryzen-zen-6-podem-trazer-quantidade-inedita-de-nucleos/"
     },
     {
-      "title": "Volkswagen derruba preço do T-Cross e SUV fica mais em conta que Hyundai Creta",
-      "slug": "volkswagen-derruba-preco-do-t-cross-e-suv-fica-mais-em-conta-que-hyundai-creta",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-20T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/volkswagen-derruba-preco-do-t-cross-e-suv-fica-mais-em-conta-que-hyundai-creta/"
-    },
-    {
-      "title": "Todd Howard abre o bico sobre The Elder Scrolls VI, mas nega Starfield 2.0",
-      "slug": "todd-howard-abre-o-bico-sobre-the-elder-scrolls-vi-mas-nega-starfield-20",
+      "title": "Quanto custaria um Chevrolet Agile hoje, com a inflação?",
+      "slug": "quanto-custaria-um-chevrolet-agile-hoje-com-a-inflacao",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T19:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/todd-howard-abre-o-bico-sobre-the-elder-scrolls-vi-mas-nega-starfield-20/"
-    },
-    {
-      "title": "Por que os apps estão pedindo a confirmação de idade?",
-      "slug": "por-que-os-apps-estao-pedindo-a-confirmacao-de-idade",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-20T19:42:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/por-que-os-apps-estao-pedindo-a-confirmacao-de-idade/"
-    },
-    {
-      "title": "1 bilhão de Androids vulneráveis: como saber se você está em risco",
-      "slug": "1-bilhao-de-androids-vulneraveis-como-saber-se-voce-esta-em-risco",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-20T19:30:00.000Z",
+      "date": "2026-02-20T22:05:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/seguranca/1-bilhao-de-androids-vulneraveis-como-saber-se-voce-esta-em-risco/"
+      "original_url": "https://canaltech.com.br/carros/quanto-custaria-um-chevrolet-agile-hoje-com-a-inflacao/"
     },
     {
-      "title": "Ubisoft demite 40 em estúdio de Splinter Cell, mas garante: o remake vem",
-      "slug": "ubisoft-demite-40-em-estudio-de-splinter-cell-mas-garante-o-remake-vem",
+      "title": "O que é Hardcoding e por que prática \"preguiçosa\" te coloca em risco?",
+      "slug": "o-que-e-hardcoding-e-por-que-pratica-preguicosa-te-coloca-em-risco",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T19:20:00.000Z",
+      "date": "2026-02-20T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ubisoft-demite-40-em-estudio-de-splinter-cell-mas-garante-o-remake-vem/"
+      "original_url": "https://canaltech.com.br/seguranca/o-que-e-hardcoding-e-por-que-pratica-preguicosa-te-coloca-em-risco/"
     },
     {
-      "title": "Gemini 3.1 Pro: o que mudou no novo modelo de IA do Google?",
-      "slug": "gemini-31-pro-o-que-mudou-no-novo-modelo-de-ia-do-google",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-20T19:13:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/gemini-31-pro-o-que-mudou-no-novo-modelo-de-ia-do-google/"
-    },
-    {
-      "title": "Spider-Man 2, Battlefield e Jujutsu Kaisen agitam jogos grátis do fim de semana",
-      "slug": "spider-man-2-battlefield-e-jujutsu-kaisen-agitam-jogos-gratis-do-fim-de-semana",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-20T18:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/spider-man-2-battlefield-e-jujutsu-kaisen-agitam-jogos-gratis-do-fim-de-semana/"
-    },
-    {
-      "title": "A história da computação em nuvem: de servidores compartilhados até a IA",
-      "slug": "a-historia-da-computacao-em-nuvem-de-servidores-compartilhados-ate-a-ia",
+      "title": "Condomínio pode barrar carregador de carro elétrico? Lei em SP reacende debate",
+      "slug": "condominio-pode-barrar-carregador-de-carro-eletrico-lei-em-sp-reacende-debate",
       "topic": "infra-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-20T21:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-20T21:16:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/410814-a-historia-da-computacao-em-nuvem-de-servidores-compartilhados-ate-a-ia.htm"
+      "original_url": "https://canaltech.com.br/colunas/condominio-pode-barrar-carregador-de-carro-eletrico-lei-em-sp-reacende-debate/"
     },
     {
-      "title": "Phil Spencer anuncia aposentadoria no Xbox! Veja quem assume",
-      "slug": "phil-spencer-anuncia-aposentadoria-no-xbox-veja-quem-assume",
+      "title": "Departamento de Segurança dos EUA pede que big techs revelem perfis anti-ICE",
+      "slug": "departamento-de-seguranca-dos-eua-pede-que-big-techs-revelem-perfis-anti-ice",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-20T20:53:39.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-20T21:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503585-phil-spencer-anuncia-aposentadoria-no-xbox-veja-quem-assume.htm"
+      "original_url": "https://canaltech.com.br/seguranca/departamento-de-seguranca-dos-eua-pede-que-big-techs-revelem-perfis-anti-ice/"
     },
     {
-      "title": "Descoberto o primeiro malware que usa IA para funcionar",
-      "slug": "descoberto-o-primeiro-malware-que-usa-ia-para-funcionar",
+      "title": "Play Store: Google explica como usa IA no combate a apps falsos",
+      "slug": "play-store-google-explica-como-usa-ia-no-combate-a-apps-falsos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T20:00:00.000Z",
+      "date": "2026-02-20T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410979-descoberto-o-primeiro-malware-que-usa-ia-para-funcionar.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/410980-play-store-google-explica-como-usa-ia-no-combate-a-apps-falsos.htm"
     },
     {
-      "title": "ShinyHunters ameaça e exige US$ 1,5 milhão de Wynn Resorts, palco de Samsung e Qualcomm na CES",
-      "slug": "shinyhunters-ameaca-e-exige-usdollar-15-milhao-de-wynn-resorts-palco-de-samsung-e-qualcomm-na-ces",
+      "title": "Persona 3 Reload e mais jogos para Switch com até 90% OFF na eShop",
+      "slug": "persona-3-reload-e-mais-jogos-para-switch-com-ate-90percent-off-na-eshop",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T19:56:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411001-shinyhunters-ameaca-e-exige-us-15-milhao-de-wynn-resorts-palco-de-samsung-e-qualcomm-na-ces.htm"
+      "date": "2026-02-20T22:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503583-persona-3-reload-e-mais-jogos-para-switch-com-ate-90-off-na-eshop.htm"
     },
     {
-      "title": "'Guerras não controladas por humanos': ONU criará painel para controlar IAs",
-      "slug": "guerras-nao-controladas-por-humanos-onu-criara-painel-para-controlar-ias",
+      "title": "Final explicado de Sonhos de Trem: Entenda desfecho emocionante do filme indicado ao Oscar",
+      "slug": "final-explicado-de-sonhos-de-trem-entenda-desfecho-emocionante-do-filme-indicado-ao-oscar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T19:30:00.000Z",
+      "date": "2026-02-20T22:15:34.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/410983-guerras-nao-controladas-por-humanos-onu-criara-painel-para-controlar-ias.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603150-final-explicado-de-sonhos-de-trem-entenda-desfecho-emocionante-do-filme-indicado-ao-oscar.htm"
     },
     {
-      "title": "Review: God of War Sons of Sparta seria muito legal de jogar no celular",
-      "slug": "review-god-of-war-sons-of-sparta-seria-muito-legal-de-jogar-no-celular",
+      "title": "Netflix pode aumentar proposta pela compra da Warner",
+      "slug": "netflix-pode-aumentar-proposta-pela-compra-da-warner",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T19:15:24.000Z",
+      "date": "2026-02-20T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503575-review-god-of-war-sons-of-sparta-seria-muito-legal-de-jogar-no-celular.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/410991-netflix-pode-aumentar-proposta-pela-compra-da-warner.htm"
     },
     {
-      "title": "Gamer Festival 2026 na Nuuvem tem jogos com desconto e cupom exclusivo; confira",
-      "slug": "gamer-festival-2026-na-nuuvem-tem-jogos-com-desconto-e-cupom-exclusivo-confira",
+      "title": "Erro em app do PayPal expôs dados de clientes por 6 meses",
+      "slug": "erro-em-app-do-paypal-expos-dados-de-clientes-por-6-meses",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T19:08:00.000Z",
+      "date": "2026-02-20T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503580-gamer-festival-2026-na-nuuvem-tem-jogos-com-desconto-cupom-exclusivo-confira.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/410999-erro-em-app-do-paypal-expos-dados-de-clientes-por-6-meses.htm"
+    },
+    {
+      "title": "Steam recebe 5 jogos grátis nesta semana; veja lista e resgate (20)",
+      "slug": "steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-20",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T21:15:21.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503582-steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-20.htm"
     }
   ]
 }
