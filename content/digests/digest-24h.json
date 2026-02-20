@@ -1,79 +1,169 @@
 {
-  "generated_at": "2026-02-20T11:03:43.159Z",
+  "generated_at": "2026-02-20T13:11:47.847Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 18,
   "posts": [
     {
-      "title": "ONU defende comissão de 'controle humano' da inteligência artificial, mas ideia é rejeitada pelos Estados Unidos",
-      "slug": "onu-defende-comissao-de-controle-humano-da-inteligencia-artificial-mas-ideia-e-rejeitada-pelos-estados-unidos",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-20T10:29:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/20/onu-defende-comissao-de-controle-humano-da-inteligencia-artificial-e-casa-branca-rejeita.ghtml"
-    },
-    {
-      "title": "Meta lembra que site do Messenger ainda existe e decide encerrá-lo",
-      "slug": "meta-lembra-que-site-do-messenger-ainda-existe-e-decide-encerra-lo",
-      "topic": "produtividade-dev",
+      "title": "Bloco de Notas do Windows 11 terá suporte a imagens",
+      "slug": "bloco-de-notas-do-windows-11-tera-suporte-a-imagens",
+      "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-02-20T09:41:59.000Z",
+      "date": "2026-02-20T12:46:22.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/meta-lembra-que-site-do-messenger-existe-e-decide-encerra-lo/"
+      "original_url": "https://tecnoblog.net/noticias/bloco-de-notas-do-windows-11-tera-suporte-a-imagens/"
     },
     {
-      "title": "SOS Emergência do iPhone ajuda em resgate após avalanche",
-      "slug": "sos-emergencia-do-iphone-ajuda-em-resgate-apos-avalanche",
+      "title": "O que é firmware? Entenda a função dessa classe específica de software",
+      "slug": "o-que-e-firmware-entenda-a-funcao-dessa-classe-especifica-de-software",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-20T12:39:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/o-que-e-firmware/"
+    },
+    {
+      "title": "Criador de God of War detona Sons of Sparta: \"Não gostei. Não recomendo\"",
+      "slug": "criador-de-god-of-war-detona-sons-of-sparta-nao-gostei-nao-recomendo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T10:52:12.000Z",
+      "date": "2026-02-20T12:50:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/sos-emergencia-do-iphone-ajuda-em-resgate-apos-avalanche/"
+      "original_url": "https://canaltech.com.br/games/criador-de-god-of-war-detona-sons-of-sparta-nao-gostei-nao-recomendo/"
     },
     {
-      "title": "O que significam os nomes dos SUVs da Honda?",
-      "slug": "o-que-significam-os-nomes-dos-suvs-da-honda",
+      "title": "Adidas pode ter sofrido vazamento de 815 mil registros após ataque hacker",
+      "slug": "adidas-pode-ter-sofrido-vazamento-de-815-mil-registros-apos-ataque-hacker",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T09:45:00.000Z",
+      "date": "2026-02-20T12:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/o-que-significam-os-nomes-dos-suvs-da-honda/"
+      "original_url": "https://canaltech.com.br/seguranca/adidas-pode-ter-sofrido-vazamento-de-815-mil-registros-apos-ataque-hacker/"
     },
     {
-      "title": "Onde assistir Valor Sentimental? Conheça o filme que pode desbancar O Agente Secreto",
-      "slug": "onde-assistir-valor-sentimental-conheca-o-filme-que-pode-desbancar-o-agente-secreto",
+      "title": "Samsung revela a nova Bixby da One UI 8.5; veja o que vai mudar",
+      "slug": "samsung-revela-a-nova-bixby-da-one-ui-85-veja-o-que-vai-mudar",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-20T12:31:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/samsung-revela-a-nova-bixby-da-one-ui-85-veja-o-que-vai-mudar/"
+    },
+    {
+      "title": "Fire TV da Amazon vai ficar mais rápida com update; veja se a sua está na lista",
+      "slug": "fire-tv-da-amazon-vai-ficar-mais-rapida-com-update-veja-se-a-sua-esta-na-lista",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-20T12:18:39.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/tv/fire-tv-da-amazon-vai-ficar-mais-rapida-com-update-veja-se-a-sua-esta-na-lista/"
+    },
+    {
+      "title": "Ryzen 7 7800X3D: O processador \"rei dos games\" está por R$ 1.999,99 na Amazon",
+      "slug": "ryzen-7-7800x3d-o-processador-rei-dos-games-esta-por-rdollar-199999-na-amazon",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-20T12:18:02.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/ryzen-7-7800x3d-o-processador-rei-dos-games-esta-por-r-199999-na-amazon/"
+    },
+    {
+      "title": "Fim do minimalismo? Nova regra na China mira \"telas gigantes\" nos carros",
+      "slug": "fim-do-minimalismo-nova-regra-na-china-mira-telas-gigantes-nos-carros",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-20T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/fim-do-minimalismo-nova-regra-na-china-mira-telas-gigantes-nos-carros/"
+    },
+    {
+      "title": "Nintendo confirma lançamento de Pokémon FireRed e LeafGreen no Switch",
+      "slug": "nintendo-confirma-lancamento-de-pokemon-firered-e-leafgreen-no-switch",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-20T11:57:59.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/nintendo-confirma-lancamento-de-pokemon-firered-e-leafgreen-no-switch/"
+    },
+    {
+      "title": "E-mails vazados sugerem que a Amazon monitora clientes por câmeras inteligentes",
+      "slug": "e-mails-vazados-sugerem-que-a-amazon-monitora-clientes-por-cameras-inteligentes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-20T11:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/e-mails-vazados-sugerem-que-a-amazon-monitora-clientes-por-cameras-inteligentes/"
+    },
+    {
+      "title": "Polícia apreende carga de iPhones e MacBooks contrabandeados do Paraguai",
+      "slug": "policia-apreende-carga-de-iphones-e-macbooks-contrabandeados-do-paraguai",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-20T11:29:51.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/policia-apreende-carga-de-iphones-e-macbooks-contrabandeados-do-paraguai/"
+    },
+    {
+      "title": "Brigados, donos do ChatGPT e Claude têm momento bizarro em evento",
+      "slug": "brigados-donos-do-chatgpt-e-claude-tem-momento-bizarro-em-evento",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T10:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603138-onde-assistir-valor-sentimental-conheca-o-filme-que-pode-desbancar-o-agente-secreto.htm"
-    },
-    {
-      "title": "Moltbook: o que é a rede social de IAs que conversam entre si",
-      "slug": "moltbook-o-que-e-a-rede-social-de-ias-que-conversam-entre-si",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-20T10:15:00.000Z",
+      "date": "2026-02-20T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/redes-sociais/410702-moltbook-o-que-e-a-rede-social-de-ias-que-conversam-entre-si.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/410908-brigados-donos-do-chatgpt-e-claude-tem-momento-bizarro-em-evento.htm"
     },
     {
-      "title": "Palpites para Aston Villa x Leeds United: Análises e Onde Assistir (21/02/2026)",
-      "slug": "palpites-para-aston-villa-x-leeds-united-analises-e-onde-assistir-21022026",
-      "topic": "seguranca-ia",
+      "title": "Unfamiliar vai ter segunda temporada na Netflix? Veja o que dizem os criadores",
+      "slug": "unfamiliar-vai-ter-segunda-temporada-na-netflix-veja-o-que-dizem-os-criadores",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410851-palpites-para-aston-villa-x-leeds-united-analises-e-onde-assistir-21022026.htm"
-    },
-    {
-      "title": "Cash Out Bet365: o que é, como funciona e quando usar o encerramento antecipado",
-      "slug": "cash-out-bet365-o-que-e-como-funciona-e-quando-usar-o-encerramento-antecipado",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-20T10:00:00.000Z",
+      "date": "2026-02-20T12:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410839-cash-out-bet365-o-que-e-como-funciona-e-quando-usar-o-encerramento-antecipado.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603141-unfamiliar-vai-ter-segunda-temporada-na-netflix-veja-o-que-dizem-os-criadores.htm"
+    },
+    {
+      "title": "'Será considerado desacato': juíza proíbe Zuckerberg de gravar depoimento com óculos inteligentes",
+      "slug": "sera-considerado-desacato-juiza-proibe-zuckerberg-de-gravar-depoimento-com-oculos-inteligentes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T12:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/410907-sera-considerado-desacato-juiza-proibe-zuckerberg-de-gravar-depoimento-com-oculos-inteligentes.htm"
+    },
+    {
+      "title": "Meta planeja lançar smartwatch com IA e recursos fitness, aponta rumor",
+      "slug": "meta-planeja-lancar-smartwatch-com-ia-e-recursos-fitness-aponta-rumor",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-20T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/410899-meta-planeja-lancar-smartwatch-com-ia-e-recursos-fitness-aponta-rumor.htm"
+    },
+    {
+      "title": "Review: Yakuza Kiwami 3 & Dark Ties mantém a consistência da série",
+      "slug": "review-yakuza-kiwami-3-and-dark-ties-mantem-a-consistencia-da-serie",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-20T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503562-review-yakuza-kiwami-3-dark-ties-mantem-a-consistencia-da-serie.htm"
+    },
+    {
+      "title": "Instagram e outras redes viciam? O que dizem especialistas sobre os riscos",
+      "slug": "instagram-e-outras-redes-viciam-o-que-dizem-especialistas-sobre-os-riscos",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-20T11:50:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/02/20/instagram-e-outras-redes-viciam-o-que-dizem-especialistas-sobre-os-riscos.htm"
+    },
+    {
+      "title": "Após vazamento de hidrogênio, Nasa completa teste antes de lançar Artemis 2",
+      "slug": "apos-vazamento-de-hidrogenio-nasa-completa-teste-antes-de-lancar-artemis-2",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-20T11:34:52.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/20/apos-vazamento-de-hidrogenio-nasa-completa-teste-antes-de-lancar-artemis-2.htm"
     }
   ]
 }
