@@ -1,52 +1,70 @@
 {
-  "generated_at": "2026-02-21T13:02:48.021Z",
+  "generated_at": "2026-02-21T15:04:07.524Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 7,
   "posts": [
     {
-      "title": "5 jogos que estão a mais tempo em Acesso Antecipado no Steam",
-      "slug": "5-jogos-que-estao-a-mais-tempo-em-acesso-antecipado-no-steam",
+      "title": "O que é o mercado RedVDS?",
+      "slug": "o-que-e-o-mercado-redvds",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-21T12:30:00.000Z",
+      "date": "2026-02-21T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/jogos-a-mais-tempo-em-acesso-antecipado-steam/"
+      "original_url": "https://canaltech.com.br/seguranca/o-que-e-o-mercado-redvds/"
     },
     {
-      "title": "O que é um carro de tração dianteira?",
-      "slug": "o-que-e-um-carro-de-tracao-dianteira",
+      "title": "10 apps de produtividade que não podem faltar no seu celular ou tablet em 2026",
+      "slug": "10-apps-de-produtividade-que-nao-podem-faltar-no-seu-celular-ou-tablet-em-2026",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-21T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/10-apps-de-produtividade-que-nao-podem-faltar-no-seu-celular-ou-tablet-em-2026/"
+    },
+    {
+      "title": "Como criar apresentações com o Nano Banana Pro no Manus AI?",
+      "slug": "como-criar-apresentacoes-com-o-nano-banana-pro-no-manus-ai",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-21T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-criar-apresentacoes-com-o-nano-banana-pro-no-manus-ai/"
+    },
+    {
+      "title": "EUA preparam site que libera conteúdos 'censurados' no Brasil e outros países",
+      "slug": "eua-preparam-site-que-libera-conteudos-censurados-no-brasil-e-outros-paises",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-21T12:00:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-21T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/o-que-e-um-carro-de-tracao-dianteira/"
+      "original_url": "https://www.tecmundo.com.br/mercado/410996-eua-preparam-site-que-libera-conteudos-censurados-no-brasil-e-outros-paises.htm"
     },
     {
-      "title": "Máquina de lavar portátil: 3 opções por menos de R$ 200 para comprar agora",
-      "slug": "maquina-de-lavar-portatil-3-opcoes-por-menos-de-rdollar-200-para-comprar-agora",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-21T11:30:00.000Z",
+      "title": "F1 25 e mais jogos para PC com até 90% OFF na Steam",
+      "slug": "f1-25-e-mais-jogos-para-pc-com-ate-90percent-off-na-steam",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-21T14:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/eletro/maquina-de-lavar-portatil-3-opcoes-por-menos-de-r-200-para-comprar-agora/"
+      "original_url": "https://www.tecmundo.com.br/voxel/503586-f1-25-e-mais-jogos-para-pc-com-ate-90-off-na-steam.htm"
     },
     {
-      "title": "Que fim levou o Blu-ray, o padrão de mídia física para alta definição?",
-      "slug": "que-fim-levou-o-blu-ray-o-padrao-de-midia-fisica-para-alta-definicao",
-      "topic": "geral",
+      "title": "Cafeteira Dolce Gusto Mini Me com 30 cápsulas de brinde por apenas R$370; confira",
+      "slug": "cafeteira-dolce-gusto-mini-me-com-30-capsulas-de-brinde-por-apenas-rdollar370-confira",
+      "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-02-21T12:00:00.000Z",
+      "date": "2026-02-21T13:36:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410789-que-fim-levou-o-blu-ray-o-padrao-de-midia-fisica-para-alta-definicao.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411000-cafeteira-dolce-gusto-mini-me-com-30-capsulas-de-brinde-por-apenas-r370-confira.htm"
     },
     {
-      "title": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile (21)",
-      "slug": "5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-21",
+      "title": "Dunk e Egg, de O Cavaleiro dos Sete Reinos, já foram mencionados em Game of Thrones! Confira a lista",
+      "slug": "dunk-e-egg-de-o-cavaleiro-dos-sete-reinos-ja-foram-mencionados-em-game-of-thrones-confira-a-lista",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-21T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503584-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-21.htm"
+      "date": "2026-02-21T13:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603164-dunk-e-egg-de-o-cavaleiro-dos-sete-reinos-ja-foram-mencionados-em-game-of-thrones-confira-a-lista.htm"
     }
   ]
 }
