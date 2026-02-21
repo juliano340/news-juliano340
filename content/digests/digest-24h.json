@@ -1,52 +1,61 @@
 {
-  "generated_at": "2026-02-21T17:03:07.469Z",
+  "generated_at": "2026-02-21T19:03:51.007Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 6,
   "posts": [
     {
-      "title": "Crise das memórias em 2026: como escapar do preço inflado e montar um PC",
-      "slug": "crise-das-memorias-em-2026-como-escapar-do-preco-inflado-e-montar-um-pc",
+      "title": "5 carros para comprar por até R$ 50 mil em 2026",
+      "slug": "5-carros-para-comprar-por-ate-rdollar-50-mil-em-2026",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-21T17:00:00.000Z",
+      "date": "2026-02-21T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/crise-das-memorias-como-escapar-do-preco-inflado-e-montar-um-pc/"
+      "original_url": "https://canaltech.com.br/carros/5-carros-para-comprar-por-ate-r-50-mil-em-2026/"
     },
     {
-      "title": "Você sabia que 95% do desenvolvimento de Silksong foi terceirizado?",
-      "slug": "voce-sabia-que-95percent-do-desenvolvimento-de-silksong-foi-terceirizado",
-      "topic": "geral",
+      "title": "3 coisas que você perde ao usar o YouTube Music de graça",
+      "slug": "3-coisas-que-voce-perde-ao-usar-o-youtube-music-de-graca",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-21T16:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/voce-sabia-que-95-do-desenvolvimento-de-silksong-foi-terceirizado/"
+      "date": "2026-02-21T18:00:00.000Z",
+      "editorial_score": 85,
+      "original_url": "https://canaltech.com.br/apps/3-coisas-que-voce-perde-ao-usar-o-youtube-music-de-graca/"
     },
     {
-      "title": "Resident Evil Requiem: Capcom tomará medidas rigorosas e pede que fãs não compartilhem spoilers",
-      "slug": "resident-evil-requiem-capcom-tomara-medidas-rigorosas-e-pede-que-fas-nao-compartilhem-spoilers",
+      "title": "Hamnet: os segredos históricos escondidos no filme",
+      "slug": "hamnet-os-segredos-historicos-escondidos-no-filme",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-21T16:15:00.000Z",
+      "date": "2026-02-21T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503578-resident-evil-requiem-capcom-tomara-medidas-rigorosas-e-pede-que-fas-nao-compartilhem-spoilers.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603145-hamnet-os-segredos-historicos-escondidos-no-filme.htm"
     },
     {
-      "title": "Por Onde anda Mark Sheppard, o Crowley de Supernatural",
-      "slug": "por-onde-anda-mark-sheppard-o-crowley-de-supernatural",
+      "title": "Xbox Game Pass recebe The Witcher 3 e mais jogos de peso esta semana! Confira os lançamentos (21)",
+      "slug": "xbox-game-pass-recebe-the-witcher-3-e-mais-jogos-de-peso-esta-semana-confira-os-lancamentos-21",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-21T15:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603152-por-onde-anda-mark-sheppard-o-crowley-de-supernatural.htm"
+      "date": "2026-02-21T18:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503579-xbox-game-pass-recebe-the-witcher-3-e-mais-jogos-de-peso-esta-semana-confira-os-lancamentos-21.htm"
     },
     {
-      "title": "LEGO em oferta a partir de R$ 48 com cupom de 12% OFF por tempo limitado no Mercado Livre",
-      "slug": "lego-em-oferta-a-partir-de-rdollar-48-com-cupom-de-12percent-off-por-tempo-limitado-no-mercado-livre",
+      "title": "Paradise: relembre tudo que aconteceu na série antes da temporada 2",
+      "slug": "paradise-relembre-tudo-que-aconteceu-na-serie-antes-da-temporada-2",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-21T15:06:00.000Z",
+      "date": "2026-02-21T17:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603180-lego-em-oferta-a-partir-de-r-48-com-cupom-de-12-off-por-tempo-limitado-no-mercado-livre.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603157-paradise-relembre-tudo-que-aconteceu-na-serie-antes-da-temporada-2.htm"
+    },
+    {
+      "title": "Artemis 2: Nasa adia lançamento de missão à Lua previsto para março",
+      "slug": "artemis-2-nasa-adia-lancamento-de-missao-a-lua-previsto-para-marco",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-21T18:40:52.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/21/artemis-2-nasa-adia-lancamento-de-missao-a-lua-previsto-para-marco.htm"
     }
   ]
 }

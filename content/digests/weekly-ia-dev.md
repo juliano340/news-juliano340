@@ -1,9 +1,10 @@
 # Weekly IA para Devs - 2026-02-21
 
-Gerado em 2026-02-21T17:03:07.469Z
+Gerado em 2026-02-21T19:03:51.007Z
 
-- [Crise das memórias em 2026: como escapar do preço inflado e montar um PC](https://canaltech.com.br/hardware/crise-das-memorias-como-escapar-do-preco-inflado-e-montar-um-pc/) | topico: geral | score: 100
-- [Você sabia que 95% do desenvolvimento de Silksong foi terceirizado?](https://canaltech.com.br/games/voce-sabia-que-95-do-desenvolvimento-de-silksong-foi-terceirizado/) | topico: geral | score: 92
-- [Resident Evil Requiem: Capcom tomará medidas rigorosas e pede que fãs não compartilhem spoilers](https://www.tecmundo.com.br/voxel/503578-resident-evil-requiem-capcom-tomara-medidas-rigorosas-e-pede-que-fas-nao-compartilhem-spoilers.htm) | topico: geral | score: 100
-- [Por Onde anda Mark Sheppard, o Crowley de Supernatural](https://www.tecmundo.com.br/minha-serie/603152-por-onde-anda-mark-sheppard-o-crowley-de-supernatural.htm) | topico: geral | score: 92
-- [LEGO em oferta a partir de R$ 48 com cupom de 12% OFF por tempo limitado no Mercado Livre](https://www.tecmundo.com.br/minha-serie/603180-lego-em-oferta-a-partir-de-r-48-com-cupom-de-12-off-por-tempo-limitado-no-mercado-livre.htm) | topico: geral | score: 92
+- [5 carros para comprar por até R$ 50 mil em 2026](https://canaltech.com.br/carros/5-carros-para-comprar-por-ate-r-50-mil-em-2026/) | topico: geral | score: 100
+- [3 coisas que você perde ao usar o YouTube Music de graça](https://canaltech.com.br/apps/3-coisas-que-voce-perde-ao-usar-o-youtube-music-de-graca/) | topico: produtividade-dev | score: 85
+- [Hamnet: os segredos históricos escondidos no filme](https://www.tecmundo.com.br/minha-serie/603145-hamnet-os-segredos-historicos-escondidos-no-filme.htm) | topico: geral | score: 100
+- [Xbox Game Pass recebe The Witcher 3 e mais jogos de peso esta semana! Confira os lançamentos (21)](https://www.tecmundo.com.br/voxel/503579-xbox-game-pass-recebe-the-witcher-3-e-mais-jogos-de-peso-esta-semana-confira-os-lancamentos-21.htm) | topico: geral | score: 100
+- [Paradise: relembre tudo que aconteceu na série antes da temporada 2](https://www.tecmundo.com.br/minha-serie/603157-paradise-relembre-tudo-que-aconteceu-na-serie-antes-da-temporada-2.htm) | topico: geral | score: 92
+- [Artemis 2: Nasa adia lançamento de missão à Lua previsto para março](https://www.uol.com.br/tilt/noticias/redacao/2026/02/21/artemis-2-nasa-adia-lancamento-de-missao-a-lua-previsto-para-marco.htm) | topico: geral | score: 100
