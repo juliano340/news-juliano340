@@ -1,6 +1,6 @@
 {
-  "slug": "10-noticias-mais-importantes-da-semana-1602-a-2002",
-  "generated_at": "2026-02-21T11:03:55.296Z",
+  "slug": "celular-gamer-aguenta-quanto-tempo-longe-da-tomada-testamos-em-uso-real",
+  "generated_at": "2026-02-21T11:02:21.887Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 406,
+      "words": 347,
       "min": 220
     },
     {

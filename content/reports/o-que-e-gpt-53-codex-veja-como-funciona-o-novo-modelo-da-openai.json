@@ -1,6 +1,6 @@
 {
-  "slug": "10-noticias-mais-importantes-da-semana-1602-a-2002",
-  "generated_at": "2026-02-21T11:03:55.296Z",
+  "slug": "o-que-e-gpt-53-codex-veja-como-funciona-o-novo-modelo-da-openai",
+  "generated_at": "2026-02-21T11:01:21.111Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 406,
+      "words": 318,
       "min": 220
     },
     {
