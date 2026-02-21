@@ -1,43 +1,16 @@
 {
-  "generated_at": "2026-02-21T21:07:01.378Z",
+  "generated_at": "2026-02-21T23:01:38.730Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 1,
   "posts": [
     {
-      "title": "Ar condicionado faz mal para a saúde? Entenda os riscos reais",
-      "slug": "ar-condicionado-faz-mal-para-a-saude-entenda-os-riscos-reais",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-21T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/ar-condicionado-faz-mal-para-a-saude-entenda-os-riscos-reais/"
-    },
-    {
-      "title": "Drift no controle: por que acontece, como diagnosticar e quais joysticks comprar",
-      "slug": "drift-no-controle-por-que-acontece-como-diagnosticar-e-quais-joysticks-comprar",
+      "title": "Por que os recursos do DualSense no PC só funcionam com o cabo?",
+      "slug": "por-que-os-recursos-do-dualsense-no-pc-so-funcionam-com-o-cabo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-21T20:00:00.000Z",
+      "date": "2026-02-21T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/drift-no-controle-por-que-acontece-como-diagnosticar-e-quais-joysticks-comprar/"
-    },
-    {
-      "title": "Mortal Kombat rouba a cena nas Olimpíadas com patinadores de Sub-Zero e Kitana",
-      "slug": "mortal-kombat-rouba-a-cena-nas-olimpiadas-com-patinadores-de-sub-zero-e-kitana",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-21T20:45:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503588-mortal-kombat-rouba-a-cena-nas-olimpiadas-com-patinadores-de-sub-zero-e-kitana.htm"
-    },
-    {
-      "title": "'Nunca teremos Bloodborne Remake': Fãs lamentam fechamento da Bluepoint pela Sony",
-      "slug": "nunca-teremos-bloodborne-remake-fas-lamentam-fechamento-da-bluepoint-pela-sony",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-21T20:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503576-nunca-teremos-bloodborne-remake-fas-lamentam-fechamento-da-bluepoint-pela-sony.htm"
+      "original_url": "https://canaltech.com.br/games/por-que-os-recursos-do-dualsense-no-pc-so-funcionam-com-o-cabo/"
     }
   ]
 }
