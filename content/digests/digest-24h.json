@@ -1,61 +1,43 @@
 {
-  "generated_at": "2026-02-21T19:03:51.007Z",
+  "generated_at": "2026-02-21T21:07:01.378Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 4,
   "posts": [
     {
-      "title": "5 carros para comprar por até R$ 50 mil em 2026",
-      "slug": "5-carros-para-comprar-por-ate-rdollar-50-mil-em-2026",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-21T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/5-carros-para-comprar-por-ate-r-50-mil-em-2026/"
-    },
-    {
-      "title": "3 coisas que você perde ao usar o YouTube Music de graça",
-      "slug": "3-coisas-que-voce-perde-ao-usar-o-youtube-music-de-graca",
+      "title": "Ar condicionado faz mal para a saúde? Entenda os riscos reais",
+      "slug": "ar-condicionado-faz-mal-para-a-saude-entenda-os-riscos-reais",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-21T18:00:00.000Z",
-      "editorial_score": 85,
-      "original_url": "https://canaltech.com.br/apps/3-coisas-que-voce-perde-ao-usar-o-youtube-music-de-graca/"
+      "date": "2026-02-21T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/ar-condicionado-faz-mal-para-a-saude-entenda-os-riscos-reais/"
     },
     {
-      "title": "Hamnet: os segredos históricos escondidos no filme",
-      "slug": "hamnet-os-segredos-historicos-escondidos-no-filme",
+      "title": "Drift no controle: por que acontece, como diagnosticar e quais joysticks comprar",
+      "slug": "drift-no-controle-por-que-acontece-como-diagnosticar-e-quais-joysticks-comprar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-21T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/drift-no-controle-por-que-acontece-como-diagnosticar-e-quais-joysticks-comprar/"
+    },
+    {
+      "title": "Mortal Kombat rouba a cena nas Olimpíadas com patinadores de Sub-Zero e Kitana",
+      "slug": "mortal-kombat-rouba-a-cena-nas-olimpiadas-com-patinadores-de-sub-zero-e-kitana",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-21T19:00:00.000Z",
+      "date": "2026-02-21T20:45:58.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603145-hamnet-os-segredos-historicos-escondidos-no-filme.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503588-mortal-kombat-rouba-a-cena-nas-olimpiadas-com-patinadores-de-sub-zero-e-kitana.htm"
     },
     {
-      "title": "Xbox Game Pass recebe The Witcher 3 e mais jogos de peso esta semana! Confira os lançamentos (21)",
-      "slug": "xbox-game-pass-recebe-the-witcher-3-e-mais-jogos-de-peso-esta-semana-confira-os-lancamentos-21",
+      "title": "'Nunca teremos Bloodborne Remake': Fãs lamentam fechamento da Bluepoint pela Sony",
+      "slug": "nunca-teremos-bloodborne-remake-fas-lamentam-fechamento-da-bluepoint-pela-sony",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-21T18:15:00.000Z",
+      "date": "2026-02-21T20:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503579-xbox-game-pass-recebe-the-witcher-3-e-mais-jogos-de-peso-esta-semana-confira-os-lancamentos-21.htm"
-    },
-    {
-      "title": "Paradise: relembre tudo que aconteceu na série antes da temporada 2",
-      "slug": "paradise-relembre-tudo-que-aconteceu-na-serie-antes-da-temporada-2",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-21T17:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603157-paradise-relembre-tudo-que-aconteceu-na-serie-antes-da-temporada-2.htm"
-    },
-    {
-      "title": "Artemis 2: Nasa adia lançamento de missão à Lua previsto para março",
-      "slug": "artemis-2-nasa-adia-lancamento-de-missao-a-lua-previsto-para-marco",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-21T18:40:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/21/artemis-2-nasa-adia-lancamento-de-missao-a-lua-previsto-para-marco.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503576-nunca-teremos-bloodborne-remake-fas-lamentam-fechamento-da-bluepoint-pela-sony.htm"
     }
   ]
 }
