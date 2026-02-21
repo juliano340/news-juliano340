@@ -1,70 +1,52 @@
 {
-  "generated_at": "2026-02-21T15:04:07.524Z",
+  "generated_at": "2026-02-21T17:03:07.469Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 5,
   "posts": [
     {
-      "title": "O que é o mercado RedVDS?",
-      "slug": "o-que-e-o-mercado-redvds",
+      "title": "Crise das memórias em 2026: como escapar do preço inflado e montar um PC",
+      "slug": "crise-das-memorias-em-2026-como-escapar-do-preco-inflado-e-montar-um-pc",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-21T15:00:00.000Z",
+      "date": "2026-02-21T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/o-que-e-o-mercado-redvds/"
+      "original_url": "https://canaltech.com.br/hardware/crise-das-memorias-como-escapar-do-preco-inflado-e-montar-um-pc/"
     },
     {
-      "title": "10 apps de produtividade que não podem faltar no seu celular ou tablet em 2026",
-      "slug": "10-apps-de-produtividade-que-nao-podem-faltar-no-seu-celular-ou-tablet-em-2026",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-21T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/10-apps-de-produtividade-que-nao-podem-faltar-no-seu-celular-ou-tablet-em-2026/"
-    },
-    {
-      "title": "Como criar apresentações com o Nano Banana Pro no Manus AI?",
-      "slug": "como-criar-apresentacoes-com-o-nano-banana-pro-no-manus-ai",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-21T13:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-criar-apresentacoes-com-o-nano-banana-pro-no-manus-ai/"
-    },
-    {
-      "title": "EUA preparam site que libera conteúdos 'censurados' no Brasil e outros países",
-      "slug": "eua-preparam-site-que-libera-conteudos-censurados-no-brasil-e-outros-paises",
+      "title": "Você sabia que 95% do desenvolvimento de Silksong foi terceirizado?",
+      "slug": "voce-sabia-que-95percent-do-desenvolvimento-de-silksong-foi-terceirizado",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-21T15:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/410996-eua-preparam-site-que-libera-conteudos-censurados-no-brasil-e-outros-paises.htm"
-    },
-    {
-      "title": "F1 25 e mais jogos para PC com até 90% OFF na Steam",
-      "slug": "f1-25-e-mais-jogos-para-pc-com-ate-90percent-off-na-steam",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-21T14:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-21T16:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503586-f1-25-e-mais-jogos-para-pc-com-ate-90-off-na-steam.htm"
+      "original_url": "https://canaltech.com.br/games/voce-sabia-que-95-do-desenvolvimento-de-silksong-foi-terceirizado/"
     },
     {
-      "title": "Cafeteira Dolce Gusto Mini Me com 30 cápsulas de brinde por apenas R$370; confira",
-      "slug": "cafeteira-dolce-gusto-mini-me-com-30-capsulas-de-brinde-por-apenas-rdollar370-confira",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-21T13:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411000-cafeteira-dolce-gusto-mini-me-com-30-capsulas-de-brinde-por-apenas-r370-confira.htm"
-    },
-    {
-      "title": "Dunk e Egg, de O Cavaleiro dos Sete Reinos, já foram mencionados em Game of Thrones! Confira a lista",
-      "slug": "dunk-e-egg-de-o-cavaleiro-dos-sete-reinos-ja-foram-mencionados-em-game-of-thrones-confira-a-lista",
+      "title": "Resident Evil Requiem: Capcom tomará medidas rigorosas e pede que fãs não compartilhem spoilers",
+      "slug": "resident-evil-requiem-capcom-tomara-medidas-rigorosas-e-pede-que-fas-nao-compartilhem-spoilers",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-21T13:15:00.000Z",
+      "date": "2026-02-21T16:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503578-resident-evil-requiem-capcom-tomara-medidas-rigorosas-e-pede-que-fas-nao-compartilhem-spoilers.htm"
+    },
+    {
+      "title": "Por Onde anda Mark Sheppard, o Crowley de Supernatural",
+      "slug": "por-onde-anda-mark-sheppard-o-crowley-de-supernatural",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-21T15:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603164-dunk-e-egg-de-o-cavaleiro-dos-sete-reinos-ja-foram-mencionados-em-game-of-thrones-confira-a-lista.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603152-por-onde-anda-mark-sheppard-o-crowley-de-supernatural.htm"
+    },
+    {
+      "title": "LEGO em oferta a partir de R$ 48 com cupom de 12% OFF por tempo limitado no Mercado Livre",
+      "slug": "lego-em-oferta-a-partir-de-rdollar-48-com-cupom-de-12percent-off-por-tempo-limitado-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-21T15:06:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603180-lego-em-oferta-a-partir-de-r-48-com-cupom-de-12-off-por-tempo-limitado-no-mercado-livre.htm"
     }
   ]
 }
