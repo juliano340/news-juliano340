@@ -1,43 +1,52 @@
 {
-  "generated_at": "2026-02-21T01:02:17.124Z",
+  "generated_at": "2026-02-21T09:03:00.314Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 5,
   "posts": [
     {
-      "title": "Review Cairn | Escalar em um videogame nunca foi tão divertido",
-      "slug": "review-cairn-or-escalar-em-um-videogame-nunca-foi-tao-divertido",
+      "title": "Notebooks com IA vão ficar mais caros? O que está acontecendo no mercado",
+      "slug": "notebooks-com-ia-vao-ficar-mais-caros-o-que-esta-acontecendo-no-mercado",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-20T23:30:00.000Z",
+      "date": "2026-02-21T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/review-cairn/"
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/notebooks-com-ia-vao-ficar-mais-caros-o-que-esta-acontecendo-no-mercado-6367/"
     },
     {
-      "title": "Como um post mentiroso virou \"verdade\" para o ChatGPT e o Google",
-      "slug": "como-um-post-mentiroso-virou-verdade-para-o-chatgpt-e-o-google",
-      "topic": "geral",
+      "title": "Palpites para Barcelona x Levante: Análises e Onde Assistir (22/02/2026)",
+      "slug": "palpites-para-barcelona-x-levante-analises-e-onde-assistir-22022026",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-21T00:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410998-como-um-post-mentiroso-virou-verdade-para-o-chatgpt-e-o-google.htm"
+      "date": "2026-02-21T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411008-palpites-para-barcelona-x-levante-analises-e-onde-assistir-22022026.htm"
     },
     {
-      "title": "Preview: Arkheron é um multiplayer feito sob medida para fãs de Diablo e Path of Exile",
-      "slug": "preview-arkheron-e-um-multiplayer-feito-sob-medida-para-fas-de-diablo-e-path-of-exile",
-      "topic": "geral",
+      "title": "Palpites para Tottenham x Arsenal: Análises e Onde Assistir (22/02/2026)",
+      "slug": "palpites-para-tottenham-x-arsenal-analises-e-onde-assistir-22022026",
+      "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-02-21T00:15:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503574-preview-arkheron-e-um-multiplayer-feito-sob-medida-para-fas-de-diablo-e-path-of-exile.htm"
+      "date": "2026-02-21T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411005-palpites-para-tottenham-x-arsenal-analises-e-onde-assistir-22022026.htm"
     },
     {
-      "title": "Que horas estreia o episódio 6 de Cavaleiro dos Sete Reinos? Veja onde assistir ao final",
-      "slug": "que-horas-estreia-o-episodio-6-de-cavaleiro-dos-sete-reinos-veja-onde-assistir-ao-final",
+      "title": "Palpites para Bragantino x São Paulo: Análises e Onde Assistir (21/02/2026)",
+      "slug": "palpites-para-bragantino-x-sao-paulo-analises-e-onde-assistir-21022026",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-20T23:15:04.000Z",
+      "date": "2026-02-21T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603160-que-horas-estreia-o-episodio-6-de-cavaleiro-dos-sete-reinos-veja-onde-assistir-ao-final.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/410913-palpites-para-bragantino-x-sao-paulo-analises-e-onde-assistir-21022026.htm"
+    },
+    {
+      "title": "Como 600 drones formaram o rosto de Preta Gil no céu de Salvador",
+      "slug": "como-600-drones-formaram-o-rosto-de-preta-gil-no-ceu-de-salvador",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-21T07:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/21/como-600-drones-formaram-o-rosto-de-preta-gil-no-ceu-de-salvador.htm"
     }
   ]
 }
