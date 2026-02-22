@@ -1,79 +1,61 @@
 {
-  "generated_at": "2026-02-22T15:05:47.104Z",
+  "generated_at": "2026-02-22T17:04:49.456Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 6,
   "posts": [
     {
-      "title": "TikTok reúne perfis que exaltam Hitler e nazismo com códigos e posts explícitos",
-      "slug": "tiktok-reune-perfis-que-exaltam-hitler-e-nazismo-com-codigos-e-posts-explicitos",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-22T14:01:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/22/tiktok-reune-perfis-que-exaltam-hitler-e-nazismo-com-codigos-e-posts-explicitos.ghtml"
-    },
-    {
-      "title": "Remetente legítimo, conteúdo falso: como identificar golpes dentro do Teams",
-      "slug": "remetente-legitimo-conteudo-falso-como-identificar-golpes-dentro-do-teams",
+      "title": "Notebook gamer em 2026: como comprar sem cair em pegadinhas",
+      "slug": "notebook-gamer-em-2026-como-comprar-sem-cair-em-pegadinhas",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-22T15:00:00.000Z",
+      "date": "2026-02-22T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/remetente-legitimo-conteudo-falso-como-identificar-golpes-dentro-do-teams/"
+      "original_url": "https://canaltech.com.br/notebook/notebook-gamer-em-2026-como-comprar-sem-cair-em-pegadinhas/"
     },
     {
-      "title": "iOS 26.4: veja o que esperar da próxima atualização do iPhone",
-      "slug": "ios-264-veja-o-que-esperar-da-proxima-atualizacao-do-iphone",
-      "topic": "llms",
+      "title": "Por que a CPU do PS3 aprisionou jogos como Metal Gear Solid 4 por tantos anos?",
+      "slug": "por-que-a-cpu-do-ps3-aprisionou-jogos-como-metal-gear-solid-4-por-tantos-anos",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-22T14:00:00.000Z",
+      "date": "2026-02-22T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/ios-264-veja-o-que-esperar-da-proxima-atualizacao-do-iphone/"
+      "original_url": "https://canaltech.com.br/games/por-que-a-cpu-do-ps3-aprisionou-jogos-como-metal-gear-solid-4-por-tantos-anos/"
     },
     {
-      "title": "12 comandos da Alexa para automatizar luz, ar-condicionado e rotina doméstica",
-      "slug": "12-comandos-da-alexa-para-automatizar-luz-ar-condicionado-e-rotina-domestica",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-22T13:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/12-comandos-da-alexa-para-automatizar-luz-ar-condicionado-e-rotina-domestica/"
-    },
-    {
-      "title": "Avatar e Atlas Fallen de graça, Resident Evil 2 baratinho e mais! Veja as indicações de games da semana",
-      "slug": "avatar-e-atlas-fallen-de-graca-resident-evil-2-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana",
+      "title": "Quando O Morro dos Ventos Uivantes chega ao streaming? Veja previsão",
+      "slug": "quando-o-morro-dos-ventos-uivantes-chega-ao-streaming-veja-previsao",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T14:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503587-avatar-e-atlas-fallen-de-graca-resident-evil-2-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana.htm"
-    },
-    {
-      "title": "Celular explode e salva mecânico de ataque de cães no Paraná",
-      "slug": "celular-explode-e-salva-mecanico-de-ataque-de-caes-no-parana",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-22T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/410900-celular-explode-e-salva-mecanico-de-ataque-de-caes-no-parana.htm"
-    },
-    {
-      "title": "8 filmes e séries com Wagner Moura para assistir na Netflix",
-      "slug": "8-filmes-e-series-com-wagner-moura-para-assistir-na-netflix",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-22T13:15:00.000Z",
+      "date": "2026-02-22T16:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603085-8-filmes-e-series-com-wagner-moura-para-assistir-na-netflix.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603151-quando-o-morro-dos-ventos-uivantes-chega-ao-streaming-veja-previsao.htm"
     },
     {
-      "title": "Fones e caixas de som da Coca-Cola: 5 modelos para conhecer na loja oficial na Shopee",
-      "slug": "fones-e-caixas-de-som-da-coca-cola-5-modelos-para-conhecer-na-loja-oficial-na-shopee",
+      "title": "Melhores jogos de FPS dos últimos anos: 10 opções para jogar agora!",
+      "slug": "melhores-jogos-de-fps-dos-ultimos-anos-10-opcoes-para-jogar-agora",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-22T16:00:00.000Z",
+      "editorial_score": 85,
+      "original_url": "https://www.tecmundo.com.br/voxel/503548-melhores-jogos-de-fps-dos-ultimos-anos-10-opcoes-para-jogar-agora.htm"
+    },
+    {
+      "title": "Cupom Centauro com desconto para comprar Nike, Adidas, Mizuno e outras marcas; confira sugestões",
+      "slug": "cupom-centauro-com-desconto-para-comprar-nike-adidas-mizuno-e-outras-marcas-confira-sugestoes",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-22T13:06:00.000Z",
+      "date": "2026-02-22T15:06:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411004-cupom-centauro-com-desconto-para-comprar-nike-adidas-mizuno-e-outras-marcas-confira-sugestoes.htm"
+    },
+    {
+      "title": "Windows 11: Bloco de Notas pode ganhar suporte para imagens",
+      "slug": "windows-11-bloco-de-notas-pode-ganhar-suporte-para-imagens",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-22T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410978-fones-e-caixas-de-som-da-coca-cola-5-modelos-para-conhecer-na-loja-oficial-na-shopee.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/410994-windows-11-bloco-de-notas-pode-ganhar-suporte-para-imagens.htm"
     }
   ]
 }
