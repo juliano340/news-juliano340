@@ -1,6 +1,6 @@
 {
-  "slug": "smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress",
-  "generated_at": "2026-02-22T19:05:56.980Z",
+  "slug": "tem-problema-postar-fotos-de-criancas-na-internet",
+  "generated_at": "2026-02-22T19:04:54.948Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 337,
+      "words": 305,
       "min": 220
     },
     {

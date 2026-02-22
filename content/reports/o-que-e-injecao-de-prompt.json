@@ -1,6 +1,6 @@
 {
-  "slug": "smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress",
-  "generated_at": "2026-02-22T19:05:56.980Z",
+  "slug": "o-que-e-injecao-de-prompt",
+  "generated_at": "2026-02-22T19:01:22.325Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 337,
+      "words": 516,
       "min": 220
     },
     {

@@ -1,10 +1,11 @@
 # Weekly IA para Devs - 2026-02-22
 
-Gerado em 2026-02-22T17:04:49.456Z
+Gerado em 2026-02-22T19:05:59.219Z
 
-- [Notebook gamer em 2026: como comprar sem cair em pegadinhas](https://canaltech.com.br/notebook/notebook-gamer-em-2026-como-comprar-sem-cair-em-pegadinhas/) | topico: geral | score: 100
-- [Por que a CPU do PS3 aprisionou jogos como Metal Gear Solid 4 por tantos anos?](https://canaltech.com.br/games/por-que-a-cpu-do-ps3-aprisionou-jogos-como-metal-gear-solid-4-por-tantos-anos/) | topico: geral | score: 100
-- [Quando O Morro dos Ventos Uivantes chega ao streaming? Veja previsão](https://www.tecmundo.com.br/minha-serie/603151-quando-o-morro-dos-ventos-uivantes-chega-ao-streaming-veja-previsao.htm) | topico: geral | score: 92
-- [Melhores jogos de FPS dos últimos anos: 10 opções para jogar agora!](https://www.tecmundo.com.br/voxel/503548-melhores-jogos-de-fps-dos-ultimos-anos-10-opcoes-para-jogar-agora.htm) | topico: geral | score: 85
-- [Cupom Centauro com desconto para comprar Nike, Adidas, Mizuno e outras marcas; confira sugestões](https://www.tecmundo.com.br/guia-de-compras/411004-cupom-centauro-com-desconto-para-comprar-nike-adidas-mizuno-e-outras-marcas-confira-sugestoes.htm) | topico: produtividade-dev | score: 92
-- [Windows 11: Bloco de Notas pode ganhar suporte para imagens](https://www.tecmundo.com.br/produto/410994-windows-11-bloco-de-notas-pode-ganhar-suporte-para-imagens.htm) | topico: produtividade-dev | score: 100
+- [O que é injeção de prompt?](https://canaltech.com.br/inteligencia-artificial/o-que-e-injecao-de-prompt/) | topico: seguranca-ia | score: 100
+- [Ford GT40: como nasceu a lenda que destronou a Ferrari em Le Mans?](https://canaltech.com.br/carros/ford-gt40-como-nasceu-a-lenda-que-destronou-a-ferrari-em-le-mans/) | topico: produtividade-dev | score: 92
+- [Guerreiras do K-Pop é o grande vencedor do Annie Awards, o Oscar da animação! Veja lista de premiados](https://www.tecmundo.com.br/minha-serie/603183-guerreiras-do-k-pop-e-o-grande-vencedor-do-annie-awards-o-oscar-da-animacao-veja-lista-de-premiados.htm) | topico: geral | score: 100
+- [BAFTA 2026, o Oscar britânico, revela vencedores! Veja lista de premiados](https://www.tecmundo.com.br/minha-serie/603182-bafta-2026-o-oscar-britanico-revela-vencedores-veja-lista-de-premiados.htm) | topico: geral | score: 92
+- [Guia de Crisol Theater of Idols - Como resolver todos os puzzles do game](https://www.tecmundo.com.br/voxel/503535-guia-de-crisol-theater-of-idols-como-resolver-todos-os-puzzles-do-game.htm) | topico: geral | score: 100
+- [Tem problema postar fotos de crianças na internet?](https://www.tecmundo.com.br/seguranca/411012-tem-problema-postar-fotos-de-criancas-na-internet.htm) | topico: geral | score: 100
+- [Smartwatches Amazfit, Haylou e mais com entrega do Brasil e cupom AliExpress](https://www.tecmundo.com.br/guia-de-compras/411010-smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress.htm) | topico: agentes | score: 100

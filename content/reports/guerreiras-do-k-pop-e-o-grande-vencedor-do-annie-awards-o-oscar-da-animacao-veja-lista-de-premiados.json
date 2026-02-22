@@ -1,6 +1,6 @@
 {
-  "slug": "smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress",
-  "generated_at": "2026-02-22T19:05:56.980Z",
+  "slug": "guerreiras-do-k-pop-e-o-grande-vencedor-do-annie-awards-o-oscar-da-animacao-veja-lista-de-premiados",
+  "generated_at": "2026-02-22T19:02:38.907Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 337,
+      "words": 370,
       "min": 220
     },
     {

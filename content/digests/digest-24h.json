@@ -1,61 +1,70 @@
 {
-  "generated_at": "2026-02-22T17:04:49.456Z",
+  "generated_at": "2026-02-22T19:05:59.219Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 7,
   "posts": [
     {
-      "title": "Notebook gamer em 2026: como comprar sem cair em pegadinhas",
-      "slug": "notebook-gamer-em-2026-como-comprar-sem-cair-em-pegadinhas",
-      "topic": "geral",
+      "title": "O que é injeção de prompt?",
+      "slug": "o-que-e-injecao-de-prompt",
+      "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-02-22T17:00:00.000Z",
+      "date": "2026-02-22T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/notebook/notebook-gamer-em-2026-como-comprar-sem-cair-em-pegadinhas/"
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-injecao-de-prompt/"
     },
     {
-      "title": "Por que a CPU do PS3 aprisionou jogos como Metal Gear Solid 4 por tantos anos?",
-      "slug": "por-que-a-cpu-do-ps3-aprisionou-jogos-como-metal-gear-solid-4-por-tantos-anos",
-      "topic": "geral",
+      "title": "Ford GT40: como nasceu a lenda que destronou a Ferrari em Le Mans?",
+      "slug": "ford-gt40-como-nasceu-a-lenda-que-destronou-a-ferrari-em-le-mans",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-22T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/por-que-a-cpu-do-ps3-aprisionou-jogos-como-metal-gear-solid-4-por-tantos-anos/"
+      "date": "2026-02-22T18:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/carros/ford-gt40-como-nasceu-a-lenda-que-destronou-a-ferrari-em-le-mans/"
     },
     {
-      "title": "Quando O Morro dos Ventos Uivantes chega ao streaming? Veja previsão",
-      "slug": "quando-o-morro-dos-ventos-uivantes-chega-ao-streaming-veja-previsao",
+      "title": "Guerreiras do K-Pop é o grande vencedor do Annie Awards, o Oscar da animação! Veja lista de premiados",
+      "slug": "guerreiras-do-k-pop-e-o-grande-vencedor-do-annie-awards-o-oscar-da-animacao-veja-lista-de-premiados",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T16:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603151-quando-o-morro-dos-ventos-uivantes-chega-ao-streaming-veja-previsao.htm"
+      "date": "2026-02-22T18:46:48.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603183-guerreiras-do-k-pop-e-o-grande-vencedor-do-annie-awards-o-oscar-da-animacao-veja-lista-de-premiados.htm"
     },
     {
-      "title": "Melhores jogos de FPS dos últimos anos: 10 opções para jogar agora!",
-      "slug": "melhores-jogos-de-fps-dos-ultimos-anos-10-opcoes-para-jogar-agora",
+      "title": "BAFTA 2026, o Oscar britânico, revela vencedores! Veja lista de premiados",
+      "slug": "bafta-2026-o-oscar-britanico-revela-vencedores-veja-lista-de-premiados",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T16:00:00.000Z",
-      "editorial_score": 85,
-      "original_url": "https://www.tecmundo.com.br/voxel/503548-melhores-jogos-de-fps-dos-ultimos-anos-10-opcoes-para-jogar-agora.htm"
-    },
-    {
-      "title": "Cupom Centauro com desconto para comprar Nike, Adidas, Mizuno e outras marcas; confira sugestões",
-      "slug": "cupom-centauro-com-desconto-para-comprar-nike-adidas-mizuno-e-outras-marcas-confira-sugestoes",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-22T15:06:00.000Z",
+      "date": "2026-02-22T18:26:36.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411004-cupom-centauro-com-desconto-para-comprar-nike-adidas-mizuno-e-outras-marcas-confira-sugestoes.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603182-bafta-2026-o-oscar-britanico-revela-vencedores-veja-lista-de-premiados.htm"
     },
     {
-      "title": "Windows 11: Bloco de Notas pode ganhar suporte para imagens",
-      "slug": "windows-11-bloco-de-notas-pode-ganhar-suporte-para-imagens",
-      "topic": "produtividade-dev",
+      "title": "Guia de Crisol Theater of Idols - Como resolver todos os puzzles do game",
+      "slug": "guia-de-crisol-theater-of-idols-como-resolver-todos-os-puzzles-do-game",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T15:00:00.000Z",
+      "date": "2026-02-22T18:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/410994-windows-11-bloco-de-notas-pode-ganhar-suporte-para-imagens.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503535-guia-de-crisol-theater-of-idols-como-resolver-todos-os-puzzles-do-game.htm"
+    },
+    {
+      "title": "Tem problema postar fotos de crianças na internet?",
+      "slug": "tem-problema-postar-fotos-de-criancas-na-internet",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-22T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411012-tem-problema-postar-fotos-de-criancas-na-internet.htm"
+    },
+    {
+      "title": "Smartwatches Amazfit, Haylou e mais com entrega do Brasil e cupom AliExpress",
+      "slug": "smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-22T16:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411010-smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress.htm"
     }
   ]
 }
