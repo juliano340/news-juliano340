@@ -1,52 +1,79 @@
 {
-  "generated_at": "2026-02-22T13:03:57.972Z",
+  "generated_at": "2026-02-22T15:05:47.104Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 8,
   "posts": [
     {
-      "title": "Usar celular no escuro prejudica os olhos? Oftalmologistas explicam os riscos",
-      "slug": "usar-celular-no-escuro-prejudica-os-olhos-oftalmologistas-explicam-os-riscos",
+      "title": "TikTok reúne perfis que exaltam Hitler e nazismo com códigos e posts explícitos",
+      "slug": "tiktok-reune-perfis-que-exaltam-hitler-e-nazismo-com-codigos-e-posts-explicitos",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-22T13:00:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-22T14:01:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/usar-celular-no-escuro-prejudica-os-olhos-oftalmologistas-explicam-os-riscos/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/22/tiktok-reune-perfis-que-exaltam-hitler-e-nazismo-com-codigos-e-posts-explicitos.ghtml"
     },
     {
-      "title": "8 piores jogos exclusivos do Xbox em cada geração",
-      "slug": "8-piores-jogos-exclusivos-do-xbox-em-cada-geracao",
+      "title": "Remetente legítimo, conteúdo falso: como identificar golpes dentro do Teams",
+      "slug": "remetente-legitimo-conteudo-falso-como-identificar-golpes-dentro-do-teams",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-22T12:30:00.000Z",
+      "date": "2026-02-22T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/piores-jogos-exclusivos-xbox-cada-geracao/"
+      "original_url": "https://canaltech.com.br/seguranca/remetente-legitimo-conteudo-falso-como-identificar-golpes-dentro-do-teams/"
     },
     {
-      "title": "O que é um carro \"pé de boi\"?",
-      "slug": "o-que-e-um-carro-pe-de-boi",
-      "topic": "geral",
+      "title": "iOS 26.4: veja o que esperar da próxima atualização do iPhone",
+      "slug": "ios-264-veja-o-que-esperar-da-proxima-atualizacao-do-iphone",
+      "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-02-22T12:00:00.000Z",
+      "date": "2026-02-22T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/o-que-e-um-carro-pe-de-boi/"
+      "original_url": "https://canaltech.com.br/apps/ios-264-veja-o-que-esperar-da-proxima-atualizacao-do-iphone/"
     },
     {
-      "title": "Celular pesado aumenta risco de lesão? Especialistas explicam",
-      "slug": "celular-pesado-aumenta-risco-de-lesao-especialistas-explicam",
-      "topic": "geral",
+      "title": "12 comandos da Alexa para automatizar luz, ar-condicionado e rotina doméstica",
+      "slug": "12-comandos-da-alexa-para-automatizar-luz-ar-condicionado-e-rotina-domestica",
+      "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-22T11:30:00.000Z",
+      "date": "2026-02-22T13:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/celular-pesado-aumenta-risco-de-lesao-especialistas-explicam/"
+      "original_url": "https://canaltech.com.br/eletro/12-comandos-da-alexa-para-automatizar-luz-ar-condicionado-e-rotina-domestica/"
     },
     {
-      "title": "Epic Games libera jogo grátis no celular! Resgate agora no Android (22)",
-      "slug": "epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-22",
+      "title": "Avatar e Atlas Fallen de graça, Resident Evil 2 baratinho e mais! Veja as indicações de games da semana",
+      "slug": "avatar-e-atlas-fallen-de-graca-resident-evil-2-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T11:15:00.000Z",
+      "date": "2026-02-22T14:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503567-epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-22.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503587-avatar-e-atlas-fallen-de-graca-resident-evil-2-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana.htm"
+    },
+    {
+      "title": "Celular explode e salva mecânico de ataque de cães no Paraná",
+      "slug": "celular-explode-e-salva-mecanico-de-ataque-de-caes-no-parana",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-22T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/410900-celular-explode-e-salva-mecanico-de-ataque-de-caes-no-parana.htm"
+    },
+    {
+      "title": "8 filmes e séries com Wagner Moura para assistir na Netflix",
+      "slug": "8-filmes-e-series-com-wagner-moura-para-assistir-na-netflix",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-22T13:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603085-8-filmes-e-series-com-wagner-moura-para-assistir-na-netflix.htm"
+    },
+    {
+      "title": "Fones e caixas de som da Coca-Cola: 5 modelos para conhecer na loja oficial na Shopee",
+      "slug": "fones-e-caixas-de-som-da-coca-cola-5-modelos-para-conhecer-na-loja-oficial-na-shopee",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-22T13:06:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/410978-fones-e-caixas-de-som-da-coca-cola-5-modelos-para-conhecer-na-loja-oficial-na-shopee.htm"
     }
   ]
 }
