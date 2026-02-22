@@ -1,8 +1,7 @@
 # Weekly IA para Devs - 2026-02-22
 
-Gerado em 2026-02-22T21:04:05.953Z
+Gerado em 2026-02-22T23:02:18.154Z
 
-- [5 dicas para preservar o sono em meio a uma rotina cheia de telas](https://canaltech.com.br/smartphone/5-dicas-para-preservar-o-sono-em-meio-a-uma-rotina-cheia-de-telas/) | topico: geral | score: 100
-- [Por que o Google mostra sites falsos no topo? A tática do "Typosquatting"](https://canaltech.com.br/seguranca/por-que-o-google-mostra-sites-falsos-no-topo-a-tatica-do-typosquatting/) | topico: geral | score: 100
-- [O Agente Secreto perde no BAFTA, o Oscar britânico](https://www.tecmundo.com.br/minha-serie/603184-o-agente-secreto-perde-no-bafta-o-oscar-britanico.htm) | topico: geral | score: 100
-- [Quando Marty Supreme chega ao streaming? Veja onde assistir o filme](https://www.tecmundo.com.br/minha-serie/603144-quando-marty-supreme-chega-ao-streaming-veja-onde-assistir-o-filme.htm) | topico: geral | score: 100
+- [5 carros que a Nissan pode lançar no Brasil em 2026](https://canaltech.com.br/carros/5-carros-que-a-nissan-pode-lancar-no-brasil-em-2026/) | topico: geral | score: 100
+- [Resident Evil Requiem, Tales of Berseria Remastered e mais! Veja os lançamentos de games da semana](https://www.tecmundo.com.br/voxel/503589-resident-evil-requiem-tales-of-berseria-remastered-e-mais-veja-os-lancamentos-de-games-da-semana.htm) | topico: geral | score: 100
+- [Quando a segunda temporada de O Cavaleiro dos Sete Reinos será lançada? Veja o que esperar](https://www.tecmundo.com.br/minha-serie/603165-quando-a-segunda-temporada-de-o-cavaleiro-dos-sete-reinos-sera-lancada-veja-o-que-esperar.htm) | topico: geral | score: 100
