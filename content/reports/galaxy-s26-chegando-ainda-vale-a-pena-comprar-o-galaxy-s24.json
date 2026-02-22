@@ -1,7 +1,7 @@
 {
-  "slug": "voce-sabe-como-a-audi-silenciou-o-mundo-em-le-mans",
-  "generated_at": "2026-02-22T01:01:15.321Z",
-  "status": "WARN",
+  "slug": "galaxy-s26-chegando-ainda-vale-a-pena-comprar-o-galaxy-s24",
+  "generated_at": "2026-02-22T01:00:43.308Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 358,
+      "words": 370,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,11 +91,9 @@
       "min": 3
     }
   ],
-  "warnings": [
-    "fonte_primaria_ausente_no_corpo"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
