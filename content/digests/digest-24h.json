@@ -1,97 +1,52 @@
 {
-  "generated_at": "2026-02-22T11:05:52.894Z",
+  "generated_at": "2026-02-22T13:03:57.972Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 10,
+  "total": 5,
   "posts": [
     {
-      "title": "Limpar o filtro do ar-condicionado resolve? Veja truques para gelar mais",
-      "slug": "limpar-o-filtro-do-ar-condicionado-resolve-veja-truques-para-gelar-mais",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-22T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/limpar-o-filtro-do-ar-condicionado-resolve-veja-truques-para-gelar-mais/"
-    },
-    {
-      "title": "O que é Opus 4.6? Veja como funciona o novo modelo do Claude",
-      "slug": "o-que-e-opus-46-veja-como-funciona-o-novo-modelo-do-claude",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-22T10:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-que-e-opus-46-veja-como-funciona-o-novo-modelo-do-claude/"
-    },
-    {
-      "title": "Qual é o melhor celular até R$ 2.000 para comprar em 2026?",
-      "slug": "qual-e-o-melhor-celular-ate-rdollar-2000-para-comprar-em-2026",
+      "title": "Usar celular no escuro prejudica os olhos? Oftalmologistas explicam os riscos",
+      "slug": "usar-celular-no-escuro-prejudica-os-olhos-oftalmologistas-explicam-os-riscos",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-22T10:00:00.000Z",
+      "date": "2026-02-22T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/qual-e-o-melhor-celular-ate-r-2000-para-comprar-em-2026/"
+      "original_url": "https://canaltech.com.br/smartphone/usar-celular-no-escuro-prejudica-os-olhos-oftalmologistas-explicam-os-riscos/"
     },
     {
-      "title": "Santander oferece 36 mil bolsas para formação em tecnologia, IA e soft skills",
-      "slug": "santander-oferece-36-mil-bolsas-para-formacao-em-tecnologia-ia-e-soft-skills",
+      "title": "8 piores jogos exclusivos do Xbox em cada geração",
+      "slug": "8-piores-jogos-exclusivos-do-xbox-em-cada-geracao",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-22T09:30:00.000Z",
+      "date": "2026-02-22T12:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/santander-oferece-36-mil-bolsas-para-formacao-em-tecnologia-ia-e-soft-skills/"
+      "original_url": "https://canaltech.com.br/games/piores-jogos-exclusivos-xbox-cada-geracao/"
     },
     {
-      "title": "Palpites para Vasco x Fluminense: Análises e Onde Assistir (22/02/2026)",
-      "slug": "palpites-para-vasco-x-fluminense-analises-e-onde-assistir-22022026",
+      "title": "O que é um carro \"pé de boi\"?",
+      "slug": "o-que-e-um-carro-pe-de-boi",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-22T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/o-que-e-um-carro-pe-de-boi/"
+    },
+    {
+      "title": "Celular pesado aumenta risco de lesão? Especialistas explicam",
+      "slug": "celular-pesado-aumenta-risco-de-lesao-especialistas-explicam",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-22T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celular-pesado-aumenta-risco-de-lesao-especialistas-explicam/"
+    },
+    {
+      "title": "Epic Games libera jogo grátis no celular! Resgate agora no Android (22)",
+      "slug": "epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-22",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T10:00:00.000Z",
+      "date": "2026-02-22T11:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/410990-palpites-para-vasco-x-fluminense-analises-e-onde-assistir-22022026.htm"
-    },
-    {
-      "title": "Palpites para Novorizontino x Santos: Análises e Onde Assistir (22/02/2026)",
-      "slug": "palpites-para-novorizontino-x-santos-analises-e-onde-assistir-22022026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-22T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410986-palpites-para-novorizontino-x-santos-analises-e-onde-assistir-22022026.htm"
-    },
-    {
-      "title": "Palpites para Portuguesa x Corinthians: Análises e Onde Assistir (22/02/2026)",
-      "slug": "palpites-para-portuguesa-x-corinthians-analises-e-onde-assistir-22022026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-22T09:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410987-palpites-para-portuguesa-x-corinthians-analises-e-onde-assistir-22022026.htm"
-    },
-    {
-      "title": "IA reconhece jutsus de Naruto em tempo real e transforma na vida real",
-      "slug": "ia-reconhece-jutsus-de-naruto-em-tempo-real-e-transforma-na-vida-real",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-22T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/411007-ia-reconhece-jutsus-de-naruto-em-tempo-real-e-transforma-na-vida-real.htm"
-    },
-    {
-      "title": "Palpites para Flamengo x Madureira: Análises e Onde Assistir (22/02/2026)",
-      "slug": "palpites-para-flamengo-x-madureira-analises-e-onde-assistir-22022026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-22T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410992-palpites-para-flamengo-x-madureira-analises-e-onde-assistir-22022026.htm"
-    },
-    {
-      "title": "Palpites para Everton x Manchester United: Análises e Onde Assistir (23/02/2026)",
-      "slug": "palpites-para-everton-x-manchester-united-analises-e-onde-assistir-23022026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-22T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/410860-palpites-para-everton-x-manchester-united-analises-e-onde-assistir-23022026.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503567-epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-22.htm"
     }
   ]
 }
