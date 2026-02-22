@@ -1,70 +1,43 @@
 {
-  "generated_at": "2026-02-22T19:05:59.219Z",
+  "generated_at": "2026-02-22T21:04:05.953Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 4,
   "posts": [
     {
-      "title": "O que é injeção de prompt?",
-      "slug": "o-que-e-injecao-de-prompt",
-      "topic": "seguranca-ia",
+      "title": "5 dicas para preservar o sono em meio a uma rotina cheia de telas",
+      "slug": "5-dicas-para-preservar-o-sono-em-meio-a-uma-rotina-cheia-de-telas",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-22T19:00:00.000Z",
+      "date": "2026-02-22T21:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-injecao-de-prompt/"
+      "original_url": "https://canaltech.com.br/smartphone/5-dicas-para-preservar-o-sono-em-meio-a-uma-rotina-cheia-de-telas/"
     },
     {
-      "title": "Ford GT40: como nasceu a lenda que destronou a Ferrari em Le Mans?",
-      "slug": "ford-gt40-como-nasceu-a-lenda-que-destronou-a-ferrari-em-le-mans",
-      "topic": "produtividade-dev",
+      "title": "Por que o Google mostra sites falsos no topo? A tática do \"Typosquatting\"",
+      "slug": "por-que-o-google-mostra-sites-falsos-no-topo-a-tatica-do-typosquatting",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-22T18:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/ford-gt40-como-nasceu-a-lenda-que-destronou-a-ferrari-em-le-mans/"
+      "date": "2026-02-22T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/por-que-o-google-mostra-sites-falsos-no-topo-a-tatica-do-typosquatting/"
     },
     {
-      "title": "Guerreiras do K-Pop é o grande vencedor do Annie Awards, o Oscar da animação! Veja lista de premiados",
-      "slug": "guerreiras-do-k-pop-e-o-grande-vencedor-do-annie-awards-o-oscar-da-animacao-veja-lista-de-premiados",
+      "title": "O Agente Secreto perde no BAFTA, o Oscar britânico",
+      "slug": "o-agente-secreto-perde-no-bafta-o-oscar-britanico",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T18:46:48.000Z",
+      "date": "2026-02-22T19:24:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603183-guerreiras-do-k-pop-e-o-grande-vencedor-do-annie-awards-o-oscar-da-animacao-veja-lista-de-premiados.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603184-o-agente-secreto-perde-no-bafta-o-oscar-britanico.htm"
     },
     {
-      "title": "BAFTA 2026, o Oscar britânico, revela vencedores! Veja lista de premiados",
-      "slug": "bafta-2026-o-oscar-britanico-revela-vencedores-veja-lista-de-premiados",
+      "title": "Quando Marty Supreme chega ao streaming? Veja onde assistir o filme",
+      "slug": "quando-marty-supreme-chega-ao-streaming-veja-onde-assistir-o-filme",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T18:26:36.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603182-bafta-2026-o-oscar-britanico-revela-vencedores-veja-lista-de-premiados.htm"
-    },
-    {
-      "title": "Guia de Crisol Theater of Idols - Como resolver todos os puzzles do game",
-      "slug": "guia-de-crisol-theater-of-idols-como-resolver-todos-os-puzzles-do-game",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-22T18:15:00.000Z",
+      "date": "2026-02-22T17:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503535-guia-de-crisol-theater-of-idols-como-resolver-todos-os-puzzles-do-game.htm"
-    },
-    {
-      "title": "Tem problema postar fotos de crianças na internet?",
-      "slug": "tem-problema-postar-fotos-de-criancas-na-internet",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-22T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411012-tem-problema-postar-fotos-de-criancas-na-internet.htm"
-    },
-    {
-      "title": "Smartwatches Amazfit, Haylou e mais com entrega do Brasil e cupom AliExpress",
-      "slug": "smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-22T16:46:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411010-smartwatches-amazfit-haylou-e-mais-com-entrega-do-brasil-e-cupom-aliexpress.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603144-quando-marty-supreme-chega-ao-streaming-veja-onde-assistir-o-filme.htm"
     }
   ]
 }

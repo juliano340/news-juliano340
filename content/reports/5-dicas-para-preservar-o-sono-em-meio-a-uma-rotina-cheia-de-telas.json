@@ -1,6 +1,6 @@
 {
-  "slug": "quando-marty-supreme-chega-ao-streaming-veja-onde-assistir-o-filme",
-  "generated_at": "2026-02-22T21:04:03.559Z",
+  "slug": "5-dicas-para-preservar-o-sono-em-meio-a-uma-rotina-cheia-de-telas",
+  "generated_at": "2026-02-22T21:01:18.613Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 383,
+      "words": 340,
       "min": 220
     },
     {
