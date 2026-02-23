@@ -1,88 +1,169 @@
 {
-  "generated_at": "2026-02-23T11:06:12.516Z",
+  "generated_at": "2026-02-23T13:13:30.004Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 18,
   "posts": [
     {
-      "title": "Além do frescor: o que você precisa considerar ao escolher seu ar-condicionado",
-      "slug": "alem-do-frescor-o-que-voce-precisa-considerar-ao-escolher-seu-ar-condicionado",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-23T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/colunas/alem-do-frescor-o-que-voce-precisa-considerar-ao-escolher-seu-ar-condicionado/"
-    },
-    {
-      "title": "Como começar o ano garantindo mais segurança na Internet",
-      "slug": "como-comecar-o-ano-garantindo-mais-seguranca-na-internet",
+      "title": "Códigos e cheats de Pokémon Soul Silver e Heart Gold",
+      "slug": "codigos-e-cheats-de-pokemon-soul-silver-e-heart-gold",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T11:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-23T12:40:33.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-comecar-o-ano-garantindo-mais-seguranca-na-internet/"
+      "original_url": "https://tecnoblog.net/responde/cheats-para-pokemon-soul-silver-e-heart-gold/"
     },
     {
-      "title": "Guia de carreira: passo a passo para começar em cibersegurança do zero",
-      "slug": "guia-de-carreira-passo-a-passo-para-comecar-em-ciberseguranca-do-zero",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/guia-de-carreira-passo-a-passo-para-comecar-em-ciberseguranca-do-zero/"
-    },
-    {
-      "title": "Privacy Display: recurso \"contra curiosos\" do Galaxy S26 Ultra aparece em vídeo",
-      "slug": "privacy-display-recurso-contra-curiosos-do-galaxy-s26-ultra-aparece-em-video",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T10:34:33.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/privacy-display-recurso-contra-curiosos-do-galaxy-s26-ultra-aparece-em-video/"
-    },
-    {
-      "title": "Eles não querem seus dados, querem sua GPU: entenda o LLMjacking",
-      "slug": "eles-nao-querem-seus-dados-querem-sua-gpu-entenda-o-llmjacking",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T10:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/eles-nao-querem-seus-dados-querem-sua-gpu-entenda-o-llmjacking/"
-    },
-    {
-      "title": "Ford tem \"fórmula\" para baratear carro elétrico e encarar chineses",
-      "slug": "ford-tem-formula-para-baratear-carro-eletrico-e-encarar-chineses",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-23T10:05:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/ford-descobre-segredo-para-produzir-carro-eletrico-barato/"
-    },
-    {
-      "title": "Vale comprar eletrônico recondicionado? Analisamos riscos reais",
-      "slug": "vale-comprar-eletronico-recondicionado-analisamos-riscos-reais",
+      "title": "Como criar imagens com IA no Duck.ai",
+      "slug": "como-criar-imagens-com-ia-no-duckai",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-02-23T09:30:00.000Z",
+      "date": "2026-02-23T12:50:55.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/vale-comprar-eletronico-recondicionado-analisamos-riscos-reais/"
+      "original_url": "https://canaltech.com.br/apps/como-criar-imagens-com-ia-no-duckai/"
     },
     {
-      "title": "Palpites para Sporting Cristal x 2 de Mayo: Análises e Onde Assistir (24/02/2026)",
-      "slug": "palpites-para-sporting-cristal-x-2-de-mayo-analises-e-onde-assistir-24022026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-23T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411015-palpites-para-sporting-cristal-x-2-de-mayo-analises-e-onde-assistir-24022026.htm"
+      "title": "Prêmio Canaltech chega à 9ª edição consolidado como referência no setor",
+      "slug": "premio-canaltech-chega-a-9a-edicao-consolidado-como-referencia-no-setor",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:42:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/premio-canaltech-chega-a-9a-edicao-consolidado-como-referencia-no-setor/"
     },
     {
-      "title": "Palpites para Independiente Medellín x Liverpool-URU: Análises e Onde Assistir (24/02/2026)",
-      "slug": "palpites-para-independiente-medellin-x-liverpool-uru-analises-e-onde-assistir-24022026",
+      "title": "iPhone Air customizado tem partes em ouro e preço bem alto",
+      "slug": "iphone-air-customizado-tem-partes-em-ouro-e-preco-bem-alto",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:40:13.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/iphone-air-customizado-tem-partes-em-ouro-e-preco-bem-alto/"
+    },
+    {
+      "title": "'Hey, Plex': agente de IA da Perplexity será integrado a celulares da Samsung",
+      "slug": "hey-plex-agente-de-ia-da-perplexity-sera-integrado-a-celulares-da-samsung",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:31:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/hey-plex-agente-de-ia-da-perplexity-sera-integrado-a-celulares-da-samsung/"
+    },
+    {
+      "title": "50 milhões de imagens foram criadas no ChatGPT durante o carnaval, diz OpenAI",
+      "slug": "50-milhoes-de-imagens-foram-criadas-no-chatgpt-durante-o-carnaval-diz-openai",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:27:25.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/50-milhoes-de-imagens-foram-criadas-no-chatgpt-durante-o-carnaval-diz-openai/"
+    },
+    {
+      "title": "Pré-venda de GTA 6 no Brasil começa com preço que vai fazer você chorar",
+      "slug": "pre-venda-de-gta-6-no-brasil-comeca-com-preco-que-vai-fazer-voce-chorar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:19:51.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/pre-venda-de-gta-6-no-brasil-comeca-com-preco-que-vai-fazer-voce-chorar/"
+    },
+    {
+      "title": "Motorista toma susto com preço para consertar peça \"invisível\" em carro híbrido",
+      "slug": "motorista-toma-susto-com-preco-para-consertar-peca-invisivel-em-carro-hibrido",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/motorista-toma-susto-com-preco-para-consertar-peca-invisivel-em-carro-hibrido/"
+    },
+    {
+      "title": "Novo celular top global da Xiaomi surge em anúncio antes da hora",
+      "slug": "novo-celular-top-global-da-xiaomi-surge-em-anuncio-antes-da-hora",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:11:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/novo-celular-top-global-da-xiaomi-surge-em-anuncio-antes-da-hora/"
+    },
+    {
+      "title": "Primeiro malware que usa IA generativa em ataques no Android é descoberto",
+      "slug": "primeiro-malware-que-usa-ia-generativa-em-ataques-no-android-e-descoberto",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T12:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/primeiro-malware-que-usa-ia-generativa-em-ataques-no-android-e-descoberto/"
+    },
+    {
+      "title": "Como funciona o Lyria 3, a IA do Google para músicas?",
+      "slug": "como-funciona-o-lyria-3-a-ia-do-google-para-musicas",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-23T11:46:48.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/como-funciona-o-lyria-3-a-ia-do-google-para-musicas/"
+    },
+    {
+      "title": "Kindle Week 2026 tem eReaders com até 25% de desconto na Amazon",
+      "slug": "kindle-week-2026-tem-ereaders-com-ate-25percent-de-desconto-na-amazon",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-23T13:06:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411022-kindle-week-2026-tem-ereaders-com-ate-25-de-desconto-na-amazon.htm"
+    },
+    {
+      "title": "Play Store ganha apps e pacotes de ícones para baixar grátis por tempo limitado",
+      "slug": "play-store-ganha-apps-e-pacotes-de-icones-para-baixar-gratis-por-tempo-limitado",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-23T09:00:00.000Z",
+      "date": "2026-02-23T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411017-play-store-ganha-apps-e-pacotes-de-icones-para-baixar-gratis-por-tempo-limitado.htm"
+    },
+    {
+      "title": "Jessie Buckley: a trajetória até a indicação ao Oscar",
+      "slug": "jessie-buckley-a-trajetoria-ate-a-indicacao-ao-oscar",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-23T12:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411014-palpites-para-independiente-medellin-x-liverpool-uru-analises-e-onde-assistir-24022026.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603146-jessie-buckley-a-trajetoria-ate-a-indicacao-ao-oscar.htm"
+    },
+    {
+      "title": "God of War Sons of Sparta capricha em acessibilidade? Veja review",
+      "slug": "god-of-war-sons-of-sparta-capricha-em-acessibilidade-veja-review",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-23T11:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503553-god-of-war-sons-of-sparta-capricha-em-acessibilidade-veja-review.htm"
+    },
+    {
+      "title": "8 jogos que você entende melhor quando fica adulto",
+      "slug": "8-jogos-que-voce-entende-melhor-quando-fica-adulto",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-23T11:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503517-8-jogos-que-voce-entende-melhor-quando-fica-adulto.htm"
+    },
+    {
+      "title": "Casas de apostas com cashback: entenda como funciona e como escolher",
+      "slug": "casas-de-apostas-com-cashback-entenda-como-funciona-e-como-escolher",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-23T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/apostas/410995-casas-de-apostas-com-cashback-entenda-como-funciona-e-como-escolher.htm"
+    },
+    {
+      "title": "Big techs encaram onda de ações nos EUA por danos a crianças",
+      "slug": "big-techs-encaram-onda-de-acoes-nos-eua-por-danos-a-criancas",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-23T11:50:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/02/23/big-techs-encaram-onda-de-acoes-nos-eua-por-danos-a-criancas.htm"
     }
   ]
 }
