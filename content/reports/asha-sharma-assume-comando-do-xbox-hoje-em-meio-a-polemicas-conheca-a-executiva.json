@@ -1,6 +1,6 @@
 {
-  "slug": "seagate-tambem-vendeu-todo-o-estoque-de-hds-do-ano",
-  "generated_at": "2026-02-23T17:03:08.408Z",
+  "slug": "asha-sharma-assume-comando-do-xbox-hoje-em-meio-a-polemicas-conheca-a-executiva",
+  "generated_at": "2026-02-23T17:10:20.587Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 271,
+      "words": 322,
       "min": 220
     },
     {
@@ -84,19 +84,17 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [
     "placeholder_detectado"
   ],
-  "score": 85,
+  "score": 92,
   "metadata": null
 }

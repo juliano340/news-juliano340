@@ -1,6 +1,6 @@
 {
   "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
-  "generated_at": "2026-02-23T15:15:10.280Z",
+  "generated_at": "2026-02-23T17:12:26.864Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -32,10 +32,10 @@
     },
     {
       "id": "min_words",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 208,
+      "words": 303,
       "min": 220
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "placeholder_terms",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "BLOCK",
       "reason": "placeholder_detectado"
     },
@@ -93,7 +93,7 @@
   ],
   "warnings": [],
   "errors": [
-    "conteudo_curto"
+    "placeholder_detectado"
   ],
   "score": 92,
   "metadata": null

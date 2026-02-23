@@ -1,6 +1,6 @@
 {
-  "slug": "asml-revela-avanco-em-fonte-de-luz-euv-que-pode-produzir-50percent-mais-chips-ate-2030",
-  "generated_at": "2026-02-23T17:11:35.368Z",
+  "slug": "brasil-entra-no-top-3-global-de-ataques-de-ransomware",
+  "generated_at": "2026-02-23T17:07:18.758Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 255,
+      "words": 282,
       "min": 220
     },
     {

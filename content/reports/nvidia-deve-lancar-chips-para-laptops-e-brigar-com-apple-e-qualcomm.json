@@ -1,6 +1,6 @@
 {
-  "slug": "asml-revela-avanco-em-fonte-de-luz-euv-que-pode-produzir-50percent-mais-chips-ate-2030",
-  "generated_at": "2026-02-23T17:11:35.368Z",
+  "slug": "nvidia-deve-lancar-chips-para-laptops-e-brigar-com-apple-e-qualcomm",
+  "generated_at": "2026-02-23T17:02:03.867Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 255,
+      "words": 278,
       "min": 220
     },
     {

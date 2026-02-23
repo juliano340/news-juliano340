@@ -1,7 +1,7 @@
 {
-  "slug": "seagate-tambem-vendeu-todo-o-estoque-de-hds-do-ano",
-  "generated_at": "2026-02-23T17:03:08.408Z",
-  "status": "BLOCK",
+  "slug": "nova-cnh-o-que-mudou-na-habilitacao-para-motos",
+  "generated_at": "2026-02-23T17:04:20.141Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 271,
+      "words": 357,
       "min": 220
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "placeholder_terms",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "BLOCK",
       "reason": "placeholder_detectado"
     },
@@ -84,19 +84,92 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
-  "errors": [
-    "placeholder_detectado"
-  ],
-  "score": 85,
-  "metadata": null
+  "warnings": [],
+  "errors": [],
+  "score": 100,
+  "metadata": {
+    "status": "PASS",
+    "checks": [
+      {
+        "id": "required_title",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_date",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_original_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_primary_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_content",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_meta_description",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_canonical_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "slug_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "original_url_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "canonical_matches_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "meta_description_length",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "schema_min_fields",
+        "status": "PASS",
+        "level": "BLOCK"
+      }
+    ],
+    "warnings": [],
+    "errors": [],
+    "score": 100
+  }
 }
