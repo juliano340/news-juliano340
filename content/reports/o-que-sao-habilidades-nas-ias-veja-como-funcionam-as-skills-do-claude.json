@@ -1,6 +1,6 @@
 {
-  "slug": "mewgenics-7-dicas-para-quem-esta-comecando-a-jogar",
-  "generated_at": "2026-02-23T01:01:51.479Z",
+  "slug": "o-que-sao-habilidades-nas-ias-veja-como-funcionam-as-skills-do-claude",
+  "generated_at": "2026-02-23T01:00:36.066Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 367,
+      "words": 318,
       "min": 220
     },
     {

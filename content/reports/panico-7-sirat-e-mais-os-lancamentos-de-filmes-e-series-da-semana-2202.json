@@ -1,6 +1,6 @@
 {
-  "slug": "mewgenics-7-dicas-para-quem-esta-comecando-a-jogar",
-  "generated_at": "2026-02-23T01:01:51.479Z",
+  "slug": "panico-7-sirat-e-mais-os-lancamentos-de-filmes-e-series-da-semana-2202",
+  "generated_at": "2026-02-23T01:01:16.833Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 367,
+      "words": 297,
       "min": 220
     },
     {

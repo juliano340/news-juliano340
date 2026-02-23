@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-02-22T23:02:18.154Z",
+  "generated_at": "2026-02-23T01:01:53.715Z",
   "niche": "ia-para-desenvolvedores",
   "total": 3,
   "posts": [
     {
-      "title": "5 carros que a Nissan pode lançar no Brasil em 2026",
-      "slug": "5-carros-que-a-nissan-pode-lancar-no-brasil-em-2026",
-      "topic": "geral",
+      "title": "O que são habilidades nas IAs? Veja como funcionam as skills do Claude",
+      "slug": "o-que-sao-habilidades-nas-ias-veja-como-funcionam-as-skills-do-claude",
+      "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-02-22T22:00:00.000Z",
+      "date": "2026-02-23T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/5-carros-que-a-nissan-pode-lancar-no-brasil-em-2026/"
+      "original_url": "https://canaltech.com.br/apps/o-que-sao-habilidades-nas-ias-veja-como-funcionam-as-skills-do-claude/"
     },
     {
-      "title": "Resident Evil Requiem, Tales of Berseria Remastered e mais! Veja os lançamentos de games da semana",
-      "slug": "resident-evil-requiem-tales-of-berseria-remastered-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "title": "Pânico 7, Sirāt e mais! Os lançamentos de filmes e séries da semana (22/02)",
+      "slug": "panico-7-sirat-e-mais-os-lancamentos-de-filmes-e-series-da-semana-2202",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T22:30:00.000Z",
+      "date": "2026-02-22T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503589-resident-evil-requiem-tales-of-berseria-remastered-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603137-panico-7-sirat-e-mais-os-lancamentos-de-filmes-e-series-da-semana-2202.htm"
     },
     {
-      "title": "Quando a segunda temporada de O Cavaleiro dos Sete Reinos será lançada? Veja o que esperar",
-      "slug": "quando-a-segunda-temporada-de-o-cavaleiro-dos-sete-reinos-sera-lancada-veja-o-que-esperar",
+      "title": "Mewgenics: 7 dicas para quem está começando a jogar",
+      "slug": "mewgenics-7-dicas-para-quem-esta-comecando-a-jogar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-22T21:15:00.000Z",
+      "date": "2026-02-22T20:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603165-quando-a-segunda-temporada-de-o-cavaleiro-dos-sete-reinos-sera-lancada-veja-o-que-esperar.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503570-mewgenics-7-dicas-para-quem-esta-comecando-a-jogar.htm"
     }
   ]
 }
