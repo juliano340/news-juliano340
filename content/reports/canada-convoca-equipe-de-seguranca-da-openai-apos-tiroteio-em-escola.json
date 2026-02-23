@@ -1,7 +1,7 @@
 {
-  "slug": "meta-admite-que-1-em-cada-5-adolescentes-no-instagram-ja-viu-imagens-de-nudez",
-  "generated_at": "2026-02-23T21:17:40.080Z",
-  "status": "WARN",
+  "slug": "canada-convoca-equipe-de-seguranca-da-openai-apos-tiroteio-em-escola",
+  "generated_at": "2026-02-23T21:17:09.410Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 321,
+      "words": 297,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

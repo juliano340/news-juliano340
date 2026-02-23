@@ -1,214 +1,214 @@
 {
-  "generated_at": "2026-02-23T19:15:17.054Z",
+  "generated_at": "2026-02-23T21:17:41.084Z",
   "niche": "ia-para-desenvolvedores",
   "total": 23,
   "posts": [
     {
-      "title": "Galaxy S26: o que esperar dos próximos celulares da Samsung",
-      "slug": "galaxy-s26-o-que-esperar-dos-proximos-celulares-da-samsung",
+      "title": "Galaxy Tab A11 Plus aparece com 27% de desconto em oferta no Mercado Livre",
+      "slug": "galaxy-tab-a11-plus-aparece-com-27percent-de-desconto-em-oferta-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-23T18:46:52.000Z",
-      "editorial_score": 85,
-      "original_url": "https://tecnoblog.net/noticias/galaxy-s26-o-que-esperar-dos-proximos-celulares-da-samsung/"
+      "date": "2026-02-23T20:07:43.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-tab-a11-plus-aparece-com-27-de-desconto-em-oferta-no-mercado-livre/"
     },
     {
-      "title": "Poco F8 Pro e mais celulares da Xiaomi são homologados no Brasil",
-      "slug": "poco-f8-pro-e-mais-celulares-da-xiaomi-sao-homologados-no-brasil",
+      "title": "Galaxy S25 FE fica 42% mais barato na semana do Galaxy Unpacked 2026",
+      "slug": "galaxy-s25-fe-fica-42percent-mais-barato-na-semana-do-galaxy-unpacked-2026",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-23T19:24:56.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-fe-fica-42-mais-barato-na-semana-do-galaxy-unpacked-2026/"
+    },
+    {
+      "title": "Dono de um DJI Romo hackeou quase 7 mil robôs aspiradores por acaso",
+      "slug": "dono-de-um-dji-romo-hackeou-quase-7-mil-robos-aspiradores-por-acaso",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-02-23T19:03:02.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/dono-de-um-dji-romo-hackeou-quase-7-mil-robos-aspiradores-por-acaso/"
+    },
+    {
+      "title": "O que é BC Protege+? Serviço do Banco Central protege contas contra fraudes",
+      "slug": "o-que-e-bc-protege-servico-do-banco-central-protege-contas-contra-fraudes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/o-que-e-bc-protege-servico-do-banco-central-protege-contas-contra-fraudes/"
+    },
+    {
+      "title": "Lenovo confirma que notebooks ficarão mais caros a partir de março",
+      "slug": "lenovo-confirma-que-notebooks-ficarao-mais-caros-a-partir-de-marco",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T20:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/notebook/lenovo-confirma-que-notebooks-ficarao-mais-caros-a-partir-de-marco/"
+    },
+    {
+      "title": "Firefox 148 é liberado com ajuste para desativar recursos de IA",
+      "slug": "firefox-148-e-liberado-com-ajuste-para-desativar-recursos-de-ia",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-23T20:18:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/software/firefox-148-e-liberado-com-ajuste-para-desativar-recursos-de-ia/"
+    },
+    {
+      "title": "Gerenciadores de senha têm falhas críticas facilmente exploráveis, diz pesquisa",
+      "slug": "gerenciadores-de-senha-tem-falhas-criticas-facilmente-exploraveis-diz-pesquisa",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T20:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/gerenciadores-de-senha-tem-falhas-criticas-facilmente-exploraveis-diz-pesquisa/"
+    },
+    {
+      "title": "Como funciona o app SKY+? Veja os preços, recursos e canais",
+      "slug": "como-funciona-o-app-sky-veja-os-precos-recursos-e-canais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T19:49:28.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-funciona-o-app-sky-veja-os-precos-recursos-e-canais/"
+    },
+    {
+      "title": "TOTVS lança primeiro foundation de IA B2B no Brasil",
+      "slug": "totvs-lanca-primeiro-foundation-de-ia-b2b-no-brasil",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-23T19:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/totvs-lanca-primeiro-foundation-de-ia-b2b-no-brasil/"
+    },
+    {
+      "title": "Gamer de araque? Gamertag suspeita da nova CEO do Xbox irrita os fãs",
+      "slug": "gamer-de-araque-gamertag-suspeita-da-nova-ceo-do-xbox-irrita-os-fas",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T19:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/gamer-de-araque-gamertag-suspeita-da-nova-ceo-do-xbox-irrita-os-fas/"
+    },
+    {
+      "title": "GPU 'mais poderosa do mundo' chega a custar quase R$ 140 mil",
+      "slug": "gpu-mais-poderosa-do-mundo-chega-a-custar-quase-rdollar-140-mil",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-23T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411043-gpu-mais-poderosa-do-mundo-chega-a-custar-quase-r-140-mil.htm"
+    },
+    {
+      "title": "A tecnologia que transformou a pesagem de caminhões no Brasil",
+      "slug": "a-tecnologia-que-transformou-a-pesagem-de-caminhoes-no-brasil",
       "topic": "infra-ia",
-      "source": "Tecnoblog",
-      "date": "2026-02-23T18:43:09.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-23T20:57:04.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/poco-f8-pro-e-mais-celulares-da-xiaomi-sao-homologados-no-brasil/"
+      "original_url": "https://www.tecmundo.com.br/produto/411054-a-tecnologia-que-transformou-a-pesagem-de-caminhoes-no-brasil.htm"
     },
     {
-      "title": "Galaxy S25 Ultra (512 GB) tem 51% OFF na semana do anúncio da linha S26",
-      "slug": "galaxy-s25-ultra-512-gb-tem-51percent-off-na-semana-do-anuncio-da-linha-s26",
+      "title": "Influenciador Hytalo Santos é condenado por exploração de menores; defesa vai recorrer",
+      "slug": "influenciador-hytalo-santos-e-condenado-por-exploracao-de-menores-defesa-vai-recorrer",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-23T18:31:31.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-51-off-na-semana-do-anuncio-da-linha-s26/"
-    },
-    {
-      "title": "Sam Altman alega que humanos também consomem muita energia",
-      "slug": "sam-altman-alega-que-humanos-tambem-consomem-muita-energia",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-23T18:09:44.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-23T20:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/sam-altman-alega-que-humanos-tambem-consomem-muita-energia/"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411052-influenciador-hytalo-santos-e-condenado-por-exploracao-de-menores-defesa-vai-recorrer.htm"
     },
     {
-      "title": "Kindle Colorsoft tem 25% OFF em até 10x na Kindle Week da Amazon",
-      "slug": "kindle-colorsoft-tem-25percent-off-em-ate-10x-na-kindle-week-da-amazon",
+      "title": "Da vitrola ao Bluetooth: como as caixas de som evoluíram",
+      "slug": "da-vitrola-ao-bluetooth-como-as-caixas-de-som-evoluiram",
       "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-23T17:05:46.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/kindle-colorsoft-tem-25-off-em-ate-10x-na-kindle-week-da-amazon/"
-    },
-    {
-      "title": "Robô que aspira e passa pano em casa grande sai por menos de R$ 700 na Kabum",
-      "slug": "robo-que-aspira-e-passa-pano-em-casa-grande-sai-por-menos-de-rdollar-700-na-kabum",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T18:38:10.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-23T20:44:44.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/eletro/robo-que-aspira-e-passa-pano-em-casa-grande-sai-por-menos-de-r-700-na-kabum/"
+      "original_url": "https://www.tecmundo.com.br/produto/411053-da-vitrola-ao-bluetooth-como-as-caixas-de-som-evoluiram.htm"
     },
     {
-      "title": "PayPal revela violação de segurança que expôs dados de usuários por 6 meses",
-      "slug": "paypal-revela-violacao-de-seguranca-que-expos-dados-de-usuarios-por-6-meses",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T18:35:00.000Z",
+      "title": "Oppo lança smartphone de entrada A6x com bateria grande por R$ 1,1 mil",
+      "slug": "oppo-lanca-smartphone-de-entrada-a6x-com-bateria-grande-por-rdollar-11-mil",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-23T20:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/paypal-revela-violacao-de-seguranca-que-expos-dados-de-usuarios-por-6-meses/"
+      "original_url": "https://www.tecmundo.com.br/produto/411048-oppo-lanca-smartphone-de-entrada-a6x-com-bateria-grande-por-r-11-mil.htm"
     },
     {
-      "title": "Apple Esportes enfim chega ao Brasil com placares de jogos nacionais no iPhone",
-      "slug": "apple-esportes-enfim-chega-ao-brasil-com-placares-de-jogos-nacionais-no-iphone",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T18:34:55.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/apple-esportes-enfim-chega-ao-brasil-com-placares-de-jogos-nacionais-no-iphone/"
-    },
-    {
-      "title": "Samsung pode \"matar\" Galaxy S21 FE antes do fim do suporte; entenda o caso",
-      "slug": "samsung-pode-matar-galaxy-s21-fe-antes-do-fim-do-suporte-entenda-o-caso",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T18:03:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-pode-matar-galaxy-s21-fe-antes-do-fim-do-suporte-entenda-o-caso/"
-    },
-    {
-      "title": "IPVA atrasou? Veja como regularizar o débito e quitar o imposto",
-      "slug": "ipva-atrasou-veja-como-regularizar-o-debito-e-quitar-o-imposto",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T17:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/ipva-atrasou-veja-como-regularizar-o-debito-e-quitar-o-imposto/"
-    },
-    {
-      "title": "Correndo atrás da AMD, Intel desiste de CPUs com núcleos híbridos",
-      "slug": "correndo-atras-da-amd-intel-desiste-de-cpus-com-nucleos-hibridos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T17:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/correndo-atras-da-amd-intel-desiste-de-cpus-com-nucleos-hibridos/"
-    },
-    {
-      "title": "Galaxy S22 desliga sozinho? Usuários relatam problema no modelo após atualização",
-      "slug": "galaxy-s22-desliga-sozinho-usuarios-relatam-problema-no-modelo-apos-atualizacao",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T17:15:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/galaxy-s22-desliga-sozinho-usuarios-relatam-problema-no-modelo-apos-atualizacao/"
-    },
-    {
-      "title": "Forza Horizon 6 revela novas imagens de mundo aberto no Japão",
-      "slug": "forza-horizon-6-revela-novas-imagens-de-mundo-aberto-no-japao",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-23T17:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/forza-horizon-6-revela-novas-imagens-de-mundo-aberto-no-japao/"
-    },
-    {
-      "title": "Ligações interurbanas ficam mais baratas em 6 estados do Nordeste",
-      "slug": "ligacoes-interurbanas-ficam-mais-baratas-em-6-estados-do-nordeste",
+      "title": "Netflix recebe 6 filmes e séries de peso na semana! Veja lista de lançamentos (23)",
+      "slug": "netflix-recebe-6-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-23",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-23T19:00:00.000Z",
+      "date": "2026-02-23T20:15:26.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411031-ligacoes-interurbanas-ficam-mais-baratas-em-6-estados-do-nordeste.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603186-netflix-recebe-6-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-23.htm"
     },
     {
-      "title": "Conta de luz pode ficar até 12% mais cara em 2026, estimam analistas",
-      "slug": "conta-de-luz-pode-ficar-ate-12percent-mais-cara-em-2026-estimam-analistas",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-23T18:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411044-conta-de-luz-pode-ficar-ate-12-mais-cara-em-2026-estimam-analistas.htm"
-    },
-    {
-      "title": "Paradise Temporada 2 tem quantos episódios? Confira calendário de lançamento no Disney+",
-      "slug": "paradise-temporada-2-tem-quantos-episodios-confira-calendario-de-lancamento-no-disney",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-23T18:15:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603188-paradise-temporada-2-tem-quantos-episodios-confira-calendario-de-lancamento-no-disney.htm"
-    },
-    {
-      "title": "Lojas oficiais na Shopee tem ofertas em eletrônicos e itens inteligentes com até 63% OFF",
-      "slug": "lojas-oficiais-na-shopee-tem-ofertas-em-eletronicos-e-itens-inteligentes-com-ate-63percent-off",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-23T18:06:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411041-lojas-oficiais-na-shopee-tem-ofertas-em-eletronicos-e-itens-inteligentes-com-ate-63-off.htm"
-    },
-    {
-      "title": "Apple testa iPhone 18 Pro em cor inédita para a série",
-      "slug": "apple-testa-iphone-18-pro-em-cor-inedita-para-a-serie",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-23T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411026-apple-testa-iphone-18-pro-em-cor-inedita-para-a-serie.htm"
-    },
-    {
-      "title": "Review: High on Life 2 é ainda mais inovador sem o criador de Rick and Morty",
-      "slug": "review-high-on-life-2-e-ainda-mais-inovador-sem-o-criador-de-rick-and-morty",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-23T17:15:20.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503555-review-high-on-life-2-e-ainda-mais-inovador-sem-o-criador-de-rick-and-morty.htm"
-    },
-    {
-      "title": "Empresas chinesas usaram Claude para melhorar seus próprios modelos, diz Anthropic",
-      "slug": "empresas-chinesas-usaram-claude-para-melhorar-seus-proprios-modelos-diz-anthropic",
+      "title": "'Alexa tunada'? 1º produto da OpenAI deve ser um alto-falante com câmera",
+      "slug": "alexa-tunada-1o-produto-da-openai-deve-ser-um-alto-falante-com-camera",
       "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-23T19:02:53.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-23T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/empresas-chinesas-usaram-claude-para-melhorar-seus-proprios-modelos-diz-anthropic.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411035-alexa-tunada-1-produto-da-openai-deve-ser-um-alto-falante-com-camera.htm"
     },
     {
-      "title": "OpenAI aprofunda parcerias com gigantes da consultoria para avançar em IA empresarial",
-      "slug": "openai-aprofunda-parcerias-com-gigantes-da-consultoria-para-avancar-em-ia-empresarial",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-23T18:04:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/openai-aprofunda-parcerias-com-gigantes-da-consultoria-para-avancar-em-ia-empresarial.htm"
-    },
-    {
-      "title": "Já existe site para IA contratar humanos para fazer aquilo que não consegue",
-      "slug": "ja-existe-site-para-ia-contratar-humanos-para-fazer-aquilo-que-nao-consegue",
+      "title": "Winona Ryder em Wandinha 3ª temporada! Atriz de Stranger Things é anunciada no elenco",
+      "slug": "winona-ryder-em-wandinha-3a-temporada-atriz-de-stranger-things-e-anunciada-no-elenco",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-23T17:30:52.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-23T19:40:06.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/02/23/ja-existe-site-para-ia-contratar-humanos-para-fazer-aquilo-que-nao-consegue.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603192-winona-ryder-em-wandinha-a-atriz-de-stranger-things-foi-anunciada-como-parte-do-elenco-da-3-temporada.htm"
     },
     {
-      "title": "OpenAI prevê investimento com computação de cerca de US$600 bi até 2030, diz fonte",
-      "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
+      "title": "Telonas em oferta no Magalu: smart TVs a partir de 60 polegadas em promoção",
+      "slug": "telonas-em-oferta-no-magalu-smart-tvs-a-partir-de-60-polegadas-em-promocao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-23T19:36:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411046-telonas-em-oferta-no-magalu-smart-tvs-a-partir-de-60-polegadas-em-promocao.htm"
+    },
+    {
+      "title": "Discord fora do ar? Plataforma instável nesta segunda-feira (23)",
+      "slug": "discord-fora-do-ar-plataforma-instavel-nesta-segunda-feira-23",
+      "topic": "infra-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-23T19:30:22.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/411050-discord-fora-do-ar-plataforma-instavel-nesta-segunda-feira-23.htm"
+    },
+    {
+      "title": "Ações de empresas de segurança digital caem após lançamento da Anthropic",
+      "slug": "acoes-de-empresas-de-seguranca-digital-caem-apos-lancamento-da-anthropic",
       "topic": "llms",
       "source": "UOL Tecnologia",
-      "date": "2026-02-23T14:18:51.000Z",
+      "date": "2026-02-23T20:58:04.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/openai-preve-investimento-com-computacao-de-cerca-de-us600-bi-ate-2030-diz-fonte.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/acoes-de-empresas-de-seguranca-digital-caem-apos-lancamento-da-anthropic.htm"
+    },
+    {
+      "title": "Canadá convoca equipe de segurança da OpenAI após tiroteio em escola",
+      "slug": "canada-convoca-equipe-de-seguranca-da-openai-apos-tiroteio-em-escola",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-23T19:51:37.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/canada-convoca-equipe-de-seguranca-da-openai-apos-tiroteio-em-escola.htm"
+    },
+    {
+      "title": "Meta admite que 1 em cada 5 adolescentes no Instagram já viu imagens de nudez",
+      "slug": "meta-admite-que-1-em-cada-5-adolescentes-no-instagram-ja-viu-imagens-de-nudez",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-23T18:32:04.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/pesquisa-da-meta-diz-que-19-dos-adolescentes-no-instagram-viram-imagens-de-nudez.htm"
     }
   ]
 }

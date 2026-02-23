@@ -1,6 +1,6 @@
 {
-  "slug": "meta-admite-que-1-em-cada-5-adolescentes-no-instagram-ja-viu-imagens-de-nudez",
-  "generated_at": "2026-02-23T21:17:40.080Z",
+  "slug": "da-vitrola-ao-bluetooth-como-as-caixas-de-som-evoluiram",
+  "generated_at": "2026-02-23T21:11:52.460Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 321,
+      "words": 382,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 0,
       "min": 3
     }
   ],
