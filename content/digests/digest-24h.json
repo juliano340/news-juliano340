@@ -1,34 +1,16 @@
 {
-  "generated_at": "2026-02-23T01:01:53.715Z",
+  "generated_at": "2026-02-23T07:01:02.434Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 1,
   "posts": [
     {
-      "title": "O que são habilidades nas IAs? Veja como funcionam as skills do Claude",
-      "slug": "o-que-sao-habilidades-nas-ias-veja-como-funcionam-as-skills-do-claude",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-23T00:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-que-sao-habilidades-nas-ias-veja-como-funcionam-as-skills-do-claude/"
-    },
-    {
-      "title": "Pânico 7, Sirāt e mais! Os lançamentos de filmes e séries da semana (22/02)",
-      "slug": "panico-7-sirat-e-mais-os-lancamentos-de-filmes-e-series-da-semana-2202",
+      "title": "Perfis da Oppo e Huawei no Brasil sofrem ataque",
+      "slug": "perfis-da-oppo-e-huawei-no-brasil-sofrem-ataque",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-22T23:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-23T05:25:33.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603137-panico-7-sirat-e-mais-os-lancamentos-de-filmes-e-series-da-semana-2202.htm"
-    },
-    {
-      "title": "Mewgenics: 7 dicas para quem está começando a jogar",
-      "slug": "mewgenics-7-dicas-para-quem-esta-comecando-a-jogar",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-22T20:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503570-mewgenics-7-dicas-para-quem-esta-comecando-a-jogar.htm"
+      "original_url": "https://tecnoblog.net/noticias/perfis-da-oppo-e-huawei-no-brasil-sofrem-ataque/"
     }
   ]
 }
