@@ -1,22 +1,25 @@
 # Weekly IA para Devs - 2026-02-23
 
-Gerado em 2026-02-23T13:13:30.004Z
+Gerado em 2026-02-23T15:15:56.428Z
 
-- [Códigos e cheats de Pokémon Soul Silver e Heart Gold](https://tecnoblog.net/responde/cheats-para-pokemon-soul-silver-e-heart-gold/) | topico: geral | score: 100
-- [Como criar imagens com IA no Duck.ai](https://canaltech.com.br/apps/como-criar-imagens-com-ia-no-duckai/) | topico: llms | score: 100
-- [Prêmio Canaltech chega à 9ª edição consolidado como referência no setor](https://canaltech.com.br/mercado/premio-canaltech-chega-a-9a-edicao-consolidado-como-referencia-no-setor/) | topico: geral | score: 100
-- [iPhone Air customizado tem partes em ouro e preço bem alto](https://canaltech.com.br/smartphone/iphone-air-customizado-tem-partes-em-ouro-e-preco-bem-alto/) | topico: geral | score: 92
-- ['Hey, Plex': agente de IA da Perplexity será integrado a celulares da Samsung](https://canaltech.com.br/apps/hey-plex-agente-de-ia-da-perplexity-sera-integrado-a-celulares-da-samsung/) | topico: agentes | score: 100
-- [50 milhões de imagens foram criadas no ChatGPT durante o carnaval, diz OpenAI](https://canaltech.com.br/apps/50-milhoes-de-imagens-foram-criadas-no-chatgpt-durante-o-carnaval-diz-openai/) | topico: llms | score: 100
-- [Pré-venda de GTA 6 no Brasil começa com preço que vai fazer você chorar](https://canaltech.com.br/games/pre-venda-de-gta-6-no-brasil-comeca-com-preco-que-vai-fazer-voce-chorar/) | topico: geral | score: 92
-- [Motorista toma susto com preço para consertar peça "invisível" em carro híbrido](https://canaltech.com.br/carros/motorista-toma-susto-com-preco-para-consertar-peca-invisivel-em-carro-hibrido/) | topico: geral | score: 100
-- [Novo celular top global da Xiaomi surge em anúncio antes da hora](https://canaltech.com.br/smartphone/novo-celular-top-global-da-xiaomi-surge-em-anuncio-antes-da-hora/) | topico: geral | score: 100
-- [Primeiro malware que usa IA generativa em ataques no Android é descoberto](https://canaltech.com.br/seguranca/primeiro-malware-que-usa-ia-generativa-em-ataques-no-android-e-descoberto/) | topico: geral | score: 100
-- [Como funciona o Lyria 3, a IA do Google para músicas?](https://canaltech.com.br/inteligencia-artificial/como-funciona-o-lyria-3-a-ia-do-google-para-musicas/) | topico: llms | score: 100
-- [Kindle Week 2026 tem eReaders com até 25% de desconto na Amazon](https://www.tecmundo.com.br/guia-de-compras/411022-kindle-week-2026-tem-ereaders-com-ate-25-de-desconto-na-amazon.htm) | topico: agentes | score: 100
-- [Play Store ganha apps e pacotes de ícones para baixar grátis por tempo limitado](https://www.tecmundo.com.br/software/411017-play-store-ganha-apps-e-pacotes-de-icones-para-baixar-gratis-por-tempo-limitado.htm) | topico: produtividade-dev | score: 100
-- [Jessie Buckley: a trajetória até a indicação ao Oscar](https://www.tecmundo.com.br/minha-serie/603146-jessie-buckley-a-trajetoria-ate-a-indicacao-ao-oscar.htm) | topico: geral | score: 92
-- [God of War Sons of Sparta capricha em acessibilidade? Veja review](https://www.tecmundo.com.br/voxel/503553-god-of-war-sons-of-sparta-capricha-em-acessibilidade-veja-review.htm) | topico: geral | score: 92
-- [8 jogos que você entende melhor quando fica adulto](https://www.tecmundo.com.br/voxel/503517-8-jogos-que-voce-entende-melhor-quando-fica-adulto.htm) | topico: geral | score: 92
-- [Casas de apostas com cashback: entenda como funciona e como escolher](https://www.tecmundo.com.br/apostas/410995-casas-de-apostas-com-cashback-entenda-como-funciona-e-como-escolher.htm) | topico: geral | score: 100
-- [Big techs encaram onda de ações nos EUA por danos a crianças](https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/02/23/big-techs-encaram-onda-de-acoes-nos-eua-por-danos-a-criancas.htm) | topico: geral | score: 100
+- [iPhone 16 surge em oferta com 45% de desconto no Mercado Livre](https://tecnoblog.net/achados/iphone-16-surge-em-oferta-com-45-de-desconto-no-mercado-livre/) | topico: geral | score: 92
+- [Galaxy S26 terá suporte a agente de IA da Perplexity](https://tecnoblog.net/noticias/galaxy-s26-tera-suporte-a-agente-de-ia-da-perplexity/) | topico: llms | score: 100
+- [Samsung está pronta para vender o Galaxy A57 no Brasil](https://tecnoblog.net/noticias/samsung-esta-pronta-para-vender-o-galaxy-a57-no-brasil/) | topico: geral | score: 92
+- [YouTuber vaza detalhes do Galaxy S26 Ultra antes da hora](https://tecnoblog.net/noticias/youtuber-vaza-detalhes-do-galaxy-s26-ultra-antes-da-hora/) | topico: geral | score: 100
+- [Fim de uma era: Phil Spencer e Sarah Bond deixam o comando da Xbox](https://canaltech.com.br/games/fim-de-uma-era-phil-spencer-e-sarah-bond-deixam-o-comando-da-xbox/) | topico: geral | score: 100
+- [WhatsApp vai levar o visual do iOS 26 para as conversas, antecipa portal](https://canaltech.com.br/apps/whatsapp-vai-levar-o-visual-do-ios-26-para-as-conversas-antecipa-portal/) | topico: geral | score: 92
+- [Avião gigante pousa pela 1ª vez em aeroporto de SP após voo direto de Sydney](https://canaltech.com.br/carros/aviao-gigante-pousa-pela-1a-vez-em-aeroporto-de-sp-apos-voo-direto-de-sydney/) | topico: infra-ia | score: 100
+- [Chrome vai deixar você controlar o Modo IA sem sair da barra de pesquisa](https://canaltech.com.br/software/chrome-vai-deixar-voce-controlar-o-modo-ia-sem-sair-da-barra-de-pesquisa/) | topico: llms | score: 92
+- [Mercado Livre faz queima de fone sem fio da Samsung; Buds Core em oferta](https://canaltech.com.br/fone-de-ouvido/mercado-livre-faz-queima-de-fone-sem-fio-da-samsung-buds-core-em-oferta/) | topico: geral | score: 100
+- [Aplicativos de IPTV estão sendo usados para entregar malwares e roubar vítimas](https://canaltech.com.br/seguranca/aplicativos-de-iptv-estao-sendo-usados-para-entregar-malwares-e-roubar-vitimas/) | topico: geral | score: 100
+- [Vazou tudo sobre novo fone top da Samsung; gestos de cabeça e mais revelações](https://canaltech.com.br/fone-de-ouvido/vazou-tudo-sobre-novo-fone-top-da-samsung-gestos-de-cabeca-e-mais-revelacoes/) | topico: geral | score: 100
+- [Novo iPhone terá câmera frontal com mais megapixels, diz leaker](https://canaltech.com.br/smartphone/novo-iphone-tera-camera-frontal-com-mais-megapixels-diz-leaker/) | topico: geral | score: 100
+- ['Pagar pelas consequências': Trump ameaça Netflix após críticas de conselheira](https://www.tecmundo.com.br/mercado/411021-pagar-pelas-consequencias-trump-ameaca-netflix-apos-criticas-de-conselheira.htm) | topico: geral | score: 100
+- [Galaxy S26 Ultra vaza em unboxing; novo Privacy Display é revelado](https://www.tecmundo.com.br/produto/411025-galaxy-s26-ultra-vaza-em-unboxing-novo-privacy-display-e-revelado.htm) | topico: geral | score: 100
+- [Segunda Temporada de O Cavaleiro dos Sete Reinos levará personagens para Dorne](https://www.tecmundo.com.br/minha-serie/603187-segunda-temporada-de-o-cavaleiro-dos-sete-reinos-levara-personagens-para-dorne.htm) | topico: geral | score: 92
+- [Samsung Galaxy Z TriFold esgotou o estoque em menos de 10 minutos](https://www.tecmundo.com.br/produto/411020-samsung-galaxy-z-trifold-esgotou-o-estoque-em-menos-de-10-minutos.htm) | topico: geral | score: 100
+- [Tablets, mouses, impressoras e mais eletrônicos em promoção na Amazon](https://www.tecmundo.com.br/guia-de-compras/411019-tablets-mouses-impressoras-e-mais-eletronicos-em-promocao-na-amazon.htm) | topico: geral | score: 92
+- [Perfis da Oppo e Huawei no Instagram são invadidos; criminosos imploram por 'visualizações'](https://www.tecmundo.com.br/seguranca/411023-perfis-da-oppo-e-huawei-no-instagram-sao-invadidos-criminosos-imploram-por-visualizacoes.htm) | topico: geral | score: 100
+- [Sam Altman compara gasto de IAs com humanos: "Leva 20 anos de vida e comida"](https://www.tecmundo.com.br/mercado/411018-sam-altman-compara-gasto-de-ias-com-humanos-leva-20-anos-de-vida-e-comida.htm) | topico: geral | score: 100
+- [Nasa adia novamente missão tripulada para a Lua: o que está acontecendo?](https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/02/23/nasa-adia-novamente-missao-tripulada-para-a-lua-o-que-esta-acontecendo.htm) | topico: geral | score: 100
+- [Google hospeda app ilegal de cassino e escancara atrito de bets e big techs](https://www.uol.com.br/tilt/noticias/redacao/2026/02/23/google-hospeda-app-ilegal-de-cassino-e-escancara-atrito-de-bets-e-big-techs.htm) | topico: geral | score: 100

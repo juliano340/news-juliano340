@@ -1,6 +1,6 @@
 {
-  "slug": "sam-altman-compara-gasto-de-ias-com-humanos-leva-20-anos-de-vida-e-comida",
-  "generated_at": "2026-02-23T15:14:29.791Z",
+  "slug": "aviao-gigante-pousa-pela-1a-vez-em-aeroporto-de-sp-apos-voo-direto-de-sydney",
+  "generated_at": "2026-02-23T15:07:33.852Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 365,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "sam-altman-compara-gasto-de-ias-com-humanos-leva-20-anos-de-vida-e-comida",
-  "generated_at": "2026-02-23T15:14:29.791Z",
+  "slug": "vazou-tudo-sobre-novo-fone-top-da-samsung-gestos-de-cabeca-e-mais-revelacoes",
+  "generated_at": "2026-02-23T15:09:59.628Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 324,
       "min": 220
     },
     {

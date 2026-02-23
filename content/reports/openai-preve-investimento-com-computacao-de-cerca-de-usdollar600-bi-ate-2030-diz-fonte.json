@@ -1,7 +1,7 @@
 {
-  "slug": "sam-altman-compara-gasto-de-ias-com-humanos-leva-20-anos-de-vida-e-comida",
-  "generated_at": "2026-02-23T15:14:29.791Z",
-  "status": "PASS",
+  "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
+  "generated_at": "2026-02-23T15:15:10.280Z",
+  "status": "BLOCK",
   "checks": [
     {
       "id": "sections",
@@ -32,10 +32,10 @@
     },
     {
       "id": "min_words",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 291,
+      "words": 208,
       "min": 220
     },
     {
@@ -92,84 +92,9 @@
     }
   ],
   "warnings": [],
-  "errors": [],
-  "score": 100,
-  "metadata": {
-    "status": "PASS",
-    "checks": [
-      {
-        "id": "required_title",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_slug",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_date",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_source",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_original_url",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_primary_source",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_content",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_meta_description",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_canonical_url",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "slug_format",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "original_url_format",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "canonical_matches_slug",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "meta_description_length",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "schema_min_fields",
-        "status": "PASS",
-        "level": "BLOCK"
-      }
-    ],
-    "warnings": [],
-    "errors": [],
-    "score": 100
-  }
+  "errors": [
+    "conteudo_curto"
+  ],
+  "score": 92,
+  "metadata": null
 }
