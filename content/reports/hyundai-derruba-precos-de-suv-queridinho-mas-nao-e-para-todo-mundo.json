@@ -1,6 +1,6 @@
 {
   "slug": "hyundai-derruba-precos-de-suv-queridinho-mas-nao-e-para-todo-mundo",
-  "generated_at": "2026-02-23T21:07:06.806Z",
+  "generated_at": "2026-02-23T23:05:53.467Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 340,
+      "words": 258,
       "min": 220
     },
     {
