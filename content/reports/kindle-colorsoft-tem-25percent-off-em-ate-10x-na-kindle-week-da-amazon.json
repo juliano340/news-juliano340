@@ -1,6 +1,6 @@
 {
-  "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
-  "generated_at": "2026-02-23T19:15:16.050Z",
+  "slug": "kindle-colorsoft-tem-25percent-off-em-ate-10x-na-kindle-week-da-amazon",
+  "generated_at": "2026-02-23T19:03:18.811Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 255,
+      "words": 335,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
-  "generated_at": "2026-02-23T19:15:16.050Z",
+  "slug": "sam-altman-alega-que-humanos-tambem-consomem-muita-energia",
+  "generated_at": "2026-02-23T19:02:27.374Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 255,
+      "words": 317,
       "min": 220
     },
     {

@@ -1,142 +1,214 @@
 {
-  "generated_at": "2026-02-23T17:12:27.867Z",
+  "generated_at": "2026-02-23T19:15:17.054Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 15,
+  "total": 23,
   "posts": [
     {
-      "title": "Códigos de Blue Lock Rivals: veja lista com os códigos do Roblox de fevereiro",
-      "slug": "codigos-de-blue-lock-rivals-veja-lista-com-os-codigos-do-roblox-de-fevereiro",
+      "title": "Galaxy S26: o que esperar dos próximos celulares da Samsung",
+      "slug": "galaxy-s26-o-que-esperar-dos-proximos-celulares-da-samsung",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-23T16:52:18.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/responde/codigos-de-blue-lock-rivals-veja-lista-com-os-codigos-do-roblox-de-fevereiro/"
+      "date": "2026-02-23T18:46:52.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/noticias/galaxy-s26-o-que-esperar-dos-proximos-celulares-da-samsung/"
     },
     {
-      "title": "Kindle Paperwhite Signature Edition sai por até 10x sem juros na Kindle Week",
-      "slug": "kindle-paperwhite-signature-edition-sai-por-ate-10x-sem-juros-na-kindle-week",
+      "title": "Poco F8 Pro e mais celulares da Xiaomi são homologados no Brasil",
+      "slug": "poco-f8-pro-e-mais-celulares-da-xiaomi-sao-homologados-no-brasil",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-02-23T18:43:09.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/poco-f8-pro-e-mais-celulares-da-xiaomi-sao-homologados-no-brasil/"
+    },
+    {
+      "title": "Galaxy S25 Ultra (512 GB) tem 51% OFF na semana do anúncio da linha S26",
+      "slug": "galaxy-s25-ultra-512-gb-tem-51percent-off-na-semana-do-anuncio-da-linha-s26",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-23T18:31:31.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-51-off-na-semana-do-anuncio-da-linha-s26/"
+    },
+    {
+      "title": "Sam Altman alega que humanos também consomem muita energia",
+      "slug": "sam-altman-alega-que-humanos-tambem-consomem-muita-energia",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-02-23T18:09:44.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/sam-altman-alega-que-humanos-tambem-consomem-muita-energia/"
+    },
+    {
+      "title": "Kindle Colorsoft tem 25% OFF em até 10x na Kindle Week da Amazon",
+      "slug": "kindle-colorsoft-tem-25percent-off-em-ate-10x-na-kindle-week-da-amazon",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-23T16:08:56.000Z",
+      "date": "2026-02-23T17:05:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/kindle-paperwhite-signature-edition-sai-por-ate-10x-sem-juros-na-kindle-week/"
+      "original_url": "https://tecnoblog.net/achados/kindle-colorsoft-tem-25-off-em-ate-10x-na-kindle-week-da-amazon/"
     },
     {
-      "title": "Nvidia deve lançar chips para laptops e brigar com Apple e Qualcomm",
-      "slug": "nvidia-deve-lancar-chips-para-laptops-e-brigar-com-apple-e-qualcomm",
+      "title": "Robô que aspira e passa pano em casa grande sai por menos de R$ 700 na Kabum",
+      "slug": "robo-que-aspira-e-passa-pano-em-casa-grande-sai-por-menos-de-rdollar-700-na-kabum",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-23T15:54:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/nvidia-deve-lancar-chips-para-laptops-e-brigar-com-apple-e-qualcomm/"
-    },
-    {
-      "title": "Galaxy Z Fold 7 (1 TB) possui 39% OFF em até 12x sem juros na Amazon",
-      "slug": "galaxy-z-fold-7-1-tb-possui-39percent-off-em-ate-12x-sem-juros-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-23T15:06:05.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-23T18:38:10.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-z-fold-7-1-tb-possui-39-off-em-ate-12x-sem-juros-na-amazon/"
+      "original_url": "https://canaltech.com.br/eletro/robo-que-aspira-e-passa-pano-em-casa-grande-sai-por-menos-de-r-700-na-kabum/"
     },
     {
-      "title": "Upgrade agora: RX 9060 XT Hellhound 16 GB sem crise e com desconto agressivo",
-      "slug": "upgrade-agora-rx-9060-xt-hellhound-16-gb-sem-crise-e-com-desconto-agressivo",
+      "title": "PayPal revela violação de segurança que expôs dados de usuários por 6 meses",
+      "slug": "paypal-revela-violacao-de-seguranca-que-expos-dados-de-usuarios-por-6-meses",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-23T16:23:53.000Z",
+      "date": "2026-02-23T18:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/upgrade-agora-rx-9060-xt-hellhound-16-gb-sem-crise-e-com-desconto-agressivo/"
+      "original_url": "https://canaltech.com.br/seguranca/paypal-revela-violacao-de-seguranca-que-expos-dados-de-usuarios-por-6-meses/"
     },
     {
-      "title": "Nova CNH: o que mudou na habilitação para motos?",
-      "slug": "nova-cnh-o-que-mudou-na-habilitacao-para-motos",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-02-23T16:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/nova-cnh-o-que-mudou-na-habilitacao-para-motos/"
-    },
-    {
-      "title": "App do Itaú agora mostra todos os recebimentos de empresas em um único lugar",
-      "slug": "app-do-itau-agora-mostra-todos-os-recebimentos-de-empresas-em-um-unico-lugar",
+      "title": "Apple Esportes enfim chega ao Brasil com placares de jogos nacionais no iPhone",
+      "slug": "apple-esportes-enfim-chega-ao-brasil-com-placares-de-jogos-nacionais-no-iphone",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-23T15:24:00.000Z",
+      "date": "2026-02-23T18:34:55.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/app-do-itau-agora-mostra-todos-os-recebimentos-de-empresas-em-um-unico-lugar/"
+      "original_url": "https://canaltech.com.br/apps/apple-esportes-enfim-chega-ao-brasil-com-placares-de-jogos-nacionais-no-iphone/"
     },
     {
-      "title": "Malware escondido nos pixels de imagens foi disseminado via NPM",
-      "slug": "malware-escondido-nos-pixels-de-imagens-foi-disseminado-via-npm",
+      "title": "Samsung pode \"matar\" Galaxy S21 FE antes do fim do suporte; entenda o caso",
+      "slug": "samsung-pode-matar-galaxy-s21-fe-antes-do-fim-do-suporte-entenda-o-caso",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T18:03:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/samsung-pode-matar-galaxy-s21-fe-antes-do-fim-do-suporte-entenda-o-caso/"
+    },
+    {
+      "title": "IPVA atrasou? Veja como regularizar o débito e quitar o imposto",
+      "slug": "ipva-atrasou-veja-como-regularizar-o-debito-e-quitar-o-imposto",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T17:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/ipva-atrasou-veja-como-regularizar-o-debito-e-quitar-o-imposto/"
+    },
+    {
+      "title": "Correndo atrás da AMD, Intel desiste de CPUs com núcleos híbridos",
+      "slug": "correndo-atras-da-amd-intel-desiste-de-cpus-com-nucleos-hibridos",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T17:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/correndo-atras-da-amd-intel-desiste-de-cpus-com-nucleos-hibridos/"
+    },
+    {
+      "title": "Galaxy S22 desliga sozinho? Usuários relatam problema no modelo após atualização",
+      "slug": "galaxy-s22-desliga-sozinho-usuarios-relatam-problema-no-modelo-apos-atualizacao",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T17:15:17.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/galaxy-s22-desliga-sozinho-usuarios-relatam-problema-no-modelo-apos-atualizacao/"
+    },
+    {
+      "title": "Forza Horizon 6 revela novas imagens de mundo aberto no Japão",
+      "slug": "forza-horizon-6-revela-novas-imagens-de-mundo-aberto-no-japao",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-23T17:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/forza-horizon-6-revela-novas-imagens-de-mundo-aberto-no-japao/"
+    },
+    {
+      "title": "Ligações interurbanas ficam mais baratas em 6 estados do Nordeste",
+      "slug": "ligacoes-interurbanas-ficam-mais-baratas-em-6-estados-do-nordeste",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-23T17:00:00.000Z",
+      "date": "2026-02-23T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411027-malware-escondido-nos-pixels-de-imagens-foi-disseminado-via-npm.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411031-ligacoes-interurbanas-ficam-mais-baratas-em-6-estados-do-nordeste.htm"
     },
     {
-      "title": "Aquecimento 3.3 no Mercado Livre celebra o mês do consumidor com descontos",
-      "slug": "aquecimento-33-no-mercado-livre-celebra-o-mes-do-consumidor-com-descontos",
+      "title": "Conta de luz pode ficar até 12% mais cara em 2026, estimam analistas",
+      "slug": "conta-de-luz-pode-ficar-ate-12percent-mais-cara-em-2026-estimam-analistas",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-23T16:36:00.000Z",
+      "date": "2026-02-23T18:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411032-aquecimento-33-no-mercado-livre-celebra-o-mes-do-consumidor-com-descontos.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411044-conta-de-luz-pode-ficar-ate-12-mais-cara-em-2026-estimam-analistas.htm"
     },
     {
-      "title": "Brasil entra no top 3 global de ataques de ransomware",
-      "slug": "brasil-entra-no-top-3-global-de-ataques-de-ransomware",
+      "title": "Paradise Temporada 2 tem quantos episódios? Confira calendário de lançamento no Disney+",
+      "slug": "paradise-temporada-2-tem-quantos-episodios-confira-calendario-de-lancamento-no-disney",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-23T16:30:00.000Z",
+      "date": "2026-02-23T18:15:57.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411039-brasil-entra-no-top-3-global-de-ataques-de-ransomware.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603188-paradise-temporada-2-tem-quantos-episodios-confira-calendario-de-lancamento-no-disney.htm"
     },
     {
-      "title": "Ataque cibernético na Fundação Getúlio Vargas teria desestabilizado sistemas",
-      "slug": "ataque-cibernetico-na-fundacao-getulio-vargas-teria-desestabilizado-sistemas",
+      "title": "Lojas oficiais na Shopee tem ofertas em eletrônicos e itens inteligentes com até 63% OFF",
+      "slug": "lojas-oficiais-na-shopee-tem-ofertas-em-eletronicos-e-itens-inteligentes-com-ate-63percent-off",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-23T16:12:18.000Z",
+      "date": "2026-02-23T18:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411037-ataque-cibernetico-na-fundacao-getulio-vargas-teria-desestabilizado-sistemas.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411041-lojas-oficiais-na-shopee-tem-ofertas-em-eletronicos-e-itens-inteligentes-com-ate-63-off.htm"
     },
     {
-      "title": "Vale a pena? Fone HUAWEI FreeBuds 6 entra em oferta com superdesconto na Amazon",
-      "slug": "vale-a-pena-fone-huawei-freebuds-6-entra-em-oferta-com-superdesconto-na-amazon",
+      "title": "Apple testa iPhone 18 Pro em cor inédita para a série",
+      "slug": "apple-testa-iphone-18-pro-em-cor-inedita-para-a-serie",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-23T16:06:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411029-vale-a-pena-fone-huawei-freebuds-6-entra-em-oferta-com-superdesconto-na-amazon.htm"
-    },
-    {
-      "title": "'Hey, Plex!': Samsung adiciona IA Perplexity ao ecossistema Galaxy AI",
-      "slug": "hey-plex-samsung-adiciona-ia-perplexity-ao-ecossistema-galaxy-ai",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-23T16:00:00.000Z",
+      "date": "2026-02-23T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411024-hey-plex-samsung-adiciona-ia-perplexity-ao-ecossistema-galaxy-ai.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411026-apple-testa-iphone-18-pro-em-cor-inedita-para-a-serie.htm"
     },
     {
-      "title": "Finlandesa IQM Quantum planeja abrir capital nos EUA com avaliação de US$1,8 bilhão",
-      "slug": "finlandesa-iqm-quantum-planeja-abrir-capital-nos-eua-com-avaliacao-de-usdollar18-bilhao",
+      "title": "Review: High on Life 2 é ainda mais inovador sem o criador de Rick and Morty",
+      "slug": "review-high-on-life-2-e-ainda-mais-inovador-sem-o-criador-de-rick-and-morty",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-23T17:15:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503555-review-high-on-life-2-e-ainda-mais-inovador-sem-o-criador-de-rick-and-morty.htm"
+    },
+    {
+      "title": "Empresas chinesas usaram Claude para melhorar seus próprios modelos, diz Anthropic",
+      "slug": "empresas-chinesas-usaram-claude-para-melhorar-seus-proprios-modelos-diz-anthropic",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-23T19:02:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/empresas-chinesas-usaram-claude-para-melhorar-seus-proprios-modelos-diz-anthropic.htm"
+    },
+    {
+      "title": "OpenAI aprofunda parcerias com gigantes da consultoria para avançar em IA empresarial",
+      "slug": "openai-aprofunda-parcerias-com-gigantes-da-consultoria-para-avancar-em-ia-empresarial",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-23T18:04:39.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/openai-aprofunda-parcerias-com-gigantes-da-consultoria-para-avancar-em-ia-empresarial.htm"
+    },
+    {
+      "title": "Já existe site para IA contratar humanos para fazer aquilo que não consegue",
+      "slug": "ja-existe-site-para-ia-contratar-humanos-para-fazer-aquilo-que-nao-consegue",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-23T15:18:36.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/finlandesa-iqm-quantum-planeja-abrir-capital-nos-eua-com-avaliacao-de-us18-bilhao.htm"
+      "date": "2026-02-23T17:30:52.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/02/23/ja-existe-site-para-ia-contratar-humanos-para-fazer-aquilo-que-nao-consegue.htm"
     },
     {
-      "title": "ASML revela avanço em fonte de luz EUV que pode produzir 50% mais chips até 2030",
-      "slug": "asml-revela-avanco-em-fonte-de-luz-euv-que-pode-produzir-50percent-mais-chips-ate-2030",
-      "topic": "geral",
+      "title": "OpenAI prevê investimento com computação de cerca de US$600 bi até 2030, diz fonte",
+      "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
+      "topic": "llms",
       "source": "UOL Tecnologia",
-      "date": "2026-02-23T14:43:27.000Z",
+      "date": "2026-02-23T14:18:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/asml-revela-avanco-em-fonte-de-luz-euv-que-pode-produzir-50-mais-chips-ate-2030.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/23/openai-preve-investimento-com-computacao-de-cerca-de-us600-bi-ate-2030-diz-fonte.htm"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
-  "generated_at": "2026-02-23T19:15:16.050Z",
+  "slug": "correndo-atras-da-amd-intel-desiste-de-cpus-com-nucleos-hibridos",
+  "generated_at": "2026-02-23T19:06:52.745Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 255,
+      "words": 262,
       "min": 220
     },
     {

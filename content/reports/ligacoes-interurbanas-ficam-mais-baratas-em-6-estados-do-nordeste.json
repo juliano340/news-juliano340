@@ -1,6 +1,6 @@
 {
-  "slug": "openai-preve-investimento-com-computacao-de-cerca-de-usdollar600-bi-ate-2030-diz-fonte",
-  "generated_at": "2026-02-23T19:15:16.050Z",
+  "slug": "ligacoes-interurbanas-ficam-mais-baratas-em-6-estados-do-nordeste",
+  "generated_at": "2026-02-23T19:08:45.196Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 255,
+      "words": 357,
       "min": 220
     },
     {
