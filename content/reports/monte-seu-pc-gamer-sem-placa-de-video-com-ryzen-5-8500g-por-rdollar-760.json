@@ -1,6 +1,6 @@
 {
-  "slug": "dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados",
-  "generated_at": "2026-02-24T15:19:40.833Z",
+  "slug": "monte-seu-pc-gamer-sem-placa-de-video-com-ryzen-5-8500g-por-rdollar-760",
+  "generated_at": "2026-02-24T15:09:32.384Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 372,
       "min": 220
     },
     {

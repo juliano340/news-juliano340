@@ -1,97 +1,268 @@
 {
-  "generated_at": "2026-02-24T13:08:26.293Z",
+  "generated_at": "2026-02-24T15:19:43.077Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 10,
+  "total": 29,
   "posts": [
     {
-      "title": "WhatsApp deixará agendar o envio de mensagens, antecipa portal",
-      "slug": "whatsapp-deixara-agendar-o-envio-de-mensagens-antecipa-portal",
+      "title": "'Crianças tiveram seus dados coletados': Reddit é multado em R$ 100 mi no Reino Unido",
+      "slug": "criancas-tiveram-seus-dados-coletados-reddit-e-multado-em-rdollar-100-mi-no-reino-unido",
       "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-02-24T12:54:25.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-24T14:42:50.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/whatsapp-deixara-agendar-o-envio-de-mensagens-antecipa-portal/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/24/criancas-tiveram-seus-dados-coletados-reddit-e-multado-em-r-100-mi-no-reino-unido.ghtml"
     },
     {
-      "title": "Lançamento do Galaxy S26 é amanhã! Veja tudo que já vazou",
-      "slug": "lancamento-do-galaxy-s26-e-amanha-veja-tudo-que-ja-vazou",
+      "title": "1 em cada 5 jovens viu nudez indesejada no Instagram, diz Meta em processo judicial",
+      "slug": "1-em-cada-5-jovens-viu-nudez-indesejada-no-instagram-diz-meta-em-processo-judicial",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-24T13:08:19.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/24/1-em-cada-5-jovens-viu-nudez-indesejada-no-instagram-diz-meta-em-processo-judicial.ghtml"
+    },
+    {
+      "title": "iPhone 16 (256 GB) volta a cair 40% na Amazon em promoção",
+      "slug": "iphone-16-256-gb-volta-a-cair-40percent-na-amazon-em-promocao",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T12:36:34.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T14:36:41.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/lancamento-do-galaxy-s26-e-amanha-veja-tudo-que-ja-vazou/"
+      "original_url": "https://tecnoblog.net/achados/iphone-16-256-gb-volta-a-cair-40-na-amazon-em-promocao/"
     },
     {
-      "title": "Galaxy S26 chegando: veja onde assistir ao evento ao vivo",
-      "slug": "galaxy-s26-chegando-veja-onde-assistir-ao-evento-ao-vivo",
+      "title": "iPhone Air (256 GB) fica 33% mais barato com cupom em oferta na Amazon",
+      "slug": "iphone-air-256-gb-fica-33percent-mais-barato-com-cupom-em-oferta-na-amazon",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T12:27:47.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T14:33:10.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-air-256-gb-fica-33-mais-barato-com-cupom-em-oferta-na-amazon/"
+    },
+    {
+      "title": "Anthropic lança IA para modernizar COBOL e derruba ações da IBM",
+      "slug": "anthropic-lanca-ia-para-modernizar-cobol-e-derruba-acoes-da-ibm",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T14:14:58.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-chegando-veja-onde-assistir-ao-evento-ao-vivo/"
+      "original_url": "https://tecnoblog.net/noticias/anthropic-lanca-ia-para-modernizar-cobol-e-derruba-acoes-da-ibm/"
     },
     {
-      "title": "Tesla derruba preço da Cybertruck para acelerar vendas da picape elétrica",
-      "slug": "tesla-derruba-preco-da-cybertruck-para-acelerar-vendas-da-picape-eletrica",
+      "title": "Outlook tem novo bug e Microsoft sugere gambiarra para consertar",
+      "slug": "outlook-tem-novo-bug-e-microsoft-sugere-gambiarra-para-consertar",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T14:10:38.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/outlook-tem-novo-bug-e-microsoft-sugere-gambiarra-para-consertar/"
+    },
+    {
+      "title": "iPhone 17 Pro (512 GB) tem melhor oferta que já vimos com cupom",
+      "slug": "iphone-17-pro-512-gb-tem-melhor-oferta-que-ja-vimos-com-cupom",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T14:02:12.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-512-gb-tem-melhor-oferta-que-ja-vimos-com-cupom/"
+    },
+    {
+      "title": "iPad Air de 11″ com Apple M3 tem melhor oferta desde dezembro no Magalu",
+      "slug": "ipad-air-de-11-com-apple-m3-tem-melhor-oferta-desde-dezembro-no-magalu",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T13:46:41.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/ipad-air-de-11-com-apple-m3-tem-melhor-oferta-desde-dezembro-no-magalu/"
+    },
+    {
+      "title": "Analistas questionam efeitos da IA na economia dos EUA: “Basicamente zero”",
+      "slug": "analistas-questionam-efeitos-da-ia-na-economia-dos-eua-basicamente-zero",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T13:31:44.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/analistas-questionam-efeitos-da-ia-na-economia-dos-eua-basicamente-zero/"
+    },
+    {
+      "title": "Galaxy Watch 7 (44 mm) tem 64% OFF em oferta exclusiva no app da Amazon",
+      "slug": "galaxy-watch-7-44-mm-tem-64percent-off-em-oferta-exclusiva-no-app-da-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T13:19:44.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-watch-7-44-mm-tem-64-off-em-oferta-exclusiva-no-app-da-amazon/"
+    },
+    {
+      "title": "App do PicPay ganha opção para 'jogar' compra para a próxima fatura do cartão",
+      "slug": "app-do-picpay-ganha-opcao-para-jogar-compra-para-a-proxima-fatura-do-cartao",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-24T14:49:45.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/app-do-picpay-ganha-opcao-para-jogar-compra-para-a-proxima-fatura-do-cartao/"
+    },
+    {
+      "title": "Sem ideias? Gemini ganha modelos para te ajudar a gerar vídeos com IA",
+      "slug": "sem-ideias-gemini-ganha-modelos-para-te-ajudar-a-gerar-videos-com-ia",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-24T14:29:33.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/sem-ideias-gemini-ganha-modelos-para-te-ajudar-a-gerar-videos-com-ia/"
+    },
+    {
+      "title": "Malware pré-instalado no Android pode acessar dados bancários do usuário",
+      "slug": "malware-pre-instalado-no-android-pode-acessar-dados-bancarios-do-usuario",
       "topic": "geral",
       "source": "Canaltech",
+      "date": "2026-02-24T14:25:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/malware-pre-instalado-no-android-pode-acessar-dados-bancarios-do-usuario/"
+    },
+    {
+      "title": "Certificação confirma Galaxy S26 com bateria maior; veja a capacidade",
+      "slug": "certificacao-confirma-galaxy-s26-com-bateria-maior-veja-a-capacidade",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T14:03:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/certificacao-confirma-galaxy-s26-com-bateria-maior-veja-a-capacidade/"
+    },
+    {
+      "title": "Monte seu PC Gamer sem placa de vídeo com Ryzen 5 8500G por R$ 760",
+      "slug": "monte-seu-pc-gamer-sem-placa-de-video-com-ryzen-5-8500g-por-rdollar-760",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T14:02:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/monte-seu-pc-gamer-sem-placa-de-video-com-ryzen-5-8500g-por-r-760/"
+    },
+    {
+      "title": "Conheça o SUV elétrico capaz de \"abastecer\" casa por até uma semana",
+      "slug": "conheca-o-suv-eletrico-capaz-de-abastecer-casa-por-ate-uma-semana",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-24T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/conheca-o-suv-eletrico-capaz-de-abastecer-casa-por-ate-uma-semana/"
+    },
+    {
+      "title": "Foto com vírus: falha no Excel esconde malware perigoso em imagem JPEG",
+      "slug": "foto-com-virus-falha-no-excel-esconde-malware-perigoso-em-imagem-jpeg",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T13:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/foto-com-virus-falha-no-excel-esconde-malware-perigoso-em-imagem-jpeg/"
+    },
+    {
+      "title": "Por que um anúncio da Anthropic fez a IBM perder US$ 30 bilhões em um único dia?",
+      "slug": "por-que-um-anuncio-da-anthropic-fez-a-ibm-perder-usdollar-30-bilhoes-em-um-unico-dia",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T13:37:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/por-que-um-anuncio-da-anthropic-fez-a-ibm-perder-us-30-bilhoes-em-um-unico-dia/"
+    },
+    {
+      "title": "'Não faça isso': IA alucina e apaga todos os e-mails de executiva da Meta",
+      "slug": "nao-faca-isso-ia-alucina-e-apaga-todos-os-e-mails-de-executiva-da-meta",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-02-24T13:33:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/nao-faca-isso-ia-alucina-e-apaga-todos-os-e-mails-de-executiva-da-meta/"
+    },
+    {
+      "title": "Internet não vai mais cair em maquininhas da Cielo; entenda a novidade",
+      "slug": "internet-nao-vai-mais-cair-em-maquininhas-da-cielo-entenda-a-novidade",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T13:13:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/telecom/cielo-quer-garantir-que-internet-nunca-caia-nas-maquininhas-entenda-a-novidade/"
+    },
+    {
+      "title": "Mais do mesmo? Coisas que Samsung deveria mudar na família S26, mas não vai",
+      "slug": "mais-do-mesmo-coisas-que-samsung-deveria-mudar-na-familia-s26-mas-nao-vai",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-24T15:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/celular/411057-mais-do-mesmo-coisas-que-samsung-deveria-mudar-na-familia-s26-mas-nao-vai.htm"
+    },
+    {
+      "title": "Fim da Fábula: megaoperação mira quadrilha suspeita de golpes na internet",
+      "slug": "fim-da-fabula-megaoperacao-mira-quadrilha-suspeita-de-golpes-na-internet",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T14:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411064-fim-da-fabula-megaoperacao-mira-quadrilha-suspeita-de-golpes-na-internet.htm"
+    },
+    {
+      "title": "Dublagem brasileira do God of War de PS2 viraliza! Conheça o meme",
+      "slug": "dublagem-brasileira-do-god-of-war-de-ps2-viraliza-conheca-o-meme",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T14:15:39.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503601-dublagem-brasileira-do-god-of-war-de-ps2-viraliza-conheca-o-meme.htm"
+    },
+    {
+      "title": "Tela 'anticuriosos' do Galaxy S26 pode chegar em breve em celulares chineses",
+      "slug": "tela-anticuriosos-do-galaxy-s26-pode-chegar-em-breve-em-celulares-chineses",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-24T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411061-tela-anticuriosos-do-galaxy-s26-pode-chegar-em-breve-em-celulares-chineses.htm"
+    },
+    {
+      "title": "Cadeiras gamer em promoção e com cupons de até R$50 no Magazine Luiza; aproveite",
+      "slug": "cadeiras-gamer-em-promocao-e-com-cupons-de-ate-rdollar50-no-magazine-luiza-aproveite",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T13:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503600-cadeiras-gamer-em-promocao-e-com-cupons-de-ate-r50-no-magazine-luiza-aproveite.htm"
+    },
+    {
+      "title": "Injúria racial no BAFTA: Entenda polêmica que afetou atores de Pecadores na premiação",
+      "slug": "injuria-racial-no-bafta-entenda-polemica-que-afetou-atores-de-pecadores-na-premiacao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T13:45:36.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603196-injuria-racial-no-bafta-entenda-polemica-que-afetou-atores-de-pecadores-na-premiacao.htm"
+    },
+    {
+      "title": "Review: Avowed precisou de exatos 365 dias para se firmar",
+      "slug": "review-avowed-precisou-de-exatos-365-dias-para-se-firmar",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T13:15:17.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503599-review-avowed-precisou-de-exatos-365-dias-para-se-firmar.htm"
+    },
+    {
+      "title": "Novas peças no Outlet da Netshoes com desconto: Asics, Adidas, Puma e mais",
+      "slug": "novas-pecas-no-outlet-da-netshoes-com-desconto-asics-adidas-puma-e-mais",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-24T13:06:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411051-novas-pecas-no-outlet-da-netshoes-com-desconto-asics-adidas-puma-e-mais.htm"
+    },
+    {
+      "title": "Dona do Claude acusa DeepSeek e outras IAs chinesas de roubar dados",
+      "slug": "dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados",
+      "topic": "geral",
+      "source": "Tecmundo",
       "date": "2026-02-24T12:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/tesla-derruba-preco-da-cybertruck-para-acelerar-vendas-da-picape-eletrica/"
-    },
-    {
-      "title": "IA rodando no seu próprio PC? A GIGABYTE explica por que isso muda tudo",
-      "slug": "ia-rodando-no-seu-proprio-pc-a-gigabyte-explica-por-que-isso-muda-tudo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T11:57:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/ia-rodando-no-seu-proprio-pc-a-gigabyte-explica-por-que-isso-muda-tudo/"
-    },
-    {
-      "title": "Tela \"anti-curiosos\" do Galaxy S26 já estaria sendo copiada por marcas chinesas",
-      "slug": "tela-anti-curiosos-do-galaxy-s26-ja-estaria-sendo-copiada-por-marcas-chinesas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T11:46:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/tela-anti-curiosos-do-galaxy-s26-ja-estaria-sendo-copiada-por-marcas-chinesas/"
-    },
-    {
-      "title": "OpenClaw fica \"rebelde\" e apaga emails de diretora de IA da Meta",
-      "slug": "openclaw-fica-rebelde-e-apaga-emails-de-diretora-de-ia-da-meta",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T12:58:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411060-openclaw-fica-rebelde-e-apaga-emails-de-diretora-de-ia-da-meta.htm"
-    },
-    {
-      "title": "Jogos da Copa do Mundo no México terão cães-robôs na segurança",
-      "slug": "jogos-da-copa-do-mundo-no-mexico-terao-caes-robos-na-seguranca",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411055-jogos-da-copa-do-mundo-no-mexico-terao-caes-robos-na-seguranca.htm"
-    },
-    {
-      "title": "O Agente Noturno vai ter 4ª temporada? Veja o que esperar",
-      "slug": "o-agente-noturno-vai-ter-4a-temporada-veja-o-que-esperar",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603193-o-agente-noturno-vai-ter-4-temporada-veja-o-que-esperar.htm"
-    },
-    {
-      "title": "Apple transferirá parte da produção do Mac Mini da Ásia para Houston",
-      "slug": "apple-transferira-parte-da-producao-do-mac-mini-da-asia-para-houston",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T12:30:07.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/apple-transferira-parte-da-producao-do-mac-mini-da-asia-para-houston.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411058-dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados.htm"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados",
-  "generated_at": "2026-02-24T15:19:40.833Z",
+  "slug": "analistas-questionam-efeitos-da-ia-na-economia-dos-eua-basicamente-zero",
+  "generated_at": "2026-02-24T15:05:44.062Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 351,
       "min": 220
     },
     {

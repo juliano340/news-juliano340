@@ -1,6 +1,6 @@
 {
-  "slug": "dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados",
-  "generated_at": "2026-02-24T15:19:40.833Z",
+  "slug": "certificacao-confirma-galaxy-s26-com-bateria-maior-veja-a-capacidade",
+  "generated_at": "2026-02-24T15:08:51.425Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 342,
       "min": 220
     },
     {

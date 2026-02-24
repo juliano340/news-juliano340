@@ -1,6 +1,6 @@
 {
-  "slug": "dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados",
-  "generated_at": "2026-02-24T15:19:40.833Z",
+  "slug": "injuria-racial-no-bafta-entenda-polemica-que-afetou-atores-de-pecadores-na-premiacao",
+  "generated_at": "2026-02-24T15:17:38.101Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 306,
       "min": 220
     },
     {

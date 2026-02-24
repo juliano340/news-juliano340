@@ -1,6 +1,6 @@
 {
-  "slug": "dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados",
-  "generated_at": "2026-02-24T15:19:40.833Z",
+  "slug": "dublagem-brasileira-do-god-of-war-de-ps2-viraliza-conheca-o-meme",
+  "generated_at": "2026-02-24T15:15:29.583Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 278,
+      "words": 327,
       "min": 220
     },
     {
