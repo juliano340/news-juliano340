@@ -1,6 +1,6 @@
 {
-  "slug": "oferta-relampago-huawei-watch-fit-4-pro-tem-50percent-off-no-mercado-livre",
-  "generated_at": "2026-02-24T21:02:07.146Z",
+  "slug": "anthropic-mantem-posicao-firme-em-disputa-com-pentagono-diz-fonte",
+  "generated_at": "2026-02-24T21:10:35.907Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 322,
+      "words": 272,
       "min": 220
     },
     {

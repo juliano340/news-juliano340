@@ -1,0 +1,19 @@
+{
+  "slug": "atualizacao-do-chrome-corrige-3-vulnerabilidades-criticas",
+  "generated_at": "2026-02-24T21:07:44.380Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

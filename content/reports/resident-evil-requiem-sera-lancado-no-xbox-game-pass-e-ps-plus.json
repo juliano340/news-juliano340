@@ -1,6 +1,6 @@
 {
-  "slug": "oferta-relampago-huawei-watch-fit-4-pro-tem-50percent-off-no-mercado-livre",
-  "generated_at": "2026-02-24T21:02:07.146Z",
+  "slug": "resident-evil-requiem-sera-lancado-no-xbox-game-pass-e-ps-plus",
+  "generated_at": "2026-02-24T21:10:11.389Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 322,
+      "words": 397,
       "min": 220
     },
     {
