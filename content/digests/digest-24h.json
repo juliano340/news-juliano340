@@ -1,169 +1,223 @@
 {
-  "generated_at": "2026-02-24T17:16:02.611Z",
+  "generated_at": "2026-02-24T19:17:47.285Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 24,
   "posts": [
     {
-      "title": "Nova CEO assume Xbox e promete barrar “IA ruim” nos jogos",
-      "slug": "nova-ceo-assume-xbox-e-promete-barrar-ia-ruim-nos-jogos",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-24T16:45:51.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/nova-ceo-assume-xbox-e-promete-barrar-ia-ruim-nos-jogos/"
-    },
-    {
-      "title": "Menor preço hoje: Galaxy Z Flip 7 (256 GB) tem 29% OFF com cupom na Amazon",
-      "slug": "menor-preco-hoje-galaxy-z-flip-7-256-gb-tem-29percent-off-com-cupom-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-24T15:32:03.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/menor-preco-hoje-galaxy-z-flip-7-256-gb-tem-29-off-com-cupom-na-amazon/"
-    },
-    {
-      "title": "Linux 7.0 vem aí e Linus Torvalds brinca sobre temer “números grandes”",
-      "slug": "linux-70-vem-ai-e-linus-torvalds-brinca-sobre-temer-numeros-grandes",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-24T15:08:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/linux-7-0-vem-ai-e-linus-torvalds-brinca-sobre-temer-numeros-grandes/"
-    },
-    {
-      "title": "Depois dos chips, empresas de IA agora disputam HDs e SSDs",
-      "slug": "depois-dos-chips-empresas-de-ia-agora-disputam-hds-e-ssds",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-24T15:01:19.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/depois-dos-chips-ia-agora-disputa-hds-e-ssds-e-pode-encarecer-o-pc-do-consumidor/"
-    },
-    {
-      "title": "Ubisoft confirma dois novos Far Cry e vários Assassin's Creed em desenvolvimento",
-      "slug": "ubisoft-confirma-dois-novos-far-cry-e-varios-assassins-creed-em-desenvolvimento",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T16:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ubisoft-confirma-dois-novos-far-cry-e-varios-assassins-creed-em-desenvolvimento/"
-    },
-    {
-      "title": "WhatsApp Business ganha agente de IA para responder mensagens de clientes",
-      "slug": "whatsapp-business-ganha-agente-de-ia-para-responder-mensagens-de-clientes",
+      "title": "O que é Data Lake e Data Warehouse? Saiba a diferença entre os repositórios de dados",
+      "slug": "o-que-e-data-lake-e-data-warehouse-saiba-a-diferenca-entre-os-repositorios-de-dados",
       "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-24T16:30:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T18:32:02.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/whatsapp-business-ganha-agente-de-ia-para-responder-mensagens-de-clientes/"
+      "original_url": "https://tecnoblog.net/responde/o-que-e-data-lake-e-data-warehouse-saiba-a-diferenca-entre-os-repositorios-de-dados/"
     },
     {
-      "title": "Filme de Bioshock volta à tona e pode ser filmado em 2027",
-      "slug": "filme-de-bioshock-volta-a-tona-e-pode-ser-filmado-em-2027",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T16:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/filme-de-bioshock-volta-a-tona-e-pode-ser-filmado-em-2027/"
-    },
-    {
-      "title": "BYD prepara SUV compacto \"anti-Tera\" para ser líder no Brasil",
-      "slug": "byd-prepara-suv-compacto-anti-tera-para-ser-lider-no-brasil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T15:55:00.000Z",
+      "title": "Panasonic desiste de fabricar suas próprias TVs",
+      "slug": "panasonic-desiste-de-fabricar-suas-proprias-tvs",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T18:30:28.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/byd-prepara-suv-compacto-anti-tera-para-ser-lider-no-brasil/"
+      "original_url": "https://tecnoblog.net/noticias/panasonic-desiste-de-fabricar-suas-proprias-tvs/"
     },
     {
-      "title": "Inter libera Pix no WhatsApp; veja como fazer pagamentos pelo mensageiro",
-      "slug": "inter-libera-pix-no-whatsapp-veja-como-fazer-pagamentos-pelo-mensageiro",
+      "title": "Banco gamer do Itaú vai encerrar atividades",
+      "slug": "banco-gamer-do-itau-vai-encerrar-atividades",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-24T18:25:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/banco-gamer-do-itau-vai-encerrar-atividades/"
+    },
+    {
+      "title": "Rodar jogos de PC no celular pode destruir o aparelho?",
+      "slug": "rodar-jogos-de-pc-no-celular-pode-destruir-o-aparelho",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-24T15:42:00.000Z",
+      "date": "2026-02-24T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/inter-libera-pix-no-whatsapp-veja-como-fazer-pagamentos-pelo-mensageiro/"
+      "original_url": "https://canaltech.com.br/games/rodar-jogos-de-pc-no-celular-pode-destruir-o-aparelho/"
     },
     {
-      "title": "Discord corta laços com empresa de reconhecimento facial Persona",
-      "slug": "discord-corta-lacos-com-empresa-de-reconhecimento-facial-persona",
-      "topic": "infra-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-24T17:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/redes-sociais/411062-discord-corta-lacos-com-empresa-de-reconhecimento-facial-persona.htm"
-    },
-    {
-      "title": "Paramount faz nova oferta para comprar a Warner e Netflix pode desistir",
-      "slug": "paramount-faz-nova-oferta-para-comprar-a-warner-e-netflix-pode-desistir",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T16:45:28.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603197-paramount-faz-nova-oferta-para-comprar-a-warner-e-bloquear-a-netflix.htm"
-    },
-    {
-      "title": "Super Ofertas na Shopee: confira Air Fryer, console portátil e mais com até 68% OFF",
-      "slug": "super-ofertas-na-shopee-confira-air-fryer-console-portatil-e-mais-com-ate-68percent-off",
+      "title": "8 prompts para criar músicas com IA pelo Gemini",
+      "slug": "8-prompts-para-criar-musicas-com-ia-pelo-gemini",
       "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-24T16:16:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-24T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411077-super-ofertas-na-shopee-confira-air-fryer-console-portatil-e-mais-com-ate-68-off.htm"
+      "original_url": "https://canaltech.com.br/apps/8-prompts-para-criar-musicas-com-ia-pelo-gemini/"
     },
     {
-      "title": "Preview: Life is Strange Reunion usa altas doses de nostalgia para justificar sua existência",
-      "slug": "preview-life-is-strange-reunion-usa-altas-doses-de-nostalgia-para-justificar-sua-existencia",
+      "title": "Celular com bateria para vários dias está sendo testado pela Jovi",
+      "slug": "celular-com-bateria-para-varios-dias-esta-sendo-testado-pela-jovi",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T18:57:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celular-com-bateria-para-varios-dias-esta-sendo-testado-pela-jovi/"
+    },
+    {
+      "title": "Xbox pode levar assinaturas de WoW, Fallout e Minecraft ao Game Pass",
+      "slug": "xbox-pode-levar-assinaturas-de-wow-fallout-e-minecraft-ao-game-pass",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T18:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/xbox-pode-levar-assinaturas-de-wow-fallout-e-minecraft-ao-game-pass/"
+    },
+    {
+      "title": "Afie as garras! Marvel's Wolverine finalmente ganha data de lançamento no PS5",
+      "slug": "afie-as-garras-marvels-wolverine-finalmente-ganha-data-de-lancamento-no-ps5",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T18:36:33.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/afie-as-garras-marvels-wolverine-finalmente-ganha-data-de-lancamento-no-ps5/"
+    },
+    {
+      "title": "Mercado Livre faz queima de iPhone 15 de 256 GB; veja como conseguir o desconto",
+      "slug": "mercado-livre-faz-queima-de-iphone-15-de-256-gb-veja-como-conseguir-o-desconto",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T18:28:12.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-15-de-256-gb-veja-como-conseguir-o-desconto/"
+    },
+    {
+      "title": "Por que Jill nunca envelhece em Resident Evil e os problemas de lore da série",
+      "slug": "por-que-jill-nunca-envelhece-em-resident-evil-e-os-problemas-de-lore-da-serie",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T18:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/por-que-jill-nunca-envelhece-em-resident-evil-e-os-problemas-de-lore-da-serie/"
+    },
+    {
+      "title": "Toyota GR Yaris entra em pré-venda, mas preço \"vai te fazer chorar\"",
+      "slug": "toyota-gr-yaris-entra-em-pre-venda-mas-preco-vai-te-fazer-chorar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T18:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/toyota-gr-yaris-entra-em-pre-venda-mas-por-preco-vai-te-fazer-chorar/"
+    },
+    {
+      "title": "Elgin anuncia air fryer gigante de 16 litros, mixer com ralador e mais; confira",
+      "slug": "elgin-anuncia-air-fryer-gigante-de-16-litros-mixer-com-ralador-e-mais-confira",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-24T17:36:58.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/elgin-anuncia-air-fryer-gigante-de-16-litros-mixer-com-ralador-e-mais-confira/"
+    },
+    {
+      "title": "16 falhas de dia zero em leitores de PDF colocam PCs em risco",
+      "slug": "16-falhas-de-dia-zero-em-leitores-de-pdf-colocam-pcs-em-risco",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-24T17:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/16-falhas-de-dia-zero-em-leitores-de-pdf-colocam-pcs-em-risco/"
+    },
+    {
+      "title": "Tractian abre vagas para especialistas em IA com salários de até R$ 25 mil",
+      "slug": "tractian-abre-vagas-para-especialistas-em-ia-com-salarios-de-ate-rdollar-25-mil",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-24T16:00:56.000Z",
+      "date": "2026-02-24T19:00:00.000Z",
+      "editorial_score": 89,
+      "original_url": "https://www.tecmundo.com.br/mercado/411078-tractian-abre-vagas-para-especialistas-em-ia-com-salarios-de-ate-r-25-mil.htm"
+    },
+    {
+      "title": "Onde assistir O Morro dos Ventos Uivantes? Conheça as adaptações",
+      "slug": "onde-assistir-o-morro-dos-ventos-uivantes-conheca-as-adaptacoes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T18:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603199-onde-assistir-o-morro-dos-ventos-uivantes-conheca-as-adaptacoes.htm"
+    },
+    {
+      "title": "Xiaomi Tag é novo rastreador inteligente compatível com iOS e Android",
+      "slug": "xiaomi-tag-e-novo-rastreador-inteligente-compativel-com-ios-e-android",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T18:33:08.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503602-preview-life-is-strange-reunion-usa-altas-doses-de-nostalgia-para-justificar-sua-existencia.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411084-xiaomi-tag-e-o-rastreador-inteligente-compativel-com-ios-e-android-confira.htm"
     },
     {
-      "title": "Brasileiro emula GTA San Andreas no BYD Dolphin e viraliza",
-      "slug": "brasileiro-emula-gta-san-andreas-no-byd-dolphin-e-viraliza",
+      "title": "Overwatch de celulares é anunciado e será um jogo grátis! Saiba tudo sobre Rush",
+      "slug": "overwatch-de-celulares-e-anunciado-e-sera-um-jogo-gratis-saiba-tudo-sobre-rush",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-24T15:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411065-brasileiro-emula-gta-san-andreas-no-byd-dolphin-e-viraliza.htm"
-    },
-    {
-      "title": "Produtos Apple entram em promoção com descontos em iPads e AirTags",
-      "slug": "produtos-apple-entram-em-promocao-com-descontos-em-ipads-e-airtags",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T15:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411067-produtos-apple-entram-em-promocao-com-descontos-em-ipads-e-airtags.htm"
-    },
-    {
-      "title": "O que acontece no final de O Agente Noturno Temporada 3? Entenda",
-      "slug": "o-que-acontece-no-final-de-o-agente-noturno-temporada-3-entenda",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T15:15:26.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603191-o-que-acontece-no-final-de-o-agente-noturno-temporada-3-entenda.htm"
-    },
-    {
-      "title": "Executivo da Meta alertou que plano de encriptação do Messenger era \"muito irresponsável\", mostra documento",
-      "slug": "executivo-da-meta-alertou-que-plano-de-encriptacao-do-messenger-era-muito-irresponsavel-mostra-documento",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T17:03:28.000Z",
+      "date": "2026-02-24T18:16:42.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/executivo-da-meta-alertou-que-plano-de-encriptacao-do-messenger-era-muito-irresponsavel-mostra-documento.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503608-overwatch-de-celulares-e-anunciado-e-sera-um-jogo-gratis-saiba-tudo-sobre-rush.htm"
     },
     {
-      "title": "Reddit é multado em R$ 100 milhões por uso ilegal de dados de crianças",
-      "slug": "reddit-e-multado-em-rdollar-100-milhoes-por-uso-ilegal-de-dados-de-criancas",
+      "title": "Super 3do3 da Casas Bahia tem celulares, tablets e mais em oferta com cupom de até 20% OFF",
+      "slug": "super-3do3-da-casas-bahia-tem-celulares-tablets-e-mais-em-oferta-com-cupom-de-ate-20percent-off",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T15:22:25.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-24T18:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/24/reddit-e-multado-em-r-100-milhoes-por-uso-ilegal-de-dados-de-criancas.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411079-super-3do3-casas-bahia-tem-celulares-tablets-e-mais-com-cupom-de-ate-20-off.htm"
+    },
+    {
+      "title": "Apps de saúde mental para Android têm falhas que podem vazar conversas privadas",
+      "slug": "apps-de-saude-mental-para-android-tem-falhas-que-podem-vazar-conversas-privadas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411080-apps-de-saude-mental-para-android-tem-falhas-que-podem-vazar-conversas-privadas.htm"
+    },
+    {
+      "title": "Sistemas da Estácio possuíam falhas que permitiam acesso indevido e até roubo de contas",
+      "slug": "sistemas-da-estacio-possuiam-falhas-que-permitiam-acesso-indevido-e-ate-roubo-de-contas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411066-sistemas-da-estacio-possuiam-falhas-que-permitiam-acesso-indevido-e-ate-roubo-de-contas.htm"
+    },
+    {
+      "title": "Motorola Edge 70 Fusion tem visual e detalhes revelados antes de lançar",
+      "slug": "motorola-edge-70-fusion-tem-visual-e-detalhes-revelados-antes-de-lancar",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-24T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411063-motorola-edge-70-fusion-tem-visual-e-detalhes-revelados-antes-de-lancar.htm"
+    },
+    {
+      "title": "Wearables, fones e caixas de som e mais ofertas com até 40% no Mercado Livre; confira sugestões",
+      "slug": "wearables-fones-e-caixas-de-som-e-mais-ofertas-com-ate-40percent-no-mercado-livre-confira-sugestoes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T17:38:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411075-smartbands-fones-e-caixas-de-som-ofertas-de-ate-40-no-mercado-livre.htm"
+    },
+    {
+      "title": "Marvel's Wolverine ganha data de lançamento e chega em 15 de setembro",
+      "slug": "marvels-wolverine-ganha-data-de-lancamento-e-chega-em-15-de-setembro",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T17:13:03.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503607-marvels-wolverine-sera-lancado-em-15-de-setembro-no-ps5.htm"
+    },
+    {
+      "title": "Anthropic revela novas ferramentas de IA semanas após plug-in jurídico provocar derrocada no mercado",
+      "slug": "anthropic-revela-novas-ferramentas-de-ia-semanas-apos-plug-in-juridico-provocar-derrocada-no-mercado",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-24T17:46:40.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/anthropic-revela-novas-ferramentas-de-ia-semanas-aposplug-in-juridico-provocar-derrocada-no-mercado.htm"
     }
   ]
 }

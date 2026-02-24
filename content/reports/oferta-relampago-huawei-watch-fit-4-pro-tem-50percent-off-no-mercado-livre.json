@@ -1,0 +1,19 @@
+{
+  "slug": "oferta-relampago-huawei-watch-fit-4-pro-tem-50percent-off-no-mercado-livre",
+  "generated_at": "2026-02-24T19:04:50.676Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
