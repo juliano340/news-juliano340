@@ -1,0 +1,19 @@
+{
+  "slug": "ceo-da-netflix-defende-compra-da-warner-e-alfineta-a-paramount",
+  "generated_at": "2026-02-24T17:12:03.254Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

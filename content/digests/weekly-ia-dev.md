@@ -1,29 +1,22 @@
 # Weekly IA para Devs - 2026-02-24
 
-Gerado em 2026-02-24T15:19:43.077Z
+Gerado em 2026-02-24T17:16:02.611Z
 
-- ['Crianças tiveram seus dados coletados': Reddit é multado em R$ 100 mi no Reino Unido](https://g1.globo.com/tecnologia/noticia/2026/02/24/criancas-tiveram-seus-dados-coletados-reddit-e-multado-em-r-100-mi-no-reino-unido.ghtml) | topico: seguranca-ia | score: 100
-- [1 em cada 5 jovens viu nudez indesejada no Instagram, diz Meta em processo judicial](https://g1.globo.com/tecnologia/noticia/2026/02/24/1-em-cada-5-jovens-viu-nudez-indesejada-no-instagram-diz-meta-em-processo-judicial.ghtml) | topico: llms | score: 100
-- [iPhone 16 (256 GB) volta a cair 40% na Amazon em promoção](https://tecnoblog.net/achados/iphone-16-256-gb-volta-a-cair-40-na-amazon-em-promocao/) | topico: geral | score: 92
-- [iPhone Air (256 GB) fica 33% mais barato com cupom em oferta na Amazon](https://tecnoblog.net/achados/iphone-air-256-gb-fica-33-mais-barato-com-cupom-em-oferta-na-amazon/) | topico: geral | score: 92
-- [Anthropic lança IA para modernizar COBOL e derruba ações da IBM](https://tecnoblog.net/noticias/anthropic-lanca-ia-para-modernizar-cobol-e-derruba-acoes-da-ibm/) | topico: llms | score: 100
-- [Outlook tem novo bug e Microsoft sugere gambiarra para consertar](https://tecnoblog.net/noticias/outlook-tem-novo-bug-e-microsoft-sugere-gambiarra-para-consertar/) | topico: produtividade-dev | score: 100
-- [iPhone 17 Pro (512 GB) tem melhor oferta que já vimos com cupom](https://tecnoblog.net/achados/iphone-17-pro-512-gb-tem-melhor-oferta-que-ja-vimos-com-cupom/) | topico: geral | score: 85
-- [iPad Air de 11″ com Apple M3 tem melhor oferta desde dezembro no Magalu](https://tecnoblog.net/achados/ipad-air-de-11-com-apple-m3-tem-melhor-oferta-desde-dezembro-no-magalu/) | topico: geral | score: 92
-- [Analistas questionam efeitos da IA na economia dos EUA: “Basicamente zero”](https://tecnoblog.net/noticias/analistas-questionam-efeitos-da-ia-na-economia-dos-eua-basicamente-zero/) | topico: infra-ia | score: 100
-- [Galaxy Watch 7 (44 mm) tem 64% OFF em oferta exclusiva no app da Amazon](https://tecnoblog.net/achados/galaxy-watch-7-44-mm-tem-64-off-em-oferta-exclusiva-no-app-da-amazon/) | topico: geral | score: 92
-- [App do PicPay ganha opção para 'jogar' compra para a próxima fatura do cartão](https://canaltech.com.br/apps/app-do-picpay-ganha-opcao-para-jogar-compra-para-a-proxima-fatura-do-cartao/) | topico: llms | score: 100
-- [Sem ideias? Gemini ganha modelos para te ajudar a gerar vídeos com IA](https://canaltech.com.br/apps/sem-ideias-gemini-ganha-modelos-para-te-ajudar-a-gerar-videos-com-ia/) | topico: llms | score: 100
-- [Malware pré-instalado no Android pode acessar dados bancários do usuário](https://canaltech.com.br/seguranca/malware-pre-instalado-no-android-pode-acessar-dados-bancarios-do-usuario/) | topico: geral | score: 100
-- [Certificação confirma Galaxy S26 com bateria maior; veja a capacidade](https://canaltech.com.br/smartphone/certificacao-confirma-galaxy-s26-com-bateria-maior-veja-a-capacidade/) | topico: geral | score: 100
-- [Monte seu PC Gamer sem placa de vídeo com Ryzen 5 8500G por R$ 760](https://canaltech.com.br/hardware/monte-seu-pc-gamer-sem-placa-de-video-com-ryzen-5-8500g-por-r-760/) | topico: geral | score: 100
-- [Conheça o SUV elétrico capaz de "abastecer" casa por até uma semana](https://canaltech.com.br/carros/conheca-o-suv-eletrico-capaz-de-abastecer-casa-por-ate-uma-semana/) | topico: produtividade-dev | score: 100
-- [Foto com vírus: falha no Excel esconde malware perigoso em imagem JPEG](https://canaltech.com.br/seguranca/foto-com-virus-falha-no-excel-esconde-malware-perigoso-em-imagem-jpeg/) | topico: geral | score: 100
-- [Por que um anúncio da Anthropic fez a IBM perder US$ 30 bilhões em um único dia?](https://canaltech.com.br/mercado/por-que-um-anuncio-da-anthropic-fez-a-ibm-perder-us-30-bilhoes-em-um-unico-dia/) | topico: geral | score: 100
-- ['Não faça isso': IA alucina e apaga todos os e-mails de executiva da Meta](https://canaltech.com.br/inteligencia-artificial/nao-faca-isso-ia-alucina-e-apaga-todos-os-e-mails-de-executiva-da-meta/) | topico: llms | score: 100
-- [Internet não vai mais cair em maquininhas da Cielo; entenda a novidade](https://canaltech.com.br/telecom/cielo-quer-garantir-que-internet-nunca-caia-nas-maquininhas-entenda-a-novidade/) | topico: geral | score: 100
-- [Mais do mesmo? Coisas que Samsung deveria mudar na família S26, mas não vai](https://www.tecmundo.com.br/celular/411057-mais-do-mesmo-coisas-que-samsung-deveria-mudar-na-familia-s26-mas-nao-vai.htm) | topico: seguranca-ia | score: 92
-- [Fim da Fábula: megaoperação mira quadrilha suspeita de golpes na internet](https://www.tecmundo.com.br/seguranca/411064-fim-da-fabula-megaoperacao-mira-quadrilha-suspeita-de-golpes-na-internet.htm) | topico: geral | score: 100
-- [Dublagem brasileira do God of War de PS2 viraliza! Conheça o meme](https://www.tecmundo.com.br/voxel/503601-dublagem-brasileira-do-god-of-war-de-ps2-viraliza-conheca-o-meme.htm) | topico: geral | score: 100
-- [Tela 'anticuriosos' do Galaxy S26 pode chegar em breve em celulares chineses](https://www.tecmundo.com.br/produto/411061-tela-anticuriosos-do-galaxy-s26-pode-chegar-em-breve-em-celulares-chineses.htm) | topico: seguranca-ia | score: 100
-- [Cadeiras gamer em promoção e com cupons de até R$50 no Magazine Luiza; aproveite](https://www.tecmundo.com.br/voxel/503600-cadeiras-gamer-em-promocao-e-com-cupons-de-ate-r50-no-magazine-luiza-aproveite.htm) | topico: geral | score: 100
+- [Nova CEO assume Xbox e promete barrar “IA ruim” nos jogos](https://tecnoblog.net/noticias/nova-ceo-assume-xbox-e-promete-barrar-ia-ruim-nos-jogos/) | topico: geral | score: 100
+- [Menor preço hoje: Galaxy Z Flip 7 (256 GB) tem 29% OFF com cupom na Amazon](https://tecnoblog.net/achados/menor-preco-hoje-galaxy-z-flip-7-256-gb-tem-29-off-com-cupom-na-amazon/) | topico: geral | score: 92
+- [Linux 7.0 vem aí e Linus Torvalds brinca sobre temer “números grandes”](https://tecnoblog.net/noticias/linux-7-0-vem-ai-e-linus-torvalds-brinca-sobre-temer-numeros-grandes/) | topico: geral | score: 100
+- [Depois dos chips, empresas de IA agora disputam HDs e SSDs](https://tecnoblog.net/noticias/depois-dos-chips-ia-agora-disputa-hds-e-ssds-e-pode-encarecer-o-pc-do-consumidor/) | topico: geral | score: 100
+- [Ubisoft confirma dois novos Far Cry e vários Assassin's Creed em desenvolvimento](https://canaltech.com.br/games/ubisoft-confirma-dois-novos-far-cry-e-varios-assassins-creed-em-desenvolvimento/) | topico: geral | score: 100
+- [WhatsApp Business ganha agente de IA para responder mensagens de clientes](https://canaltech.com.br/apps/whatsapp-business-ganha-agente-de-ia-para-responder-mensagens-de-clientes/) | topico: agentes | score: 100
+- [Filme de Bioshock volta à tona e pode ser filmado em 2027](https://canaltech.com.br/games/filme-de-bioshock-volta-a-tona-e-pode-ser-filmado-em-2027/) | topico: geral | score: 100
+- [BYD prepara SUV compacto "anti-Tera" para ser líder no Brasil](https://canaltech.com.br/carros/byd-prepara-suv-compacto-anti-tera-para-ser-lider-no-brasil/) | topico: geral | score: 92
+- [Inter libera Pix no WhatsApp; veja como fazer pagamentos pelo mensageiro](https://canaltech.com.br/apps/inter-libera-pix-no-whatsapp-veja-como-fazer-pagamentos-pelo-mensageiro/) | topico: geral | score: 100
+- [Discord corta laços com empresa de reconhecimento facial Persona](https://www.tecmundo.com.br/redes-sociais/411062-discord-corta-lacos-com-empresa-de-reconhecimento-facial-persona.htm) | topico: infra-ia | score: 100
+- [Paramount faz nova oferta para comprar a Warner e Netflix pode desistir](https://www.tecmundo.com.br/minha-serie/603197-paramount-faz-nova-oferta-para-comprar-a-warner-e-bloquear-a-netflix.htm) | topico: geral | score: 100
+- [Super Ofertas na Shopee: confira Air Fryer, console portátil e mais com até 68% OFF](https://www.tecmundo.com.br/guia-de-compras/411077-super-ofertas-na-shopee-confira-air-fryer-console-portatil-e-mais-com-ate-68-off.htm) | topico: llms | score: 100
+- [Preview: Life is Strange Reunion usa altas doses de nostalgia para justificar sua existência](https://www.tecmundo.com.br/voxel/503602-preview-life-is-strange-reunion-usa-altas-doses-de-nostalgia-para-justificar-sua-existencia.htm) | topico: geral | score: 92
+- [Brasileiro emula GTA San Andreas no BYD Dolphin e viraliza](https://www.tecmundo.com.br/internet/411065-brasileiro-emula-gta-san-andreas-no-byd-dolphin-e-viraliza.htm) | topico: geral | score: 100
+- [Produtos Apple entram em promoção com descontos em iPads e AirTags](https://www.tecmundo.com.br/guia-de-compras/411067-produtos-apple-entram-em-promocao-com-descontos-em-ipads-e-airtags.htm) | topico: geral | score: 100
+- [O que acontece no final de O Agente Noturno Temporada 3? Entenda](https://www.tecmundo.com.br/minha-serie/603191-o-que-acontece-no-final-de-o-agente-noturno-temporada-3-entenda.htm) | topico: geral | score: 100
+- [Executivo da Meta alertou que plano de encriptação do Messenger era "muito irresponsável", mostra documento](https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/executivo-da-meta-alertou-que-plano-de-encriptacao-do-messenger-era-muito-irresponsavel-mostra-documento.htm) | topico: geral | score: 92
+- [Reddit é multado em R$ 100 milhões por uso ilegal de dados de crianças](https://www.uol.com.br/tilt/noticias/afp/2026/02/24/reddit-e-multado-em-r-100-milhoes-por-uso-ilegal-de-dados-de-criancas.htm) | topico: geral | score: 100
