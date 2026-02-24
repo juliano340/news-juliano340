@@ -1,6 +1,6 @@
 {
   "slug": "anthropic-acusa-deepseek-de-usar-o-claude-para-melhorar-seus-modelos-de-ia",
-  "generated_at": "2026-02-23T23:03:36.081Z",
+  "generated_at": "2026-02-24T01:01:22.165Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 358,
+      "words": 368,
       "min": 220
     },
     {
