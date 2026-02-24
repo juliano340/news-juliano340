@@ -1,7 +1,7 @@
 {
-  "slug": "dell-e-lenovo-terao-notebooks-com-cpus-da-nvidia-nos-proximos-meses",
-  "generated_at": "2026-02-24T23:01:45.224Z",
-  "status": "WARN",
+  "slug": "resident-evil-requiem-e-mais-jogos-da-steam-com-ate-90percent-off-na-nuuvem",
+  "generated_at": "2026-02-24T23:03:19.065Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 408,
+      "words": 413,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,11 +91,9 @@
       "min": 3
     }
   ],
-  "warnings": [
-    "fonte_primaria_ausente_no_corpo"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

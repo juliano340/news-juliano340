@@ -1,205 +1,79 @@
 {
-  "generated_at": "2026-02-24T21:13:45.434Z",
+  "generated_at": "2026-02-24T23:05:08.476Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 22,
+  "total": 8,
   "posts": [
     {
-      "title": "Navegador Opera completa 30 anos e lança máquina do tempo interativa",
-      "slug": "navegador-opera-completa-30-anos-e-lanca-maquina-do-tempo-interativa",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-24T20:40:02.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/navegador-opera-completa-30-anos-e-lanca-maquina-do-tempo-interativa/"
-    },
-    {
-      "title": "YouTube Premium Lite ganha reprodução em segundo plano (com ressalvas)",
-      "slug": "youtube-premium-lite-ganha-reproducao-em-segundo-plano-com-ressalvas",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-24T20:38:30.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/youtube-premium-lite-ganha-reproducao-em-segundo-plano-com-ressalvas/"
-    },
-    {
-      "title": "Oferta relâmpago: Huawei Watch Fit 4 Pro tem 50% OFF no Mercado Livre",
-      "slug": "oferta-relampago-huawei-watch-fit-4-pro-tem-50percent-off-no-mercado-livre",
+      "title": "Nintendo Switch 2 tem oferta com cupom exclusivo para Amazon Prime",
+      "slug": "nintendo-switch-2-tem-oferta-com-cupom-exclusivo-para-amazon-prime",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-24T17:44:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/oferta-relampago-huawei-watch-fit-4-pro-tem-50-off-no-mercado-livre/"
-    },
-    {
-      "title": "Bug no Outlook impede o uso do mouse e depende do PowerPoint para ser resolvido",
-      "slug": "bug-no-outlook-impede-o-uso-do-mouse-e-depende-do-powerpoint-para-ser-resolvido",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-24T20:52:01.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/bug-no-outlook-impede-o-uso-do-mouse-e-depende-do-powerpoint-para-ser-resolvido/"
-    },
-    {
-      "title": "E agora, Netflix? Paramount aumenta oferta pela Warner Bros",
-      "slug": "e-agora-netflix-paramount-aumenta-oferta-pela-warner-bros",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T20:48:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/e-agora-netflix-paramount-aumenta-oferta-pela-warner-bros/"
-    },
-    {
-      "title": "Summer Game Fest 2026 ganha data oficial; saiba o que esperar",
-      "slug": "summer-game-fest-2026-ganha-data-oficial-saiba-o-que-esperar",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T20:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/summer-game-fest-2026-ganha-data-oficial-saiba-o-que-esperar/"
-    },
-    {
-      "title": "Fiat joga no chão preços da picape mais vendida do Brasil",
-      "slug": "fiat-joga-no-chao-precos-da-picape-mais-vendida-do-brasil",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-24T20:00:00.000Z",
+      "date": "2026-02-24T21:06:56.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/fiat-joga-no-chao-precos-da-picape-mais-vendida-do-brasil/"
+      "original_url": "https://tecnoblog.net/achados/nintendo-switch-2-tem-oferta-com-cupom-exclusivo-para-amazon-prime/"
     },
     {
-      "title": "10 habilidades que estão em alta na área de TI em 2026, segundo o LinkedIn",
-      "slug": "10-habilidades-que-estao-em-alta-na-area-de-ti-em-2026-segundo-o-linkedin",
+      "title": "Dell e Lenovo terão notebooks com CPUs da NVIDIA nos próximos meses",
+      "slug": "dell-e-lenovo-terao-notebooks-com-cpus-da-nvidia-nos-proximos-meses",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-24T19:58:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/mercado/10-habilidades-que-estao-em-alta-na-area-de-ti-em-2026-segundo-o-linkedin/"
-    },
-    {
-      "title": "Brasil está no top 3 de países com mais ataques de ransomware no mundo",
-      "slug": "brasil-esta-no-top-3-de-paises-com-mais-ataques-de-ransomware-no-mundo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-24T19:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/brasil-esta-no-top-3-de-paises-com-mais-ataques-de-ransomware-no-mundo/"
-    },
-    {
-      "title": "Opera lança 'máquina do tempo da Internet' para comemorar 30 anos do navegador",
-      "slug": "opera-lanca-maquina-do-tempo-da-internet-para-comemorar-30-anos-do-navegador",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-24T19:39:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/opera-lanca-maquina-do-tempo-da-internet-para-comemorar-30-anos-do-navegador/"
-    },
-    {
-      "title": "Cavaleiro dos Sete Reinos e Breaking Bad estão brigando por notas no IMDb? Entenda o caso",
-      "slug": "cavaleiro-dos-sete-reinos-e-breaking-bad-estao-brigando-por-notas-no-imdb-entenda-o-caso",
-      "topic": "geral",
-      "source": "Tecmundo",
       "date": "2026-02-24T20:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603201-cavaleiro-dos-sete-reinos-e-breaking-bad-estao-brigando-por-notas-no-imdb-entenda-o-caso.htm"
-    },
-    {
-      "title": "Malware usa domínios gov.br legítimos para infectar vítimas",
-      "slug": "malware-usa-dominios-govbr-legitimos-para-infectar-vitimas",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T20:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411085-malware-usa-dominios-govbr-legitimos-para-infectar-vitimas.htm"
-    },
-    {
-      "title": "Navegador Opera faz 30 anos e lança linha do tempo nostálgica da internet",
-      "slug": "navegador-opera-faz-30-anos-e-lanca-linha-do-tempo-nostalgica-da-internet",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-24T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411082-navegador-opera-faz-30-anos-e-lanca-linha-do-tempo-nostalgica-da-internet.htm"
-    },
-    {
-      "title": "Juiz do TJMG esquece prompt de IA em decisão sobre caso de estupro de vulnerável",
-      "slug": "juiz-do-tjmg-esquece-prompt-de-ia-em-decisao-sobre-caso-de-estupro-de-vulneravel",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-24T19:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411083-juiz-do-tjmg-esquece-prompt-de-ia-em-decisao-sobre-caso-de-estupro-de-vulneravel.htm"
-    },
-    {
-      "title": "Resident Evil Requiem será lançado no Xbox Game Pass e PS Plus?",
-      "slug": "resident-evil-requiem-sera-lancado-no-xbox-game-pass-e-ps-plus",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-24T19:15:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503604-resident-evil-requiem-sera-lancado-no-xbox-game-pass-e-ps-plus.htm"
-    },
-    {
-      "title": "Anthropic mantém posição firme em disputa com Pentágono, diz fonte",
-      "slug": "anthropic-mantem-posicao-firme-em-disputa-com-pentagono-diz-fonte",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T20:57:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/anthropic-mantem-posicao-firme-em-disputa-com-pentagono-diz-fonte.htm"
-    },
-    {
-      "title": "EUA impõem sanções relacionadas à segurança digital a indivíduos e entidades da Rússia e dos Emirados Árabes Unidos",
-      "slug": "eua-impoem-sancoes-relacionadas-a-seguranca-digital-a-individuos-e-entidades-da-russia-e-dos-emirados-arabes-unidos",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T20:53:18.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/eua-impoem-sancoes-relacionadas-a-seguranca-digital-a-individuos-e-entidades-da-russia-e-dos-emirados-arabes-unidos.htm"
-    },
-    {
-      "title": "DJI entra com ação nos EUA para contestar proibição de importação de drones",
-      "slug": "dji-entra-com-acao-nos-eua-para-contestar-proibicao-de-importacao-de-drones",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T20:13:32.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/dji-entra-com-acao-nos-eua-para-contestar-proibicao-de-importacao-de-drones.htm"
+      "original_url": "https://canaltech.com.br/hardware/dell-e-lenovo-terao-notebooks-com-cpus-da-nvidia-nos-proximos-meses/"
     },
     {
-      "title": "Gigantes de IA dos EUA acusam rivais chineses de roubo em massa de dados",
-      "slug": "gigantes-de-ia-dos-eua-acusam-rivais-chineses-de-roubo-em-massa-de-dados",
+      "title": "Brasileiro desenvolve ferramenta para fiscalizar gastos de políticos e funcionários públicos",
+      "slug": "brasileiro-desenvolve-ferramenta-para-fiscalizar-gastos-de-politicos-e-funcionarios-publicos",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T19:28:01.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-24T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/24/gigantes-de-ia-dos-eua-acusam-rivais-chineses-de-roubo-em-massa-de-dados.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411093-brasileiro-desenvolve-ferramenta-para-fiscalizar-gastos-de-politicos-e-funcionarios-publicos.htm"
     },
     {
-      "title": "AMD fecha segundo mega acordo de fornecimento de chips, desta vez com a Meta",
-      "slug": "amd-fecha-segundo-mega-acordo-de-fornecimento-de-chips-desta-vez-com-a-meta",
+      "title": "Conhece This is Us? Saiba mais sobre a série com Sterling K. Brown e os criadores de Paradise",
+      "slug": "conhece-this-is-us-saiba-mais-sobre-a-serie-com-sterling-k-brown-e-os-criadores-de-paradise",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T19:11:49.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-24T22:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/amd-fecha-segundo-mega-acordo-de-fornecimento-de-chips-desta-vez-com-a-meta.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603194-conhece-this-is-us-saiba-mais-sobre-a-serie-com-sterling-k-brown-e-os-criadores-de-paradise.htm"
     },
     {
-      "title": "TIM espera crescimento de 6% a 8% no resultado operacional em 2026",
-      "slug": "tim-espera-crescimento-de-6percent-a-8percent-no-resultado-operacional-em-2026",
+      "title": "Resident Evil Requiem e mais jogos da Steam com até 90% OFF na Nuuvem",
+      "slug": "resident-evil-requiem-e-mais-jogos-da-steam-com-ate-90percent-off-na-nuuvem",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503612-resident-evil-requiem-e-mais-jogos-da-steam-com-ate-90-off-na-nuuvem.htm"
+    },
+    {
+      "title": "OpenClaw ganha suporte para Claude Opus 4.6 e reforça proteção contra ataques",
+      "slug": "openclaw-ganha-suporte-para-claude-opus-46-e-reforca-protecao-contra-ataques",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T21:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411090-openclaw-ganha-suporte-para-claude-opus-46-e-reforca-protecao-contra-ataques.htm"
+    },
+    {
+      "title": "Atualização do Chrome corrige 3 vulnerabilidades críticas",
+      "slug": "atualizacao-do-chrome-corrige-3-vulnerabilidades-criticas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-24T20:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411088-atualizacao-do-chrome-corrige-3-vulnerabilidades-criticas.htm"
+    },
+    {
+      "title": "Warner Bros abre diálogo com Paramount após oferta melhorada",
+      "slug": "warner-bros-abre-dialogo-com-paramount-apos-oferta-melhorada",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-24T19:09:57.000Z",
+      "date": "2026-02-24T22:04:34.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/tim-espera-crescimento-de-6-a-8-no-resultado-operacional-em-2026.htm"
-    },
-    {
-      "title": "Fundador do Telegram afirma que Rússia o investiga por 'apoiar o terrorismo'",
-      "slug": "fundador-do-telegram-afirma-que-russia-o-investiga-por-apoiar-o-terrorismo",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-24T17:49:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/02/24/fundador-do-telegram-afirma-que-russia-o-investiga-por-apoiar-o-terrorismo.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/24/warner-bros-abre-dialogo-com-paramount-apos-oferta-melhorada.htm"
     }
   ]
 }
