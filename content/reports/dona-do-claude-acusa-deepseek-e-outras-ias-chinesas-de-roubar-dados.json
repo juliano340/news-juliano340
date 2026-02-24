@@ -1,0 +1,19 @@
+{
+  "slug": "dona-do-claude-acusa-deepseek-e-outras-ias-chinesas-de-roubar-dados",
+  "generated_at": "2026-02-24T13:06:36.934Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
