@@ -1,21 +1,26 @@
 # Weekly IA para Devs - 2026-02-25
 
-Gerado em 2026-02-25T13:11:34.103Z
+Gerado em 2026-02-25T15:16:37.930Z
 
-- [Moto Snaps estão de volta? Chinesa tenta ressuscitar o "celular modular"](https://canaltech.com.br/smartphone/moto-snaps-estao-de-volta-chinesa-tenta-ressuscitar-o-celular-modular/) | topico: geral | score: 100
-- [Brasil pode ser líder em "Starlink sem antena para celulares", diz Anatel](https://canaltech.com.br/telecom/brasil-pode-ser-lider-em-starlink-sem-antena-para-celulares-diz-anatel/) | topico: produtividade-dev | score: 100
-- [Gmail enfim permite anexar arquivos mais pesados, mas há um porém](https://canaltech.com.br/apps/gmail-enfim-permite-anexar-arquivos-mais-pesados-mas-ha-um-porem/) | topico: geral | score: 100
-- [Apple libera verificação de idade para a App Store no Brasil; entenda o que muda](https://canaltech.com.br/apps/apple-libera-verificacao-de-idade-para-a-app-store-no-brasil-entenda-o-que-muda/) | topico: produtividade-dev | score: 92
-- [Sony patenteia "soft pause", tecnologia que pode deixar IA jogando em seu lugar](https://canaltech.com.br/games/sony-patenteia-soft-pause-tecnologia-que-pode-deixar-ia-jogando-em-seu-lugar/) | topico: geral | score: 92
-- [Rival da Starlink vai oferecer internet via satélite para empresas no Brasil](https://canaltech.com.br/telecom/rival-da-starlink-vai-oferecer-internet-via-satelite-para-empresas-no-brasil/) | topico: infra-ia | score: 100
-- [Como é o avião gigante que pousou em SP pela 1ª vez após voo direto da Austrália](https://canaltech.com.br/carros/como-e-o-aviao-gigante-que-pousou-em-sp-pela-1a-vez-apos-voo-direto-da-australia/) | topico: geral | score: 100
-- [TIM vende PS5 em parcelas de R$ 96 para clientes de plano família](https://canaltech.com.br/telecom/tim-vende-ps5-em-parcelas-de-r-96-para-clientes-de-plano-familia/) | topico: produtividade-dev | score: 100
-- [Tag Heuer lança smartwatch de titânio com tema da Formula 1; veja fotos](https://canaltech.com.br/smartwatch/tag-heuer-lanca-smartwatch-de-titanio-com-tema-da-formula-1-veja-fotos/) | topico: geral | score: 100
-- [Megaoperação da Polícia Civil mira quadrilha suspeita de fraudes digitais](https://canaltech.com.br/seguranca/megaoperacao-da-policia-civil-mira-quadrilha-suspeita-de-fraudes-digitais/) | topico: geral | score: 100
-- [Novo app Android avisa se alguém usar óculos inteligentes da Meta perto de você](https://www.tecmundo.com.br/software/411094-novo-app-android-avisa-se-alguem-usar-oculos-inteligentes-da-meta-perto-de-voce.htm) | topico: geral | score: 92
-- [Segunda temporada de Cavaleiro dos Sete Reinos repetirá decisão polêmica da primeira](https://www.tecmundo.com.br/minha-serie/603200-segunda-temporada-de-cavaleiro-dos-sete-reinos-repetira-decisao-polemica-da-primeira.htm) | topico: geral | score: 100
-- [Máquinas de Lavar e secadoras das melhores marcas em promoção na Amazon; confira](https://www.tecmundo.com.br/guia-de-compras/411087-maquinas-de-lavar-e-secadoras-das-melhores-marcas-em-promocao-na-amazon-confira.htm) | topico: produtividade-dev | score: 100
-- [Meu PC roda Death Stranding 2? Veja requisitos do jogo no computador](https://www.tecmundo.com.br/voxel/503610-meu-pc-roda-death-stranding-2-veja-requisitos-do-jogo-no-computador.htm) | topico: geral | score: 100
-- [Ordem cronológica de Resident Evil: da mansão Spencer ao Requiem](https://www.tecmundo.com.br/voxel/503537-ordem-cronologica-de-resident-evil-da-mansao-spencer-ao-requiem.htm) | topico: geral | score: 100
-- [Final explicado de Marty Supreme: entenda desfecho emocionante do filme](https://www.tecmundo.com.br/minha-serie/603159-final-explicado-de-marty-supreme-entenda-desfecho-emocionante-do-filme.htm) | topico: geral | score: 100
-- [Especialista adverte sobre 'sinais de alerta' diante de rápido avanço da IA](https://www.uol.com.br/tilt/noticias/afp/2026/02/25/especialista-adverte-sobre-sinais-de-alerta-diante-de-rapido-avanco-da-ia.htm) | topico: geral | score: 100
+- [iPhone Air tem melhor oferta que já vimos com 39% OFF no Mercado Livre](https://tecnoblog.net/achados/iphone-air-tem-melhor-oferta-que-ja-vimos-com-39-off-no-mercado-livre/) | topico: geral | score: 85
+- [Galaxy S26: como assistir ao evento Unpacked ao vivo](https://tecnoblog.net/noticias/galaxy-unpacked-como-ver-o-evento-do-galaxy-s26/) | topico: seguranca-ia | score: 100
+- [Partição perdida ou corrompida? Saiba como recuperar seus dados](https://tecnoblog.net/publieditoriais/particao-perdida-ou-corrompida-saiba-como-recuperar-seus-dados/) | topico: agentes | score: 100
+- [Por que os zumbis de RE Requiem são os mais tristes (e perigosos) da saga?](https://canaltech.com.br/games/por-que-os-zumbis-de-re-requiem-sao-os-mais-tristes-e-perigosos-da-saga/) | topico: geral | score: 100
+- [Review Resident Evil Requiem | A obra-prima definitiva do terror](https://canaltech.com.br/games/review-resident-evil-requiem/) | topico: geral | score: 92
+- ['Modo DJ' do Spotify ganha opção que organizar playlists automaticamente](https://canaltech.com.br/apps/modo-dj-do-spotify-ganha-opcao-que-organizar-playlists-automaticamente/) | topico: agentes | score: 100
+- [A revolta contra o algoritmo: câmeras retrô vencem a IA](https://canaltech.com.br/acessorios/a-revolta-contra-o-algoritmo-cameras-retro-vencem-a-ia/) | topico: produtividade-dev | score: 100
+- [Internet das profundezas: 1o cabo submarino de fibra será removido do oceano](https://canaltech.com.br/telecom/internet-das-profundezas-1o-cabo-submarino-de-fibra-sera-removido-do-oceano/) | topico: produtividade-dev | score: 92
+- [Que horas Resident Evil Requiem será lançado no Brasil?](https://canaltech.com.br/games/que-horas-resident-evil-requiem-sera-lancado-no-brasil/) | topico: geral | score: 100
+- [Parabólica digital gratuita será instalada em 8 estados; veja regras](https://canaltech.com.br/telecom/parabolica-digital-gratuita-sera-instalada-em-8-estados-veja-regras/) | topico: infra-ia | score: 100
+- [Fim da linha: tradicional marca japonesa deixa de vender carros no Brasil](https://canaltech.com.br/carros/fim-da-linha-tradicional-marca-japonesa-deixa-de-vender-carros-no-brasil/) | topico: geral | score: 100
+- [Monitor gamer AOC 24" 180Hz por apenas R$ 592 com cupom no Mercado Livre](https://canaltech.com.br/hardware/monitor-gamer-aoc-24-180hz-por-apenas-r-592-com-cupom-no-mercado-livre/) | topico: geral | score: 100
+- [Engenheiros da Uber criam clone do CEO em IA para treinar reuniões](https://canaltech.com.br/mercado/engenheiros-da-uber-criam-clone-do-ceo-em-ia-para-treinar-reunioes/) | topico: geral | score: 92
+- [Review: Resident Evil Requiem é bom pela nostalgia, mas poderia ser bem melhor](https://www.tecmundo.com.br/voxel/503598-review-resident-evil-requiem-e-bom-pela-nostalgia-mas-poderia-ser-bem-melhor.htm) | topico: geral | score: 92
+- [Apple bloqueia apps e agora pede verificação de idade na App Store](https://www.tecmundo.com.br/software/411099-apple-bloqueia-apps-e-agora-pede-verificacao-de-idade-na-app-store.htm) | topico: agentes | score: 100
+- [Governo aumenta imposto de importação: confira possível impacto na sua vida](https://www.tecmundo.com.br/produto/411092-governo-aumenta-imposto-de-importacao-confira-possivel-impacto-na-sua-vida.htm) | topico: geral | score: 100
+- [Mouse vertical com tela de status em oferta no AliExpress; saiba mais](https://www.tecmundo.com.br/guia-de-compras/411096-mouse-vertical-com-tela-de-status-em-oferta-no-aliexpress-saiba-mais.htm) | topico: geral | score: 92
+- [Sony fará reboot de seu universo do Homem-Aranha após fracasso de Kraven e Madame Teia](https://www.tecmundo.com.br/minha-serie/603207-sony-fara-reboot-de-seu-universo-do-homem-aranha-apos-fracasso-de-kraven-e-madame-teia.htm) | topico: geral | score: 100
+- [10 melhores aplicativos para controle parental em 2026](https://www.tecmundo.com.br/software/284540-10-melhores-aplicativos-controle-parental-2024.htm) | topico: seguranca-ia | score: 92
+- [Google promete construir novo data center com baixo consumo de água](https://www.tecmundo.com.br/mercado/411098-google-promete-construir-novo-data-center-com-baixo-consumo-de-agua.htm) | topico: geral | score: 100
+- [Notebooks, placas de vídeo e mais para dar um upgrade em seu Setup com desconto no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411089-notebooks-placas-de-video-e-mais-para-dar-um-upgrade-em-seu-setup-com-desconto-no-magazine-luiza.htm) | topico: geral | score: 92
+- [Ibovespa supera 192 mil pontos com apoio externo e pesquisa eleitoral no radar](https://www.uol.com.br/tilt/noticias/reuters/2026/02/25/ibovespa-supera-192-mil-pontos-com-apoio-externo-e-pesquisa-eleitoral-no-radar.htm) | topico: geral | score: 100
