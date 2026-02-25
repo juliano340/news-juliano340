@@ -1,259 +1,223 @@
 {
-  "generated_at": "2026-02-25T19:23:14.989Z",
+  "generated_at": "2026-02-25T21:16:35.065Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 28,
+  "total": 24,
   "posts": [
     {
-      "title": "Galaxy S26: Samsung lança celular com tela 'anti-curiosos' e IA turbinada; veja preços",
-      "slug": "galaxy-s26-samsung-lanca-celular-com-tela-anti-curiosos-e-ia-turbinada-veja-precos",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-25T18:00:11.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/25/galaxy-s26-ultra-tela-privacidade-ia-precos.ghtml"
-    },
-    {
-      "title": "Como funciona a Tela de Privacidade do Samsung Galaxy S26 Ultra",
-      "slug": "como-funciona-a-tela-de-privacidade-do-samsung-galaxy-s26-ultra",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T18:15:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/como-funciona-a-tela-de-privacidade-do-samsung-galaxy-s26-ultra/"
-    },
-    {
-      "title": "Samsung lança Galaxy S26 e S26 Plus; veja o que muda (e o que não muda)",
-      "slug": "samsung-lanca-galaxy-s26-e-s26-plus-veja-o-que-muda-e-o-que-nao-muda",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T18:04:10.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/samsung-lanca-galaxy-s26-e-s26-plus-veja-o-que-muda-e-o-que-nao-muda/"
-    },
-    {
-      "title": "Galaxy S26 Ultra estreia tela com “película” de privacidade que pode ser desligada",
-      "slug": "galaxy-s26-ultra-estreia-tela-com-pelicula-de-privacidade-que-pode-ser-desligada",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T18:01:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/galaxy-s26-ultra-estreia-tela-com-pelicula-de-privacidade-que-pode-ser-desligada/"
-    },
-    {
-      "title": "O que é Bixby? Conheça os recursos da assistente virtual da Samsung",
-      "slug": "o-que-e-bixby-conheca-os-recursos-da-assistente-virtual-da-samsung",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T17:45:01.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-bixby-conheca-os-recursos-da-assistente-virtual-da-samsung/"
-    },
-    {
-      "title": "iPhone 15 (128 GB) tem 49% OFF com cupom de R$ 300 de desconto na Amazon",
-      "slug": "iphone-15-128-gb-tem-49percent-off-com-cupom-de-rdollar-300-de-desconto-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T17:36:44.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-15-128-gb-tem-49-off-com-cupom-de-r-300-de-desconto-na-amazon/"
-    },
-    {
-      "title": "iPhone 17 Pro (256 GB) tem desconto imperdível com cupom no Mercado Livre",
-      "slug": "iphone-17-pro-256-gb-tem-desconto-imperdivel-com-cupom-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T17:27:48.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-256-gb-tem-desconto-imperdivel-com-cupom-no-mercado-livre/"
-    },
-    {
-      "title": "O que é o Privacy Display do Galaxy S26 Ultra? Tela \"anti-curioso\"",
-      "slug": "o-que-e-o-privacy-display-do-galaxy-s26-ultra-tela-anti-curioso",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T19:02:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/o-que-e-o-privacy-display-do-galaxy-s26-ultra-tela-anti-curioso/"
-    },
-    {
-      "title": "Galaxy S26 ficou mais caro no Brasil; veja a diferença de preço em um ano",
-      "slug": "galaxy-s26-ficou-mais-caro-no-brasil-veja-a-diferenca-de-preco-em-um-ano",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:55:37.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-ficou-mais-caro-no-brasil-veja-a-diferenca-de-preco-em-um-ano/"
-    },
-    {
-      "title": "Em breve PS5 Pro rodará jogos com gráficos no máximo a 60 FPS, indica patente",
-      "slug": "em-breve-ps5-pro-rodara-jogos-com-graficos-no-maximo-a-60-fps-indica-patente",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/em-breve-ps5-pro-rodara-jogos-com-graficos-no-maximo-a-60-fps-indica-patente/"
-    },
-    {
-      "title": "Bixby reforçada e edição de fotos: 6 novidades com IA na linha Galaxy S26",
-      "slug": "bixby-reforcada-e-edicao-de-fotos-6-novidades-com-ia-na-linha-galaxy-s26",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:41:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/bixby-reforcada-e-edicao-de-fotos-6-novidades-com-ia-na-linha-galaxy-s26/"
-    },
-    {
-      "title": "Comparativo Galaxy S26 Ultra x S25 Ultra: veja tudo o que mudou em um ano",
-      "slug": "comparativo-galaxy-s26-ultra-x-s25-ultra-veja-tudo-o-que-mudou-em-um-ano",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:41:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/comparativo-galaxy-s26-ultra-x-s25-ultra-veja-tudo-o-que-mudou-em-um-ano/"
-    },
-    {
-      "title": "Série de God of War escala ator para interpretar Baldur",
-      "slug": "serie-de-god-of-war-escala-ator-para-interpretar-baldur",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/serie-de-god-of-war-escala-ator-para-interpretar-baldur/"
-    },
-    {
-      "title": "Comparativo Galaxy S26 x S25: tudo o que mudou no top da Samsung",
-      "slug": "comparativo-galaxy-s26-x-s25-tudo-o-que-mudou-no-top-da-samsung",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:38:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/comparativo-galaxy-s26-x-s25-tudo-o-que-mudou-no-top-da-samsung/"
-    },
-    {
-      "title": "Cinemark anuncia balde de pipoca fofinho para Super Mario Galaxy: O Filme",
-      "slug": "cinemark-anuncia-balde-de-pipoca-fofinho-para-super-mario-galaxy-o-filme",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:31:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/cinemark-anuncia-balde-de-pipoca-fofinho-para-super-mario-galaxy-o-filme/"
-    },
-    {
-      "title": "Perplexity lança nova ferramenta ‘faz-tudo’ com múltiplos agentes de IA",
-      "slug": "perplexity-lanca-nova-ferramenta-faz-tudo-com-multiplos-agentes-de-ia",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:27:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/perplexity-lanca-nova-ferramenta-faz-tudo-com-multiplos-agentes-de-ia/"
-    },
-    {
-      "title": "Sony planeja reboot do universo expandido do Homem-Aranha nos cinemas",
-      "slug": "sony-planeja-reboot-do-universo-expandido-do-homem-aranha-nos-cinemas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T18:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/sony-planeja-reboot-do-universo-expandido-do-homem-aranha-nos-cinemas/"
-    },
-    {
-      "title": "Galaxy S26: confira os 6 melhores recursos da nova linha de celulares",
-      "slug": "galaxy-s26-confira-os-6-melhores-recursos-da-nova-linha-de-celulares",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-25T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411118-galaxy-s26-confira-os-6-melhores-recursos-da-nova-linha-de-celulares.htm"
-    },
-    {
-      "title": "'Circule para Pesquisar' agora identifica mais de um objeto ao mesmo tempo",
-      "slug": "circule-para-pesquisar-agora-identifica-mais-de-um-objeto-ao-mesmo-tempo",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411105-circule-para-pesquisar-agora-identifica-mais-de-um-objeto-ao-mesmo-tempo.htm"
-    },
-    {
-      "title": "Promoção no site da Stanley: copo Quencher e Tumbler com até 50% OFF",
-      "slug": "promocao-no-site-da-stanley-copo-quencher-e-tumbler-com-ate-50percent-off",
+      "title": "Galaxy Buds 3 tem 54% OFF em oferta no dia do anúncio do Galaxy Buds 4",
+      "slug": "galaxy-buds-3-tem-54percent-off-em-oferta-no-dia-do-anuncio-do-galaxy-buds-4",
       "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:39:40.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-25T20:42:33.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411121-promocao-no-site-da-stanley-copo-quencher-e-tumbler-com-ate-50-off.htm"
+      "original_url": "https://tecnoblog.net/achados/galaxy-buds-3-tem-54-off-em-oferta-no-dia-do-anuncio-do-galaxy-buds-4/"
     },
     {
-      "title": "Por que o Galaxy S26 tem o chip Exynos 2600 no Brasil? Samsung explica escolha",
-      "slug": "por-que-o-galaxy-s26-tem-o-chip-exynos-2600-no-brasil-samsung-explica-escolha",
+      "title": "Galaxy A36 5G (256 GB) tem a maior queda de preço desde a Black Friday",
+      "slug": "galaxy-a36-5g-256-gb-tem-a-maior-queda-de-preco-desde-a-black-friday",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:30:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-25T20:13:16.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411115-por-que-o-galaxy-s26-tem-o-chip-exynos-2600-no-brasil-samsung-explica-escolha.htm"
+      "original_url": "https://tecnoblog.net/achados/galaxy-a36-5g-256-gb-tem-a-maior-queda-de-preco-desde-a-black-friday/"
     },
     {
-      "title": "Galaxy S26 chegará ao Brasil mais caro que o S25, exceto no modelo Ultra",
-      "slug": "galaxy-s26-chegara-ao-brasil-mais-caro-que-o-s25-exceto-no-modelo-ultra",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:26:25.000Z",
+      "title": "Estadunidenses se voltam contra câmeras de vigilância espalhadas pelo país",
+      "slug": "estadunidenses-se-voltam-contra-cameras-de-vigilancia-espalhadas-pelo-pais",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-02-25T19:59:58.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411123-galaxy-s26-confira-os-precos-dos-celulares-no-brasil.htm"
+      "original_url": "https://tecnoblog.net/noticias/estadunidenses-se-voltam-contra-cameras-de-vigilancia-espalhadas-pelo-pais/"
     },
     {
-      "title": "Pacote falso do Stripe rouba credenciais de desenvolvedores via NuGet",
-      "slug": "pacote-falso-do-stripe-rouba-credenciais-de-desenvolvedores-via-nuget",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411117-pacote-falso-do-stripe-rouba-credenciais-de-desenvolvedores-via-nuget.htm"
-    },
-    {
-      "title": "Galaxy S26 não perderá qualidade no Instagram e terá fotos menos artificiais",
-      "slug": "galaxy-s26-nao-perdera-qualidade-no-instagram-e-tera-fotos-menos-artificiais",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411103-galaxy-s26-nao-perdera-qualidade-no-instagram-e-tera-fotos-menos-artificiais.htm"
-    },
-    {
-      "title": "Final explicado de A Arte de Sarah: quem é Mok Ga-hui?",
-      "slug": "final-explicado-de-a-arte-de-sarah-quem-e-mok-ga-hui",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:15:58.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603203-final-explicado-de-a-arte-de-sarah-quem-e-mok-ga-hui.htm"
-    },
-    {
-      "title": "Galaxy S26 Ultra é lançado com tela de Privacidade e agentes de IA",
-      "slug": "galaxy-s26-ultra-e-lancado-com-tela-de-privacidade-e-agentes-de-ia",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:02:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411101-galaxy-s26-ultra-e-lancado-com-tela-de-privacidade-e-agentes-de-ia.htm"
-    },
-    {
-      "title": "Samsung lança os fones de ouvido Galaxy Buds 4 e 4 Pro; conheça os detalhes",
-      "slug": "samsung-lanca-os-fones-de-ouvido-galaxy-buds-4-e-4-pro-conheca-os-detalhes",
+      "title": "CEO da Character.ai justifica lançamento de IAs sem mecanismos de segurança",
+      "slug": "ceo-da-characterai-justifica-lancamento-de-ias-sem-mecanismos-de-seguranca",
       "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-25T18:02:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-25T19:46:47.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411095-samsung-lanca-os-fones-de-ouvido-galaxy-buds-4-e-4-pro-conheca-os-detalhes.htm"
+      "original_url": "https://tecnoblog.net/noticias/ceo-da-character-ai-justifica-lancamento-de-ias-sem-mecanismos-de-seguranca/"
     },
     {
-      "title": "Barkin, do Fed, diz que não se pode concluir imediatamente que IA substituirá trabalhadores",
-      "slug": "barkin-do-fed-diz-que-nao-se-pode-concluir-imediatamente-que-ia-substituira-trabalhadores",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-25T17:20:12.000Z",
+      "title": "Galaxy S25 Plus (512 GB) cai 51% no dia do lançamento do S26 Plus",
+      "slug": "galaxy-s25-plus-512-gb-cai-51percent-no-dia-do-lancamento-do-s26-plus",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-25T19:41:43.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/25/barkin-do-fed-diz-que-nao-se-pode-concluir-imediatamente-que-ia-substituira-trabalhadores.htm"
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-cai-51-no-dia-do-lancamento-do-s26-plus/"
+    },
+    {
+      "title": "Galaxy S26: Samsung aumenta preços da maioria dos modelos; confira",
+      "slug": "galaxy-s26-samsung-aumenta-precos-da-maioria-dos-modelos-confira",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-25T18:51:58.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/galaxy-s26-samsung-aumenta-precos/"
+    },
+    {
+      "title": "Samsung começa pré-venda da linha Galaxy S26 no menor preço com cupom exclusivo",
+      "slug": "samsung-comeca-pre-venda-da-linha-galaxy-s26-no-menor-preco-com-cupom-exclusivo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T20:39:47.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/samsung-comeca-pre-venda-da-linha-galaxy-s26-no-menor-preco-com-cupom-exclusivo/"
+    },
+    {
+      "title": "Receita faz leilão de iPhone 15 por R$922; veja como dar um lance",
+      "slug": "receita-faz-leilao-de-iphone-15-por-rdollar922-veja-como-dar-um-lance",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T20:33:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/receita-faz-leilao-de-iphone-15-por-r922-veja-como-dar-um-lance/"
+    },
+    {
+      "title": "Clássico Final Fantasy 7 recebe nova versão no PC; veja o que muda",
+      "slug": "classico-final-fantasy-7-recebe-nova-versao-no-pc-veja-o-que-muda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T20:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/classico-final-fantasy-7-recebe-nova-versao-no-pc-veja-o-que-muda/"
+    },
+    {
+      "title": "Fiat derruba preço do Cronos e sedan fica mais barato que Hyundai HB20S",
+      "slug": "fiat-derruba-preco-do-cronos-e-sedan-fica-mais-barato-que-hyundai-hb20s",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-25T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/fiat-derruba-preco-do-cronos-e-sedan-fica-mais-barato-que-hyundai-hb20s/"
+    },
+    {
+      "title": "Skynet, é você? OpenClaw sai do controle e apaga e-mails de executiva da Meta",
+      "slug": "skynet-e-voce-openclaw-sai-do-controle-e-apaga-e-mails-de-executiva-da-meta",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T19:55:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/seguranca/skynet-e-voce-openclaw-sai-do-controle-e-apaga-e-mails-de-executiva-da-meta/"
+    },
+    {
+      "title": "Gemini vai montar carrinho de compras e pedir carros de app no Android; entenda",
+      "slug": "gemini-vai-montar-carrinho-de-compras-e-pedir-carros-de-app-no-android-entenda",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-25T19:53:13.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/gemini-vai-montar-carrinho-de-compras-e-pedir-carros-de-app-no-android-entenda/"
+    },
+    {
+      "title": "Samsung confirma One UI 8.5 na linha Galaxy S26; veja novidades",
+      "slug": "samsung-confirma-one-ui-85-na-linha-galaxy-s26-veja-novidades",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-25T19:52:43.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/samsung-confirma-one-ui-85-na-linha-galaxy-s26-veja-novidades/"
+    },
+    {
+      "title": "Galaxy Buds 4 Pro permite interagir com IA ao balançar a cabeça; veja como",
+      "slug": "galaxy-buds-4-pro-permite-interagir-com-ia-ao-balancar-a-cabeca-veja-como",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-25T19:42:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/fone-de-ouvido/galaxy-buds-4-pro-permite-interagir-com-ia-ao-balancar-a-cabeca-veja-como/"
+    },
+    {
+      "title": "Testamos Resident Evil Requiem no PC: Path Tracing brilha, mas cobra seu preço",
+      "slug": "testamos-resident-evil-requiem-no-pc-path-tracing-brilha-mas-cobra-seu-preco",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T19:21:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/testamos-resident-evil-requiem-no-pc-path-tracing-brilha-mas-cobra-seu-preco/"
+    },
+    {
+      "title": "Xiaomi pretende entrar no mercado de SSDs, mas não como você pensa",
+      "slug": "xiaomi-pretende-entrar-no-mercado-de-ssds-mas-nao-como-voce-pensa",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T19:20:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/hardware/xiaomi-pretende-entrar-no-mercado-de-ssds-mas-nao-como-voce-pensa/"
+    },
+    {
+      "title": "Como funciona a Tela de Privacidade do Galaxy S26 Ultra?",
+      "slug": "como-funciona-a-tela-de-privacidade-do-galaxy-s26-ultra",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411122-como-funciona-a-tela-de-privacidade-do-galaxy-s26-ultra.htm"
+    },
+    {
+      "title": "Notebooks com até 30% OFF no Mercado Livre: grandes marcas em oferta por tempo limitado",
+      "slug": "notebooks-com-ate-30percent-off-no-mercado-livre-grandes-marcas-em-oferta-por-tempo-limitado",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T20:23:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411126-notebooks-com-ate-30-off-no-mercado-livre-grandes-marcas-em-oferta-por-tempo-limitado.htm"
+    },
+    {
+      "title": "Quando Pânico 7 chega no streaming? Confira previsão",
+      "slug": "quando-panico-7-chega-no-streaming-confira-previsao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T20:15:51.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603209-quando-panico-7-chega-no-streaming-confira-previsao.htm"
+    },
+    {
+      "title": "Operação Erbs Fake: homem é preso em SP por simular torre de celular e disparar SMS maliciosos",
+      "slug": "operacao-erbs-fake-homem-e-preso-em-sp-por-simular-torre-de-celular-e-disparar-sms-maliciosos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T20:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411124-operacao-erbs-fake-homem-e-preso-em-sp-por-simular-torre-de-celular-e-disparar-sms-maliciosos.htm"
+    },
+    {
+      "title": "One UI 8.5 é oficialmente lançada; confira celulares compatíveis",
+      "slug": "one-ui-85-e-oficialmente-lancada-confira-celulares-compativeis",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-25T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411114-one-ui-85-e-oficialmente-lancada-confira-celulares-compativeis.htm"
+    },
+    {
+      "title": "Trailer de Mortal Kombat 2 mostra mais Johnny Cage; confira!",
+      "slug": "trailer-de-mortal-kombat-2-mostra-mais-johnny-cage-confira",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T19:49:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603211-trailer-de-mortal-kombat-2-mostra-mais-johnny-cage-confira.htm"
+    },
+    {
+      "title": "Galaxy S26, Buds 4 e mais: confira resumo do Galaxy Unpacked 2026",
+      "slug": "galaxy-s26-buds-4-e-mais-confira-resumo-do-galaxy-unpacked-2026",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-02-25T19:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411108-galaxy-s26-buds-4-e-mais-confira-resumo-do-galaxy-unpacked-2026.htm"
+    },
+    {
+      "title": "Jogos do PS Plus Essential de março são revelados! Confira a lista completa",
+      "slug": "jogos-do-ps-plus-essential-de-marco-sao-revelados-confira-a-lista-completa",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T19:15:02.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503618-jogos-do-ps-plus-essential-de-marco-sao-revelados-confira-a-lista-completa.htm"
     }
   ]
 }
