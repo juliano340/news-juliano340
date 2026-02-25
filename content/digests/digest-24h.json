@@ -1,34 +1,70 @@
 {
-  "generated_at": "2026-02-25T09:02:04.808Z",
+  "generated_at": "2026-02-25T11:07:28.317Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 7,
   "posts": [
     {
-      "title": "Câmera de celular: o que realmente importa na hora de escolher",
-      "slug": "camera-de-celular-o-que-realmente-importa-na-hora-de-escolher",
-      "topic": "geral",
+      "title": "9º Prêmio Canaltech: conheça as categorias e os jurados de 2026",
+      "slug": "9o-premio-canaltech-conheca-as-categorias-e-os-jurados-de-2026",
+      "topic": "infra-ia",
       "source": "Canaltech",
-      "date": "2026-02-25T09:00:00.000Z",
+      "date": "2026-02-25T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/camera-de-celular-o-que-realmente-importa-na-hora-de-escolher-6371/"
+      "original_url": "https://canaltech.com.br/canaltech/9o-premio-canaltech-conheca-as-categorias-e-os-jurados-de-2026/"
     },
     {
-      "title": "Palpites para Palmeiras x Fluminense: Análises e Onde Assistir (25/02/2026)",
-      "slug": "palpites-para-palmeiras-x-fluminense-analises-e-onde-assistir-25022026",
+      "title": "Como editar imagens com a IA do Photoroom? Veja o guia prático",
+      "slug": "como-editar-imagens-com-a-ia-do-photoroom-veja-o-guia-pratico",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-02-25T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-editar-imagens-com-a-ia-do-photoroom-veja-o-guia-pratico/"
+    },
+    {
+      "title": "\"Robôs aéreos\" solucionam saga da recarga em estacionamentos",
+      "slug": "robos-aereos-solucionam-saga-da-recarga-em-estacionamentos",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-02-25T09:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/robos-aereos-solucionam-saga-da-recarga-em-estacionamentos/"
+    },
+    {
+      "title": "Palpites para Flamengo x Lanús: Análises e Onde Assistir (26/01/2026)",
+      "slug": "palpites-para-flamengo-x-lanus-analises-e-onde-assistir-26012026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-25T11:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411076-palpites-para-flamengo-x-lanus-analises-e-onde-assistir-26012026.htm"
+    },
+    {
+      "title": "IA na descoberta de medicamentos: como a tecnologia acelera a ciência",
+      "slug": "ia-na-descoberta-de-medicamentos-como-a-tecnologia-acelera-a-ciencia",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-25T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/ciencia/410912-ia-na-descoberta-de-medicamentos-como-a-tecnologia-acelera-a-ciencia.htm"
+    },
+    {
+      "title": "Palpites para Cruzeiro x Corinthians: Análises e Onde Assistir (25/02/2026)",
+      "slug": "palpites-para-cruzeiro-x-corinthians-analises-e-onde-assistir-25022026",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-25T09:00:00.000Z",
+      "date": "2026-02-25T10:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411069-palpites-para-palmeiras-x-fluminense-analises-e-onde-assistir-25022026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411074-palpites-para-cruzeiro-x-corinthians-analises-e-onde-assistir-25022026.htm"
     },
     {
-      "title": "Qual é a fase da Lua hoje (25)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-25-veja-calendario-lunar-de-fevereiro-de-2026",
+      "title": "Japão apresenta 'monge robô' que oferece conselhos espirituais com IA",
+      "slug": "japao-apresenta-monge-robo-que-oferece-conselhos-espirituais-com-ia",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-25T08:30:00.000Z",
+      "date": "2026-02-25T10:39:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/25/qual-e-a-fase-da-lua-hoje-25-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/25/japao-apresenta-monge-robo-que-oferece-conselhos-espirituais-com-ia.htm"
     }
   ]
 }
