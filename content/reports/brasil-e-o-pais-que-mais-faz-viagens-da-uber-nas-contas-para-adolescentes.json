@@ -1,6 +1,6 @@
 {
-  "slug": "golpe-do-pix-supera-fraudes-do-boleto-e-do-falso-motoboy-em-acoes-judiciais",
-  "generated_at": "2026-02-25T17:14:52.667Z",
+  "slug": "brasil-e-o-pais-que-mais-faz-viagens-da-uber-nas-contas-para-adolescentes",
+  "generated_at": "2026-02-25T17:08:29.168Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 299,
+      "words": 338,
       "min": 220
     },
     {

@@ -1,7 +1,7 @@
 {
-  "slug": "golpe-do-pix-supera-fraudes-do-boleto-e-do-falso-motoboy-em-acoes-judiciais",
-  "generated_at": "2026-02-25T17:14:52.667Z",
-  "status": "PASS",
+  "slug": "imposto-maior-sobre-celulares-importados-deve-afetar-pouco-o-preco-no-brasil-principais-marcas-ja-produzem-no-pais",
+  "generated_at": "2026-02-25T17:00:57.935Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 299,
+      "words": 390,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

@@ -1,0 +1,19 @@
+{
+  "slug": "uber-descobre-que-seus-funcionarios-criaram-uma-ia-do-proprio-ceo",
+  "generated_at": "2026-02-25T17:05:12.257Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
