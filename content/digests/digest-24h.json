@@ -1,223 +1,115 @@
 {
-  "generated_at": "2026-02-25T21:16:35.065Z",
+  "generated_at": "2026-02-25T23:07:27.216Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 24,
+  "total": 12,
   "posts": [
     {
-      "title": "Galaxy Buds 3 tem 54% OFF em oferta no dia do anúncio do Galaxy Buds 4",
-      "slug": "galaxy-buds-3-tem-54percent-off-em-oferta-no-dia-do-anuncio-do-galaxy-buds-4",
+      "title": "Ar-condicionado LG AI Dual Inverter 12.000 BTUs sai com 26% OFF em oferta",
+      "slug": "ar-condicionado-lg-ai-dual-inverter-12000-btus-sai-com-26percent-off-em-oferta",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-25T20:42:33.000Z",
+      "date": "2026-02-25T21:42:19.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-buds-3-tem-54-off-em-oferta-no-dia-do-anuncio-do-galaxy-buds-4/"
+      "original_url": "https://tecnoblog.net/achados/ar-condicionado-lg-ai-dual-inverter-12-000-btus-sai-com-26-off-em-oferta/"
     },
     {
-      "title": "Galaxy A36 5G (256 GB) tem a maior queda de preço desde a Black Friday",
-      "slug": "galaxy-a36-5g-256-gb-tem-a-maior-queda-de-preco-desde-a-black-friday",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T20:13:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-a36-5g-256-gb-tem-a-maior-queda-de-preco-desde-a-black-friday/"
-    },
-    {
-      "title": "Estadunidenses se voltam contra câmeras de vigilância espalhadas pelo país",
-      "slug": "estadunidenses-se-voltam-contra-cameras-de-vigilancia-espalhadas-pelo-pais",
-      "topic": "seguranca-ia",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T19:59:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/estadunidenses-se-voltam-contra-cameras-de-vigilancia-espalhadas-pelo-pais/"
-    },
-    {
-      "title": "CEO da Character.ai justifica lançamento de IAs sem mecanismos de segurança",
-      "slug": "ceo-da-characterai-justifica-lancamento-de-ias-sem-mecanismos-de-seguranca",
+      "title": "Samsung lança Galaxy Buds 4 e Buds 4 Pro com áudio de alta fidelidade e IA",
+      "slug": "samsung-lanca-galaxy-buds-4-e-buds-4-pro-com-audio-de-alta-fidelidade-e-ia",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-02-25T19:46:47.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/ceo-da-character-ai-justifica-lancamento-de-ias-sem-mecanismos-de-seguranca/"
-    },
-    {
-      "title": "Galaxy S25 Plus (512 GB) cai 51% no dia do lançamento do S26 Plus",
-      "slug": "galaxy-s25-plus-512-gb-cai-51percent-no-dia-do-lancamento-do-s26-plus",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T19:41:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-cai-51-no-dia-do-lancamento-do-s26-plus/"
-    },
-    {
-      "title": "Galaxy S26: Samsung aumenta preços da maioria dos modelos; confira",
-      "slug": "galaxy-s26-samsung-aumenta-precos-da-maioria-dos-modelos-confira",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-25T18:51:58.000Z",
+      "date": "2026-02-25T18:40:07.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/galaxy-s26-samsung-aumenta-precos/"
+      "original_url": "https://tecnoblog.net/noticias/samsung-lanca-galaxy-buds-4-e-buds-4-proaudio-de-alta-fidelidade-e-ia/"
     },
     {
-      "title": "Samsung começa pré-venda da linha Galaxy S26 no menor preço com cupom exclusivo",
-      "slug": "samsung-comeca-pre-venda-da-linha-galaxy-s26-no-menor-preco-com-cupom-exclusivo",
+      "title": "Grace Ashcroft, de Resident Evil Requiem, chega a Fortnite nesta semana",
+      "slug": "grace-ashcroft-de-resident-evil-requiem-chega-a-fortnite-nesta-semana",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-25T20:39:47.000Z",
+      "date": "2026-02-25T21:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/grace-ashcroft-de-resident-evil-requiem-chega-a-fortnite-nesta-semana/"
+    },
+    {
+      "title": "O que é o Geospy, app que adivinha onde as fotos foram tiradas?",
+      "slug": "o-que-e-o-geospy-app-que-adivinha-onde-as-fotos-foram-tiradas",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-25T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411107-o-que-e-o-geospy-app-que-adivinha-onde-as-fotos-foram-tiradas.htm"
+    },
+    {
+      "title": "Pânico 7, A História do Som e mais filmes para assistir no cinema nesta semana; confira lista!",
+      "slug": "panico-7-a-historia-do-som-e-mais-filmes-para-assistir-no-cinema-nesta-semana-confira-lista",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T22:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603210-panico-7-a-historia-do-som-e-mais-filmes-para-assistir-no-cinema-nesta-semana-confira-lista.htm"
+    },
+    {
+      "title": "Ninja Gaiden 4 e mais jogos de Xbox com até 90% OFF; confira",
+      "slug": "ninja-gaiden-4-e-mais-jogos-de-xbox-com-ate-90percent-off-confira",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T22:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-comeca-pre-venda-da-linha-galaxy-s26-no-menor-preco-com-cupom-exclusivo/"
+      "original_url": "https://www.tecmundo.com.br/voxel/503622-ninja-gaiden-4-e-mais-jogos-de-xbox-com-ate-90-off-confira.htm"
     },
     {
-      "title": "Receita faz leilão de iPhone 15 por R$922; veja como dar um lance",
-      "slug": "receita-faz-leilao-de-iphone-15-por-rdollar922-veja-como-dar-um-lance",
+      "title": "Ano fragmentado: como manter times engajados com Copa, eleições e feriados",
+      "slug": "ano-fragmentado-como-manter-times-engajados-com-copa-eleicoes-e-feriados",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T20:33:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/receita-faz-leilao-de-iphone-15-por-r922-veja-como-dar-um-lance/"
-    },
-    {
-      "title": "Clássico Final Fantasy 7 recebe nova versão no PC; veja o que muda",
-      "slug": "classico-final-fantasy-7-recebe-nova-versao-no-pc-veja-o-que-muda",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T20:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/classico-final-fantasy-7-recebe-nova-versao-no-pc-veja-o-que-muda/"
-    },
-    {
-      "title": "Fiat derruba preço do Cronos e sedan fica mais barato que Hyundai HB20S",
-      "slug": "fiat-derruba-preco-do-cronos-e-sedan-fica-mais-barato-que-hyundai-hb20s",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-25T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/fiat-derruba-preco-do-cronos-e-sedan-fica-mais-barato-que-hyundai-hb20s/"
-    },
-    {
-      "title": "Skynet, é você? OpenClaw sai do controle e apaga e-mails de executiva da Meta",
-      "slug": "skynet-e-voce-openclaw-sai-do-controle-e-apaga-e-mails-de-executiva-da-meta",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T19:55:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-25T22:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/seguranca/skynet-e-voce-openclaw-sai-do-controle-e-apaga-e-mails-de-executiva-da-meta/"
+      "original_url": "https://www.tecmundo.com.br/mercado/411091-ano-fragmentado-como-manter-times-engajados-com-copa-eleicoes-e-feriados.htm"
     },
     {
-      "title": "Gemini vai montar carrinho de compras e pedir carros de app no Android; entenda",
-      "slug": "gemini-vai-montar-carrinho-de-compras-e-pedir-carros-de-app-no-android-entenda",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-25T19:53:13.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/gemini-vai-montar-carrinho-de-compras-e-pedir-carros-de-app-no-android-entenda/"
-    },
-    {
-      "title": "Samsung confirma One UI 8.5 na linha Galaxy S26; veja novidades",
-      "slug": "samsung-confirma-one-ui-85-na-linha-galaxy-s26-veja-novidades",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-25T19:52:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/samsung-confirma-one-ui-85-na-linha-galaxy-s26-veja-novidades/"
-    },
-    {
-      "title": "Galaxy Buds 4 Pro permite interagir com IA ao balançar a cabeça; veja como",
-      "slug": "galaxy-buds-4-pro-permite-interagir-com-ia-ao-balancar-a-cabeca-veja-como",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-25T19:42:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/fone-de-ouvido/galaxy-buds-4-pro-permite-interagir-com-ia-ao-balancar-a-cabeca-veja-como/"
-    },
-    {
-      "title": "Testamos Resident Evil Requiem no PC: Path Tracing brilha, mas cobra seu preço",
-      "slug": "testamos-resident-evil-requiem-no-pc-path-tracing-brilha-mas-cobra-seu-preco",
+      "title": "Sites vão aprender a 'conversar' com IAs — e o Chrome saiu na frente",
+      "slug": "sites-vao-aprender-a-conversar-com-ias-e-o-chrome-saiu-na-frente",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T19:21:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-25T21:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411130-sites-vao-aprender-a-conversar-com-ias-e-o-chrome-saiu-na-frente.htm"
+    },
+    {
+      "title": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (25)",
+      "slug": "play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-25",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T21:15:44.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/testamos-resident-evil-requiem-no-pc-path-tracing-brilha-mas-cobra-seu-preco/"
+      "original_url": "https://www.tecmundo.com.br/voxel/503614-play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-25.htm"
     },
     {
-      "title": "Xiaomi pretende entrar no mercado de SSDs, mas não como você pensa",
-      "slug": "xiaomi-pretende-entrar-no-mercado-de-ssds-mas-nao-como-voce-pensa",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-25T19:20:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/hardware/xiaomi-pretende-entrar-no-mercado-de-ssds-mas-nao-como-voce-pensa/"
-    },
-    {
-      "title": "Como funciona a Tela de Privacidade do Galaxy S26 Ultra?",
-      "slug": "como-funciona-a-tela-de-privacidade-do-galaxy-s26-ultra",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T21:00:00.000Z",
+      "title": "Nvidia prevê vendas de US$78 bi no 1º tri fiscal, acima das previsões",
+      "slug": "nvidia-preve-vendas-de-usdollar78-bi-no-1o-tri-fiscal-acima-das-previsoes",
+      "topic": "infra-ia",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-25T21:45:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411122-como-funciona-a-tela-de-privacidade-do-galaxy-s26-ultra.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/25/nvidia-preve-vendas-de-us78-bi-no-1-tri-fiscal-acima-das-previsoes.htm"
     },
     {
-      "title": "Notebooks com até 30% OFF no Mercado Livre: grandes marcas em oferta por tempo limitado",
-      "slug": "notebooks-com-ate-30percent-off-no-mercado-livre-grandes-marcas-em-oferta-por-tempo-limitado",
+      "title": "Especialistas encontram possível vestígio de antiga sonda soviética na Lua",
+      "slug": "especialistas-encontram-possivel-vestigio-de-antiga-sonda-sovietica-na-lua",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T20:23:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-25T20:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411126-notebooks-com-ate-30-off-no-mercado-livre-grandes-marcas-em-oferta-por-tempo-limitado.htm"
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/02/25/especialistas-encontram-possivel-vestigio-de-antiga-sonda-sovietica-na-lua.htm"
     },
     {
-      "title": "Quando Pânico 7 chega no streaming? Confira previsão",
-      "slug": "quando-panico-7-chega-no-streaming-confira-previsao",
+      "title": "Astronauta que precisou ser evacuado da ISS afirma estar 'muito bem'",
+      "slug": "astronauta-que-precisou-ser-evacuado-da-iss-afirma-estar-muito-bem",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T20:15:51.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-25T18:42:11.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603209-quando-panico-7-chega-no-streaming-confira-previsao.htm"
-    },
-    {
-      "title": "Operação Erbs Fake: homem é preso em SP por simular torre de celular e disparar SMS maliciosos",
-      "slug": "operacao-erbs-fake-homem-e-preso-em-sp-por-simular-torre-de-celular-e-disparar-sms-maliciosos",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T20:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411124-operacao-erbs-fake-homem-e-preso-em-sp-por-simular-torre-de-celular-e-disparar-sms-maliciosos.htm"
-    },
-    {
-      "title": "One UI 8.5 é oficialmente lançada; confira celulares compatíveis",
-      "slug": "one-ui-85-e-oficialmente-lancada-confira-celulares-compativeis",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-25T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411114-one-ui-85-e-oficialmente-lancada-confira-celulares-compativeis.htm"
-    },
-    {
-      "title": "Trailer de Mortal Kombat 2 mostra mais Johnny Cage; confira!",
-      "slug": "trailer-de-mortal-kombat-2-mostra-mais-johnny-cage-confira",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T19:49:55.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603211-trailer-de-mortal-kombat-2-mostra-mais-johnny-cage-confira.htm"
-    },
-    {
-      "title": "Galaxy S26, Buds 4 e mais: confira resumo do Galaxy Unpacked 2026",
-      "slug": "galaxy-s26-buds-4-e-mais-confira-resumo-do-galaxy-unpacked-2026",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-25T19:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411108-galaxy-s26-buds-4-e-mais-confira-resumo-do-galaxy-unpacked-2026.htm"
-    },
-    {
-      "title": "Jogos do PS Plus Essential de março são revelados! Confira a lista completa",
-      "slug": "jogos-do-ps-plus-essential-de-marco-sao-revelados-confira-a-lista-completa",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-25T19:15:02.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503618-jogos-do-ps-plus-essential-de-marco-sao-revelados-confira-a-lista-completa.htm"
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/02/25/astronauta-que-precisou-ser-evacuado-da-iss-afirma-estar-muito-bem.htm"
     }
   ]
 }

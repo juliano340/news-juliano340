@@ -1,6 +1,6 @@
 {
-  "slug": "astronauta-que-precisou-ser-evacuado-da-iss-afirma-estar-muito-bem",
-  "generated_at": "2026-02-25T23:07:26.212Z",
+  "slug": "o-que-e-o-geospy-app-que-adivinha-onde-as-fotos-foram-tiradas",
+  "generated_at": "2026-02-25T23:02:54.462Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 261,
+      "words": 329,
       "min": 220
     },
     {
