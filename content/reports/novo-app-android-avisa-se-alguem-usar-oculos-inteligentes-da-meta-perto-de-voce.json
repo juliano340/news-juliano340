@@ -1,7 +1,7 @@
 {
-  "slug": "final-explicado-de-marty-supreme-entenda-desfecho-emocionante-do-filme",
-  "generated_at": "2026-02-25T13:10:53.364Z",
-  "status": "PASS",
+  "slug": "novo-app-android-avisa-se-alguem-usar-oculos-inteligentes-da-meta-perto-de-voce",
+  "generated_at": "2026-02-25T13:07:28.488Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 408,
+      "words": 278,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

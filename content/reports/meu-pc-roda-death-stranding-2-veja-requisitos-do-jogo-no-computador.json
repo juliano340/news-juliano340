@@ -1,6 +1,6 @@
 {
-  "slug": "final-explicado-de-marty-supreme-entenda-desfecho-emocionante-do-filme",
-  "generated_at": "2026-02-25T13:10:53.364Z",
+  "slug": "meu-pc-roda-death-stranding-2-veja-requisitos-do-jogo-no-computador",
+  "generated_at": "2026-02-25T13:09:41.879Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 408,
+      "words": 370,
       "min": 220
     },
     {

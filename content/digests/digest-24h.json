@@ -1,70 +1,160 @@
 {
-  "generated_at": "2026-02-25T11:07:28.317Z",
+  "generated_at": "2026-02-25T13:11:34.103Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 17,
   "posts": [
     {
-      "title": "9º Prêmio Canaltech: conheça as categorias e os jurados de 2026",
-      "slug": "9o-premio-canaltech-conheca-as-categorias-e-os-jurados-de-2026",
-      "topic": "infra-ia",
+      "title": "Moto Snaps estão de volta? Chinesa tenta ressuscitar o \"celular modular\"",
+      "slug": "moto-snaps-estao-de-volta-chinesa-tenta-ressuscitar-o-celular-modular",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-25T11:00:00.000Z",
+      "date": "2026-02-25T12:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/canaltech/9o-premio-canaltech-conheca-as-categorias-e-os-jurados-de-2026/"
+      "original_url": "https://canaltech.com.br/smartphone/moto-snaps-estao-de-volta-chinesa-tenta-ressuscitar-o-celular-modular/"
     },
     {
-      "title": "Como editar imagens com a IA do Photoroom? Veja o guia prático",
-      "slug": "como-editar-imagens-com-a-ia-do-photoroom-veja-o-guia-pratico",
-      "topic": "agentes",
+      "title": "Brasil pode ser líder em \"Starlink sem antena para celulares\", diz Anatel",
+      "slug": "brasil-pode-ser-lider-em-starlink-sem-antena-para-celulares-diz-anatel",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-25T10:00:00.000Z",
+      "date": "2026-02-25T12:54:03.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-editar-imagens-com-a-ia-do-photoroom-veja-o-guia-pratico/"
+      "original_url": "https://canaltech.com.br/telecom/brasil-pode-ser-lider-em-starlink-sem-antena-para-celulares-diz-anatel/"
     },
     {
-      "title": "\"Robôs aéreos\" solucionam saga da recarga em estacionamentos",
-      "slug": "robos-aereos-solucionam-saga-da-recarga-em-estacionamentos",
-      "topic": "infra-ia",
+      "title": "Gmail enfim permite anexar arquivos mais pesados, mas há um porém",
+      "slug": "gmail-enfim-permite-anexar-arquivos-mais-pesados-mas-ha-um-porem",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-25T09:55:00.000Z",
+      "date": "2026-02-25T12:52:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/robos-aereos-solucionam-saga-da-recarga-em-estacionamentos/"
+      "original_url": "https://canaltech.com.br/apps/gmail-enfim-permite-anexar-arquivos-mais-pesados-mas-ha-um-porem/"
     },
     {
-      "title": "Palpites para Flamengo x Lanús: Análises e Onde Assistir (26/01/2026)",
-      "slug": "palpites-para-flamengo-x-lanus-analises-e-onde-assistir-26012026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-25T11:00:00.000Z",
+      "title": "Apple libera verificação de idade para a App Store no Brasil; entenda o que muda",
+      "slug": "apple-libera-verificacao-de-idade-para-a-app-store-no-brasil-entenda-o-que-muda",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-25T12:42:50.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411076-palpites-para-flamengo-x-lanus-analises-e-onde-assistir-26012026.htm"
+      "original_url": "https://canaltech.com.br/apps/apple-libera-verificacao-de-idade-para-a-app-store-no-brasil-entenda-o-que-muda/"
     },
     {
-      "title": "IA na descoberta de medicamentos: como a tecnologia acelera a ciência",
-      "slug": "ia-na-descoberta-de-medicamentos-como-a-tecnologia-acelera-a-ciencia",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-25T10:15:00.000Z",
+      "title": "Sony patenteia \"soft pause\", tecnologia que pode deixar IA jogando em seu lugar",
+      "slug": "sony-patenteia-soft-pause-tecnologia-que-pode-deixar-ia-jogando-em-seu-lugar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T12:20:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/sony-patenteia-soft-pause-tecnologia-que-pode-deixar-ia-jogando-em-seu-lugar/"
+    },
+    {
+      "title": "Rival da Starlink vai oferecer internet via satélite para empresas no Brasil",
+      "slug": "rival-da-starlink-vai-oferecer-internet-via-satelite-para-empresas-no-brasil",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-02-25T12:19:42.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/ciencia/410912-ia-na-descoberta-de-medicamentos-como-a-tecnologia-acelera-a-ciencia.htm"
+      "original_url": "https://canaltech.com.br/telecom/rival-da-starlink-vai-oferecer-internet-via-satelite-para-empresas-no-brasil/"
     },
     {
-      "title": "Palpites para Cruzeiro x Corinthians: Análises e Onde Assistir (25/02/2026)",
-      "slug": "palpites-para-cruzeiro-x-corinthians-analises-e-onde-assistir-25022026",
+      "title": "Como é o avião gigante que pousou em SP pela 1ª vez após voo direto da Austrália",
+      "slug": "como-e-o-aviao-gigante-que-pousou-em-sp-pela-1a-vez-apos-voo-direto-da-australia",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/como-e-o-aviao-gigante-que-pousou-em-sp-pela-1a-vez-apos-voo-direto-da-australia/"
+    },
+    {
+      "title": "TIM vende PS5 em parcelas de R$ 96 para clientes de plano família",
+      "slug": "tim-vende-ps5-em-parcelas-de-rdollar-96-para-clientes-de-plano-familia",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-25T11:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/telecom/tim-vende-ps5-em-parcelas-de-r-96-para-clientes-de-plano-familia/"
+    },
+    {
+      "title": "Tag Heuer lança smartwatch de titânio com tema da Formula 1; veja fotos",
+      "slug": "tag-heuer-lanca-smartwatch-de-titanio-com-tema-da-formula-1-veja-fotos",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T11:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartwatch/tag-heuer-lanca-smartwatch-de-titanio-com-tema-da-formula-1-veja-fotos/"
+    },
+    {
+      "title": "Megaoperação da Polícia Civil mira quadrilha suspeita de fraudes digitais",
+      "slug": "megaoperacao-da-policia-civil-mira-quadrilha-suspeita-de-fraudes-digitais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T11:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/megaoperacao-da-policia-civil-mira-quadrilha-suspeita-de-fraudes-digitais/"
+    },
+    {
+      "title": "Novo app Android avisa se alguém usar óculos inteligentes da Meta perto de você",
+      "slug": "novo-app-android-avisa-se-alguem-usar-oculos-inteligentes-da-meta-perto-de-voce",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T13:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/software/411094-novo-app-android-avisa-se-alguem-usar-oculos-inteligentes-da-meta-perto-de-voce.htm"
+    },
+    {
+      "title": "Segunda temporada de Cavaleiro dos Sete Reinos repetirá decisão polêmica da primeira",
+      "slug": "segunda-temporada-de-cavaleiro-dos-sete-reinos-repetira-decisao-polemica-da-primeira",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T12:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603200-segunda-temporada-de-cavaleiro-dos-sete-reinos-repetira-decisao-polemica-da-primeira.htm"
+    },
+    {
+      "title": "Máquinas de Lavar e secadoras das melhores marcas em promoção na Amazon; confira",
+      "slug": "maquinas-de-lavar-e-secadoras-das-melhores-marcas-em-promocao-na-amazon-confira",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-25T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411074-palpites-para-cruzeiro-x-corinthians-analises-e-onde-assistir-25022026.htm"
+      "date": "2026-02-25T12:36:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411087-maquinas-de-lavar-e-secadoras-das-melhores-marcas-em-promocao-na-amazon-confira.htm"
     },
     {
-      "title": "Japão apresenta 'monge robô' que oferece conselhos espirituais com IA",
-      "slug": "japao-apresenta-monge-robo-que-oferece-conselhos-espirituais-com-ia",
+      "title": "Meu PC roda Death Stranding 2? Veja requisitos do jogo no computador",
+      "slug": "meu-pc-roda-death-stranding-2-veja-requisitos-do-jogo-no-computador",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503610-meu-pc-roda-death-stranding-2-veja-requisitos-do-jogo-no-computador.htm"
+    },
+    {
+      "title": "Ordem cronológica de Resident Evil: da mansão Spencer ao Requiem",
+      "slug": "ordem-cronologica-de-resident-evil-da-mansao-spencer-ao-requiem",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503537-ordem-cronologica-de-resident-evil-da-mansao-spencer-ao-requiem.htm"
+    },
+    {
+      "title": "Final explicado de Marty Supreme: entenda desfecho emocionante do filme",
+      "slug": "final-explicado-de-marty-supreme-entenda-desfecho-emocionante-do-filme",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-25T10:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603159-final-explicado-de-marty-supreme-entenda-desfecho-emocionante-do-filme.htm"
+    },
+    {
+      "title": "Especialista adverte sobre 'sinais de alerta' diante de rápido avanço da IA",
+      "slug": "especialista-adverte-sobre-sinais-de-alerta-diante-de-rapido-avanco-da-ia",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-25T10:39:45.000Z",
+      "date": "2026-02-25T11:49:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/25/japao-apresenta-monge-robo-que-oferece-conselhos-espirituais-com-ia.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/25/especialista-adverte-sobre-sinais-de-alerta-diante-de-rapido-avanco-da-ia.htm"
     }
   ]
 }
