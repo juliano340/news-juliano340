@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-02-25T03:00:55.485Z",
+  "generated_at": "2026-02-25T09:02:04.808Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 3,
   "posts": [
     {
-      "title": "Xbox vai morrer sob comando de Asha Sharma? É o que diz criador do console",
-      "slug": "xbox-vai-morrer-sob-comando-de-asha-sharma-e-o-que-diz-criador-do-console",
+      "title": "Câmera de celular: o que realmente importa na hora de escolher",
+      "slug": "camera-de-celular-o-que-realmente-importa-na-hora-de-escolher",
       "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-25T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/camera-de-celular-o-que-realmente-importa-na-hora-de-escolher-6371/"
+    },
+    {
+      "title": "Palpites para Palmeiras x Fluminense: Análises e Onde Assistir (25/02/2026)",
+      "slug": "palpites-para-palmeiras-x-fluminense-analises-e-onde-assistir-25022026",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-24T21:15:06.000Z",
+      "date": "2026-02-25T09:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503609-xbox-vai-morrer-sob-comando-de-asha-sharma-e-o-que-diz-criador-do-console.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411069-palpites-para-palmeiras-x-fluminense-analises-e-onde-assistir-25022026.htm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (25)? Veja calendário lunar de fevereiro de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-25-veja-calendario-lunar-de-fevereiro-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-25T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/25/qual-e-a-fase-da-lua-hoje-25-veja-calendario-lunar-de-fevereiro-de-2026.htm"
     }
   ]
 }
