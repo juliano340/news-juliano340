@@ -1,6 +1,6 @@
 {
-  "slug": "samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes",
-  "generated_at": "2026-02-26T15:16:08.005Z",
+  "slug": "hp-ram-e-armazenamento-ja-representam-35percent-dos-custos-de-um-pc",
+  "generated_at": "2026-02-26T15:01:33.645Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 250,
+      "words": 410,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -84,15 +84,15 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 3,
       "min": 3
     }
   ],
   "warnings": [
-    "poucos_links_internos"
+    "fonte_primaria_ausente_no_corpo"
   ],
   "errors": [],
   "score": 92,

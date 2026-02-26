@@ -1,6 +1,6 @@
 {
-  "slug": "samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes",
-  "generated_at": "2026-02-26T15:16:08.005Z",
+  "slug": "iphone-17-pro-max-512-gb-tem-melhor-oferta-que-ja-vimos-no-mercado-livre",
+  "generated_at": "2026-02-26T15:02:51.403Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 250,
+      "words": 303,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -92,10 +92,11 @@
     }
   ],
   "warnings": [
+    "fonte_primaria_ausente_no_corpo",
     "poucos_links_internos"
   ],
   "errors": [],
-  "score": 92,
+  "score": 85,
   "metadata": {
     "status": "PASS",
     "checks": [

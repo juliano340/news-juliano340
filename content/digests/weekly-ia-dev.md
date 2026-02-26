@@ -1,25 +1,26 @@
 # Weekly IA para Devs - 2026-02-26
 
-Gerado em 2026-02-26T13:14:31.888Z
+Gerado em 2026-02-26T15:16:09.010Z
 
-- [Viih Tube perde quase R$ 7 mil em golpe digital e alerta seguidores](https://g1.globo.com/tecnologia/noticia/2026/02/26/viih-tube-perde-quase-r-7-mil-em-golpe-nas-redes-e-alerta-seguidores.ghtml) | topico: produtividade-dev | score: 100
-- [Pix: brasileiros estão satisfeitos, mas querem mais agilidade, diz pesquisa](https://tecnoblog.net/noticias/pix-brasileiros-estao-satisfeitos-mas-querem-mais-agilidade-diz-pesquisa/) | topico: produtividade-dev | score: 92
-- [IA blogueira? LLM aposentado do Claude ganha espaço para compartilhar reflexões](https://canaltech.com.br/apps/ia-blogueira-llm-aposentado-do-claude-ganha-espaco-para-compartilhar-reflexoes/) | topico: llms | score: 100
-- [Samsung confirma: câmeras melhores vão chegar a celulares futuros](https://canaltech.com.br/smartphone/samsung-confirma-cameras-melhores-vao-chegar-a-celulares-futuros/) | topico: geral | score: 100
-- [Samsung prepara celular com nova tecnologia de bateria; Xiaomi e Motorola já têm](https://canaltech.com.br/smartphone/samsung-prepara-celular-com-nova-tecnologia-de-bateria-xiaomi-e-motorola-ja-tem/) | topico: geral | score: 92
-- [Câmera do Galaxy S26 vai traduzir textos em tempo real; veja como funciona](https://canaltech.com.br/apps/camera-do-galaxy-s26-vai-traduzir-textos-em-tempo-real-veja-como-funciona/) | topico: agentes | score: 100
-- [Galaxy S26 tem função "escondida" de câmera para turbinar fotos; entenda](https://canaltech.com.br/smartphone/galaxy-s26-tem-funcao-escondida-de-camera-para-turbinar-fotos-entenda/) | topico: geral | score: 100
-- [Nova atualização do PS5 revela se preço de jogos em promoção é real](https://canaltech.com.br/games/nova-atualizacao-do-ps5-revela-se-preco-de-jogos-em-promocao-e-real/) | topico: geral | score: 100
-- [Marca chinesa estaria cogitando parar de fabricar celulares](https://canaltech.com.br/smartphone/marca-chinesa-estaria-cogitando-parar-de-fabricar-celulares/) | topico: geral | score: 100
-- [Embraer lança jatos de luxo que "redefinem experiência de voar"](https://canaltech.com.br/carros/novo-jato-da-embraer-traz-cabine-integrada-a-smart-window-com-tela-oled-4k/) | topico: produtividade-dev | score: 100
-- [Rival provoca Samsung após Galaxy S26: "mentes espertas vão esperar mais"](https://canaltech.com.br/smartphone/rival-provoca-samsung-apos-galaxy-s26-mentes-espertas-vao-esperar-mais/) | topico: geral | score: 100
-- [É hora de comprar? Xiaomi reforça que seus celulares vão ficar mais caros](https://canaltech.com.br/smartphone/e-hora-de-comprar-xiaomi-reforca-que-seus-celulares-vao-ficar-mais-caros/) | topico: geral | score: 100
-- [Cursos de IA: aprenda Copilot, Gemini, ChatGPT e mais em 2026](https://www.tecmundo.com.br/guia-de-compras/411109-cursos-de-ia-aprenda-copilot-gemini-chatgpt-e-mais-em-2026.htm) | topico: llms | score: 100
-- [1 a cada 5 adolescentes viram conteúdo sexual no Instagram](https://www.tecmundo.com.br/redes-sociais/411129-1-a-cada-5-adolescentes-viram-conteudo-sexual-no-instagram.htm) | topico: seguranca-ia | score: 100
-- [Smiling Friends é cancelada pelos próprios criadores e chega ao fim na Temporada 3](https://www.tecmundo.com.br/minha-serie/603212-smiling-friends-e-cancelada-pelos-proprios-criadores-e-chega-ao-fim-na-temporada-3.htm) | topico: geral | score: 100
-- [Google é multado pela Rússia por anúncios de VPN na Play Store](https://www.tecmundo.com.br/mercado/411119-google-e-multado-pela-russia-por-anuncios-de-vpn-na-play-store.htm) | topico: geral | score: 100
-- [Xbox não vai forçar uso de IA em jogos, diz nova CEO](https://www.tecmundo.com.br/voxel/503616-xbox-nao-vai-forcar-uso-de-ia-em-jogos-diz-nova-ceo.htm) | topico: geral | score: 100
-- [De quem é o corpo? Entenda o final de 56 dias, série do Prime Video](https://www.tecmundo.com.br/minha-serie/603205-de-quem-e-o-corpo-entenda-o-final-de-56-dias-serie-do-prime-video.htm) | topico: geral | score: 100
-- [Palpites para Botafogo x Boavista: Análises e Onde Assistir (28/01/2026)](https://www.tecmundo.com.br/apostas/411106-palpites-para-botafogo-x-boavista-analises-e-onde-assistir-28012026.htm) | topico: seguranca-ia | score: 92
-- [Graduado, homem e sem previdência: a cara do motorista de Uber na AL](https://www.uol.com.br/tilt/noticias/afp/2026/02/26/graduado-homem-e-sem-previdencia-a-cara-do-motorista-de-uber-na-al.htm) | topico: geral | score: 100
-- [Artemis 2: Nasa recolhe foguete para reparos e atrasa missão tripulada à Lua](https://www.uol.com.br/tilt/noticias/afp/2026/02/26/artemis-2-nasa-leva-foguete-lunar-de-volta-ao-hangar-para-reparos.htm) | topico: geral | score: 100
+- [Códigos e cheats de Pokémon Emerald](https://tecnoblog.net/responde/cheats-para-pokemon-emerald/) | topico: geral | score: 100
+- [HP: RAM e armazenamento já representam 35% dos custos de um PC](https://tecnoblog.net/noticias/hp-ram-e-armazenamento-ja-representam-35-dos-custos-de-um-pc/) | topico: geral | score: 92
+- [iPhone 15 (512 GB) cai 37% comparado ao iPhone 16e de mesmo armazenamento](https://tecnoblog.net/achados/iphone-15-512-gb-cai-37-comparado-ao-iphone-16e-de-mesmo-armazenamento/) | topico: geral | score: 100
+- [iPhone 17 Pro Max (512 GB) tem melhor oferta que já vimos no Mercado Livre](https://tecnoblog.net/achados/iphone-17-pro-max-512-gb-tem-melhor-oferta-que-ja-vimos-no-mercado-livre/) | topico: geral | score: 85
+- [Galaxy S25 (256 GB) sai pela metade do preço do Galaxy S26 com cupom](https://tecnoblog.net/achados/galaxy-s25-256-gb-sai-pela-metade-do-preco-do-galaxy-s26-com-cupom/) | topico: geral | score: 92
+- [Google Flow ganha integração com Nano Banana e novos comandos para editar vídeos](https://canaltech.com.br/apps/google-flow-ganha-integracao-com-nano-banana-e-novos-comandos-para-editar-videos/) | topico: llms | score: 100
+- [Novo processo acusa Roblox de facilitar crimes e abusos infantis](https://canaltech.com.br/seguranca/novo-processo-acusa-roblox-de-facilitar-crimes-e-abusos-infantis/) | topico: geral | score: 100
+- [Toyota Yaris Cross tem "ajudinha" da lei para bombar nas vendas](https://canaltech.com.br/carros/toyota-yaris-cross-tem-ajudinha-da-lei-para-bombar-nas-vendas/) | topico: geral | score: 100
+- [Instagram avisará pais sobre buscas por temas sensíveis feitas por adolescentes](https://canaltech.com.br/apps/instagram-avisara-pais-sobre-buscas-por-temas-sensiveis-feitas-por-adolescentes/) | topico: agentes | score: 100
+- [Xbox nega pressão para uso de IA, mas ex-funcionários relatam o contrário](https://canaltech.com.br/games/xbox-nega-pressao-para-uso-de-ia-mas-ex-funcionarios-relatam-o-contrario/) | topico: geral | score: 100
+- [Samsung confirma que trabalha em celular com bateria de Silício-carbono](https://www.tecmundo.com.br/produto/411137-samsung-confirma-que-trabalha-em-celular-com-bateria-de-silicio-carbono.htm) | topico: produtividade-dev | score: 100
+- [N1 e N1X: Nvidia trabalha em dois chips para notebooks](https://www.tecmundo.com.br/produto/411135-n1-e-n1x-nvidia-trabalha-em-dois-chips-para-notebooks.htm) | topico: geral | score: 100
+- [Histórias com LG: campanha traz ofertas e cupom de 10% OFF em produtos variados](https://www.tecmundo.com.br/guia-de-compras/411132-historias-com-lg-campanha-traz-ofertas-e-cupom-de-10-off-em-produtos-variados.htm) | topico: produtividade-dev | score: 100
+- [Free Fire como universo de marca na cultura pop contemporânea](https://www.tecmundo.com.br/voxel/503624-free-fire-como-universo-de-marca-na-cultura-pop-contemporanea.htm) | topico: geral | score: 92
+- [Nvidia revela receita recorde de US$ 68 bi no 4º trimestre de 2025](https://www.tecmundo.com.br/mercado/411134-nvidia-revela-receita-recorde-de-us-68-bi-no-4-trimestre-de-2025.htm) | topico: geral | score: 100
+- [Frigobar Brastemp, caixa de som JBL e mais com até 70% OFF nas Super Ofertas da Shopee](https://www.tecmundo.com.br/guia-de-compras/411136-frigobar-brastemp-caixa-de-som-jbl-e-mais-com-ate-70-off-nas-super-ofertas-da-shopee.htm) | topico: produtividade-dev | score: 92
+- [Hacker 'convence' Claude e recebe ajuda para invadir governo do México](https://www.tecmundo.com.br/seguranca/411133-hacker-convence-claude-e-recebe-ajuda-para-invadir-governo-do-mexico.htm) | topico: geral | score: 100
+- [Power banks: confira os melhores modelos para comprar](https://www.tecmundo.com.br/produto/406617-power-banks-confira-os-melhores-modelos-para-comprar.htm) | topico: geral | score: 100
+- [Prime Gaming: Amazon Luna recebe últimos jogos grátis de fevereiro! Resgate agora (26)](https://www.tecmundo.com.br/voxel/503619-prime-gaming-amazon-luna-recebe-ultimos-jogos-gratis-de-fevereiro-resgate-agora-26.htm) | topico: geral | score: 92
+- [Instagram alertará pais sobre pesquisas de adolescentes relacionadas a suicídio](https://www.uol.com.br/tilt/noticias/reuters/2026/02/26/instagram-alertara-pais-sobre-pesquisas-de-adolescentes-relacionadas-a-suicidio.htm) | topico: geral | score: 100
+- [Brasscom: Aprovação de benefícios para data centers está 'muito atrasada'](https://economia.uol.com.br/noticias/redacao/2026/02/26/brasil-perde-tempo-e-projetos-vao-para-outros-paises-diz-afonso-lina-sobre-redata.htm) | topico: geral | score: 100
+- [Samsung apresenta Galaxy S26; aumenta os preços em mercados importantes](https://www.uol.com.br/tilt/noticias/reuters/2026/02/26/samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes.htm) | topico: geral | score: 92

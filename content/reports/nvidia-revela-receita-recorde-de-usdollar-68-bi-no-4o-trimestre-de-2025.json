@@ -1,7 +1,7 @@
 {
-  "slug": "samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes",
-  "generated_at": "2026-02-26T15:16:08.005Z",
-  "status": "WARN",
+  "slug": "nvidia-revela-receita-recorde-de-usdollar-68-bi-no-4o-trimestre-de-2025",
+  "generated_at": "2026-02-26T15:11:26.751Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 250,
+      "words": 333,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

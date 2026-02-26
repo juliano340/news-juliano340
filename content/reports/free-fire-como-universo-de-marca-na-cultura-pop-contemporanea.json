@@ -1,6 +1,6 @@
 {
-  "slug": "samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes",
-  "generated_at": "2026-02-26T15:16:08.005Z",
+  "slug": "free-fire-como-universo-de-marca-na-cultura-pop-contemporanea",
+  "generated_at": "2026-02-26T15:10:38.408Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 250,
+      "words": 325,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 2,
       "min": 3
     }
   ],

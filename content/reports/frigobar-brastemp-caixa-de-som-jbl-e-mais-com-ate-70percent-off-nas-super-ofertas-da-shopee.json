@@ -1,6 +1,6 @@
 {
-  "slug": "samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes",
-  "generated_at": "2026-02-26T15:16:08.005Z",
+  "slug": "frigobar-brastemp-caixa-de-som-jbl-e-mais-com-ate-70percent-off-nas-super-ofertas-da-shopee",
+  "generated_at": "2026-02-26T15:12:21.744Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 250,
+      "words": 386,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 2,
       "min": 3
     }
   ],

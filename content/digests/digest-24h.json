@@ -1,196 +1,205 @@
 {
-  "generated_at": "2026-02-26T13:14:31.888Z",
+  "generated_at": "2026-02-26T15:16:09.010Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 21,
+  "total": 22,
   "posts": [
     {
-      "title": "Viih Tube perde quase R$ 7 mil em golpe digital e alerta seguidores",
-      "slug": "viih-tube-perde-quase-rdollar-7-mil-em-golpe-digital-e-alerta-seguidores",
-      "topic": "produtividade-dev",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-26T11:49:14.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/26/viih-tube-perde-quase-r-7-mil-em-golpe-nas-redes-e-alerta-seguidores.ghtml"
-    },
-    {
-      "title": "Pix: brasileiros estão satisfeitos, mas querem mais agilidade, diz pesquisa",
-      "slug": "pix-brasileiros-estao-satisfeitos-mas-querem-mais-agilidade-diz-pesquisa",
-      "topic": "produtividade-dev",
+      "title": "Códigos e cheats de Pokémon Emerald",
+      "slug": "codigos-e-cheats-de-pokemon-emerald",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-26T12:01:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/pix-brasileiros-estao-satisfeitos-mas-querem-mais-agilidade-diz-pesquisa/"
+      "date": "2026-02-26T14:14:18.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/cheats-para-pokemon-emerald/"
     },
     {
-      "title": "IA blogueira? LLM aposentado do Claude ganha espaço para compartilhar reflexões",
-      "slug": "ia-blogueira-llm-aposentado-do-claude-ganha-espaco-para-compartilhar-reflexoes",
+      "title": "HP: RAM e armazenamento já representam 35% dos custos de um PC",
+      "slug": "hp-ram-e-armazenamento-ja-representam-35percent-dos-custos-de-um-pc",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T14:11:45.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/hp-ram-e-armazenamento-ja-representam-35-dos-custos-de-um-pc/"
+    },
+    {
+      "title": "iPhone 15 (512 GB) cai 37% comparado ao iPhone 16e de mesmo armazenamento",
+      "slug": "iphone-15-512-gb-cai-37percent-comparado-ao-iphone-16e-de-mesmo-armazenamento",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T14:01:46.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/iphone-15-512-gb-cai-37-comparado-ao-iphone-16e-de-mesmo-armazenamento/"
+    },
+    {
+      "title": "iPhone 17 Pro Max (512 GB) tem melhor oferta que já vimos no Mercado Livre",
+      "slug": "iphone-17-pro-max-512-gb-tem-melhor-oferta-que-ja-vimos-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T13:58:08.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-max-512-gb-tem-melhor-oferta-que-ja-vimos-no-mercado-livre/"
+    },
+    {
+      "title": "Galaxy S25 (256 GB) sai pela metade do preço do Galaxy S26 com cupom",
+      "slug": "galaxy-s25-256-gb-sai-pela-metade-do-preco-do-galaxy-s26-com-cupom",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T13:28:49.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-256-gb-sai-pela-metade-do-preco-do-galaxy-s26-com-cupom/"
+    },
+    {
+      "title": "Google Flow ganha integração com Nano Banana e novos comandos para editar vídeos",
+      "slug": "google-flow-ganha-integracao-com-nano-banana-e-novos-comandos-para-editar-videos",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-02-26T13:00:35.000Z",
+      "date": "2026-02-26T14:38:13.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/ia-blogueira-llm-aposentado-do-claude-ganha-espaco-para-compartilhar-reflexoes/"
+      "original_url": "https://canaltech.com.br/apps/google-flow-ganha-integracao-com-nano-banana-e-novos-comandos-para-editar-videos/"
     },
     {
-      "title": "Samsung confirma: câmeras melhores vão chegar a celulares futuros",
-      "slug": "samsung-confirma-cameras-melhores-vao-chegar-a-celulares-futuros",
+      "title": "Novo processo acusa Roblox de facilitar crimes e abusos infantis",
+      "slug": "novo-processo-acusa-roblox-de-facilitar-crimes-e-abusos-infantis",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-26T12:56:00.000Z",
+      "date": "2026-02-26T14:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-confirma-cameras-melhores-vao-chegar-a-celulares-futuros/"
+      "original_url": "https://canaltech.com.br/seguranca/novo-processo-acusa-roblox-de-facilitar-crimes-e-abusos-infantis/"
     },
     {
-      "title": "Samsung prepara celular com nova tecnologia de bateria; Xiaomi e Motorola já têm",
-      "slug": "samsung-prepara-celular-com-nova-tecnologia-de-bateria-xiaomi-e-motorola-ja-tem",
+      "title": "Toyota Yaris Cross tem \"ajudinha\" da lei para bombar nas vendas",
+      "slug": "toyota-yaris-cross-tem-ajudinha-da-lei-para-bombar-nas-vendas",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-26T12:51:14.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-prepara-celular-com-nova-tecnologia-de-bateria-xiaomi-e-motorola-ja-tem/"
+      "date": "2026-02-26T13:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/toyota-yaris-cross-tem-ajudinha-da-lei-para-bombar-nas-vendas/"
     },
     {
-      "title": "Câmera do Galaxy S26 vai traduzir textos em tempo real; veja como funciona",
-      "slug": "camera-do-galaxy-s26-vai-traduzir-textos-em-tempo-real-veja-como-funciona",
+      "title": "Instagram avisará pais sobre buscas por temas sensíveis feitas por adolescentes",
+      "slug": "instagram-avisara-pais-sobre-buscas-por-temas-sensiveis-feitas-por-adolescentes",
       "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-26T12:36:51.000Z",
+      "date": "2026-02-26T13:52:18.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/camera-do-galaxy-s26-vai-traduzir-textos-em-tempo-real-veja-como-funciona/"
+      "original_url": "https://canaltech.com.br/apps/instagram-avisara-pais-sobre-buscas-por-temas-sensiveis-feitas-por-adolescentes/"
     },
     {
-      "title": "Galaxy S26 tem função \"escondida\" de câmera para turbinar fotos; entenda",
-      "slug": "galaxy-s26-tem-funcao-escondida-de-camera-para-turbinar-fotos-entenda",
+      "title": "Xbox nega pressão para uso de IA, mas ex-funcionários relatam o contrário",
+      "slug": "xbox-nega-pressao-para-uso-de-ia-mas-ex-funcionarios-relatam-o-contrario",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-26T12:28:01.000Z",
+      "date": "2026-02-26T13:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-tem-funcao-escondida-de-camera-para-turbinar-fotos-entenda/"
+      "original_url": "https://canaltech.com.br/games/xbox-nega-pressao-para-uso-de-ia-mas-ex-funcionarios-relatam-o-contrario/"
     },
     {
-      "title": "Nova atualização do PS5 revela se preço de jogos em promoção é real",
-      "slug": "nova-atualizacao-do-ps5-revela-se-preco-de-jogos-em-promocao-e-real",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T12:25:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/nova-atualizacao-do-ps5-revela-se-preco-de-jogos-em-promocao-e-real/"
-    },
-    {
-      "title": "Marca chinesa estaria cogitando parar de fabricar celulares",
-      "slug": "marca-chinesa-estaria-cogitando-parar-de-fabricar-celulares",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T12:21:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/marca-chinesa-estaria-cogitando-parar-de-fabricar-celulares/"
-    },
-    {
-      "title": "Embraer lança jatos de luxo que \"redefinem experiência de voar\"",
-      "slug": "embraer-lanca-jatos-de-luxo-que-redefinem-experiencia-de-voar",
+      "title": "Samsung confirma que trabalha em celular com bateria de Silício-carbono",
+      "slug": "samsung-confirma-que-trabalha-em-celular-com-bateria-de-silicio-carbono",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-26T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/novo-jato-da-embraer-traz-cabine-integrada-a-smart-window-com-tela-oled-4k/"
-    },
-    {
-      "title": "Rival provoca Samsung após Galaxy S26: \"mentes espertas vão esperar mais\"",
-      "slug": "rival-provoca-samsung-apos-galaxy-s26-mentes-espertas-vao-esperar-mais",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T11:27:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/rival-provoca-samsung-apos-galaxy-s26-mentes-espertas-vao-esperar-mais/"
-    },
-    {
-      "title": "É hora de comprar? Xiaomi reforça que seus celulares vão ficar mais caros",
-      "slug": "e-hora-de-comprar-xiaomi-reforca-que-seus-celulares-vao-ficar-mais-caros",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T11:24:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/e-hora-de-comprar-xiaomi-reforca-que-seus-celulares-vao-ficar-mais-caros/"
-    },
-    {
-      "title": "Cursos de IA: aprenda Copilot, Gemini, ChatGPT e mais em 2026",
-      "slug": "cursos-de-ia-aprenda-copilot-gemini-chatgpt-e-mais-em-2026",
-      "topic": "llms",
       "source": "Tecmundo",
-      "date": "2026-02-26T12:32:00.000Z",
+      "date": "2026-02-26T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411109-cursos-de-ia-aprenda-copilot-gemini-chatgpt-e-mais-em-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411137-samsung-confirma-que-trabalha-em-celular-com-bateria-de-silicio-carbono.htm"
     },
     {
-      "title": "1 a cada 5 adolescentes viram conteúdo sexual no Instagram",
-      "slug": "1-a-cada-5-adolescentes-viram-conteudo-sexual-no-instagram",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-26T12:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/redes-sociais/411129-1-a-cada-5-adolescentes-viram-conteudo-sexual-no-instagram.htm"
-    },
-    {
-      "title": "Smiling Friends é cancelada pelos próprios criadores e chega ao fim na Temporada 3",
-      "slug": "smiling-friends-e-cancelada-pelos-proprios-criadores-e-chega-ao-fim-na-temporada-3",
+      "title": "N1 e N1X: Nvidia trabalha em dois chips para notebooks",
+      "slug": "n1-e-n1x-nvidia-trabalha-em-dois-chips-para-notebooks",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-26T12:08:16.000Z",
+      "date": "2026-02-26T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603212-smiling-friends-e-cancelada-pelos-proprios-criadores-e-chega-ao-fim-na-temporada-3.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411135-n1-e-n1x-nvidia-trabalha-em-dois-chips-para-notebooks.htm"
     },
     {
-      "title": "Google é multado pela Rússia por anúncios de VPN na Play Store",
-      "slug": "google-e-multado-pela-russia-por-anuncios-de-vpn-na-play-store",
+      "title": "Histórias com LG: campanha traz ofertas e cupom de 10% OFF em produtos variados",
+      "slug": "historias-com-lg-campanha-traz-ofertas-e-cupom-de-10percent-off-em-produtos-variados",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-26T14:36:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411132-historias-com-lg-campanha-traz-ofertas-e-cupom-de-10-off-em-produtos-variados.htm"
+    },
+    {
+      "title": "Free Fire como universo de marca na cultura pop contemporânea",
+      "slug": "free-fire-como-universo-de-marca-na-cultura-pop-contemporanea",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-26T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411119-google-e-multado-pela-russia-por-anuncios-de-vpn-na-play-store.htm"
-    },
-    {
-      "title": "Xbox não vai forçar uso de IA em jogos, diz nova CEO",
-      "slug": "xbox-nao-vai-forcar-uso-de-ia-em-jogos-diz-nova-ceo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T11:58:14.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503616-xbox-nao-vai-forcar-uso-de-ia-em-jogos-diz-nova-ceo.htm"
-    },
-    {
-      "title": "De quem é o corpo? Entenda o final de 56 dias, série do Prime Video",
-      "slug": "de-quem-e-o-corpo-entenda-o-final-de-56-dias-serie-do-prime-video",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603205-de-quem-e-o-corpo-entenda-o-final-de-56-dias-serie-do-prime-video.htm"
-    },
-    {
-      "title": "Palpites para Botafogo x Boavista: Análises e Onde Assistir (28/01/2026)",
-      "slug": "palpites-para-botafogo-x-boavista-analises-e-onde-assistir-28012026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-26T11:00:00.000Z",
+      "date": "2026-02-26T14:25:53.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411106-palpites-para-botafogo-x-boavista-analises-e-onde-assistir-28012026.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503624-free-fire-como-universo-de-marca-na-cultura-pop-contemporanea.htm"
     },
     {
-      "title": "Graduado, homem e sem previdência: a cara do motorista de Uber na AL",
-      "slug": "graduado-homem-e-sem-previdencia-a-cara-do-motorista-de-uber-na-al",
+      "title": "Nvidia revela receita recorde de US$ 68 bi no 4º trimestre de 2025",
+      "slug": "nvidia-revela-receita-recorde-de-usdollar-68-bi-no-4o-trimestre-de-2025",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-26T11:58:18.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-26T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/26/graduado-homem-e-sem-previdencia-a-cara-do-motorista-de-uber-na-al.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411134-nvidia-revela-receita-recorde-de-us-68-bi-no-4-trimestre-de-2025.htm"
     },
     {
-      "title": "Artemis 2: Nasa recolhe foguete para reparos e atrasa missão tripulada à Lua",
-      "slug": "artemis-2-nasa-recolhe-foguete-para-reparos-e-atrasa-missao-tripulada-a-lua",
+      "title": "Frigobar Brastemp, caixa de som JBL e mais com até 70% OFF nas Super Ofertas da Shopee",
+      "slug": "frigobar-brastemp-caixa-de-som-jbl-e-mais-com-ate-70percent-off-nas-super-ofertas-da-shopee",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-26T13:56:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411136-frigobar-brastemp-caixa-de-som-jbl-e-mais-com-ate-70-off-nas-super-ofertas-da-shopee.htm"
+    },
+    {
+      "title": "Hacker 'convence' Claude e recebe ajuda para invadir governo do México",
+      "slug": "hacker-convence-claude-e-recebe-ajuda-para-invadir-governo-do-mexico",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-26T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411133-hacker-convence-claude-e-recebe-ajuda-para-invadir-governo-do-mexico.htm"
+    },
+    {
+      "title": "Power banks: confira os melhores modelos para comprar",
+      "slug": "power-banks-confira-os-melhores-modelos-para-comprar",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-26T13:16:52.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/406617-power-banks-confira-os-melhores-modelos-para-comprar.htm"
+    },
+    {
+      "title": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de fevereiro! Resgate agora (26)",
+      "slug": "prime-gaming-amazon-luna-recebe-ultimos-jogos-gratis-de-fevereiro-resgate-agora-26",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-26T13:15:02.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503619-prime-gaming-amazon-luna-recebe-ultimos-jogos-gratis-de-fevereiro-resgate-agora-26.htm"
+    },
+    {
+      "title": "Instagram alertará pais sobre pesquisas de adolescentes relacionadas a suicídio",
+      "slug": "instagram-alertara-pais-sobre-pesquisas-de-adolescentes-relacionadas-a-suicidio",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-26T11:38:57.000Z",
+      "date": "2026-02-26T14:36:34.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/26/artemis-2-nasa-leva-foguete-lunar-de-volta-ao-hangar-para-reparos.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/26/instagram-alertara-pais-sobre-pesquisas-de-adolescentes-relacionadas-a-suicidio.htm"
+    },
+    {
+      "title": "Brasscom: Aprovação de benefícios para data centers está 'muito atrasada'",
+      "slug": "brasscom-aprovacao-de-beneficios-para-data-centers-esta-muito-atrasada",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-26T13:32:05.000Z",
+      "editorial_score": 100,
+      "original_url": "https://economia.uol.com.br/noticias/redacao/2026/02/26/brasil-perde-tempo-e-projetos-vao-para-outros-paises-diz-afonso-lina-sobre-redata.htm"
+    },
+    {
+      "title": "Samsung apresenta Galaxy S26; aumenta os preços em mercados importantes",
+      "slug": "samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-26T12:30:56.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/26/samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes.htm"
     }
   ]
 }
