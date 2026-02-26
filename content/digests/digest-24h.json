@@ -1,43 +1,52 @@
 {
-  "generated_at": "2026-02-26T09:03:04.826Z",
+  "generated_at": "2026-02-26T11:04:46.093Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 5,
   "posts": [
     {
-      "title": "Como smartwatches estão transformando o exercício físico",
-      "slug": "como-smartwatches-estao-transformando-o-exercicio-fisico",
+      "title": "Apple terá que pagar multa no Brasil por vender celular sem carregador na caixa",
+      "slug": "apple-tera-que-pagar-multa-no-brasil-por-vender-celular-sem-carregador-na-caixa",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-26T09:00:00.000Z",
+      "date": "2026-02-26T10:58:37.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/como-smartwatches-estao-transformando-o-exercicio-fisico-6373/"
+      "original_url": "https://canaltech.com.br/smartphone/apple-tera-que-pagar-multa-no-brasil-por-vender-celular-sem-carregador-na-caixa/"
     },
     {
-      "title": "Palpites para Cruzeiro x Pouso Alegre: Análises e Onde Assistir (28/01/2026)",
-      "slug": "palpites-para-cruzeiro-x-pouso-alegre-analises-e-onde-assistir-28012026",
+      "title": "Prêmio Canaltech elege carros tech do ano em sua 9ª edição",
+      "slug": "premio-canaltech-elege-carros-tech-do-ano-em-sua-9a-edicao",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/premio-canaltech-elege-carros-tech-do-ano-em-sua-9a-edicao/"
+    },
+    {
+      "title": "Como funciona o app Claro tv+? Veja os preços, recursos e canais",
+      "slug": "como-funciona-o-app-claro-tv-veja-os-precos-recursos-e-canais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-funciona-o-app-claro-tv-veja-os-precos-recursos-e-canais/"
+    },
+    {
+      "title": "Vale a pena comprar um PC montado? Veja review do ITX Gamer Arena",
+      "slug": "vale-a-pena-comprar-um-pc-montado-veja-review-do-itx-gamer-arena",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-26T09:00:00.000Z",
+      "date": "2026-02-26T10:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/411111-palpites-para-cruzeiro-x-pouso-alegre-analises-e-onde-assistir-28012026.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503551-vale-a-pena-comprar-um-pc-montado-veja-review-do-itx-gamer-arena.htm"
     },
     {
-      "title": "Prometeu e não entregou: por que tecnologia não fez você trabalhar menos",
-      "slug": "prometeu-e-nao-entregou-por-que-tecnologia-nao-fez-voce-trabalhar-menos",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-26T08:30:00.000Z",
+      "title": "Palpites para Wolverhampton x Aston Villa: Análises e Onde Assistir (27/01/2026)",
+      "slug": "palpites-para-wolverhampton-x-aston-villa-analises-e-onde-assistir-27012026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-26T10:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/prometeu-e-nao-entregou-por-que-tecnologia-nao-fez-voce-trabalhar-menos.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (26)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-26-veja-calendario-lunar-de-fevereiro-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-26T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/qual-e-a-fase-da-lua-hoje-26-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411102-palpites-para-wolverhampton-x-aston-villa-analises-e-onde-assistir-27012026.htm"
     }
   ]
 }

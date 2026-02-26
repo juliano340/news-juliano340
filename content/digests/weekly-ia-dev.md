@@ -1,8 +1,9 @@
 # Weekly IA para Devs - 2026-02-26
 
-Gerado em 2026-02-26T09:03:04.826Z
+Gerado em 2026-02-26T11:04:46.093Z
 
-- [Como smartwatches estão transformando o exercício físico](https://canaltech.com.br/podcast/podcast-canaltech/como-smartwatches-estao-transformando-o-exercicio-fisico-6373/) | topico: geral | score: 100
-- [Palpites para Cruzeiro x Pouso Alegre: Análises e Onde Assistir (28/01/2026)](https://www.tecmundo.com.br/apostas/411111-palpites-para-cruzeiro-x-pouso-alegre-analises-e-onde-assistir-28012026.htm) | topico: geral | score: 100
-- [Prometeu e não entregou: por que tecnologia não fez você trabalhar menos](https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/prometeu-e-nao-entregou-por-que-tecnologia-nao-fez-voce-trabalhar-menos.htm) | topico: geral | score: 92
-- [Qual é a fase da Lua hoje (26)? Veja calendário lunar de fevereiro de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/qual-e-a-fase-da-lua-hoje-26-veja-calendario-lunar-de-fevereiro-de-2026.htm) | topico: geral | score: 100
+- [Apple terá que pagar multa no Brasil por vender celular sem carregador na caixa](https://canaltech.com.br/smartphone/apple-tera-que-pagar-multa-no-brasil-por-vender-celular-sem-carregador-na-caixa/) | topico: geral | score: 100
+- [Prêmio Canaltech elege carros tech do ano em sua 9ª edição](https://canaltech.com.br/carros/premio-canaltech-elege-carros-tech-do-ano-em-sua-9a-edicao/) | topico: geral | score: 100
+- [Como funciona o app Claro tv+? Veja os preços, recursos e canais](https://canaltech.com.br/apps/como-funciona-o-app-claro-tv-veja-os-precos-recursos-e-canais/) | topico: geral | score: 100
+- [Vale a pena comprar um PC montado? Veja review do ITX Gamer Arena](https://www.tecmundo.com.br/voxel/503551-vale-a-pena-comprar-um-pc-montado-veja-review-do-itx-gamer-arena.htm) | topico: geral | score: 100
+- [Palpites para Wolverhampton x Aston Villa: Análises e Onde Assistir (27/01/2026)](https://www.tecmundo.com.br/apostas/411102-palpites-para-wolverhampton-x-aston-villa-analises-e-onde-assistir-27012026.htm) | topico: produtividade-dev | score: 92
