@@ -1,196 +1,232 @@
 {
-  "generated_at": "2026-02-26T19:12:32.834Z",
+  "generated_at": "2026-02-26T21:18:07.347Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 21,
+  "total": 25,
   "posts": [
     {
-      "title": "Viagens e delivery com desconto: iFood e Uber liberam combo de assinaturas",
-      "slug": "viagens-e-delivery-com-desconto-ifood-e-uber-liberam-combo-de-assinaturas",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:53:24.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/viagens-e-delivery-com-desconto-ifood-e-uber-liberam-combo-de-assinaturas/"
-    },
-    {
-      "title": "Perigo no Gov.br: hackers usam sites oficiais para roubar senhas e dados do PC",
-      "slug": "perigo-no-govbr-hackers-usam-sites-oficiais-para-roubar-senhas-e-dados-do-pc",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/perigo-no-govbr-hackers-usam-sites-oficiais-para-roubar-senhas-e-dados-do-pc/"
-    },
-    {
-      "title": "HBO Max quer limitar compartilhamento de senhas e pode afetar América Latina",
-      "slug": "hbo-max-quer-limitar-compartilhamento-de-senhas-e-pode-afetar-america-latina",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:37:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/hbo-max-quer-limitar-compartilhamento-de-contas-e-pode-afetar-america-latina/"
-    },
-    {
-      "title": "Onde o Nano Banana 2 está disponível? Veja plataformas",
-      "slug": "onde-o-nano-banana-2-esta-disponivel-veja-plataformas",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:29:19.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/onde-o-nano-banana-2-esta-disponivel-veja-plataformas/"
-    },
-    {
-      "title": "Fabricante de câmeras Leica dará nome a celular da Xiaomi; entenda",
-      "slug": "fabricante-de-cameras-leica-dara-nome-a-celular-da-xiaomi-entenda",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:22:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/fabricante-de-cameras-leica-dara-nome-a-celular-da-xiaomi-entenda/"
-    },
-    {
-      "title": "Xiaomi lança ventilador compacto que funciona com power bank",
-      "slug": "xiaomi-lanca-ventilador-compacto-que-funciona-com-power-bank",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:10:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/casa-conectada/xiaomi-lanca-ventilador-compacto-que-funciona-com-power-bank/"
-    },
-    {
-      "title": "Snapdragon X: o coração do seu próximo PC com bateria para dias",
-      "slug": "snapdragon-x-o-coracao-do-seu-proximo-pc-com-bateria-para-dias",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:06:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/snapdragon-x-o-coracao-do-seu-proximo-pc-com-bateria-para-dias/"
-    },
-    {
-      "title": "Upgrade para o futuro: Ryzen 5 9600X com o melhor preço para sua nova build AM5",
-      "slug": "upgrade-para-o-futuro-ryzen-5-9600x-com-o-melhor-preco-para-sua-nova-build-am5",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:04:15.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/upgrade-para-o-futuro-ryzen-5-9600x-com-o-melhor-preco-para-sua-nova-build-am5/"
-    },
-    {
-      "title": "PS Plus de março traz PGA Tour 2K25, Monster Hunter Rise, Slime Rancher 2 e mais",
-      "slug": "ps-plus-de-marco-traz-pga-tour-2k25-monster-hunter-rise-slime-rancher-2-e-mais",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ps-plus-de-marco-traz-pga-tour-2k25-monster-hunter-rise-slime-rancher-2-e-mais/"
-    },
-    {
-      "title": "Mortal Kombat 2 ganha trailer com torneiro sangrento e destaca Johnny Cage",
-      "slug": "mortal-kombat-2-ganha-trailer-com-torneiro-sangrento-e-destaca-johnny-cage",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T17:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/mortal-kombat-2-ganha-trailer-com-torneiro-sangrento-e-destaca-johnny-cage/"
-    },
-    {
-      "title": "Instagram vai alertar pais quando filhos pesquisarem sobre suicídio",
-      "slug": "instagram-vai-alertar-pais-quando-filhos-pesquisarem-sobre-suicidio",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-26T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/redes-sociais/411145-instagram-vai-alertar-pais-quando-filhos-pesquisarem-sobre-suicidio.htm"
-    },
-    {
-      "title": "Snapdragon 8 Elite Gen 5 customizado está nos Galaxy S26 Ultra",
-      "slug": "snapdragon-8-elite-gen-5-customizado-esta-nos-galaxy-s26-ultra",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T18:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411144-snapdragon-8-elite-gen-5-customizado-esta-nos-galaxy-s26-ultra.htm"
-    },
-    {
-      "title": "Parte 2 de Bridgerton Temporada 4 chega na Netflix! Veja tempo para maratonar",
-      "slug": "parte-2-de-bridgerton-temporada-4-chega-na-netflix-veja-tempo-para-maratonar",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T18:15:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603213-parte-2-de-bridgerton-temporada-4-chega-na-netflix-veja-tempo-para-maratonar.htm"
-    },
-    {
-      "title": "Haddad nega que aumento de imposto de importação encarecerá celulares",
-      "slug": "haddad-nega-que-aumento-de-imposto-de-importacao-encarecera-celulares",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T18:07:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411157-haddad-nega-que-aumento-de-imposto-de-importacao-encarecera-celulares.htm"
-    },
-    {
-      "title": "Brasil foi atacado por hackativistas da Coreia do Sul, Rússia e China, afirma relatório",
-      "slug": "brasil-foi-atacado-por-hackativistas-da-coreia-do-sul-russia-e-china-afirma-relatorio",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411148-brasil-foi-atacado-por-hackativistas-da-coreia-do-sul-russia-e-china-afirma-relatorio.htm"
-    },
-    {
-      "title": "God of War Ragnarök, EA FC 26 e mais jogos de PlayStation em promoção na Amazon",
-      "slug": "god-of-war-ragnarok-ea-fc-26-e-mais-jogos-de-playstation-em-promocao-na-amazon",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T17:36:00.000Z",
+      "title": "'Crise da memória' deve fazer venda de celulares ter maior queda da história em 2026, diz consultoria",
+      "slug": "crise-da-memoria-deve-fazer-venda-de-celulares-ter-maior-queda-da-historia-em-2026-diz-consultoria",
+      "topic": "produtividade-dev",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-26T19:49:12.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503617-god-of-war-ragnarok-ea-fc-26-e-mais-jogos-de-playstation-em-promocao-na-amazon.htm"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/26/venda-de-celulares-deve-ter-maior-queda-da-historia-em-2026-diz-consultoria.ghtml"
     },
     {
-      "title": "Criminosos clonam PDF do Banco Central para instalar vírus em bancos e fintechs",
-      "slug": "criminosos-clonam-pdf-do-banco-central-para-instalar-virus-em-bancos-e-fintechs",
+      "title": "Bumble lança IA que avalia fotos e perfis de usuários",
+      "slug": "bumble-lanca-ia-que-avalia-fotos-e-perfis-de-usuarios",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T20:54:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/bumble-lanca-ia-que-avalia-fotos-e-perfis-de-usuarios/"
+    },
+    {
+      "title": "Google testa função do WhatsApp no mensageiro nativo do Android",
+      "slug": "google-testa-funcao-do-whatsapp-no-mensageiro-nativo-do-android",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T20:42:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/google-testa-funcao-do-whatsapp-no-mensageiro-nativo-do-android/"
+    },
+    {
+      "title": "Meta processa golpistas por uso de vídeos falsos de celebridades",
+      "slug": "meta-processa-golpistas-por-uso-de-videos-falsos-de-celebridades",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T20:28:35.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/meta-processa-golpistas-por-uso-de-videos-falsos-de-celebridades/"
+    },
+    {
+      "title": "Vivo prepara repetidor com Wi-Fi 7 para seus clientes",
+      "slug": "vivo-prepara-repetidor-com-wi-fi-7-para-seus-clientes",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T20:09:02.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/vivo-prepara-repetidor-com-wi-fi-7-para-seus-clientes/"
+    },
+    {
+      "title": "Google lança Nano Banana 2 e amplia acesso à geração de imagens com IA",
+      "slug": "google-lanca-nano-banana-2-e-amplia-acesso-a-geracao-de-imagens-com-ia",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T19:52:18.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/google-lanca-nano-banana-2-e-amplia-acesso-a-geracao-de-imagens-com-ia/"
+    },
+    {
+      "title": "iPhone 16 despenca 46% antes de provável lançamento do iPhone 17e",
+      "slug": "iphone-16-despenca-46percent-antes-de-provavel-lancamento-do-iphone-17e",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T17:19:19.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/iphone-16-despenca-46-antes-de-provavel-lancamento-do-iphone-17e/"
+    },
+    {
+      "title": "Novos Apple MacBook Pro terão recurso 'Ilha Dinâmica' do iPhone",
+      "slug": "novos-apple-macbook-pro-terao-recurso-ilha-dinamica-do-iphone",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T21:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/notebook/novos-apple-macbook-pro-terao-recurso-ilha-dinamica-do-iphone/"
+    },
+    {
+      "title": "Novo celular da Huawei tem recurso de câmera que faltou no Galaxy S26",
+      "slug": "novo-celular-da-huawei-tem-recurso-de-camera-que-faltou-no-galaxy-s26",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T20:43:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/novo-celular-da-huawei-tem-recurso-de-camera-que-faltou-no-galaxy-s26/"
+    },
+    {
+      "title": "Méliuz dá 20% de cashback na linha Galaxy S26; confira a promoção acumulativa",
+      "slug": "meliuz-da-20percent-de-cashback-na-linha-galaxy-s26-confira-a-promocao-acumulativa",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T20:37:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/meliuz-da-20-de-cashback-na-linha-galaxy-s26-confira-a-promocao-acumulativa/"
+    },
+    {
+      "title": "Preço sobe, mas 1440p não vem: Brasil fica sem novo recurso do Xbox Cloud",
+      "slug": "preco-sobe-mas-1440p-nao-vem-brasil-fica-sem-novo-recurso-do-xbox-cloud",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T20:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/preco-sobe-mas-1440p-nao-vem-brasil-fica-sem-novo-recurso-do-xbox-cloud/"
+    },
+    {
+      "title": "Sony renova programa Alpha Partners no Brasil com novos embaixadores",
+      "slug": "sony-renova-programa-alpha-partners-no-brasil-com-novos-embaixadores",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T20:34:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/camera/sony-renova-programa-alpha-partners-no-brasil-com-novos-embaixadores/"
+    },
+    {
+      "title": "Prêmio Canaltech chega à 9ª edição mais técnico e focado em produto",
+      "slug": "premio-canaltech-chega-a-9a-edicao-mais-tecnico-e-focado-em-produto",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-26T20:24:37.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/canaltech/premio-canaltech-chega-a-9a-edicao-mais-tecnico-e-focado-em-produto/"
+    },
+    {
+      "title": "Nova CEO do Xbox crava que futuro será focado em consoles e novo hardware",
+      "slug": "nova-ceo-do-xbox-crava-que-futuro-sera-focado-em-consoles-e-novo-hardware",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T20:10:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/nova-ceo-do-xbox-crava-que-futuro-sera-focado-em-consoles-e-novo-hardware/"
+    },
+    {
+      "title": "VW queima estoques de SUV queridinho antes da nova geração estrear",
+      "slug": "vw-queima-estoques-de-suv-queridinho-antes-da-nova-geracao-estrear",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-26T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/vw-queima-estoques-de-suv-queridinho-antes-da-nova-geracao-estrear/"
+    },
+    {
+      "title": "Diretor do Resident Evil dos cinemas abandonou material fonte \"de propósito\"",
+      "slug": "diretor-do-resident-evil-dos-cinemas-abandonou-material-fonte-de-proposito",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T19:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/diretor-do-resident-evil-dos-cinemas-abandonou-material-fonte-de-proposito/"
+    },
+    {
+      "title": "Amazon derruba preço de air fryer Britânia de 1500W; modelo inox de 5,5L",
+      "slug": "amazon-derruba-preco-de-air-fryer-britania-de-1500w-modelo-inox-de-55l",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-26T19:36:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/amazon-derruba-preco-de-air-fryer-britania-de-1500w-modelo-inox-de-55l/"
+    },
+    {
+      "title": "S26 Ultra x S25 Ultra: confira comparativo completo entre os modelos",
+      "slug": "s26-ultra-x-s25-ultra-confira-comparativo-completo-entre-os-modelos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-26T17:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411149-criminosos-clonam-pdf-do-banco-central-para-instalar-virus-em-bancos-e-fintechs.htm"
+      "date": "2026-02-26T21:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/411147-s26-ultra-x-s25-ultra-confira-comparativo-completo-entre-os-modelos.htm"
     },
     {
-      "title": "God of War: Kratos brasileiro fala sobre memes e participação da mãe em dublagem",
-      "slug": "god-of-war-kratos-brasileiro-fala-sobre-memes-e-participacao-da-mae-em-dublagem",
+      "title": "Filmes curtos na Netflix: 12 ótimas opções com uma hora e meia de duração",
+      "slug": "filmes-curtos-na-netflix-12-otimas-opcoes-com-uma-hora-e-meia-de-duracao",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-26T17:12:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503629-god-of-war-kratos-brasileiro-fala-sobre-memes-e-participacao-da-mae-em-dublagem.htm"
+      "date": "2026-02-26T20:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603198-filmes-curtos-na-netflix-12-otimas-opcoes-com-uma-hora-e-meia-de-duracao.htm"
     },
     {
-      "title": "Meta processa quem faz deepfake de Drauzio Varella e outras celebridades",
-      "slug": "meta-processa-quem-faz-deepfake-de-drauzio-varella-e-outras-celebridades",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-26T19:05:03.000Z",
+      "title": "'Para quem tem QI alto': Xiaomi zoa lançamento do Galaxy S26",
+      "slug": "para-quem-tem-qi-alto-xiaomi-zoa-lancamento-do-galaxy-s26",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-26T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/meta-deepfake-drauzio-varella.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411150-para-quem-tem-qi-alto-xiaomi-zoa-lancamento-do-galaxy-s26.htm"
     },
     {
-      "title": "A uma semana da estreia no Rio, delivery Keeta adia operação",
-      "slug": "a-uma-semana-da-estreia-no-rio-delivery-keeta-adia-operacao",
+      "title": "Sites falsos da Apple: como a 'Tropa do Arranca' roubava senhas de donos de iPhone",
+      "slug": "sites-falsos-da-apple-como-a-tropa-do-arranca-roubava-senhas-de-donos-de-iphone",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-26T18:34:09.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-26T19:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/26/a-uma-semana-da-estreia-no-rio-delivery-keeta-adia-operacao.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411163-sites-falsos-da-apple-como-a-tropa-do-arranca-roubava-senhas-de-donos-de-iphone.htm"
     },
     {
-      "title": "Homem, 42 anos e 'qualificado': o retrato do motorista de Uber no Brasil",
-      "slug": "homem-42-anos-e-qualificado-o-retrato-do-motorista-de-uber-no-brasil",
+      "title": "Resfrie seu notebook com base cooler em oferta no Magazine Luiza",
+      "slug": "resfrie-seu-notebook-com-base-cooler-em-oferta-no-magazine-luiza",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-26T19:17:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411141-resfrie-seu-notebook-com-base-cooler-em-oferta-no-magazine-luiza.htm"
+    },
+    {
+      "title": "PlayStation pode parar de lançar jogos single-player, como Wolverine, no PC",
+      "slug": "playstation-pode-parar-de-lancar-jogos-single-player-como-wolverine-no-pc",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-26T19:15:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503627-ps5-pode-parar-de-lancar-jogos-single-player-no-pc.htm"
+    },
+    {
+      "title": "Viih Tube perde R$ 6.800 ao 'vender' sofá; entenda golpe e como se prevenir",
+      "slug": "viih-tube-perde-rdollar-6800-ao-vender-sofa-entenda-golpe-e-como-se-prevenir",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-26T17:54:13.000Z",
+      "date": "2026-02-26T19:29:57.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/perfil-motorista-uber-brasil.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/golpe-viih-tube-como-se-proteger.htm"
+    },
+    {
+      "title": "Google lança Nano Banana 2 após sucesso viral da ferramenta de geração de imagens por IA",
+      "slug": "google-lanca-nano-banana-2-apos-sucesso-viral-da-ferramenta-de-geracao-de-imagens-por-ia",
+      "topic": "agentes",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-26T19:27:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/26/google-lanca-nano-banana-2-apos-sucesso-viral-da-ferramenta-de-geracao-de-imagens-por-ia.htm"
     }
   ]
 }
