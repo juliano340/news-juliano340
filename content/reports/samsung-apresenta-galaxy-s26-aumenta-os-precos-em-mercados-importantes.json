@@ -1,6 +1,6 @@
 {
-  "slug": "adware-como-identificar-remover-e-evitar-anuncios-invasivos",
-  "generated_at": "2026-02-26T13:12:38.402Z",
+  "slug": "samsung-apresenta-galaxy-s26-aumenta-os-precos-em-mercados-importantes",
+  "generated_at": "2026-02-26T13:13:01.041Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 381,
+      "words": 336,
       "min": 220
     },
     {
@@ -84,17 +84,19 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 1,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [
     "placeholder_detectado"
   ],
-  "score": 92,
+  "score": 85,
   "metadata": null
 }
