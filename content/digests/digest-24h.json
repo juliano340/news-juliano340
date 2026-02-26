@@ -1,25 +1,43 @@
 {
-  "generated_at": "2026-02-26T07:01:26.444Z",
+  "generated_at": "2026-02-26T09:03:04.826Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 4,
   "posts": [
     {
-      "title": "O que acontece com seus dados na internet quando você morre? Saiba como criar sua herança digital",
-      "slug": "o-que-acontece-com-seus-dados-na-internet-quando-voce-morre-saiba-como-criar-sua-heranca-digital",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-26T06:01:18.000Z",
-      "editorial_score": 92,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/26/o-que-acontece-com-seus-dados-na-internet-quando-voce-morre-saiba-como-criar-sua-heranca-digital.ghtml"
+      "title": "Como smartwatches estão transformando o exercício físico",
+      "slug": "como-smartwatches-estao-transformando-o-exercicio-fisico",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-26T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/como-smartwatches-estao-transformando-o-exercicio-fisico-6373/"
     },
     {
-      "title": "Samsung promete Instagram com desempenho similar ao do iPhone",
-      "slug": "samsung-promete-instagram-com-desempenho-similar-ao-do-iphone",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-26T05:25:32.000Z",
+      "title": "Palpites para Cruzeiro x Pouso Alegre: Análises e Onde Assistir (28/01/2026)",
+      "slug": "palpites-para-cruzeiro-x-pouso-alegre-analises-e-onde-assistir-28012026",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-26T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/samsung-promete-instagram-com-desempenho-similar-ao-do-iphone/"
+      "original_url": "https://www.tecmundo.com.br/apostas/411111-palpites-para-cruzeiro-x-pouso-alegre-analises-e-onde-assistir-28012026.htm"
+    },
+    {
+      "title": "Prometeu e não entregou: por que tecnologia não fez você trabalhar menos",
+      "slug": "prometeu-e-nao-entregou-por-que-tecnologia-nao-fez-voce-trabalhar-menos",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-26T08:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/prometeu-e-nao-entregou-por-que-tecnologia-nao-fez-voce-trabalhar-menos.htm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (26)? Veja calendário lunar de fevereiro de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-26-veja-calendario-lunar-de-fevereiro-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-26T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/26/qual-e-a-fase-da-lua-hoje-26-veja-calendario-lunar-de-fevereiro-de-2026.htm"
     }
   ]
 }
