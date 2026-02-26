@@ -1,0 +1,19 @@
+{
+  "slug": "review-realme-gt-8-pro-falta-tempero-mas-e-um-bom-flagship",
+  "generated_at": "2026-02-26T17:14:20.080Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
