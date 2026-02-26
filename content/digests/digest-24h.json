@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-02-26T01:00:44.061Z",
+  "generated_at": "2026-02-26T07:01:26.444Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 2,
   "posts": [
     {
-      "title": "Cibercriminosos usam 'camuflagem' para exibir anúncios maliciosos no Google",
-      "slug": "cibercriminosos-usam-camuflagem-para-exibir-anuncios-maliciosos-no-google",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T00:00:00.000Z",
+      "title": "O que acontece com seus dados na internet quando você morre? Saiba como criar sua herança digital",
+      "slug": "o-que-acontece-com-seus-dados-na-internet-quando-voce-morre-saiba-como-criar-sua-heranca-digital",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-26T06:01:18.000Z",
+      "editorial_score": 92,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/26/o-que-acontece-com-seus-dados-na-internet-quando-voce-morre-saiba-como-criar-sua-heranca-digital.ghtml"
+    },
+    {
+      "title": "Samsung promete Instagram com desempenho similar ao do iPhone",
+      "slug": "samsung-promete-instagram-com-desempenho-similar-ao-do-iphone",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-26T05:25:32.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411128-cibercriminosos-usam-camuflagem-para-exibir-anuncios-maliciosos-no-google.htm"
+      "original_url": "https://tecnoblog.net/noticias/samsung-promete-instagram-com-desempenho-similar-ao-do-iphone/"
     }
   ]
 }

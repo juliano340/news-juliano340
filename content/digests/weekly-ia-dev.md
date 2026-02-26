@@ -1,5 +1,6 @@
 # Weekly IA para Devs - 2026-02-26
 
-Gerado em 2026-02-26T01:00:44.061Z
+Gerado em 2026-02-26T07:01:26.444Z
 
-- [Cibercriminosos usam 'camuflagem' para exibir anúncios maliciosos no Google](https://www.tecmundo.com.br/seguranca/411128-cibercriminosos-usam-camuflagem-para-exibir-anuncios-maliciosos-no-google.htm) | topico: geral | score: 100
+- [O que acontece com seus dados na internet quando você morre? Saiba como criar sua herança digital](https://g1.globo.com/tecnologia/noticia/2026/02/26/o-que-acontece-com-seus-dados-na-internet-quando-voce-morre-saiba-como-criar-sua-heranca-digital.ghtml) | topico: llms | score: 92
+- [Samsung promete Instagram com desempenho similar ao do iPhone](https://tecnoblog.net/noticias/samsung-promete-instagram-com-desempenho-similar-ao-do-iphone/) | topico: produtividade-dev | score: 100
