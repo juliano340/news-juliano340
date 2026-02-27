@@ -1,0 +1,19 @@
+{
+  "slug": "google-tradutor-fica-mais-inteligente-e-vai-analisar-contexto-das-conversas",
+  "generated_at": "2026-02-27T13:01:23.574Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

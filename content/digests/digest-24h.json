@@ -1,61 +1,115 @@
 {
-  "generated_at": "2026-02-27T11:03:36.612Z",
+  "generated_at": "2026-02-27T13:10:28.671Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 12,
   "posts": [
     {
-      "title": "Processador Exynos do Galaxy S26 surpreende e iguala Snapdragon em testes",
-      "slug": "processador-exynos-do-galaxy-s26-surpreende-e-iguala-snapdragon-em-testes",
+      "title": "Meta anuncia processos contra deepfakes no Brasil e na China",
+      "slug": "meta-anuncia-processos-contra-deepfakes-no-brasil-e-na-china",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T10:26:37.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-27T12:16:23.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/processador-exynos-do-galaxy-s26-surpreende-e-iguala-snapdragon-em-testes/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/27/meta-anuncia-processos-contra-deepfakes-no-brasil-e-na-china.ghtml"
     },
     {
-      "title": "Apple prepara \"grande semana\", diz Tim Cook; veja o que deve ser lançado",
-      "slug": "apple-prepara-grande-semana-diz-tim-cook-veja-o-que-deve-ser-lancado",
-      "topic": "geral",
+      "title": "Bumble vai usar IA para sugerir melhorias no seu perfil",
+      "slug": "bumble-vai-usar-ia-para-sugerir-melhorias-no-seu-perfil",
+      "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-27T10:00:25.000Z",
+      "date": "2026-02-27T12:48:54.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/bumble-vai-usar-ia-para-sugerir-melhorias-no-seu-perfil/"
+    },
+    {
+      "title": "Estudos mostram que consumo oficial de carro híbrido plug-in é \"falso\"",
+      "slug": "estudos-mostram-que-consumo-oficial-de-carro-hibrido-plug-in-e-falso",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-27T12:05:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/produtos/apple-prepara-grande-semana-diz-tim-cook-veja-o-que-deve-ser-lancado/"
+      "original_url": "https://canaltech.com.br/carros/estudos-mostram-que-consumo-oficial-de-carro-hibrido-plug-in-e-falso/"
     },
     {
-      "title": "Brasil tem melhor rede móvel da América Latina, aponta relatório",
-      "slug": "brasil-tem-melhor-rede-movel-da-america-latina-aponta-relatorio",
+      "title": "Hackers só precisam de 29 minutos para assumir controle total da sua rede",
+      "slug": "hackers-so-precisam-de-29-minutos-para-assumir-controle-total-da-sua-rede",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T11:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-27T12:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411164-brasil-tem-melhor-rede-movel-da-america-latina-aponta-relatorio.htm"
+      "original_url": "https://canaltech.com.br/seguranca/hackers-so-precisam-de-29-minutos-para-assumir-controle-total-da-sua-rede/"
     },
     {
-      "title": "Palpites para Newcastle x Everton: Análises e Onde Assistir (28/02/2026)",
-      "slug": "palpites-para-newcastle-x-everton-analises-e-onde-assistir-28022026",
+      "title": "Vazam novos celulares da Motorola inspirados na Copa do Mundo",
+      "slug": "vazam-novos-celulares-da-motorola-inspirados-na-copa-do-mundo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T11:55:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/vazam-novos-celulares-da-motorola-inspirados-na-copa-do-mundo/"
+    },
+    {
+      "title": "Celular com bateria gigante aparece com ótimo preço; Jovi Y19s e Y29 em oferta",
+      "slug": "celular-com-bateria-gigante-aparece-com-otimo-preco-jovi-y19s-e-y29-em-oferta",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T11:47:05.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celular-com-bateria-gigante-aparece-com-otimo-preco-jovi-y19s-e-y29-em-oferta/"
+    },
+    {
+      "title": "Terapia em risco: apps de saúde mental no Android vazam seus dados médicos",
+      "slug": "terapia-em-risco-apps-de-saude-mental-no-android-vazam-seus-dados-medicos",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T11:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/terapia-em-risco-apps-de-saude-mental-no-android-vazam-seus-dados-medicos/"
+    },
+    {
+      "title": "Tecno lança conceito de celular modular e ultrafino estilo Moto Z",
+      "slug": "tecno-lanca-conceito-de-celular-modular-e-ultrafino-estilo-moto-z",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-27T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411152-palpites-para-newcastle-x-everton-analises-e-onde-assistir-28022026.htm"
+      "date": "2026-02-27T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411172-tecno-lanca-conceito-de-celular-modular-e-ultrafino-estilo-moto-z.htm"
     },
     {
-      "title": "Lançamentos de games de março: Confira os principais jogos do mês",
-      "slug": "lancamentos-de-games-de-marco-confira-os-principais-jogos-do-mes",
+      "title": "Pokémon Week do Mercado Livre tem jogos, colecionáveis e mais com até 40% OFF e cupom",
+      "slug": "pokemon-week-do-mercado-livre-tem-jogos-colecionaveis-e-mais-com-ate-40percent-off-e-cupom",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T10:15:00.000Z",
+      "date": "2026-02-27T12:26:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503623-lancamentos-de-games-de-marco-confira-os-principais-jogos-do-mes.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503632-pokemon-week-do-mercado-livre-tem-jogos-colecionaveis-e-mais-com-ate-40-off-e-cupom.htm"
     },
     {
-      "title": "Palpites para Leeds United x Manchester City: Análises e Onde Assistir (28/02/2026)",
-      "slug": "palpites-para-leeds-united-x-manchester-city-analises-e-onde-assistir-28022026",
-      "topic": "seguranca-ia",
+      "title": "Resident Evil Requiem é lançado e bate recorde de jogadores! Veja preço e detalhes",
+      "slug": "resident-evil-requiem-e-lancado-e-bate-recorde-de-jogadores-veja-preco-e-detalhes",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411151-palpites-para-leeds-united-x-manchester-city-analises-e-onde-assistir-28022026.htm"
+      "date": "2026-02-27T12:18:56.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503635-resident-evil-requiem-e-lancado-e-bate-recorde-de-jogadores-veja-preco-e-detalhes.htm"
+    },
+    {
+      "title": "WhatsApp restringe privacidade de menores no Brasil; entenda o que muda",
+      "slug": "whatsapp-restringe-privacidade-de-menores-no-brasil-entenda-o-que-muda",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411161-whatsapp-restringe-privacidade-de-menores-no-brasil-entenda-o-que-muda.htm"
+    },
+    {
+      "title": "Anthropic diz que não dará uso incondicional de sua IA ao Exército americano",
+      "slug": "anthropic-diz-que-nao-dara-uso-incondicional-de-sua-ia-ao-exercito-americano",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-27T12:09:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/27/anthropic-diz-que-nao-dara-uso-incondicional-de-sua-ia-ao-exercito-americano.htm"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "slug": "homem-fica-milionario-apos-bot-doar-rdollar-12-milhao-em-criptomoedas",
+  "generated_at": "2026-02-27T13:09:26.318Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
