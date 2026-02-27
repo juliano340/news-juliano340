@@ -1,115 +1,205 @@
 {
-  "generated_at": "2026-02-27T13:10:28.671Z",
+  "generated_at": "2026-02-27T15:14:24.633Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 12,
+  "total": 22,
   "posts": [
     {
-      "title": "Meta anuncia processos contra deepfakes no Brasil e na China",
-      "slug": "meta-anuncia-processos-contra-deepfakes-no-brasil-e-na-china",
+      "title": "Garota recria foto que viralizou e virou meme nas redes sociais 10 anos depois",
+      "slug": "garota-recria-foto-que-viralizou-e-virou-meme-nas-redes-sociais-10-anos-depois",
       "topic": "geral",
       "source": "G1 Tecnologia",
-      "date": "2026-02-27T12:16:23.000Z",
+      "date": "2026-02-27T14:47:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/27/meta-anuncia-processos-contra-deepfakes-no-brasil-e-na-china.ghtml"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/27/garota-recria-foto-que-viralizou-e-virou-meme-nas-redes-sociais-10-anos-depois.ghtml"
     },
     {
-      "title": "Bumble vai usar IA para sugerir melhorias no seu perfil",
-      "slug": "bumble-vai-usar-ia-para-sugerir-melhorias-no-seu-perfil",
+      "title": "Brasil é o segundo maior mercado do Apple TV",
+      "slug": "brasil-e-o-segundo-maior-mercado-do-apple-tv",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T14:24:14.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/brasil-e-o-segundo-maior-mercado-do-apple-tv/"
+    },
+    {
+      "title": "Como saber se o celular está com vírus? Veja 7 sinais de infecção por malware",
+      "slug": "como-saber-se-o-celular-esta-com-virus-veja-7-sinais-de-infeccao-por-malware",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T13:13:49.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/como-saber-se-o-celular-esta-com-virus-veja-7-sinais-de-infeccao-por-malware/"
+    },
+    {
+      "title": "Retrato do caos: memória RAM corresponde a 1/3 do valor de um PC novo, admite HP",
+      "slug": "retrato-do-caos-memoria-ram-corresponde-a-13-do-valor-de-um-pc-novo-admite-hp",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/retrato-do-caos-memoria-ram-corresponde-a-13-do-valor-de-um-pc-novo-admite-hp/"
+    },
+    {
+      "title": "Pokémon Ventos e Ondas: jogos da 10ª Geração recebem localização em português",
+      "slug": "pokemon-ventos-e-ondas-jogos-da-10a-geracao-recebem-localizacao-em-portugues",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:51:18.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/pokemon-ventos-e-ondas-jogos-da-10a-geracao-recebem-localizacao-em-portugues/"
+    },
+    {
+      "title": "Samsung revela por que linha Galaxy S26 não tem \"MagSafe\"",
+      "slug": "samsung-revela-por-que-linha-galaxy-s26-nao-tem-magsafe",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/samsung-revela-por-que-linha-galaxy-s26-nao-tem-magsafe/"
+    },
+    {
+      "title": "Hackers usam plataforma ilegal para exibir anúncios maliciosos no Google",
+      "slug": "hackers-usam-plataforma-ilegal-para-exibir-anuncios-maliciosos-no-google",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/hackers-usam-plataforma-ilegal-para-exibir-anuncios-maliciosos-no-google/"
+    },
+    {
+      "title": "Celular da Samsung vai pegar sinal até no meio do oceano graças à Starlink",
+      "slug": "celular-da-samsung-vai-pegar-sinal-ate-no-meio-do-oceano-gracas-a-starlink",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:12:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celular-da-samsung-vai-pegar-sinal-ate-no-meio-do-oceano-gracas-a-starink/"
+    },
+    {
+      "title": "Google Maps enfim vai funcionar na Coreia do Sul; entenda",
+      "slug": "google-maps-enfim-vai-funcionar-na-coreia-do-sul-entenda",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:06:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/google-maps-enfim-vai-funcionar-na-coreia-do-sul-entenda/"
+    },
+    {
+      "title": "Imperdível: Bundle Nintendo Switch 2 pelo menor preço já visto no Mercado Livre",
+      "slug": "imperdivel-bundle-nintendo-switch-2-pelo-menor-preco-ja-visto-no-mercado-livre",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:01:30.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/imperdivel-bundle-nintendo-switch-2-pelo-menor-preco-ja-visto-no-mercado-livre/"
+    },
+    {
+      "title": "Brasileiro quer viajar 74 mil km pelo mundo em avião experimental",
+      "slug": "brasileiro-quer-viajar-74-mil-km-pelo-mundo-em-aviao-experimental",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-27T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/brasileiro-quer-viajar-74-mil-km-pelo-mundo-em-aviao-experimental/"
+    },
+    {
+      "title": "Galaxy A57 e A37 ganham detalhes de bateria em nova certificação",
+      "slug": "galaxy-a57-e-a37-ganham-detalhes-de-bateria-em-nova-certificacao",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T13:42:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-a57-e-a37-ganham-detalhes-de-bateria-em-nova-certificacao/"
+    },
+    {
+      "title": "Reviravolta: Netflix não aumenta oferta e Paramount pode adquirir a Warner Bros",
+      "slug": "reviravolta-netflix-nao-aumenta-oferta-e-paramount-pode-adquirir-a-warner-bros",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T13:30:28.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/mercado/reviravolta-netflix-nao-aumenta-oferta-e-paramount-pode-adquirir-a-warner-bros/"
+    },
+    {
+      "title": "Venda global de PCs e celulares vai cair até 13% em 2026, revela estudo",
+      "slug": "venda-global-de-pcs-e-celulares-vai-cair-ate-13percent-em-2026-revela-estudo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411176-venda-global-de-pcs-e-celulares-vai-cair-ate-13-em-2026-revela-estudo.htm"
+    },
+    {
+      "title": "Resident Evil Requiem: Veja a senha de todos os cofres do jogo",
+      "slug": "resident-evil-requiem-veja-a-senha-de-todos-os-cofres-do-jogo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T14:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503620-resident-evil-requiem-veja-a-senha-de-todos-os-cofres-do-jogo.htm"
+    },
+    {
+      "title": "Nvidia confirma escassez de GPU para os próximos meses",
+      "slug": "nvidia-confirma-escassez-de-gpu-para-os-proximos-meses",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T14:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/411174-nvidia-confirma-escassez-de-gpu-para-os-proximos-meses.htm"
+    },
+    {
+      "title": "Kindle em oferta: últimos dias para comprar os melhores modelos com desconto",
+      "slug": "kindle-em-oferta-ultimos-dias-para-comprar-os-melhores-modelos-com-desconto",
       "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-02-27T12:48:54.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/bumble-vai-usar-ia-para-sugerir-melhorias-no-seu-perfil/"
-    },
-    {
-      "title": "Estudos mostram que consumo oficial de carro híbrido plug-in é \"falso\"",
-      "slug": "estudos-mostram-que-consumo-oficial-de-carro-hibrido-plug-in-e-falso",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-02-27T12:05:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/estudos-mostram-que-consumo-oficial-de-carro-hibrido-plug-in-e-falso/"
-    },
-    {
-      "title": "Hackers só precisam de 29 minutos para assumir controle total da sua rede",
-      "slug": "hackers-so-precisam-de-29-minutos-para-assumir-controle-total-da-sua-rede",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/hackers-so-precisam-de-29-minutos-para-assumir-controle-total-da-sua-rede/"
-    },
-    {
-      "title": "Vazam novos celulares da Motorola inspirados na Copa do Mundo",
-      "slug": "vazam-novos-celulares-da-motorola-inspirados-na-copa-do-mundo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T11:55:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/vazam-novos-celulares-da-motorola-inspirados-na-copa-do-mundo/"
-    },
-    {
-      "title": "Celular com bateria gigante aparece com ótimo preço; Jovi Y19s e Y29 em oferta",
-      "slug": "celular-com-bateria-gigante-aparece-com-otimo-preco-jovi-y19s-e-y29-em-oferta",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T11:47:05.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/celular-com-bateria-gigante-aparece-com-otimo-preco-jovi-y19s-e-y29-em-oferta/"
-    },
-    {
-      "title": "Terapia em risco: apps de saúde mental no Android vazam seus dados médicos",
-      "slug": "terapia-em-risco-apps-de-saude-mental-no-android-vazam-seus-dados-medicos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T11:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/terapia-em-risco-apps-de-saude-mental-no-android-vazam-seus-dados-medicos/"
-    },
-    {
-      "title": "Tecno lança conceito de celular modular e ultrafino estilo Moto Z",
-      "slug": "tecno-lanca-conceito-de-celular-modular-e-ultrafino-estilo-moto-z",
-      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-27T13:00:00.000Z",
+      "date": "2026-02-27T13:50:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411172-tecno-lanca-conceito-de-celular-modular-e-ultrafino-estilo-moto-z.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411177-kindle-em-oferta-ultimos-dias-para-comprar-os-melhores-modelos-com-desconto.htm"
     },
     {
-      "title": "Pokémon Week do Mercado Livre tem jogos, colecionáveis e mais com até 40% OFF e cupom",
-      "slug": "pokemon-week-do-mercado-livre-tem-jogos-colecionaveis-e-mais-com-ate-40percent-off-e-cupom",
+      "title": "Nintendo Switch 2 em promoção e com cupom no Mercado Livre; confira",
+      "slug": "nintendo-switch-2-em-promocao-e-com-cupom-no-mercado-livre-confira",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T12:26:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503632-pokemon-week-do-mercado-livre-tem-jogos-colecionaveis-e-mais-com-ate-40-off-e-cupom.htm"
+      "date": "2026-02-27T13:16:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503637-nintendo-switch-2-em-promocao-e-com-cupom-no-mercado-livre-confira.htm"
     },
     {
-      "title": "Resident Evil Requiem é lançado e bate recorde de jogadores! Veja preço e detalhes",
-      "slug": "resident-evil-requiem-e-lancado-e-bate-recorde-de-jogadores-veja-preco-e-detalhes",
+      "title": "O que aconteceu com Sam Jones III, de Smallville? Veja como ele está hoje em dia",
+      "slug": "o-que-aconteceu-com-sam-jones-iii-de-smallville-veja-como-ele-esta-hoje-em-dia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T12:18:56.000Z",
+      "date": "2026-02-27T13:15:20.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503635-resident-evil-requiem-e-lancado-e-bate-recorde-de-jogadores-veja-preco-e-detalhes.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603214-o-que-aconteceu-com-sam-jones-iii-de-smallville-veja-como-ele-esta-hoje-em-dia.htm"
     },
     {
-      "title": "WhatsApp restringe privacidade de menores no Brasil; entenda o que muda",
-      "slug": "whatsapp-restringe-privacidade-de-menores-no-brasil-entenda-o-que-muda",
+      "title": "'Sua vaca': IA é alvo de machismo, e startup barra 4,8 mil pessoas",
+      "slug": "sua-vaca-ia-e-alvo-de-machismo-e-startup-barra-48-mil-pessoas",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411161-whatsapp-restringe-privacidade-de-menores-no-brasil-entenda-o-que-muda.htm"
-    },
-    {
-      "title": "Anthropic diz que não dará uso incondicional de sua IA ao Exército americano",
-      "slug": "anthropic-diz-que-nao-dara-uso-incondicional-de-sua-ia-ao-exercito-americano",
-      "topic": "llms",
       "source": "UOL Tecnologia",
-      "date": "2026-02-27T12:09:55.000Z",
+      "date": "2026-02-27T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/27/anthropic-diz-que-nao-dara-uso-incondicional-de-sua-ia-ao-exercito-americano.htm"
+      "original_url": "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/02/27/sua-vaca-ia-e-alvo-de-machismo-e-startup-barra-48-mil-pessoas.htm"
+    },
+    {
+      "title": "Robôs dançarinos oferecem apoio e companhia a idosos de Barcelona",
+      "slug": "robos-dancarinos-oferecem-apoio-e-companhia-a-idosos-de-barcelona",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-27T14:22:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/27/robos-dancarinos-oferecem-apoio-e-companhia-a-idosos-de-barcelona.htm"
+    },
+    {
+      "title": "Keeta adia entrada no Rio e culpa restrições de concorrentes",
+      "slug": "keeta-adia-entrada-no-rio-e-culpa-restricoes-de-concorrentes",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-27T13:39:59.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/02/27/keeta-adia-entrada-no-rio-e-culpa-restricoes-de-concorrentes.htm"
     }
   ]
 }

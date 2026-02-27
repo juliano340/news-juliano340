@@ -1,7 +1,7 @@
 {
-  "slug": "homem-fica-milionario-apos-bot-doar-rdollar-12-milhao-em-criptomoedas",
-  "generated_at": "2026-02-27T15:12:53.209Z",
-  "status": "BLOCK",
+  "slug": "reviravolta-netflix-nao-aumenta-oferta-e-paramount-pode-adquirir-a-warner-bros",
+  "generated_at": "2026-02-27T15:08:37.783Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 284,
+      "words": 246,
       "min": 220
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "placeholder_terms",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "BLOCK",
       "reason": "placeholder_detectado"
     },
@@ -84,17 +84,94 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 2,
       "min": 3
     }
   ],
-  "warnings": [],
-  "errors": [
-    "placeholder_detectado"
+  "warnings": [
+    "poucos_links_internos"
   ],
+  "errors": [],
   "score": 92,
-  "metadata": null
+  "metadata": {
+    "status": "PASS",
+    "checks": [
+      {
+        "id": "required_title",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_date",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_original_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_primary_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_content",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_meta_description",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_canonical_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "slug_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "original_url_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "canonical_matches_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "meta_description_length",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "schema_min_fields",
+        "status": "PASS",
+        "level": "BLOCK"
+      }
+    ],
+    "warnings": [],
+    "errors": [],
+    "score": 100
+  }
 }
