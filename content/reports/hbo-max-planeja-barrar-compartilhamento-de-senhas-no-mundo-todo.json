@@ -1,6 +1,6 @@
 {
   "slug": "hbo-max-planeja-barrar-compartilhamento-de-senhas-no-mundo-todo",
-  "generated_at": "2026-02-27T17:01:54.360Z",
+  "generated_at": "2026-02-27T19:01:58.622Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 388,
+      "words": 384,
       "min": 220
     },
     {

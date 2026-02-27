@@ -1,6 +1,6 @@
 {
-  "slug": "como-proteger-sua-tv-box-ou-smart-tv-de-ataques-hacker",
-  "generated_at": "2026-02-27T19:06:28.061Z",
+  "slug": "rumo-ao-bi-chatgpt-chega-a-900-milhoes-de-usuarios-ativos-por-semana",
+  "generated_at": "2026-02-27T19:07:32.106Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 406,
+      "words": 305,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "como-proteger-sua-tv-box-ou-smart-tv-de-ataques-hacker",
-  "generated_at": "2026-02-27T19:06:28.061Z",
+  "slug": "nasa-missao-tripulada-para-lua-ficara-para-2028-apos-multiplos-atrasos",
+  "generated_at": "2026-02-27T19:12:53.622Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 406,
+      "words": 351,
       "min": 220
     },
     {

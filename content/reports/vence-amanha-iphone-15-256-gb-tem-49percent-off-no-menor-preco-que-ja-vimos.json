@@ -1,7 +1,7 @@
 {
-  "slug": "como-proteger-sua-tv-box-ou-smart-tv-de-ataques-hacker",
-  "generated_at": "2026-02-27T19:06:28.061Z",
-  "status": "PASS",
+  "slug": "vence-amanha-iphone-15-256-gb-tem-49percent-off-no-menor-preco-que-ja-vimos",
+  "generated_at": "2026-02-27T19:00:52.787Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 406,
+      "words": 300,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [
