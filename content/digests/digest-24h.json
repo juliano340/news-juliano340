@@ -1,34 +1,43 @@
 {
-  "generated_at": "2026-02-27T01:01:38.268Z",
+  "generated_at": "2026-02-27T03:02:12.404Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 4,
   "posts": [
     {
-      "title": "Google lança Nano Banana 2 com novos recursos e mais velocidade",
-      "slug": "google-lanca-nano-banana-2-com-novos-recursos-e-mais-velocidade",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-27T00:11:15.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411168-google-lanca-nano-banana-2-com-novos-recursos-e-mais-velocidade.htm"
-    },
-    {
-      "title": "Netflix desiste e Paramount vai comprar Warner por US$ 111 bilhões",
-      "slug": "netflix-desiste-e-paramount-vai-comprar-warner-por-usdollar-111-bilhoes",
+      "title": "Netflix recua e Paramount deve ficar com a Warner Bros",
+      "slug": "netflix-recua-e-paramount-deve-ficar-com-a-warner-bros",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T23:47:34.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T02:12:13.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603222-netflix-desiste-e-paramount-vai-comprar-warner-por-us-111-bilhoes.htm"
+      "original_url": "https://tecnoblog.net/noticias/netflix-recua-e-paramount-deve-ficar-com-a-warner-bros/"
     },
     {
-      "title": "WhatsApp finalmente vai permitir agendar o envio de mensagens",
-      "slug": "whatsapp-finalmente-vai-permitir-agendar-o-envio-de-mensagens",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-26T23:30:00.000Z",
+      "title": "LG lidera TVs premium; TCL vence no custo-benefício no Prêmio Canaltech",
+      "slug": "lg-lidera-tvs-premium-tcl-vence-no-custo-beneficio-no-premio-canaltech",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T02:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411160-whatsapp-finalmente-vai-permitir-agendar-o-envio-de-mensagens.htm"
+      "original_url": "https://canaltech.com.br/tv/lg-lidera-tvs-premium-tcl-vence-no-custo-beneficio-no-premio-canaltech/"
+    },
+    {
+      "title": "Samsung domina custo-benefício com celular, tablet e fone no Prêmio Canaltech",
+      "slug": "samsung-domina-custo-beneficio-com-celular-tablet-e-fone-no-premio-canaltech",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T02:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/samsung-domina-custo-beneficio-com-celular-tablet-e-fone-no-premio-canaltech/"
+    },
+    {
+      "title": "9º Prêmio Canaltech: veja todos os vencedores de 2026",
+      "slug": "9o-premio-canaltech-veja-todos-os-vencedores-de-2026",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T01:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/canaltech/9o-premio-canaltech-veja-todos-os-vencedores-de-2026/"
     }
   ]
 }

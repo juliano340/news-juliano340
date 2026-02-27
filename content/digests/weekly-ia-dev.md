@@ -1,7 +1,8 @@
 # Weekly IA para Devs - 2026-02-27
 
-Gerado em 2026-02-27T01:01:38.268Z
+Gerado em 2026-02-27T03:02:12.404Z
 
-- [Google lança Nano Banana 2 com novos recursos e mais velocidade](https://www.tecmundo.com.br/software/411168-google-lanca-nano-banana-2-com-novos-recursos-e-mais-velocidade.htm) | topico: llms | score: 100
-- [Netflix desiste e Paramount vai comprar Warner por US$ 111 bilhões](https://www.tecmundo.com.br/minha-serie/603222-netflix-desiste-e-paramount-vai-comprar-warner-por-us-111-bilhoes.htm) | topico: geral | score: 100
-- [WhatsApp finalmente vai permitir agendar o envio de mensagens](https://www.tecmundo.com.br/software/411160-whatsapp-finalmente-vai-permitir-agendar-o-envio-de-mensagens.htm) | topico: produtividade-dev | score: 100
+- [Netflix recua e Paramount deve ficar com a Warner Bros](https://tecnoblog.net/noticias/netflix-recua-e-paramount-deve-ficar-com-a-warner-bros/) | topico: geral | score: 100
+- [LG lidera TVs premium; TCL vence no custo-benefício no Prêmio Canaltech](https://canaltech.com.br/tv/lg-lidera-tvs-premium-tcl-vence-no-custo-beneficio-no-premio-canaltech/) | topico: geral | score: 100
+- [Samsung domina custo-benefício com celular, tablet e fone no Prêmio Canaltech](https://canaltech.com.br/produtos/samsung-domina-custo-beneficio-com-celular-tablet-e-fone-no-premio-canaltech/) | topico: geral | score: 100
+- [9º Prêmio Canaltech: veja todos os vencedores de 2026](https://canaltech.com.br/canaltech/9o-premio-canaltech-veja-todos-os-vencedores-de-2026/) | topico: geral | score: 100
