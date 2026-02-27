@@ -1,26 +1,28 @@
 # Weekly IA para Devs - 2026-02-27
 
-Gerado em 2026-02-27T19:13:47.474Z
+Gerado em 2026-02-27T21:14:52.114Z
 
-- [Vence amanhã: iPhone 15 (256 GB) tem 49% OFF no menor preço que já vimos](https://tecnoblog.net/achados/vence-amanha-iphone-15-256-gb-tem-49-off-no-menor-preco-que-ja-vimos/) | topico: geral | score: 92
-- [iPad Air M3 (256 GB) tem menor preço antes da possível chegada de novo iPad Air](https://tecnoblog.net/achados/ipad-air-m3-256-gb-tem-menor-preco-antes-da-possivel-chegada-de-novo-ipad-air/) | topico: geral | score: 92
-- [Gaming burnout: Como identificar o cansaço mental causado pelo excesso de jogos](https://canaltech.com.br/games/gaming-burnout-como-identificar-o-cansaco-mental-causado-pelo-excesso-de-jogos/) | topico: geral | score: 100
-- [Mercado Livre faz queima de celular com bateria para 2 dias, preço baixo e fone](https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-celular-com-bateria-para-2-dias-preco-baixo-e-fone/) | topico: geral | score: 100
-- [Ironia pura: Meta processa golpistas após faturar com anúncios falsos](https://canaltech.com.br/seguranca/ironia-pura-meta-processa-golpistas-apos-faturar-com-anuncios-falsos/) | topico: geral | score: 100
-- [OpenAI lança curso gratuito de ChatGPT para professores](https://canaltech.com.br/mercado/openai-lanca-curso-gratuito-de-chatgpt-para-professores/) | topico: geral | score: 100
-- [Prêmio Canaltech: Volvo mira 3º título e BYD aposta na Denza para novo troféu](https://canaltech.com.br/carros/premio-canaltech-volvo-mira-3o-titulo-e-byd-aposta-na-denza-para-novo-trofeu/) | topico: llms | score: 100
-- [Produtores explicam demora para lançamento de Homem-Aranha: Além do Aranhaverso](https://canaltech.com.br/entretenimento/produtores-explicam-demora-para-lancamento-de-homem-aranha-alem-do-aranhaverso/) | topico: geral | score: 100
-- [Como proteger sua TV Box ou Smart TV de ataques hacker](https://canaltech.com.br/seguranca/como-proteger-sua-tv-box-ou-smart-tv-de-ataques-hacker/) | topico: geral | score: 100
-- [iPhone recebe certificação de proteção de dados confidenciais pela OTAN](https://www.tecmundo.com.br/seguranca/411179-iphone-recebe-certificacao-de-protecao-de-dados-confidenciais-pela-otan.htm) | topico: geral | score: 100
-- [Rumo ao bi: ChatGPT chega a 900 milhões de usuários ativos por semana](https://www.tecmundo.com.br/mercado/411198-rumo-ao-bi-chatgpt-chega-a-900-milhoes-de-usuarios-ativos-por-semana.htm) | topico: geral | score: 100
-- [Nintendo anuncia Pokémon Ventos e Ondas com legendas em PT-BR, trailer e novos iniciais](https://www.tecmundo.com.br/voxel/503645-nintendo-anuncia-pokemon-ventos-e-ondas-com-legendas-em-pt-br-trailer-e-novos-iniciais.htm) | topico: geral | score: 92
-- [OpenAI endurece regras para denunciar crimes após atentado no Canadá](https://www.tecmundo.com.br/software/411182-openai-endurece-regras-para-denunciar-crimes-apos-atentado-no-canada.htm) | topico: llms | score: 100
-- [7 opções de aspiradores de pó vertical por menos de R$140 no Magazine Luiza; confira](https://www.tecmundo.com.br/guia-de-compras/411173-7-opcoes-de-aspiradores-de-po-vertical-por-menos-de-r140-no-magazine-luiza-confira.htm) | topico: produtividade-dev | score: 92
-- [Cupom KaBuM | 70% off - Março 2026](https://www.tecmundo.com.br/produto/402694-cupom-kabum.htm) | topico: geral | score: 92
-- [Cupom Casas Bahia | 80% off - Março 2026](https://www.tecmundo.com.br/produto/402697-cupom-casas-bahia.htm) | topico: produtividade-dev | score: 100
-- [Cupom Dell | 36% off - Março 2026](https://www.tecmundo.com.br/produto/402698-cupom-dell.htm) | topico: produtividade-dev | score: 100
-- [Cupom Amazon | 84% off - Março 2026](https://www.tecmundo.com.br/produto/402699-cupom-amazon.htm) | topico: produtividade-dev | score: 92
-- [Código Promocional Azul | 20% off - Março 2026](https://www.tecmundo.com.br/produto/402721-código-promocional-azul.htm) | topico: produtividade-dev | score: 92
-- [Nasa: Missão tripulada para Lua ficará para 2028 após múltiplos atrasos](https://www.uol.com.br/tilt/noticias/afp/2026/02/27/nasa-missao-tripulada-para-lua-ficara-para-2028-apos-multiplos-atrasos.htm) | topico: geral | score: 100
-- [Após sucesso viral, Google lança nova versão de gerador de imagens com IA](https://www.uol.com.br/tilt/noticias/reuters/2026/02/27/apos-sucesso-viral-google-lanca-nova-versao-de-gerador-de-imagens-com-ia.htm) | topico: geral | score: 100
-- [Autoridades alemãs terão mais poderes contra hackers estrangeiros, mostra projeto de lei](https://www.uol.com.br/tilt/noticias/reuters/2026/02/27/autoridades-alemas-terao-mais-poderes-contra-hackers-estrangeiros-mostra-projeto-de-lei.htm) | topico: geral | score: 100
+- [Samsung Galaxy Book 4 tem 32% OFF na melhor oferta desde dezembro no Magalu](https://tecnoblog.net/achados/samsung-galaxy-book-4-tem-32-off-na-melhor-oferta-desde-dezembro-no-magalu/) | topico: geral | score: 92
+- [OnlyOffice 9.3 chega para quem busca opção ao Office e LibreOffice](https://tecnoblog.net/noticias/onlyoffice-9-3-chega-para-quem-busca-opcao-ao-office-e-libreoffice/) | topico: agentes | score: 100
+- [Moto G86 (512 GB) está em promoção com desconto histórico de 47%](https://tecnoblog.net/achados/moto-g86-512-gb-esta-em-promocao-com-desconto-historico-de-47/) | topico: geral | score: 92
+- [Nintendo Switch Lite tem 34% de desconto em oferta no Mercado Livre](https://tecnoblog.net/achados/nintendo-switch-lite-tem-34-de-desconto-em-oferta-no-mercado-livre/) | topico: geral | score: 100
+- [Samsung amplia comunicação via satélite, mas sem menção à América Latina](https://tecnoblog.net/noticias/samsung-amplia-comunicacao-via-satelite-mas-sem-mencao-a-america-latina/) | topico: infra-ia | score: 100
+- [Códigos e cheats de Pokémon Ruby e Sapphire](https://tecnoblog.net/responde/cheats-pokemon-ruby-e-sapphire/) | topico: geral | score: 100
+- [Firefox lança botões para desativar recursos de IA](https://tecnoblog.net/noticias/firefox-lanca-botoes-para-desativar-recursos-de-ia/) | topico: llms | score: 100
+- [Quanto tempo leva para zerar Resident Evil Requiem?](https://canaltech.com.br/games/quanto-tempo-leva-para-zerar-resident-evil-requiem/) | topico: geral | score: 92
+- [Demissões, cancelamentos e IA: o tamanho da crise que a nova CEO do Xbox herda](https://canaltech.com.br/games/demissoes-cancelamentos-e-ia-o-tamanho-da-crise-que-a-nova-ceo-do-xbox-herda/) | topico: geral | score: 100
+- [Marathon e Atari 50 agitam os jogos grátis de fim de semana](https://canaltech.com.br/games/marathon-e-atari-50-agitam-os-jogos-gratis-de-fim-de-semana/) | topico: geral | score: 100
+- [Honda derruba preços do City e sedan rivaliza com Fiat Cronos](https://canaltech.com.br/carros/honda-derruba-precos-do-city-e-sedan-rivaliza-com-fiat-cronos/) | topico: produtividade-dev | score: 100
+- [Brasil é o segundo país com mais assinantes do Apple TV, revela executivo](https://canaltech.com.br/apps/brasil-e-o-segundo-pais-com-mais-assinantes-do-apple-tv-revela-executivo/) | topico: geral | score: 100
+- [God of War: Amazon divulga primeira imagem de Kratos e Atreus na série, veja](https://canaltech.com.br/games/god-of-war-amazon-divulga-primeira-imagem-de-kratos-e-atreus-na-serie-veja/) | topico: geral | score: 100
+- [Galaxy S26: como pagar menos da metade do preço pouco após o lançamento](https://canaltech.com.br/smartphone/galaxy-s26-como-pagar-menos-da-metade-do-preco-pouco-apos-o-lancamento/) | topico: geral | score: 92
+- [Poder bruto faz ASUS vencer Prêmio de Melhor Notebook Gamer; veja indicados](https://canaltech.com.br/notebook/poder-bruto-faz-asus-vencer-premio-de-melhor-notebook-gamer-veja-indicados/) | topico: geral | score: 100
+- [IdeaPad Slim 3X com Snapdragon X dita nova era de mobilidade](https://canaltech.com.br/hardware/ideapad-slim-3x-com-snapdragon-x-dita-nova-era-de-mobilidade/) | topico: geral | score: 92
+- [Procon-SP multa Shopee em R$ 14 milhões por 'cláusulas abusivas' e mais infrações](https://www.tecmundo.com.br/mercado/411193-procon-sp-multa-shopee-em-r-14-milhoes-por-clausulas-abusivas-e-mais-infracoes.htm) | topico: geral | score: 92
+- [Bridgerton já está renovada para temporada 5! Veja o que esperar](https://www.tecmundo.com.br/minha-serie/603226-bridgerton-ja-esta-renovada-para-temporada-5-veja-o-que-esperar.htm) | topico: geral | score: 92
+- [Meta processa anunciantes fraudulentos do Brasil, China e Vietnã](https://www.tecmundo.com.br/seguranca/411207-meta-processa-anunciantes-fraudulentos-do-brasil-china-e-vietna.htm) | topico: geral | score: 100
+- [Youtuber Orochinho é condenado a indenizar criança ridicularizada em vídeo](https://www.tecmundo.com.br/seguranca/411206-youtuber-orochinho-e-condenado-a-indenizar-crianca-ridicularizada-em-video.htm) | topico: geral | score: 100
+- [Criador de Stardew Valley agradece fãs e revela dois novos personagens casáveis nos 10 anos do jogo](https://www.tecmundo.com.br/voxel/503636-criador-de-stardew-valley-agradece-fas-e-revela-dois-novos-personagens-casaveis-nos-10-anos-do-jogo.htm) | topico: geral | score: 100
+- [Apple vai proibir menores de baixarem apps +18 na App Store](https://www.tecmundo.com.br/redes-sociais/411178-apple-vai-proibir-menores-de-baixarem-apps-18-na-app-store.htm) | topico: geral | score: 92
+- [Governo recua em aumento de imposto de importação para alguns eletrônicos](https://www.tecmundo.com.br/mercado/411209-governo-recua-em-aumento-de-imposto-de-importacao-para-alguns-eletronicos.htm) | topico: geral | score: 100
+- [8 melhores filmes e séries em alta para ver na Netflix no fim de semana (27)](https://www.tecmundo.com.br/minha-serie/603220-8-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-27.htm) | topico: geral | score: 100

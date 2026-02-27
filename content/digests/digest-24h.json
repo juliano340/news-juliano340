@@ -1,205 +1,223 @@
 {
-  "generated_at": "2026-02-27T19:13:47.474Z",
+  "generated_at": "2026-02-27T21:14:52.114Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 22,
+  "total": 24,
   "posts": [
     {
-      "title": "Vence amanhã: iPhone 15 (256 GB) tem 49% OFF no menor preço que já vimos",
-      "slug": "vence-amanha-iphone-15-256-gb-tem-49percent-off-no-menor-preco-que-ja-vimos",
+      "title": "Samsung Galaxy Book 4 tem 32% OFF na melhor oferta desde dezembro no Magalu",
+      "slug": "samsung-galaxy-book-4-tem-32percent-off-na-melhor-oferta-desde-dezembro-no-magalu",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-27T18:37:58.000Z",
+      "date": "2026-02-27T20:53:27.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/vence-amanha-iphone-15-256-gb-tem-49-off-no-menor-preco-que-ja-vimos/"
+      "original_url": "https://tecnoblog.net/achados/samsung-galaxy-book-4-tem-32-off-na-melhor-oferta-desde-dezembro-no-magalu/"
     },
     {
-      "title": "iPad Air M3 (256 GB) tem menor preço antes da possível chegada de novo iPad Air",
-      "slug": "ipad-air-m3-256-gb-tem-menor-preco-antes-da-possivel-chegada-de-novo-ipad-air",
+      "title": "OnlyOffice 9.3 chega para quem busca opção ao Office e LibreOffice",
+      "slug": "onlyoffice-93-chega-para-quem-busca-opcao-ao-office-e-libreoffice",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T20:52:38.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/onlyoffice-9-3-chega-para-quem-busca-opcao-ao-office-e-libreoffice/"
+    },
+    {
+      "title": "Moto G86 (512 GB) está em promoção com desconto histórico de 47%",
+      "slug": "moto-g86-512-gb-esta-em-promocao-com-desconto-historico-de-47percent",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-27T18:14:31.000Z",
+      "date": "2026-02-27T20:47:26.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/ipad-air-m3-256-gb-tem-menor-preco-antes-da-possivel-chegada-de-novo-ipad-air/"
+      "original_url": "https://tecnoblog.net/achados/moto-g86-512-gb-esta-em-promocao-com-desconto-historico-de-47/"
     },
     {
-      "title": "Gaming burnout: Como identificar o cansaço mental causado pelo excesso de jogos",
-      "slug": "gaming-burnout-como-identificar-o-cansaco-mental-causado-pelo-excesso-de-jogos",
+      "title": "Nintendo Switch Lite tem 34% de desconto em oferta no Mercado Livre",
+      "slug": "nintendo-switch-lite-tem-34percent-de-desconto-em-oferta-no-mercado-livre",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T19:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T20:13:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/gaming-burnout-como-identificar-o-cansaco-mental-causado-pelo-excesso-de-jogos/"
+      "original_url": "https://tecnoblog.net/achados/nintendo-switch-lite-tem-34-de-desconto-em-oferta-no-mercado-livre/"
     },
     {
-      "title": "Mercado Livre faz queima de celular com bateria para 2 dias, preço baixo e fone",
-      "slug": "mercado-livre-faz-queima-de-celular-com-bateria-para-2-dias-preco-baixo-e-fone",
+      "title": "Samsung amplia comunicação via satélite, mas sem menção à América Latina",
+      "slug": "samsung-amplia-comunicacao-via-satelite-mas-sem-mencao-a-america-latina",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T20:00:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/samsung-amplia-comunicacao-via-satelite-mas-sem-mencao-a-america-latina/"
+    },
+    {
+      "title": "Códigos e cheats de Pokémon Ruby e Sapphire",
+      "slug": "codigos-e-cheats-de-pokemon-ruby-e-sapphire",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T18:16:27.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T19:56:58.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-celular-com-bateria-para-2-dias-preco-baixo-e-fone/"
+      "original_url": "https://tecnoblog.net/responde/cheats-pokemon-ruby-e-sapphire/"
     },
     {
-      "title": "Ironia pura: Meta processa golpistas após faturar com anúncios falsos",
-      "slug": "ironia-pura-meta-processa-golpistas-apos-faturar-com-anuncios-falsos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T18:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/ironia-pura-meta-processa-golpistas-apos-faturar-com-anuncios-falsos/"
-    },
-    {
-      "title": "OpenAI lança curso gratuito de ChatGPT para professores",
-      "slug": "openai-lanca-curso-gratuito-de-chatgpt-para-professores",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T18:08:37.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/openai-lanca-curso-gratuito-de-chatgpt-para-professores/"
-    },
-    {
-      "title": "Prêmio Canaltech: Volvo mira 3º título e BYD aposta na Denza para novo troféu",
-      "slug": "premio-canaltech-volvo-mira-3o-titulo-e-byd-aposta-na-denza-para-novo-trofeu",
+      "title": "Firefox lança botões para desativar recursos de IA",
+      "slug": "firefox-lanca-botoes-para-desativar-recursos-de-ia",
       "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-02-27T17:55:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T19:46:34.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/premio-canaltech-volvo-mira-3o-titulo-e-byd-aposta-na-denza-para-novo-trofeu/"
+      "original_url": "https://tecnoblog.net/noticias/firefox-lanca-botoes-para-desativar-recursos-de-ia/"
     },
     {
-      "title": "Produtores explicam demora para lançamento de Homem-Aranha: Além do Aranhaverso",
-      "slug": "produtores-explicam-demora-para-lancamento-de-homem-aranha-alem-do-aranhaverso",
+      "title": "Quanto tempo leva para zerar Resident Evil Requiem?",
+      "slug": "quanto-tempo-leva-para-zerar-resident-evil-requiem",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-27T17:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/produtores-explicam-demora-para-lancamento-de-homem-aranha-alem-do-aranhaverso/"
+      "date": "2026-02-27T21:05:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/quanto-tempo-leva-para-zerar-resident-evil-requiem/"
     },
     {
-      "title": "Como proteger sua TV Box ou Smart TV de ataques hacker",
-      "slug": "como-proteger-sua-tv-box-ou-smart-tv-de-ataques-hacker",
+      "title": "Demissões, cancelamentos e IA: o tamanho da crise que a nova CEO do Xbox herda",
+      "slug": "demissoes-cancelamentos-e-ia-o-tamanho-da-crise-que-a-nova-ceo-do-xbox-herda",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-27T17:00:00.000Z",
+      "date": "2026-02-27T20:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/como-proteger-sua-tv-box-ou-smart-tv-de-ataques-hacker/"
+      "original_url": "https://canaltech.com.br/games/demissoes-cancelamentos-e-ia-o-tamanho-da-crise-que-a-nova-ceo-do-xbox-herda/"
     },
     {
-      "title": "iPhone recebe certificação de proteção de dados confidenciais pela OTAN",
-      "slug": "iphone-recebe-certificacao-de-protecao-de-dados-confidenciais-pela-otan",
+      "title": "Marathon e Atari 50 agitam os jogos grátis de fim de semana",
+      "slug": "marathon-e-atari-50-agitam-os-jogos-gratis-de-fim-de-semana",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T19:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-02-27T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411179-iphone-recebe-certificacao-de-protecao-de-dados-confidenciais-pela-otan.htm"
+      "original_url": "https://canaltech.com.br/games/marathon-e-atari-50-agitam-os-jogos-gratis-de-fim-de-semana/"
     },
     {
-      "title": "Rumo ao bi: ChatGPT chega a 900 milhões de usuários ativos por semana",
-      "slug": "rumo-ao-bi-chatgpt-chega-a-900-milhoes-de-usuarios-ativos-por-semana",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T18:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411198-rumo-ao-bi-chatgpt-chega-a-900-milhoes-de-usuarios-ativos-por-semana.htm"
-    },
-    {
-      "title": "Nintendo anuncia Pokémon Ventos e Ondas com legendas em PT-BR, trailer e novos iniciais",
-      "slug": "nintendo-anuncia-pokemon-ventos-e-ondas-com-legendas-em-pt-br-trailer-e-novos-iniciais",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T18:15:26.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503645-nintendo-anuncia-pokemon-ventos-e-ondas-com-legendas-em-pt-br-trailer-e-novos-iniciais.htm"
-    },
-    {
-      "title": "OpenAI endurece regras para denunciar crimes após atentado no Canadá",
-      "slug": "openai-endurece-regras-para-denunciar-crimes-apos-atentado-no-canada",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-02-27T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411182-openai-endurece-regras-para-denunciar-crimes-apos-atentado-no-canada.htm"
-    },
-    {
-      "title": "7 opções de aspiradores de pó vertical por menos de R$140 no Magazine Luiza; confira",
-      "slug": "7-opcoes-de-aspiradores-de-po-vertical-por-menos-de-rdollar140-no-magazine-luiza-confira",
+      "title": "Honda derruba preços do City e sedan rivaliza com Fiat Cronos",
+      "slug": "honda-derruba-precos-do-city-e-sedan-rivaliza-com-fiat-cronos",
       "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-27T17:36:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411173-7-opcoes-de-aspiradores-de-po-vertical-por-menos-de-r140-no-magazine-luiza-confira.htm"
+      "source": "Canaltech",
+      "date": "2026-02-27T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/honda-derruba-precos-do-city-e-sedan-rivaliza-com-fiat-cronos/"
     },
     {
-      "title": "Cupom KaBuM | 70% off - Março 2026",
-      "slug": "cupom-kabum-or-70percent-off-marco-2026",
+      "title": "Brasil é o segundo país com mais assinantes do Apple TV, revela executivo",
+      "slug": "brasil-e-o-segundo-pais-com-mais-assinantes-do-apple-tv-revela-executivo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T19:54:18.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/brasil-e-o-segundo-pais-com-mais-assinantes-do-apple-tv-revela-executivo/"
+    },
+    {
+      "title": "God of War: Amazon divulga primeira imagem de Kratos e Atreus na série, veja",
+      "slug": "god-of-war-amazon-divulga-primeira-imagem-de-kratos-e-atreus-na-serie-veja",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T19:47:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/god-of-war-amazon-divulga-primeira-imagem-de-kratos-e-atreus-na-serie-veja/"
+    },
+    {
+      "title": "Galaxy S26: como pagar menos da metade do preço pouco após o lançamento",
+      "slug": "galaxy-s26-como-pagar-menos-da-metade-do-preco-pouco-apos-o-lancamento",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T19:44:23.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-como-pagar-menos-da-metade-do-preco-pouco-apos-o-lancamento/"
+    },
+    {
+      "title": "Poder bruto faz ASUS vencer Prêmio de Melhor Notebook Gamer; veja indicados",
+      "slug": "poder-bruto-faz-asus-vencer-premio-de-melhor-notebook-gamer-veja-indicados",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T19:33:38.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/notebook/poder-bruto-faz-asus-vencer-premio-de-melhor-notebook-gamer-veja-indicados/"
+    },
+    {
+      "title": "IdeaPad Slim 3X com Snapdragon X dita nova era de mobilidade",
+      "slug": "ideapad-slim-3x-com-snapdragon-x-dita-nova-era-de-mobilidade",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T19:27:20.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/hardware/ideapad-slim-3x-com-snapdragon-x-dita-nova-era-de-mobilidade/"
+    },
+    {
+      "title": "Procon-SP multa Shopee em R$ 14 milhões por 'cláusulas abusivas' e mais infrações",
+      "slug": "procon-sp-multa-shopee-em-rdollar-14-milhoes-por-clausulas-abusivas-e-mais-infracoes",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T17:21:58.000Z",
+      "date": "2026-02-27T21:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/402694-cupom-kabum.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411193-procon-sp-multa-shopee-em-r-14-milhoes-por-clausulas-abusivas-e-mais-infracoes.htm"
     },
     {
-      "title": "Cupom Casas Bahia | 80% off - Março 2026",
-      "slug": "cupom-casas-bahia-or-80percent-off-marco-2026",
-      "topic": "produtividade-dev",
+      "title": "Bridgerton já está renovada para temporada 5! Veja o que esperar",
+      "slug": "bridgerton-ja-esta-renovada-para-temporada-5-veja-o-que-esperar",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T17:21:35.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/402697-cupom-casas-bahia.htm"
-    },
-    {
-      "title": "Cupom Dell | 36% off - Março 2026",
-      "slug": "cupom-dell-or-36percent-off-marco-2026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-27T17:21:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/402698-cupom-dell.htm"
-    },
-    {
-      "title": "Cupom Amazon | 84% off - Março 2026",
-      "slug": "cupom-amazon-or-84percent-off-marco-2026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-27T17:20:59.000Z",
+      "date": "2026-02-27T20:45:29.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/402699-cupom-amazon.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603226-bridgerton-ja-esta-renovada-para-temporada-5-veja-o-que-esperar.htm"
     },
     {
-      "title": "Código Promocional Azul | 20% off - Março 2026",
-      "slug": "codigo-promocional-azul-or-20percent-off-marco-2026",
-      "topic": "produtividade-dev",
+      "title": "Meta processa anunciantes fraudulentos do Brasil, China e Vietnã",
+      "slug": "meta-processa-anunciantes-fraudulentos-do-brasil-china-e-vietna",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T17:20:36.000Z",
+      "date": "2026-02-27T20:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411207-meta-processa-anunciantes-fraudulentos-do-brasil-china-e-vietna.htm"
+    },
+    {
+      "title": "Youtuber Orochinho é condenado a indenizar criança ridicularizada em vídeo",
+      "slug": "youtuber-orochinho-e-condenado-a-indenizar-crianca-ridicularizada-em-video",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T20:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411206-youtuber-orochinho-e-condenado-a-indenizar-crianca-ridicularizada-em-video.htm"
+    },
+    {
+      "title": "Criador de Stardew Valley agradece fãs e revela dois novos personagens casáveis nos 10 anos do jogo",
+      "slug": "criador-de-stardew-valley-agradece-fas-e-revela-dois-novos-personagens-casaveis-nos-10-anos-do-jogo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T20:15:33.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503636-criador-de-stardew-valley-agradece-fas-e-revela-dois-novos-personagens-casaveis-nos-10-anos-do-jogo.htm"
+    },
+    {
+      "title": "Apple vai proibir menores de baixarem apps +18 na App Store",
+      "slug": "apple-vai-proibir-menores-de-baixarem-apps-18-na-app-store",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T20:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/402721-código-promocional-azul.htm"
+      "original_url": "https://www.tecmundo.com.br/redes-sociais/411178-apple-vai-proibir-menores-de-baixarem-apps-18-na-app-store.htm"
     },
     {
-      "title": "Nasa: Missão tripulada para Lua ficará para 2028 após múltiplos atrasos",
-      "slug": "nasa-missao-tripulada-para-lua-ficara-para-2028-apos-multiplos-atrasos",
+      "title": "Governo recua em aumento de imposto de importação para alguns eletrônicos",
+      "slug": "governo-recua-em-aumento-de-imposto-de-importacao-para-alguns-eletronicos",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-27T18:03:31.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-27T19:49:13.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/02/27/nasa-missao-tripulada-para-lua-ficara-para-2028-apos-multiplos-atrasos.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411209-governo-recua-em-aumento-de-imposto-de-importacao-para-alguns-eletronicos.htm"
     },
     {
-      "title": "Após sucesso viral, Google lança nova versão de gerador de imagens com IA",
-      "slug": "apos-sucesso-viral-google-lanca-nova-versao-de-gerador-de-imagens-com-ia",
+      "title": "8 melhores filmes e séries em alta para ver na Netflix no fim de semana (27)",
+      "slug": "8-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-27",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-27T17:42:02.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-27T19:15:39.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/27/apos-sucesso-viral-google-lanca-nova-versao-de-gerador-de-imagens-com-ia.htm"
-    },
-    {
-      "title": "Autoridades alemãs terão mais poderes contra hackers estrangeiros, mostra projeto de lei",
-      "slug": "autoridades-alemas-terao-mais-poderes-contra-hackers-estrangeiros-mostra-projeto-de-lei",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-27T17:31:32.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/27/autoridades-alemas-terao-mais-poderes-contra-hackers-estrangeiros-mostra-projeto-de-lei.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603220-8-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-27.htm"
     }
   ]
 }
