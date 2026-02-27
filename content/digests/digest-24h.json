@@ -1,43 +1,61 @@
 {
-  "generated_at": "2026-02-27T09:02:15.300Z",
+  "generated_at": "2026-02-27T11:03:36.612Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 6,
   "posts": [
     {
-      "title": "Galaxy S26: IA inteligente, tela anti-curioso e nova era dos smartphones",
-      "slug": "galaxy-s26-ia-inteligente-tela-anti-curioso-e-nova-era-dos-smartphones",
+      "title": "Processador Exynos do Galaxy S26 surpreende e iguala Snapdragon em testes",
+      "slug": "processador-exynos-do-galaxy-s26-surpreende-e-iguala-snapdragon-em-testes",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-27T09:00:00.000Z",
+      "date": "2026-02-27T10:26:37.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/galaxy-s26-ia-inteligente-tela-anti-curioso-e-nova-era-dos-smartphones-6375/"
+      "original_url": "https://canaltech.com.br/smartphone/processador-exynos-do-galaxy-s26-surpreende-e-iguala-snapdragon-em-testes/"
     },
     {
-      "title": "Prêmio Canaltech: BYD, Zeekr e Volvo levam troféus em Carros",
-      "slug": "premio-canaltech-byd-zeekr-e-volvo-levam-trofeus-em-carros",
+      "title": "Apple prepara \"grande semana\", diz Tim Cook; veja o que deve ser lançado",
+      "slug": "apple-prepara-grande-semana-diz-tim-cook-veja-o-que-deve-ser-lancado",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-27T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/premio-canaltech-byd-zeekr-e-volvo-levam-trofeus-em-carros/"
+      "date": "2026-02-27T10:00:25.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/produtos/apple-prepara-grande-semana-diz-tim-cook-veja-o-que-deve-ser-lancado/"
     },
     {
-      "title": "Palpites para Botafogo x Boavista: Análises e Onde Assistir (28/02/2026)",
-      "slug": "palpites-para-botafogo-x-boavista-analises-e-onde-assistir-28022026",
+      "title": "Brasil tem melhor rede móvel da América Latina, aponta relatório",
+      "slug": "brasil-tem-melhor-rede-movel-da-america-latina-aponta-relatorio",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411164-brasil-tem-melhor-rede-movel-da-america-latina-aponta-relatorio.htm"
+    },
+    {
+      "title": "Palpites para Newcastle x Everton: Análises e Onde Assistir (28/02/2026)",
+      "slug": "palpites-para-newcastle-x-everton-analises-e-onde-assistir-28022026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-27T11:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411152-palpites-para-newcastle-x-everton-analises-e-onde-assistir-28022026.htm"
+    },
+    {
+      "title": "Lançamentos de games de março: Confira os principais jogos do mês",
+      "slug": "lancamentos-de-games-de-marco-confira-os-principais-jogos-do-mes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-27T10:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503623-lancamentos-de-games-de-marco-confira-os-principais-jogos-do-mes.htm"
+    },
+    {
+      "title": "Palpites para Leeds United x Manchester City: Análises e Onde Assistir (28/02/2026)",
+      "slug": "palpites-para-leeds-united-x-manchester-city-analises-e-onde-assistir-28022026",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-02-27T09:00:00.000Z",
+      "date": "2026-02-27T10:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411153-palpites-para-botafogo-x-boavista-analises-e-onde-assistir-28022026.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (27)? Veja calendário lunar de fevereiro de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-27-veja-calendario-lunar-de-fevereiro-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-27T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/27/qual-e-a-fase-da-lua-hoje-27-veja-calendario-lunar-de-fevereiro-de-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411151-palpites-para-leeds-united-x-manchester-city-analises-e-onde-assistir-28022026.htm"
     }
   ]
 }
