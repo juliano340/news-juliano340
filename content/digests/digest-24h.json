@@ -1,43 +1,25 @@
 {
-  "generated_at": "2026-02-27T03:02:12.404Z",
+  "generated_at": "2026-02-27T07:01:12.881Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 2,
   "posts": [
     {
-      "title": "Netflix recua e Paramount deve ficar com a Warner Bros",
-      "slug": "netflix-recua-e-paramount-deve-ficar-com-a-warner-bros",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-27T02:12:13.000Z",
+      "title": "Google interrompe ação de grupo hacker chinês que usou planilhas para roubar dados de operadoras de telefonia no Brasil",
+      "slug": "google-interrompe-acao-de-grupo-hacker-chines-que-usou-planilhas-para-roubar-dados-de-operadoras-de-telefonia-no-brasil",
+      "topic": "seguranca-ia",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-27T05:00:31.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/netflix-recua-e-paramount-deve-ficar-com-a-warner-bros/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/27/google-interrompe-acao-de-grupo-hacker-chines-que-usou-planilhas-para-roubar-dados-de-operadoras-de-telefonia-no-brasil.ghtml"
     },
     {
-      "title": "LG lidera TVs premium; TCL vence no custo-benefício no Prêmio Canaltech",
-      "slug": "lg-lidera-tvs-premium-tcl-vence-no-custo-beneficio-no-premio-canaltech",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T02:30:00.000Z",
+      "title": "Youtuber é condenado em R$ 70 mil por ridicularizar bebê, alega não receber intimação de porteiro e pede para juiz anular decisão",
+      "slug": "youtuber-e-condenado-em-rdollar-70-mil-por-ridicularizar-bebe-alega-nao-receber-intimacao-de-porteiro-e-pede-para-juiz-anular-decisao",
+      "topic": "produtividade-dev",
+      "source": "G1 Tecnologia",
+      "date": "2026-02-27T05:00:30.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tv/lg-lidera-tvs-premium-tcl-vence-no-custo-beneficio-no-premio-canaltech/"
-    },
-    {
-      "title": "Samsung domina custo-benefício com celular, tablet e fone no Prêmio Canaltech",
-      "slug": "samsung-domina-custo-beneficio-com-celular-tablet-e-fone-no-premio-canaltech",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T02:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/samsung-domina-custo-beneficio-com-celular-tablet-e-fone-no-premio-canaltech/"
-    },
-    {
-      "title": "9º Prêmio Canaltech: veja todos os vencedores de 2026",
-      "slug": "9o-premio-canaltech-veja-todos-os-vencedores-de-2026",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T01:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/canaltech/9o-premio-canaltech-veja-todos-os-vencedores-de-2026/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/27/youtuber-e-condenado-em-r-70-mil-por-ridicularizar-bebe-alega-nao-receber-intimacao-de-porteiro-e-pede-para-juiz-anular-decisao.ghtml"
     }
   ]
 }

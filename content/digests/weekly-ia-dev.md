@@ -1,8 +1,6 @@
 # Weekly IA para Devs - 2026-02-27
 
-Gerado em 2026-02-27T03:02:12.404Z
+Gerado em 2026-02-27T07:01:12.881Z
 
-- [Netflix recua e Paramount deve ficar com a Warner Bros](https://tecnoblog.net/noticias/netflix-recua-e-paramount-deve-ficar-com-a-warner-bros/) | topico: geral | score: 100
-- [LG lidera TVs premium; TCL vence no custo-benefício no Prêmio Canaltech](https://canaltech.com.br/tv/lg-lidera-tvs-premium-tcl-vence-no-custo-beneficio-no-premio-canaltech/) | topico: geral | score: 100
-- [Samsung domina custo-benefício com celular, tablet e fone no Prêmio Canaltech](https://canaltech.com.br/produtos/samsung-domina-custo-beneficio-com-celular-tablet-e-fone-no-premio-canaltech/) | topico: geral | score: 100
-- [9º Prêmio Canaltech: veja todos os vencedores de 2026](https://canaltech.com.br/canaltech/9o-premio-canaltech-veja-todos-os-vencedores-de-2026/) | topico: geral | score: 100
+- [Google interrompe ação de grupo hacker chinês que usou planilhas para roubar dados de operadoras de telefonia no Brasil](https://g1.globo.com/tecnologia/noticia/2026/02/27/google-interrompe-acao-de-grupo-hacker-chines-que-usou-planilhas-para-roubar-dados-de-operadoras-de-telefonia-no-brasil.ghtml) | topico: seguranca-ia | score: 100
+- [Youtuber é condenado em R$ 70 mil por ridicularizar bebê, alega não receber intimação de porteiro e pede para juiz anular decisão](https://g1.globo.com/tecnologia/noticia/2026/02/27/youtuber-e-condenado-em-r-70-mil-por-ridicularizar-bebe-alega-nao-receber-intimacao-de-porteiro-e-pede-para-juiz-anular-decisao.ghtml) | topico: produtividade-dev | score: 100
