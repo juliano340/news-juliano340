@@ -1,6 +1,6 @@
 {
-  "slug": "mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips",
-  "generated_at": "2026-02-27T23:03:18.868Z",
+  "slug": "todo-mundo-em-panico-6-veja-trailer-e-data-de-lancamento-do-filme-de-comedia",
+  "generated_at": "2026-02-27T23:10:58.123Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 413,
+      "words": 309,
       "min": 220
     },
     {

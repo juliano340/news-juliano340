@@ -1,7 +1,7 @@
 {
-  "slug": "mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips",
-  "generated_at": "2026-02-27T23:03:18.868Z",
-  "status": "BLOCK",
+  "slug": "melhor-camera-do-ano-e-da-huawei-marca-fatura-3-trofeus-no-premio-canaltech",
+  "generated_at": "2026-02-27T23:08:46.960Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 413,
+      "words": 233,
       "min": 220
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "placeholder_terms",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "BLOCK",
       "reason": "placeholder_detectado"
     },
@@ -92,9 +92,84 @@
     }
   ],
   "warnings": [],
-  "errors": [
-    "placeholder_detectado"
-  ],
-  "score": 92,
-  "metadata": null
+  "errors": [],
+  "score": 100,
+  "metadata": {
+    "status": "PASS",
+    "checks": [
+      {
+        "id": "required_title",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_date",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_original_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_primary_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_content",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_meta_description",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_canonical_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "slug_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "original_url_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "canonical_matches_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "meta_description_length",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "schema_min_fields",
+        "status": "PASS",
+        "level": "BLOCK"
+      }
+    ],
+    "warnings": [],
+    "errors": [],
+    "score": 100
+  }
 }
