@@ -1,0 +1,100 @@
+{
+  "slug": "hbo-max-planeja-barrar-compartilhamento-de-senhas-no-mundo-todo",
+  "generated_at": "2026-02-27T17:01:54.360Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "sections",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "secoes_obrigatorias_ausentes"
+    },
+    {
+      "id": "summary_bullets",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "resumo_sem_3_bullets",
+      "bullets": 3,
+      "min": 3
+    },
+    {
+      "id": "watch_bullets",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "observacao_sem_3_a_5_bullets",
+      "bullets": 3
+    },
+    {
+      "id": "primary_source",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "fonte_primaria_invalida"
+    },
+    {
+      "id": "min_words",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "conteudo_curto",
+      "words": 388,
+      "min": 220
+    },
+    {
+      "id": "paragraphs",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "estrutura_com_poucos_paragrafos",
+      "paragraphs": 9,
+      "min": 5
+    },
+    {
+      "id": "placeholder_terms",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "placeholder_detectado"
+    },
+    {
+      "id": "vague_phrases",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "frase_generica_sem_justificativa"
+    },
+    {
+      "id": "truncated_bullets",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "bullet_truncado_com_reticencias"
+    },
+    {
+      "id": "source_link_in_body",
+      "status": "PASS",
+      "level": "WARN",
+      "reason": "fonte_primaria_ausente_no_corpo"
+    },
+    {
+      "id": "semantic_alignment",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "desalinhamento_semantico_titulo_corpo"
+    },
+    {
+      "id": "forced_ia_bias",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "viés_ia_forcado_em_tema_nao_ia"
+    },
+    {
+      "id": "internal_links",
+      "status": "PASS",
+      "level": "WARN",
+      "reason": "poucos_links_internos",
+      "links": 3,
+      "min": 3
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "placeholder_detectado"
+  ],
+  "score": 92,
+  "metadata": null
+}

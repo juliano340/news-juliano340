@@ -1,205 +1,205 @@
 {
-  "generated_at": "2026-02-27T15:14:24.633Z",
+  "generated_at": "2026-02-27T17:16:01.756Z",
   "niche": "ia-para-desenvolvedores",
   "total": 22,
   "posts": [
     {
-      "title": "Garota recria foto que viralizou e virou meme nas redes sociais 10 anos depois",
-      "slug": "garota-recria-foto-que-viralizou-e-virou-meme-nas-redes-sociais-10-anos-depois",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-02-27T14:47:27.000Z",
+      "title": "Como entrar em contato com o suporte da Amazon",
+      "slug": "como-entrar-em-contato-com-o-suporte-da-amazon",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T16:46:25.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/02/27/garota-recria-foto-que-viralizou-e-virou-meme-nas-redes-sociais-10-anos-depois.ghtml"
+      "original_url": "https://tecnoblog.net/responde/como-entrar-em-contato-com-o-suporte-da-amazon/"
     },
     {
-      "title": "Brasil é o segundo maior mercado do Apple TV",
-      "slug": "brasil-e-o-segundo-maior-mercado-do-apple-tv",
+      "title": "Galaxy Watch Ultra com corpo em titânio fica 61% mais barato no Mercado Livre",
+      "slug": "galaxy-watch-ultra-com-corpo-em-titanio-fica-61percent-mais-barato-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-02-27T14:24:14.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/brasil-e-o-segundo-maior-mercado-do-apple-tv/"
-    },
-    {
-      "title": "Como saber se o celular está com vírus? Veja 7 sinais de infecção por malware",
-      "slug": "como-saber-se-o-celular-esta-com-virus-veja-7-sinais-de-infeccao-por-malware",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-27T13:13:49.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/como-saber-se-o-celular-esta-com-virus-veja-7-sinais-de-infeccao-por-malware/"
-    },
-    {
-      "title": "Retrato do caos: memória RAM corresponde a 1/3 do valor de um PC novo, admite HP",
-      "slug": "retrato-do-caos-memoria-ram-corresponde-a-13-do-valor-de-um-pc-novo-admite-hp",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T14:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/retrato-do-caos-memoria-ram-corresponde-a-13-do-valor-de-um-pc-novo-admite-hp/"
-    },
-    {
-      "title": "Pokémon Ventos e Ondas: jogos da 10ª Geração recebem localização em português",
-      "slug": "pokemon-ventos-e-ondas-jogos-da-10a-geracao-recebem-localizacao-em-portugues",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T14:51:18.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/pokemon-ventos-e-ondas-jogos-da-10a-geracao-recebem-localizacao-em-portugues/"
-    },
-    {
-      "title": "Samsung revela por que linha Galaxy S26 não tem \"MagSafe\"",
-      "slug": "samsung-revela-por-que-linha-galaxy-s26-nao-tem-magsafe",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T14:46:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-revela-por-que-linha-galaxy-s26-nao-tem-magsafe/"
-    },
-    {
-      "title": "Hackers usam plataforma ilegal para exibir anúncios maliciosos no Google",
-      "slug": "hackers-usam-plataforma-ilegal-para-exibir-anuncios-maliciosos-no-google",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T14:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/hackers-usam-plataforma-ilegal-para-exibir-anuncios-maliciosos-no-google/"
-    },
-    {
-      "title": "Celular da Samsung vai pegar sinal até no meio do oceano graças à Starlink",
-      "slug": "celular-da-samsung-vai-pegar-sinal-ate-no-meio-do-oceano-gracas-a-starlink",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T14:12:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/celular-da-samsung-vai-pegar-sinal-ate-no-meio-do-oceano-gracas-a-starink/"
-    },
-    {
-      "title": "Google Maps enfim vai funcionar na Coreia do Sul; entenda",
-      "slug": "google-maps-enfim-vai-funcionar-na-coreia-do-sul-entenda",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-02-27T14:06:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/google-maps-enfim-vai-funcionar-na-coreia-do-sul-entenda/"
-    },
-    {
-      "title": "Imperdível: Bundle Nintendo Switch 2 pelo menor preço já visto no Mercado Livre",
-      "slug": "imperdivel-bundle-nintendo-switch-2-pelo-menor-preco-ja-visto-no-mercado-livre",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T14:01:30.000Z",
+      "date": "2026-02-27T16:39:05.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/imperdivel-bundle-nintendo-switch-2-pelo-menor-preco-ja-visto-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-watch-ultra-com-corpo-em-titanio-fica-61-mais-barato-no-mercado-livre/"
     },
     {
-      "title": "Brasileiro quer viajar 74 mil km pelo mundo em avião experimental",
-      "slug": "brasileiro-quer-viajar-74-mil-km-pelo-mundo-em-aviao-experimental",
+      "title": "OpenAI está avaliada em R$ 3,8 trilhões após nova rodada de investimentos",
+      "slug": "openai-esta-avaliada-em-rdollar-38-trilhoes-apos-nova-rodada-de-investimentos",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T15:44:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/openai-esta-avaliada-em-r-38-trilhoes-apos-nova-rodada-de-investimentos/"
+    },
+    {
+      "title": "iPhone Air (512 GB) tem oferta melhor que no 2.2 com 36% OFF na Amazon",
+      "slug": "iphone-air-512-gb-tem-oferta-melhor-que-no-22-com-36percent-off-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-02-27T15:25:47.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-air-512-gb-tem-oferta-melhor-que-no-2-2-com-36-off-na-amazon/"
+    },
+    {
+      "title": "De 100 mil a 600 jogadores: entenda o fracasso colossal do shooter Highguard",
+      "slug": "de-100-mil-a-600-jogadores-entenda-o-fracasso-colossal-do-shooter-highguard",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T16:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/de-100-mil-a-600-jogadores-entenda-o-fracasso-colossal-do-shooter-highguard/"
+    },
+    {
+      "title": "Electrolux quer que sua geladeira \"pense\" por você; veja os lançamentos de 2026",
+      "slug": "electrolux-quer-que-sua-geladeira-pense-por-voce-veja-os-lancamentos-de-2026",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-27T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/brasileiro-quer-viajar-74-mil-km-pelo-mundo-em-aviao-experimental/"
+      "date": "2026-02-27T16:17:36.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/eletro/electrolux-quer-que-sua-geladeira-pense-por-voce-veja-os-lancamentos-de-2026/"
     },
     {
-      "title": "Galaxy A57 e A37 ganham detalhes de bateria em nova certificação",
-      "slug": "galaxy-a57-e-a37-ganham-detalhes-de-bateria-em-nova-certificacao",
+      "title": "Android 17 ganha novo Beta com novas bolhas para organizar aplicativos",
+      "slug": "android-17-ganha-novo-beta-com-novas-bolhas-para-organizar-aplicativos",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-02-27T16:05:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/android-17-ganha-novo-beta-com-novas-bolhas-para-organizar-aplicativos/"
+    },
+    {
+      "title": "Fenômeno: Resident Evil Requiem estreia no PC quebrando recordes da franquia",
+      "slug": "fenomeno-resident-evil-requiem-estreia-no-pc-quebrando-recordes-da-franquia",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-27T13:42:00.000Z",
+      "date": "2026-02-27T16:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-a57-e-a37-ganham-detalhes-de-bateria-em-nova-certificacao/"
+      "original_url": "https://canaltech.com.br/games/fenomeno-resident-evil-requiem-estreia-no-pc-quebrando-recordes-da-franquia/"
     },
     {
-      "title": "Reviravolta: Netflix não aumenta oferta e Paramount pode adquirir a Warner Bros",
-      "slug": "reviravolta-netflix-nao-aumenta-oferta-e-paramount-pode-adquirir-a-warner-bros",
+      "title": "Troca rápida de bateria resolve maior problema dos carros elétricos na China",
+      "slug": "troca-rapida-de-bateria-resolve-maior-problema-dos-carros-eletricos-na-china",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-27T13:30:28.000Z",
+      "date": "2026-02-27T15:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/troca-rapida-de-bateria-resolve-maior-problema-dos-carros-eletricos-na-china/"
+    },
+    {
+      "title": "Samsung confirma: caneta S Pen do Galaxy S26 Ultra tem vida longa pela frente",
+      "slug": "samsung-confirma-caneta-s-pen-do-galaxy-s26-ultra-tem-vida-longa-pela-frente",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-27T15:46:47.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/samsung-confirma-caneta-s-pen-do-galaxy-s26-ultra-tem-vida-longa-pela-frente/"
+    },
+    {
+      "title": "Cupom Renner | 88% off - Março 2026",
+      "slug": "cupom-renner-or-88percent-off-marco-2026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-27T17:08:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/mercado/reviravolta-netflix-nao-aumenta-oferta-e-paramount-pode-adquirir-a-warner-bros/"
+      "original_url": "https://www.tecmundo.com.br/produto/405023-cupom-renner.htm"
     },
     {
-      "title": "Venda global de PCs e celulares vai cair até 13% em 2026, revela estudo",
-      "slug": "venda-global-de-pcs-e-celulares-vai-cair-ate-13percent-em-2026-revela-estudo",
+      "title": "Cupom HP | 20% off - Março 2026",
+      "slug": "cupom-hp-or-20percent-off-marco-2026",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T15:00:00.000Z",
+      "date": "2026-02-27T17:07:40.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411176-venda-global-de-pcs-e-celulares-vai-cair-ate-13-em-2026-revela-estudo.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/405057-cupom-hp.htm"
     },
     {
-      "title": "Resident Evil Requiem: Veja a senha de todos os cofres do jogo",
-      "slug": "resident-evil-requiem-veja-a-senha-de-todos-os-cofres-do-jogo",
+      "title": "Cupom Avell | Até 45% off - Março 2026",
+      "slug": "cupom-avell-or-ate-45percent-off-marco-2026",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T14:15:00.000Z",
+      "date": "2026-02-27T17:07:20.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503620-resident-evil-requiem-veja-a-senha-de-todos-os-cofres-do-jogo.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/405086-cupom-avell.htm"
     },
     {
-      "title": "Nvidia confirma escassez de GPU para os próximos meses",
-      "slug": "nvidia-confirma-escassez-de-gpu-para-os-proximos-meses",
-      "topic": "geral",
+      "title": "Código Promocional Gol | 20% off - Março 2026",
+      "slug": "codigo-promocional-gol-or-20percent-off-marco-2026",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-27T14:00:00.000Z",
+      "date": "2026-02-27T17:07:01.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411174-nvidia-confirma-escassez-de-gpu-para-os-proximos-meses.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/405128-codigo-promocional-gol.htm"
     },
     {
-      "title": "Kindle em oferta: últimos dias para comprar os melhores modelos com desconto",
-      "slug": "kindle-em-oferta-ultimos-dias-para-comprar-os-melhores-modelos-com-desconto",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-27T13:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411177-kindle-em-oferta-ultimos-dias-para-comprar-os-melhores-modelos-com-desconto.htm"
-    },
-    {
-      "title": "Nintendo Switch 2 em promoção e com cupom no Mercado Livre; confira",
-      "slug": "nintendo-switch-2-em-promocao-e-com-cupom-no-mercado-livre-confira",
+      "title": "Cupom Nuuvem | Até 95% off - Março 2026",
+      "slug": "cupom-nuuvem-or-ate-95percent-off-marco-2026",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T13:16:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503637-nintendo-switch-2-em-promocao-e-com-cupom-no-mercado-livre-confira.htm"
+      "date": "2026-02-27T17:06:42.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/405136-cupom-nuuvem.htm"
     },
     {
-      "title": "O que aconteceu com Sam Jones III, de Smallville? Veja como ele está hoje em dia",
-      "slug": "o-que-aconteceu-com-sam-jones-iii-de-smallville-veja-como-ele-esta-hoje-em-dia",
+      "title": "Cupom Natura | 69% off - Março 2026",
+      "slug": "cupom-natura-or-69percent-off-marco-2026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-27T17:06:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/405169-cupom-natura.htm"
+    },
+    {
+      "title": "Cupom Buser | Até 20% off - Março 2026",
+      "slug": "cupom-buser-or-ate-20percent-off-marco-2026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-27T17:05:40.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/405181-cupom-buser.htm"
+    },
+    {
+      "title": "Cupom Elements | Até 71% off - Março 2026",
+      "slug": "cupom-elements-or-ate-71percent-off-marco-2026",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-27T13:15:20.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603214-o-que-aconteceu-com-sam-jones-iii-de-smallville-veja-como-ele-esta-hoje-em-dia.htm"
+      "date": "2026-02-27T17:05:20.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/405186-cupom-elements.htm"
     },
     {
-      "title": "'Sua vaca': IA é alvo de machismo, e startup barra 4,8 mil pessoas",
-      "slug": "sua-vaca-ia-e-alvo-de-machismo-e-startup-barra-48-mil-pessoas",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-27T15:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/02/27/sua-vaca-ia-e-alvo-de-machismo-e-startup-barra-48-mil-pessoas.htm"
+      "title": "Cupom O Boticário | 60% off - Março 2026",
+      "slug": "cupom-o-boticario-or-60percent-off-marco-2026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-02-27T17:05:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/405449-cupom-o-boticario.htm"
     },
     {
-      "title": "Robôs dançarinos oferecem apoio e companhia a idosos de Barcelona",
-      "slug": "robos-dancarinos-oferecem-apoio-e-companhia-a-idosos-de-barcelona",
+      "title": "Cupom Cobasi | 70% off - Março 2026",
+      "slug": "cupom-cobasi-or-70percent-off-marco-2026",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-02-27T14:22:07.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-27T17:04:39.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/27/robos-dancarinos-oferecem-apoio-e-companhia-a-idosos-de-barcelona.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/405498-cupom-cobasi.htm"
     },
     {
-      "title": "Keeta adia entrada no Rio e culpa restrições de concorrentes",
-      "slug": "keeta-adia-entrada-no-rio-e-culpa-restricoes-de-concorrentes",
+      "title": "OpenAI atinge valuation de US$840 bi com novos investimentos da Amazon, Nvidia e SoftBank",
+      "slug": "openai-atinge-valuation-de-usdollar840-bi-com-novos-investimentos-da-amazon-nvidia-e-softbank",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-27T16:39:54.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/02/27/openai-atinge-valuation-de-us840-bi-com-novos-investimentos-da-amazon-nvidia-e-softbank.htm"
+    },
+    {
+      "title": "Por que a Netflix desistiu da compra bilionária da Warner Bros?",
+      "slug": "por-que-a-netflix-desistiu-da-compra-bilionaria-da-warner-bros",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-02-27T13:39:59.000Z",
+      "date": "2026-02-27T15:47:52.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/02/27/keeta-adia-entrada-no-rio-e-culpa-restricoes-de-concorrentes.htm"
+      "original_url": "https://www.uol.com.br/splash/noticias/2026/02/27/o-que-fez-netflix-desistir-de-comprar-warner.htm"
     }
   ]
 }
