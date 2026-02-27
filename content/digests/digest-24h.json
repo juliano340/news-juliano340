@@ -1,106 +1,34 @@
 {
-  "generated_at": "2026-02-26T23:06:20.636Z",
+  "generated_at": "2026-02-27T01:01:38.268Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 11,
+  "total": 3,
   "posts": [
     {
-      "title": "Shopee é multada em R$ 14 milhões pelo Procon-SP",
-      "slug": "shopee-e-multada-em-rdollar-14-milhoes-pelo-procon-sp",
-      "topic": "infra-ia",
-      "source": "Tecnoblog",
-      "date": "2026-02-26T22:16:26.000Z",
+      "title": "Google lança Nano Banana 2 com novos recursos e mais velocidade",
+      "slug": "google-lanca-nano-banana-2-com-novos-recursos-e-mais-velocidade",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-02-27T00:11:15.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/shopee-e-multada-em-r-14-milhoes-pelo-procon-sp/"
+      "original_url": "https://www.tecmundo.com.br/software/411168-google-lanca-nano-banana-2-com-novos-recursos-e-mais-velocidade.htm"
     },
     {
-      "title": "Read AI lança assistente que automatiza e-mails e compromissos",
-      "slug": "read-ai-lanca-assistente-que-automatiza-e-mails-e-compromissos",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-26T21:25:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/read-ai-lanca-assistente-que-automatiza-e-mails-e-compromissos/"
-    },
-    {
-      "title": "Notebook Acer Aspire Go 15 recebe 27% OFF em oferta por até 10x sem juros",
-      "slug": "notebook-acer-aspire-go-15-recebe-27percent-off-em-oferta-por-ate-10x-sem-juros",
+      "title": "Netflix desiste e Paramount vai comprar Warner por US$ 111 bilhões",
+      "slug": "netflix-desiste-e-paramount-vai-comprar-warner-por-usdollar-111-bilhoes",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-26T21:14:43.000Z",
+      "source": "Tecmundo",
+      "date": "2026-02-26T23:47:34.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/notebook-acer-aspire-go-15-recebe-27-off-em-oferta-por-ate-10x-sem-juros/"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603222-netflix-desiste-e-paramount-vai-comprar-warner-por-us-111-bilhoes.htm"
     },
     {
-      "title": "Microsoft Edge abrirá Copilot automaticamente nos cliques em links do Outlook",
-      "slug": "microsoft-edge-abrira-copilot-automaticamente-nos-cliques-em-links-do-outlook",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-26T21:09:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/microsoft-edge-abrira-copilot-automaticamente-nos-cliques-em-links-do-outlook/"
-    },
-    {
-      "title": "Instagram passa a alertar pais sobre buscas sobre suicídio feitas por adolescentes",
-      "slug": "instagram-passa-a-alertar-pais-sobre-buscas-sobre-suicidio-feitas-por-adolescentes",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-02-26T21:01:32.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/instagram-passa-a-alertar-pais-sobre-buscas-sobre-suicidio-feitas-por-adolescentes/"
-    },
-    {
-      "title": "Resident Evil Requiem: KaBuM! leva Raccoon City para a Avenida Paulista",
-      "slug": "resident-evil-requiem-kabum-leva-raccoon-city-para-a-avenida-paulista",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-26T21:18:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/resident-evil-requiem-kabum-leva-raccoon-city-para-a-avenida-paulista/"
-    },
-    {
-      "title": "Robô mais fofo do mundo custa um Corolla XRX",
-      "slug": "robo-mais-fofo-do-mundo-custa-um-corolla-xrx",
+      "title": "WhatsApp finalmente vai permitir agendar o envio de mensagens",
+      "slug": "whatsapp-finalmente-vai-permitir-agendar-o-envio-de-mensagens",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-02-26T23:00:00.000Z",
+      "date": "2026-02-26T23:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411162-robo-mais-fofo-do-mundo-custa-um-corolla-xrx.htm"
-    },
-    {
-      "title": "Horizon Forbidden West e mais games de PS5 e PS4 com até 90% OFF",
-      "slug": "horizon-forbidden-west-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T22:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503634-horizon-forbidden-west-e-mais-games-de-ps5-e-ps4-com-ate-90-off.htm"
-    },
-    {
-      "title": "Dunk, de O Cavaleiro dos Sete Reinos, tem grande ligação com a Casa Stark e Hodor, segundo teoria",
-      "slug": "dunk-de-o-cavaleiro-dos-sete-reinos-tem-grande-ligacao-com-a-casa-stark-e-hodor-segundo-teoria",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T22:15:43.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603218-dunk-de-o-cavaleiro-dos-sete-reinos-tem-grande-ligacao-com-a-casa-stark-e-hodor-segundo-teoria.htm"
-    },
-    {
-      "title": "Galaxy S25 x Galaxy S26: confira o que mudou entre as gerações de celulares",
-      "slug": "galaxy-s25-x-galaxy-s26-confira-o-que-mudou-entre-as-geracoes-de-celulares",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T22:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411146-galaxy-s25-x-galaxy-s26-confira-o-que-mudou-entre-as-geracoes-de-celulares.htm"
-    },
-    {
-      "title": "Dona da Steam, Valve é processada por causa de loot boxes! Entenda o caso",
-      "slug": "dona-da-steam-valve-e-processada-por-causa-de-loot-boxes-entenda-o-caso",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-26T21:15:04.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503625-dona-da-steam-valve-e-processada-por-causa-de-loot-boxes-entenda-o-caso.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411160-whatsapp-finalmente-vai-permitir-agendar-o-envio-de-mensagens.htm"
     }
   ]
 }
