@@ -1,6 +1,6 @@
 {
-  "slug": "cassino-betmgm-guia-completo-para-jogar-no-brasil-com-seguranca",
-  "generated_at": "2026-02-28T15:07:36.378Z",
+  "slug": "livros-em-ofertas-na-amazon-novos-titulos-para-escolher-a-partir-de-rdollar8",
+  "generated_at": "2026-02-28T15:04:44.357Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 412,
+      "words": 309,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 1,
       "min": 3
     }
   ],

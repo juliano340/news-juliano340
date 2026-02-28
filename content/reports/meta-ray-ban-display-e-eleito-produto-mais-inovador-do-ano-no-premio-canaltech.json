@@ -1,7 +1,7 @@
 {
-  "slug": "cassino-betmgm-guia-completo-para-jogar-no-brasil-com-seguranca",
-  "generated_at": "2026-02-28T15:07:36.378Z",
-  "status": "WARN",
+  "slug": "meta-ray-ban-display-e-eleito-produto-mais-inovador-do-ano-no-premio-canaltech",
+  "generated_at": "2026-02-28T15:02:32.595Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 412,
+      "words": 341,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
