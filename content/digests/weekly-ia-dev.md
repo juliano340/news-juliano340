@@ -1,12 +1,10 @@
 # Weekly IA para Devs - 2026-02-28
 
-Gerado em 2026-02-28T11:06:50.870Z
+Gerado em 2026-02-28T13:04:46.009Z
 
-- [De salvador do Xbox One ao Game Pass: o legado de Phil Spencer após 12 anos](https://canaltech.com.br/games/de-salvador-do-xbox-one-ao-game-pass-o-legado-de-phil-spencer-apos-12-anos/) | topico: geral | score: 100
-- [Perplexity no Galaxy AI: como a integração vai funcionar nos celulares Samsung?](https://canaltech.com.br/apps/perplexity-no-galaxy-ai-como-a-integracao-vai-funcionar-nos-celulares-samsung/) | topico: agentes | score: 100
-- [AMD atinge maior percentual de votos da 9ª edição do Prêmio Canaltech](https://canaltech.com.br/hardware/amd-atinge-maior-percentual-de-votos-da-9a-edicao-do-premio-canaltech/) | topico: geral | score: 100
-- [Vale desligar a geladeira à noite em casas de praia ou sítio? Risco vs. economia](https://canaltech.com.br/eletro/vale-desligar-a-geladeira-a-noite-em-casas-de-praia-ou-sitio-risco-vs-economia/) | topico: produtividade-dev | score: 100
-- [Dá pra ter burnout jogando videogame? Entenda os riscos](https://canaltech.com.br/podcast/podcast-canaltech/da-pra-ter-burnout-jogando-videogame-entenda-os-riscos-6377/) | topico: geral | score: 100
-- [BetMGM: guia completo para usar a plataforma no Brasil](https://www.tecmundo.com.br/apostas/411154-betmgm-guia-completo-para-usar-a-plataforma-no-brasil.htm) | topico: agentes | score: 100
-- [Que fim levou a Telexfree, serviço de VoiP que se revelou esquema de pirâmide?](https://www.tecmundo.com.br/mercado/411016-que-fim-levou-a-telexfree-servico-de-voip-que-se-revelou-esquema-de-piramide.htm) | topico: geral | score: 92
-- [Marathon e mais jogos grátis para curtir o fim de semana no PC, consoles e mobile (27)](https://www.tecmundo.com.br/voxel/503650-marathon-e-mais-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-27.htm) | topico: geral | score: 92
+- [DualSense no PC: guia para configurar no Windows, Steam e emuladores](https://canaltech.com.br/games/dualsense-no-pc-guia-para-configurar-no-windows-steam-e-emuladores/) | topico: geral | score: 100
+- [Lava e seca de enchente tem conserto? Saiba o que fazer antes de ligar na tomada](https://canaltech.com.br/eletro/lava-e-seca-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/) | topico: agentes | score: 100
+- [5 carros para comprar por até R$ 100 mil melhores que muitos 0km](https://canaltech.com.br/carros/5-carros-para-comprar-por-ate-r-100-mil-melhores-que-muitos-0km/) | topico: geral | score: 100
+- [Fogão de enchente tem conserto? Saiba o que fazer antes de ligar na tomada](https://canaltech.com.br/eletro/fogao-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/) | topico: seguranca-ia | score: 100
+- [Leon morre em Resident Evil Requiem? Saiba quantos finais tem o jogo](https://www.tecmundo.com.br/voxel/503621-leon-morre-em-resident-evil-requiem-saiba-quantos-finais-tem-o-jogo.htm) | topico: geral | score: 92
+- [Burger King testa IA que avalia a cordialidade dos atendentes](https://www.tecmundo.com.br/mercado/411196-burger-king-testa-ia-que-avalia-a-cordialidade-dos-atendentes.htm) | topico: geral | score: 92

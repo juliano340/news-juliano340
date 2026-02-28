@@ -1,79 +1,61 @@
 {
-  "generated_at": "2026-02-28T11:06:50.870Z",
+  "generated_at": "2026-02-28T13:04:46.009Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 6,
   "posts": [
     {
-      "title": "De salvador do Xbox One ao Game Pass: o legado de Phil Spencer após 12 anos",
-      "slug": "de-salvador-do-xbox-one-ao-game-pass-o-legado-de-phil-spencer-apos-12-anos",
+      "title": "DualSense no PC: guia para configurar no Windows, Steam e emuladores",
+      "slug": "dualsense-no-pc-guia-para-configurar-no-windows-steam-e-emuladores",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-28T11:00:00.000Z",
+      "date": "2026-02-28T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/de-salvador-do-xbox-one-ao-game-pass-o-legado-de-phil-spencer-apos-12-anos/"
+      "original_url": "https://canaltech.com.br/games/dualsense-no-pc-guia-para-configurar-no-windows-steam-e-emuladores/"
     },
     {
-      "title": "Perplexity no Galaxy AI: como a integração vai funcionar nos celulares Samsung?",
-      "slug": "perplexity-no-galaxy-ai-como-a-integracao-vai-funcionar-nos-celulares-samsung",
+      "title": "Lava e seca de enchente tem conserto? Saiba o que fazer antes de ligar na tomada",
+      "slug": "lava-e-seca-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada",
       "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-02-28T10:30:00.000Z",
+      "date": "2026-02-28T12:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/perplexity-no-galaxy-ai-como-a-integracao-vai-funcionar-nos-celulares-samsung/"
+      "original_url": "https://canaltech.com.br/eletro/lava-e-seca-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/"
     },
     {
-      "title": "AMD atinge maior percentual de votos da 9ª edição do Prêmio Canaltech",
-      "slug": "amd-atinge-maior-percentual-de-votos-da-9a-edicao-do-premio-canaltech",
+      "title": "5 carros para comprar por até R$ 100 mil melhores que muitos 0km",
+      "slug": "5-carros-para-comprar-por-ate-rdollar-100-mil-melhores-que-muitos-0km",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-28T10:00:00.000Z",
+      "date": "2026-02-28T12:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/amd-atinge-maior-percentual-de-votos-da-9a-edicao-do-premio-canaltech/"
+      "original_url": "https://canaltech.com.br/carros/5-carros-para-comprar-por-ate-r-100-mil-melhores-que-muitos-0km/"
     },
     {
-      "title": "Vale desligar a geladeira à noite em casas de praia ou sítio? Risco vs. economia",
-      "slug": "vale-desligar-a-geladeira-a-noite-em-casas-de-praia-ou-sitio-risco-vs-economia",
-      "topic": "produtividade-dev",
+      "title": "Fogão de enchente tem conserto? Saiba o que fazer antes de ligar na tomada",
+      "slug": "fogao-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada",
+      "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-02-28T09:30:00.000Z",
+      "date": "2026-02-28T11:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/vale-desligar-a-geladeira-a-noite-em-casas-de-praia-ou-sitio-risco-vs-economia/"
+      "original_url": "https://canaltech.com.br/eletro/fogao-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/"
     },
     {
-      "title": "Dá pra ter burnout jogando videogame? Entenda os riscos",
-      "slug": "da-pra-ter-burnout-jogando-videogame-entenda-os-riscos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-28T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/da-pra-ter-burnout-jogando-videogame-entenda-os-riscos-6377/"
-    },
-    {
-      "title": "BetMGM: guia completo para usar a plataforma no Brasil",
-      "slug": "betmgm-guia-completo-para-usar-a-plataforma-no-brasil",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-02-28T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/411154-betmgm-guia-completo-para-usar-a-plataforma-no-brasil.htm"
-    },
-    {
-      "title": "Que fim levou a Telexfree, serviço de VoiP que se revelou esquema de pirâmide?",
-      "slug": "que-fim-levou-a-telexfree-servico-de-voip-que-se-revelou-esquema-de-piramide",
+      "title": "Leon morre em Resident Evil Requiem? Saiba quantos finais tem o jogo",
+      "slug": "leon-morre-em-resident-evil-requiem-saiba-quantos-finais-tem-o-jogo",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-28T11:00:00.000Z",
+      "date": "2026-02-28T12:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411016-que-fim-levou-a-telexfree-servico-de-voip-que-se-revelou-esquema-de-piramide.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503621-leon-morre-em-resident-evil-requiem-saiba-quantos-finais-tem-o-jogo.htm"
     },
     {
-      "title": "Marathon e mais jogos grátis para curtir o fim de semana no PC, consoles e mobile (27)",
-      "slug": "marathon-e-mais-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-27",
+      "title": "Burger King testa IA que avalia a cordialidade dos atendentes",
+      "slug": "burger-king-testa-ia-que-avalia-a-cordialidade-dos-atendentes",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-28T10:15:00.000Z",
+      "date": "2026-02-28T12:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503650-marathon-e-mais-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-27.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411196-burger-king-testa-ia-que-avalia-a-cordialidade-dos-atendentes.htm"
     }
   ]
 }
