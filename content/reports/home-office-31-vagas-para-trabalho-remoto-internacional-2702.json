@@ -1,7 +1,7 @@
 {
-  "slug": "mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips",
-  "generated_at": "2026-02-28T01:00:51.388Z",
-  "status": "PASS",
+  "slug": "home-office-31-vagas-para-trabalho-remoto-internacional-2702",
+  "generated_at": "2026-02-28T01:03:52.493Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -19,10 +19,46 @@
     },
     {
       "id": "watch_bullets",
+      "status": "FAIL",
+      "level": "WARN",
+      "reason": "observacao_sem_3_a_5_bullets",
+      "bullets": 0
+    },
+    {
+      "id": "faq_count",
       "status": "PASS",
       "level": "BLOCK",
-      "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "reason": "faq_job_roundup_insuficiente",
+      "count": 4,
+      "min": 4
+    },
+    {
+      "id": "non_duplicate_sections",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "secoes_duplicadas"
+    },
+    {
+      "id": "job_roundup_boilerplate",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "boilerplate_inadequado_para_job_roundup"
+    },
+    {
+      "id": "job_roundup_highlights_count",
+      "status": "PASS",
+      "level": "WARN",
+      "reason": "destaques_insuficientes_no_job_roundup",
+      "count": 6,
+      "min": 6
+    },
+    {
+      "id": "job_roundup_highlights_examples",
+      "status": "FAIL",
+      "level": "WARN",
+      "reason": "destaques_sem_exemplos_suficientes",
+      "count": 0,
+      "min": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +71,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 427,
       "min": 220
     },
     {
@@ -43,7 +79,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "estrutura_com_poucos_paragrafos",
-      "paragraphs": 9,
+      "paragraphs": 13,
       "min": 5
     },
     {
@@ -84,16 +120,20 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 2,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "observacao_sem_3_a_5_bullets",
+    "destaques_sem_exemplos_suficientes",
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 83,
   "metadata": {
     "status": "PASS",
     "checks": [

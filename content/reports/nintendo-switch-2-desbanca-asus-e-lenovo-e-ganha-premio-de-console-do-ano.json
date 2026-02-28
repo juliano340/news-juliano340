@@ -1,6 +1,6 @@
 {
-  "slug": "mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips",
-  "generated_at": "2026-02-28T01:00:51.388Z",
+  "slug": "nintendo-switch-2-desbanca-asus-e-lenovo-e-ganha-premio-de-console-do-ano",
+  "generated_at": "2026-02-28T01:02:07.168Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 345,
       "min": 220
     },
     {

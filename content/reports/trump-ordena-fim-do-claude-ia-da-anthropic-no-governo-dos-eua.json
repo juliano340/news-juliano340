@@ -1,6 +1,6 @@
 {
-  "slug": "mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips",
-  "generated_at": "2026-02-28T01:00:51.388Z",
+  "slug": "trump-ordena-fim-do-claude-ia-da-anthropic-no-governo-dos-eua",
+  "generated_at": "2026-02-28T01:04:58.186Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 289,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips",
-  "generated_at": "2026-02-28T01:00:51.388Z",
+  "slug": "pc-fraco-saiba-como-otimizar-as-configuracoes-graficas-de-resident-evil-requiem",
+  "generated_at": "2026-02-28T01:02:59.480Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 476,
       "min": 220
     },
     {

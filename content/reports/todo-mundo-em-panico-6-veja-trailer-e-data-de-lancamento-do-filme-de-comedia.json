@@ -1,6 +1,6 @@
 {
   "slug": "todo-mundo-em-panico-6-veja-trailer-e-data-de-lancamento-do-filme-de-comedia",
-  "generated_at": "2026-02-27T23:10:58.123Z",
+  "generated_at": "2026-02-28T01:06:03.368Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 309,
+      "words": 367,
       "min": 220
     },
     {
