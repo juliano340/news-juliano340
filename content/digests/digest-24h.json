@@ -1,43 +1,52 @@
 {
-  "generated_at": "2026-02-28T19:05:23.871Z",
+  "generated_at": "2026-02-28T21:03:05.266Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 5,
   "posts": [
     {
-      "title": "TV de enchente tem conserto? Saiba o que fazer antes de ligar na tomada",
-      "slug": "tv-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada",
-      "topic": "seguranca-ia",
+      "title": "Pode instalar ar-condicionado na cozinha? Veja o que pode dar problema",
+      "slug": "pode-instalar-ar-condicionado-na-cozinha-veja-o-que-pode-dar-problema",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-28T18:00:00.000Z",
+      "date": "2026-02-28T21:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tv/tv-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/"
+      "original_url": "https://canaltech.com.br/eletro/pode-instalar-ar-condicionado-na-cozinha-veja-o-que-pode-dar-problema/"
     },
     {
-      "title": "Dia D e outros filmes sobre alienígenas de Spielberg",
-      "slug": "dia-d-e-outros-filmes-sobre-alienigenas-de-spielberg",
+      "title": "O que é um carro de tração traseira?",
+      "slug": "o-que-e-um-carro-de-tracao-traseira",
       "topic": "geral",
-      "source": "Tecmundo",
+      "source": "Canaltech",
+      "date": "2026-02-28T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/o-que-e-um-carro-de-tracao-traseira/"
+    },
+    {
+      "title": "Fone Bluetooth em jogos: por que o áudio atrasa e como reduzir a latência",
+      "slug": "fone-bluetooth-em-jogos-por-que-o-audio-atrasa-e-como-reduzir-a-latencia",
+      "topic": "geral",
+      "source": "Canaltech",
       "date": "2026-02-28T19:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603195-dia-d-e-outros-filmes-sobre-alienigenas-de-spielberg.htm"
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/fone-bluetooth-em-jogos-por-que-o-audio-atrasa-e-como-reduzir-a-latencia/"
     },
     {
-      "title": "Carros elétricos vivem boom no Brasil — a próxima onda é sobre duas rodas",
-      "slug": "carros-eletricos-vivem-boom-no-brasil-a-proxima-onda-e-sobre-duas-rodas",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-28T18:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/transportes/411204-carros-eletricos-vivem-boom-no-brasil-a-proxima-onda-e-sobre-duas-rodas.htm"
-    },
-    {
-      "title": "Xbox Game Pass recebe novos jogos esta semana! Confira os lançamentos (28)",
-      "slug": "xbox-game-pass-recebe-novos-jogos-esta-semana-confira-os-lancamentos-28",
+      "title": "Netflix recebe One Piece e mais lançamentos de peso em março! Veja lista de estreias",
+      "slug": "netflix-recebe-one-piece-e-mais-lancamentos-de-peso-em-marco-veja-lista-de-estreias",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-28T17:15:00.000Z",
+      "date": "2026-02-28T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603228-netflix-recebe-one-piece-e-mais-lancamentos-de-peso-em-marco-veja-lista-de-estreias.htm"
+    },
+    {
+      "title": "Resident Evil Requiem: 10 easter eggs e curiosidades que são uma surra de nostalgia para os fãs",
+      "slug": "resident-evil-requiem-10-easter-eggs-e-curiosidades-que-sao-uma-surra-de-nostalgia-para-os-fas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-28T20:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503630-xbox-game-pass-recebe-novos-jogos-esta-semana-confira-os-lancamentos-28.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503638-resident-evil-requiem-10-easter-eggs-e-curiosidades-que-sao-uma-surra-de-nostalgia-para-os-fas.htm"
     }
   ]
 }

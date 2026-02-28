@@ -1,6 +1,6 @@
 {
-  "slug": "fone-bluetooth-em-jogos-por-que-o-audio-atrasa-e-como-reduzir-a-latencia",
-  "generated_at": "2026-02-28T21:01:58.742Z",
+  "slug": "o-que-e-um-carro-de-tracao-traseira",
+  "generated_at": "2026-02-28T21:01:19.507Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 449,
+      "words": 258,
       "min": 220
     },
     {
