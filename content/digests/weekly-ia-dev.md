@@ -1,8 +1,12 @@
 # Weekly IA para Devs - 2026-02-28
 
-Gerado em 2026-02-28T09:03:20.440Z
+Gerado em 2026-02-28T11:06:50.870Z
 
-- [Samsung vence 8 categorias e lidera novamente o Prêmio Canaltech](https://canaltech.com.br/produtos/samsung-vence-8-categorias-e-lidera-novamente-o-premio-canaltech/) | topico: produtividade-dev | score: 92
-- [Rebelião contra a IA começa na base de Trump e pode chegar ao Brasil](https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/02/28/rebeliao-contra-a-ia-comeca-na-base-de-trump-e-pode-chegar-ao-brasil.htm) | topico: geral | score: 100
-- [Qual é a fase da Lua hoje (28)? Veja calendário lunar de fevereiro de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/02/28/qual-e-a-fase-da-lua-hoje-28-veja-calendario-lunar-de-fevereiro-de-2026.htm) | topico: geral | score: 100
-- [Quem é o CEO da Anthropic que gerou tensão com Donald Trump e o Pentágono](https://www.uol.com.br/tilt/noticias/redacao/2026/02/28/quem-e-o-ceo-da-anthropic-que-gerou-tensao-com-donald-trump-e-o-pentagono.htm) | topico: llms | score: 100
+- [De salvador do Xbox One ao Game Pass: o legado de Phil Spencer após 12 anos](https://canaltech.com.br/games/de-salvador-do-xbox-one-ao-game-pass-o-legado-de-phil-spencer-apos-12-anos/) | topico: geral | score: 100
+- [Perplexity no Galaxy AI: como a integração vai funcionar nos celulares Samsung?](https://canaltech.com.br/apps/perplexity-no-galaxy-ai-como-a-integracao-vai-funcionar-nos-celulares-samsung/) | topico: agentes | score: 100
+- [AMD atinge maior percentual de votos da 9ª edição do Prêmio Canaltech](https://canaltech.com.br/hardware/amd-atinge-maior-percentual-de-votos-da-9a-edicao-do-premio-canaltech/) | topico: geral | score: 100
+- [Vale desligar a geladeira à noite em casas de praia ou sítio? Risco vs. economia](https://canaltech.com.br/eletro/vale-desligar-a-geladeira-a-noite-em-casas-de-praia-ou-sitio-risco-vs-economia/) | topico: produtividade-dev | score: 100
+- [Dá pra ter burnout jogando videogame? Entenda os riscos](https://canaltech.com.br/podcast/podcast-canaltech/da-pra-ter-burnout-jogando-videogame-entenda-os-riscos-6377/) | topico: geral | score: 100
+- [BetMGM: guia completo para usar a plataforma no Brasil](https://www.tecmundo.com.br/apostas/411154-betmgm-guia-completo-para-usar-a-plataforma-no-brasil.htm) | topico: agentes | score: 100
+- [Que fim levou a Telexfree, serviço de VoiP que se revelou esquema de pirâmide?](https://www.tecmundo.com.br/mercado/411016-que-fim-levou-a-telexfree-servico-de-voip-que-se-revelou-esquema-de-piramide.htm) | topico: geral | score: 92
+- [Marathon e mais jogos grátis para curtir o fim de semana no PC, consoles e mobile (27)](https://www.tecmundo.com.br/voxel/503650-marathon-e-mais-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-27.htm) | topico: geral | score: 92
