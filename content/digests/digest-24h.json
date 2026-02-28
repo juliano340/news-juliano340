@@ -1,52 +1,34 @@
 {
-  "generated_at": "2026-02-28T21:03:05.266Z",
+  "generated_at": "2026-02-28T23:02:10.829Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 3,
   "posts": [
     {
-      "title": "Pode instalar ar-condicionado na cozinha? Veja o que pode dar problema",
-      "slug": "pode-instalar-ar-condicionado-na-cozinha-veja-o-que-pode-dar-problema",
+      "title": "Qual é a diferença real entre TV digital atual e TV 3.0?",
+      "slug": "qual-e-a-diferenca-real-entre-tv-digital-atual-e-tv-30",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-02-28T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/telecom/qual-e-a-diferenca-real-entre-tv-digital-atual-e-tv-30/"
+    },
+    {
+      "title": "Quanto um chuveiro elétrico pesa na conta de luz? Fizemos as contas",
+      "slug": "quanto-um-chuveiro-eletrico-pesa-na-conta-de-luz-fizemos-as-contas",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-28T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/pode-instalar-ar-condicionado-na-cozinha-veja-o-que-pode-dar-problema/"
-    },
-    {
-      "title": "O que é um carro de tração traseira?",
-      "slug": "o-que-e-um-carro-de-tracao-traseira",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-28T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/o-que-e-um-carro-de-tracao-traseira/"
-    },
-    {
-      "title": "Fone Bluetooth em jogos: por que o áudio atrasa e como reduzir a latência",
-      "slug": "fone-bluetooth-em-jogos-por-que-o-audio-atrasa-e-como-reduzir-a-latencia",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-28T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/fone-bluetooth-em-jogos-por-que-o-audio-atrasa-e-como-reduzir-a-latencia/"
-    },
-    {
-      "title": "Netflix recebe One Piece e mais lançamentos de peso em março! Veja lista de estreias",
-      "slug": "netflix-recebe-one-piece-e-mais-lancamentos-de-peso-em-marco-veja-lista-de-estreias",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-28T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603228-netflix-recebe-one-piece-e-mais-lancamentos-de-peso-em-marco-veja-lista-de-estreias.htm"
-    },
-    {
-      "title": "Resident Evil Requiem: 10 easter eggs e curiosidades que são uma surra de nostalgia para os fãs",
-      "slug": "resident-evil-requiem-10-easter-eggs-e-curiosidades-que-sao-uma-surra-de-nostalgia-para-os-fas",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-28T20:00:00.000Z",
+      "date": "2026-02-28T22:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503638-resident-evil-requiem-10-easter-eggs-e-curiosidades-que-sao-uma-surra-de-nostalgia-para-os-fas.htm"
+      "original_url": "https://canaltech.com.br/eletro/quanto-um-chuveiro-eletrico-pesa-na-conta-de-luz-fizemos-as-contas/"
+    },
+    {
+      "title": "Nos cinemas: 10 melhores filmes que serão lançados em março de 2026",
+      "slug": "nos-cinemas-10-melhores-filmes-que-serao-lancados-em-marco-de-2026",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-28T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603231-nos-cinemas-10-melhores-filmes-que-serao-lancados-em-marco-de-2026.htm"
     }
   ]
 }

@@ -1,9 +1,7 @@
 # Weekly IA para Devs - 2026-02-28
 
-Gerado em 2026-02-28T21:03:05.266Z
+Gerado em 2026-02-28T23:02:10.829Z
 
-- [Pode instalar ar-condicionado na cozinha? Veja o que pode dar problema](https://canaltech.com.br/eletro/pode-instalar-ar-condicionado-na-cozinha-veja-o-que-pode-dar-problema/) | topico: produtividade-dev | score: 100
-- [O que é um carro de tração traseira?](https://canaltech.com.br/carros/o-que-e-um-carro-de-tracao-traseira/) | topico: geral | score: 100
-- [Fone Bluetooth em jogos: por que o áudio atrasa e como reduzir a latência](https://canaltech.com.br/hardware/fone-bluetooth-em-jogos-por-que-o-audio-atrasa-e-como-reduzir-a-latencia/) | topico: geral | score: 100
-- [Netflix recebe One Piece e mais lançamentos de peso em março! Veja lista de estreias](https://www.tecmundo.com.br/minha-serie/603228-netflix-recebe-one-piece-e-mais-lancamentos-de-peso-em-marco-veja-lista-de-estreias.htm) | topico: geral | score: 100
-- [Resident Evil Requiem: 10 easter eggs e curiosidades que são uma surra de nostalgia para os fãs](https://www.tecmundo.com.br/voxel/503638-resident-evil-requiem-10-easter-eggs-e-curiosidades-que-sao-uma-surra-de-nostalgia-para-os-fas.htm) | topico: geral | score: 92
+- [Qual é a diferença real entre TV digital atual e TV 3.0?](https://canaltech.com.br/telecom/qual-e-a-diferenca-real-entre-tv-digital-atual-e-tv-30/) | topico: geral | score: 100
+- [Quanto um chuveiro elétrico pesa na conta de luz? Fizemos as contas](https://canaltech.com.br/eletro/quanto-um-chuveiro-eletrico-pesa-na-conta-de-luz-fizemos-as-contas/) | topico: produtividade-dev | score: 92
+- [Nos cinemas: 10 melhores filmes que serão lançados em março de 2026](https://www.tecmundo.com.br/minha-serie/603231-nos-cinemas-10-melhores-filmes-que-serao-lancados-em-marco-de-2026.htm) | topico: geral | score: 100
