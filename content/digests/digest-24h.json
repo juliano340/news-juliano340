@@ -1,70 +1,43 @@
 {
-  "generated_at": "2026-02-28T17:05:21.406Z",
+  "generated_at": "2026-02-28T19:05:23.871Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 4,
   "posts": [
     {
-      "title": "Tecnologia da Anatel ajuda a orientar resgates após desastre em Minas Gerais",
-      "slug": "tecnologia-da-anatel-ajuda-a-orientar-resgates-apos-desastre-em-minas-gerais",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-02-28T15:28:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/tecnologia-da-anatel-ajuda-a-orientar-resgates-apos-desastre-em-minas-gerais/"
-    },
-    {
-      "title": "Como funciona o app Vivo TV? Veja os preços, recursos e canais",
-      "slug": "como-funciona-o-app-vivo-tv-veja-os-precos-recursos-e-canais",
-      "topic": "geral",
+      "title": "TV de enchente tem conserto? Saiba o que fazer antes de ligar na tomada",
+      "slug": "tv-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada",
+      "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-02-28T17:00:00.000Z",
+      "date": "2026-02-28T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-funciona-o-app-vivo-tv-veja-os-precos-recursos-e-canais/"
+      "original_url": "https://canaltech.com.br/tv/tv-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/"
     },
     {
-      "title": "Como novos malwares usam matemática e o seu mouse para espionar em silêncio",
-      "slug": "como-novos-malwares-usam-matematica-e-o-seu-mouse-para-espionar-em-silencio",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-28T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/como-novos-malwares-usam-matematica-e-o-seu-mouse-para-espionar-em-silencio/"
-    },
-    {
-      "title": "Um ano de Pix por aproximação: por que serviço ainda não é popular?",
-      "slug": "um-ano-de-pix-por-aproximacao-por-que-servico-ainda-nao-e-popular",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-28T13:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/um-ano-de-pix-por-aproximacao-por-que-servico-ainda-nao-e-popular/"
-    },
-    {
-      "title": "Hackers pró-Irã se unem em ciberguerra contra EUA e Israel",
-      "slug": "hackers-pro-ira-se-unem-em-ciberguerra-contra-eua-e-israel",
+      "title": "Dia D e outros filmes sobre alienígenas de Spielberg",
+      "slug": "dia-d-e-outros-filmes-sobre-alienigenas-de-spielberg",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-28T16:27:34.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411215-hackers-pro-ira-se-unem-em-ciberguerra-contra-eua-e-israel.htm"
-    },
-    {
-      "title": "Por onde anda Isaac Hempstead Wright, o Bran de Game of Thrones",
-      "slug": "por-onde-anda-isaac-hempstead-wright-o-bran-de-game-of-thrones",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-28T15:15:00.000Z",
+      "date": "2026-02-28T19:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603233-por-onde-anda-isaac-hempstead-wright-o-bran-de-game-of-thrones.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603195-dia-d-e-outros-filmes-sobre-alienigenas-de-spielberg.htm"
     },
     {
-      "title": "Cadeiras gamer Husky, monitores, caixa de som e mais da marca com até 37% no KaBuM!",
-      "slug": "cadeiras-gamer-husky-monitores-caixa-de-som-e-mais-da-marca-com-ate-37percent-no-kabum",
+      "title": "Carros elétricos vivem boom no Brasil — a próxima onda é sobre duas rodas",
+      "slug": "carros-eletricos-vivem-boom-no-brasil-a-proxima-onda-e-sobre-duas-rodas",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-02-28T18:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/transportes/411204-carros-eletricos-vivem-boom-no-brasil-a-proxima-onda-e-sobre-duas-rodas.htm"
+    },
+    {
+      "title": "Xbox Game Pass recebe novos jogos esta semana! Confira os lançamentos (28)",
+      "slug": "xbox-game-pass-recebe-novos-jogos-esta-semana-confira-os-lancamentos-28",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-28T15:06:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503647-cadeiras-gamer-husky-monitores-caixa-de-som-e-mais-da-marca-com-ate-37-no-kabum.htm"
+      "date": "2026-02-28T17:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503630-xbox-game-pass-recebe-novos-jogos-esta-semana-confira-os-lancamentos-28.htm"
     }
   ]
 }
