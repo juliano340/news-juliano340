@@ -1,79 +1,43 @@
 {
-  "generated_at": "2026-02-28T01:06:05.432Z",
+  "generated_at": "2026-02-28T09:03:20.440Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 4,
   "posts": [
     {
-      "title": "Mercado de smartphones deve despencar, impactado por crise dos chips",
-      "slug": "mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-02-27T19:42:49.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips/"
-    },
-    {
-      "title": "Monster Hunter Stories 3, Pokopia e mais lançamentos em março de 2026",
-      "slug": "monster-hunter-stories-3-pokopia-e-mais-lancamentos-em-marco-de-2026",
-      "topic": "geral",
+      "title": "Samsung vence 8 categorias e lidera novamente o Prêmio Canaltech",
+      "slug": "samsung-vence-8-categorias-e-lidera-novamente-o-premio-canaltech",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-02-28T00:15:00.000Z",
+      "date": "2026-02-28T09:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/lancamentos-jogos-novos-marco-2026/"
+      "original_url": "https://canaltech.com.br/produtos/samsung-vence-8-categorias-e-lidera-novamente-o-premio-canaltech/"
     },
     {
-      "title": "Nintendo Switch 2 desbanca ASUS e Lenovo e ganha prêmio de Console do Ano",
-      "slug": "nintendo-switch-2-desbanca-asus-e-lenovo-e-ganha-premio-de-console-do-ano",
+      "title": "Rebelião contra a IA começa na base de Trump e pode chegar ao Brasil",
+      "slug": "rebeliao-contra-a-ia-comeca-na-base-de-trump-e-pode-chegar-ao-brasil",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-28T00:00:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-28T08:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/nintendo-switch-2-desbanca-asus-e-lenovo-e-ganha-premio-de-console-do-ano/"
+      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/02/28/rebeliao-contra-a-ia-comeca-na-base-de-trump-e-pode-chegar-ao-brasil.htm"
     },
     {
-      "title": "PC fraco? Saiba como otimizar as configurações gráficas de Resident Evil Requiem",
-      "slug": "pc-fraco-saiba-como-otimizar-as-configuracoes-graficas-de-resident-evil-requiem",
+      "title": "Qual é a fase da Lua hoje (28)? Veja calendário lunar de fevereiro de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-28-veja-calendario-lunar-de-fevereiro-de-2026",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-02-27T23:35:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-28T08:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/pc-fraco-saiba-como-otimizar-as-configuracoes-graficas-de-resident-evil-requiem/"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/28/qual-e-a-fase-da-lua-hoje-28-veja-calendario-lunar-de-fevereiro-de-2026.htm"
     },
     {
-      "title": "Home office: 31 vagas para trabalho remoto internacional [27/02]",
-      "slug": "home-office-31-vagas-para-trabalho-remoto-internacional-2702",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T23:30:00.000Z",
-      "editorial_score": 83,
-      "original_url": "https://www.tecmundo.com.br/mercado/411201-home-office-31-vagas-para-trabalho-remoto-internacional-2702.htm"
-    },
-    {
-      "title": "Dona do Claude se recusa a liberar uso total da IA para governo dos EUA",
-      "slug": "dona-do-claude-se-recusa-a-liberar-uso-total-da-ia-para-governo-dos-eua",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T23:19:58.000Z",
+      "title": "Quem é o CEO da Anthropic que gerou tensão com Donald Trump e o Pentágono",
+      "slug": "quem-e-o-ceo-da-anthropic-que-gerou-tensao-com-donald-trump-e-o-pentagono",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-02-28T08:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411213-dona-do-claude-se-recusa-a-liberar-uso-total-da-ia-para-governo-dos-eua.htm"
-    },
-    {
-      "title": "Trump ordena fim do Claude, IA da Anthropic, no governo dos EUA",
-      "slug": "trump-ordena-fim-do-claude-ia-da-anthropic-no-governo-dos-eua",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T23:17:09.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411214-trump-ordena-fim-do-claude-ia-da-anthropic-no-governo-dos-eua.htm"
-    },
-    {
-      "title": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (27)",
-      "slug": "steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-27",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-27T23:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503649-steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-27.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/02/28/quem-e-o-ceo-da-anthropic-que-gerou-tensao-com-donald-trump-e-o-pentagono.htm"
     }
   ]
 }

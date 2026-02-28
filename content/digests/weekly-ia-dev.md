@@ -1,12 +1,8 @@
 # Weekly IA para Devs - 2026-02-28
 
-Gerado em 2026-02-28T01:06:05.432Z
+Gerado em 2026-02-28T09:03:20.440Z
 
-- [Mercado de smartphones deve despencar, impactado por crise dos chips](https://tecnoblog.net/noticias/mercado-de-smartphones-deve-despencar-impactado-por-crise-dos-chips/) | topico: geral | score: 100
-- [Monster Hunter Stories 3, Pokopia e mais lançamentos em março de 2026](https://canaltech.com.br/games/lancamentos-jogos-novos-marco-2026/) | topico: geral | score: 92
-- [Nintendo Switch 2 desbanca ASUS e Lenovo e ganha prêmio de Console do Ano](https://canaltech.com.br/games/nintendo-switch-2-desbanca-asus-e-lenovo-e-ganha-premio-de-console-do-ano/) | topico: geral | score: 100
-- [PC fraco? Saiba como otimizar as configurações gráficas de Resident Evil Requiem](https://canaltech.com.br/games/pc-fraco-saiba-como-otimizar-as-configuracoes-graficas-de-resident-evil-requiem/) | topico: geral | score: 100
-- [Home office: 31 vagas para trabalho remoto internacional [27/02]](https://www.tecmundo.com.br/mercado/411201-home-office-31-vagas-para-trabalho-remoto-internacional-2702.htm) | topico: geral | score: 83
-- [Dona do Claude se recusa a liberar uso total da IA para governo dos EUA](https://www.tecmundo.com.br/mercado/411213-dona-do-claude-se-recusa-a-liberar-uso-total-da-ia-para-governo-dos-eua.htm) | topico: geral | score: 100
-- [Trump ordena fim do Claude, IA da Anthropic, no governo dos EUA](https://www.tecmundo.com.br/mercado/411214-trump-ordena-fim-do-claude-ia-da-anthropic-no-governo-dos-eua.htm) | topico: geral | score: 100
-- [Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (27)](https://www.tecmundo.com.br/voxel/503649-steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-27.htm) | topico: geral | score: 92
+- [Samsung vence 8 categorias e lidera novamente o Prêmio Canaltech](https://canaltech.com.br/produtos/samsung-vence-8-categorias-e-lidera-novamente-o-premio-canaltech/) | topico: produtividade-dev | score: 92
+- [Rebelião contra a IA começa na base de Trump e pode chegar ao Brasil](https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/02/28/rebeliao-contra-a-ia-comeca-na-base-de-trump-e-pode-chegar-ao-brasil.htm) | topico: geral | score: 100
+- [Qual é a fase da Lua hoje (28)? Veja calendário lunar de fevereiro de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/02/28/qual-e-a-fase-da-lua-hoje-28-veja-calendario-lunar-de-fevereiro-de-2026.htm) | topico: geral | score: 100
+- [Quem é o CEO da Anthropic que gerou tensão com Donald Trump e o Pentágono](https://www.uol.com.br/tilt/noticias/redacao/2026/02/28/quem-e-o-ceo-da-anthropic-que-gerou-tensao-com-donald-trump-e-o-pentagono.htm) | topico: llms | score: 100
