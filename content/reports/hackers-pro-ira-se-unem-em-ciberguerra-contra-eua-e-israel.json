@@ -1,6 +1,6 @@
 {
-  "slug": "um-ano-de-pix-por-aproximacao-por-que-servico-ainda-nao-e-popular",
-  "generated_at": "2026-02-28T17:03:53.467Z",
+  "slug": "hackers-pro-ira-se-unem-em-ciberguerra-contra-eua-e-israel",
+  "generated_at": "2026-02-28T17:04:24.380Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 327,
+      "words": 284,
       "min": 220
     },
     {

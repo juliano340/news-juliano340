@@ -1,88 +1,70 @@
 {
-  "generated_at": "2026-02-28T15:07:38.607Z",
+  "generated_at": "2026-02-28T17:05:21.406Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 7,
   "posts": [
     {
-      "title": "Xiaomi lança o Xiaomi 17 Ultra e promete o “mestre” da fotografia noturna",
-      "slug": "xiaomi-lanca-o-xiaomi-17-ultra-e-promete-o-mestre-da-fotografia-noturna",
+      "title": "Tecnologia da Anatel ajuda a orientar resgates após desastre em Minas Gerais",
+      "slug": "tecnologia-da-anatel-ajuda-a-orientar-resgates-apos-desastre-em-minas-gerais",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-02-28T14:30:00.000Z",
+      "date": "2026-02-28T15:28:23.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/xiaomi-lanca-o-xiaomi-17-ultra-e-promete-o-mestre-da-fotografia-noturna/"
+      "original_url": "https://tecnoblog.net/noticias/tecnologia-da-anatel-ajuda-a-orientar-resgates-apos-desastre-em-minas-gerais/"
     },
     {
-      "title": "Motoristas de carros elétrico não sentem falta do motor a combustão, diz estudo",
-      "slug": "motoristas-de-carros-eletrico-nao-sentem-falta-do-motor-a-combustao-diz-estudo",
+      "title": "Como funciona o app Vivo TV? Veja os preços, recursos e canais",
+      "slug": "como-funciona-o-app-vivo-tv-veja-os-precos-recursos-e-canais",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-28T15:00:00.000Z",
+      "date": "2026-02-28T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/motoristas-de-carros-eletrico-nao-sentem-falta-do-motor-a-combustao-diz-estudo/"
+      "original_url": "https://canaltech.com.br/apps/como-funciona-o-app-vivo-tv-veja-os-precos-recursos-e-canais/"
     },
     {
-      "title": "Meta Ray-Ban Display é eleito produto mais inovador do ano no Prêmio Canaltech",
-      "slug": "meta-ray-ban-display-e-eleito-produto-mais-inovador-do-ano-no-premio-canaltech",
+      "title": "Como novos malwares usam matemática e o seu mouse para espionar em silêncio",
+      "slug": "como-novos-malwares-usam-matematica-e-o-seu-mouse-para-espionar-em-silencio",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-28T14:30:00.000Z",
+      "date": "2026-02-28T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/meta-ray-ban-display-e-eleito-produto-mais-inovador-do-ano-no-premio-canaltech/"
+      "original_url": "https://canaltech.com.br/seguranca/como-novos-malwares-usam-matematica-e-o-seu-mouse-para-espionar-em-silencio/"
     },
     {
-      "title": "Promoções e gift cards: como economizar no PlayStation sem cair em golpe",
-      "slug": "promocoes-e-gift-cards-como-economizar-no-playstation-sem-cair-em-golpe",
+      "title": "Um ano de Pix por aproximação: por que serviço ainda não é popular?",
+      "slug": "um-ano-de-pix-por-aproximacao-por-que-servico-ainda-nao-e-popular",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-02-28T14:00:00.000Z",
+      "date": "2026-02-28T13:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/promocoes-e-gift-cards-como-economizar-no-playstation-sem-cair-em-golpe/"
+      "original_url": "https://canaltech.com.br/mercado/um-ano-de-pix-por-aproximacao-por-que-servico-ainda-nao-e-popular/"
     },
     {
-      "title": "Livros em ofertas na Amazon: novos títulos para escolher a partir de R$8",
-      "slug": "livros-em-ofertas-na-amazon-novos-titulos-para-escolher-a-partir-de-rdollar8",
-      "topic": "frameworks",
+      "title": "Hackers pró-Irã se unem em ciberguerra contra EUA e Israel",
+      "slug": "hackers-pro-ira-se-unem-em-ciberguerra-contra-eua-e-israel",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-28T14:09:00.000Z",
+      "date": "2026-02-28T16:27:34.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411215-hackers-pro-ira-se-unem-em-ciberguerra-contra-eua-e-israel.htm"
+    },
+    {
+      "title": "Por onde anda Isaac Hempstead Wright, o Bran de Game of Thrones",
+      "slug": "por-onde-anda-isaac-hempstead-wright-o-bran-de-game-of-thrones",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-02-28T15:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411211-livros-em-ofertas-na-amazon-novos-titulos-para-escolher-a-partir-de-r8.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603233-por-onde-anda-isaac-hempstead-wright-o-bran-de-game-of-thrones.htm"
     },
     {
-      "title": "A Plague Tale: Requiem e mais jogos para PC com até 94% OFF na Steam",
-      "slug": "a-plague-tale-requiem-e-mais-jogos-para-pc-com-ate-94percent-off-na-steam",
+      "title": "Cadeiras gamer Husky, monitores, caixa de som e mais da marca com até 37% no KaBuM!",
+      "slug": "cadeiras-gamer-husky-monitores-caixa-de-som-e-mais-da-marca-com-ate-37percent-no-kabum",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-02-28T14:00:00.000Z",
+      "date": "2026-02-28T15:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503652-a-plague-tale-requiem-e-mais-jogos-para-pc-com-ate-94-off-na-steam.htm"
-    },
-    {
-      "title": "Os favoritos de fevereiro na Netshoes: tênis, camisetas e outros artigos esportivos com desconto",
-      "slug": "os-favoritos-de-fevereiro-na-netshoes-tenis-camisetas-e-outros-artigos-esportivos-com-desconto",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-02-28T13:06:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411180-os-favoritos-de-fevereiro-na-netshoes-tenis-camisetas-e-outros-artigos-esportivos-com-desconto.htm"
-    },
-    {
-      "title": "Sem comunicação, a inovação não escala",
-      "slug": "sem-comunicacao-a-inovacao-nao-escala",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-02-28T13:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411086-sem-comunicacao-a-inovacao-nao-escala.htm"
-    },
-    {
-      "title": "Cassino BetMGM: guia completo para jogar no Brasil com segurança",
-      "slug": "cassino-betmgm-guia-completo-para-jogar-no-brasil-com-seguranca",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-02-28T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411155-cassino-betmgm-guia-completo-para-jogar-no-brasil-com-seguranca.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503647-cadeiras-gamer-husky-monitores-caixa-de-som-e-mais-da-marca-com-ate-37-no-kabum.htm"
     }
   ]
 }

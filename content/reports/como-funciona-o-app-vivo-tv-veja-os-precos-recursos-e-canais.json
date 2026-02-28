@@ -1,6 +1,6 @@
 {
-  "slug": "um-ano-de-pix-por-aproximacao-por-que-servico-ainda-nao-e-popular",
-  "generated_at": "2026-02-28T17:03:53.467Z",
+  "slug": "como-funciona-o-app-vivo-tv-veja-os-precos-recursos-e-canais",
+  "generated_at": "2026-02-28T17:01:46.494Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 327,
+      "words": 282,
       "min": 220
     },
     {
