@@ -1,43 +1,70 @@
 {
-  "generated_at": "2026-03-01T09:02:36.103Z",
+  "generated_at": "2026-03-01T11:05:29.791Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 7,
   "posts": [
     {
-      "title": "Apple retoma protagonismo e fatura 4 troféus no Prêmio Canaltech",
-      "slug": "apple-retoma-protagonismo-e-fatura-4-trofeus-no-premio-canaltech",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-01T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/apple-retoma-protagonismo-e-fatura-4-trofeus-no-premio-canaltech/"
-    },
-    {
-      "title": "Palpites para Palmeiras x São Paulo: Análises e Onde Assistir (01/03/2026)",
-      "slug": "palpites-para-palmeiras-x-sao-paulo-analises-e-onde-assistir-01032026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-01T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411170-palpites-para-palmeiras-x-sao-paulo-analises-e-onde-assistir-01032026.htm"
-    },
-    {
-      "title": "Palpites para Fluminense x Vasco: Análises e Onde Assistir (01/03/2026)",
-      "slug": "palpites-para-fluminense-x-vasco-analises-e-onde-assistir-01032026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-01T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411169-palpites-para-fluminense-x-vasco-analises-e-onde-assistir-01032026.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (1º)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-1o-veja-calendario-lunar-de-marco-de-2026",
+      "title": "Nova realidade de preços: entenda por que jogos de PC agora custam R$ 400",
+      "slug": "nova-realidade-de-precos-entenda-por-que-jogos-de-pc-agora-custam-rdollar-400",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-01T08:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-01T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/01/qual-e-a-fase-da-lua-hoje-1-veja-calendario-lunar-de-marco-de-2026.htm"
+      "original_url": "https://canaltech.com.br/games/nova-realidade-de-precos-entenda-por-que-jogos-de-pc-agora-custam-r-400/"
+    },
+    {
+      "title": "Vale mais a pena comprar intermediário de 2026 ou topo de linha antigo?",
+      "slug": "vale-mais-a-pena-comprar-intermediario-de-2026-ou-topo-de-linha-antigo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-01T10:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/vale-mais-a-pena-comprar-intermediario-de-2026-ou-topo-de-linha-antigo/"
+    },
+    {
+      "title": "3 iPhones de ouro que custam mais que um carro",
+      "slug": "3-iphones-de-ouro-que-custam-mais-que-um-carro",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-01T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/3-iphones-de-ouro-que-custam-mais-que-um-carro/"
+    },
+    {
+      "title": "Qual é o melhor Kindle para comprar em 2026?",
+      "slug": "qual-e-o-melhor-kindle-para-comprar-em-2026",
+      "topic": "frameworks",
+      "source": "Canaltech",
+      "date": "2026-03-01T09:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/e-reader/qual-e-o-melhor-kindle-para-comprar-em-2026/"
+    },
+    {
+      "title": "Android 17 Beta 2 agora permite abrir qualquer aplicativo como janela flutuante",
+      "slug": "android-17-beta-2-agora-permite-abrir-qualquer-aplicativo-como-janela-flutuante",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-01T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411199-android-17-beta-2-agora-permite-abrir-qualquer-aplicativo-como-janela-flutuante.htm"
+    },
+    {
+      "title": "Epic Games libera jogo grátis no celular! Resgate agora no Android (01)",
+      "slug": "epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-01",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-01T10:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503631-epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-01.htm"
+    },
+    {
+      "title": "O que são a Casa Blackfyre e as Rebeliões de O Cavaleiro dos Sete Reinos",
+      "slug": "o-que-sao-a-casa-blackfyre-e-as-rebelioes-de-o-cavaleiro-dos-sete-reinos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-01T10:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603221-o-que-sao-a-casa-blackfyre-e-as-rebelioes-de-o-cavaleiro-dos-sete-reinos.htm"
     }
   ]
 }
