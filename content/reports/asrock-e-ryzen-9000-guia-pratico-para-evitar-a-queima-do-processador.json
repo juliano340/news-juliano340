@@ -1,6 +1,6 @@
 {
-  "slug": "quase-acidente-de-bicicleta-levou-engenheiro-da-nasa-a-revolucionar-caminhoes",
-  "generated_at": "2026-03-01T19:02:47.206Z",
+  "slug": "asrock-e-ryzen-9000-guia-pratico-para-evitar-a-queima-do-processador",
+  "generated_at": "2026-03-01T19:01:01.124Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 467,
+      "words": 363,
       "min": 220
     },
     {
