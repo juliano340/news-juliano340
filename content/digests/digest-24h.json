@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-03-01T19:02:50.619Z",
+  "generated_at": "2026-03-01T21:05:26.355Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 5,
   "posts": [
     {
-      "title": "ASRock e Ryzen 9000: guia prático para evitar a queima do processador",
-      "slug": "asrock-e-ryzen-9000-guia-pratico-para-evitar-a-queima-do-processador",
-      "topic": "geral",
+      "title": "Testamos o Amazfit Bip 6: ótimo relógio para quem pratica atividades físicas",
+      "slug": "testamos-o-amazfit-bip-6-otimo-relogio-para-quem-pratica-atividades-fisicas",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
+      "date": "2026-03-01T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produto/amazfit/bip-6/analise/"
+    },
+    {
+      "title": "Final explicado de O Refúgio: Entenda o que acontece com Ercell",
+      "slug": "final-explicado-de-o-refugio-entenda-o-que-acontece-com-ercell",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-01T20:45:51.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603251-final-explicado-de-o-refugio-entenda-o-que-acontece-com-ercell.htm"
+    },
+    {
+      "title": "Resident Evil Requiem: Solução dos puzzles para abrir a porta do Centro de Cuidados",
+      "slug": "resident-evil-requiem-solucao-dos-puzzles-para-abrir-a-porta-do-centro-de-cuidados",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-01T20:26:04.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503654-resident-evil-requiem-solucao-dos-puzzles-para-abrir-a-porta-do-centro-de-cuidados.htm"
+    },
+    {
+      "title": "Última temporada de Outlander: tudo que você precisa saber",
+      "slug": "ultima-temporada-de-outlander-tudo-que-voce-precisa-saber",
+      "topic": "geral",
+      "source": "Tecmundo",
       "date": "2026-03-01T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/asrock-e-ryzen-9000-guia-pratico-para-evitar-a-queima-do-processador/"
+      "editorial_score": 85,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603217-ultima-temporada-de-outlander-tudo-que-voce-precisa-saber.htm"
     },
     {
-      "title": "Como criar imagens de IA com o Photoroom?",
-      "slug": "como-criar-imagens-de-ia-com-o-photoroom",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-01T18:00:00.000Z",
+      "title": "Hackers atacam aplicativos e sites iranianos após ataques dos EUA e Israel",
+      "slug": "hackers-atacam-aplicativos-e-sites-iranianos-apos-ataques-dos-eua-e-israel",
+      "topic": "seguranca-ia",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-01T19:11:39.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-criar-imagens-de-ia-com-o-photoroom/"
-    },
-    {
-      "title": "Quase acidente de bicicleta levou engenheiro da NASA a revolucionar caminhões",
-      "slug": "quase-acidente-de-bicicleta-levou-engenheiro-da-nasa-a-revolucionar-caminhoes",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-01T17:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/quase-acidente-de-bicicleta-levou-engenheiro-da-nasa-a-revolucionar-caminhoes/"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/01/hackers-atacam-aplicativos-e-sites-iranianos-apos-ataques-dos-eua-e-israel.htm"
     }
   ]
 }

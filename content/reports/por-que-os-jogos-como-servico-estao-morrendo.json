@@ -1,0 +1,19 @@
+{
+  "slug": "por-que-os-jogos-como-servico-estao-morrendo",
+  "generated_at": "2026-03-01T21:02:48.695Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
