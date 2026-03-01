@@ -1,6 +1,6 @@
 {
-  "slug": "codigo-bonus-betmgm-como-funciona-e-como-ativar-ofertas",
-  "generated_at": "2026-03-01T13:05:13.914Z",
+  "slug": "mouse-gamer-falso-ou-clone-como-identificar-antes-e-depois-de-comprar",
+  "generated_at": "2026-03-01T13:00:42.479Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 455,
+      "words": 306,
       "min": 220
     },
     {

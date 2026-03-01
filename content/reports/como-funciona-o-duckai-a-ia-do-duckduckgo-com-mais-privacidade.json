@@ -1,6 +1,6 @@
 {
-  "slug": "codigo-bonus-betmgm-como-funciona-e-como-ativar-ofertas",
-  "generated_at": "2026-03-01T13:05:13.914Z",
+  "slug": "como-funciona-o-duckai-a-ia-do-duckduckgo-com-mais-privacidade",
+  "generated_at": "2026-03-01T13:02:30.420Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 455,
+      "words": 368,
       "min": 220
     },
     {

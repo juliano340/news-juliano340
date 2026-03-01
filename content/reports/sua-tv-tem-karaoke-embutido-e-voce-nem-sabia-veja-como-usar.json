@@ -1,7 +1,7 @@
 {
-  "slug": "codigo-bonus-betmgm-como-funciona-e-como-ativar-ofertas",
-  "generated_at": "2026-03-01T13:05:13.914Z",
-  "status": "PASS",
+  "slug": "sua-tv-tem-karaoke-embutido-e-voce-nem-sabia-veja-como-usar",
+  "generated_at": "2026-03-01T13:01:40.355Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 455,
+      "words": 350,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

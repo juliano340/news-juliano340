@@ -1,70 +1,79 @@
 {
-  "generated_at": "2026-03-01T11:05:29.791Z",
+  "generated_at": "2026-03-01T13:05:15.997Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 8,
   "posts": [
     {
-      "title": "Nova realidade de preços: entenda por que jogos de PC agora custam R$ 400",
-      "slug": "nova-realidade-de-precos-entenda-por-que-jogos-de-pc-agora-custam-rdollar-400",
+      "title": "Mouse gamer falso ou clone: como identificar antes e depois de comprar",
+      "slug": "mouse-gamer-falso-ou-clone-como-identificar-antes-e-depois-de-comprar",
       "topic": "geral",
       "source": "Canaltech",
+      "date": "2026-03-01T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/mouse-gamer-falso-ou-clone-como-identificar-antes-e-depois-de-comprar/"
+    },
+    {
+      "title": "Sua TV tem karaokê embutido e você nem sabia; veja como usar",
+      "slug": "sua-tv-tem-karaoke-embutido-e-voce-nem-sabia-veja-como-usar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-01T12:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/eletro/sua-tv-tem-karaoke-embutido-e-voce-nem-sabia-veja-como-usar/"
+    },
+    {
+      "title": "Quais carros a Honda deve lançar no Brasil em 2026?",
+      "slug": "quais-carros-a-honda-deve-lancar-no-brasil-em-2026",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-01T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/quais-carros-a-honda-deve-lancar-no-brasil-em-2026/"
+    },
+    {
+      "title": "Como funciona o Duck.ai, a IA do DuckDuckGo com mais privacidade?",
+      "slug": "como-funciona-o-duckai-a-ia-do-duckduckgo-com-mais-privacidade",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-01T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-funciona-o-duckai-a-ia-do-duckduckgo-com-mais-privacidade/"
+    },
+    {
+      "title": "Quanto custa um PC gamer para rodar Resident Evil Requiem?",
+      "slug": "quanto-custa-um-pc-gamer-para-rodar-resident-evil-requiem",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-01T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503633-quanto-custa-um-pc-gamer-para-rodar-resident-evil-requiem.htm"
+    },
+    {
+      "title": "O que é isso? Chinelo-drone viraliza nas redes sociais, confira!",
+      "slug": "o-que-e-isso-chinelo-drone-viraliza-nas-redes-sociais-confira",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-01T12:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/internet/411202-o-que-e-isso-chinelo-drone-viraliza-nas-redes-sociais-confira.htm"
+    },
+    {
+      "title": "BetMGM App: como baixar e apostar pelo celular no Brasil",
+      "slug": "betmgm-app-como-baixar-e-apostar-pelo-celular-no-brasil",
+      "topic": "geral",
+      "source": "Tecmundo",
       "date": "2026-03-01T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/nova-realidade-de-precos-entenda-por-que-jogos-de-pc-agora-custam-r-400/"
+      "original_url": "https://www.tecmundo.com.br/apostas/411156-betmgm-app-como-baixar-e-apostar-pelo-celular-no-brasil.htm"
     },
     {
-      "title": "Vale mais a pena comprar intermediário de 2026 ou topo de linha antigo?",
-      "slug": "vale-mais-a-pena-comprar-intermediario-de-2026-ou-topo-de-linha-antigo",
+      "title": "Código bônus BetMGM: como funciona e como ativar ofertas",
+      "slug": "codigo-bonus-betmgm-como-funciona-e-como-ativar-ofertas",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-01T10:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/vale-mais-a-pena-comprar-intermediario-de-2026-ou-topo-de-linha-antigo/"
-    },
-    {
-      "title": "3 iPhones de ouro que custam mais que um carro",
-      "slug": "3-iphones-de-ouro-que-custam-mais-que-um-carro",
-      "topic": "geral",
-      "source": "Canaltech",
+      "source": "Tecmundo",
       "date": "2026-03-01T10:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/3-iphones-de-ouro-que-custam-mais-que-um-carro/"
-    },
-    {
-      "title": "Qual é o melhor Kindle para comprar em 2026?",
-      "slug": "qual-e-o-melhor-kindle-para-comprar-em-2026",
-      "topic": "frameworks",
-      "source": "Canaltech",
-      "date": "2026-03-01T09:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/e-reader/qual-e-o-melhor-kindle-para-comprar-em-2026/"
-    },
-    {
-      "title": "Android 17 Beta 2 agora permite abrir qualquer aplicativo como janela flutuante",
-      "slug": "android-17-beta-2-agora-permite-abrir-qualquer-aplicativo-como-janela-flutuante",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-01T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411199-android-17-beta-2-agora-permite-abrir-qualquer-aplicativo-como-janela-flutuante.htm"
-    },
-    {
-      "title": "Epic Games libera jogo grátis no celular! Resgate agora no Android (01)",
-      "slug": "epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-01",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-01T10:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503631-epic-games-libera-jogo-gratis-no-celular-resgate-agora-no-android-01.htm"
-    },
-    {
-      "title": "O que são a Casa Blackfyre e as Rebeliões de O Cavaleiro dos Sete Reinos",
-      "slug": "o-que-sao-a-casa-blackfyre-e-as-rebelioes-de-o-cavaleiro-dos-sete-reinos",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-01T10:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603221-o-que-sao-a-casa-blackfyre-e-as-rebelioes-de-o-cavaleiro-dos-sete-reinos.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411158-codigo-bonus-betmgm-como-funciona-e-como-ativar-ofertas.htm"
     }
   ]
 }
