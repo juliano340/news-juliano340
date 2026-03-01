@@ -1,52 +1,34 @@
 {
-  "generated_at": "2026-03-01T21:05:26.355Z",
+  "generated_at": "2026-03-01T23:03:00.660Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 3,
   "posts": [
     {
-      "title": "Testamos o Amazfit Bip 6: ótimo relógio para quem pratica atividades físicas",
-      "slug": "testamos-o-amazfit-bip-6-otimo-relogio-para-quem-pratica-atividades-fisicas",
-      "topic": "produtividade-dev",
+      "title": "Montadora chinesa clona carrões e até nome de marca premium; entenda",
+      "slug": "montadora-chinesa-clona-carroes-e-ate-nome-de-marca-premium-entenda",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-01T21:00:00.000Z",
+      "date": "2026-03-01T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produto/amazfit/bip-6/analise/"
+      "original_url": "https://canaltech.com.br/carros/montadora-chinesa-clona-carroes-e-ate-nome-de-marca-premium-entenda/"
     },
     {
-      "title": "Final explicado de O Refúgio: Entenda o que acontece com Ercell",
-      "slug": "final-explicado-de-o-refugio-entenda-o-que-acontece-com-ercell",
+      "title": "Por que os jogos como serviço estão morrendo?",
+      "slug": "por-que-os-jogos-como-servico-estao-morrendo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-01T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/por-que-os-jogos-como-servico-estao-morrendo/"
+    },
+    {
+      "title": "Pokémon Pokopia, Marathon e mais! Veja os lançamentos de games da semana",
+      "slug": "pokemon-pokopia-marathon-e-mais-veja-os-lancamentos-de-games-da-semana",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-01T20:45:51.000Z",
+      "date": "2026-03-01T22:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603251-final-explicado-de-o-refugio-entenda-o-que-acontece-com-ercell.htm"
-    },
-    {
-      "title": "Resident Evil Requiem: Solução dos puzzles para abrir a porta do Centro de Cuidados",
-      "slug": "resident-evil-requiem-solucao-dos-puzzles-para-abrir-a-porta-do-centro-de-cuidados",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-01T20:26:04.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503654-resident-evil-requiem-solucao-dos-puzzles-para-abrir-a-porta-do-centro-de-cuidados.htm"
-    },
-    {
-      "title": "Última temporada de Outlander: tudo que você precisa saber",
-      "slug": "ultima-temporada-de-outlander-tudo-que-voce-precisa-saber",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-01T19:00:00.000Z",
-      "editorial_score": 85,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603217-ultima-temporada-de-outlander-tudo-que-voce-precisa-saber.htm"
-    },
-    {
-      "title": "Hackers atacam aplicativos e sites iranianos após ataques dos EUA e Israel",
-      "slug": "hackers-atacam-aplicativos-e-sites-iranianos-apos-ataques-dos-eua-e-israel",
-      "topic": "seguranca-ia",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-01T19:11:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/01/hackers-atacam-aplicativos-e-sites-iranianos-apos-ataques-dos-eua-e-israel.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503655-pokemon-pokopia-marathon-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
     }
   ]
 }
