@@ -1,52 +1,25 @@
 {
-  "generated_at": "2026-03-02T09:03:13.542Z",
+  "generated_at": "2026-03-02T11:02:17.155Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 2,
   "posts": [
     {
-      "title": "Vencedores do Prêmio Canaltech revelam tendências do mercado tech",
-      "slug": "vencedores-do-premio-canaltech-revelam-tendencias-do-mercado-tech",
+      "title": "Arquivo .scr é vírus? Entenda o perigo e aprenda a bloquear no Windows",
+      "slug": "arquivo-scr-e-virus-entenda-o-perigo-e-aprenda-a-bloquear-no-windows",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T09:00:00.000Z",
+      "date": "2026-03-02T10:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/vencedores-do-premio-canaltech-revelam-tendencias-do-mercado-tech-6379/"
+      "original_url": "https://canaltech.com.br/seguranca/arquivo-scr-e-virus-entenda-o-perigo-e-aprenda-a-bloquear-no-windows/"
     },
     {
-      "title": "Jeep derruba preços e Commander sai quase pelo preço do Tiggo 8 Pro",
-      "slug": "jeep-derruba-precos-e-commander-sai-quase-pelo-preco-do-tiggo-8-pro",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-02T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/jeep-derruba-precos-e-commander-sai-quase-pelo-preco-do-tiggo-8-pro/"
-    },
-    {
-      "title": "Palpites para Madureira x Flamengo: Análises e Onde Assistir (02/03/2026)",
-      "slug": "palpites-para-madureira-x-flamengo-analises-e-onde-assistir-02032026",
+      "title": "Suporte BetMGM: como falar com o atendimento e resolver problemas",
+      "slug": "suporte-betmgm-como-falar-com-o-atendimento-e-resolver-problemas",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-02T09:00:00.000Z",
+      "date": "2026-03-02T11:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411171-palpites-para-madureira-x-flamengo-analises-e-onde-assistir-02032026.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (2)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-2-veja-calendario-lunar-de-marco-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/02/qual-e-a-fase-da-lua-hoje-2-veja-calendario-lunar-de-marco-de-2026.htm"
-    },
-    {
-      "title": "Quer saber se alguém te bloqueou no WhatsApp? Tática simples dá uma pista",
-      "slug": "quer-saber-se-alguem-te-bloqueou-no-whatsapp-tatica-simples-da-uma-pista",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/02/indicio-bloqueio-contato-whatsapp.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411159-suporte-betmgm-como-falar-com-o-atendimento-e-resolver-problemas.htm"
     }
   ]
 }
