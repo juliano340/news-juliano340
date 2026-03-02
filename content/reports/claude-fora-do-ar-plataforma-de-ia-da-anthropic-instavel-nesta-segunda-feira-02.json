@@ -1,6 +1,6 @@
 {
-  "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
-  "generated_at": "2026-03-02T15:19:35.384Z",
+  "slug": "claude-fora-do-ar-plataforma-de-ia-da-anthropic-instavel-nesta-segunda-feira-02",
+  "generated_at": "2026-03-02T15:17:42.142Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 350,
+      "words": 318,
       "min": 220
     },
     {

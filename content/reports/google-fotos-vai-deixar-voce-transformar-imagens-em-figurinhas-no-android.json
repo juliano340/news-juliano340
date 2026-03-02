@@ -1,7 +1,7 @@
 {
-  "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
-  "generated_at": "2026-03-02T15:19:35.384Z",
-  "status": "PASS",
+  "slug": "google-fotos-vai-deixar-voce-transformar-imagens-em-figurinhas-no-android",
+  "generated_at": "2026-03-02T15:06:37.360Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 350,
+      "words": 374,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

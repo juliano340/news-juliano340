@@ -1,6 +1,6 @@
 {
-  "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
-  "generated_at": "2026-03-02T15:19:35.384Z",
+  "slug": "review-pokemon-pokopia-da-show-de-carisma-e-diversao-entregando-um-dos-melhores-jogos-da-franquia",
+  "generated_at": "2026-03-02T15:18:27.488Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 350,
+      "words": 327,
       "min": 220
     },
     {

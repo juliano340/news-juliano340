@@ -1,6 +1,6 @@
 {
-  "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
-  "generated_at": "2026-03-02T15:19:35.384Z",
+  "slug": "campeonato-mundial-de-excel-conheca-torneio-com-brasil-na-disputa",
+  "generated_at": "2026-03-02T15:14:58.095Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 350,
+      "words": 270,
       "min": 220
     },
     {

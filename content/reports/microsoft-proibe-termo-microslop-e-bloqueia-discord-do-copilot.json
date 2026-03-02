@@ -1,6 +1,6 @@
 {
-  "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
-  "generated_at": "2026-03-02T15:19:35.384Z",
+  "slug": "microsoft-proibe-termo-microslop-e-bloqueia-discord-do-copilot",
+  "generated_at": "2026-03-02T15:02:09.321Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 350,
+      "words": 281,
       "min": 220
     },
     {

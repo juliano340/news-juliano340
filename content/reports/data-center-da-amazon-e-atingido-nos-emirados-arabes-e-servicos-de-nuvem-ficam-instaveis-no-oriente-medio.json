@@ -1,6 +1,6 @@
 {
-  "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
-  "generated_at": "2026-03-02T15:19:35.384Z",
+  "slug": "data-center-da-amazon-e-atingido-nos-emirados-arabes-e-servicos-de-nuvem-ficam-instaveis-no-oriente-medio",
+  "generated_at": "2026-03-02T15:01:03.741Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 350,
+      "words": 379,
       "min": 220
     },
     {

@@ -1,18 +1,29 @@
 # Weekly IA para Devs - 2026-03-02
 
-Gerado em 2026-03-02T13:10:49.472Z
+Gerado em 2026-03-02T15:19:36.387Z
 
-- [O Claude caiu? Usuários relatam problemas nesta segunda (2)](https://canaltech.com.br/apps/o-claude-caiu-usuarios-relatam-problemas-nesta-segunda-2/) | topico: llms | score: 100
-- [Chinesa revela 1º "celular robô" do mundo na MWC; veja vídeo](https://canaltech.com.br/smartphone/chinesa-revela-1o-celular-robo-do-mundo-na-mwc-veja-video/) | topico: geral | score: 100
-- [Honor revela robô humanoide que imita Michael Jackson e dá salto mortal; vídeo](https://canaltech.com.br/produtos/honor-revela-robo-humanoide-que-imita-michael-jackson-e-da-salto-mortal-video/) | topico: produtividade-dev | score: 100
-- [Claude ultrapassa ChaGPT e Gemini nos EUA após recusar acordo com o Pentágono](https://canaltech.com.br/apps/claude-ultrapassa-chagpt-e-gemini-nos-eua-apos-recusar-acordo-com-o-pentagono/) | topico: llms | score: 100
-- [Relatório confirma motivo da morte de motorista em acidente com Xiaomi SU7](https://canaltech.com.br/carros/relatorio-confirma-motivo-da-morte-de-motorista-em-acidente-com-xiomi-su7/) | topico: seguranca-ia | score: 92
-- [Novo golpe usa IA para gerar comprovante falso de Pix; bancos não devolvem valor](https://canaltech.com.br/seguranca/novo-golpe-usa-ia-para-gerar-comprovante-falso-de-pix-bancos-nao-devolvem-valor/) | topico: geral | score: 100
-- [O que esperar da MWC Barcelona 2026? Veja os principais lançamentos da feira](https://canaltech.com.br/produtos/o-que-esperar-da-mwc-barcelona-2026-veja-os-principais-lancamentos-da-feira/) | topico: geral | score: 100
-- [Justiça condena Bradesco por golpe da falsa central de atendimento](https://canaltech.com.br/seguranca/justica-condena-bradesco-por-golpe-da-falsa-central-de-atendimento/) | topico: geral | score: 100
-- [Nintendo reduz preços de assinaturas no Brasil! Veja o que ficou mais barato](https://www.tecmundo.com.br/voxel/503657-nintendo-reduz-precos-de-assinaturas-no-brasil-veja-o-que-ficou-mais-barato.htm) | topico: geral | score: 100
-- [Xiaomi 17, 17 Ultra e smartphone da Leica ganham versão global; saiba tudo](https://www.tecmundo.com.br/produto/411217-xiaomi-17-17-ultra-e-smartphone-da-leica-ganham-versao-global-saiba-tudo.htm) | topico: produtividade-dev | score: 100
-- [Actor Awards: Confira lista completa de vencedores da premiação de cinema e TV](https://www.tecmundo.com.br/minha-serie/603252-actor-awards-confira-lista-completa-de-vencedores-da-premiacao-de-cinema-e-tv.htm) | topico: geral | score: 92
-- [Marathon: tudo sobre o novo jogo da desenvolvedora de Halo](https://www.tecmundo.com.br/voxel/503590-marathon-tudo-sobre-o-novo-jogo-da-desenvolvedora-de-halo.htm) | topico: geral | score: 100
-- [Homem é detido no RJ por promover baile funk para menores no Roblox](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/03/02/policia-prende-suspeito-baile-funk-roblox.htm) | topico: geral | score: 100
-- [AWS relata interrupção de serviço após central de dados nos Emirados Árabes Unidos ser atingida por "objetos"](https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/aws-relata-interrupcao-de-servico-apos-central-de-dados-nos-emirados-arabes-unidos-ser-atingida-por-objetos.htm) | topico: geral | score: 100
+- [Data Center da Amazon é atingido nos Emirados Árabes e serviços de nuvem ficam instáveis no Oriente Médio](https://g1.globo.com/tecnologia/noticia/2026/03/02/data-center-da-amazon-e-atingido-nos-emirados-arabes-e-servicos-de-nuvem-ficam-instaveis-no-oriente-medio.ghtml) | topico: geral | score: 100
+- [Microsoft proíbe termo “Microslop” e bloqueia Discord do Copilot](https://tecnoblog.net/noticias/microsoft-proibe-termo-microslop-e-bloqueia-discord-do-copilot/) | topico: llms | score: 100
+- [Honor apresenta “celular robô” na Espanha](https://tecnoblog.net/noticias/honor-apresenta-celular-robo-na-espanha/) | topico: llms | score: 100
+- [Apple apresenta iPhone 17e com MagSafe e iPad Air com M4](https://tecnoblog.net/noticias/apple-apresenta-iphone-17e-com-magsafe-e-ipad-air-com-m4/) | topico: geral | score: 92
+- [Razr Fold é o dobrável da Motorola com bateria gigante e 7 anos de Android](https://tecnoblog.net/noticias/razr-fold-e-o-dobravel-da-motorola-com-bateria-gigante-e-7-anos-de-android/) | topico: produtividade-dev | score: 100
+- [Garmin Forerunner 165 cai 31% em até 10x em oferta no Mês do Consumidor](https://tecnoblog.net/achados/garmin-forerunner-165-cai-30-em-ate-10x-em-oferta-no-mes-do-consumidor/) | topico: geral | score: 100
+- [Google Fotos vai deixar você transformar imagens em figurinhas no Android](https://canaltech.com.br/apps/google-fotos-vai-deixar-voce-transformar-imagens-em-figurinhas-no-android/) | topico: llms | score: 92
+- [LG desbanca Samsung e leva prêmio de Melhor Monitor Gamer do Ano](https://canaltech.com.br/hardware/lg-desbanca-samsung-e-leva-premio-de-melhor-monitor-gamer-do-ano/) | topico: geral | score: 100
+- [Amazon faz queima de geladeira: modelo Samsung preto parcelado em 10x](https://canaltech.com.br/eletro/amazon-faz-queima-de-geladeira-modelo-samsung-preto-parcelado-em-10x/) | topico: seguranca-ia | score: 100
+- [Microsoft 365 Family + McAfee: Garanta 6TB de nuvem e Office pelo preço de um](https://canaltech.com.br/hardware/microsoft-365-family-mcafee-garanta-6tb-de-nuvem-e-office-pelo-preco-de-um/) | topico: geral | score: 100
+- [Rumor aponta para novo God of War focado em Faye, a esposa de Kratos](https://canaltech.com.br/games/rumor-aponta-para-novo-god-of-war-focado-em-faye-a-esposa-de-kratos/) | topico: geral | score: 100
+- [Novo smartwatch da Samsung estará recheado de recursos de IA graças a novo chip](https://canaltech.com.br/produtos/novo-smartwatch-da-samsung-estara-recheado-de-recursos-de-ia-gracas-a-novo-chip/) | topico: geral | score: 100
+- [Motorola revela novo "baratinho top"; conheça o Edge 70 Fusion](https://canaltech.com.br/smartphone/motorola-revela-novo-baratinho-top-conheca-o-edge-70-fusion/) | topico: geral | score: 100
+- [Evite o drift! Controle da 8BitDo com Hall Effect por menos de R$ 150](https://canaltech.com.br/games/evite-o-drift-controle-da-8bitdo-com-hall-effect-por-menos-de-r-150/) | topico: geral | score: 100
+- [Motorola terá celular com 'Android sem Google' e foco em privacidade](https://canaltech.com.br/apps/motorola-tera-celular-com-android-sem-google-e-foco-em-privacidade/) | topico: geral | score: 100
+- [GAC GS3: como é o SUV chinês que promete derrubar o T-Cross do trono](https://canaltech.com.br/carros/gac-gs3-como-e-o-suv-chines-que-promete-derrubar-o-t-cross-do-trono/) | topico: geral | score: 100
+- [Brasil tem um dos Galaxy S26 mais caros do mundo, revela levantamento](https://www.tecmundo.com.br/produto/411223-brasil-tem-um-dos-galaxy-s26-mais-caros-do-mundo-revela-levantamento.htm) | topico: agentes | score: 100
+- [Apple lança iPad Air com chip M4 e mais memória](https://www.tecmundo.com.br/produto/411233-apple-lanca-ipad-air-com-chip-m4-e-mais-memoria.htm) | topico: geral | score: 100
+- [Por que a Netflix desistiu de comprar a Warner Bros? CEO fala sobre lado positivo do fracasso](https://www.tecmundo.com.br/minha-serie/603255-por-que-a-netflix-desistiu-de-comprar-a-warner-bros-ceo-fala-sobre-lado-positivo-do-fracasso.htm) | topico: geral | score: 100
+- [Campeonato Mundial de Excel: conheça torneio com Brasil na disputa](https://www.tecmundo.com.br/internet/411113-campeonato-mundial-de-excel-conheca-torneio-com-brasil-na-disputa.htm) | topico: agentes | score: 100
+- [Celular da Honor com gimbal terá câmera de 200 MP](https://www.tecmundo.com.br/produto/411221-celular-da-honor-com-gimbal-tera-camera-de-200-mp.htm) | topico: geral | score: 100
+- [iPhone 17e: novo 'baratinho' da Apple é anunciado a partir de R$ 5,8 mil](https://www.tecmundo.com.br/produto/411225-iphone-17e-novo-baratinho-da-apple-e-anunciado-a-partir-de-r-58-mil.htm) | topico: infra-ia | score: 100
+- [Air fryers por menos de R$230 para escolher no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411220-air-fryers-por-menos-de-r230-para-escolher-no-magazine-luiza.htm) | topico: produtividade-dev | score: 100
+- [Play Store libera mais apps e pacotes de ícones grátis por tempo limitado](https://www.tecmundo.com.br/software/411219-play-store-libera-mais-apps-e-pacotes-de-icones-gratis-por-tempo-limitado.htm) | topico: agentes | score: 100
+- [Claude fora do ar? Plataforma de IA da Anthropic instável nesta segunda-feira (02)](https://www.tecmundo.com.br/internet/411224-claude-fora-do-ar-plataforma-de-ia-da-anthropic-instavel-nesta-segunda-feira-02.htm) | topico: llms | score: 100

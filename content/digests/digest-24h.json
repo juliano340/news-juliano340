@@ -1,133 +1,259 @@
 {
-  "generated_at": "2026-03-02T13:10:49.472Z",
+  "generated_at": "2026-03-02T15:19:36.387Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 14,
+  "total": 28,
   "posts": [
     {
-      "title": "O Claude caiu? Usuários relatam problemas nesta segunda (2)",
-      "slug": "o-claude-caiu-usuarios-relatam-problemas-nesta-segunda-2",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-02T12:56:54.000Z",
+      "title": "Data Center da Amazon é atingido nos Emirados Árabes e serviços de nuvem ficam instáveis no Oriente Médio",
+      "slug": "data-center-da-amazon-e-atingido-nos-emirados-arabes-e-servicos-de-nuvem-ficam-instaveis-no-oriente-medio",
+      "topic": "geral",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-02T12:58:22.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-claude-caiu-usuarios-relatam-problemas-nesta-segunda-2/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/02/data-center-da-amazon-e-atingido-nos-emirados-arabes-e-servicos-de-nuvem-ficam-instaveis-no-oriente-medio.ghtml"
     },
     {
-      "title": "Chinesa revela 1º \"celular robô\" do mundo na MWC; veja vídeo",
-      "slug": "chinesa-revela-1o-celular-robo-do-mundo-na-mwc-veja-video",
+      "title": "Microsoft proíbe termo “Microslop” e bloqueia Discord do Copilot",
+      "slug": "microsoft-proibe-termo-microslop-e-bloqueia-discord-do-copilot",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T14:59:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/microsoft-proibe-termo-microslop-e-bloqueia-discord-do-copilot/"
+    },
+    {
+      "title": "Honor apresenta “celular robô” na Espanha",
+      "slug": "honor-apresenta-celular-robo-na-espanha",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T14:43:36.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/honor-apresenta-celular-robo-na-espanha/"
+    },
+    {
+      "title": "Apple apresenta iPhone 17e com MagSafe e iPad Air com M4",
+      "slug": "apple-apresenta-iphone-17e-com-magsafe-e-ipad-air-com-m4",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T14:26:54.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/apple-apresenta-iphone-17e-com-magsafe-e-ipad-air-com-m4/"
+    },
+    {
+      "title": "Razr Fold é o dobrável da Motorola com bateria gigante e 7 anos de Android",
+      "slug": "razr-fold-e-o-dobravel-da-motorola-com-bateria-gigante-e-7-anos-de-android",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T14:16:48.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/razr-fold-e-o-dobravel-da-motorola-com-bateria-gigante-e-7-anos-de-android/"
+    },
+    {
+      "title": "Garmin Forerunner 165 cai 31% em até 10x em oferta no Mês do Consumidor",
+      "slug": "garmin-forerunner-165-cai-31percent-em-ate-10x-em-oferta-no-mes-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T13:36:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-165-cai-30-em-ate-10x-em-oferta-no-mes-do-consumidor/"
+    },
+    {
+      "title": "Google Fotos vai deixar você transformar imagens em figurinhas no Android",
+      "slug": "google-fotos-vai-deixar-voce-transformar-imagens-em-figurinhas-no-android",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-02T15:00:47.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/google-fotos-vai-deixar-voce-transformar-imagens-em-figurinhas-no-android/"
+    },
+    {
+      "title": "LG desbanca Samsung e leva prêmio de Melhor Monitor Gamer do Ano",
+      "slug": "lg-desbanca-samsung-e-leva-premio-de-melhor-monitor-gamer-do-ano",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T12:46:00.000Z",
+      "date": "2026-03-02T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/chinesa-revela-1o-celular-robo-do-mundo-na-mwc-veja-video/"
+      "original_url": "https://canaltech.com.br/hardware/lg-desbanca-samsung-e-leva-premio-de-melhor-monitor-gamer-do-ano/"
     },
     {
-      "title": "Honor revela robô humanoide que imita Michael Jackson e dá salto mortal; vídeo",
-      "slug": "honor-revela-robo-humanoide-que-imita-michael-jackson-e-da-salto-mortal-video",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-02T12:44:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/honor-revela-robo-humanoide-que-imita-michael-jackson-e-da-salto-mortal-video/"
-    },
-    {
-      "title": "Claude ultrapassa ChaGPT e Gemini nos EUA após recusar acordo com o Pentágono",
-      "slug": "claude-ultrapassa-chagpt-e-gemini-nos-eua-apos-recusar-acordo-com-o-pentagono",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-02T12:35:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/claude-ultrapassa-chagpt-e-gemini-nos-eua-apos-recusar-acordo-com-o-pentagono/"
-    },
-    {
-      "title": "Relatório confirma motivo da morte de motorista em acidente com Xiaomi SU7",
-      "slug": "relatorio-confirma-motivo-da-morte-de-motorista-em-acidente-com-xiaomi-su7",
+      "title": "Amazon faz queima de geladeira: modelo Samsung preto parcelado em 10x",
+      "slug": "amazon-faz-queima-de-geladeira-modelo-samsung-preto-parcelado-em-10x",
       "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-03-02T12:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/relatorio-confirma-motivo-da-morte-de-motorista-em-acidente-com-xiomi-su7/"
+      "date": "2026-03-02T14:57:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/amazon-faz-queima-de-geladeira-modelo-samsung-preto-parcelado-em-10x/"
     },
     {
-      "title": "Novo golpe usa IA para gerar comprovante falso de Pix; bancos não devolvem valor",
-      "slug": "novo-golpe-usa-ia-para-gerar-comprovante-falso-de-pix-bancos-nao-devolvem-valor",
+      "title": "Microsoft 365 Family + McAfee: Garanta 6TB de nuvem e Office pelo preço de um",
+      "slug": "microsoft-365-family-mcafee-garanta-6tb-de-nuvem-e-office-pelo-preco-de-um",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T11:50:00.000Z",
+      "date": "2026-03-02T14:46:36.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/novo-golpe-usa-ia-para-gerar-comprovante-falso-de-pix-bancos-nao-devolvem-valor/"
+      "original_url": "https://canaltech.com.br/hardware/microsoft-365-family-mcafee-garanta-6tb-de-nuvem-e-office-pelo-preco-de-um/"
     },
     {
-      "title": "O que esperar da MWC Barcelona 2026? Veja os principais lançamentos da feira",
-      "slug": "o-que-esperar-da-mwc-barcelona-2026-veja-os-principais-lancamentos-da-feira",
+      "title": "Rumor aponta para novo God of War focado em Faye, a esposa de Kratos",
+      "slug": "rumor-aponta-para-novo-god-of-war-focado-em-faye-a-esposa-de-kratos",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T11:19:09.000Z",
+      "date": "2026-03-02T14:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/o-que-esperar-da-mwc-barcelona-2026-veja-os-principais-lancamentos-da-feira/"
+      "original_url": "https://canaltech.com.br/games/rumor-aponta-para-novo-god-of-war-focado-em-faye-a-esposa-de-kratos/"
     },
     {
-      "title": "Justiça condena Bradesco por golpe da falsa central de atendimento",
-      "slug": "justica-condena-bradesco-por-golpe-da-falsa-central-de-atendimento",
+      "title": "Novo smartwatch da Samsung estará recheado de recursos de IA graças a novo chip",
+      "slug": "novo-smartwatch-da-samsung-estara-recheado-de-recursos-de-ia-gracas-a-novo-chip",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T11:10:00.000Z",
+      "date": "2026-03-02T14:31:09.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/justica-condena-bradesco-por-golpe-da-falsa-central-de-atendimento/"
+      "original_url": "https://canaltech.com.br/produtos/novo-smartwatch-da-samsung-estara-recheado-de-recursos-de-ia-gracas-a-novo-chip/"
     },
     {
-      "title": "Nintendo reduz preços de assinaturas no Brasil! Veja o que ficou mais barato",
-      "slug": "nintendo-reduz-precos-de-assinaturas-no-brasil-veja-o-que-ficou-mais-barato",
+      "title": "Motorola revela novo \"baratinho top\"; conheça o Edge 70 Fusion",
+      "slug": "motorola-revela-novo-baratinho-top-conheca-o-edge-70-fusion",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T14:23:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/motorola-revela-novo-baratinho-top-conheca-o-edge-70-fusion/"
+    },
+    {
+      "title": "Evite o drift! Controle da 8BitDo com Hall Effect por menos de R$ 150",
+      "slug": "evite-o-drift-controle-da-8bitdo-com-hall-effect-por-menos-de-rdollar-150",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T14:16:01.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/evite-o-drift-controle-da-8bitdo-com-hall-effect-por-menos-de-r-150/"
+    },
+    {
+      "title": "Motorola terá celular com 'Android sem Google' e foco em privacidade",
+      "slug": "motorola-tera-celular-com-android-sem-google-e-foco-em-privacidade",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T14:07:52.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/motorola-tera-celular-com-android-sem-google-e-foco-em-privacidade/"
+    },
+    {
+      "title": "GAC GS3: como é o SUV chinês que promete derrubar o T-Cross do trono",
+      "slug": "gac-gs3-como-e-o-suv-chines-que-promete-derrubar-o-t-cross-do-trono",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/gac-gs3-como-e-o-suv-chines-que-promete-derrubar-o-t-cross-do-trono/"
+    },
+    {
+      "title": "Brasil tem um dos Galaxy S26 mais caros do mundo, revela levantamento",
+      "slug": "brasil-tem-um-dos-galaxy-s26-mais-caros-do-mundo-revela-levantamento",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-02T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411223-brasil-tem-um-dos-galaxy-s26-mais-caros-do-mundo-revela-levantamento.htm"
+    },
+    {
+      "title": "Apple lança iPad Air com chip M4 e mais memória",
+      "slug": "apple-lanca-ipad-air-com-chip-m4-e-mais-memoria",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T12:57:09.000Z",
+      "date": "2026-03-02T14:57:11.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503657-nintendo-reduz-precos-de-assinaturas-no-brasil-veja-o-que-ficou-mais-barato.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411233-apple-lanca-ipad-air-com-chip-m4-e-mais-memoria.htm"
     },
     {
-      "title": "Xiaomi 17, 17 Ultra e smartphone da Leica ganham versão global; saiba tudo",
-      "slug": "xiaomi-17-17-ultra-e-smartphone-da-leica-ganham-versao-global-saiba-tudo",
+      "title": "Por que a Netflix desistiu de comprar a Warner Bros? CEO fala sobre lado positivo do fracasso",
+      "slug": "por-que-a-netflix-desistiu-de-comprar-a-warner-bros-ceo-fala-sobre-lado-positivo-do-fracasso",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T14:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603255-por-que-a-netflix-desistiu-de-comprar-a-warner-bros-ceo-fala-sobre-lado-positivo-do-fracasso.htm"
+    },
+    {
+      "title": "Campeonato Mundial de Excel: conheça torneio com Brasil na disputa",
+      "slug": "campeonato-mundial-de-excel-conheca-torneio-com-brasil-na-disputa",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-02T14:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/411113-campeonato-mundial-de-excel-conheca-torneio-com-brasil-na-disputa.htm"
+    },
+    {
+      "title": "Celular da Honor com gimbal terá câmera de 200 MP",
+      "slug": "celular-da-honor-com-gimbal-tera-camera-de-200-mp",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T14:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411221-celular-da-honor-com-gimbal-tera-camera-de-200-mp.htm"
+    },
+    {
+      "title": "iPhone 17e: novo 'baratinho' da Apple é anunciado a partir de R$ 5,8 mil",
+      "slug": "iphone-17e-novo-baratinho-da-apple-e-anunciado-a-partir-de-rdollar-58-mil",
+      "topic": "infra-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-02T14:08:01.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411225-iphone-17e-novo-baratinho-da-apple-e-anunciado-a-partir-de-r-58-mil.htm"
+    },
+    {
+      "title": "Air fryers por menos de R$230 para escolher no Magazine Luiza",
+      "slug": "air-fryers-por-menos-de-rdollar230-para-escolher-no-magazine-luiza",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-02T12:30:00.000Z",
+      "date": "2026-03-02T14:03:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411217-xiaomi-17-17-ultra-e-smartphone-da-leica-ganham-versao-global-saiba-tudo.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411220-air-fryers-por-menos-de-r230-para-escolher-no-magazine-luiza.htm"
     },
     {
-      "title": "Actor Awards: Confira lista completa de vencedores da premiação de cinema e TV",
-      "slug": "actor-awards-confira-lista-completa-de-vencedores-da-premiacao-de-cinema-e-tv",
+      "title": "Play Store libera mais apps e pacotes de ícones grátis por tempo limitado",
+      "slug": "play-store-libera-mais-apps-e-pacotes-de-icones-gratis-por-tempo-limitado",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-02T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411219-play-store-libera-mais-apps-e-pacotes-de-icones-gratis-por-tempo-limitado.htm"
+    },
+    {
+      "title": "Claude fora do ar? Plataforma de IA da Anthropic instável nesta segunda-feira (02)",
+      "slug": "claude-fora-do-ar-plataforma-de-ia-da-anthropic-instavel-nesta-segunda-feira-02",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-03-02T13:49:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/411224-claude-fora-do-ar-plataforma-de-ia-da-anthropic-instavel-nesta-segunda-feira-02.htm"
+    },
+    {
+      "title": "Review: Pokémon Pokopia dá show de carisma e diversão, entregando um dos melhores jogos da franquia",
+      "slug": "review-pokemon-pokopia-da-show-de-carisma-e-diversao-entregando-um-dos-melhores-jogos-da-franquia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T11:31:19.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603252-actor-awards-confira-lista-completa-de-vencedores-da-premiacao-de-cinema-e-tv.htm"
-    },
-    {
-      "title": "Marathon: tudo sobre o novo jogo da desenvolvedora de Halo",
-      "slug": "marathon-tudo-sobre-o-novo-jogo-da-desenvolvedora-de-halo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T11:15:00.000Z",
+      "date": "2026-03-02T13:40:56.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503590-marathon-tudo-sobre-o-novo-jogo-da-desenvolvedora-de-halo.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503656-review-pokemon-pokopia-da-show-de-carisma-e-diversao-entregando-um-dos-melhores-jogos-da-franquia.htm"
     },
     {
-      "title": "Homem é detido no RJ por promover baile funk para menores no Roblox",
-      "slug": "homem-e-detido-no-rj-por-promover-baile-funk-para-menores-no-roblox",
+      "title": "Briga da IA no WhatsApp: startup cria 'IA faz tudo' em novo desafio à Meta",
+      "slug": "briga-da-ia-no-whatsapp-startup-cria-ia-faz-tudo-em-novo-desafio-a-meta",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-02T12:59:50.000Z",
+      "date": "2026-03-02T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/03/02/policia-prende-suspeito-baile-funk-roblox.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/02/briga-da-ia-no-whatsapp-startup-cria-agente-de-ia-e-insinua-desafio-a-meta.htm"
     },
     {
-      "title": "AWS relata interrupção de serviço após central de dados nos Emirados Árabes Unidos ser atingida por \"objetos\"",
-      "slug": "aws-relata-interrupcao-de-servico-apos-central-de-dados-nos-emirados-arabes-unidos-ser-atingida-por-objetos",
+      "title": "Lua de Sangue é amanhã: será possível ver eclipse no Brasil?",
+      "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-02T12:40:14.000Z",
+      "date": "2026-03-02T13:03:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/aws-relata-interrupcao-de-servico-apos-central-de-dados-nos-emirados-arabes-unidos-ser-atingida-por-objetos.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/02/lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil.htm"
     }
   ]
 }

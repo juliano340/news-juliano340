@@ -1,6 +1,6 @@
 {
-  "slug": "lua-de-sangue-e-amanha-sera-possivel-ver-eclipse-no-brasil",
-  "generated_at": "2026-03-02T15:19:35.384Z",
+  "slug": "microsoft-365-family-mcafee-garanta-6tb-de-nuvem-e-office-pelo-preco-de-um",
+  "generated_at": "2026-03-02T15:09:39.224Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 350,
+      "words": 257,
       "min": 220
     },
     {
