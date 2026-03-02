@@ -1,6 +1,6 @@
 {
-  "slug": "mes-do-consumidor-iphone-16-256-gb-despenca-42percent-na-melhor-oferta-que-ja-vimos",
-  "generated_at": "2026-03-02T17:04:10.295Z",
+  "slug": "recurso-de-seguranca-do-windows-11-volta-a-exigir-formatacao-para-ser-ativado",
+  "generated_at": "2026-03-02T17:12:40.150Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 327,
+      "words": 494,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -92,11 +92,10 @@
     }
   ],
   "warnings": [
-    "fonte_primaria_ausente_no_corpo",
     "poucos_links_internos"
   ],
   "errors": [],
-  "score": 85,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

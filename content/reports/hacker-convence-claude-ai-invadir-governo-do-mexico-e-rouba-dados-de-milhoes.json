@@ -1,0 +1,19 @@
+{
+  "slug": "hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes",
+  "generated_at": "2026-03-02T17:04:31.512Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

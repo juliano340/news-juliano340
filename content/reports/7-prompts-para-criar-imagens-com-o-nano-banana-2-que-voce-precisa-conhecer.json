@@ -1,6 +1,6 @@
 {
-  "slug": "mes-do-consumidor-iphone-16-256-gb-despenca-42percent-na-melhor-oferta-que-ja-vimos",
-  "generated_at": "2026-03-02T17:04:10.295Z",
+  "slug": "7-prompts-para-criar-imagens-com-o-nano-banana-2-que-voce-precisa-conhecer",
+  "generated_at": "2026-03-02T17:08:59.807Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 327,
+      "words": 261,
       "min": 220
     },
     {
@@ -84,19 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 3,
       "min": 3
     }
   ],
   "warnings": [
-    "fonte_primaria_ausente_no_corpo",
-    "poucos_links_internos"
+    "fonte_primaria_ausente_no_corpo"
   ],
   "errors": [],
-  "score": 85,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [
