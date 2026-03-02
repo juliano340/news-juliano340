@@ -1,6 +1,6 @@
 {
-  "slug": "hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes",
-  "generated_at": "2026-03-02T19:06:43.890Z",
+  "slug": "script-de-rdollar-160-promete-travar-o-whatsapp-e-bombardear-vitimas-com-chamadas",
+  "generated_at": "2026-03-02T19:09:17.799Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 333,
+      "words": 326,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes",
-  "generated_at": "2026-03-02T19:06:43.890Z",
+  "slug": "falha-no-openclaw-site-malicioso-sequestra-agente-de-ia-sem-interacao",
+  "generated_at": "2026-03-02T19:12:16.495Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 333,
+      "words": 325,
       "min": 220
     },
     {

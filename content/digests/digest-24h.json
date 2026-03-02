@@ -1,241 +1,187 @@
 {
-  "generated_at": "2026-03-02T17:20:41.264Z",
+  "generated_at": "2026-03-02T19:12:18.793Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 26,
+  "total": 20,
   "posts": [
     {
-      "title": "Apple lança iPhone 17e, celular mais 'barato' da linha; veja preços e detalhes",
-      "slug": "apple-lanca-iphone-17e-celular-mais-barato-da-linha-veja-precos-e-detalhes",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-02T15:10:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/02/apple-lanca-iphone-17e-celular-mais-barato-da-linha-veja-precos-e-detalhes.ghtml"
-    },
-    {
-      "title": "Motorola Edge 60 Neo (256 GB) tem 46% OFF com cupom no Mês do Consumidor",
-      "slug": "motorola-edge-60-neo-256-gb-tem-46percent-off-com-cupom-no-mes-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-02T16:04:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-neo-256-gb-tem-46-off-com-cupom-no-mes-do-consumidor/"
-    },
-    {
-      "title": "Mês do Consumidor: Galaxy Z Flip 7 FE tem 52% OFF com cupom no Mercado Livre",
-      "slug": "mes-do-consumidor-galaxy-z-flip-7-fe-tem-52percent-off-com-cupom-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-02T15:08:18.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-galaxy-z-flip-7-fe-tem-52-off-com-cupom-no-mercado-livre/"
-    },
-    {
-      "title": "Galaxy S25 Ultra (512 GB) sai 53% mais barato que S26 Ultra no Mês do Consumidor",
-      "slug": "galaxy-s25-ultra-512-gb-sai-53percent-mais-barato-que-s26-ultra-no-mes-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-02T14:12:24.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-sai-53-mais-barato-que-s26-ultra-no-mes-do-consumidor/"
-    },
-    {
-      "title": "Mês do Consumidor: iPhone 16 (256 GB) despenca 42% na melhor oferta que já vimos",
-      "slug": "mes-do-consumidor-iphone-16-256-gb-despenca-42percent-na-melhor-oferta-que-ja-vimos",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-02T13:16:08.000Z",
-      "editorial_score": 85,
-      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-iphone-16-256-gb-despenca-42-na-melhor-oferta-que-ja-vimos/"
-    },
-    {
-      "title": "Atletas olímpicos viram alvo de deepfakes com fotos íntimas e citações falsas",
-      "slug": "atletas-olimpicos-viram-alvo-de-deepfakes-com-fotos-intimas-e-citacoes-falsas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-02T16:25:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/atletas-olimpicos-viram-alvo-de-deepfakes-com-fotos-intimas-e-citacoes-falsas/"
-    },
-    {
-      "title": "Apple revela novo iPad Air com chip de MacBook; veja o preço no Brasil",
-      "slug": "apple-revela-novo-ipad-air-com-chip-de-macbook-veja-o-preco-no-brasil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-02T16:16:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tablet/apple-revela-novo-ipad-air-com-chip-de-macbook-veja-o-preco-no-brasil/"
-    },
-    {
-      "title": "App do iFood ganha vacinação domiciliar em nova parceria com a Bleep",
-      "slug": "app-do-ifood-ganha-vacinacao-domiciliar-em-nova-parceria-com-a-bleep",
+      "title": "Irã tem novo apagão de internet no país em meio a conflito com EUA e Israel",
+      "slug": "ira-tem-novo-apagao-de-internet-no-pais-em-meio-a-conflito-com-eua-e-israel",
       "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-02T16:13:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-02T18:46:39.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/app-do-ifood-ganha-vacinacao-domiciliar-em-nova-parceria-com-a-bleep/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/02/ira-apagao-internet-conflito-eua-israel.ghtml"
     },
     {
-      "title": "Estudo revela falha preocupante na IA dos carros autônomos",
-      "slug": "estudo-revela-falha-preocupante-na-ia-dos-carros-autonomos",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-02T16:00:00.000Z",
+      "title": "LibreOffice vai ter versão online, mas não do jeito esperado",
+      "slug": "libreoffice-vai-ter-versao-online-mas-nao-do-jeito-esperado",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T16:56:22.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/estudo-revela-falha-preocupante-na-ia-dos-carros-autonomos/"
+      "original_url": "https://tecnoblog.net/noticias/libreoffice-vai-ter-versao-online-mas-nao-do-jeito-esperado/"
     },
     {
-      "title": "7 prompts para criar imagens com o Nano Banana 2 que você precisa conhecer",
-      "slug": "7-prompts-para-criar-imagens-com-o-nano-banana-2-que-voce-precisa-conhecer",
+      "title": "Seedance 2.0 e Veo 3: o que muda entre as IAs para criar vídeos?",
+      "slug": "seedance-20-e-veo-3-o-que-muda-entre-as-ias-para-criar-videos",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-02T15:53:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/7-prompts-para-criar-imagens-com-o-nano-banana-2-que-voce-precisa-conhecer/"
+      "date": "2026-03-02T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/seedance-20-e-veo-3-o-que-muda-entre-as-ias-para-criar-videos/"
     },
     {
-      "title": "Apple revela iPhone 17e; veja o preço do novo “iPhone barato” no Brasil",
-      "slug": "apple-revela-iphone-17e-veja-o-preco-do-novo-iphone-barato-no-brasil",
+      "title": "Rumo ao GOTY? Resident Evil Requiem atinge nota altíssima no Metacritic",
+      "slug": "rumo-ao-goty-resident-evil-requiem-atinge-nota-altissima-no-metacritic",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T15:51:00.000Z",
+      "date": "2026-03-02T18:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/apple-revela-iphone-17e-veja-o-preco-do-novo-iphone-barato-no-brasil/"
+      "original_url": "https://canaltech.com.br/games/rumo-ao-goty-resident-evil-requiem-atinge-nota-altissima-no-metacritic/"
     },
     {
-      "title": "Celulares da Samsung poderão abrir portas de casa com fechaduras inteligentes",
-      "slug": "celulares-da-samsung-poderao-abrir-portas-de-casa-com-fechaduras-inteligentes",
+      "title": "Microsoft não quer ser chamada de ‘Microslop’ e bloqueia o termo no Discord",
+      "slug": "microsoft-nao-quer-ser-chamada-de-microslop-e-bloqueia-o-termo-no-discord",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-03-02T18:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/internet/microsoft-nao-quer-ser-chamada-de-microslop-e-bloqueia-o-termo-no-discord/"
+    },
+    {
+      "title": "HBO Max e Paramount+ serão combinados em único streaming após compra da Warner",
+      "slug": "hbo-max-e-paramount-serao-combinados-em-unico-streaming-apos-compra-da-warner",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T15:50:00.000Z",
+      "date": "2026-03-02T18:30:19.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/celulares-da-samsung-poderao-abrir-portas-de-casa-com-fechaduras-inteligentes/"
+      "original_url": "https://canaltech.com.br/entretenimento/hbo-max-e-paramount-serao-combinados-em-unico-streaming-apos-compra-da-warner/"
     },
     {
-      "title": "Mãos ao alto! Pré-venda oficial de GTA 6 pode ser anunciada em breve",
-      "slug": "maos-ao-alto-pre-venda-oficial-de-gta-6-pode-ser-anunciada-em-breve",
+      "title": "DIO e TOTVS oferecem curso grátis de análise de dados com Python para iniciantes",
+      "slug": "dio-e-totvs-oferecem-curso-gratis-de-analise-de-dados-com-python-para-iniciantes",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T15:40:00.000Z",
+      "date": "2026-03-02T18:18:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/maos-ao-alto-pre-venda-oficial-de-gta-6-pode-ser-anunciada-em-breve/"
+      "original_url": "https://canaltech.com.br/mercado/dio-e-totvs-oferecem-curso-gratis-de-analise-de-dados-com-python-para-iniciantes/"
     },
     {
-      "title": "Contas lucram US$ 1 mi no Polymarket com ataque dos EUA ao Irã",
-      "slug": "contas-lucram-usdollar-1-mi-no-polymarket-com-ataque-dos-eua-ao-ira",
+      "title": "Brecha no Google deixa hackers usarem chaves de API para invadir o Gemini",
+      "slug": "brecha-no-google-deixa-hackers-usarem-chaves-de-api-para-invadir-o-gemini",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T15:07:00.000Z",
+      "date": "2026-03-02T18:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/contas-lucram-us-1-mi-no-polymarket-com-ataque-dos-eua-ao-ira/"
+      "original_url": "https://canaltech.com.br/seguranca/brecha-no-google-deixa-hackers-usarem-chaves-de-api-para-invadir-o-gemini/"
     },
     {
-      "title": "Recurso de segurança do Windows 11 volta a exigir formatação para ser ativado",
-      "slug": "recurso-de-seguranca-do-windows-11-volta-a-exigir-formatacao-para-ser-ativado",
+      "title": "Maior barco do mundo é 100% elétrico; saiba onde vai funcionar",
+      "slug": "maior-barco-do-mundo-e-100percent-eletrico-saiba-onde-vai-funcionar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/maior-barco-do-mundo-e-100-eletrico-saiba-onde-vai-funcionar/"
+    },
+    {
+      "title": "Motorola ganha autorização para lançar Edge 70 no Brasil; veja o que esperar",
+      "slug": "motorola-ganha-autorizacao-para-lancar-edge-70-no-brasil-veja-o-que-esperar",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T17:06:51.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/motorola-ganha-autorizacao-para-lancar-edge-70-no-brasil-veja-o-que-esperar/"
+    },
+    {
+      "title": "Hacker convence Claude AI invadir governo do México e rouba dados de milhões",
+      "slug": "hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T16:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes/"
+    },
+    {
+      "title": "OpenAI fecha acordo com Departamento de Guerra dos EUA após Anthropic ser banida",
+      "slug": "openai-fecha-acordo-com-departamento-de-guerra-dos-eua-apos-anthropic-ser-banida",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411236-openai-fecha-acordo-com-departamento-de-guerra-dos-eua-apos-anthropic-ser-banida.htm"
+    },
+    {
+      "title": "Honor Magic V6 é anunciado com proteção inédita contra água e corpo fino",
+      "slug": "honor-magic-v6-e-anunciado-com-protecao-inedita-contra-agua-e-corpo-fino",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-02T17:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/software/411231-recurso-de-seguranca-do-windows-11-volta-a-exigir-formatacao-para-ser-ativado.htm"
+      "date": "2026-03-02T18:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411239-honor-magic-v6-e-anunciado-com-protecao-inedita-contra-agua-e-corpo-fino.htm"
     },
     {
-      "title": "Elena fica com Damon ou Stefan no final de Vampire Diaries? Entenda",
-      "slug": "elena-fica-com-damon-ou-stefan-no-final-de-vampire-diaries-entenda",
+      "title": "Paramount+ e HBO Max vão ser unidos em um único streaming",
+      "slug": "paramount-e-hbo-max-vao-ser-unidos-em-um-unico-streaming",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T16:45:28.000Z",
+      "date": "2026-03-02T18:29:50.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603166-elena-fica-com-damon-ou-stefan-no-final-de-vampire-diaries-entenda.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603262-paramount-e-hbo-max-vao-ser-unidos-em-um-unico-streaming.htm"
     },
     {
-      "title": "Super ofertas da Shopee antecipa os descontos do 3.3; aproveite",
-      "slug": "super-ofertas-da-shopee-antecipa-os-descontos-do-33-aproveite",
+      "title": "Script de R$ 160 promete travar o WhatsApp e bombardear vítimas com chamadas",
+      "slug": "script-de-rdollar-160-promete-travar-o-whatsapp-e-bombardear-vitimas-com-chamadas",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T16:16:00.000Z",
+      "date": "2026-03-02T18:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411237-super-ofertas-da-shopee-antecipa-os-descontos-do-33-aproveite.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411203-script-de-r-160-promete-travar-o-whatsapp-e-bombardear-vitimas-com-chamadas.htm"
     },
     {
-      "title": "Wi-Fi: por que agências de segurança recomendam desligar a conexão ao sair de casa?",
-      "slug": "wi-fi-por-que-agencias-de-seguranca-recomendam-desligar-a-conexao-ao-sair-de-casa",
+      "title": "Promo da Estação no AliExpress com até 70% OFF e cupons; confira",
+      "slug": "promo-da-estacao-no-aliexpress-com-ate-70percent-off-e-cupons-confira",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T16:10:25.000Z",
+      "date": "2026-03-02T18:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/410781-wi-fi-por-que-agencias-de-seguranca-recomendam-desligar-a-conexao-ao-sair-de-casa.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411242-promo-da-estacao-no-aliexpress-com-ate-70-off-e-cupons-confira.htm"
     },
     {
-      "title": "Data center da Amazon é atingido e pega fogo após ataques no Irã",
-      "slug": "data-center-da-amazon-e-atingido-e-pega-fogo-apos-ataques-no-ira",
+      "title": "MWC 2026: Lenovo lança ThinkPad X13 com até 64 GB de RAM e mais novidades",
+      "slug": "mwc-2026-lenovo-lanca-thinkpad-x13-com-ate-64-gb-de-ram-e-mais-novidades",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T16:00:00.000Z",
+      "date": "2026-03-02T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411227-data-center-da-amazon-e-atingido-e-pega-fogo-apos-ataques-no-ira.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411226-mwc-2026-lenovo-lanca-thinkpad-x13-com-ate-64-gb-de-ram-e-mais-novidades.htm"
     },
     {
-      "title": "Need for Speed Carbon ganha gráficos RTX no PC com novo mod! Veja como usar",
-      "slug": "need-for-speed-carbon-ganha-graficos-rtx-no-pc-com-novo-mod-veja-como-usar",
+      "title": "Novo God of War pode ser lançado sem Kratos protagonista e com grandes mudanças, indica rumor",
+      "slug": "novo-god-of-war-pode-ser-lancado-sem-kratos-protagonista-e-com-grandes-mudancas-indica-rumor",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T15:45:32.000Z",
+      "date": "2026-03-02T17:45:35.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503603-need-for-speed-carbon-ganha-graficos-rtx-no-pc-com-novo-mod-veja-como-usar.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503658-novo-god-of-war-pode-ser-lancado-sem-kratos-protagonista-e-com-grandes-mudancas-indica-rumor.htm"
     },
     {
-      "title": "Snapdragon Wear Elite é o novo chip para vestíveis potentes",
-      "slug": "snapdragon-wear-elite-e-o-novo-chip-para-vestiveis-potentes",
+      "title": "Jim Carrey não foi clonado ou substituído! Entenda teoria da conspiração",
+      "slug": "jim-carrey-nao-foi-clonado-ou-substituido-entenda-teoria-da-conspiracao",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T15:30:00.000Z",
+      "date": "2026-03-02T17:20:09.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411230-snapdragon-wear-elite-e-o-novo-chip-para-vestiveis-potentes.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603261-jim-carrey-nao-foi-clonado-ou-substituido-entenda-teoria-da-conspiracao.htm"
     },
     {
-      "title": "FGV sofre vazamento de 1,52 TB em suposto ataque cibernético do grupo Dragonforce",
-      "slug": "fgv-sofre-vazamento-de-152-tb-em-suposto-ataque-cibernetico-do-grupo-dragonforce",
+      "title": "Falha no OpenClaw: site malicioso sequestra agente de IA sem interação",
+      "slug": "falha-no-openclaw-site-malicioso-sequestra-agente-de-ia-sem-interacao",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T15:10:00.000Z",
+      "date": "2026-03-02T17:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411228-fgv-sofre-vazamento-de-152-tb-em-suposto-ataque-cibernetico-do-grupo-dragonforce.htm"
-    },
-    {
-      "title": "Startup chinesa de IA MiniMax tem forte crescimento de receita",
-      "slug": "startup-chinesa-de-ia-minimax-tem-forte-crescimento-de-receita",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T16:20:10.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/startup-chinesa-de-ia-minimax-tem-forte-crescimento-de-receita.htm"
-    },
-    {
-      "title": "Nvidia investirá US$2 bi na Lumentum e na Coherent para reforçar velocidade de chips de IA",
-      "slug": "nvidia-investira-usdollar2-bi-na-lumentum-e-na-coherent-para-reforcar-velocidade-de-chips-de-ia",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T16:03:51.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/nvidia-investira-us2-bi-na-lumentum-e-na-coherent-para-reforcar-velocidade-de-chips-de-ia.htm"
-    },
-    {
-      "title": "iPhone 17e chega ao Brasil a partir de R$ 5.799; veja as novidades",
-      "slug": "iphone-17e-chega-ao-brasil-a-partir-de-rdollar-5799-veja-as-novidades",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T15:42:13.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/02/iphone-17e.htm"
-    },
-    {
-      "title": "Apple lança iPhone 17e por US$599 e 256 gigabytes de armazenamento",
-      "slug": "apple-lanca-iphone-17e-por-usdollar599-e-256-gigabytes-de-armazenamento",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T15:16:34.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/apple-lanca-iphone-17e-por-us599-e-256-gigabytes-de-armazenamento.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411238-falha-no-openclaw-site-malicioso-sequestra-agente-de-ia-sem-interacao.htm"
     }
   ]
 }

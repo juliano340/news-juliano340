@@ -1,6 +1,6 @@
 {
-  "slug": "hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes",
-  "generated_at": "2026-03-02T19:06:43.890Z",
+  "slug": "novo-god-of-war-pode-ser-lancado-sem-kratos-protagonista-e-com-grandes-mudancas-indica-rumor",
+  "generated_at": "2026-03-02T19:10:54.856Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 333,
+      "words": 356,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes",
-  "generated_at": "2026-03-02T19:06:43.890Z",
+  "slug": "seedance-20-e-veo-3-o-que-muda-entre-as-ias-para-criar-videos",
+  "generated_at": "2026-03-02T19:01:48.169Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 333,
+      "words": 370,
       "min": 220
     },
     {
