@@ -1,25 +1,133 @@
 {
-  "generated_at": "2026-03-02T11:02:17.155Z",
+  "generated_at": "2026-03-02T13:10:49.472Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 14,
   "posts": [
     {
-      "title": "Arquivo .scr é vírus? Entenda o perigo e aprenda a bloquear no Windows",
-      "slug": "arquivo-scr-e-virus-entenda-o-perigo-e-aprenda-a-bloquear-no-windows",
-      "topic": "geral",
+      "title": "O Claude caiu? Usuários relatam problemas nesta segunda (2)",
+      "slug": "o-claude-caiu-usuarios-relatam-problemas-nesta-segunda-2",
+      "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-02T10:30:00.000Z",
+      "date": "2026-03-02T12:56:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/arquivo-scr-e-virus-entenda-o-perigo-e-aprenda-a-bloquear-no-windows/"
+      "original_url": "https://canaltech.com.br/apps/o-claude-caiu-usuarios-relatam-problemas-nesta-segunda-2/"
     },
     {
-      "title": "Suporte BetMGM: como falar com o atendimento e resolver problemas",
-      "slug": "suporte-betmgm-como-falar-com-o-atendimento-e-resolver-problemas",
+      "title": "Chinesa revela 1º \"celular robô\" do mundo na MWC; veja vídeo",
+      "slug": "chinesa-revela-1o-celular-robo-do-mundo-na-mwc-veja-video",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T12:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/chinesa-revela-1o-celular-robo-do-mundo-na-mwc-veja-video/"
+    },
+    {
+      "title": "Honor revela robô humanoide que imita Michael Jackson e dá salto mortal; vídeo",
+      "slug": "honor-revela-robo-humanoide-que-imita-michael-jackson-e-da-salto-mortal-video",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-02T12:44:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/honor-revela-robo-humanoide-que-imita-michael-jackson-e-da-salto-mortal-video/"
+    },
+    {
+      "title": "Claude ultrapassa ChaGPT e Gemini nos EUA após recusar acordo com o Pentágono",
+      "slug": "claude-ultrapassa-chagpt-e-gemini-nos-eua-apos-recusar-acordo-com-o-pentagono",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-02T12:35:41.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/claude-ultrapassa-chagpt-e-gemini-nos-eua-apos-recusar-acordo-com-o-pentagono/"
+    },
+    {
+      "title": "Relatório confirma motivo da morte de motorista em acidente com Xiaomi SU7",
+      "slug": "relatorio-confirma-motivo-da-morte-de-motorista-em-acidente-com-xiaomi-su7",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-02T12:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/carros/relatorio-confirma-motivo-da-morte-de-motorista-em-acidente-com-xiomi-su7/"
+    },
+    {
+      "title": "Novo golpe usa IA para gerar comprovante falso de Pix; bancos não devolvem valor",
+      "slug": "novo-golpe-usa-ia-para-gerar-comprovante-falso-de-pix-bancos-nao-devolvem-valor",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T11:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/novo-golpe-usa-ia-para-gerar-comprovante-falso-de-pix-bancos-nao-devolvem-valor/"
+    },
+    {
+      "title": "O que esperar da MWC Barcelona 2026? Veja os principais lançamentos da feira",
+      "slug": "o-que-esperar-da-mwc-barcelona-2026-veja-os-principais-lancamentos-da-feira",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T11:19:09.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/o-que-esperar-da-mwc-barcelona-2026-veja-os-principais-lancamentos-da-feira/"
+    },
+    {
+      "title": "Justiça condena Bradesco por golpe da falsa central de atendimento",
+      "slug": "justica-condena-bradesco-por-golpe-da-falsa-central-de-atendimento",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-02T11:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/justica-condena-bradesco-por-golpe-da-falsa-central-de-atendimento/"
+    },
+    {
+      "title": "Nintendo reduz preços de assinaturas no Brasil! Veja o que ficou mais barato",
+      "slug": "nintendo-reduz-precos-de-assinaturas-no-brasil-veja-o-que-ficou-mais-barato",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T12:57:09.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503657-nintendo-reduz-precos-de-assinaturas-no-brasil-veja-o-que-ficou-mais-barato.htm"
+    },
+    {
+      "title": "Xiaomi 17, 17 Ultra e smartphone da Leica ganham versão global; saiba tudo",
+      "slug": "xiaomi-17-17-ultra-e-smartphone-da-leica-ganham-versao-global-saiba-tudo",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-02T11:00:00.000Z",
+      "date": "2026-03-02T12:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411217-xiaomi-17-17-ultra-e-smartphone-da-leica-ganham-versao-global-saiba-tudo.htm"
+    },
+    {
+      "title": "Actor Awards: Confira lista completa de vencedores da premiação de cinema e TV",
+      "slug": "actor-awards-confira-lista-completa-de-vencedores-da-premiacao-de-cinema-e-tv",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T11:31:19.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411159-suporte-betmgm-como-falar-com-o-atendimento-e-resolver-problemas.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603252-actor-awards-confira-lista-completa-de-vencedores-da-premiacao-de-cinema-e-tv.htm"
+    },
+    {
+      "title": "Marathon: tudo sobre o novo jogo da desenvolvedora de Halo",
+      "slug": "marathon-tudo-sobre-o-novo-jogo-da-desenvolvedora-de-halo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503590-marathon-tudo-sobre-o-novo-jogo-da-desenvolvedora-de-halo.htm"
+    },
+    {
+      "title": "Homem é detido no RJ por promover baile funk para menores no Roblox",
+      "slug": "homem-e-detido-no-rj-por-promover-baile-funk-para-menores-no-roblox",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-02T12:59:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/03/02/policia-prende-suspeito-baile-funk-roblox.htm"
+    },
+    {
+      "title": "AWS relata interrupção de serviço após central de dados nos Emirados Árabes Unidos ser atingida por \"objetos\"",
+      "slug": "aws-relata-interrupcao-de-servico-apos-central-de-dados-nos-emirados-arabes-unidos-ser-atingida-por-objetos",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-02T12:40:14.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/aws-relata-interrupcao-de-servico-apos-central-de-dados-nos-emirados-arabes-unidos-ser-atingida-por-objetos.htm"
     }
   ]
 }
