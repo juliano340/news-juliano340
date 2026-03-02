@@ -1,6 +1,6 @@
 {
-  "slug": "claude-agora-permite-importar-memoria-do-chatgpt-gemini-e-outras-ias-de-graca",
-  "generated_at": "2026-03-02T23:06:10.473Z",
+  "slug": "god-of-war-ator-de-kratos-rebate-criticas-negativas-a-imagem-da-serie",
+  "generated_at": "2026-03-02T23:04:31.754Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 332,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "claude-agora-permite-importar-memoria-do-chatgpt-gemini-e-outras-ias-de-graca",
-  "generated_at": "2026-03-02T23:06:10.473Z",
+  "slug": "quem-diria-intel-vence-premio-canaltech-com-melhor-gpu-custo-beneficio",
+  "generated_at": "2026-03-02T23:05:13.971Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 393,
       "min": 220
     },
     {

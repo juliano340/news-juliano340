@@ -1,24 +1,18 @@
 # Weekly IA para Devs - 2026-03-02
 
-Gerado em 2026-03-02T21:14:26.241Z
+Gerado em 2026-03-02T23:09:29.736Z
 
-- [Códigos e cheats de Pokémon Crystal](https://tecnoblog.net/responde/codigos-e-cheats-de-pokemon-crystal/) | topico: geral | score: 100
-- [Galaxy S25 (256 GB) fica 52% mais barato que o Galaxy S26 no Mês do Consumidor](https://tecnoblog.net/achados/galaxy-s25-256-gb-fica-52-mais-barato-que-o-galaxy-s26-no-mes-do-consumidor/) | topico: geral | score: 92
-- [Motorola terá suporte a Android sem Google, com foco em privacidade](https://tecnoblog.net/noticias/motorola-tera-suporte-a-android-sem-google-com-foco-em-privacidade/) | topico: geral | score: 100
-- [O que é um Chromebook? Entenda a diferença para o notebook convencional](https://tecnoblog.net/responde/o-que-e-chromebook/) | topico: geral | score: 100
-- [Mês do Consumidor: iPhone 17 Pro (512 GB) cai R$ 3 mil em oferta histórica](https://tecnoblog.net/achados/mes-do-consumidor-iphone-17-pro-512-gb-cai-r-3-mil-em-oferta-historica/) | topico: geral | score: 92
-- [Comprou e não gostou? Samsung vai reembolsar valor gasto em novas caixas de som](https://canaltech.com.br/eletro/comprou-e-nao-gostou-samsung-vai-reembolsar-valor-gasto-em-novas-caixas-de-som/) | topico: produtividade-dev | score: 100
-- [One UI 8.5 pode remover funções importantes do modo de recuperação do Android](https://canaltech.com.br/apps/one-ui-85-pode-remover-funcoes-importantes-do-modo-de-recuperacao-do-android/) | topico: seguranca-ia | score: 92
-- [Netflix explica por que desistiu de comprar a Warner: “Não precisamos deles”](https://canaltech.com.br/entretenimento/netflix-explica-por-que-desistiu-de-comprar-a-warner-nao-precisamos-deles/) | topico: geral | score: 100
-- [China coloca 3 marcas no top 10 de maiores fabricantes de carros do mundo](https://canaltech.com.br/carros/china-coloca-3-marcas-no-top-10-de-maiores-fabricantes-de-carros-do-mundo/) | topico: geral | score: 100
-- [Celular robô e aparelho sem porta USB: tudo que foi revelado no 1o dia da MWC](https://canaltech.com.br/smartphone/celular-robo-e-aparelho-sem-porta-usb-tudo-que-foi-revelado-no-1o-dia-da-mwc/) | topico: geral | score: 100
-- [Quem é Victor Gideon, vilão de Resident Evil Requiem?](https://canaltech.com.br/games/quem-e-victor-gideon-vilao-de-resident-evil-requiem/) | topico: geral | score: 100
-- [Comparativo iPhone 17e x 16e: veja o que a Apple mudou em um ano](https://canaltech.com.br/smartphone/comparativo-iphone-17e-x-16e-veja-o-que-a-apple-mudou-em-um-ano/) | topico: geral | score: 100
-- [Avanço da IA causa 4 mil demissões na Block, empresa do cofundador do Twitter](https://canaltech.com.br/mercado/avanco-da-ia-causa-4-mil-demissoes-na-block-empresa-do-cofundador-do-twitter/) | topico: geral | score: 100
-- [Puzzle final de Resident Evil Requiem é solucionado! Veja como resolver](https://www.tecmundo.com.br/voxel/503662-puzzle-final-de-resident-evil-requiem-e-solucionado-veja-como-resolver.htm) | topico: geral | score: 100
-- [Marshals: novo spin-off de Yellowstone mata personagem da série original](https://www.tecmundo.com.br/minha-serie/603257-marshals-novo-spin-off-de-yellowstone-mata-personagem-da-serie-original.htm) | topico: geral | score: 100
-- [Vídeo mostra 'túnel de drones' do Irã preparados para ataque](https://www.tecmundo.com.br/seguranca/411243-video-mostra-tunel-de-drones-do-ira-preparados-para-ataque.htm) | topico: geral | score: 100
-- [Honor apresenta robô humanoide dançarino na MWC 2026](https://www.tecmundo.com.br/produto/411240-honor-apresenta-robo-humanoide-dancarino-na-mwc-2026.htm) | topico: produtividade-dev | score: 92
-- [Fone Huawei FreeClip 2 com até 46% OFF na Shopee; aproveite](https://www.tecmundo.com.br/guia-de-compras/411248-fone-huawei-freeclip-2-com-ate-46-off-na-shopee-aproveite.htm) | topico: geral | score: 100
-- [Cheats de Resident Evil Requiem: Veja lista e como usar códigos](https://www.tecmundo.com.br/voxel/503659-cheats-de-resident-evil-requiem-veja-lista-e-como-usar-codigos.htm) | topico: geral | score: 100
-- [Irã patrocina ecossistema hacker em estratégias de guerra cibernética](https://www.tecmundo.com.br/seguranca/411245-ira-patrocina-ecossistema-hacker-em-estrategias-de-guerra-cibernetica.htm) | topico: geral | score: 100
+- [EUA usaram inteligência artificial Claude, rival do ChatGPT, em ataque ao Irã, diz jornal](https://g1.globo.com/tecnologia/noticia/2026/03/02/eua-inteligencia-artificial-claude-ira.ghtml) | topico: llms | score: 100
+- [Huawei Watch GT 6 Pro tem desconto histórico em até 10x no Mês do Consumidor](https://tecnoblog.net/achados/huawei-watch-gt-6-pro-tem-desconto-historico-em-ate-10x-no-mes-do-consumidor/) | topico: geral | score: 100
+- [Galaxy Z Fold 7 (512 GB) tem 45% OFF no Mês do Consumidor no Mercado Livre](https://tecnoblog.net/achados/galaxy-z-fold-7-512-gb-tem-45-off-no-mes-do-consumidor-no-mercado-livre/) | topico: geral | score: 92
+- [Mês do Consumidor tem iPad Air M3 em até 10x após lançamento do iPad Air M4](https://tecnoblog.net/achados/mes-do-consumidor-tem-ipad-air-m3-em-ate-10x-apos-lancamento-do-ipad-air-m4/) | topico: geral | score: 100
+- [God of War: Ator de Kratos rebate críticas negativas à imagem da série](https://canaltech.com.br/games/god-of-war-ator-de-kratos-rebate-criticas-negativas-a-imagem-da-serie/) | topico: geral | score: 100
+- [Quem diria? Intel vence Prêmio Canaltech com melhor GPU custo-benefício](https://canaltech.com.br/hardware/quem-diria-intel-vence-premio-canaltech-com-melhor-gpu-custo-beneficio/) | topico: geral | score: 100
+- [Starfield no PS5: vazamento revela data de lançamento e preço das edições física](https://canaltech.com.br/games/starfield-no-ps5-vazamento-revela-data-de-lancamento-e-preco-das-edicoes-fisica/) | topico: geral | score: 100
+- [Claude agora permite importar memória do ChatGPT, Gemini e outras IAs de graça](https://canaltech.com.br/apps/claude-agora-permite-importar-memoria-do-chatgpt-gemini-e-outras-ias-de-graca/) | topico: llms | score: 100
+- [Canais de TV do Paquistão são hackeados e exibem mensagens antimilitares](https://www.tecmundo.com.br/seguranca/411258-canais-de-tv-do-paquistao-sao-hackeados-e-exibem-mensagens-antimilitares.htm) | topico: geral | score: 100
+- [Motorola Razr Fold é oficializado como novo dobrável com 7 anos de Android](https://www.tecmundo.com.br/produto/411253-motorola-razr-fold-e-oficializado-como-novo-dobravel-com-7-anos-de-android.htm) | topico: produtividade-dev | score: 100
+- [Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (2)](https://www.tecmundo.com.br/minha-serie/603256-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-2.htm) | topico: geral | score: 100
+- [Motorista da Uber viraliza ao criar jogo sobre ele mesmo](https://www.tecmundo.com.br/internet/411247-motorista-da-uber-viraliza-ao-criar-jogo-sobre-ele-mesmo.htm) | topico: geral | score: 100
+- [Google alerta que Irã vai retaliar no ambiente cibernético](https://www.tecmundo.com.br/seguranca/411249-google-alerta-que-ira-vai-retaliar-no-ambiente-cibernetico.htm) | topico: geral | score: 100
+- [Caltech processa Zoom por violação de patente](https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/caltech-processa-zoom-por-violacao-de-patente.htm) | topico: geral | score: 100

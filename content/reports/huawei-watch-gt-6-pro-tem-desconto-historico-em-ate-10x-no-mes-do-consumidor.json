@@ -1,6 +1,6 @@
 {
-  "slug": "claude-agora-permite-importar-memoria-do-chatgpt-gemini-e-outras-ias-de-graca",
-  "generated_at": "2026-03-02T23:06:10.473Z",
+  "slug": "huawei-watch-gt-6-pro-tem-desconto-historico-em-ate-10x-no-mes-do-consumidor",
+  "generated_at": "2026-03-02T23:01:46.691Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 399,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "claude-agora-permite-importar-memoria-do-chatgpt-gemini-e-outras-ias-de-graca",
-  "generated_at": "2026-03-02T23:06:10.473Z",
+  "slug": "mes-do-consumidor-tem-ipad-air-m3-em-ate-10x-apos-lancamento-do-ipad-air-m4",
+  "generated_at": "2026-03-02T23:03:14.443Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 453,
       "min": 220
     },
     {
