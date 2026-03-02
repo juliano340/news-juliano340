@@ -1,187 +1,187 @@
 {
-  "generated_at": "2026-03-02T19:12:18.793Z",
+  "generated_at": "2026-03-02T21:14:26.241Z",
   "niche": "ia-para-desenvolvedores",
   "total": 20,
   "posts": [
     {
-      "title": "Irã tem novo apagão de internet no país em meio a conflito com EUA e Israel",
-      "slug": "ira-tem-novo-apagao-de-internet-no-pais-em-meio-a-conflito-com-eua-e-israel",
-      "topic": "seguranca-ia",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-02T18:46:39.000Z",
-      "editorial_score": 92,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/02/ira-apagao-internet-conflito-eua-israel.ghtml"
-    },
-    {
-      "title": "LibreOffice vai ter versão online, mas não do jeito esperado",
-      "slug": "libreoffice-vai-ter-versao-online-mas-nao-do-jeito-esperado",
-      "topic": "infra-ia",
+      "title": "Códigos e cheats de Pokémon Crystal",
+      "slug": "codigos-e-cheats-de-pokemon-crystal",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-02T16:56:22.000Z",
+      "date": "2026-03-02T20:27:10.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/libreoffice-vai-ter-versao-online-mas-nao-do-jeito-esperado/"
+      "original_url": "https://tecnoblog.net/responde/codigos-e-cheats-de-pokemon-crystal/"
     },
     {
-      "title": "Seedance 2.0 e Veo 3: o que muda entre as IAs para criar vídeos?",
-      "slug": "seedance-20-e-veo-3-o-que-muda-entre-as-ias-para-criar-videos",
-      "topic": "llms",
+      "title": "Galaxy S25 (256 GB) fica 52% mais barato que o Galaxy S26 no Mês do Consumidor",
+      "slug": "galaxy-s25-256-gb-fica-52percent-mais-barato-que-o-galaxy-s26-no-mes-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T20:14:16.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-256-gb-fica-52-mais-barato-que-o-galaxy-s26-no-mes-do-consumidor/"
+    },
+    {
+      "title": "Motorola terá suporte a Android sem Google, com foco em privacidade",
+      "slug": "motorola-tera-suporte-a-android-sem-google-com-foco-em-privacidade",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T20:10:08.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/motorola-tera-suporte-a-android-sem-google-com-foco-em-privacidade/"
+    },
+    {
+      "title": "O que é um Chromebook? Entenda a diferença para o notebook convencional",
+      "slug": "o-que-e-um-chromebook-entenda-a-diferenca-para-o-notebook-convencional",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T19:58:48.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/o-que-e-chromebook/"
+    },
+    {
+      "title": "Mês do Consumidor: iPhone 17 Pro (512 GB) cai R$ 3 mil em oferta histórica",
+      "slug": "mes-do-consumidor-iphone-17-pro-512-gb-cai-rdollar-3-mil-em-oferta-historica",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-02T19:27:21.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-iphone-17-pro-512-gb-cai-r-3-mil-em-oferta-historica/"
+    },
+    {
+      "title": "Comprou e não gostou? Samsung vai reembolsar valor gasto em novas caixas de som",
+      "slug": "comprou-e-nao-gostou-samsung-vai-reembolsar-valor-gasto-em-novas-caixas-de-som",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-02T19:00:00.000Z",
+      "date": "2026-03-02T20:56:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/seedance-20-e-veo-3-o-que-muda-entre-as-ias-para-criar-videos/"
+      "original_url": "https://canaltech.com.br/eletro/comprou-e-nao-gostou-samsung-vai-reembolsar-valor-gasto-em-novas-caixas-de-som/"
     },
     {
-      "title": "Rumo ao GOTY? Resident Evil Requiem atinge nota altíssima no Metacritic",
-      "slug": "rumo-ao-goty-resident-evil-requiem-atinge-nota-altissima-no-metacritic",
+      "title": "One UI 8.5 pode remover funções importantes do modo de recuperação do Android",
+      "slug": "one-ui-85-pode-remover-funcoes-importantes-do-modo-de-recuperacao-do-android",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-02T20:42:26.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/one-ui-85-pode-remover-funcoes-importantes-do-modo-de-recuperacao-do-android/"
+    },
+    {
+      "title": "Netflix explica por que desistiu de comprar a Warner: “Não precisamos deles”",
+      "slug": "netflix-explica-por-que-desistiu-de-comprar-a-warner-nao-precisamos-deles",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T18:45:00.000Z",
+      "date": "2026-03-02T20:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/rumo-ao-goty-resident-evil-requiem-atinge-nota-altissima-no-metacritic/"
+      "original_url": "https://canaltech.com.br/entretenimento/netflix-explica-por-que-desistiu-de-comprar-a-warner-nao-precisamos-deles/"
     },
     {
-      "title": "Microsoft não quer ser chamada de ‘Microslop’ e bloqueia o termo no Discord",
-      "slug": "microsoft-nao-quer-ser-chamada-de-microslop-e-bloqueia-o-termo-no-discord",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-03-02T18:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/internet/microsoft-nao-quer-ser-chamada-de-microslop-e-bloqueia-o-termo-no-discord/"
-    },
-    {
-      "title": "HBO Max e Paramount+ serão combinados em único streaming após compra da Warner",
-      "slug": "hbo-max-e-paramount-serao-combinados-em-unico-streaming-apos-compra-da-warner",
+      "title": "China coloca 3 marcas no top 10 de maiores fabricantes de carros do mundo",
+      "slug": "china-coloca-3-marcas-no-top-10-de-maiores-fabricantes-de-carros-do-mundo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T18:30:19.000Z",
+      "date": "2026-03-02T20:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/hbo-max-e-paramount-serao-combinados-em-unico-streaming-apos-compra-da-warner/"
+      "original_url": "https://canaltech.com.br/carros/china-coloca-3-marcas-no-top-10-de-maiores-fabricantes-de-carros-do-mundo/"
     },
     {
-      "title": "DIO e TOTVS oferecem curso grátis de análise de dados com Python para iniciantes",
-      "slug": "dio-e-totvs-oferecem-curso-gratis-de-analise-de-dados-com-python-para-iniciantes",
+      "title": "Celular robô e aparelho sem porta USB: tudo que foi revelado no 1o dia da MWC",
+      "slug": "celular-robo-e-aparelho-sem-porta-usb-tudo-que-foi-revelado-no-1o-dia-da-mwc",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T18:18:00.000Z",
+      "date": "2026-03-02T20:04:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/dio-e-totvs-oferecem-curso-gratis-de-analise-de-dados-com-python-para-iniciantes/"
+      "original_url": "https://canaltech.com.br/smartphone/celular-robo-e-aparelho-sem-porta-usb-tudo-que-foi-revelado-no-1o-dia-da-mwc/"
     },
     {
-      "title": "Brecha no Google deixa hackers usarem chaves de API para invadir o Gemini",
-      "slug": "brecha-no-google-deixa-hackers-usarem-chaves-de-api-para-invadir-o-gemini",
+      "title": "Quem é Victor Gideon, vilão de Resident Evil Requiem?",
+      "slug": "quem-e-victor-gideon-vilao-de-resident-evil-requiem",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T18:05:00.000Z",
+      "date": "2026-03-02T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/brecha-no-google-deixa-hackers-usarem-chaves-de-api-para-invadir-o-gemini/"
+      "original_url": "https://canaltech.com.br/games/quem-e-victor-gideon-vilao-de-resident-evil-requiem/"
     },
     {
-      "title": "Maior barco do mundo é 100% elétrico; saiba onde vai funcionar",
-      "slug": "maior-barco-do-mundo-e-100percent-eletrico-saiba-onde-vai-funcionar",
+      "title": "Comparativo iPhone 17e x 16e: veja o que a Apple mudou em um ano",
+      "slug": "comparativo-iphone-17e-x-16e-veja-o-que-a-apple-mudou-em-um-ano",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T18:00:00.000Z",
+      "date": "2026-03-02T19:47:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/maior-barco-do-mundo-e-100-eletrico-saiba-onde-vai-funcionar/"
+      "original_url": "https://canaltech.com.br/smartphone/comparativo-iphone-17e-x-16e-veja-o-que-a-apple-mudou-em-um-ano/"
     },
     {
-      "title": "Motorola ganha autorização para lançar Edge 70 no Brasil; veja o que esperar",
-      "slug": "motorola-ganha-autorizacao-para-lancar-edge-70-no-brasil-veja-o-que-esperar",
+      "title": "Avanço da IA causa 4 mil demissões na Block, empresa do cofundador do Twitter",
+      "slug": "avanco-da-ia-causa-4-mil-demissoes-na-block-empresa-do-cofundador-do-twitter",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-02T17:06:51.000Z",
+      "date": "2026-03-02T19:47:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/motorola-ganha-autorizacao-para-lancar-edge-70-no-brasil-veja-o-que-esperar/"
+      "original_url": "https://canaltech.com.br/mercado/avanco-da-ia-causa-4-mil-demissoes-na-block-empresa-do-cofundador-do-twitter/"
     },
     {
-      "title": "Hacker convence Claude AI invadir governo do México e rouba dados de milhões",
-      "slug": "hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-02T16:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/hacker-convence-claude-ai-invadir-governo-do-mexico-e-rouba-dados-de-milhoes/"
-    },
-    {
-      "title": "OpenAI fecha acordo com Departamento de Guerra dos EUA após Anthropic ser banida",
-      "slug": "openai-fecha-acordo-com-departamento-de-guerra-dos-eua-apos-anthropic-ser-banida",
+      "title": "Puzzle final de Resident Evil Requiem é solucionado! Veja como resolver",
+      "slug": "puzzle-final-de-resident-evil-requiem-e-solucionado-veja-como-resolver",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T19:00:00.000Z",
+      "date": "2026-03-02T21:05:34.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411236-openai-fecha-acordo-com-departamento-de-guerra-dos-eua-apos-anthropic-ser-banida.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503662-puzzle-final-de-resident-evil-requiem-e-solucionado-veja-como-resolver.htm"
     },
     {
-      "title": "Honor Magic V6 é anunciado com proteção inédita contra água e corpo fino",
-      "slug": "honor-magic-v6-e-anunciado-com-protecao-inedita-contra-agua-e-corpo-fino",
+      "title": "Marshals: novo spin-off de Yellowstone mata personagem da série original",
+      "slug": "marshals-novo-spin-off-de-yellowstone-mata-personagem-da-serie-original",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T20:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603257-marshals-novo-spin-off-de-yellowstone-mata-personagem-da-serie-original.htm"
+    },
+    {
+      "title": "Vídeo mostra 'túnel de drones' do Irã preparados para ataque",
+      "slug": "video-mostra-tunel-de-drones-do-ira-preparados-para-ataque",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-02T20:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411243-video-mostra-tunel-de-drones-do-ira-preparados-para-ataque.htm"
+    },
+    {
+      "title": "Honor apresenta robô humanoide dançarino na MWC 2026",
+      "slug": "honor-apresenta-robo-humanoide-dancarino-na-mwc-2026",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-02T18:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411239-honor-magic-v6-e-anunciado-com-protecao-inedita-contra-agua-e-corpo-fino.htm"
+      "date": "2026-03-02T20:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/411240-honor-apresenta-robo-humanoide-dancarino-na-mwc-2026.htm"
     },
     {
-      "title": "Paramount+ e HBO Max vão ser unidos em um único streaming",
-      "slug": "paramount-e-hbo-max-vao-ser-unidos-em-um-unico-streaming",
+      "title": "Fone Huawei FreeClip 2 com até 46% OFF na Shopee; aproveite",
+      "slug": "fone-huawei-freeclip-2-com-ate-46percent-off-na-shopee-aproveite",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T18:29:50.000Z",
+      "date": "2026-03-02T19:56:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603262-paramount-e-hbo-max-vao-ser-unidos-em-um-unico-streaming.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411248-fone-huawei-freeclip-2-com-ate-46-off-na-shopee-aproveite.htm"
     },
     {
-      "title": "Script de R$ 160 promete travar o WhatsApp e bombardear vítimas com chamadas",
-      "slug": "script-de-rdollar-160-promete-travar-o-whatsapp-e-bombardear-vitimas-com-chamadas",
+      "title": "Cheats de Resident Evil Requiem: Veja lista e como usar códigos",
+      "slug": "cheats-de-resident-evil-requiem-veja-lista-e-como-usar-codigos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T18:10:00.000Z",
+      "date": "2026-03-02T19:45:05.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411203-script-de-r-160-promete-travar-o-whatsapp-e-bombardear-vitimas-com-chamadas.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503659-cheats-de-resident-evil-requiem-veja-lista-e-como-usar-codigos.htm"
     },
     {
-      "title": "Promo da Estação no AliExpress com até 70% OFF e cupons; confira",
-      "slug": "promo-da-estacao-no-aliexpress-com-ate-70percent-off-e-cupons-confira",
+      "title": "Irã patrocina ecossistema hacker em estratégias de guerra cibernética",
+      "slug": "ira-patrocina-ecossistema-hacker-em-estrategias-de-guerra-cibernetica",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T18:06:00.000Z",
+      "date": "2026-03-02T19:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411242-promo-da-estacao-no-aliexpress-com-ate-70-off-e-cupons-confira.htm"
-    },
-    {
-      "title": "MWC 2026: Lenovo lança ThinkPad X13 com até 64 GB de RAM e mais novidades",
-      "slug": "mwc-2026-lenovo-lanca-thinkpad-x13-com-ate-64-gb-de-ram-e-mais-novidades",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411226-mwc-2026-lenovo-lanca-thinkpad-x13-com-ate-64-gb-de-ram-e-mais-novidades.htm"
-    },
-    {
-      "title": "Novo God of War pode ser lançado sem Kratos protagonista e com grandes mudanças, indica rumor",
-      "slug": "novo-god-of-war-pode-ser-lancado-sem-kratos-protagonista-e-com-grandes-mudancas-indica-rumor",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T17:45:35.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503658-novo-god-of-war-pode-ser-lancado-sem-kratos-protagonista-e-com-grandes-mudancas-indica-rumor.htm"
-    },
-    {
-      "title": "Jim Carrey não foi clonado ou substituído! Entenda teoria da conspiração",
-      "slug": "jim-carrey-nao-foi-clonado-ou-substituido-entenda-teoria-da-conspiracao",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T17:20:09.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603261-jim-carrey-nao-foi-clonado-ou-substituido-entenda-teoria-da-conspiracao.htm"
-    },
-    {
-      "title": "Falha no OpenClaw: site malicioso sequestra agente de IA sem interação",
-      "slug": "falha-no-openclaw-site-malicioso-sequestra-agente-de-ia-sem-interacao",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T17:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411238-falha-no-openclaw-site-malicioso-sequestra-agente-de-ia-sem-interacao.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411245-ira-patrocina-ecossistema-hacker-em-estrategias-de-guerra-cibernetica.htm"
     }
   ]
 }
