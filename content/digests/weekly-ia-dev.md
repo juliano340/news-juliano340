@@ -1,7 +1,7 @@
-# Weekly IA para Devs - 2026-03-01
+# Weekly IA para Devs - 2026-03-02
 
-Gerado em 2026-03-01T23:03:00.660Z
+Gerado em 2026-03-02T01:02:28.276Z
 
-- [Montadora chinesa clona carrões e até nome de marca premium; entenda](https://canaltech.com.br/carros/montadora-chinesa-clona-carroes-e-ate-nome-de-marca-premium-entenda/) | topico: geral | score: 100
-- [Por que os jogos como serviço estão morrendo?](https://canaltech.com.br/games/por-que-os-jogos-como-servico-estao-morrendo/) | topico: geral | score: 100
-- [Pokémon Pokopia, Marathon e mais! Veja os lançamentos de games da semana](https://www.tecmundo.com.br/voxel/503655-pokemon-pokopia-marathon-e-mais-veja-os-lancamentos-de-games-da-semana.htm) | topico: geral | score: 92
+- [Em qual marca de TV os especialistas mais confiam? Veja ranking](https://canaltech.com.br/tv/em-qual-marca-de-tv-os-especialistas-mais-confiam-veja-ranking/) | topico: infra-ia | score: 100
+- [Músicas feitas com o Lyria 3 podem ser enviadas ao Spotify e outros streamings?](https://canaltech.com.br/inteligencia-artificial/musicas-feitas-com-o-lyria-3-podem-ser-enviadas-ao-spotify-e-outros-streamings/) | topico: llms | score: 100
+- [Jovem Sherlock, DTF St. Louis e mais! Os lançamentos de filmes e séries da semana (01/03)](https://www.tecmundo.com.br/minha-serie/603223-jovem-sherlock-dtf-st-louis-e-mais-os-lancamentos-de-filmes-e-series-da-semana-0103.htm) | topico: geral | score: 100
