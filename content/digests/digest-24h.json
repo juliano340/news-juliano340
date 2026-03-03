@@ -1,34 +1,88 @@
 {
-  "generated_at": "2026-03-03T09:01:35.316Z",
+  "generated_at": "2026-03-03T11:07:00.640Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 9,
   "posts": [
     {
-      "title": "Palpites para Toronto Raptors x New York Knicks: Análises e Onde Assistir (03/03/2026)",
-      "slug": "palpites-para-toronto-raptors-x-new-york-knicks-analises-e-onde-assistir-03032026",
+      "title": "Samsung encerra serviço contra roubos de celulares no Brasil",
+      "slug": "samsung-encerra-servico-contra-roubos-de-celulares-no-brasil",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-03T10:24:06.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/samsung-encerra-servico-contra-roubos-de-celulares-no-brasil/"
+    },
+    {
+      "title": "ChatGPT e Claude: o que muda entre os apps de IA?",
+      "slug": "chatgpt-e-claude-o-que-muda-entre-os-apps-de-ia",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-03T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/chatgpt-e-claude-o-que-muda-entre-os-apps-de-ia/"
+    },
+    {
+      "title": "Nova CEO em ação: Xbox reformula marketing para consertar imagem da marca",
+      "slug": "nova-ceo-em-acao-xbox-reformula-marketing-para-consertar-imagem-da-marca",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T10:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/nova-ceo-em-acao-xbox-reformula-marketing-para-consertar-imagem-da-marca/"
+    },
+    {
+      "title": "Galaxy S27 Ultra pode ter câmera \"turbinada\" para rivalizar com Xiaomi",
+      "slug": "galaxy-s27-ultra-pode-ter-camera-turbinada-para-rivalizar-com-xiaomi",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T10:27:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-ter-camera-turbinada-para-rivalizar-com-xiaomi/"
+    },
+    {
+      "title": "Fiat faz queima e joga preço do Fastback híbrido no chão, mas não para todos",
+      "slug": "fiat-faz-queima-e-joga-preco-do-fastback-hibrido-no-chao-mas-nao-para-todos",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/fiat-faz-queima-e-joga-preco-do-fastback-hibrido-no-chao-mas-nao-para-todos/"
+    },
+    {
+      "title": "Quando a IA imita artistas: inovação ou violação de direitos?",
+      "slug": "quando-a-ia-imita-artistas-inovacao-ou-violacao-de-direitos",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-03T09:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/quando-a-ia-imita-artistas-inovacao-ou-violacao-de-direitos-6381/"
+    },
+    {
+      "title": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (03)",
+      "slug": "android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-03",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-03T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503663-android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-03.htm"
+    },
+    {
+      "title": "Palpites para Carabobo x Sporting Cristal: Análises e Onde Assistir (04/03/2026)",
+      "slug": "palpites-para-carabobo-x-sporting-cristal-analises-e-onde-assistir-04032026",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-03T09:00:00.000Z",
+      "date": "2026-03-03T10:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411234-palpites-para-toronto-raptors-x-new-york-knicks-analises-e-onde-assistir-03032026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411235-palpites-para-carabobo-x-sporting-cristal-analises-e-onde-assistir-04032026.htm"
     },
     {
-      "title": "Palpites para Barcelona de Guayaquil x Botafogo: Análises e Onde Assistir (03/03/2026)",
-      "slug": "palpites-para-barcelona-de-guayaquil-x-botafogo-analises-e-onde-assistir-03032026",
-      "topic": "geral",
+      "title": "Palpites para Barcelona x Atlético de Madrid: Análises e Onde Assistir (03/03/2026)",
+      "slug": "palpites-para-barcelona-x-atletico-de-madrid-analises-e-onde-assistir-03032026",
+      "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-03T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/apostas/411229-palpites-para-barcelona-de-guayaquil-x-botafogo-analises-e-onde-assistir-03032026.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (3)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-3-veja-calendario-lunar-de-marco-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-03T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/03/qual-a-fase-da-lua-hoje-3-veja-calendario-lunar-de-marco-de-2026.htm"
+      "date": "2026-03-03T10:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411232-palpites-para-barcelona-x-atletico-de-madrid-analises-e-onde-assistir-03032026.htm"
     }
   ]
 }
