@@ -1,214 +1,124 @@
 {
-  "generated_at": "2026-03-03T21:12:46.079Z",
+  "generated_at": "2026-03-03T23:08:18.208Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 23,
+  "total": 13,
   "posts": [
     {
-      "title": "Apple renova monitores Studio Display; modelo XDR chega a R$ 41.999",
-      "slug": "apple-renova-monitores-studio-display-modelo-xdr-chega-a-rdollar-41999",
+      "title": "3.3: Monitor Samsung Odyssey G30 de 24” sai com 38% OFF em até 10x sem juros",
+      "slug": "33-monitor-samsung-odyssey-g30-de-24-sai-com-38percent-off-em-ate-10x-sem-juros",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T20:46:50.000Z",
+      "date": "2026-03-03T21:55:57.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/apple-renova-monitores-studio-display-modelo-xdr-chega-a-r-41-999/"
+      "original_url": "https://tecnoblog.net/achados/3-3-monitor-samsung-odyssey-g30-de-24-sai-com-38-off-em-ate-10x-sem-juros/"
     },
     {
-      "title": "Smart TV Samsung OLED Vision AI 55” recebe 32% OFF no 3.3 da Amazon",
-      "slug": "smart-tv-samsung-oled-vision-ai-55-recebe-32percent-off-no-33-da-amazon",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T20:46:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/smart-tv-samsung-oled-vision-ai-55-recebe-32-off-no-3-3-da-amazon/"
-    },
-    {
-      "title": "3.3: Samsung Galaxy Book 4 tem melhor oferta do ano com 37% OFF na Amazon",
-      "slug": "33-samsung-galaxy-book-4-tem-melhor-oferta-do-ano-com-37percent-off-na-amazon",
+      "title": "Ar-condicionado Samsung WindFree AI 12.000 BTUs tem 29% OFF no 3.3 da Amazon",
+      "slug": "ar-condicionado-samsung-windfree-ai-12000-btus-tem-29percent-off-no-33-da-amazon",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T20:37:42.000Z",
+      "date": "2026-03-03T21:44:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/3-3-samsung-galaxy-book-4-tem-melhor-oferta-do-ano-com-37-off-na-amazon/"
+      "original_url": "https://tecnoblog.net/achados/ar-condicionado-samsung-windfree-ai-12-000-btus-tem-29-off-no-3-3-da-amazon/"
     },
     {
-      "title": "Galaxy Tab S10 Lite (256 GB) tem 30% OFF em oferta exclusiva Amazon Prime no 3.3",
-      "slug": "galaxy-tab-s10-lite-256-gb-tem-30percent-off-em-oferta-exclusiva-amazon-prime-no-33",
+      "title": "Codiguin do Free Fire: confira os códigos de FF para resgatar em março",
+      "slug": "codiguin-do-free-fire-confira-os-codigos-de-ff-para-resgatar-em-marco",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T20:08:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-tem-30-off-em-oferta-exclusiva-amazon-prime-no-3-3/"
-    },
-    {
-      "title": "Galaxy Z Flip 7 (256 GB) fica 31% mais barato no 3.3 do Mercado Livre",
-      "slug": "galaxy-z-flip-7-256-gb-fica-31percent-mais-barato-no-33-do-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T19:30:57.000Z",
+      "date": "2026-03-03T21:42:59.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-z-flip-7-256-gb-fica-31-mais-barato-no-3-3-do-mercado-livre/"
+      "original_url": "https://tecnoblog.net/responde/codiguin-do-free-fire-confira-os-codigos-de-ff-para-resgatar-em-marco/"
     },
     {
-      "title": "É Wesker ou não é? Quem é Zeno em Resident Evil Requiem?",
-      "slug": "e-wesker-ou-nao-e-quem-e-zeno-em-resident-evil-requiem",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T20:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/e-wesker-ou-nao-e-quem-e-zeno-em-resident-evil-requiem/"
-    },
-    {
-      "title": "Claro lança plataforma de nuvem híbrida com AWS para empresas brasileiras",
-      "slug": "claro-lanca-plataforma-de-nuvem-hibrida-com-aws-para-empresas-brasileiras",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T20:44:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/claro-lanca-plataforma-de-nuvem-hibrida-com-aws-para-empresas-brasileiras/"
-    },
-    {
-      "title": "Venda de jogos em mídia física atinge o menor patamar desde 1995",
-      "slug": "venda-de-jogos-em-midia-fisica-atinge-o-menor-patamar-desde-1995",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T20:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/venda-de-jogos-em-midia-fisica-atinge-o-menor-patamar-desde-1995/"
-    },
-    {
-      "title": "Carros mais vendidos do Brasil: Polo lidera e Dolphin Mini estreia no top 10",
-      "slug": "carros-mais-vendidos-do-brasil-polo-lidera-e-dolphin-mini-estreia-no-top-10",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-03T20:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/carros-mais-vendidos-do-brasil-polo-lidera-e-dolphin-mini-estreia-no-top-10/"
-    },
-    {
-      "title": "Buscas por 'nudify' batem recorde e FGV cobra ação do Google",
-      "slug": "buscas-por-nudify-batem-recorde-e-fgv-cobra-acao-do-google",
+      "title": "Meta começa a testar compras via Meta AI nos Estados Unidos",
+      "slug": "meta-comeca-a-testar-compras-via-meta-ai-nos-estados-unidos",
       "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-03T19:59:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-03T21:05:23.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/buscas-por-nudify-batem-recorde-e-fgv-cobra-acao-do-google/"
+      "original_url": "https://tecnoblog.net/noticias/meta-comeca-a-testar-compras-via-meta-ai-nos-estados-unidos/"
     },
     {
-      "title": "Netflix vai parar de funcionar em TVs antigas; veja se a sua está na lista",
-      "slug": "netflix-vai-parar-de-funcionar-em-tvs-antigas-veja-se-a-sua-esta-na-lista",
+      "title": "Sonic 4 ganha primeira imagem de bastidores com icônico martelo de Amy Rose",
+      "slug": "sonic-4-ganha-primeira-imagem-de-bastidores-com-iconico-martelo-de-amy-rose",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-03T19:56:03.000Z",
+      "date": "2026-03-03T22:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tv/netflix-vai-parar-de-funcionar-em-tvs-antigas-veja-se-a-sua-esta-na-lista/"
+      "original_url": "https://canaltech.com.br/games/sonic-4-ganha-primeira-imagem-de-bastidores-com-iconico-martelo-de-amy-rose/"
     },
     {
-      "title": "GPT-5.3 Instant: nova versão do ChatGPT promete ser mais direta ao ponto",
-      "slug": "gpt-53-instant-nova-versao-do-chatgpt-promete-ser-mais-direta-ao-ponto",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-03T19:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/gpt-53-instant-nova-versao-do-chatgpt-promete-ser-mais-direta-ao-ponto/"
-    },
-    {
-      "title": "O número de celular vai morrer? Entenda porque ainda precisamos dele em 2026",
-      "slug": "o-numero-de-celular-vai-morrer-entenda-porque-ainda-precisamos-dele-em-2026",
+      "title": "God of War: Amazon escala atores que vão interpretar filhos de Thor na série",
+      "slug": "god-of-war-amazon-escala-atores-que-vao-interpretar-filhos-de-thor-na-serie",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-03T19:51:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/telecom/o-numero-de-celular-vai-morrer-entenda-porque-ainda-precisamos-dele-em-2026/"
-    },
-    {
-      "title": "Logitech lança novo Astro A20 X no Brasil com 90 horas de bateria",
-      "slug": "logitech-lanca-novo-astro-a20-x-no-brasil-com-90-horas-de-bateria",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T19:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/logitech-lanca-novo-astro-a20-x-no-brasil-com-90-horas-de-bateria/"
-    },
-    {
-      "title": "Sem crise: RX 7600 XFX surge com preço no chão no KaBuM!",
-      "slug": "sem-crise-rx-7600-xfx-surge-com-preco-no-chao-no-kabum",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T19:34:30.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/sem-crise-rx-7600-xfx-surge-com-preco-no-chao-no-kabum/"
-    },
-    {
-      "title": "Ryzen AI 400 e AI PRO 400: conheça os novos chips profissionais da AMD",
-      "slug": "ryzen-ai-400-e-ai-pro-400-conheca-os-novos-chips-profissionais-da-amd",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411285-ryzen-ai-400-e-ai-pro-400-conheca-os-novos-chips-profissionais-da-amd.htm"
-    },
-    {
-      "title": "Realme 15 Pro Game of Thrones: celular regular, mas uma RELÍQUIA para fãs [Review]",
-      "slug": "realme-15-pro-game-of-thrones-celular-regular-mas-uma-reliquia-para-fas-review",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T20:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411244-realme-15-pro-game-of-thrones-celular-regular-mas-uma-reliquia-para-fas-review.htm"
-    },
-    {
-      "title": "Apple deixa escapar ‘MacBook Neo’, suposto novo notebook baratinho",
-      "slug": "apple-deixa-escapar-macbook-neo-suposto-novo-notebook-baratinho",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T20:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411290-apple-deixa-escapar-macbook-neo-suposto-novo-notebook-baratinho.htm"
-    },
-    {
-      "title": "Highguard será encerrado permanentemente em março",
-      "slug": "highguard-sera-encerrado-permanentemente-em-marco",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T20:29:55.000Z",
+      "date": "2026-03-03T21:35:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503685-highguard-sera-encerrado-permanentemente-em-marco.htm"
+      "original_url": "https://canaltech.com.br/games/god-of-war-amazon-escala-atores-que-vao-interpretar-filhos-de-thor-na-serie/"
     },
     {
-      "title": "Game of Thrones ganhará filme blockbuster sobre Aegon, O Conquistador! Veja o que esperar",
-      "slug": "game-of-thrones-ganhara-filme-blockbuster-sobre-aegon-o-conquistador-veja-o-que-esperar",
+      "title": "Onde assistir Marshals? Saiba tudo sobre a nova série de Yellowstone",
+      "slug": "onde-assistir-marshals-saiba-tudo-sobre-a-nova-serie-de-yellowstone",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T20:15:34.000Z",
+      "date": "2026-03-03T22:15:17.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603272-game-of-thrones-ganhara-filme-blockbuster-sobre-aegon-o-conquistador-veja-o-que-esperar.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603268-onde-assistir-marshals-saiba-tudo-sobre-a-nova-serie-de-yellowstone.htm"
     },
     {
-      "title": "Claude ganha opção para importar histórico e memórias de outras IAs",
-      "slug": "claude-ganha-opcao-para-importar-historico-e-memorias-de-outras-ias",
+      "title": "SUS ganha teleatendimento gratuito para tratar vício em jogos e apostas",
+      "slug": "sus-ganha-teleatendimento-gratuito-para-tratar-vicio-em-jogos-e-apostas",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T20:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411283-claude-ganha-opcao-para-importar-historico-e-memorias-de-outras-ias.htm"
+      "date": "2026-03-03T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411289-sus-ganha-teleatendimento-gratuito-para-tratar-vicio-em-jogos-e-apostas.htm"
     },
     {
-      "title": "Série de Life is Strange confirma atrizes de Max e Chloe! Veja primeira imagem",
-      "slug": "serie-de-life-is-strange-confirma-atrizes-de-max-e-chloe-veja-primeira-imagem",
+      "title": "ChatGPT vira canal de vendas — e muda a lógica do e-commerce",
+      "slug": "chatgpt-vira-canal-de-vendas-e-muda-a-logica-do-e-commerce",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T19:15:14.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503682-serie-de-life-is-strange-confirma-atrizes-de-max-e-chloe-veja-primeira-imagem.htm"
+      "date": "2026-03-03T21:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411296-chatgpt-vira-canal-de-vendas-e-muda-a-logica-do-e-commerce.htm"
     },
     {
-      "title": "Startup norte-americana Anduril deve duplicar avaliação em captação de US$4 bi, dizem fontes",
-      "slug": "startup-norte-americana-anduril-deve-duplicar-avaliacao-em-captacao-de-usdollar4-bi-dizem-fontes",
+      "title": "GoPro GP3 é o novo chip com IA que vai estrear nas próximas câmeras de ação",
+      "slug": "gopro-gp3-e-o-novo-chip-com-ia-que-vai-estrear-nas-proximas-cameras-de-acao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-03T21:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411291-gopro-gp3-e-o-novo-chip-com-ia-que-vai-estrear-nas-proximas-cameras-de-acao.htm"
+    },
+    {
+      "title": "Como resolver o puzzle da roleta em Resident Evil Requiem? Veja a solução",
+      "slug": "como-resolver-o-puzzle-da-roleta-em-resident-evil-requiem-veja-a-solucao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-03T21:15:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503670-como-resolver-o-puzzle-da-roleta-em-resident-evil-requiem-veja-a-solucao.htm"
+    },
+    {
+      "title": "Coruna: kit de hacking para iPhone explora 23 vulnerabilidades no iOS",
+      "slug": "coruna-kit-de-hacking-para-iphone-explora-23-vulnerabilidades-no-ios",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-03T21:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411292-coruna-kit-de-hacking-para-iphone-explora-23-vulnerabilidades-no-ios.htm"
+    },
+    {
+      "title": "X suspenderá monetização de vídeos de guerra feitos com IA sem aviso",
+      "slug": "x-suspendera-monetizacao-de-videos-de-guerra-feitos-com-ia-sem-aviso",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-03T20:54:16.000Z",
+      "date": "2026-03-03T21:15:15.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/startup-norte-americana-anduril-deve-duplicar-avaliacao-em-captacao-de-us4-bidizem-fontes.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/03/03/x-suspendera-monetizacao-de-videos-de-guerra-feitos-com-ia-sem-aviso.htm"
     }
   ]
 }

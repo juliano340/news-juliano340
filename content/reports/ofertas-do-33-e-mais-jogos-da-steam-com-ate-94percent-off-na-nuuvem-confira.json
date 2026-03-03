@@ -1,0 +1,19 @@
+{
+  "slug": "ofertas-do-33-e-mais-jogos-da-steam-com-ate-94percent-off-na-nuuvem-confira",
+  "generated_at": "2026-03-03T23:04:45.741Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
