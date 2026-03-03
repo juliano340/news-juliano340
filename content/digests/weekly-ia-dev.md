@@ -1,29 +1,24 @@
 # Weekly IA para Devs - 2026-03-03
 
-Gerado em 2026-03-03T15:17:49.249Z
+Gerado em 2026-03-03T17:11:45.605Z
 
-- [3.3: Motorola Edge 60 (512 GB) despenca 45% em oferta por até 12x na Amazon](https://tecnoblog.net/achados/3-3-motorola-edge-60-512-gb-despenca-45-em-oferta-por-ate-12x-na-amazon/) | topico: geral | score: 92
-- [Apple anuncia MacBook Pro com novos chips e MacBook Air com M5](https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-com-novos-chips-e-macbook-air-com-m5/) | topico: llms | score: 100
-- [iPhone 17 Pro (256 GB) tem oferta imbatível com 36% OFF no 3.3 da Amazon](https://tecnoblog.net/achados/iphone-17-pro-256-gb-tem-oferta-imbativel-com-36-off-no-3-3-da-amazon/) | topico: geral | score: 92
-- [Como tirar vírus do celular? Saiba remover malwares do seu smartphone](https://tecnoblog.net/responde/como-tirar-virus-do-celular-saiba-remover-malwares-do-seu-smartphone/) | topico: geral | score: 100
-- [Amazon Now estreia no Brasil com entregas em até 15 minutos](https://tecnoblog.net/noticias/amazon-now-estreia-no-brasil-com-entregas-em-ate-15-minutos/) | topico: produtividade-dev | score: 100
-- [Usuários abandonam ChatGPT e migram para Claude após polêmica nos EUA](https://tecnoblog.net/noticias/usuarios-abandonam-chatgpt-e-migram-para-claude-apos-polemica-nos-eua/) | topico: llms | score: 100
-- [Notebooks baratos vão sumir até 2028, prevê consultoria](https://tecnoblog.net/noticias/notebooks-baratos-vao-sumir-devido-a-crise-dos-chips-diz-consultoria/) | topico: geral | score: 100
-- [3.3: iPhone 16e (512 GB) tem menor preço histórico com anúncio do iPhone 17e](https://tecnoblog.net/achados/3-3-iphone-16e-512-gb-tem-menor-preco-historico-com-anuncio-do-iphone-17e/) | topico: geral | score: 92
-- [Tablet gamer Legion Y700 promete dobro de desempenho do topo de linha da Samsung](https://canaltech.com.br/hardware/tablet-gamer-legion-y700-promete-dobro-de-desempenho-do-topo-de-linha-da-samsung/) | topico: geral | score: 100
-- [AWS sofre instabilidade após início de conflito no Oriente Médio](https://canaltech.com.br/mercado/aws-sofre-instabilidade-apos-inicio-de-conflito-no-oriente-medio/) | topico: geral | score: 100
-- [Mês de peso: Game Pass recebe Cyberpunk 2077, Silksong e mais](https://canaltech.com.br/games/mes-de-peso-game-pass-recebe-cyberpunk-2077-silksong-e-mais/) | topico: geral | score: 100
-- [Telegram ganha opção para desativar compartilhamento de chats privados](https://canaltech.com.br/apps/telegram-ganha-opcao-para-desativar-compartilhamento-de-chats-privados/) | topico: produtividade-dev | score: 100
-- [Cadeado Galaxy, que protege celulares contra roubo, será encerrado no Brasil](https://canaltech.com.br/apps/cadeado-galaxy-que-protege-celulares-contra-roubo-sera-encerrado-no-brasil/) | topico: geral | score: 100
-- [Ataques de ransomware sobem 50%, mas resgates caem para menor nível da história](https://canaltech.com.br/seguranca/ataques-de-ransomware-sobem-50-mas-resgates-caem-para-menor-nivel-da-historia/) | topico: geral | score: 100
-- [Hyundai Bayon, SUV do HB20, chega ao Brasil ainda em 2026](https://canaltech.com.br/carros/hyundai-bayon-suv-do-hb20-chega-ao-brasil-ainda-em-2026/) | topico: geral | score: 100
-- [Novo Xiaomi top ganha versão global; veja quanto vai custar](https://canaltech.com.br/smartphone/novo-xiaomi-top-ganha-versao-global-veja-quanto-vai-custar/) | topico: geral | score: 100
-- [Xiaomi 12 começa a receber sua última atualização do HyperOS](https://canaltech.com.br/apps/xiaomi-12-comeca-a-receber-sua-ultima-atualizacao-do-hyperos/) | topico: geral | score: 100
-- [TSE regulamenta uso de IA nas Eleições 2026; conheça as novas regras](https://www.tecmundo.com.br/mercado/411268-tse-regulamenta-uso-de-ia-nas-eleicoes-2026-conheca-as-novas-regras.htm) | topico: geral | score: 100
-- [Xbox Game Pass recebe Cyberpunk 2077 e mais jogos de peso em março! Veja a lista completa](https://www.tecmundo.com.br/voxel/503678-xbox-game-pass-recebe-cyberpunk-2077-e-mais-jogos-de-peso-em-marco-veja-a-lista-completa.htm) | topico: geral | score: 92
-- [DTF St. Louis tem quantos episódios? Veja calendário de estreia no HBO Max](https://www.tecmundo.com.br/minha-serie/603263-dtf-st-louis-tem-quantos-episodios-veja-calendario-de-estreia-no-hbo-max.htm) | topico: geral | score: 100
-- [Super 3.3 nas Casas Bahia tem eletrônicos e eletromésticos com desconto e cupom](https://www.tecmundo.com.br/guia-de-compras/411269-super-33-nas-casas-bahia-tem-eletronicos-e-eletromesticos-com-desconto-e-cupom.htm) | topico: produtividade-dev | score: 100
-- [Apple lança novos MacBook Air e MacBook Pro com chips M5 avançados](https://www.tecmundo.com.br/produto/411270-apple-lanca-novos-macbook-air-e-macbook-pro-com-chips-m5-avancados.htm) | topico: geral | score: 100
-- [Codiguin Free Fire março de 2026: veja a lista de códigos para resgatar](https://www.tecmundo.com.br/voxel/503666-codiguin-free-fire-marco-de-2026-veja-a-lista-de-codigos-para-resgatar.htm) | topico: geral | score: 100
-- [Motorola lança Edge 70 Fusion, novo celular intermediário com funções avançadas](https://www.tecmundo.com.br/produto/411265-motorola-lanca-edge-70-fusion-novo-celular-intermediario-com-funcoes-avancadas.htm) | topico: geral | score: 92
-- [Celulares, tablets, air fryers e mais ofertas do 3.3 do Mercado Livre; confira](https://www.tecmundo.com.br/guia-de-compras/411263-celulares-tablets-air-fryers-e-mais-ofertas-do-33-do-mercado-livre-confira.htm) | topico: geral | score: 100
+- [Galaxy S25 Plus (256 GB) cai para menos da metade do preço em oferta no 3.3](https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-cai-para-menos-da-metade-do-preco-em-oferta-no-3-3/) | topico: produtividade-dev | score: 92
+- [iPad dobrável de 18 polegadas pode chegar em 2029](https://tecnoblog.net/noticias/ipad-dobravel-de-18-polegadas-pode-chegar-em-2029/) | topico: produtividade-dev | score: 92
+- [Claude libera importação de preferências do ChatGPT em meio à disputa nos EUA](https://tecnoblog.net/noticias/claude-libera-importacao-de-preferencias-do-chatgpt-em-meio-a-disputa-nos-eua/) | topico: llms | score: 100
+- [Samsung pretende usar chips Exynos em toda a linha Galaxy](https://tecnoblog.net/noticias/samsung-pretende-usar-chips-exynos-em-toda-a-linha-galaxy/) | topico: geral | score: 100
+- [Mortal Kombat 2 ganha novo trailer focado em personagens clássicos; confira](https://canaltech.com.br/entretenimento/mortal-kombat-2-ganha-novo-trailer-focado-em-personagens-classicos-confira/) | topico: geral | score: 100
+- [Amazon joga preço do Moto G86 no chão; celular bate menor valor histórico](https://canaltech.com.br/smartphone/amazon-joga-preco-do-moto-g86-no-chao-celular-bate-menor-valor-historico/) | topico: geral | score: 100
+- [Novas antenas da TIM vão direcionar sinal exatamente para onde há mais demanda](https://canaltech.com.br/telecom/novas-antenas-da-tim-vao-direcionar-sinal-exatamente-para-onde-ha-mais-demanda/) | topico: infra-ia | score: 100
+- [BMW "copia" Tesla e coloca robôs para trabalhar na fábrica](https://canaltech.com.br/carros/bmw-copia-tesla-e-coloca-robos-para-trabalhar-na-fabrica/) | topico: agentes | score: 100
+- [Amazon Now, com entregas rápidas em 15 minutos, chega ao Brasil](https://canaltech.com.br/mercado/amazon-now-com-entregas-rapidas-em-15-minutos-chega-ao-brasil/) | topico: geral | score: 100
+- [Contagem regressiva: fim do PC baratinho deve ocorrer até 2028](https://canaltech.com.br/hardware/contagem-regressiva-fim-do-pc-baratinho-deve-ocorrer-ate-2028/) | topico: geral | score: 100
+- [Google Mensagens terá lixeira para você não apagar conversas por acidente](https://canaltech.com.br/apps/google-mensagens-tera-lixeira-para-voce-nao-apagar-conversas-por-acidente/) | topico: produtividade-dev | score: 92
+- [Desinstalações do ChatGPT chegam a 295% em meio ao acordo com o governo dos EUA](https://canaltech.com.br/apps/desinstalacoes-do-chatgpt-chegam-a-295-em-meio-ao-acordo-com-o-governo-dos-eua/) | topico: llms | score: 100
+- [Atrasada, Samsung libera patch de segurança de fevereiro corrigindo quase 40 brechas graves em celulares Galaxy](https://www.tecmundo.com.br/seguranca/411272-atrasada-samsung-libera-patch-de-seguranca-de-fevereiro-corrigindo-quase-40-brechas-graves-em-celulares-galaxy.htm) | topico: geral | score: 100
+- [Celulares Motorola terão sistema Android sem os apps do Google](https://www.tecmundo.com.br/produto/411281-celulares-motorola-terao-sistema-android-sem-os-apps-do-google.htm) | topico: seguranca-ia | score: 100
+- [SXSW 2026: SP House promove debate com estrelas da tecnologia e liderança](https://www.tecmundo.com.br/mercado/411277-sxsw-2026-sp-house-promove-debate-com-estrelas-da-tecnologia-e-lideranca.htm) | topico: geral | score: 100
+- [10 melhores episódios de Smallville, série de Superman bombando na Netflix](https://www.tecmundo.com.br/minha-serie/603267-10-melhores-episodios-de-smallville-serie-de-superman-bombando-na-netflix.htm) | topico: geral | score: 100
+- [Samsung encerra Cadeado Galaxy para proteção de celulares roubados](https://www.tecmundo.com.br/produto/411264-samsung-encerra-cadeado-galaxy-para-protecao-de-celulares-roubados.htm) | topico: agentes | score: 100
+- [Amazon Now chega ao Brasil com entregas em 15 minutos e frete grátis](https://www.tecmundo.com.br/mercado/411279-amazon-now-chega-ao-brasil-com-entregas-em-15-minutos-e-frete-gratis.htm) | topico: geral | score: 100
+- [OpenAI vai revisar acordo com o Departamento de Guerra dos EUA após reação negativa](https://www.tecmundo.com.br/mercado/411276-openai-vai-revisar-acordo-com-o-departamento-de-guerra-dos-eua-apos-reacao-negativa.htm) | topico: geral | score: 100
+- [Amazon lança serviço para entrega de compras de supermercado em 15 minutos no Brasil](https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/amazon-lanca-servico-para-entrega-de-compras-de-supermercado-em-15-minutos-no-brasil.htm) | topico: geral | score: 92

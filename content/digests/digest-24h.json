@@ -1,268 +1,187 @@
 {
-  "generated_at": "2026-03-03T15:17:49.249Z",
+  "generated_at": "2026-03-03T17:11:45.605Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 29,
+  "total": 20,
   "posts": [
     {
-      "title": "3.3: Motorola Edge 60 (512 GB) despenca 45% em oferta por até 12x na Amazon",
-      "slug": "33-motorola-edge-60-512-gb-despenca-45percent-em-oferta-por-ate-12x-na-amazon",
-      "topic": "geral",
+      "title": "Galaxy S25 Plus (256 GB) cai para menos da metade do preço em oferta no 3.3",
+      "slug": "galaxy-s25-plus-256-gb-cai-para-menos-da-metade-do-preco-em-oferta-no-33",
+      "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-03T14:56:26.000Z",
+      "date": "2026-03-03T16:26:11.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/3-3-motorola-edge-60-512-gb-despenca-45-em-oferta-por-ate-12x-na-amazon/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-cai-para-menos-da-metade-do-preco-em-oferta-no-3-3/"
     },
     {
-      "title": "Apple anuncia MacBook Pro com novos chips e MacBook Air com M5",
-      "slug": "apple-anuncia-macbook-pro-com-novos-chips-e-macbook-air-com-m5",
+      "title": "iPad dobrável de 18 polegadas pode chegar em 2029",
+      "slug": "ipad-dobravel-de-18-polegadas-pode-chegar-em-2029",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-03T16:11:19.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/ipad-dobravel-de-18-polegadas-pode-chegar-em-2029/"
+    },
+    {
+      "title": "Claude libera importação de preferências do ChatGPT em meio à disputa nos EUA",
+      "slug": "claude-libera-importacao-de-preferencias-do-chatgpt-em-meio-a-disputa-nos-eua",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-03-03T14:39:36.000Z",
+      "date": "2026-03-03T15:46:07.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/apple-anuncia-macbook-pro-com-novos-chips-e-macbook-air-com-m5/"
+      "original_url": "https://tecnoblog.net/noticias/claude-libera-importacao-de-preferencias-do-chatgpt-em-meio-a-disputa-nos-eua/"
     },
     {
-      "title": "iPhone 17 Pro (256 GB) tem oferta imbatível com 36% OFF no 3.3 da Amazon",
-      "slug": "iphone-17-pro-256-gb-tem-oferta-imbativel-com-36percent-off-no-33-da-amazon",
+      "title": "Samsung pretende usar chips Exynos em toda a linha Galaxy",
+      "slug": "samsung-pretende-usar-chips-exynos-em-toda-a-linha-galaxy",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T14:09:45.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-256-gb-tem-oferta-imbativel-com-36-off-no-3-3-da-amazon/"
-    },
-    {
-      "title": "Como tirar vírus do celular? Saiba remover malwares do seu smartphone",
-      "slug": "como-tirar-virus-do-celular-saiba-remover-malwares-do-seu-smartphone",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T13:58:47.000Z",
+      "date": "2026-03-03T15:42:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/como-tirar-virus-do-celular-saiba-remover-malwares-do-seu-smartphone/"
+      "original_url": "https://tecnoblog.net/noticias/samsung-pretende-usar-chips-exynos-em-toda-a-linha-galaxy/"
     },
     {
-      "title": "Amazon Now estreia no Brasil com entregas em até 15 minutos",
-      "slug": "amazon-now-estreia-no-brasil-com-entregas-em-ate-15-minutos",
+      "title": "Mortal Kombat 2 ganha novo trailer focado em personagens clássicos; confira",
+      "slug": "mortal-kombat-2-ganha-novo-trailer-focado-em-personagens-classicos-confira",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T16:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/mortal-kombat-2-ganha-novo-trailer-focado-em-personagens-classicos-confira/"
+    },
+    {
+      "title": "Amazon joga preço do Moto G86 no chão; celular bate menor valor histórico",
+      "slug": "amazon-joga-preco-do-moto-g86-no-chao-celular-bate-menor-valor-historico",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T16:16:39.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/amazon-joga-preco-do-moto-g86-no-chao-celular-bate-menor-valor-historico/"
+    },
+    {
+      "title": "Novas antenas da TIM vão direcionar sinal exatamente para onde há mais demanda",
+      "slug": "novas-antenas-da-tim-vao-direcionar-sinal-exatamente-para-onde-ha-mais-demanda",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-03-03T15:57:56.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/telecom/novas-antenas-da-tim-vao-direcionar-sinal-exatamente-para-onde-ha-mais-demanda/"
+    },
+    {
+      "title": "BMW \"copia\" Tesla e coloca robôs para trabalhar na fábrica",
+      "slug": "bmw-copia-tesla-e-coloca-robos-para-trabalhar-na-fabrica",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-03T15:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/bmw-copia-tesla-e-coloca-robos-para-trabalhar-na-fabrica/"
+    },
+    {
+      "title": "Amazon Now, com entregas rápidas em 15 minutos, chega ao Brasil",
+      "slug": "amazon-now-com-entregas-rapidas-em-15-minutos-chega-ao-brasil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T15:33:51.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/amazon-now-com-entregas-rapidas-em-15-minutos-chega-ao-brasil/"
+    },
+    {
+      "title": "Contagem regressiva: fim do PC baratinho deve ocorrer até 2028",
+      "slug": "contagem-regressiva-fim-do-pc-baratinho-deve-ocorrer-ate-2028",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T15:25:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/contagem-regressiva-fim-do-pc-baratinho-deve-ocorrer-ate-2028/"
+    },
+    {
+      "title": "Google Mensagens terá lixeira para você não apagar conversas por acidente",
+      "slug": "google-mensagens-tera-lixeira-para-voce-nao-apagar-conversas-por-acidente",
       "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T13:55:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/amazon-now-estreia-no-brasil-com-entregas-em-ate-15-minutos/"
+      "source": "Canaltech",
+      "date": "2026-03-03T15:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/google-mensagens-tera-lixeira-para-voce-nao-apagar-conversas-por-acidente/"
     },
     {
-      "title": "Usuários abandonam ChatGPT e migram para Claude após polêmica nos EUA",
-      "slug": "usuarios-abandonam-chatgpt-e-migram-para-claude-apos-polemica-nos-eua",
+      "title": "Desinstalações do ChatGPT chegam a 295% em meio ao acordo com o governo dos EUA",
+      "slug": "desinstalacoes-do-chatgpt-chegam-a-295percent-em-meio-ao-acordo-com-o-governo-dos-eua",
       "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T13:44:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/usuarios-abandonam-chatgpt-e-migram-para-claude-apos-polemica-nos-eua/"
-    },
-    {
-      "title": "Notebooks baratos vão sumir até 2028, prevê consultoria",
-      "slug": "notebooks-baratos-vao-sumir-ate-2028-preve-consultoria",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T13:34:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/notebooks-baratos-vao-sumir-devido-a-crise-dos-chips-diz-consultoria/"
-    },
-    {
-      "title": "3.3: iPhone 16e (512 GB) tem menor preço histórico com anúncio do iPhone 17e",
-      "slug": "33-iphone-16e-512-gb-tem-menor-preco-historico-com-anuncio-do-iphone-17e",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T13:28:23.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/3-3-iphone-16e-512-gb-tem-menor-preco-historico-com-anuncio-do-iphone-17e/"
-    },
-    {
-      "title": "Tablet gamer Legion Y700 promete dobro de desempenho do topo de linha da Samsung",
-      "slug": "tablet-gamer-legion-y700-promete-dobro-de-desempenho-do-topo-de-linha-da-samsung",
-      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-03T14:55:00.000Z",
+      "date": "2026-03-03T15:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/tablet-gamer-legion-y700-promete-dobro-de-desempenho-do-topo-de-linha-da-samsung/"
+      "original_url": "https://canaltech.com.br/apps/desinstalacoes-do-chatgpt-chegam-a-295-em-meio-ao-acordo-com-o-governo-dos-eua/"
     },
     {
-      "title": "AWS sofre instabilidade após início de conflito no Oriente Médio",
-      "slug": "aws-sofre-instabilidade-apos-inicio-de-conflito-no-oriente-medio",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T14:34:05.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/aws-sofre-instabilidade-apos-inicio-de-conflito-no-oriente-medio/"
-    },
-    {
-      "title": "Mês de peso: Game Pass recebe Cyberpunk 2077, Silksong e mais",
-      "slug": "mes-de-peso-game-pass-recebe-cyberpunk-2077-silksong-e-mais",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T14:31:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/mes-de-peso-game-pass-recebe-cyberpunk-2077-silksong-e-mais/"
-    },
-    {
-      "title": "Telegram ganha opção para desativar compartilhamento de chats privados",
-      "slug": "telegram-ganha-opcao-para-desativar-compartilhamento-de-chats-privados",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-03T14:29:31.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/telegram-ganha-opcao-para-desativar-compartilhamento-de-chats-privados/"
-    },
-    {
-      "title": "Cadeado Galaxy, que protege celulares contra roubo, será encerrado no Brasil",
-      "slug": "cadeado-galaxy-que-protege-celulares-contra-roubo-sera-encerrado-no-brasil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T14:13:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/cadeado-galaxy-que-protege-celulares-contra-roubo-sera-encerrado-no-brasil/"
-    },
-    {
-      "title": "Ataques de ransomware sobem 50%, mas resgates caem para menor nível da história",
-      "slug": "ataques-de-ransomware-sobem-50percent-mas-resgates-caem-para-menor-nivel-da-historia",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T14:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/ataques-de-ransomware-sobem-50-mas-resgates-caem-para-menor-nivel-da-historia/"
-    },
-    {
-      "title": "Hyundai Bayon, SUV do HB20, chega ao Brasil ainda em 2026",
-      "slug": "hyundai-bayon-suv-do-hb20-chega-ao-brasil-ainda-em-2026",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T14:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/hyundai-bayon-suv-do-hb20-chega-ao-brasil-ainda-em-2026/"
-    },
-    {
-      "title": "Novo Xiaomi top ganha versão global; veja quanto vai custar",
-      "slug": "novo-xiaomi-top-ganha-versao-global-veja-quanto-vai-custar",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T13:39:55.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/novo-xiaomi-top-ganha-versao-global-veja-quanto-vai-custar/"
-    },
-    {
-      "title": "Xiaomi 12 começa a receber sua última atualização do HyperOS",
-      "slug": "xiaomi-12-comeca-a-receber-sua-ultima-atualizacao-do-hyperos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T13:38:03.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/xiaomi-12-comeca-a-receber-sua-ultima-atualizacao-do-hyperos/"
-    },
-    {
-      "title": "TSE regulamenta uso de IA nas Eleições 2026; conheça as novas regras",
-      "slug": "tse-regulamenta-uso-de-ia-nas-eleicoes-2026-conheca-as-novas-regras",
+      "title": "Atrasada, Samsung libera patch de segurança de fevereiro corrigindo quase 40 brechas graves em celulares Galaxy",
+      "slug": "atrasada-samsung-libera-patch-de-seguranca-de-fevereiro-corrigindo-quase-40-brechas-graves-em-celulares-galaxy",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T15:00:00.000Z",
+      "date": "2026-03-03T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411268-tse-regulamenta-uso-de-ia-nas-eleicoes-2026-conheca-as-novas-regras.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411272-atrasada-samsung-libera-patch-de-seguranca-de-fevereiro-corrigindo-quase-40-brechas-graves-em-celulares-galaxy.htm"
     },
     {
-      "title": "Xbox Game Pass recebe Cyberpunk 2077 e mais jogos de peso em março! Veja a lista completa",
-      "slug": "xbox-game-pass-recebe-cyberpunk-2077-e-mais-jogos-de-peso-em-marco-veja-a-lista-completa",
+      "title": "Celulares Motorola terão sistema Android sem os apps do Google",
+      "slug": "celulares-motorola-terao-sistema-android-sem-os-apps-do-google",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-03T16:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411281-celulares-motorola-terao-sistema-android-sem-os-apps-do-google.htm"
+    },
+    {
+      "title": "SXSW 2026: SP House promove debate com estrelas da tecnologia e liderança",
+      "slug": "sxsw-2026-sp-house-promove-debate-com-estrelas-da-tecnologia-e-lideranca",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T14:53:22.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503678-xbox-game-pass-recebe-cyberpunk-2077-e-mais-jogos-de-peso-em-marco-veja-a-lista-completa.htm"
+      "date": "2026-03-03T16:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411277-sxsw-2026-sp-house-promove-debate-com-estrelas-da-tecnologia-e-lideranca.htm"
     },
     {
-      "title": "DTF St. Louis tem quantos episódios? Veja calendário de estreia no HBO Max",
-      "slug": "dtf-st-louis-tem-quantos-episodios-veja-calendario-de-estreia-no-hbo-max",
+      "title": "10 melhores episódios de Smallville, série de Superman bombando na Netflix",
+      "slug": "10-melhores-episodios-de-smallville-serie-de-superman-bombando-na-netflix",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T14:45:03.000Z",
+      "date": "2026-03-03T16:15:48.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603263-dtf-st-louis-tem-quantos-episodios-veja-calendario-de-estreia-no-hbo-max.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603267-10-melhores-episodios-de-smallville-serie-de-superman-bombando-na-netflix.htm"
     },
     {
-      "title": "Super 3.3 nas Casas Bahia tem eletrônicos e eletromésticos com desconto e cupom",
-      "slug": "super-33-nas-casas-bahia-tem-eletronicos-e-eletromesticos-com-desconto-e-cupom",
-      "topic": "produtividade-dev",
+      "title": "Samsung encerra Cadeado Galaxy para proteção de celulares roubados",
+      "slug": "samsung-encerra-cadeado-galaxy-para-protecao-de-celulares-roubados",
+      "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-03T14:26:00.000Z",
+      "date": "2026-03-03T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411269-super-33-nas-casas-bahia-tem-eletronicos-e-eletromesticos-com-desconto-e-cupom.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411264-samsung-encerra-cadeado-galaxy-para-protecao-de-celulares-roubados.htm"
     },
     {
-      "title": "Apple lança novos MacBook Air e MacBook Pro com chips M5 avançados",
-      "slug": "apple-lanca-novos-macbook-air-e-macbook-pro-com-chips-m5-avancados",
+      "title": "Amazon Now chega ao Brasil com entregas em 15 minutos e frete grátis",
+      "slug": "amazon-now-chega-ao-brasil-com-entregas-em-15-minutos-e-frete-gratis",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T14:19:03.000Z",
+      "date": "2026-03-03T15:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411270-apple-lanca-novos-macbook-air-e-macbook-pro-com-chips-m5-avancados.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411279-amazon-now-chega-ao-brasil-com-entregas-em-15-minutos-e-frete-gratis.htm"
     },
     {
-      "title": "Codiguin Free Fire março de 2026: veja a lista de códigos para resgatar",
-      "slug": "codiguin-free-fire-marco-de-2026-veja-a-lista-de-codigos-para-resgatar",
+      "title": "OpenAI vai revisar acordo com o Departamento de Guerra dos EUA após reação negativa",
+      "slug": "openai-vai-revisar-acordo-com-o-departamento-de-guerra-dos-eua-apos-reacao-negativa",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T14:15:36.000Z",
+      "date": "2026-03-03T15:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503666-codiguin-free-fire-marco-de-2026-veja-a-lista-de-codigos-para-resgatar.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411276-openai-vai-revisar-acordo-com-o-departamento-de-guerra-dos-eua-apos-reacao-negativa.htm"
     },
     {
-      "title": "Motorola lança Edge 70 Fusion, novo celular intermediário com funções avançadas",
-      "slug": "motorola-lanca-edge-70-fusion-novo-celular-intermediario-com-funcoes-avancadas",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T13:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411265-motorola-lanca-edge-70-fusion-novo-celular-intermediario-com-funcoes-avancadas.htm"
-    },
-    {
-      "title": "Celulares, tablets, air fryers e mais ofertas do 3.3 do Mercado Livre; confira",
-      "slug": "celulares-tablets-air-fryers-e-mais-ofertas-do-33-do-mercado-livre-confira",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T13:39:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411263-celulares-tablets-air-fryers-e-mais-ofertas-do-33-do-mercado-livre-confira.htm"
-    },
-    {
-      "title": "Dispositivos Amazon em oferta: Kindle, Alexa e Fire TV Stick com até 28% OFF; confira",
-      "slug": "dispositivos-amazon-em-oferta-kindle-alexa-e-fire-tv-stick-com-ate-28percent-off-confira",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T13:26:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411254-dispositivos-amazon-em-oferta-kindle-alexa-e-fire-tv-stick-com-ate-28-off-confira.htm"
-    },
-    {
-      "title": "Astro de Evil Dead, Bruce Campbell compartilha diagnóstico de câncer",
-      "slug": "astro-de-evil-dead-bruce-campbell-compartilha-diagnostico-de-cancer",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T13:12:26.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603264-astro-de-evil-dead-bruce-campbell-compartilha-diagnostico-de-cancer.htm"
-    },
-    {
-      "title": "Apple lança novos MacBooks com chips M5 e maior capacidade de armazenamento",
-      "slug": "apple-lanca-novos-macbooks-com-chips-m5-e-maior-capacidade-de-armazenamento",
+      "title": "Amazon lança serviço para entrega de compras de supermercado em 15 minutos no Brasil",
+      "slug": "amazon-lanca-servico-para-entrega-de-compras-de-supermercado-em-15-minutos-no-brasil",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-03T15:09:31.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/apple-lanca-novos-macbooks-com-chips-m5-e-maior-capacidade-de-armazenamento.htm"
-    },
-    {
-      "title": "Feira de tecnologia em Barcelona é impactada pela guerra no Oriente Médio",
-      "slug": "feira-de-tecnologia-em-barcelona-e-impactada-pela-guerra-no-oriente-medio",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-03T11:12:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/rfi/2026/03/03/feira-de-tecnologia-em-barcelona-e-impactada-pela-guerra-no-oriente-medio.htm"
+      "date": "2026-03-03T15:56:23.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/amazon-lanca-servico-para-entrega-de-compras-de-supermercado-em-15-minutos-no-brasil.htm"
     }
   ]
 }
