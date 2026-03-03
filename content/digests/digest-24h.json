@@ -1,52 +1,16 @@
 {
-  "generated_at": "2026-03-03T01:03:49.563Z",
+  "generated_at": "2026-03-03T03:00:52.007Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 1,
   "posts": [
     {
-      "title": "HBO Max e Paramount+ podem passar por fusão após compra da Warner Bros",
-      "slug": "hbo-max-e-paramount-podem-passar-por-fusao-apos-compra-da-warner-bros",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-02T21:37:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/hbo-max-e-paramount-podem-passar-por-fusao-apos-compra-da-warner-bros/"
-    },
-    {
-      "title": "AMD expande linha Ryzen AI 400 com chips para desktops",
-      "slug": "amd-expande-linha-ryzen-ai-400-com-chips-para-desktops",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-02T19:46:47.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/amd-expande-linha-ryzen-ai-400-com-chips-para-desktops/"
-    },
-    {
-      "title": "Ataques derrubam GPS durante conflito no Oriente Médio",
-      "slug": "ataques-derrubam-gps-durante-conflito-no-oriente-medio",
+      "title": "Pré-venda de GTA 6 deve começar em breve! Entenda",
+      "slug": "pre-venda-de-gta-6-deve-comecar-em-breve-entenda",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T00:00:00.000Z",
+      "date": "2026-03-02T23:15:50.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411250-ataques-derrubam-gps-durante-conflito-no-oriente-medio.htm"
-    },
-    {
-      "title": "Unidade de data centers da Amazon adquire campus da Universidade George Washington",
-      "slug": "unidade-de-data-centers-da-amazon-adquire-campus-da-universidade-george-washington",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T23:56:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/unidade-de-data-centers-da-amazon-adquire-campus-da-universidade-george-washington.htm"
-    },
-    {
-      "title": "EUA usaram IA da Anthropic mesmo após proibição de Trump, diz jornal",
-      "slug": "eua-usaram-ia-da-anthropic-mesmo-apos-proibicao-de-trump-diz-jornal",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-02T23:25:48.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/02/eua-usaram-ia-da-anthropic-mesmo-apos-proibicao-de-trump-diz-jornal.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503660-pre-venda-de-gta-6-deve-comecar-em-breve-entenda.htm"
     }
   ]
 }
