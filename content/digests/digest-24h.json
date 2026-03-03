@@ -1,241 +1,214 @@
 {
-  "generated_at": "2026-03-03T19:14:40.151Z",
+  "generated_at": "2026-03-03T21:12:46.079Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 26,
+  "total": 23,
   "posts": [
     {
-      "title": "WhatsApp já tem lista de espera para versão premium",
-      "slug": "whatsapp-ja-tem-lista-de-espera-para-versao-premium",
+      "title": "Apple renova monitores Studio Display; modelo XDR chega a R$ 41.999",
+      "slug": "apple-renova-monitores-studio-display-modelo-xdr-chega-a-rdollar-41999",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T18:09:56.000Z",
-      "editorial_score": 85,
-      "original_url": "https://tecnoblog.net/noticias/whatsapp-ja-tem-lista-de-espera-para-versao-premium/"
-    },
-    {
-      "title": "Qualcomm lança Snapdragon Wear Elite, primeiro chip da linha Elite para vestíveis",
-      "slug": "qualcomm-lanca-snapdragon-wear-elite-primeiro-chip-da-linha-elite-para-vestiveis",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T18:02:49.000Z",
+      "date": "2026-03-03T20:46:50.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/qualcomm-lanca-snapdragon-wear-elite-primeiro-chip-da-linha-elite-para-vestiveis/"
+      "original_url": "https://tecnoblog.net/noticias/apple-renova-monitores-studio-display-modelo-xdr-chega-a-r-41-999/"
     },
     {
-      "title": "3.3: Moto G86 (512 GB) tem queda de 46% em promoção no Mercado Livre",
-      "slug": "33-moto-g86-512-gb-tem-queda-de-46percent-em-promocao-no-mercado-livre",
+      "title": "Smart TV Samsung OLED Vision AI 55” recebe 32% OFF no 3.3 da Amazon",
+      "slug": "smart-tv-samsung-oled-vision-ai-55-recebe-32percent-off-no-33-da-amazon",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-03T20:46:45.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/smart-tv-samsung-oled-vision-ai-55-recebe-32-off-no-3-3-da-amazon/"
+    },
+    {
+      "title": "3.3: Samsung Galaxy Book 4 tem melhor oferta do ano com 37% OFF na Amazon",
+      "slug": "33-samsung-galaxy-book-4-tem-melhor-oferta-do-ano-com-37percent-off-na-amazon",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T17:13:50.000Z",
+      "date": "2026-03-03T20:37:42.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/3-3-moto-g86-512-gb-tem-queda-de-46-em-promocao-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/achados/3-3-samsung-galaxy-book-4-tem-melhor-oferta-do-ano-com-37-off-na-amazon/"
     },
     {
-      "title": "Samsung diz que Galaxy S26 não tem tela de 10 bits",
-      "slug": "samsung-diz-que-galaxy-s26-nao-tem-tela-de-10-bits",
-      "topic": "seguranca-ia",
+      "title": "Galaxy Tab S10 Lite (256 GB) tem 30% OFF em oferta exclusiva Amazon Prime no 3.3",
+      "slug": "galaxy-tab-s10-lite-256-gb-tem-30percent-off-em-oferta-exclusiva-amazon-prime-no-33",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T17:11:01.000Z",
+      "date": "2026-03-03T20:08:52.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/samsung-diz-que-galaxy-s26-nao-tem-tela-de-10-bits/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s10-lite-256-gb-tem-30-off-em-oferta-exclusiva-amazon-prime-no-3-3/"
     },
     {
-      "title": "Novas versões do Chrome vão chegar antes do previsto; veja o que muda",
-      "slug": "novas-versoes-do-chrome-vao-chegar-antes-do-previsto-veja-o-que-muda",
+      "title": "Galaxy Z Flip 7 (256 GB) fica 31% mais barato no 3.3 do Mercado Livre",
+      "slug": "galaxy-z-flip-7-256-gb-fica-31percent-mais-barato-no-33-do-mercado-livre",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-03T19:30:57.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-z-flip-7-256-gb-fica-31-mais-barato-no-3-3-do-mercado-livre/"
+    },
+    {
+      "title": "É Wesker ou não é? Quem é Zeno em Resident Evil Requiem?",
+      "slug": "e-wesker-ou-nao-e-quem-e-zeno-em-resident-evil-requiem",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T20:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/e-wesker-ou-nao-e-quem-e-zeno-em-resident-evil-requiem/"
+    },
+    {
+      "title": "Claro lança plataforma de nuvem híbrida com AWS para empresas brasileiras",
+      "slug": "claro-lanca-plataforma-de-nuvem-hibrida-com-aws-para-empresas-brasileiras",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T20:44:17.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/claro-lanca-plataforma-de-nuvem-hibrida-com-aws-para-empresas-brasileiras/"
+    },
+    {
+      "title": "Venda de jogos em mídia física atinge o menor patamar desde 1995",
+      "slug": "venda-de-jogos-em-midia-fisica-atinge-o-menor-patamar-desde-1995",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T20:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/venda-de-jogos-em-midia-fisica-atinge-o-menor-patamar-desde-1995/"
+    },
+    {
+      "title": "Carros mais vendidos do Brasil: Polo lidera e Dolphin Mini estreia no top 10",
+      "slug": "carros-mais-vendidos-do-brasil-polo-lidera-e-dolphin-mini-estreia-no-top-10",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-03T20:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/carros-mais-vendidos-do-brasil-polo-lidera-e-dolphin-mini-estreia-no-top-10/"
+    },
+    {
+      "title": "Buscas por 'nudify' batem recorde e FGV cobra ação do Google",
+      "slug": "buscas-por-nudify-batem-recorde-e-fgv-cobra-acao-do-google",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-03T18:48:53.000Z",
+      "date": "2026-03-03T19:59:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/novas-versoes-do-chrome-vao-chegar-antes-do-previsto-veja-o-que-muda/"
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/buscas-por-nudify-batem-recorde-e-fgv-cobra-acao-do-google/"
     },
     {
-      "title": "Programa oferece cursos gratuitos em IA e inglês para jovens de SP",
-      "slug": "programa-oferece-cursos-gratuitos-em-ia-e-ingles-para-jovens-de-sp",
+      "title": "Netflix vai parar de funcionar em TVs antigas; veja se a sua está na lista",
+      "slug": "netflix-vai-parar-de-funcionar-em-tvs-antigas-veja-se-a-sua-esta-na-lista",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-03T18:47:46.000Z",
-      "editorial_score": 85,
-      "original_url": "https://canaltech.com.br/mercado/programa-oferece-cursos-gratuitos-em-ia-e-ingles-para-jovens-de-sp/"
-    },
-    {
-      "title": "Novo monitor da Apple finalmente adota mini-LED; veja as especificações",
-      "slug": "novo-monitor-da-apple-finalmente-adota-mini-led-veja-as-especificacoes",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-03T18:39:32.000Z",
+      "date": "2026-03-03T19:56:03.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/novo-monitor-da-apple-finalmente-adota-mini-led-veja-as-especificacoes/"
+      "original_url": "https://canaltech.com.br/tv/netflix-vai-parar-de-funcionar-em-tvs-antigas-veja-se-a-sua-esta-na-lista/"
     },
     {
-      "title": "Feito por só 2 pessoas, indie Apopia resgata magia dos desenhos dos anos 90",
-      "slug": "feito-por-so-2-pessoas-indie-apopia-resgata-magia-dos-desenhos-dos-anos-90",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T18:35:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/feito-por-so-2-pessoas-indie-apopia-resgata-magia-dos-desenhos-dos-anos-90/"
-    },
-    {
-      "title": "Jovi lança celulares com \"bateria de tablet\" no Brasil; veja preços do Y31 e Y21",
-      "slug": "jovi-lanca-celulares-com-bateria-de-tablet-no-brasil-veja-precos-do-y31-e-y21",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T18:07:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/jovi-lanca-celulares-com-bateria-de-tablet-no-brasil-veja-precos-do-y31-e-y21/"
-    },
-    {
-      "title": "X ganha app de mensagens para iPhone, mas com um porém",
-      "slug": "x-ganha-app-de-mensagens-para-iphone-mas-com-um-porem",
+      "title": "GPT-5.3 Instant: nova versão do ChatGPT promete ser mais direta ao ponto",
+      "slug": "gpt-53-instant-nova-versao-do-chatgpt-promete-ser-mais-direta-ao-ponto",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-03T18:04:00.000Z",
+      "date": "2026-03-03T19:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/x-ganha-app-de-mensagens-para-iphone-mas-com-um-porem/"
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/gpt-53-instant-nova-versao-do-chatgpt-promete-ser-mais-direta-ao-ponto/"
     },
     {
-      "title": "Carro por minuto: conheça a fábrica chinesa ultraveloz que vem ao Brasil",
-      "slug": "carro-por-minuto-conheca-a-fabrica-chinesa-ultraveloz-que-vem-ao-brasil",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-03T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/carro-por-minuto-conheca-a-fabrica-chinesa-ultraveloz-que-vem-ao-brasil/"
-    },
-    {
-      "title": "Amazon dá R$ 3,1 mil de desconto no iPhone 17 Pro; veja como aproveitar a oferta",
-      "slug": "amazon-da-rdollar-31-mil-de-desconto-no-iphone-17-pro-veja-como-aproveitar-a-oferta",
+      "title": "O número de celular vai morrer? Entenda porque ainda precisamos dele em 2026",
+      "slug": "o-numero-de-celular-vai-morrer-entenda-porque-ainda-precisamos-dele-em-2026",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-03T17:57:00.000Z",
+      "date": "2026-03-03T19:51:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/amazon-da-r-31-mil-de-desconto-no-iphone-17-pro-veja-como-aproveitar-a-oferta/"
+      "original_url": "https://canaltech.com.br/telecom/o-numero-de-celular-vai-morrer-entenda-porque-ainda-precisamos-dele-em-2026/"
     },
     {
-      "title": "Meu SUS Digital ganha teleatendimento para quem enfrenta problemas com apostas",
-      "slug": "meu-sus-digital-ganha-teleatendimento-para-quem-enfrenta-problemas-com-apostas",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-03T17:49:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/meu-sus-digital-ganha-teleatendimento-para-quem-enfrenta-problemas-com-apostas/"
-    },
-    {
-      "title": "Apple apresenta M5 Pro e M5 Max com arquitetura Fusion e desempenho absurdo",
-      "slug": "apple-apresenta-m5-pro-e-m5-max-com-arquitetura-fusion-e-desempenho-absurdo",
+      "title": "Logitech lança novo Astro A20 X no Brasil com 90 horas de bateria",
+      "slug": "logitech-lanca-novo-astro-a20-x-no-brasil-com-90-horas-de-bateria",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-03T17:46:05.000Z",
+      "date": "2026-03-03T19:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/apple-apresenta-m5-pro-e-m5-max-com-arquitetura-fusion-e-desempenho-absurdo/"
+      "original_url": "https://canaltech.com.br/hardware/logitech-lanca-novo-astro-a20-x-no-brasil-com-90-horas-de-bateria/"
     },
     {
-      "title": "Nvidia investe US$ 4 bi em empresas de tecnologia óptica para data centers",
-      "slug": "nvidia-investe-usdollar-4-bi-em-empresas-de-tecnologia-optica-para-data-centers",
+      "title": "Sem crise: RX 7600 XFX surge com preço no chão no KaBuM!",
+      "slug": "sem-crise-rx-7600-xfx-surge-com-preco-no-chao-no-kabum",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T19:34:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/sem-crise-rx-7600-xfx-surge-com-preco-no-chao-no-kabum/"
+    },
+    {
+      "title": "Ryzen AI 400 e AI PRO 400: conheça os novos chips profissionais da AMD",
+      "slug": "ryzen-ai-400-e-ai-pro-400-conheca-os-novos-chips-profissionais-da-amd",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T19:00:00.000Z",
+      "date": "2026-03-03T21:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411274-nvidia-investe-us-4-bi-em-empresas-de-tecnologia-optica-para-data-centers.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411285-ryzen-ai-400-e-ai-pro-400-conheca-os-novos-chips-profissionais-da-amd.htm"
     },
     {
-      "title": "Galaxy S26 não recebeu upgrade para tela 10-bit, corrige Samsung",
-      "slug": "galaxy-s26-nao-recebeu-upgrade-para-tela-10-bit-corrige-samsung",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-03T18:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411284-galaxy-s26-nao-recebeu-upgrade-para-tela-10-bit-corrige-samsung.htm"
-    },
-    {
-      "title": "Asus lança no Brasil edição limitada de laptop feito com Kojima; preço é de chorar",
-      "slug": "asus-lanca-no-brasil-edicao-limitada-de-laptop-feito-com-kojima-preco-e-de-chorar",
+      "title": "Realme 15 Pro Game of Thrones: celular regular, mas uma RELÍQUIA para fãs [Review]",
+      "slug": "realme-15-pro-game-of-thrones-celular-regular-mas-uma-reliquia-para-fas-review",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T18:17:43.000Z",
+      "date": "2026-03-03T20:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411280-asus-lanca-no-brasil-edicao-limitada-de-laptop-feito-com-kojima-preco-e-de-chorar.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411244-realme-15-pro-game-of-thrones-celular-regular-mas-uma-reliquia-para-fas-review.htm"
     },
     {
-      "title": "Zootopia 2 finalmente ganha data de lançamento no Disney+",
-      "slug": "zootopia-2-finalmente-ganha-data-de-lancamento-no-disney",
+      "title": "Apple deixa escapar ‘MacBook Neo’, suposto novo notebook baratinho",
+      "slug": "apple-deixa-escapar-macbook-neo-suposto-novo-notebook-baratinho",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T18:15:24.000Z",
+      "date": "2026-03-03T20:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603271-zootopia-2-finalmente-ganha-data-de-lancamento-no-disney.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411290-apple-deixa-escapar-macbook-neo-suposto-novo-notebook-baratinho.htm"
     },
     {
-      "title": "Gemini Live escondia brecha que dava acesso à câmera e arquivos do usuário",
-      "slug": "gemini-live-escondia-brecha-que-dava-acesso-a-camera-e-arquivos-do-usuario",
+      "title": "Highguard será encerrado permanentemente em março",
+      "slug": "highguard-sera-encerrado-permanentemente-em-marco",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T18:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411255-gemini-live-escondia-brecha-que-dava-acesso-a-camera-e-arquivos-do-usuario.htm"
-    },
-    {
-      "title": "Netshoes faz aniversário e libera 15% de desconto extra em compras acima de R$99",
-      "slug": "netshoes-faz-aniversario-e-libera-15percent-de-desconto-extra-em-compras-acima-de-rdollar99",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T18:03:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411287-netshoes-faz-aniversario-e-libera-15-de-desconto-extra-em-compras-acima-de-r99.htm"
-    },
-    {
-      "title": "PCs baratos devem desaparecer até 2028, diz Gartner",
-      "slug": "pcs-baratos-devem-desaparecer-ate-2028-diz-gartner",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411271-pcs-baratos-devem-desaparecer-ate-2028-diz-gartner.htm"
-    },
-    {
-      "title": "Smartwatches, celulares, notebooks e mais com desconto no PayDay do Magazine Luiza",
-      "slug": "smartwatches-celulares-notebooks-e-mais-com-desconto-no-payday-do-magazine-luiza",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-03T17:36:00.000Z",
+      "date": "2026-03-03T20:29:55.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411282-smartwatches-celulares-notebooks-e-mais-com-desconto-no-payday-do-magazine-luiza.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503685-highguard-sera-encerrado-permanentemente-em-marco.htm"
     },
     {
-      "title": "Criador de God of War critica imagem do live-action: 'Terrível'",
-      "slug": "criador-de-god-of-war-critica-imagem-do-live-action-terrivel",
+      "title": "Game of Thrones ganhará filme blockbuster sobre Aegon, O Conquistador! Veja o que esperar",
+      "slug": "game-of-thrones-ganhara-filme-blockbuster-sobre-aegon-o-conquistador-veja-o-que-esperar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T17:15:30.000Z",
+      "date": "2026-03-03T20:15:34.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503679-criador-de-god-of-war-critica-imagem-do-live-action-terrivel.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603272-game-of-thrones-ganhara-filme-blockbuster-sobre-aegon-o-conquistador-veja-o-que-esperar.htm"
     },
     {
-      "title": "Google alerta para falha grave em Androids com chips da Qualcomm",
-      "slug": "google-alerta-para-falha-grave-em-androids-com-chips-da-qualcomm",
+      "title": "Claude ganha opção para importar histórico e memórias de outras IAs",
+      "slug": "claude-ganha-opcao-para-importar-historico-e-memorias-de-outras-ias",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T17:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411278-google-alerta-para-falha-grave-em-androids-com-chips-da-qualcomm.htm"
+      "date": "2026-03-03T20:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/mercado/411283-claude-ganha-opcao-para-importar-historico-e-memorias-de-outras-ias.htm"
     },
     {
-      "title": "Restrições contratuais à IA podem ameaçar missões militares, diz autoridade dos EUA",
-      "slug": "restricoes-contratuais-a-ia-podem-ameacar-missoes-militares-diz-autoridade-dos-eua",
+      "title": "Série de Life is Strange confirma atrizes de Max e Chloe! Veja primeira imagem",
+      "slug": "serie-de-life-is-strange-confirma-atrizes-de-max-e-chloe-veja-primeira-imagem",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-03T18:51:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/restricoes-contratuais-a-ia-podem-ameacar-missoes-militares-diz-autoridade-dos-eua.htm"
+      "source": "Tecmundo",
+      "date": "2026-03-03T19:15:14.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503682-serie-de-life-is-strange-confirma-atrizes-de-max-e-chloe-veja-primeira-imagem.htm"
     },
     {
-      "title": "China define metas para expandir indústria de reciclagem de painéis solares",
-      "slug": "china-define-metas-para-expandir-industria-de-reciclagem-de-paineis-solares",
+      "title": "Startup norte-americana Anduril deve duplicar avaliação em captação de US$4 bi, dizem fontes",
+      "slug": "startup-norte-americana-anduril-deve-duplicar-avaliacao-em-captacao-de-usdollar4-bi-dizem-fontes",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-03T17:28:25.000Z",
+      "date": "2026-03-03T20:54:16.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/china-define-metas-para-expandir-industria-de-reciclagem-de-paineis-solares.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/startup-norte-americana-anduril-deve-duplicar-avaliacao-em-captacao-de-us4-bidizem-fontes.htm"
     }
   ]
 }
