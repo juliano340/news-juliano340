@@ -1,13 +1,24 @@
 # Weekly IA para Devs - 2026-03-03
 
-Gerado em 2026-03-03T11:07:00.640Z
+Gerado em 2026-03-03T13:13:10.695Z
 
-- [Samsung encerra serviço contra roubos de celulares no Brasil](https://tecnoblog.net/noticias/samsung-encerra-servico-contra-roubos-de-celulares-no-brasil/) | topico: agentes | score: 100
-- [ChatGPT e Claude: o que muda entre os apps de IA?](https://canaltech.com.br/apps/chatgpt-e-claude-o-que-muda-entre-os-apps-de-ia/) | topico: llms | score: 100
-- [Nova CEO em ação: Xbox reformula marketing para consertar imagem da marca](https://canaltech.com.br/games/nova-ceo-em-acao-xbox-reformula-marketing-para-consertar-imagem-da-marca/) | topico: geral | score: 100
-- [Galaxy S27 Ultra pode ter câmera "turbinada" para rivalizar com Xiaomi](https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-ter-camera-turbinada-para-rivalizar-com-xiaomi/) | topico: geral | score: 100
-- [Fiat faz queima e joga preço do Fastback híbrido no chão, mas não para todos](https://canaltech.com.br/carros/fiat-faz-queima-e-joga-preco-do-fastback-hibrido-no-chao-mas-nao-para-todos/) | topico: geral | score: 100
-- [Quando a IA imita artistas: inovação ou violação de direitos?](https://canaltech.com.br/podcast/podcast-canaltech/quando-a-ia-imita-artistas-inovacao-ou-violacao-de-direitos-6381/) | topico: produtividade-dev | score: 100
-- [Android: 5 jogos grátis em alta para baixar na Play Store esta semana (03)](https://www.tecmundo.com.br/voxel/503663-android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-03.htm) | topico: geral | score: 100
-- [Palpites para Carabobo x Sporting Cristal: Análises e Onde Assistir (04/03/2026)](https://www.tecmundo.com.br/apostas/411235-palpites-para-carabobo-x-sporting-cristal-analises-e-onde-assistir-04032026.htm) | topico: produtividade-dev | score: 92
-- [Palpites para Barcelona x Atlético de Madrid: Análises e Onde Assistir (03/03/2026)](https://www.tecmundo.com.br/apostas/411232-palpites-para-barcelona-x-atletico-de-madrid-analises-e-onde-assistir-03032026.htm) | topico: seguranca-ia | score: 92
+- [Fone de ouvido em forma de brinco da TCL tem cristais Swarovski gigantes](https://canaltech.com.br/fone-de-ouvido/fone-de-ouvido-em-forma-de-brinco-da-tcl-tem-cristais-swarovski-gigantes/) | topico: geral | score: 100
+- [Celulares da Samsung agora funcionam como chave para abrir a porta da sua casa](https://canaltech.com.br/smartphone/celulares-da-samsung-agora-funcionam-como-chave-para-abrir-a-porta-da-sua-casa/) | topico: geral | score: 100
+- [WhatsApp terá fila para assinar o plano Premium, antecipa portal](https://canaltech.com.br/apps/whatsapp-tera-fila-para-assinar-o-plano-premium-antecipa-portal/) | topico: agentes | score: 100
+- [Gemini agora diz se há alguém na porta da sua casa](https://canaltech.com.br/apps/gemini-agora-diz-se-ha-alguem-na-porta-da-sua-casa/) | topico: llms | score: 100
+- [Irã vai responder ataque dos EUA com ciberataques, afirma inteligência da Google](https://canaltech.com.br/seguranca/ira-vai-responder-ataque-dos-eua-com-ciberataques-afirma-inteligencia-da-google/) | topico: geral | score: 100
+- [Starlink para celular vai ficar 20x mais rápida em breve, revela executivo](https://canaltech.com.br/telecom/starlink-para-celular-vai-ficar-20x-mais-rapida-em-breve-revela-executivo/) | topico: produtividade-dev | score: 92
+- [Novo top da Motorola vazou: veja o que já sabemos sobre o Razr 70 Plus](https://canaltech.com.br/smartphone/novo-top-da-motorola-vazou-veja-o-que-ja-sabemos-sobre-o-razr-70-plus/) | topico: geral | score: 92
+- [Koleos: Renault prepara estreia do seu 1º SUV híbrido no mercado brasileiro](https://canaltech.com.br/carros/renault-prepara-estreia-do-seu-1o-suv-hibrido-no-mercado-brasileiro/) | topico: geral | score: 100
+- [Mais leve e potente: Legion 7a Gen 11 é o novo notebook gamer da Lenovo](https://canaltech.com.br/notebook/mais-leve-e-potente-legion-7a-gen-11-e-o-novo-notebook-gamer-da-lenovo/) | topico: geral | score: 100
+- [Xiaomi lança TVs 4K com tela para gamers e até 98 polegadas](https://canaltech.com.br/tv/xiaomi-lanca-tvs-4k-com-tela-para-gamers-e-ate-98-polegadas/) | topico: llms | score: 100
+- [Desinstalações do ChatGPT disparam em 295% após acordo da OpenAI com os EUA](https://www.tecmundo.com.br/software/411262-desinstalacoes-do-chatgpt-disparam-em-295-apos-acordo-da-openai-com-os-eua.htm) | topico: llms | score: 92
+- [Galaxy S26 Ultra x iPhone 17 Pro Max: Qual smartphone premium é melhor?](https://www.tecmundo.com.br/produto/411259-galaxy-s26-ultra-x-iphone-17-pro-max-qual-smartphone-premium-e-melhor.htm) | topico: geral | score: 100
+- [Destaques do 3.3 da Shopee: cupons, ofertas e mais para aproveitar hoje](https://www.tecmundo.com.br/guia-de-compras/411256-destaques-do-33-da-shopee-cupons-ofertas-e-mais-para-aproveitar-hoje.htm) | topico: produtividade-dev | score: 100
+- [Rede social X ganha marcador para publicidades que substitui hashtag](https://www.tecmundo.com.br/redes-sociais/411261-rede-social-x-ganha-marcador-para-publicidades-que-substitui-hashtag.htm) | topico: produtividade-dev | score: 92
+- [Quanto tempo leva para zerar Resident Evil Requiem? Veja a duração](https://www.tecmundo.com.br/voxel/503665-quanto-tempo-leva-para-zerar-resident-evil-requiem-veja-a-duracao.htm) | topico: geral | score: 100
+- [iPhone 17e vs iPhone 16e: as diferenças entre os baratinhos da Apple](https://www.tecmundo.com.br/produto/411257-iphone-17e-vs-iphone-16e-as-diferencas-entre-os-baratinhos-da-apple.htm) | topico: geral | score: 100
+- [Cuidado: Golpe do Pix aparece após chuvas em MG e governo faz alerta](https://www.tecmundo.com.br/internet/411241-cuidado-golpe-do-pix-aparece-apos-chuvas-em-mg-e-governo-faz-alerta.htm) | topico: produtividade-dev | score: 100
+- [Rússia será capaz de neutralizar ataques nucleares europeus em 10 anos, alerta estudo](https://www.tecmundo.com.br/seguranca/411260-russia-sera-capaz-de-neutralizar-ataques-nucleares-europeus-em-10-anos-alerta-estudo.htm) | topico: geral | score: 100
+- [Quem é a nova Lady Whistledown em Bridgerton temporada 4?](https://www.tecmundo.com.br/minha-serie/603258-quem-e-a-nova-lady-whistledown-em-bridgerton-temporada-4.htm) | topico: geral | score: 100
+- ['Império de Musk': Elon leva a fama, mas divide aposta espacial com Google](https://www.uol.com.br/tilt/noticias/redacao/2026/03/03/os-donos-do-imperio-de-musk.htm) | topico: produtividade-dev | score: 100

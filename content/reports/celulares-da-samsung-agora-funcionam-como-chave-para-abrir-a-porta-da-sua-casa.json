@@ -1,6 +1,6 @@
 {
-  "slug": "imperio-de-musk-elon-leva-a-fama-mas-divide-aposta-espacial-com-google",
-  "generated_at": "2026-03-03T13:13:09.690Z",
+  "slug": "celulares-da-samsung-agora-funcionam-como-chave-para-abrir-a-porta-da-sua-casa",
+  "generated_at": "2026-03-03T13:01:16.303Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 366,
+      "words": 283,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "imperio-de-musk-elon-leva-a-fama-mas-divide-aposta-espacial-com-google",
-  "generated_at": "2026-03-03T13:13:09.690Z",
+  "slug": "russia-sera-capaz-de-neutralizar-ataques-nucleares-europeus-em-10-anos-alerta-estudo",
+  "generated_at": "2026-03-03T13:11:38.834Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 366,
+      "words": 283,
       "min": 220
     },
     {

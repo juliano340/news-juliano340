@@ -1,6 +1,6 @@
 {
-  "slug": "imperio-de-musk-elon-leva-a-fama-mas-divide-aposta-espacial-com-google",
-  "generated_at": "2026-03-03T13:13:09.690Z",
+  "slug": "whatsapp-tera-fila-para-assinar-o-plano-premium-antecipa-portal",
+  "generated_at": "2026-03-03T13:01:45.035Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 366,
+      "words": 352,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "imperio-de-musk-elon-leva-a-fama-mas-divide-aposta-espacial-com-google",
-  "generated_at": "2026-03-03T13:13:09.690Z",
+  "slug": "cuidado-golpe-do-pix-aparece-apos-chuvas-em-mg-e-governo-faz-alerta",
+  "generated_at": "2026-03-03T13:10:45.879Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 366,
+      "words": 321,
       "min": 220
     },
     {
