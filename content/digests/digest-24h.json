@@ -1,187 +1,241 @@
 {
-  "generated_at": "2026-03-03T17:11:45.605Z",
+  "generated_at": "2026-03-03T19:14:40.151Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 20,
+  "total": 26,
   "posts": [
     {
-      "title": "Galaxy S25 Plus (256 GB) cai para menos da metade do preço em oferta no 3.3",
-      "slug": "galaxy-s25-plus-256-gb-cai-para-menos-da-metade-do-preco-em-oferta-no-33",
-      "topic": "produtividade-dev",
+      "title": "WhatsApp já tem lista de espera para versão premium",
+      "slug": "whatsapp-ja-tem-lista-de-espera-para-versao-premium",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T16:26:11.000Z",
+      "date": "2026-03-03T18:09:56.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/noticias/whatsapp-ja-tem-lista-de-espera-para-versao-premium/"
+    },
+    {
+      "title": "Qualcomm lança Snapdragon Wear Elite, primeiro chip da linha Elite para vestíveis",
+      "slug": "qualcomm-lanca-snapdragon-wear-elite-primeiro-chip-da-linha-elite-para-vestiveis",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-03T18:02:49.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-cai-para-menos-da-metade-do-preco-em-oferta-no-3-3/"
+      "original_url": "https://tecnoblog.net/noticias/qualcomm-lanca-snapdragon-wear-elite-primeiro-chip-da-linha-elite-para-vestiveis/"
     },
     {
-      "title": "iPad dobrável de 18 polegadas pode chegar em 2029",
-      "slug": "ipad-dobravel-de-18-polegadas-pode-chegar-em-2029",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T16:11:19.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/ipad-dobravel-de-18-polegadas-pode-chegar-em-2029/"
-    },
-    {
-      "title": "Claude libera importação de preferências do ChatGPT em meio à disputa nos EUA",
-      "slug": "claude-libera-importacao-de-preferencias-do-chatgpt-em-meio-a-disputa-nos-eua",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T15:46:07.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/claude-libera-importacao-de-preferencias-do-chatgpt-em-meio-a-disputa-nos-eua/"
-    },
-    {
-      "title": "Samsung pretende usar chips Exynos em toda a linha Galaxy",
-      "slug": "samsung-pretende-usar-chips-exynos-em-toda-a-linha-galaxy",
+      "title": "3.3: Moto G86 (512 GB) tem queda de 46% em promoção no Mercado Livre",
+      "slug": "33-moto-g86-512-gb-tem-queda-de-46percent-em-promocao-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-03T15:42:51.000Z",
+      "date": "2026-03-03T17:13:50.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/samsung-pretende-usar-chips-exynos-em-toda-a-linha-galaxy/"
+      "original_url": "https://tecnoblog.net/achados/3-3-moto-g86-512-gb-tem-queda-de-46-em-promocao-no-mercado-livre/"
     },
     {
-      "title": "Mortal Kombat 2 ganha novo trailer focado em personagens clássicos; confira",
-      "slug": "mortal-kombat-2-ganha-novo-trailer-focado-em-personagens-classicos-confira",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T16:30:00.000Z",
+      "title": "Samsung diz que Galaxy S26 não tem tela de 10 bits",
+      "slug": "samsung-diz-que-galaxy-s26-nao-tem-tela-de-10-bits",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-03T17:11:01.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/mortal-kombat-2-ganha-novo-trailer-focado-em-personagens-classicos-confira/"
+      "original_url": "https://tecnoblog.net/noticias/samsung-diz-que-galaxy-s26-nao-tem-tela-de-10-bits/"
     },
     {
-      "title": "Amazon joga preço do Moto G86 no chão; celular bate menor valor histórico",
-      "slug": "amazon-joga-preco-do-moto-g86-no-chao-celular-bate-menor-valor-historico",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T16:16:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/amazon-joga-preco-do-moto-g86-no-chao-celular-bate-menor-valor-historico/"
-    },
-    {
-      "title": "Novas antenas da TIM vão direcionar sinal exatamente para onde há mais demanda",
-      "slug": "novas-antenas-da-tim-vao-direcionar-sinal-exatamente-para-onde-ha-mais-demanda",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-03-03T15:57:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/telecom/novas-antenas-da-tim-vao-direcionar-sinal-exatamente-para-onde-ha-mais-demanda/"
-    },
-    {
-      "title": "BMW \"copia\" Tesla e coloca robôs para trabalhar na fábrica",
-      "slug": "bmw-copia-tesla-e-coloca-robos-para-trabalhar-na-fabrica",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-03T15:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/bmw-copia-tesla-e-coloca-robos-para-trabalhar-na-fabrica/"
-    },
-    {
-      "title": "Amazon Now, com entregas rápidas em 15 minutos, chega ao Brasil",
-      "slug": "amazon-now-com-entregas-rapidas-em-15-minutos-chega-ao-brasil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T15:33:51.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/amazon-now-com-entregas-rapidas-em-15-minutos-chega-ao-brasil/"
-    },
-    {
-      "title": "Contagem regressiva: fim do PC baratinho deve ocorrer até 2028",
-      "slug": "contagem-regressiva-fim-do-pc-baratinho-deve-ocorrer-ate-2028",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-03T15:25:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/contagem-regressiva-fim-do-pc-baratinho-deve-ocorrer-ate-2028/"
-    },
-    {
-      "title": "Google Mensagens terá lixeira para você não apagar conversas por acidente",
-      "slug": "google-mensagens-tera-lixeira-para-voce-nao-apagar-conversas-por-acidente",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-03T15:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/google-mensagens-tera-lixeira-para-voce-nao-apagar-conversas-por-acidente/"
-    },
-    {
-      "title": "Desinstalações do ChatGPT chegam a 295% em meio ao acordo com o governo dos EUA",
-      "slug": "desinstalacoes-do-chatgpt-chegam-a-295percent-em-meio-ao-acordo-com-o-governo-dos-eua",
+      "title": "Novas versões do Chrome vão chegar antes do previsto; veja o que muda",
+      "slug": "novas-versoes-do-chrome-vao-chegar-antes-do-previsto-veja-o-que-muda",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-03T15:05:00.000Z",
+      "date": "2026-03-03T18:48:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/desinstalacoes-do-chatgpt-chegam-a-295-em-meio-ao-acordo-com-o-governo-dos-eua/"
+      "original_url": "https://canaltech.com.br/software/novas-versoes-do-chrome-vao-chegar-antes-do-previsto-veja-o-que-muda/"
     },
     {
-      "title": "Atrasada, Samsung libera patch de segurança de fevereiro corrigindo quase 40 brechas graves em celulares Galaxy",
-      "slug": "atrasada-samsung-libera-patch-de-seguranca-de-fevereiro-corrigindo-quase-40-brechas-graves-em-celulares-galaxy",
+      "title": "Programa oferece cursos gratuitos em IA e inglês para jovens de SP",
+      "slug": "programa-oferece-cursos-gratuitos-em-ia-e-ingles-para-jovens-de-sp",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T18:47:46.000Z",
+      "editorial_score": 85,
+      "original_url": "https://canaltech.com.br/mercado/programa-oferece-cursos-gratuitos-em-ia-e-ingles-para-jovens-de-sp/"
+    },
+    {
+      "title": "Novo monitor da Apple finalmente adota mini-LED; veja as especificações",
+      "slug": "novo-monitor-da-apple-finalmente-adota-mini-led-veja-as-especificacoes",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-03T18:39:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/novo-monitor-da-apple-finalmente-adota-mini-led-veja-as-especificacoes/"
+    },
+    {
+      "title": "Feito por só 2 pessoas, indie Apopia resgata magia dos desenhos dos anos 90",
+      "slug": "feito-por-so-2-pessoas-indie-apopia-resgata-magia-dos-desenhos-dos-anos-90",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T18:35:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/feito-por-so-2-pessoas-indie-apopia-resgata-magia-dos-desenhos-dos-anos-90/"
+    },
+    {
+      "title": "Jovi lança celulares com \"bateria de tablet\" no Brasil; veja preços do Y31 e Y21",
+      "slug": "jovi-lanca-celulares-com-bateria-de-tablet-no-brasil-veja-precos-do-y31-e-y21",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T18:07:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/jovi-lanca-celulares-com-bateria-de-tablet-no-brasil-veja-precos-do-y31-e-y21/"
+    },
+    {
+      "title": "X ganha app de mensagens para iPhone, mas com um porém",
+      "slug": "x-ganha-app-de-mensagens-para-iphone-mas-com-um-porem",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-03T18:04:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/x-ganha-app-de-mensagens-para-iphone-mas-com-um-porem/"
+    },
+    {
+      "title": "Carro por minuto: conheça a fábrica chinesa ultraveloz que vem ao Brasil",
+      "slug": "carro-por-minuto-conheca-a-fabrica-chinesa-ultraveloz-que-vem-ao-brasil",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-03T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/carro-por-minuto-conheca-a-fabrica-chinesa-ultraveloz-que-vem-ao-brasil/"
+    },
+    {
+      "title": "Amazon dá R$ 3,1 mil de desconto no iPhone 17 Pro; veja como aproveitar a oferta",
+      "slug": "amazon-da-rdollar-31-mil-de-desconto-no-iphone-17-pro-veja-como-aproveitar-a-oferta",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T17:57:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/amazon-da-r-31-mil-de-desconto-no-iphone-17-pro-veja-como-aproveitar-a-oferta/"
+    },
+    {
+      "title": "Meu SUS Digital ganha teleatendimento para quem enfrenta problemas com apostas",
+      "slug": "meu-sus-digital-ganha-teleatendimento-para-quem-enfrenta-problemas-com-apostas",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-03T17:49:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/meu-sus-digital-ganha-teleatendimento-para-quem-enfrenta-problemas-com-apostas/"
+    },
+    {
+      "title": "Apple apresenta M5 Pro e M5 Max com arquitetura Fusion e desempenho absurdo",
+      "slug": "apple-apresenta-m5-pro-e-m5-max-com-arquitetura-fusion-e-desempenho-absurdo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T17:46:05.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/apple-apresenta-m5-pro-e-m5-max-com-arquitetura-fusion-e-desempenho-absurdo/"
+    },
+    {
+      "title": "Nvidia investe US$ 4 bi em empresas de tecnologia óptica para data centers",
+      "slug": "nvidia-investe-usdollar-4-bi-em-empresas-de-tecnologia-optica-para-data-centers",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T17:00:00.000Z",
+      "date": "2026-03-03T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411272-atrasada-samsung-libera-patch-de-seguranca-de-fevereiro-corrigindo-quase-40-brechas-graves-em-celulares-galaxy.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411274-nvidia-investe-us-4-bi-em-empresas-de-tecnologia-optica-para-data-centers.htm"
     },
     {
-      "title": "Celulares Motorola terão sistema Android sem os apps do Google",
-      "slug": "celulares-motorola-terao-sistema-android-sem-os-apps-do-google",
+      "title": "Galaxy S26 não recebeu upgrade para tela 10-bit, corrige Samsung",
+      "slug": "galaxy-s26-nao-recebeu-upgrade-para-tela-10-bit-corrige-samsung",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-03T16:40:00.000Z",
+      "date": "2026-03-03T18:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411281-celulares-motorola-terao-sistema-android-sem-os-apps-do-google.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411284-galaxy-s26-nao-recebeu-upgrade-para-tela-10-bit-corrige-samsung.htm"
     },
     {
-      "title": "SXSW 2026: SP House promove debate com estrelas da tecnologia e liderança",
-      "slug": "sxsw-2026-sp-house-promove-debate-com-estrelas-da-tecnologia-e-lideranca",
+      "title": "Asus lança no Brasil edição limitada de laptop feito com Kojima; preço é de chorar",
+      "slug": "asus-lanca-no-brasil-edicao-limitada-de-laptop-feito-com-kojima-preco-e-de-chorar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T16:30:00.000Z",
+      "date": "2026-03-03T18:17:43.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411277-sxsw-2026-sp-house-promove-debate-com-estrelas-da-tecnologia-e-lideranca.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411280-asus-lanca-no-brasil-edicao-limitada-de-laptop-feito-com-kojima-preco-e-de-chorar.htm"
     },
     {
-      "title": "10 melhores episódios de Smallville, série de Superman bombando na Netflix",
-      "slug": "10-melhores-episodios-de-smallville-serie-de-superman-bombando-na-netflix",
+      "title": "Zootopia 2 finalmente ganha data de lançamento no Disney+",
+      "slug": "zootopia-2-finalmente-ganha-data-de-lancamento-no-disney",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T16:15:48.000Z",
+      "date": "2026-03-03T18:15:24.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603267-10-melhores-episodios-de-smallville-serie-de-superman-bombando-na-netflix.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603271-zootopia-2-finalmente-ganha-data-de-lancamento-no-disney.htm"
     },
     {
-      "title": "Samsung encerra Cadeado Galaxy para proteção de celulares roubados",
-      "slug": "samsung-encerra-cadeado-galaxy-para-protecao-de-celulares-roubados",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-03T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411264-samsung-encerra-cadeado-galaxy-para-protecao-de-celulares-roubados.htm"
-    },
-    {
-      "title": "Amazon Now chega ao Brasil com entregas em 15 minutos e frete grátis",
-      "slug": "amazon-now-chega-ao-brasil-com-entregas-em-15-minutos-e-frete-gratis",
+      "title": "Gemini Live escondia brecha que dava acesso à câmera e arquivos do usuário",
+      "slug": "gemini-live-escondia-brecha-que-dava-acesso-a-camera-e-arquivos-do-usuario",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T15:55:00.000Z",
+      "date": "2026-03-03T18:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411279-amazon-now-chega-ao-brasil-com-entregas-em-15-minutos-e-frete-gratis.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411255-gemini-live-escondia-brecha-que-dava-acesso-a-camera-e-arquivos-do-usuario.htm"
     },
     {
-      "title": "OpenAI vai revisar acordo com o Departamento de Guerra dos EUA após reação negativa",
-      "slug": "openai-vai-revisar-acordo-com-o-departamento-de-guerra-dos-eua-apos-reacao-negativa",
+      "title": "Netshoes faz aniversário e libera 15% de desconto extra em compras acima de R$99",
+      "slug": "netshoes-faz-aniversario-e-libera-15percent-de-desconto-extra-em-compras-acima-de-rdollar99",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-03T15:45:00.000Z",
+      "date": "2026-03-03T18:03:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411276-openai-vai-revisar-acordo-com-o-departamento-de-guerra-dos-eua-apos-reacao-negativa.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411287-netshoes-faz-aniversario-e-libera-15-de-desconto-extra-em-compras-acima-de-r99.htm"
     },
     {
-      "title": "Amazon lança serviço para entrega de compras de supermercado em 15 minutos no Brasil",
-      "slug": "amazon-lanca-servico-para-entrega-de-compras-de-supermercado-em-15-minutos-no-brasil",
+      "title": "PCs baratos devem desaparecer até 2028, diz Gartner",
+      "slug": "pcs-baratos-devem-desaparecer-ate-2028-diz-gartner",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-03T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411271-pcs-baratos-devem-desaparecer-ate-2028-diz-gartner.htm"
+    },
+    {
+      "title": "Smartwatches, celulares, notebooks e mais com desconto no PayDay do Magazine Luiza",
+      "slug": "smartwatches-celulares-notebooks-e-mais-com-desconto-no-payday-do-magazine-luiza",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-03T17:36:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411282-smartwatches-celulares-notebooks-e-mais-com-desconto-no-payday-do-magazine-luiza.htm"
+    },
+    {
+      "title": "Criador de God of War critica imagem do live-action: 'Terrível'",
+      "slug": "criador-de-god-of-war-critica-imagem-do-live-action-terrivel",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-03T17:15:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503679-criador-de-god-of-war-critica-imagem-do-live-action-terrivel.htm"
+    },
+    {
+      "title": "Google alerta para falha grave em Androids com chips da Qualcomm",
+      "slug": "google-alerta-para-falha-grave-em-androids-com-chips-da-qualcomm",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-03T17:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411278-google-alerta-para-falha-grave-em-androids-com-chips-da-qualcomm.htm"
+    },
+    {
+      "title": "Restrições contratuais à IA podem ameaçar missões militares, diz autoridade dos EUA",
+      "slug": "restricoes-contratuais-a-ia-podem-ameacar-missoes-militares-diz-autoridade-dos-eua",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-03T15:56:23.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/amazon-lanca-servico-para-entrega-de-compras-de-supermercado-em-15-minutos-no-brasil.htm"
+      "date": "2026-03-03T18:51:41.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/restricoes-contratuais-a-ia-podem-ameacar-missoes-militares-diz-autoridade-dos-eua.htm"
+    },
+    {
+      "title": "China define metas para expandir indústria de reciclagem de painéis solares",
+      "slug": "china-define-metas-para-expandir-industria-de-reciclagem-de-paineis-solares",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-03T17:28:25.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/03/china-define-metas-para-expandir-industria-de-reciclagem-de-paineis-solares.htm"
     }
   ]
 }
