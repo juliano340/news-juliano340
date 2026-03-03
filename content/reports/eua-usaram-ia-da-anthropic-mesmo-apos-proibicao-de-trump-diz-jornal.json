@@ -1,6 +1,6 @@
 {
-  "slug": "hbo-max-e-paramount-podem-passar-por-fusao-apos-compra-da-warner-bros",
-  "generated_at": "2026-03-03T01:00:51.692Z",
+  "slug": "eua-usaram-ia-da-anthropic-mesmo-apos-proibicao-de-trump-diz-jornal",
+  "generated_at": "2026-03-03T01:03:48.558Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 425,
+      "words": 317,
       "min": 220
     },
     {

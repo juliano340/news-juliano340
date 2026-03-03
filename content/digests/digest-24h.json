@@ -1,133 +1,52 @@
 {
-  "generated_at": "2026-03-02T23:09:29.736Z",
+  "generated_at": "2026-03-03T01:03:49.563Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 14,
+  "total": 5,
   "posts": [
     {
-      "title": "EUA usaram inteligência artificial Claude, rival do ChatGPT, em ataque ao Irã, diz jornal",
-      "slug": "eua-usaram-inteligencia-artificial-claude-rival-do-chatgpt-em-ataque-ao-ira-diz-jornal",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-02T21:32:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/02/eua-inteligencia-artificial-claude-ira.ghtml"
-    },
-    {
-      "title": "Huawei Watch GT 6 Pro tem desconto histórico em até 10x no Mês do Consumidor",
-      "slug": "huawei-watch-gt-6-pro-tem-desconto-historico-em-ate-10x-no-mes-do-consumidor",
+      "title": "HBO Max e Paramount+ podem passar por fusão após compra da Warner Bros",
+      "slug": "hbo-max-e-paramount-podem-passar-por-fusao-apos-compra-da-warner-bros",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-02T22:19:39.000Z",
+      "date": "2026-03-02T21:37:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/huawei-watch-gt-6-pro-tem-desconto-historico-em-ate-10x-no-mes-do-consumidor/"
+      "original_url": "https://tecnoblog.net/noticias/hbo-max-e-paramount-podem-passar-por-fusao-apos-compra-da-warner-bros/"
     },
     {
-      "title": "Galaxy Z Fold 7 (512 GB) tem 45% OFF no Mês do Consumidor no Mercado Livre",
-      "slug": "galaxy-z-fold-7-512-gb-tem-45percent-off-no-mes-do-consumidor-no-mercado-livre",
+      "title": "AMD expande linha Ryzen AI 400 com chips para desktops",
+      "slug": "amd-expande-linha-ryzen-ai-400-com-chips-para-desktops",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-02T21:29:27.000Z",
+      "date": "2026-03-02T19:46:47.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-z-fold-7-512-gb-tem-45-off-no-mes-do-consumidor-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/noticias/amd-expande-linha-ryzen-ai-400-com-chips-para-desktops/"
     },
     {
-      "title": "Mês do Consumidor tem iPad Air M3 em até 10x após lançamento do iPad Air M4",
-      "slug": "mes-do-consumidor-tem-ipad-air-m3-em-ate-10x-apos-lancamento-do-ipad-air-m4",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-02T21:24:24.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-tem-ipad-air-m3-em-ate-10x-apos-lancamento-do-ipad-air-m4/"
-    },
-    {
-      "title": "God of War: Ator de Kratos rebate críticas negativas à imagem da série",
-      "slug": "god-of-war-ator-de-kratos-rebate-criticas-negativas-a-imagem-da-serie",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-02T22:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/god-of-war-ator-de-kratos-rebate-criticas-negativas-a-imagem-da-serie/"
-    },
-    {
-      "title": "Quem diria? Intel vence Prêmio Canaltech com melhor GPU custo-benefício",
-      "slug": "quem-diria-intel-vence-premio-canaltech-com-melhor-gpu-custo-beneficio",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-02T21:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/quem-diria-intel-vence-premio-canaltech-com-melhor-gpu-custo-beneficio/"
-    },
-    {
-      "title": "Starfield no PS5: vazamento revela data de lançamento e preço das edições física",
-      "slug": "starfield-no-ps5-vazamento-revela-data-de-lancamento-e-preco-das-edicoes-fisica",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-02T20:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/starfield-no-ps5-vazamento-revela-data-de-lancamento-e-preco-das-edicoes-fisica/"
-    },
-    {
-      "title": "Claude agora permite importar memória do ChatGPT, Gemini e outras IAs de graça",
-      "slug": "claude-agora-permite-importar-memoria-do-chatgpt-gemini-e-outras-ias-de-graca",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-02T20:39:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/claude-agora-permite-importar-memoria-do-chatgpt-gemini-e-outras-ias-de-graca/"
-    },
-    {
-      "title": "Canais de TV do Paquistão são hackeados e exibem mensagens antimilitares",
-      "slug": "canais-de-tv-do-paquistao-sao-hackeados-e-exibem-mensagens-antimilitares",
+      "title": "Ataques derrubam GPS durante conflito no Oriente Médio",
+      "slug": "ataques-derrubam-gps-durante-conflito-no-oriente-medio",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-02T23:03:06.000Z",
+      "date": "2026-03-03T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411258-canais-de-tv-do-paquistao-sao-hackeados-e-exibem-mensagens-antimilitares.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411250-ataques-derrubam-gps-durante-conflito-no-oriente-medio.htm"
     },
     {
-      "title": "Motorola Razr Fold é oficializado como novo dobrável com 7 anos de Android",
-      "slug": "motorola-razr-fold-e-oficializado-como-novo-dobravel-com-7-anos-de-android",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-02T23:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411253-motorola-razr-fold-e-oficializado-como-novo-dobravel-com-7-anos-de-android.htm"
-    },
-    {
-      "title": "Netflix recebe 10 filmes e séries de peso na semana! Veja lista de lançamentos (2)",
-      "slug": "netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-2",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T22:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603256-netflix-recebe-10-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-2.htm"
-    },
-    {
-      "title": "Motorista da Uber viraliza ao criar jogo sobre ele mesmo",
-      "slug": "motorista-da-uber-viraliza-ao-criar-jogo-sobre-ele-mesmo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411247-motorista-da-uber-viraliza-ao-criar-jogo-sobre-ele-mesmo.htm"
-    },
-    {
-      "title": "Google alerta que Irã vai retaliar no ambiente cibernético",
-      "slug": "google-alerta-que-ira-vai-retaliar-no-ambiente-cibernetico",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-02T21:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411249-google-alerta-que-ira-vai-retaliar-no-ambiente-cibernetico.htm"
-    },
-    {
-      "title": "Caltech processa Zoom por violação de patente",
-      "slug": "caltech-processa-zoom-por-violacao-de-patente",
+      "title": "Unidade de data centers da Amazon adquire campus da Universidade George Washington",
+      "slug": "unidade-de-data-centers-da-amazon-adquire-campus-da-universidade-george-washington",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-02T21:33:38.000Z",
+      "date": "2026-03-02T23:56:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/caltech-processa-zoom-por-violacao-de-patente.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/02/unidade-de-data-centers-da-amazon-adquire-campus-da-universidade-george-washington.htm"
+    },
+    {
+      "title": "EUA usaram IA da Anthropic mesmo após proibição de Trump, diz jornal",
+      "slug": "eua-usaram-ia-da-anthropic-mesmo-apos-proibicao-de-trump-diz-jornal",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-02T23:25:48.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/02/eua-usaram-ia-da-anthropic-mesmo-apos-proibicao-de-trump-diz-jornal.htm"
     }
   ]
 }
