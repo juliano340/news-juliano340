@@ -1,6 +1,6 @@
 {
-  "slug": "feira-de-tecnologia-em-barcelona-e-impactada-pela-guerra-no-oriente-medio",
-  "generated_at": "2026-03-03T15:17:48.245Z",
+  "slug": "apple-lanca-novos-macbooks-com-chips-m5-e-maior-capacidade-de-armazenamento",
+  "generated_at": "2026-03-03T15:17:31.835Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 288,
+      "words": 276,
       "min": 220
     },
     {

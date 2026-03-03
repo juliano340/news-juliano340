@@ -1,6 +1,6 @@
 {
-  "slug": "feira-de-tecnologia-em-barcelona-e-impactada-pela-guerra-no-oriente-medio",
-  "generated_at": "2026-03-03T15:17:48.245Z",
+  "slug": "codiguin-free-fire-marco-de-2026-veja-a-lista-de-codigos-para-resgatar",
+  "generated_at": "2026-03-03T15:14:25.990Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 288,
+      "words": 264,
       "min": 220
     },
     {

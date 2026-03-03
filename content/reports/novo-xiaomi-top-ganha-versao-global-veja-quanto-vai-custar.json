@@ -1,6 +1,6 @@
 {
-  "slug": "feira-de-tecnologia-em-barcelona-e-impactada-pela-guerra-no-oriente-medio",
-  "generated_at": "2026-03-03T15:17:48.245Z",
+  "slug": "novo-xiaomi-top-ganha-versao-global-veja-quanto-vai-custar",
+  "generated_at": "2026-03-03T15:09:57.031Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 288,
+      "words": 354,
       "min": 220
     },
     {

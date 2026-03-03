@@ -1,6 +1,6 @@
 {
-  "slug": "feira-de-tecnologia-em-barcelona-e-impactada-pela-guerra-no-oriente-medio",
-  "generated_at": "2026-03-03T15:17:48.245Z",
+  "slug": "tablet-gamer-legion-y700-promete-dobro-de-desempenho-do-topo-de-linha-da-samsung",
+  "generated_at": "2026-03-03T15:05:38.221Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 288,
+      "words": 302,
       "min": 220
     },
     {

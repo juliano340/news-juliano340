@@ -1,6 +1,6 @@
 {
-  "slug": "feira-de-tecnologia-em-barcelona-e-impactada-pela-guerra-no-oriente-medio",
-  "generated_at": "2026-03-03T15:17:48.245Z",
+  "slug": "dispositivos-amazon-em-oferta-kindle-alexa-e-fire-tv-stick-com-ate-28percent-off-confira",
+  "generated_at": "2026-03-03T15:16:12.209Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 288,
+      "words": 289,
       "min": 220
     },
     {
