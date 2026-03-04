@@ -1,27 +1,27 @@
 # Weekly IA para Devs - 2026-03-04
 
-Gerado em 2026-03-04T19:12:31.565Z
+Gerado em 2026-03-04T21:14:43.935Z
 
-- [Sony pode parar de lançar jogos do PlayStation no PC](https://tecnoblog.net/noticias/sony-pode-parar-de-lancar-jogos-do-playstation-no-pc/) | topico: geral | score: 100
-- [O que é uma memória flash? Saiba os principais usos da tecnologia de armazenamento](https://tecnoblog.net/responde/o-que-e-uma-memoria-flash/) | topico: infra-ia | score: 100
-- [Mês do Consumidor: Kindle fica com o menor preço desde dezembro na Amazon](https://tecnoblog.net/achados/mes-do-consumidor-kindle-fica-com-o-menor-preco-desde-dezembro-na-amazon/) | topico: frameworks | score: 100
-- [Galaxy S24 Ultra (256 GB) tem queda de 52% em oferta no Mês do Consumidor](https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-queda-de-52-em-oferta-no-mes-do-consumidor/) | topico: geral | score: 92
-- [Resumo, tradutor e mais: 8 recursos de IA do novo MacBook Neo](https://canaltech.com.br/software/resumo-tradutor-e-mais-8-recursos-de-ia-do-novo-macbook-neo/) | topico: llms | score: 100
-- [Sem perdão: Highguard é cancelado em 2 meses e expõe crise na indústria](https://canaltech.com.br/games/sem-perdao-highguard-e-cancelado-em-2-meses-e-expoe-crise-na-industria/) | topico: geral | score: 100
-- [Xiaomi prepara supercarro para desafiar Ferrari, mas não nas ruas](https://canaltech.com.br/carros/xiaomi-prepara-supercarro-para-desafiar-ferrari-mas-nao-nas-ruas/) | topico: produtividade-dev | score: 100
-- [Google vai te ajudar a recuperar bagagens perdidas depois de um voo](https://canaltech.com.br/apps/google-vai-te-ajudar-a-recuperar-bagagens-perdidas-depois-de-um-voo/) | topico: llms | score: 100
-- [Amazon e NVIDIA fecham escritórios em Dubai em meio ao conflito no Oriente Médio](https://canaltech.com.br/mercado/amazon-e-nvidia-fecham-escritorios-em-dubai-em-meio-ao-conflito-no-oriente-medio/) | topico: geral | score: 100
-- [Adeus, Myrient: site de preservação de jogos fechará as portas](https://canaltech.com.br/games/adeus-myrient-site-de-preservacao-de-jogos-fechara-as-portas/) | topico: geral | score: 100
-- [Anatel apreende R$ 4,9 milhões em impressoras 3D não homologadas no PR](https://canaltech.com.br/produtos/anatel-apreende-r-49-milhoes-em-impressoras-3d-nao-homologadas-no-pr/) | topico: geral | score: 92
-- [YouTube testa novo tipo de anúncio para te convencer a assinar o Premium](https://canaltech.com.br/apps/youtube-testa-novo-tipo-de-anuncio-para-te-convencer-a-assinar-o-premium/) | topico: agentes | score: 100
-- [Cinemark promove Dia da Pipoca com baldes de até 10 litros por menos de R$ 20](https://canaltech.com.br/entretenimento/cinemark-promove-dia-da-pipoca-com-baldes-de-ate-10-litros-por-menos-de-r-20/) | topico: geral | score: 100
-- [Flow Tuner do Deezer: testamos o recurso que refina playlists baseados em moods](https://www.tecmundo.com.br/software/411310-flow-tuner-do-deezer-testamos-o-recurso-que-refina-playlists-baseados-em-moods.htm) | topico: agentes | score: 100
-- [Google reduz taxas da Play Store e abre Android para outras lojas de apps](https://www.tecmundo.com.br/software/411327-google-reduz-taxas-da-play-store-e-abre-android-para-outras-lojas-de-apps.htm) | topico: geral | score: 100
-- [Antes do retorno de The Boys, Karl Urban vira pirata em filme do Prime Video](https://www.tecmundo.com.br/minha-serie/603275-antes-do-retorno-de-the-boys-karl-urban-vira-pirata-em-filme-do-prime-video.htm) | topico: geral | score: 100
-- [OpenAI lança GPT-5.3 Instant, novo modelo deixa o ChatGPT menos 'cringe'](https://www.tecmundo.com.br/software/411316-openai-lanca-gpt-53-instant-novo-modelo-deixa-o-chatgpt-menos-cringe.htm) | topico: llms | score: 100
-- [Amazon e Nvidia liberam home office para equipes locadas no Oriente Médio](https://www.tecmundo.com.br/mercado/411321-amazon-e-nvidia-liberam-home-office-para-equipes-locadas-no-oriente-medio.htm) | topico: geral | score: 89
-- [Eletroportáteis com cupom de 15% OFF na Quinzena do Consumidor no Carrefour; aproveite](https://www.tecmundo.com.br/guia-de-compras/411319-eletroportateis-com-cupom-de-15-off-na-quinzena-do-consumidor-no-carrefour-aproveite.htm) | topico: geral | score: 100
-- [Marathon revela roadmap com conteúdos gratuitos na primeira e segunda temporada](https://www.tecmundo.com.br/voxel/503688-marathon-revela-roadmap-com-conteudos-gratuitos-na-primeira-e-segunda-temporada.htm) | topico: geral | score: 100
-- [Pai acusa IA do Google de orientar seu filho a suicidar](https://www.uol.com.br/tilt/noticias/redacao/2026/03/04/pai-processa-google-filho-se-matar.htm) | topico: geral | score: 100
-- [Nasa cria trilha com 'sons' de Júpiter, Saturno e Urano; ouça os planetas](https://www.uol.com.br/tilt/noticias/redacao/2026/03/04/nasa-cria-trilha-sonora-para-jupiter-saturno-e-urano-ouca-os-planetas.htm) | topico: geral | score: 100
-- [O que é cremação com água, técnica recém-legalizada por país no Reino Unido](https://www.uol.com.br/tilt/noticias/redacao/2026/03/04/o-que-e-cremacao-com-agua-tecnica-recem-legalizada-por-pais-no-reino-unido.htm) | topico: geral | score: 100
+- [Pai acusa Gemini, do Google, de incentivar ataque nos EUA e contribuir para suicídio do filho](https://g1.globo.com/tecnologia/noticia/2026/03/04/pai-acusa-gemini-do-google-de-incentivar-ataque-nos-eua-e-contribuir-para-suicidio-do-filho.ghtml) | topico: llms | score: 100
+- [O fim da espiadinha](https://tecnoblog.net/tecnocast/o-fim-da-espiadinha/) | topico: seguranca-ia | score: 92
+- [Códigos e cheats de Pokémon Gaia](https://tecnoblog.net/responde/codigos-e-cheats-de-pokemon-gaia/) | topico: geral | score: 100
+- [Windows 11: ícones coloridos de bateria com porcentagem são oficiais](https://tecnoblog.net/noticias/windows-11-icones-coloridos-de-bateria-com-porcentagem-sao-oficiais/) | topico: produtividade-dev | score: 100
+- [Android 16 ganha modo PC nativo, desenvolvido em parceria com a Samsung](https://tecnoblog.net/noticias/android-16-ganha-modo-pc-nativo-desenvolvido-em-parceria-com-a-samsung/) | topico: produtividade-dev | score: 92
+- [HONOR Magic V6 é o dobrável totalmente compatível com dispositivos Apple; veja](https://canaltech.com.br/smartphone/honor-magic-v6-e-o-dobravel-totalmente-compativel-com-dispositivos-apple-veja/) | topico: geral | score: 100
+- [Google reduz taxas na Play Store, mas usuários criticam restrições no Android](https://canaltech.com.br/mercado/google-reduz-taxas-na-play-store-mas-usuarios-criticam-restricoes-no-android/) | topico: geral | score: 100
+- [Leon está casado em Resident Evil Requiem? Veja quem pode ser a sortuda](https://canaltech.com.br/games/leon-esta-casado-em-resident-evil-requiem-veja-quem-pode-ser-a-sortuda/) | topico: geral | score: 100
+- [Brasileiros confiam na IA para finanças, mas querem tomar as próprias decisões](https://canaltech.com.br/inteligencia-artificial/brasileiros-confiam-na-ia-para-financas-mas-querem-tomar-as-proprias-decisoes/) | topico: agentes | score: 100
+- [Positivo aposta em AI PCs para impulsionar reestruturação de TI nas empresas](https://canaltech.com.br/notebook/positivo-aposta-em-ai-pcs-para-impulsionar-reestruturacao-de-ti-nas-empresas/) | topico: geral | score: 100
+- [Rei dos games: Processador AMD Ryzen 7 9800X3D em oferta com cupom no KaBuM](https://canaltech.com.br/hardware/rei-dos-games-processador-amd-ryzen-7-9800x3d-em-oferta-com-cupom-no-kabum/) | topico: geral | score: 100
+- [Dona do Speedtest e Downdetector é comprada pela Accenture por US$ 1,2 bilhão](https://canaltech.com.br/apps/dona-do-speedtest-e-downdetector-e-comprada-pela-accenture-por-us-12-bilhao/) | topico: llms | score: 100
+- [Nissan derruba preço do Kicks e SUV fica mais em conta que rival da Honda](https://canaltech.com.br/carros/nissan-derruba-precos-e-suv-fica-mais-em-conta-que-rival-da-honda/) | topico: geral | score: 100
+- [ASUS e Kojima lançam tablet gamer com 128 GB de RAM e preço inacreditável](https://canaltech.com.br/hardware/asus-e-kojima-lancam-tablet-gamer-com-128-gb-de-ram-e-preco-inacreditavel/) | topico: geral | score: 100
+- [Brasil ganha serviço de "comumicação secreta" via satélite ao estilo Starlink](https://canaltech.com.br/telecom/brasil-ganha-servico-de-comumicacao-secreta-via-satelite-ao-estilo-starlink/) | topico: produtividade-dev | score: 100
+- [Após acordo com Pentágono, OpenAI mira negócios com a OTAN](https://www.tecmundo.com.br/seguranca/411324-apos-acordo-com-pentagono-openai-mira-negocios-com-a-otan.htm) | topico: geral | score: 100
+- [Cibercriminosos norte-coreanos transformam pen drives em ferramentas de espionagem](https://www.tecmundo.com.br/seguranca/411305-cibercriminosos-norte-coreanos-transformam-pen-drives-em-ferramentas-de-espionagem.htm) | topico: geral | score: 100
+- [Checkout-less: quando pagar deixa de ser etapa e vira infraestrutura](https://www.tecmundo.com.br/mercado/411333-checkout-less-quando-pagar-deixa-de-ser-etapa-e-vira-infraestrutura.htm) | topico: geral | score: 100
+- [Marshals tem quantos episódios? Veja calendário de lançamento da série de Yellowstone](https://www.tecmundo.com.br/minha-serie/603278-marshals-tem-quantos-episodios-veja-calendario-de-lancamento-da-serie-de-yellowstone.htm) | topico: geral | score: 100
+- [Cade mantém medida protetiva contra termos de IA do WhatsApp](https://www.tecmundo.com.br/software/411332-cade-mantem-medida-protetiva-contra-termos-de-ia-do-whatsapp.htm) | topico: infra-ia | score: 100
+- [Crítica: A Noiva! é divertido, mas tem potencial podado pela falta de coragem](https://www.tecmundo.com.br/minha-serie/603286-critica-a-noiva-e-divertido-mas-tem-potencial-podado-pela-falta-de-coragem.htm) | topico: geral | score: 100
+- [Trailer de Lanternas foca em passar o bastão e traz referências para fãs](https://www.tecmundo.com.br/minha-serie/603288-trailer-de-lanternas-foca-em-passar-o-bastao-e-traz-referencias-para-fas.htm) | topico: geral | score: 100
+- [Celular POCO em oferta: aproveite descontos e cupons de até R$100 OFF no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411328-celular-poco-em-oferta-descontos-e-cupons-de-ate-r100-off-no-magazine-luiza.htm) | topico: geral | score: 100
