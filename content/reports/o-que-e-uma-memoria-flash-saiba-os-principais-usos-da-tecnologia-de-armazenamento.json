@@ -1,7 +1,7 @@
 {
-  "slug": "galaxy-s24-ultra-256-gb-tem-queda-de-52percent-em-oferta-no-mes-do-consumidor",
-  "generated_at": "2026-03-04T19:02:35.173Z",
-  "status": "WARN",
+  "slug": "o-que-e-uma-memoria-flash-saiba-os-principais-usos-da-tecnologia-de-armazenamento",
+  "generated_at": "2026-03-04T19:01:21.523Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 415,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

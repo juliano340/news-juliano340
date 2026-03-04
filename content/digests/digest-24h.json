@@ -1,124 +1,214 @@
 {
-  "generated_at": "2026-03-04T17:10:02.758Z",
+  "generated_at": "2026-03-04T19:12:31.565Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 13,
+  "total": 23,
   "posts": [
     {
-      "title": "Dona do ChatGPT pode lançar rival do GitHub para enfrentar Microsoft",
-      "slug": "dona-do-chatgpt-pode-lancar-rival-do-github-para-enfrentar-microsoft",
-      "topic": "produtividade-dev",
+      "title": "Sony pode parar de lançar jogos do PlayStation no PC",
+      "slug": "sony-pode-parar-de-lancar-jogos-do-playstation-no-pc",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-04T16:02:14.000Z",
+      "date": "2026-03-04T18:53:26.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/dona-do-chatgpt-pode-lancar-rival-do-github-para-enfrentar-microsoft/"
+      "original_url": "https://tecnoblog.net/noticias/sony-pode-parar-de-lancar-jogos-do-playstation-no-pc/"
     },
     {
-      "title": "Tribunal do Cade mantém decisão que libera rivais da Meta AI no WhatsApp",
-      "slug": "tribunal-do-cade-mantem-decisao-que-libera-rivais-da-meta-ai-no-whatsapp",
+      "title": "O que é uma memória flash? Saiba os principais usos da tecnologia de armazenamento",
+      "slug": "o-que-e-uma-memoria-flash-saiba-os-principais-usos-da-tecnologia-de-armazenamento",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-04T17:34:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/o-que-e-uma-memoria-flash/"
+    },
+    {
+      "title": "Mês do Consumidor: Kindle fica com o menor preço desde dezembro na Amazon",
+      "slug": "mes-do-consumidor-kindle-fica-com-o-menor-preco-desde-dezembro-na-amazon",
+      "topic": "frameworks",
+      "source": "Tecnoblog",
+      "date": "2026-03-04T17:12:05.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-kindle-fica-com-o-menor-preco-desde-dezembro-na-amazon/"
+    },
+    {
+      "title": "Galaxy S24 Ultra (256 GB) tem queda de 52% em oferta no Mês do Consumidor",
+      "slug": "galaxy-s24-ultra-256-gb-tem-queda-de-52percent-em-oferta-no-mes-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-04T16:20:55.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-queda-de-52-em-oferta-no-mes-do-consumidor/"
+    },
+    {
+      "title": "Resumo, tradutor e mais: 8 recursos de IA do novo MacBook Neo",
+      "slug": "resumo-tradutor-e-mais-8-recursos-de-ia-do-novo-macbook-neo",
       "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-04T15:31:18.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-04T18:42:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/tribunal-do-cade-mantem-decisao-que-permite-ias-concorrentes-no-whatsapp/"
+      "original_url": "https://canaltech.com.br/software/resumo-tradutor-e-mais-8-recursos-de-ia-do-novo-macbook-neo/"
     },
     {
-      "title": "Galaxy S25 Plus (512 GB) sai 58% mais barato que S26 Plus no Mês do Consumidor",
-      "slug": "galaxy-s25-plus-512-gb-sai-58percent-mais-barato-que-s26-plus-no-mes-do-consumidor",
+      "title": "Sem perdão: Highguard é cancelado em 2 meses e expõe crise na indústria",
+      "slug": "sem-perdao-highguard-e-cancelado-em-2-meses-e-expoe-crise-na-industria",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-04T15:01:33.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-04T18:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/sem-perdao-highguard-e-cancelado-em-2-meses-e-expoe-crise-na-industria/"
+    },
+    {
+      "title": "Xiaomi prepara supercarro para desafiar Ferrari, mas não nas ruas",
+      "slug": "xiaomi-prepara-supercarro-para-desafiar-ferrari-mas-nao-nas-ruas",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-04T18:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/xiaomi-prepara-supercarro-para-desafiar-ferrari-mas-nao-nas-ruas/"
+    },
+    {
+      "title": "Google vai te ajudar a recuperar bagagens perdidas depois de um voo",
+      "slug": "google-vai-te-ajudar-a-recuperar-bagagens-perdidas-depois-de-um-voo",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-04T18:03:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/google-vai-te-ajudar-a-recuperar-bagagens-perdidas-depois-de-um-voo/"
+    },
+    {
+      "title": "Amazon e NVIDIA fecham escritórios em Dubai em meio ao conflito no Oriente Médio",
+      "slug": "amazon-e-nvidia-fecham-escritorios-em-dubai-em-meio-ao-conflito-no-oriente-medio",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T17:52:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/amazon-e-nvidia-fecham-escritorios-em-dubai-em-meio-ao-conflito-no-oriente-medio/"
+    },
+    {
+      "title": "Adeus, Myrient: site de preservação de jogos fechará as portas",
+      "slug": "adeus-myrient-site-de-preservacao-de-jogos-fechara-as-portas",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T17:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/adeus-myrient-site-de-preservacao-de-jogos-fechara-as-portas/"
+    },
+    {
+      "title": "Anatel apreende R$ 4,9 milhões em impressoras 3D não homologadas no PR",
+      "slug": "anatel-apreende-rdollar-49-milhoes-em-impressoras-3d-nao-homologadas-no-pr",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T17:26:55.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-sai-58-mais-barato-que-s26-plus-no-mes-do-consumidor/"
+      "original_url": "https://canaltech.com.br/produtos/anatel-apreende-r-49-milhoes-em-impressoras-3d-nao-homologadas-no-pr/"
     },
     {
-      "title": "Em votação apertada, ARC Raiders e Clair Obscur levam como melhores jogos do ano",
-      "slug": "em-votacao-apertada-arc-raiders-e-clair-obscur-levam-como-melhores-jogos-do-ano",
-      "topic": "geral",
+      "title": "YouTube testa novo tipo de anúncio para te convencer a assinar o Premium",
+      "slug": "youtube-testa-novo-tipo-de-anuncio-para-te-convencer-a-assinar-o-premium",
+      "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-03-04T16:30:00.000Z",
+      "date": "2026-03-04T17:25:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/em-votacao-apertada-arc-raiders-e-clair-obscur-levam-como-melhores-jogos-do-ano/"
+      "original_url": "https://canaltech.com.br/apps/youtube-testa-novo-tipo-de-anuncio-para-te-convencer-a-assinar-o-premium/"
     },
     {
-      "title": "Fiat registra no Brasil o “futuro carro mais vendido do país”",
-      "slug": "fiat-registra-no-brasil-o-futuro-carro-mais-vendido-do-pais",
+      "title": "Cinemark promove Dia da Pipoca com baldes de até 10 litros por menos de R$ 20",
+      "slug": "cinemark-promove-dia-da-pipoca-com-baldes-de-ate-10-litros-por-menos-de-rdollar-20",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T15:55:00.000Z",
+      "date": "2026-03-04T17:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/fiat-registra-no-brasil-o-futuro-carro-mais-vendido-do-pais/"
+      "original_url": "https://canaltech.com.br/entretenimento/cinemark-promove-dia-da-pipoca-com-baldes-de-ate-10-litros-por-menos-de-r-20/"
     },
     {
-      "title": "Com NVIDIA H200, AXIA Energia (ex-Eletrobras) apresenta neocloud no Brasil",
-      "slug": "com-nvidia-h200-axia-energia-ex-eletrobras-apresenta-neocloud-no-brasil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T15:31:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/com-nvidia-h200-axia-energia-ex-eletrobras-apresenta-neocloud-no-brasil/"
-    },
-    {
-      "title": "Samsung oficializa tela 3D de 85 polegadas que dispensa óculos no Brasil",
-      "slug": "samsung-oficializa-tela-3d-de-85-polegadas-que-dispensa-oculos-no-brasil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T15:27:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tv/samsung-oficializa-tela-3d-de-85-polegadas-que-dispensa-oculos-no-brasil/"
-    },
-    {
-      "title": "Xbox registra patente de IA que joga sozinha para você não empacar no jogo",
-      "slug": "xbox-registra-patente-de-ia-que-joga-sozinha-para-voce-nao-empacar-no-jogo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T15:05:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/xbox-registra-patente-de-ia-que-joga-sozinha-para-voce-nao-empacar-no-jogo/"
-    },
-    {
-      "title": "WhatsApp Premium permitirá fixar até 20 conversas",
-      "slug": "whatsapp-premium-permitira-fixar-ate-20-conversas",
+      "title": "Flow Tuner do Deezer: testamos o recurso que refina playlists baseados em moods",
+      "slug": "flow-tuner-do-deezer-testamos-o-recurso-que-refina-playlists-baseados-em-moods",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-04T17:00:00.000Z",
+      "date": "2026-03-04T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411308-whatsapp-premium-permitira-fixar-ate-20-conversas.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411310-flow-tuner-do-deezer-testamos-o-recurso-que-refina-playlists-baseados-em-moods.htm"
     },
     {
-      "title": "10 melhores filmes e séries da Netflix para assistir em março",
-      "slug": "10-melhores-filmes-e-series-da-netflix-para-assistir-em-marco",
+      "title": "Google reduz taxas da Play Store e abre Android para outras lojas de apps",
+      "slug": "google-reduz-taxas-da-play-store-e-abre-android-para-outras-lojas-de-apps",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T16:15:23.000Z",
+      "date": "2026-03-04T18:49:31.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603282-10-melhores-filmes-e-series-da-netflix-para-assistir-em-marco.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411327-google-reduz-taxas-da-play-store-e-abre-android-para-outras-lojas-de-apps.htm"
     },
     {
-      "title": "LG lança nova Smart TV QNED73 com foco em transmissões esportivas",
-      "slug": "lg-lanca-nova-smart-tv-qned73-com-foco-em-transmissoes-esportivas",
+      "title": "Antes do retorno de The Boys, Karl Urban vira pirata em filme do Prime Video",
+      "slug": "antes-do-retorno-de-the-boys-karl-urban-vira-pirata-em-filme-do-prime-video",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T16:00:00.000Z",
+      "date": "2026-03-04T18:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411309-lg-lanca-nova-smart-tv-qned73-com-foco-em-transmissoes-esportivas.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603275-antes-do-retorno-de-the-boys-karl-urban-vira-pirata-em-filme-do-prime-video.htm"
     },
     {
-      "title": "Smart TV, Notebook, celular e mais em oferta na Ressaca 3.3 da Shopee; aproveite",
-      "slug": "smart-tv-notebook-celular-e-mais-em-oferta-na-ressaca-33-da-shopee-aproveite",
-      "topic": "geral",
+      "title": "OpenAI lança GPT-5.3 Instant, novo modelo deixa o ChatGPT menos 'cringe'",
+      "slug": "openai-lanca-gpt-53-instant-novo-modelo-deixa-o-chatgpt-menos-cringe",
+      "topic": "llms",
       "source": "Tecmundo",
-      "date": "2026-03-04T15:36:00.000Z",
+      "date": "2026-03-04T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411306-smart-tv-notebook-celular-e-mais-em-oferta-na-ressaca-33-da-shopee-aproveite.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411316-openai-lanca-gpt-53-instant-novo-modelo-deixa-o-chatgpt-menos-cringe.htm"
     },
     {
-      "title": "Notebooks em promoção e com cupons de até R$400 OFF no Mercado Livre",
-      "slug": "notebooks-em-promocao-e-com-cupons-de-ate-rdollar400-off-no-mercado-livre",
+      "title": "Amazon e Nvidia liberam home office para equipes locadas no Oriente Médio",
+      "slug": "amazon-e-nvidia-liberam-home-office-para-equipes-locadas-no-oriente-medio",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T14:49:00.000Z",
+      "date": "2026-03-04T17:45:00.000Z",
+      "editorial_score": 89,
+      "original_url": "https://www.tecmundo.com.br/mercado/411321-amazon-e-nvidia-liberam-home-office-para-equipes-locadas-no-oriente-medio.htm"
+    },
+    {
+      "title": "Eletroportáteis com cupom de 15% OFF na Quinzena do Consumidor no Carrefour; aproveite",
+      "slug": "eletroportateis-com-cupom-de-15percent-off-na-quinzena-do-consumidor-no-carrefour-aproveite",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T17:36:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411312-notebooks-em-promocao-e-com-cupons-de-ate-r400-off-no-mercado-livre.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411319-eletroportateis-com-cupom-de-15-off-na-quinzena-do-consumidor-no-carrefour-aproveite.htm"
+    },
+    {
+      "title": "Marathon revela roadmap com conteúdos gratuitos na primeira e segunda temporada",
+      "slug": "marathon-revela-roadmap-com-conteudos-gratuitos-na-primeira-e-segunda-temporada",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T17:15:59.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503688-marathon-revela-roadmap-com-conteudos-gratuitos-na-primeira-e-segunda-temporada.htm"
+    },
+    {
+      "title": "Pai acusa IA do Google de orientar seu filho a suicidar",
+      "slug": "pai-acusa-ia-do-google-de-orientar-seu-filho-a-suicidar",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-04T19:06:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/04/pai-processa-google-filho-se-matar.htm"
+    },
+    {
+      "title": "Nasa cria trilha com 'sons' de Júpiter, Saturno e Urano; ouça os planetas",
+      "slug": "nasa-cria-trilha-com-sons-de-jupiter-saturno-e-urano-ouca-os-planetas",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-04T18:23:23.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/04/nasa-cria-trilha-sonora-para-jupiter-saturno-e-urano-ouca-os-planetas.htm"
+    },
+    {
+      "title": "O que é cremação com água, técnica recém-legalizada por país no Reino Unido",
+      "slug": "o-que-e-cremacao-com-agua-tecnica-recem-legalizada-por-pais-no-reino-unido",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-04T16:19:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/04/o-que-e-cremacao-com-agua-tecnica-recem-legalizada-por-pais-no-reino-unido.htm"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "galaxy-s24-ultra-256-gb-tem-queda-de-52percent-em-oferta-no-mes-do-consumidor",
-  "generated_at": "2026-03-04T19:02:35.173Z",
+  "slug": "anatel-apreende-rdollar-49-milhoes-em-impressoras-3d-nao-homologadas-no-pr",
+  "generated_at": "2026-03-04T19:06:19.642Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 390,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 2,
       "min": 3
     }
   ],
