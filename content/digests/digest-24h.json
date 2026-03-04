@@ -1,169 +1,232 @@
 {
-  "generated_at": "2026-03-04T13:12:25.079Z",
+  "generated_at": "2026-03-04T15:19:46.276Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 25,
   "posts": [
     {
-      "title": "TikTok vai exigir permissão de pais para aumentar tempo de tela de menores de 16 anos",
-      "slug": "tiktok-vai-exigir-permissao-de-pais-para-aumentar-tempo-de-tela-de-menores-de-16-anos",
-      "topic": "produtividade-dev",
+      "title": "Apple lança MacBook Neo, modelo 'popular' da marca; veja preços no Brasil",
+      "slug": "apple-lanca-macbook-neo-modelo-popular-da-marca-veja-precos-no-brasil",
+      "topic": "geral",
       "source": "G1 Tecnologia",
-      "date": "2026-03-04T12:00:37.000Z",
+      "date": "2026-03-04T14:16:15.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/04/tiktok-vai-exigir-permissao-de-pais-para-aumentar-tempo-de-tela-de-menores-de-16-anos.ghtml"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/04/apple-lanca-macbook-neo-modelo-popular-da-marca.ghtml"
     },
     {
-      "title": "Gemini agora pode analisar imagens de câmeras ao vivo no Google Home",
-      "slug": "gemini-agora-pode-analisar-imagens-de-cameras-ao-vivo-no-google-home",
+      "title": "Google deixará companhias aéreas rastrearem sua mala perdida (se você pedir)",
+      "slug": "google-deixara-companhias-aereas-rastrearem-sua-mala-perdida-se-voce-pedir",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-04T14:25:46.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/google-deixara-companhias-aereas-rastrearem-sua-mala-perdida-se-voce-pedir/"
+    },
+    {
+      "title": "Apple lança MacBook Neo com chip de iPhone; saiba o preço",
+      "slug": "apple-lanca-macbook-neo-com-chip-de-iphone-saiba-o-preco",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-04T14:20:09.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/apple-lanca-macbook-neo-com-chip-de-iphone-saiba-o-preco/"
+    },
+    {
+      "title": "iPhone 17 Pro Max (256 GB) recebe desconto histórico no Mês do Consumidor",
+      "slug": "iphone-17-pro-max-256-gb-recebe-desconto-historico-no-mes-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-04T13:42:03.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-max-256-gb-recebe-desconto-historico-no-mes-do-consumidor/"
+    },
+    {
+      "title": "Google Maps ganha novo ícone inspirado no Gemini",
+      "slug": "google-maps-ganha-novo-icone-inspirado-no-gemini",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-03-04T12:24:17.000Z",
+      "date": "2026-03-04T13:31:42.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/gemini-agora-pode-analisar-imagens-de-cameras-ao-vivo-no-google-home/"
+      "original_url": "https://tecnoblog.net/noticias/google-maps-ganha-novo-icone-inspirado-no-gemini/"
     },
     {
-      "title": "Galaxy Tab: 5 apps para usar com a S Pen",
-      "slug": "galaxy-tab-5-apps-para-usar-com-a-s-pen",
-      "topic": "agentes",
+      "title": "Melhor correr: iPhone 17 (256 GB) despenca 24% com cupom no Mês do Consumidor",
+      "slug": "melhor-correr-iphone-17-256-gb-despenca-24percent-com-cupom-no-mes-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-04T13:03:37.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/melhor-correr-iphone-17-256-gb-despenca-24-com-cupom-no-mes-do-consumidor/"
+    },
+    {
+      "title": "WhatsApp Premium deixará fixar mais de três conversas no topo, revela portal",
+      "slug": "whatsapp-premium-deixara-fixar-mais-de-tres-conversas-no-topo-revela-portal",
+      "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-03-04T13:00:00.000Z",
+      "date": "2026-03-04T14:50:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/galaxy-tab-5-apps-para-usar-com-a-s-pen/"
+      "original_url": "https://canaltech.com.br/apps/whatsapp-premium-deixara-fixar-mais-de-tres-conversas-no-topo-revela-portal/"
     },
     {
-      "title": "Chamadas falsas no Zoom e Meets instalam app de monitoramento fake no Windows",
-      "slug": "chamadas-falsas-no-zoom-e-meets-instalam-app-de-monitoramento-fake-no-windows",
+      "title": "Extensão falsa no Chrome usa Gemini para roubar arquivos do seu PC",
+      "slug": "extensao-falsa-no-chrome-usa-gemini-para-roubar-arquivos-do-seu-pc",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T12:35:00.000Z",
+      "date": "2026-03-04T14:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/chamadas-falsas-no-zoom-e-meets-instalam-app-de-monitoramento-fake-no-windows/"
+      "original_url": "https://canaltech.com.br/seguranca/extensao-falsa-no-chrome-usa-gemini-para-roubar-arquivos-do-seu-pc/"
     },
     {
-      "title": "BYD testa recarga em carros elétricos tão rápida quanto encher o tanque",
-      "slug": "byd-testa-recarga-em-carros-eletricos-tao-rapida-quanto-encher-o-tanque",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-03-04T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/byd-testa-recarga-em-carros-eletricos-tao-rapida-quanto-encher-o-tanque/"
-    },
-    {
-      "title": "Arrependimento? iPhone 17 Pro Max é o celular mais trocado, indica relatório",
-      "slug": "arrependimento-iphone-17-pro-max-e-o-celular-mais-trocado-indica-relatorio",
+      "title": "JBL GO 5 chega com som Harman e Bluetooth 6.0; conheça",
+      "slug": "jbl-go-5-chega-com-som-harman-e-bluetooth-60-conheca",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T11:58:54.000Z",
+      "date": "2026-03-04T14:32:44.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/arrependimento-iphone-17-pro-max-e-o-celular-mais-trocado-indica-relatorio/"
+      "original_url": "https://canaltech.com.br/produtos/jbl-go-5-chega-com-som-harman-e-bluetooth-60-conheca/"
     },
     {
-      "title": "Vírus de R$ 160 trava o WhatsApp de vítimas e rouba dados pessoais",
-      "slug": "virus-de-rdollar-160-trava-o-whatsapp-de-vitimas-e-rouba-dados-pessoais",
+      "title": "AMD lança Ryzen AI 400 para desktop, mas você não poderá comprá-los",
+      "slug": "amd-lanca-ryzen-ai-400-para-desktop-mas-voce-nao-podera-compra-los",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T11:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/virus-de-r-160-trava-o-whatsapp-de-vitimas-e-rouba-dados-pessoais/"
-    },
-    {
-      "title": "Celulares custo-benefício da Samsung vão herdar cores dos modelos top de linha",
-      "slug": "celulares-custo-beneficio-da-samsung-vao-herdar-cores-dos-modelos-top-de-linha",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T11:19:47.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/celulares-custo-beneficio-da-samsung-vao-herdar-cores-dos-modelos-top-de-linha/"
-    },
-    {
-      "title": "IAs impulsionam ataques DDoS mais sofisticados; Brasil lidera na América Latina",
-      "slug": "ias-impulsionam-ataques-ddos-mais-sofisticados-brasil-lidera-na-america-latina",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T11:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/ias-impulsionam-ataques-ddos-mais-sofisticados-brasil-lidera-na-america-latina/"
-    },
-    {
-      "title": "Acessórios para PS5, jogos, periféricos gamer e mais na Semana do Consumidor Amazon",
-      "slug": "acessorios-para-ps5-jogos-perifericos-gamer-e-mais-na-semana-do-consumidor-amazon",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T13:03:00.000Z",
+      "date": "2026-03-04T14:31:52.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503684-acessorios-para-ps5-jogos-perifericos-gamer-e-mais-na-semana-do-consumidor-amazon.htm"
+      "original_url": "https://canaltech.com.br/hardware/amd-lanca-ryzen-ai-400-para-desktop-mas-voce-nao-podera-compra-los/"
     },
     {
-      "title": "Governo dos EUA é quem decide qual o uso militar das IAs, diz Sam Altman",
-      "slug": "governo-dos-eua-e-quem-decide-qual-o-uso-militar-das-ias-diz-sam-altman",
+      "title": "Dona do ChatGPT quer lançar o seu próprio GitHub, antecipa portal",
+      "slug": "dona-do-chatgpt-quer-lancar-o-seu-proprio-github-antecipa-portal",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-04T14:24:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/dona-do-chatgpt-quer-lancar-o-seu-proprio-github-antecipa-portal/"
+    },
+    {
+      "title": "Claude Code ganha suporte ao modo de voz; veja como funciona",
+      "slug": "claude-code-ganha-suporte-ao-modo-de-voz-veja-como-funciona",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-04T14:12:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/software/claude-code-ganha-suporte-ao-modo-de-voz-veja-como-funciona/"
+    },
+    {
+      "title": "LG UltraGear 34\" UltraWide 160Hz: O menor preço com cupom! Confira",
+      "slug": "lg-ultragear-34-ultrawide-160hz-o-menor-preco-com-cupom-confira",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T14:09:12.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/lg-ultragear-34-ultrawide-160hz-o-menor-preco-com-cupom-confira/"
+    },
+    {
+      "title": "Geely quer revolucionar carros autônomos com \"ajuda\" do espaço",
+      "slug": "geely-quer-revolucionar-carros-autonomos-com-ajuda-do-espaco",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/geely-quer-revolucionar-carros-autonomos-com-ajuda-do-espaco/"
+    },
+    {
+      "title": "Mercado Livre faz queima de iPhone 16 de 256 GB; promoção rara em muita memória",
+      "slug": "mercado-livre-faz-queima-de-iphone-16-de-256-gb-promocao-rara-em-muita-memoria",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T13:53:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-16-de-256-gb-promocao-rara-em-muita-memoria/"
+    },
+    {
+      "title": "Mega Man 12 e Pragmata: Capcom confirma evento com novidades para 2026",
+      "slug": "mega-man-12-e-pragmata-capcom-confirma-evento-com-novidades-para-2026",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/mega-man-12-e-pragmata-capcom-confirma-evento-com-novidades-para-2026/"
+    },
+    {
+      "title": "iPhone 17e é muito pior que o iPhone 17? Confira o comparativo completo",
+      "slug": "iphone-17e-e-muito-pior-que-o-iphone-17-confira-o-comparativo-completo",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T13:00:00.000Z",
+      "date": "2026-03-04T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411299-governo-dos-eua-e-quem-decide-qual-o-uso-militar-das-ias-diz-sam-altman.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411304-iphone-17e-e-muito-pior-que-o-iphone-17-confira-o-comparativo-completo.htm"
     },
     {
-      "title": "Óculos da Meta ‘vazam’ vídeos íntimos para moderadores humanos, diz denúncia",
-      "slug": "oculos-da-meta-vazam-videos-intimos-para-moderadores-humanos-diz-denuncia",
+      "title": "MacBook Neo: notebook 'baratinho' chega com chip de iPhone e custa R$ 7.299",
+      "slug": "macbook-neo-notebook-baratinho-chega-com-chip-de-iphone-e-custa-rdollar-7299",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T12:30:00.000Z",
+      "date": "2026-03-04T14:39:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411298-oculos-da-meta-vazam-videos-intimos-para-moderadores-humanos-diz-denuncia.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411311-macbook-neo-notebook-baratinho-chega-com-chip-de-iphone-e-custa-r-7299.htm"
     },
     {
-      "title": "InfinitePay lança Soma, carteira compartilhada que agiliza gestão de contas em grupo",
-      "slug": "infinitepay-lanca-soma-carteira-compartilhada-que-agiliza-gestao-de-contas-em-grupo",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-04T12:28:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411300-soma-conheca-a-nova-carteira-digital-da-infinitepay-voltada-a-divisao-de-pagamentos-podemos-seguir.htm"
-    },
-    {
-      "title": "Demolidor Renascido traz salto temporal na segunda temporada! Relembre o que aconteceu antes",
-      "slug": "demolidor-renascido-traz-salto-temporal-na-segunda-temporada-relembre-o-que-aconteceu-antes",
+      "title": "Sony não lançará Ghost of Yotei, Wolverine e mais jogos single-player no PC, diz site",
+      "slug": "sony-nao-lancara-ghost-of-yotei-wolverine-e-mais-jogos-single-player-no-pc-diz-site",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T12:15:16.000Z",
+      "date": "2026-03-04T14:21:15.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603269-demolidor-renascido-traz-salto-temporal-na-segunda-temporada-relembre-o-que-aconteceu-antes.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503693-sony-nao-lancara-ghost-of-yotei-wolverine-e-mais-jogos-single-player-no-pc-segundo-bloomberg.htm"
     },
     {
-      "title": "Tune 730BT: JBL lança no Brasil fone com bateria para 3 dias",
-      "slug": "tune-730bt-jbl-lanca-no-brasil-fone-com-bateria-para-3-dias",
+      "title": "Eiichiro Oda revela o que é o One Piece, mas resposta é colocada no fundo do oceano",
+      "slug": "eiichiro-oda-revela-o-que-e-o-one-piece-mas-resposta-e-colocada-no-fundo-do-oceano",
       "topic": "geral",
       "source": "Tecmundo",
+      "date": "2026-03-04T14:15:58.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603279-eiichiro-oda-revela-o-que-e-o-one-piece-mas-resposta-e-colocada-no-fundo-do-oceano.htm"
+    },
+    {
+      "title": "Google anuncia pacotão de novidades para o Android; veja o que muda",
+      "slug": "google-anuncia-pacotao-de-novidades-para-o-android-veja-o-que-muda",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-04T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411303-google-anuncia-pacotao-de-novidades-para-o-android-veja-o-que-muda.htm"
+    },
+    {
+      "title": "Apple Watches, Moto Watches e mais wearables com desconto na Amazon; aproveite",
+      "slug": "apple-watches-moto-watches-e-mais-wearables-com-desconto-na-amazon-aproveite",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T13:46:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411302-apple-watches-moto-watches-e-mais-wearables-com-desconto-na-amazon-aproveite.htm"
+    },
+    {
+      "title": "Galaxy S26 Ultra tem 70% da pré-venda da nova linha, aponta relatório",
+      "slug": "galaxy-s26-ultra-tem-70percent-da-pre-venda-da-nova-linha-aponta-relatorio",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411301-galaxy-s26-ultra-tem-70-da-pre-venda-da-nova-linha-aponta-relatorio.htm"
+    },
+    {
+      "title": "Como conseguir as pulseiras de acesso I, II e III em Resident Evil Requiem? Veja o guia",
+      "slug": "como-conseguir-as-pulseiras-de-acesso-i-ii-e-iii-em-resident-evil-requiem-veja-o-guia",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T13:15:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503664-como-conseguir-as-pulseiras-de-acesso-i-ii-e-iii-em-resident-evil-requiem-veja-o-guia.htm"
+    },
+    {
+      "title": "Cresce número de deepfakes com mulheres vítimas de conteúdo pornográfico",
+      "slug": "cresce-numero-de-deepfakes-com-mulheres-vitimas-de-conteudo-pornografico",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
       "date": "2026-03-04T12:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411294-tune-730bt-jbl-lanca-no-brasil-fone-com-bateria-para-3-dias.htm"
-    },
-    {
-      "title": "Google lança Gemini 3.1 Flash-Lite para tarefas rápidas",
-      "slug": "google-lanca-gemini-31-flash-lite-para-tarefas-rapidas",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-04T11:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411297-google-lanca-gemini-31-flash-lite-para-tarefas-rapidas.htm"
-    },
-    {
-      "title": "Hardware fura a bolha dos gamers e se torna protagonista no mercado digital",
-      "slug": "hardware-fura-a-bolha-dos-gamers-e-se-torna-protagonista-no-mercado-digital",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503683-hardware-fura-a-bolha-dos-gamers-e-se-torna-protagonista-no-mercado-digital.htm"
-    },
-    {
-      "title": "8 jogos de RPG ocidentais tão bons quanto JRPGs",
-      "slug": "8-jogos-de-rpg-ocidentais-tao-bons-quanto-jrpgs",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503354-8-jogos-de-rpg-ocidentais-tao-bons-quanto-jrpgs.htm"
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/onu-news/2026/03/04/mais-mulheres-tornam-se-vitimas-de-deepfakes-gerados-por-inteligencia-artificial.htm"
     }
   ]
 }

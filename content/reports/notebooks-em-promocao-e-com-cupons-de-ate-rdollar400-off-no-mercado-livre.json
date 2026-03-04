@@ -1,0 +1,19 @@
+{
+  "slug": "notebooks-em-promocao-e-com-cupons-de-ate-rdollar400-off-no-mercado-livre",
+  "generated_at": "2026-03-04T15:13:06.129Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
