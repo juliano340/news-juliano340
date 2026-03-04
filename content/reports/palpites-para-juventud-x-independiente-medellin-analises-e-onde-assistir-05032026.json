@@ -1,6 +1,6 @@
 {
-  "slug": "o-metodo-que-falta-como-implementar-ia-sem-virar-mais-uma-poc-na-gaveta",
-  "generated_at": "2026-03-04T11:03:10.607Z",
+  "slug": "palpites-para-juventud-x-independiente-medellin-analises-e-onde-assistir-05032026",
+  "generated_at": "2026-03-04T11:06:44.181Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 454,
+      "words": 301,
       "min": 220
     },
     {
@@ -84,17 +84,19 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 0,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [
     "placeholder_detectado"
   ],
-  "score": 92,
+  "score": 85,
   "metadata": null
 }
