@@ -1,232 +1,124 @@
 {
-  "generated_at": "2026-03-04T15:19:46.276Z",
+  "generated_at": "2026-03-04T17:10:02.758Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 25,
+  "total": 13,
   "posts": [
     {
-      "title": "Apple lança MacBook Neo, modelo 'popular' da marca; veja preços no Brasil",
-      "slug": "apple-lanca-macbook-neo-modelo-popular-da-marca-veja-precos-no-brasil",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-04T14:16:15.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/04/apple-lanca-macbook-neo-modelo-popular-da-marca.ghtml"
-    },
-    {
-      "title": "Google deixará companhias aéreas rastrearem sua mala perdida (se você pedir)",
-      "slug": "google-deixara-companhias-aereas-rastrearem-sua-mala-perdida-se-voce-pedir",
+      "title": "Dona do ChatGPT pode lançar rival do GitHub para enfrentar Microsoft",
+      "slug": "dona-do-chatgpt-pode-lancar-rival-do-github-para-enfrentar-microsoft",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-04T14:25:46.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/google-deixara-companhias-aereas-rastrearem-sua-mala-perdida-se-voce-pedir/"
+      "date": "2026-03-04T16:02:14.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/dona-do-chatgpt-pode-lancar-rival-do-github-para-enfrentar-microsoft/"
     },
     {
-      "title": "Apple lança MacBook Neo com chip de iPhone; saiba o preço",
-      "slug": "apple-lanca-macbook-neo-com-chip-de-iphone-saiba-o-preco",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-04T14:20:09.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/apple-lanca-macbook-neo-com-chip-de-iphone-saiba-o-preco/"
-    },
-    {
-      "title": "iPhone 17 Pro Max (256 GB) recebe desconto histórico no Mês do Consumidor",
-      "slug": "iphone-17-pro-max-256-gb-recebe-desconto-historico-no-mes-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-04T13:42:03.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-max-256-gb-recebe-desconto-historico-no-mes-do-consumidor/"
-    },
-    {
-      "title": "Google Maps ganha novo ícone inspirado no Gemini",
-      "slug": "google-maps-ganha-novo-icone-inspirado-no-gemini",
+      "title": "Tribunal do Cade mantém decisão que libera rivais da Meta AI no WhatsApp",
+      "slug": "tribunal-do-cade-mantem-decisao-que-libera-rivais-da-meta-ai-no-whatsapp",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-03-04T13:31:42.000Z",
+      "date": "2026-03-04T15:31:18.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-maps-ganha-novo-icone-inspirado-no-gemini/"
+      "original_url": "https://tecnoblog.net/noticias/tribunal-do-cade-mantem-decisao-que-permite-ias-concorrentes-no-whatsapp/"
     },
     {
-      "title": "Melhor correr: iPhone 17 (256 GB) despenca 24% com cupom no Mês do Consumidor",
-      "slug": "melhor-correr-iphone-17-256-gb-despenca-24percent-com-cupom-no-mes-do-consumidor",
+      "title": "Galaxy S25 Plus (512 GB) sai 58% mais barato que S26 Plus no Mês do Consumidor",
+      "slug": "galaxy-s25-plus-512-gb-sai-58percent-mais-barato-que-s26-plus-no-mes-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-04T13:03:37.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/melhor-correr-iphone-17-256-gb-despenca-24-com-cupom-no-mes-do-consumidor/"
-    },
-    {
-      "title": "WhatsApp Premium deixará fixar mais de três conversas no topo, revela portal",
-      "slug": "whatsapp-premium-deixara-fixar-mais-de-tres-conversas-no-topo-revela-portal",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-04T14:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/whatsapp-premium-deixara-fixar-mais-de-tres-conversas-no-topo-revela-portal/"
-    },
-    {
-      "title": "Extensão falsa no Chrome usa Gemini para roubar arquivos do seu PC",
-      "slug": "extensao-falsa-no-chrome-usa-gemini-para-roubar-arquivos-do-seu-pc",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T14:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/extensao-falsa-no-chrome-usa-gemini-para-roubar-arquivos-do-seu-pc/"
-    },
-    {
-      "title": "JBL GO 5 chega com som Harman e Bluetooth 6.0; conheça",
-      "slug": "jbl-go-5-chega-com-som-harman-e-bluetooth-60-conheca",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T14:32:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/jbl-go-5-chega-com-som-harman-e-bluetooth-60-conheca/"
-    },
-    {
-      "title": "AMD lança Ryzen AI 400 para desktop, mas você não poderá comprá-los",
-      "slug": "amd-lanca-ryzen-ai-400-para-desktop-mas-voce-nao-podera-compra-los",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T14:31:52.000Z",
+      "date": "2026-03-04T15:01:33.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/hardware/amd-lanca-ryzen-ai-400-para-desktop-mas-voce-nao-podera-compra-los/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-sai-58-mais-barato-que-s26-plus-no-mes-do-consumidor/"
     },
     {
-      "title": "Dona do ChatGPT quer lançar o seu próprio GitHub, antecipa portal",
-      "slug": "dona-do-chatgpt-quer-lancar-o-seu-proprio-github-antecipa-portal",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-04T14:24:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/dona-do-chatgpt-quer-lancar-o-seu-proprio-github-antecipa-portal/"
-    },
-    {
-      "title": "Claude Code ganha suporte ao modo de voz; veja como funciona",
-      "slug": "claude-code-ganha-suporte-ao-modo-de-voz-veja-como-funciona",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-04T14:12:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/claude-code-ganha-suporte-ao-modo-de-voz-veja-como-funciona/"
-    },
-    {
-      "title": "LG UltraGear 34\" UltraWide 160Hz: O menor preço com cupom! Confira",
-      "slug": "lg-ultragear-34-ultrawide-160hz-o-menor-preco-com-cupom-confira",
+      "title": "Em votação apertada, ARC Raiders e Clair Obscur levam como melhores jogos do ano",
+      "slug": "em-votacao-apertada-arc-raiders-e-clair-obscur-levam-como-melhores-jogos-do-ano",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T14:09:12.000Z",
+      "date": "2026-03-04T16:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/lg-ultragear-34-ultrawide-160hz-o-menor-preco-com-cupom-confira/"
+      "original_url": "https://canaltech.com.br/games/em-votacao-apertada-arc-raiders-e-clair-obscur-levam-como-melhores-jogos-do-ano/"
     },
     {
-      "title": "Geely quer revolucionar carros autônomos com \"ajuda\" do espaço",
-      "slug": "geely-quer-revolucionar-carros-autonomos-com-ajuda-do-espaco",
+      "title": "Fiat registra no Brasil o “futuro carro mais vendido do país”",
+      "slug": "fiat-registra-no-brasil-o-futuro-carro-mais-vendido-do-pais",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T14:00:00.000Z",
+      "date": "2026-03-04T15:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/geely-quer-revolucionar-carros-autonomos-com-ajuda-do-espaco/"
+      "original_url": "https://canaltech.com.br/carros/fiat-registra-no-brasil-o-futuro-carro-mais-vendido-do-pais/"
     },
     {
-      "title": "Mercado Livre faz queima de iPhone 16 de 256 GB; promoção rara em muita memória",
-      "slug": "mercado-livre-faz-queima-de-iphone-16-de-256-gb-promocao-rara-em-muita-memoria",
+      "title": "Com NVIDIA H200, AXIA Energia (ex-Eletrobras) apresenta neocloud no Brasil",
+      "slug": "com-nvidia-h200-axia-energia-ex-eletrobras-apresenta-neocloud-no-brasil",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T13:53:00.000Z",
+      "date": "2026-03-04T15:31:43.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-16-de-256-gb-promocao-rara-em-muita-memoria/"
+      "original_url": "https://canaltech.com.br/mercado/com-nvidia-h200-axia-energia-ex-eletrobras-apresenta-neocloud-no-brasil/"
     },
     {
-      "title": "Mega Man 12 e Pragmata: Capcom confirma evento com novidades para 2026",
-      "slug": "mega-man-12-e-pragmata-capcom-confirma-evento-com-novidades-para-2026",
+      "title": "Samsung oficializa tela 3D de 85 polegadas que dispensa óculos no Brasil",
+      "slug": "samsung-oficializa-tela-3d-de-85-polegadas-que-dispensa-oculos-no-brasil",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T13:30:00.000Z",
+      "date": "2026-03-04T15:27:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/mega-man-12-e-pragmata-capcom-confirma-evento-com-novidades-para-2026/"
+      "original_url": "https://canaltech.com.br/tv/samsung-oficializa-tela-3d-de-85-polegadas-que-dispensa-oculos-no-brasil/"
     },
     {
-      "title": "iPhone 17e é muito pior que o iPhone 17? Confira o comparativo completo",
-      "slug": "iphone-17e-e-muito-pior-que-o-iphone-17-confira-o-comparativo-completo",
+      "title": "Xbox registra patente de IA que joga sozinha para você não empacar no jogo",
+      "slug": "xbox-registra-patente-de-ia-que-joga-sozinha-para-voce-nao-empacar-no-jogo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-04T15:05:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/xbox-registra-patente-de-ia-que-joga-sozinha-para-voce-nao-empacar-no-jogo/"
+    },
+    {
+      "title": "WhatsApp Premium permitirá fixar até 20 conversas",
+      "slug": "whatsapp-premium-permitira-fixar-ate-20-conversas",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-04T17:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411308-whatsapp-premium-permitira-fixar-ate-20-conversas.htm"
+    },
+    {
+      "title": "10 melhores filmes e séries da Netflix para assistir em março",
+      "slug": "10-melhores-filmes-e-series-da-netflix-para-assistir-em-marco",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T15:00:00.000Z",
+      "date": "2026-03-04T16:15:23.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411304-iphone-17e-e-muito-pior-que-o-iphone-17-confira-o-comparativo-completo.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603282-10-melhores-filmes-e-series-da-netflix-para-assistir-em-marco.htm"
     },
     {
-      "title": "MacBook Neo: notebook 'baratinho' chega com chip de iPhone e custa R$ 7.299",
-      "slug": "macbook-neo-notebook-baratinho-chega-com-chip-de-iphone-e-custa-rdollar-7299",
+      "title": "LG lança nova Smart TV QNED73 com foco em transmissões esportivas",
+      "slug": "lg-lanca-nova-smart-tv-qned73-com-foco-em-transmissoes-esportivas",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T14:39:00.000Z",
+      "date": "2026-03-04T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411311-macbook-neo-notebook-baratinho-chega-com-chip-de-iphone-e-custa-r-7299.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411309-lg-lanca-nova-smart-tv-qned73-com-foco-em-transmissoes-esportivas.htm"
     },
     {
-      "title": "Sony não lançará Ghost of Yotei, Wolverine e mais jogos single-player no PC, diz site",
-      "slug": "sony-nao-lancara-ghost-of-yotei-wolverine-e-mais-jogos-single-player-no-pc-diz-site",
+      "title": "Smart TV, Notebook, celular e mais em oferta na Ressaca 3.3 da Shopee; aproveite",
+      "slug": "smart-tv-notebook-celular-e-mais-em-oferta-na-ressaca-33-da-shopee-aproveite",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T14:21:15.000Z",
+      "date": "2026-03-04T15:36:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503693-sony-nao-lancara-ghost-of-yotei-wolverine-e-mais-jogos-single-player-no-pc-segundo-bloomberg.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411306-smart-tv-notebook-celular-e-mais-em-oferta-na-ressaca-33-da-shopee-aproveite.htm"
     },
     {
-      "title": "Eiichiro Oda revela o que é o One Piece, mas resposta é colocada no fundo do oceano",
-      "slug": "eiichiro-oda-revela-o-que-e-o-one-piece-mas-resposta-e-colocada-no-fundo-do-oceano",
+      "title": "Notebooks em promoção e com cupons de até R$400 OFF no Mercado Livre",
+      "slug": "notebooks-em-promocao-e-com-cupons-de-ate-rdollar400-off-no-mercado-livre",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T14:15:58.000Z",
+      "date": "2026-03-04T14:49:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603279-eiichiro-oda-revela-o-que-e-o-one-piece-mas-resposta-e-colocada-no-fundo-do-oceano.htm"
-    },
-    {
-      "title": "Google anuncia pacotão de novidades para o Android; veja o que muda",
-      "slug": "google-anuncia-pacotao-de-novidades-para-o-android-veja-o-que-muda",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-04T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411303-google-anuncia-pacotao-de-novidades-para-o-android-veja-o-que-muda.htm"
-    },
-    {
-      "title": "Apple Watches, Moto Watches e mais wearables com desconto na Amazon; aproveite",
-      "slug": "apple-watches-moto-watches-e-mais-wearables-com-desconto-na-amazon-aproveite",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T13:46:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411302-apple-watches-moto-watches-e-mais-wearables-com-desconto-na-amazon-aproveite.htm"
-    },
-    {
-      "title": "Galaxy S26 Ultra tem 70% da pré-venda da nova linha, aponta relatório",
-      "slug": "galaxy-s26-ultra-tem-70percent-da-pre-venda-da-nova-linha-aponta-relatorio",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T13:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411301-galaxy-s26-ultra-tem-70-da-pre-venda-da-nova-linha-aponta-relatorio.htm"
-    },
-    {
-      "title": "Como conseguir as pulseiras de acesso I, II e III em Resident Evil Requiem? Veja o guia",
-      "slug": "como-conseguir-as-pulseiras-de-acesso-i-ii-e-iii-em-resident-evil-requiem-veja-o-guia",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T13:15:30.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503664-como-conseguir-as-pulseiras-de-acesso-i-ii-e-iii-em-resident-evil-requiem-veja-o-guia.htm"
-    },
-    {
-      "title": "Cresce número de deepfakes com mulheres vítimas de conteúdo pornográfico",
-      "slug": "cresce-numero-de-deepfakes-com-mulheres-vitimas-de-conteudo-pornografico",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-04T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://noticias.uol.com.br/ultimas-noticias/onu-news/2026/03/04/mais-mulheres-tornam-se-vitimas-de-deepfakes-gerados-por-inteligencia-artificial.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411312-notebooks-em-promocao-e-com-cupons-de-ate-r400-off-no-mercado-livre.htm"
     }
   ]
 }

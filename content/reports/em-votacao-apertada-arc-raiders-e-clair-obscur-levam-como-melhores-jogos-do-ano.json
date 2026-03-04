@@ -1,6 +1,6 @@
 {
-  "slug": "notebooks-em-promocao-e-com-cupons-de-ate-rdollar400-off-no-mercado-livre",
-  "generated_at": "2026-03-04T17:09:08.652Z",
+  "slug": "em-votacao-apertada-arc-raiders-e-clair-obscur-levam-como-melhores-jogos-do-ano",
+  "generated_at": "2026-03-04T17:03:14.991Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 328,
+      "words": 378,
       "min": 220
     },
     {

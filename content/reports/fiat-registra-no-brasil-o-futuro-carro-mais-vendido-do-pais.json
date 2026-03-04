@@ -1,6 +1,6 @@
 {
-  "slug": "notebooks-em-promocao-e-com-cupons-de-ate-rdollar400-off-no-mercado-livre",
-  "generated_at": "2026-03-04T17:09:08.652Z",
+  "slug": "fiat-registra-no-brasil-o-futuro-carro-mais-vendido-do-pais",
+  "generated_at": "2026-03-04T17:04:02.270Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 328,
+      "words": 345,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "notebooks-em-promocao-e-com-cupons-de-ate-rdollar400-off-no-mercado-livre",
-  "generated_at": "2026-03-04T17:09:08.652Z",
+  "slug": "10-melhores-filmes-e-series-da-netflix-para-assistir-em-marco",
+  "generated_at": "2026-03-04T17:07:26.267Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 328,
+      "words": 228,
       "min": 220
     },
     {
