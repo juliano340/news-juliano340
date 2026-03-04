@@ -1,6 +1,6 @@
 {
   "slug": "drone-atinge-data-centers-da-aws-no-oriente-medio-e-derruba-nuvem",
-  "generated_at": "2026-03-03T23:04:18.359Z",
+  "generated_at": "2026-03-04T01:01:09.967Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 326,
+      "words": 328,
       "min": 220
     },
     {

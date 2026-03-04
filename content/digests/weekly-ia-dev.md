@@ -1,17 +1,9 @@
-# Weekly IA para Devs - 2026-03-03
+# Weekly IA para Devs - 2026-03-04
 
-Gerado em 2026-03-03T23:08:18.208Z
+Gerado em 2026-03-04T01:02:56.309Z
 
-- [3.3: Monitor Samsung Odyssey G30 de 24” sai com 38% OFF em até 10x sem juros](https://tecnoblog.net/achados/3-3-monitor-samsung-odyssey-g30-de-24-sai-com-38-off-em-ate-10x-sem-juros/) | topico: geral | score: 92
-- [Ar-condicionado Samsung WindFree AI 12.000 BTUs tem 29% OFF no 3.3 da Amazon](https://tecnoblog.net/achados/ar-condicionado-samsung-windfree-ai-12-000-btus-tem-29-off-no-3-3-da-amazon/) | topico: geral | score: 100
-- [Codiguin do Free Fire: confira os códigos de FF para resgatar em março](https://tecnoblog.net/responde/codiguin-do-free-fire-confira-os-codigos-de-ff-para-resgatar-em-marco/) | topico: geral | score: 92
-- [Meta começa a testar compras via Meta AI nos Estados Unidos](https://tecnoblog.net/noticias/meta-comeca-a-testar-compras-via-meta-ai-nos-estados-unidos/) | topico: llms | score: 100
-- [Sonic 4 ganha primeira imagem de bastidores com icônico martelo de Amy Rose](https://canaltech.com.br/games/sonic-4-ganha-primeira-imagem-de-bastidores-com-iconico-martelo-de-amy-rose/) | topico: geral | score: 100
-- [God of War: Amazon escala atores que vão interpretar filhos de Thor na série](https://canaltech.com.br/games/god-of-war-amazon-escala-atores-que-vao-interpretar-filhos-de-thor-na-serie/) | topico: geral | score: 92
-- [Onde assistir Marshals? Saiba tudo sobre a nova série de Yellowstone](https://www.tecmundo.com.br/minha-serie/603268-onde-assistir-marshals-saiba-tudo-sobre-a-nova-serie-de-yellowstone.htm) | topico: geral | score: 100
-- [SUS ganha teleatendimento gratuito para tratar vício em jogos e apostas](https://www.tecmundo.com.br/seguranca/411289-sus-ganha-teleatendimento-gratuito-para-tratar-vicio-em-jogos-e-apostas.htm) | topico: geral | score: 100
-- [ChatGPT vira canal de vendas — e muda a lógica do e-commerce](https://www.tecmundo.com.br/mercado/411296-chatgpt-vira-canal-de-vendas-e-muda-a-logica-do-e-commerce.htm) | topico: geral | score: 100
-- [GoPro GP3 é o novo chip com IA que vai estrear nas próximas câmeras de ação](https://www.tecmundo.com.br/produto/411291-gopro-gp3-e-o-novo-chip-com-ia-que-vai-estrear-nas-proximas-cameras-de-acao.htm) | topico: geral | score: 100
-- [Como resolver o puzzle da roleta em Resident Evil Requiem? Veja a solução](https://www.tecmundo.com.br/voxel/503670-como-resolver-o-puzzle-da-roleta-em-resident-evil-requiem-veja-a-solucao.htm) | topico: geral | score: 100
-- [Coruna: kit de hacking para iPhone explora 23 vulnerabilidades no iOS](https://www.tecmundo.com.br/seguranca/411292-coruna-kit-de-hacking-para-iphone-explora-23-vulnerabilidades-no-ios.htm) | topico: geral | score: 100
-- [X suspenderá monetização de vídeos de guerra feitos com IA sem aviso](https://www.uol.com.br/tilt/noticias/afp/2026/03/03/x-suspendera-monetizacao-de-videos-de-guerra-feitos-com-ia-sem-aviso.htm) | topico: geral | score: 100
+- [Chrome vai reduzir ciclo e lançar uma nova versão a cada duas semanas](https://tecnoblog.net/noticias/chrome-vai-reduzir-ciclo-e-lancar-uma-nova-versao-a-cada-duas-semanas/) | topico: produtividade-dev | score: 100
+- [Códigos de Roblox Blox Fruits: veja recompensas para resgatar em março](https://www.tecmundo.com.br/voxel/503667-codigos-de-roblox-blox-fruits-veja-recompensas-para-resgatar-em-marco.htm) | topico: geral | score: 100
+- [F-39 Gripen: Conheça o caça que vai proteger Brasília](https://www.tecmundo.com.br/seguranca/411286-f-39-gripen-conheca-o-caca-que-vai-proteger-brasilia.htm) | topico: geral | score: 100
+- [Pânico 7 tem cena pós-créditos? Entenda final e veja quem é o assassino](https://www.tecmundo.com.br/minha-serie/603266-panico-7-tem-cena-pos-creditos-entenda-final-e-veja-quem-e-o-assassino.htm) | topico: geral | score: 92
+- [Ofertas do 3.3 e mais jogos da Steam com até 94% OFF na Nuuvem; confira](https://www.tecmundo.com.br/voxel/503686-ofertas-do-33-e-mais-jogos-da-steam-com-ate-94-off-na-nuuvem-confira.htm) | topico: geral | score: 92

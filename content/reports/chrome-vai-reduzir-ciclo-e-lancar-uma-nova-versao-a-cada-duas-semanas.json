@@ -1,7 +1,7 @@
 {
-  "slug": "ofertas-do-33-e-mais-jogos-da-steam-com-ate-94percent-off-na-nuuvem-confira",
-  "generated_at": "2026-03-04T01:02:54.134Z",
-  "status": "WARN",
+  "slug": "chrome-vai-reduzir-ciclo-e-lancar-uma-nova-versao-a-cada-duas-semanas",
+  "generated_at": "2026-03-04T01:00:48.136Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 346,
+      "words": 336,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
