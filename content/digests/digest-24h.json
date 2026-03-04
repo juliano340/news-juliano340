@@ -1,52 +1,25 @@
 {
-  "generated_at": "2026-03-04T01:02:56.309Z",
+  "generated_at": "2026-03-04T03:01:18.421Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 2,
   "posts": [
     {
-      "title": "Chrome vai reduzir ciclo e lançar uma nova versão a cada duas semanas",
-      "slug": "chrome-vai-reduzir-ciclo-e-lancar-uma-nova-versao-a-cada-duas-semanas",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-03T22:59:09.000Z",
+      "title": "Drone atinge data centers da AWS no Oriente Médio e derruba nuvem",
+      "slug": "drone-atinge-data-centers-da-aws-no-oriente-medio-e-derruba-nuvem",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-03T21:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/chrome-vai-reduzir-ciclo-e-lancar-uma-nova-versao-a-cada-duas-semanas/"
+      "original_url": "https://canaltech.com.br/seguranca/drone-atinge-data-centers-da-aws-no-oriente-medio-e-derruba-nuvem/"
     },
     {
-      "title": "Códigos de Roblox Blox Fruits: veja recompensas para resgatar em março",
-      "slug": "codigos-de-roblox-blox-fruits-veja-recompensas-para-resgatar-em-marco",
+      "title": "Adapta cria ecossistema de softwares adaptáveis para PMEs",
+      "slug": "adapta-cria-ecossistema-de-softwares-adaptaveis-para-pmes",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-04T00:15:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503667-codigos-de-roblox-blox-fruits-veja-recompensas-para-resgatar-em-marco.htm"
-    },
-    {
-      "title": "F-39 Gripen: Conheça o caça que vai proteger Brasília",
-      "slug": "f-39-gripen-conheca-o-caca-que-vai-proteger-brasilia",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T00:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411286-f-39-gripen-conheca-o-caca-que-vai-proteger-brasilia.htm"
-    },
-    {
-      "title": "Pânico 7 tem cena pós-créditos? Entenda final e veja quem é o assassino",
-      "slug": "panico-7-tem-cena-pos-creditos-entenda-final-e-veja-quem-e-o-assassino",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T23:15:52.000Z",
+      "date": "2026-03-04T01:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603266-panico-7-tem-cena-pos-creditos-entenda-final-e-veja-quem-e-o-assassino.htm"
-    },
-    {
-      "title": "Ofertas do 3.3 e mais jogos da Steam com até 94% OFF na Nuuvem; confira",
-      "slug": "ofertas-do-33-e-mais-jogos-da-steam-com-ate-94percent-off-na-nuuvem-confira",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-03T22:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503686-ofertas-do-33-e-mais-jogos-da-steam-com-ate-94-off-na-nuuvem-confira.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411295-adapta-cria-ecossistema-de-softwares-adaptaveis-para-pmes.htm"
     }
   ]
 }
