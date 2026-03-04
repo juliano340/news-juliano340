@@ -1,0 +1,19 @@
+{
+  "slug": "home-office-75-vagas-para-trabalho-remoto-0403",
+  "generated_at": "2026-03-04T23:04:13.713Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,214 +1,124 @@
 {
-  "generated_at": "2026-03-04T21:14:43.935Z",
+  "generated_at": "2026-03-04T23:10:59.595Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 23,
+  "total": 13,
   "posts": [
     {
-      "title": "Pai acusa Gemini, do Google, de incentivar ataque nos EUA e contribuir para suicídio do filho",
-      "slug": "pai-acusa-gemini-do-google-de-incentivar-ataque-nos-eua-e-contribuir-para-suicidio-do-filho",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-04T20:14:24.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/04/pai-acusa-gemini-do-google-de-incentivar-ataque-nos-eua-e-contribuir-para-suicidio-do-filho.ghtml"
-    },
-    {
-      "title": "O fim da espiadinha",
-      "slug": "o-fim-da-espiadinha",
-      "topic": "seguranca-ia",
-      "source": "Tecnoblog",
-      "date": "2026-03-04T20:51:19.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/tecnocast/o-fim-da-espiadinha/"
-    },
-    {
-      "title": "Códigos e cheats de Pokémon Gaia",
-      "slug": "codigos-e-cheats-de-pokemon-gaia",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-04T20:26:53.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/codigos-e-cheats-de-pokemon-gaia/"
-    },
-    {
-      "title": "Windows 11: ícones coloridos de bateria com porcentagem são oficiais",
-      "slug": "windows-11-icones-coloridos-de-bateria-com-porcentagem-sao-oficiais",
+      "title": "Kindle Paperwhite tem menor preço desde dezembro no Mês do Consumidor na Amazon",
+      "slug": "kindle-paperwhite-tem-menor-preco-desde-dezembro-no-mes-do-consumidor-na-amazon",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-04T19:44:16.000Z",
+      "date": "2026-03-04T22:18:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/windows-11-icones-coloridos-de-bateria-com-porcentagem-sao-oficiais/"
+      "original_url": "https://tecnoblog.net/achados/kindle-paperwhite-tem-menor-preco-desde-dezembro-no-mes-do-consumidor-na-amazon/"
     },
     {
-      "title": "Android 16 ganha modo PC nativo, desenvolvido em parceria com a Samsung",
-      "slug": "android-16-ganha-modo-pc-nativo-desenvolvido-em-parceria-com-a-samsung",
-      "topic": "produtividade-dev",
+      "title": "Mês do Consumidor: Lenovo Idea Tab sai com 26% OFF em até 10x na Amazon",
+      "slug": "mes-do-consumidor-lenovo-idea-tab-sai-com-26percent-off-em-ate-10x-na-amazon",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-04T19:39:23.000Z",
+      "date": "2026-03-04T21:41:24.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/android-16-ganha-modo-pc-nativo-desenvolvido-em-parceria-com-a-samsung/"
+      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-lenovo-idea-tab-sai-com-26-off-em-ate-10x-na-amazon/"
     },
     {
-      "title": "HONOR Magic V6 é o dobrável totalmente compatível com dispositivos Apple; veja",
-      "slug": "honor-magic-v6-e-o-dobravel-totalmente-compativel-com-dispositivos-apple-veja",
+      "title": "Game of Thrones vai ganhar filme com roteirista de Andor e House of Cards",
+      "slug": "game-of-thrones-vai-ganhar-filme-com-roteirista-de-andor-e-house-of-cards",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T20:59:40.000Z",
+      "date": "2026-03-04T22:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/honor-magic-v6-e-o-dobravel-totalmente-compativel-com-dispositivos-apple-veja/"
+      "original_url": "https://canaltech.com.br/entretenimento/game-of-thrones-vai-ganhar-filme-com-roteirista-de-andor-e-house-of-cards/"
     },
     {
-      "title": "Google reduz taxas na Play Store, mas usuários criticam restrições no Android",
-      "slug": "google-reduz-taxas-na-play-store-mas-usuarios-criticam-restricoes-no-android",
+      "title": "Resident Evil Requiem explode em vendas e pode quebrar recorde da franquia",
+      "slug": "resident-evil-requiem-explode-em-vendas-e-pode-quebrar-recorde-da-franquia",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T20:54:00.000Z",
+      "date": "2026-03-04T21:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/google-reduz-taxas-na-play-store-mas-usuarios-criticam-restricoes-no-android/"
+      "original_url": "https://canaltech.com.br/games/resident-evil-requiem-explode-em-vendas-e-pode-quebrar-recorde-da-franquia/"
     },
     {
-      "title": "Leon está casado em Resident Evil Requiem? Veja quem pode ser a sortuda",
-      "slug": "leon-esta-casado-em-resident-evil-requiem-veja-quem-pode-ser-a-sortuda",
+      "title": "Kingdom Come: Deliverance II e mais jogos de Xbox com até 90% OFF; aproveite",
+      "slug": "kingdom-come-deliverance-ii-e-mais-jogos-de-xbox-com-ate-90percent-off-aproveite",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T20:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/leon-esta-casado-em-resident-evil-requiem-veja-quem-pode-ser-a-sortuda/"
+      "source": "Tecmundo",
+      "date": "2026-03-04T22:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503695-kingdom-come-deliverance-ii-e-mais-jogos-de-xbox-com-ate-90-off-aproveite.htm"
     },
     {
-      "title": "Brasileiros confiam na IA para finanças, mas querem tomar as próprias decisões",
-      "slug": "brasileiros-confiam-na-ia-para-financas-mas-querem-tomar-as-proprias-decisoes",
+      "title": "Jovem Sherlock é bom? Veja nota, trailer e tudo sobre a série do Prime Video",
+      "slug": "jovem-sherlock-e-bom-veja-nota-trailer-e-tudo-sobre-a-serie-do-prime-video",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T22:15:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603287-jovem-sherlock-e-bom-veja-nota-trailer-e-tudo-sobre-a-serie-do-prime-video.htm"
+    },
+    {
+      "title": "TikTok diz que criptografar mensagens seria perigoso para usuários",
+      "slug": "tiktok-diz-que-criptografar-mensagens-seria-perigoso-para-usuarios",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T22:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411331-tiktok-diz-que-criptografar-mensagens-seria-perigoso-para-usuarios.htm"
+    },
+    {
+      "title": "Xiaomi quer lançar celulares com chips próprios anualmente",
+      "slug": "xiaomi-quer-lancar-celulares-com-chips-proprios-anualmente",
       "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-04T20:46:02.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-04T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/brasileiros-confiam-na-ia-para-financas-mas-querem-tomar-as-proprias-decisoes/"
+      "original_url": "https://www.tecmundo.com.br/produto/411326-xiaomi-quer-lancar-celulares-com-chips-proprios-anualmente.htm"
     },
     {
-      "title": "Positivo aposta em AI PCs para impulsionar reestruturação de TI nas empresas",
-      "slug": "positivo-aposta-em-ai-pcs-para-impulsionar-reestruturacao-de-ti-nas-empresas",
+      "title": "Cibercriminosos chineses usam o Google Drive para espionar governos",
+      "slug": "cibercriminosos-chineses-usam-o-google-drive-para-espionar-governos",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T20:30:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-04T21:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/notebook/positivo-aposta-em-ai-pcs-para-impulsionar-reestruturacao-de-ti-nas-empresas/"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411320-cibercriminosos-chineses-usam-o-google-drive-para-espionar-governos.htm"
     },
     {
-      "title": "Rei dos games: Processador AMD Ryzen 7 9800X3D em oferta com cupom no KaBuM",
-      "slug": "rei-dos-games-processador-amd-ryzen-7-9800x3d-em-oferta-com-cupom-no-kabum",
+      "title": "Bradesco fora do ar? Serviços do banco estão instáveis nesta quarta-feira (04)",
+      "slug": "bradesco-fora-do-ar-servicos-do-banco-estao-instaveis-nesta-quarta-feira-04",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T20:08:07.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-04T21:28:26.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/rei-dos-games-processador-amd-ryzen-7-9800x3d-em-oferta-com-cupom-no-kabum/"
+      "original_url": "https://www.tecmundo.com.br/internet/411336-bradesco-fora-do-ar-servicos-do-banco-estao-instaveis-nesta-quarta-feira-04.htm"
     },
     {
-      "title": "Dona do Speedtest e Downdetector é comprada pela Accenture por US$ 1,2 bilhão",
-      "slug": "dona-do-speedtest-e-downdetector-e-comprada-pela-accenture-por-usdollar-12-bilhao",
+      "title": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (04)",
+      "slug": "play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-04",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T21:15:13.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503669-play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-04.htm"
+    },
+    {
+      "title": "Chave de API do Google gera dívida de US$ 82 mil após ataque cibernético",
+      "slug": "chave-de-api-do-google-gera-divida-de-usdollar-82-mil-apos-ataque-cibernetico",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-04T21:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411314-chave-de-api-do-google-gera-divida-de-us-82-mil-apos-ataque-cibernetico.htm"
+    },
+    {
+      "title": "Palantir enfrenta desafio de remover Anthropic do software de IA do Pentágono",
+      "slug": "palantir-enfrenta-desafio-de-remover-anthropic-do-software-de-ia-do-pentagono",
       "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-04T20:04:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-04T22:26:41.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/dona-do-speedtest-e-downdetector-e-comprada-pela-accenture-por-us-12-bilhao/"
-    },
-    {
-      "title": "Nissan derruba preço do Kicks e SUV fica mais em conta que rival da Honda",
-      "slug": "nissan-derruba-preco-do-kicks-e-suv-fica-mais-em-conta-que-rival-da-honda",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/nissan-derruba-precos-e-suv-fica-mais-em-conta-que-rival-da-honda/"
-    },
-    {
-      "title": "ASUS e Kojima lançam tablet gamer com 128 GB de RAM e preço inacreditável",
-      "slug": "asus-e-kojima-lancam-tablet-gamer-com-128-gb-de-ram-e-preco-inacreditavel",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-04T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/asus-e-kojima-lancam-tablet-gamer-com-128-gb-de-ram-e-preco-inacreditavel/"
-    },
-    {
-      "title": "Brasil ganha serviço de \"comumicação secreta\" via satélite ao estilo Starlink",
-      "slug": "brasil-ganha-servico-de-comumicacao-secreta-via-satelite-ao-estilo-starlink",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-04T19:51:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/telecom/brasil-ganha-servico-de-comumicacao-secreta-via-satelite-ao-estilo-starlink/"
-    },
-    {
-      "title": "Após acordo com Pentágono, OpenAI mira negócios com a OTAN",
-      "slug": "apos-acordo-com-pentagono-openai-mira-negocios-com-a-otan",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411324-apos-acordo-com-pentagono-openai-mira-negocios-com-a-otan.htm"
-    },
-    {
-      "title": "Cibercriminosos norte-coreanos transformam pen drives em ferramentas de espionagem",
-      "slug": "cibercriminosos-norte-coreanos-transformam-pen-drives-em-ferramentas-de-espionagem",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T20:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411305-cibercriminosos-norte-coreanos-transformam-pen-drives-em-ferramentas-de-espionagem.htm"
-    },
-    {
-      "title": "Checkout-less: quando pagar deixa de ser etapa e vira infraestrutura",
-      "slug": "checkout-less-quando-pagar-deixa-de-ser-etapa-e-vira-infraestrutura",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T20:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411333-checkout-less-quando-pagar-deixa-de-ser-etapa-e-vira-infraestrutura.htm"
-    },
-    {
-      "title": "Marshals tem quantos episódios? Veja calendário de lançamento da série de Yellowstone",
-      "slug": "marshals-tem-quantos-episodios-veja-calendario-de-lancamento-da-serie-de-yellowstone",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T20:44:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603278-marshals-tem-quantos-episodios-veja-calendario-de-lancamento-da-serie-de-yellowstone.htm"
-    },
-    {
-      "title": "Cade mantém medida protetiva contra termos de IA do WhatsApp",
-      "slug": "cade-mantem-medida-protetiva-contra-termos-de-ia-do-whatsapp",
-      "topic": "infra-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-04T20:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411332-cade-mantem-medida-protetiva-contra-termos-de-ia-do-whatsapp.htm"
-    },
-    {
-      "title": "Crítica: A Noiva! é divertido, mas tem potencial podado pela falta de coragem",
-      "slug": "critica-a-noiva-e-divertido-mas-tem-potencial-podado-pela-falta-de-coragem",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T20:17:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603286-critica-a-noiva-e-divertido-mas-tem-potencial-podado-pela-falta-de-coragem.htm"
-    },
-    {
-      "title": "Trailer de Lanternas foca em passar o bastão e traz referências para fãs",
-      "slug": "trailer-de-lanternas-foca-em-passar-o-bastao-e-traz-referencias-para-fas",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T19:57:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603288-trailer-de-lanternas-foca-em-passar-o-bastao-e-traz-referencias-para-fas.htm"
-    },
-    {
-      "title": "Celular POCO em oferta: aproveite descontos e cupons de até R$100 OFF no Magazine Luiza",
-      "slug": "celular-poco-em-oferta-aproveite-descontos-e-cupons-de-ate-rdollar100-off-no-magazine-luiza",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T19:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411328-celular-poco-em-oferta-descontos-e-cupons-de-ate-r100-off-no-magazine-luiza.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/04/palantir-enfrenta-desafio-de-remover-anthropic-do-software-de-ia-do-pentagono.htm"
     }
   ]
 }
