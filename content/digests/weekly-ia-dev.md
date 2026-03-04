@@ -1,5 +1,6 @@
 # Weekly IA para Devs - 2026-03-04
 
-Gerado em 2026-03-04T05:00:49.223Z
+Gerado em 2026-03-04T09:01:48.380Z
 
-- [Novas soundbars da JBL chegam ao Brasil com Dolby Atmos e até 785 W de potência](https://canaltech.com.br/produtos/novas-soundbars-da-jbl-chegam-ao-brasil-com-dolby-atmos-e-ate-785-w-de-potencia/) | topico: produtividade-dev | score: 100
+- [Galaxy Z Tri-Fold: Samsung explica nova categoria dobrável](https://canaltech.com.br/podcast/podcast-canaltech/galaxy-z-tri-fold-samsung-explica-nova-categoria-dobravel-6383/) | topico: geral | score: 100
+- [Qual é a fase da Lua hoje (4)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/04/qual-a-fase-da-lua-hoje-4-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 100
