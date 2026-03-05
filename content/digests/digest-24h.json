@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-03-05T01:01:37.332Z",
+  "generated_at": "2026-03-05T09:01:29.454Z",
   "niche": "ia-para-desenvolvedores",
   "total": 3,
   "posts": [
     {
-      "title": "Driver da NVIDIA reduz desempenho de placas RTX; usuários relatam falhas",
-      "slug": "driver-da-nvidia-reduz-desempenho-de-placas-rtx-usuarios-relatam-falhas",
+      "title": "Casa conectada: por que a TV está virando o centro da casa inteligente",
+      "slug": "casa-conectada-por-que-a-tv-esta-virando-o-centro-da-casa-inteligente",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-04T23:20:00.000Z",
+      "date": "2026-03-05T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/driver-da-nvidia-reduz-desempenho-de-placas-rtx-usuarios-relatam-falhas/"
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/casa-conectada-por-que-a-tv-esta-virando-o-centro-da-casa-inteligente-6385/"
     },
     {
-      "title": "Home office: 75 vagas para trabalho remoto [04/03]",
-      "slug": "home-office-75-vagas-para-trabalho-remoto-0403",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-04T23:00:00.000Z",
-      "editorial_score": 83,
-      "original_url": "https://www.tecmundo.com.br/mercado/411323-home-office-75-vagas-para-trabalho-remoto-0403.htm"
-    },
-    {
-      "title": "Amazon corta mais empregos; desta vez na unidade de robótica",
-      "slug": "amazon-corta-mais-empregos-desta-vez-na-unidade-de-robotica",
+      "title": "Qual é a fase da Lua hoje (5)? Veja calendário lunar de março de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-5-veja-calendario-lunar-de-marco-de-2026",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-04T21:35:59.000Z",
+      "date": "2026-03-05T08:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/04/amazon-corta-mais-empregos-desta-vez-na-unidade-de-robotica.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/05/qual-a-fase-da-lua-hoje-5-veja-calendario-lunar-de-marco-de-2026.htm"
+    },
+    {
+      "title": "Por que as deepfakes destroem a realidade como a conhecemos?",
+      "slug": "por-que-as-deepfakes-destroem-a-realidade-como-a-conhecemos",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-05T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/05/por-que-as-deepfakes-destroem-a-realidade-como-a-conhecemos.htm"
     }
   ]
 }
