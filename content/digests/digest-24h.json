@@ -1,214 +1,196 @@
 {
-  "generated_at": "2026-03-05T13:16:18.136Z",
+  "generated_at": "2026-03-05T15:13:54.048Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 23,
+  "total": 21,
   "posts": [
     {
-      "title": "iPhones antigos são alvos de malware ligado à espionagem internacional",
-      "slug": "iphones-antigos-sao-alvos-de-malware-ligado-a-espionagem-internacional",
+      "title": "Em vitória da Epic Games, Google reduz taxas da Play Store; veja como ficou",
+      "slug": "em-vitoria-da-epic-games-google-reduz-taxas-da-play-store-veja-como-ficou",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-05T12:52:47.000Z",
+      "date": "2026-03-05T13:59:12.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/iphones-antigos-sao-alvos-de-malware-ligado-a-espionagem-internacional/"
+      "original_url": "https://tecnoblog.net/noticias/em-vitoria-da-epic-games-google-reduz-taxas-da-play-store-veja-como-ficou/"
     },
     {
-      "title": "iPhone 17e passa pela Anatel e já pode ser vendido no Brasil",
-      "slug": "iphone-17e-passa-pela-anatel-e-ja-pode-ser-vendido-no-brasil",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-05T12:23:45.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/iphone-17e-passa-pela-anatel-e-ja-pode-ser-vendido-no-brasil/"
-    },
-    {
-      "title": "Dona do Speedtest e Downdetector é vendida por US$ 1,2 bilhão",
-      "slug": "dona-do-speedtest-e-downdetector-e-vendida-por-usdollar-12-bilhao",
+      "title": "Microsoft quer que o Copilot sincronize suas senhas",
+      "slug": "microsoft-quer-que-o-copilot-sincronize-suas-senhas",
       "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-03-05T12:22:59.000Z",
+      "date": "2026-03-05T13:50:03.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/dona-do-speedtest-e-downdetector-e-vendida-por-us-12-bilhao/"
+      "original_url": "https://tecnoblog.net/noticias/microsoft-quer-que-o-copilot-sincronize-suas-senhas/"
     },
     {
-      "title": "Google é alvo de processo que acusa o Gemini de incentivar suicídio",
-      "slug": "google-e-alvo-de-processo-que-acusa-o-gemini-de-incentivar-suicidio",
+      "title": "Modo IA do Google poderá gerar documentos, montar listas e até criar apps",
+      "slug": "modo-ia-do-google-podera-gerar-documentos-montar-listas-e-ate-criar-apps",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-03-05T11:56:19.000Z",
+      "date": "2026-03-05T13:48:33.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-e-alvo-de-processo-que-acusa-o-gemini-de-incentivar-suicidio/"
+      "original_url": "https://tecnoblog.net/noticias/modo-ia-do-google-podera-gerar-documentos-montar-listas-e-ate-criar-apps/"
     },
     {
-      "title": "Apple Music terá tag para avisar se uma música foi feita com IA, revela portal",
-      "slug": "apple-music-tera-tag-para-avisar-se-uma-musica-foi-feita-com-ia-revela-portal",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-05T12:57:51.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/apple-music-tera-tag-para-avisar-se-uma-musica-foi-feita-com-ia-revela-portal/"
-    },
-    {
-      "title": "Ray-Ban Meta e o futuro dos wearables: quando a tecnologia é “invisível”",
-      "slug": "ray-ban-meta-e-o-futuro-dos-wearables-quando-a-tecnologia-e-invisivel",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-05T12:56:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/ray-ban-meta-e-o-futuro-dos-wearables-quando-a-tecnologia-e-invisivel/"
-    },
-    {
-      "title": "Apenas 1% das falhas de segurança é usado por hackers, mas estrago é devastador",
-      "slug": "apenas-1percent-das-falhas-de-seguranca-e-usado-por-hackers-mas-estrago-e-devastador",
+      "title": "Keeta faz demissão em massa no Rio de Janeiro após adiar lançamento na cidade",
+      "slug": "keeta-faz-demissao-em-massa-no-rio-de-janeiro-apos-adiar-lancamento-na-cidade",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-05T12:35:00.000Z",
+      "date": "2026-03-05T14:58:40.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/apenas-1-das-falhas-de-seguranca-e-usado-por-hackers-mas-estrago-e-devastador/"
+      "original_url": "https://canaltech.com.br/mercado/keeta-faz-demissao-em-massa-no-rio-de-janeiro-apos-adiar-lancamento-na-cidade/"
     },
     {
-      "title": "Não sabe o que enviar? WhatsApp vai te ajudar a escolher figurinhas",
-      "slug": "nao-sabe-o-que-enviar-whatsapp-vai-te-ajudar-a-escolher-figurinhas",
-      "topic": "frameworks",
-      "source": "Canaltech",
-      "date": "2026-03-05T12:23:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/nao-sabe-o-que-enviar-whatsapp-vai-te-ajudar-a-escolher-figurinhas/"
-    },
-    {
-      "title": "Celular gamer da Xiaomi com ventoinha traseira chega em breve; o que já sabemos",
-      "slug": "celular-gamer-da-xiaomi-com-ventoinha-traseira-chega-em-breve-o-que-ja-sabemos",
+      "title": "Samsung confirma lançamento de novo baratinho sem querer; entenda",
+      "slug": "samsung-confirma-lancamento-de-novo-baratinho-sem-querer-entenda",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-05T12:19:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/celular-gamer-da-xiaomi-com-ventoinha-traseira-chega-em-breve-o-que-ja-sabemos/"
-    },
-    {
-      "title": "InfinitePay cria carteira virtual para dividir os gastos de casa e viagens",
-      "slug": "infinitepay-cria-carteira-virtual-para-dividir-os-gastos-de-casa-e-viagens",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-05T12:14:54.000Z",
+      "date": "2026-03-05T14:52:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/infinitepay-cria-carteira-virtual-para-dividir-os-gastos-de-casa-e-viagens/"
+      "original_url": "https://canaltech.com.br/smartphone/samsung-confirma-lancamento-de-novo-baratinho-sem-querer-entenda/"
     },
     {
-      "title": "TV analógica já tem data e hora para \"acabar de verdade\" no Brasil",
-      "slug": "tv-analogica-ja-tem-data-e-hora-para-acabar-de-verdade-no-brasil",
+      "title": "Epic games alerta: golpe rouba V-bucks por meio de bots no Fortnite",
+      "slug": "epic-games-alerta-golpe-rouba-v-bucks-por-meio-de-bots-no-fortnite",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-05T14:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/epic-games-alerta-golpe-rouba-v-bucks-por-meio-de-bots-no-fortnite/"
+    },
+    {
+      "title": "Pedágio sem cancela terá milhões de multas canceladas; saiba o motivo",
+      "slug": "pedagio-sem-cancela-tera-milhoes-de-multas-canceladas-saiba-o-motivo",
       "topic": "infra-ia",
       "source": "Canaltech",
-      "date": "2026-03-05T12:10:56.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/eletro/tv-analogica-ja-tem-data-e-hora-para-acabar-de-verdade-no-brasil/"
+      "date": "2026-03-05T14:17:15.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/pedagio-sem-cancela-tera-milhoes-de-multas-canceladas-saiba-o-motivo/"
     },
     {
-      "title": "Recarga rápida para carros elétricos cresce quase 200% em um ano no Brasil",
-      "slug": "recarga-rapida-para-carros-eletricos-cresce-quase-200percent-em-um-ano-no-brasil",
+      "title": "Celular modular que \"vira câmera\" tem detalhes de fotografia revelados",
+      "slug": "celular-modular-que-vira-camera-tem-detalhes-de-fotografia-revelados",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-05T12:05:00.000Z",
+      "date": "2026-03-05T14:07:02.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/recarga-rapida-para-carros-eletricos-cresce-quase-200-em-um-ano-no-brasil/"
+      "original_url": "https://canaltech.com.br/smartphone/celular-modular-que-vira-camera-tem-detalhes-de-fotografia-revelados/"
     },
     {
-      "title": "Vazou novo baratinho da Xiaomi com bateria gigante; veja o que já sabemos",
-      "slug": "vazou-novo-baratinho-da-xiaomi-com-bateria-gigante-veja-o-que-ja-sabemos",
+      "title": "Nissan Versa muda tudo para não “morrer” no Brasil; veja",
+      "slug": "nissan-versa-muda-tudo-para-nao-morrer-no-brasil-veja",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-05T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/nissan-versa-muda-tudo-para-nao-morrer-no-brasil-veja/"
+    },
+    {
+      "title": "Executivo do Google não descarta lançamento do ‘Android para PC’ ainda neste ano",
+      "slug": "executivo-do-google-nao-descarta-lancamento-do-android-para-pc-ainda-neste-ano",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-05T13:52:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/executivo-do-google-nao-descarta-lancamento-do-android-para-pc-ainda-neste-ano/"
+    },
+    {
+      "title": "Mercado Livre joga preço do Galaxy S25 FE no chão; veja cupom de desconto",
+      "slug": "mercado-livre-joga-preco-do-galaxy-s25-fe-no-chao-veja-cupom-de-desconto",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-05T11:32:23.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/vazou-novo-baratinho-da-xiaomi-com-bateria-gigante-veja-o-que-ja-sabemos/"
-    },
-    {
-      "title": "Cupom com 20% OFF em Intelbras: fechadura digital, câmera inteligente e mais",
-      "slug": "cupom-com-20percent-off-em-intelbras-fechadura-digital-camera-inteligente-e-mais",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T13:06:00.000Z",
+      "date": "2026-03-05T13:50:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411334-cupom-com-20-off-em-intelbras-fechadura-digital-camera-inteligente-e-mais.htm"
+      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-joga-preco-do-galaxy-s25-fe-no-chao-veja-cupom-de-desconto/"
     },
     {
-      "title": "Guerra por IA: Apple, Amazon e Nvidia apoiam Anthropic após briga com Trump",
-      "slug": "guerra-por-ia-apple-amazon-e-nvidia-apoiam-anthropic-apos-briga-com-trump",
+      "title": "Hackers transformam Telegram em central de crimes para vender acessos e dados",
+      "slug": "hackers-transformam-telegram-em-central-de-crimes-para-vender-acessos-e-dados",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T13:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-05T13:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411343-guerra-por-ia-apple-amazon-e-nvidia-apoiam-anthropic-apos-briga-com-trump.htm"
+      "original_url": "https://canaltech.com.br/seguranca/hackers-transformam-telegram-em-central-de-crimes-para-vender-acessos-e-dados/"
     },
     {
-      "title": "LG anuncia novos eletrodomésticos e fábrica no Brasil",
-      "slug": "lg-anuncia-novos-eletrodomesticos-e-fabrica-no-brasil",
-      "topic": "produtividade-dev",
+      "title": "Xiaomi top com mega bateria ganha janela de lançamento; veja o que já sabemos",
+      "slug": "xiaomi-top-com-mega-bateria-ganha-janela-de-lancamento-veja-o-que-ja-sabemos",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-05T13:01:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/xiaomi-top-com-mega-bateria-ganha-janela-de-lancamento-veja-o-que-ja-sabemos/"
+    },
+    {
+      "title": "Stanley celebra o Dia da Mulher com seleção especial de copos e garrafas com desconto",
+      "slug": "stanley-celebra-o-dia-da-mulher-com-selecao-especial-de-copos-e-garrafas-com-desconto",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-05T12:30:00.000Z",
+      "date": "2026-03-05T15:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411337-lg-anuncia-novos-eletrodomesticos-e-fabrica-no-brasil.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411344-stanley-celebra-o-dia-da-mulher-com-selecao-especial-de-copos-e-garrafas-com-desconto.htm"
     },
     {
-      "title": "O Urso vai acabar em sua Temporada 5, confirma Jamie Lee Curtis",
-      "slug": "o-urso-vai-acabar-em-sua-temporada-5-confirma-jamie-lee-curtis",
+      "title": "Possíveis cores e preços dos Galaxy A57 e A37 vazam na internet",
+      "slug": "possiveis-cores-e-precos-dos-galaxy-a57-e-a37-vazam-na-internet",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-05T12:15:01.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603289-o-urso-vai-acabar-em-sua-temporada-5-confirma-jamie-lee-curtis.htm"
-    },
-    {
-      "title": "Nu Stadium: Nubank fecha acordo com time de Messi nos EUA",
-      "slug": "nu-stadium-nubank-fecha-acordo-com-time-de-messi-nos-eua",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T12:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411341-nu-stadium-nubank-fecha-acordo-com-time-de-messi-nos-eua.htm"
-    },
-    {
-      "title": "Roblox: Brookhaven recebe novos códigos em março! Veja as combinações",
-      "slug": "roblox-brookhaven-recebe-novos-codigos-em-marco-veja-as-combinacoes",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T11:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503668-roblox-brookhaven-recebe-novos-codigos-em-marco-veja-as-combinacoes.htm"
-    },
-    {
-      "title": "20 melhores filmes de comédia com Ben Stiller",
-      "slug": "20-melhores-filmes-de-comedia-com-ben-stiller",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T11:15:00.000Z",
+      "date": "2026-03-05T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603254-20-melhores-filmes-de-comedia-com-ben-stiller.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411347-possiveis-cores-e-precos-dos-galaxy-a57-e-a37-vazam-na-internet.htm"
     },
     {
-      "title": "Spatial Signage: Samsung lança no Brasil tela 3D que dispensa óculos",
-      "slug": "spatial-signage-samsung-lanca-no-brasil-tela-3d-que-dispensa-oculos",
+      "title": "Air Fryer Philco de 12 litros por apenas R$367 na Shopee; confira oportunidade",
+      "slug": "air-fryer-philco-de-12-litros-por-apenas-rdollar367-na-shopee-confira-oportunidade",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-05T11:00:00.000Z",
+      "date": "2026-03-05T14:16:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411335-spatial-signage-samsung-lanca-no-brasil-tela-3d-que-dispensa-oculos.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411349-air-fryer-philco-de-12-litros-por-apenas-r367-na-shopee-confira-oportunidade.htm"
     },
     {
-      "title": "Palpites para Osasuna x Mallorca: Análises e Onde Assistir (07/03/2026)",
-      "slug": "palpites-para-osasuna-x-mallorca-analises-e-onde-assistir-07032026",
-      "topic": "produtividade-dev",
+      "title": "Falando a Real quase mata seu melhor personagem em episódio emocionante",
+      "slug": "falando-a-real-quase-mata-seu-melhor-personagem-em-episodio-emocionante",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-05T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411315-palpites-para-osasuna-x-mallorca-analises-e-onde-assistir-07032026.htm"
+      "date": "2026-03-05T14:15:23.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603291-falando-a-real-quase-mata-seu-melhor-personagem-em-episodio-emocionante.htm"
     },
     {
-      "title": "Violência sexual na internet atinge 1 em cada 5 adolescentes no Brasil, diz Unicef",
-      "slug": "violencia-sexual-na-internet-atinge-1-em-cada-5-adolescentes-no-brasil-diz-unicef",
+      "title": "'Cadê a empresa bilionária?': Keeta faz demissão em massa e funcionários protestam",
+      "slug": "cade-a-empresa-bilionaria-keeta-faz-demissao-em-massa-e-funcionarios-protestam",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-05T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411345-cade-a-empresa-bilionaria-keeta-faz-demissao-em-massa-e-funcionarios-protestam.htm"
+    },
+    {
+      "title": "Sem alarde, Ubisoft confirma Assassin's Creed: Black Flag Resynced! Saiba tudo sobre o remake",
+      "slug": "sem-alarde-ubisoft-confirma-assassins-creed-black-flag-resynced-saiba-tudo-sobre-o-remake",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-05T13:21:40.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503013-sem-alarde-ubisoft-confirma-assassins-creed-black-flag-resynced-saiba-tudo-sobre-o-remake.htm"
+    },
+    {
+      "title": "Meta permitirá rivais de IA no WhatsApp em tentativa de evitar ação da UE",
+      "slug": "meta-permitira-rivais-de-ia-no-whatsapp-em-tentativa-de-evitar-acao-da-ue",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-04T17:08:00.000Z",
+      "date": "2026-03-05T13:53:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2026/03/04/violencia-sexual-na-internet-atinge-1-em-cada-5-adolescentes-no-brasil.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/meta-permitira-rivais-de-ia-no-whatsapp-em-tentativa-de-evitar-acao-da-ue.htm"
+    },
+    {
+      "title": "Colorido e 'acessível': como é o MacBook Neo, o laptop menos caro da Apple",
+      "slug": "colorido-e-acessivel-como-e-o-macbook-neo-o-laptop-menos-caro-da-apple",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-05T13:50:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/flash/?c=f88c20c2c13cc373652b87994f26dd120260305"
     }
   ]
 }
