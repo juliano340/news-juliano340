@@ -1,27 +1,26 @@
 # Weekly IA para Devs - 2026-03-05
 
-Gerado em 2026-03-05T17:12:50.381Z
+Gerado em 2026-03-05T19:13:43.315Z
 
-- [Keeta em crise: empresa cancela estreia no Rio e demite funcionários](https://tecnoblog.net/noticias/keeta-em-crise-empresa-cancela-estreia-no-rio-e-demite-funcionarios/) | topico: geral | score: 100
-- [Nvidia sinaliza que não investirá mais na OpenAI e Anthropic](https://tecnoblog.net/noticias/nvidia-sinaliza-que-nao-investira-mais-na-openai-e-anthropic/) | topico: llms | score: 100
-- [Mês do Consumidor: Galaxy Watch 7 (44 mm) tem queda de 60% no Mercado Livre](https://tecnoblog.net/achados/mes-do-consumidor-galaxy-watch-7-44-mm-tem-queda-de-60-no-mercado-livre/) | topico: geral | score: 100
-- [Galaxy S26 vende bem na América Latina, revela presidente](https://tecnoblog.net/noticias/galaxy-s26-vende-bem-na-america-latina-revela-vp/) | topico: seguranca-ia | score: 100
-- [Amazon faz queima de caixa de som gigante da JBL: Boombox 4 no precinho](https://canaltech.com.br/produtos/amazon-faz-queima-de-caixa-de-som-gigante-da-jbl-boombox-4-no-precinho/) | topico: produtividade-dev | score: 100
-- [Governo dos EUA usa Call of Duty para comemorar bombardeio real no Irã](https://canaltech.com.br/games/governo-dos-eua-usa-call-of-duty-para-comemorar-bombardeio-real-no-ira/) | topico: geral | score: 100
-- [Ubisoft confirma remake de Assassin's Creed IV: Black Flag](https://canaltech.com.br/games/ubisoft-confirma-remake-de-assassins-creed-iv-black-flag/) | topico: geral | score: 100
-- [O componente invisível que está mudando a forma como você dirige em 2026](https://canaltech.com.br/carros/o-componente-invisivel-que-esta-mudando-a-forma-como-voce-dirige-em-2026/) | topico: llms | score: 92
-- [A Placa do Ano: RX 9070 XT XFX Swift com 16 GB pelo Menor Preço na Kabum!](https://canaltech.com.br/hardware/a-placa-do-ano-rx-9070-xt-xfx-swift-com-16-gb-pelo-menor-preco-na-kabum/) | topico: geral | score: 100
-- [Samsung Wallet ganha suporte a cartões American Express do Bradesco](https://canaltech.com.br/apps/samsung-wallet-ganha-suporte-a-cartoes-american-express-do-bradesco/) | topico: seguranca-ia | score: 100
-- [NotebookLM agora cria vídeos que vão além de um slideshow básico](https://canaltech.com.br/apps/notebooklm-agora-cria-videos-que-vao-alem-de-um-slideshow-basico/) | topico: llms | score: 100
-- [Baixas vendas fazem Sony desistir de lançar seus jogos no PC](https://canaltech.com.br/games/baixas-vendas-fazem-sony-desistir-de-lancar-seus-jogos-no-pc/) | topico: geral | score: 100
-- [iPhone 17e, MacBook Neo: Apple lançou 7 produtos e nenhum é acessível de verdade](https://www.tecmundo.com.br/produto/411352-iphone-17e-macbook-neo-apple-lancou-7-produtos-e-nenhum-e-acessivel-de-verdade.htm) | topico: geral | score: 100
-- [Crítica: Com Steve Carell, Rooster trata politicamente correto de forma revigorante](https://www.tecmundo.com.br/minha-serie/603300-critica-com-steve-carell-rooster-trata-politicamente-correto-de-forma-revigorante.htm) | topico: geral | score: 100
-- [Epic Games Store libera dois jogos grátis por tempo limitado nesta quinta (05)! Resgate agora](https://www.tecmundo.com.br/voxel/503696-epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-05-resgate-agora.htm) | topico: geral | score: 100
-- [Headset Gamer JBL Quantum 910 pelo menor preço histórico; confira oportunidade](https://www.tecmundo.com.br/voxel/503699-headset-gamer-jbl-quantum-910-pelo-menor-preco-historico-confira-oportunidade.htm) | topico: geral | score: 100
-- [Realme lança celular com bateria de 10.001 mAh e tela de 144 Hz](https://www.tecmundo.com.br/produto/411348-realme-lanca-celular-com-bateria-de-10001-mah-e-tela-de-144-hz.htm) | topico: produtividade-dev | score: 100
-- [Ar-condicionado Samsung, Hisense e mais em promoção na Semana do Consumidor da Amazon](https://www.tecmundo.com.br/guia-de-compras/411351-ar-condicionado-samsung-hisense-e-mais-em-promocao-na-semana-do-consumidor-da-amazon.htm) | topico: produtividade-dev | score: 100
-- [Play Store agora vai dedurar apps que consomem bateria demais no celular](https://www.tecmundo.com.br/produto/411350-play-store-agora-vai-dedurar-apps-que-consomem-bateria-demais-no-celular.htm) | topico: agentes | score: 100
-- [Amazon lança plataforma de IA para automatizar tarefas administrativas de planos de saúde](https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/amazon-lanca-plataforma-de-ia-para-automatizar-tarefas-administrativas-de-planos-de-saude.htm) | topico: geral | score: 100
-- [Broadcom sobe com previsão de US$100 bilhões em vendas de chips de IA](https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/broadcom-sobe-com-previsao-de-us100-bilhoes-em-vendas-de-chips-de-ia.htm) | topico: geral | score: 100
-- [OpenAI é alvo em processo nos EUA que afirma que ChatGPT atuou como advogado sem licença](https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/openai-e-alvo-em-processo-nos-eua-que-afirma-que-chatgpt-atuou-como-advogado-sem-licenca.htm) | topico: llms | score: 100
-- [BYD apresenta bateria Blade de 2ª geração para reanimar vendas na China](https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/byd-apresenta-bateria-blade-de-2-geracao-para-reanimar-vendas-na-china.htm) | topico: geral | score: 100
+- [Anthropic retoma conversa com os EUA sobre uso militar de sua IA, diz jornal](https://g1.globo.com/tecnologia/noticia/2026/03/05/anthropic-retoma-conversa-com-os-eua-sobre-uso-militar-de-sua-ia-diz-jornal.ghtml) | topico: llms | score: 100
+- [Como saber se o celular foi clonado? Veja como descobrir uma possível clonagem](https://tecnoblog.net/responde/como-saber-se-o-celular-foi-clonado-veja-como-descobrir-uma-possivel-clonagem/) | topico: geral | score: 100
+- [Meta cobrará taxa para aceitar IAs rivais no WhatsApp europeu](https://tecnoblog.net/noticias/meta-cobrara-taxa-para-aceitar-ias-rivais-no-whatsapp-europeu/) | topico: llms | score: 100
+- [Amazon Echo Show 5 com Alexa tem maior desconto em muito tempo no Mês do Consumidor](https://tecnoblog.net/achados/amazon-echo-show-5-com-alexa-tem-maior-desconto-em-muito-tempo-no-mes-do-consumidor/) | topico: produtividade-dev | score: 100
+- [Galaxy Tab S11 Ultra (512 GB) fica mais barato na Amazon no Mês do Consumidor](https://tecnoblog.net/achados/galaxy-tab-s11-ultra-512-gb-fica-mais-barato-na-amazon-no-mes-do-consumidor/) | topico: llms | score: 100
+- [Spyware dos EUA vaza e é usado por hackers para invadir iPhones](https://canaltech.com.br/seguranca/spyware-dos-eua-vaza-e-e-usado-por-hackers-para-invadir-iphones/) | topico: geral | score: 100
+- [Estúdio de MindsEye anuncia mais demissões e alega "sabotagem corporativa"](https://canaltech.com.br/games/estudio-de-mindseye-anuncia-mais-demissoes-e-alega-sabotagem-corporativa/) | topico: geral | score: 100
+- [Por que o Brasil não viu a Lua de Sangue do eclipse de março?](https://canaltech.com.br/espaco/por-que-o-brasil-nao-viu-a-lua-de-sangue-do-eclipse-de-marco/) | topico: produtividade-dev | score: 100
+- [Grupo chinês usa Google Drive para espionar e roubar dados de governos](https://canaltech.com.br/seguranca/grupo-chines-usa-google-drive-para-espionar-e-roubar-dados-de-governos/) | topico: geral | score: 100
+- [SUV de luxo da BYD ganha preço no Brasil, e Song Plus agora é turbo](https://canaltech.com.br/carros/suv-de-luxo-da-byd-ganha-preco-no-brasil-e-song-plus-agora-e-turbo/) | topico: geral | score: 100
+- [NVIDIA não vai mais investir nas donas do ChatGPT e Claude](https://canaltech.com.br/mercado/nvidia-nao-vai-mais-investir-nas-donas-do-chatgpt-e-claude/) | topico: geral | score: 100
+- [O PicPay está fora do ar? Usuários relatam problemas nesta quinta (5)](https://canaltech.com.br/apps/o-picpay-esta-fora-do-ar-usuarios-relatam-problemas-nesta-quinta-5/) | topico: geral | score: 100
+- [O que é a Ambi Social, a rede social brasileira sustentável?](https://canaltech.com.br/apps/o-que-e-a-ambi-social-a-rede-social-brasileira-sustentavel/) | topico: agentes | score: 100
+- ["AirTag da Xiaomi" está chegando ao Brasil; chinesa já pode vender rastreador](https://canaltech.com.br/acessorios/airtag-da-xiaomi-esta-chegando-ao-brasil-chinesa-ja-pode-vender-rastreador/) | topico: produtividade-dev | score: 92
+- [Internet Awards 2025: confira os vencedores de premiação do Reddit](https://www.tecmundo.com.br/redes-sociais/411362-internet-awards-2025-confira-os-vencedores-de-premiacao-do-reddit.htm) | topico: llms | score: 100
+- [Real ou fake? Robô dançando como Van Damme viraliza e deixa internet confusa](https://www.tecmundo.com.br/internet/411346-real-ou-fake-robo-dancando-como-van-damme-viraliza-e-deixa-internet-confusa.htm) | topico: geral | score: 100
+- [Casa Branca usa imagens de Call of Duty para promover guerra do Irã](https://www.tecmundo.com.br/voxel/503697-casa-branca-usa-imagens-de-call-of-duty-para-promover-guerra-do-ira.htm) | topico: geral | score: 100
+- [Notebooks Asus com desconto e cupom no Magazine Luiza: confira as oportunidades](https://www.tecmundo.com.br/guia-de-compras/411360-notebooks-asus-com-desconto-e-cupom-no-magazine-luiza-confira-as-oportunidades.htm) | topico: produtividade-dev | score: 92
+- [Android 16 finalmente ganha modo desktop nativo em parceria com a Samsung](https://www.tecmundo.com.br/software/411357-android-16-finalmente-ganha-modo-desktop-nativo-em-parceria-com-a-samsung.htm) | topico: produtividade-dev | score: 100
+- [FBI fecha LeakBase e expõe anonimato de 142 mil cibercriminosos](https://www.tecmundo.com.br/seguranca/411359-fbi-fecha-leakbase-e-expoe-anonimato-de-142-mil-cibercriminosos.htm) | topico: geral | score: 100
+- [The Boys temporada 5 ganha trailer final com reencontro de Supernatural](https://www.tecmundo.com.br/minha-serie/603297-the-boys-temporada-5-ganha-trailer-final-com-muito-sangue-e-acao.htm) | topico: geral | score: 100
+- [Oracle planeja milhares de demissões diante de disparada de custos com data center, diz Bloomberg](https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/oracle-planeja-milhares-de-demissoes-diante-de-disparada-de-custos-com-data-center-diz-bloomberg.htm) | topico: geral | score: 100
