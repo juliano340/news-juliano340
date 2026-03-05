@@ -1,34 +1,61 @@
 {
-  "generated_at": "2026-03-05T09:01:29.454Z",
+  "generated_at": "2026-03-05T11:03:42.401Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 6,
   "posts": [
     {
-      "title": "Casa conectada: por que a TV está virando o centro da casa inteligente",
-      "slug": "casa-conectada-por-que-a-tv-esta-virando-o-centro-da-casa-inteligente",
+      "title": "TV ao vivo: 3 apps de streaming para assistir canais ao vivo",
+      "slug": "tv-ao-vivo-3-apps-de-streaming-para-assistir-canais-ao-vivo",
       "topic": "geral",
       "source": "Canaltech",
+      "date": "2026-03-05T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/tv-ao-vivo-3-apps-de-streaming-para-assistir-canais-ao-vivo/"
+    },
+    {
+      "title": "Realme lança mais um celular com bateria gigante de 10.001 mAh; veja",
+      "slug": "realme-lanca-mais-um-celular-com-bateria-gigante-de-10001-mah-veja",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-05T10:34:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/realme-lanca-mais-um-celular-com-bateria-gigante-de-10001-mah-veja/"
+    },
+    {
+      "title": "SUVs mais vendidos: híbridos de BYD e GWM entram no top 10 de fevereiro",
+      "slug": "suvs-mais-vendidos-hibridos-de-byd-e-gwm-entram-no-top-10-de-fevereiro",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-05T09:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/suvs-mais-vendidos-hibridos-de-byd-e-gwm-entram-no-top-10-de-fevereiro/"
+    },
+    {
+      "title": "Que horas estreia a oitava temporada de Outlander no Brasil? Veja previsão",
+      "slug": "que-horas-estreia-a-oitava-temporada-de-outlander-no-brasil-veja-previsao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-05T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603281-que-horas-estreia-a-oitava-temporada-de-outlander-no-brasil-veja-previsao.htm"
+    },
+    {
+      "title": "Palpites para Wolverhampton x Liverpool: Análises e Onde Assistir (06/03/2026)",
+      "slug": "palpites-para-wolverhampton-x-liverpool-analises-e-onde-assistir-06032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-05T10:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411313-palpites-para-wolverhampton-x-liverpool-analises-e-onde-assistir-06032026.htm"
+    },
+    {
+      "title": "Palpites para Novo Hamburgo x São Luiz RS: Análises e Onde Assistir (06/03/2026)",
+      "slug": "palpites-para-novo-hamburgo-x-sao-luiz-rs-analises-e-onde-assistir-06032026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
       "date": "2026-03-05T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/casa-conectada-por-que-a-tv-esta-virando-o-centro-da-casa-inteligente-6385/"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (5)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-5-veja-calendario-lunar-de-marco-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-05T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/05/qual-a-fase-da-lua-hoje-5-veja-calendario-lunar-de-marco-de-2026.htm"
-    },
-    {
-      "title": "Por que as deepfakes destroem a realidade como a conhecemos?",
-      "slug": "por-que-as-deepfakes-destroem-a-realidade-como-a-conhecemos",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-05T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/05/por-que-as-deepfakes-destroem-a-realidade-como-a-conhecemos.htm"
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411275-palpites-para-novo-hamburgo-x-sao-luiz-rs-analises-e-onde-assistir-06032026.htm"
     }
   ]
 }
