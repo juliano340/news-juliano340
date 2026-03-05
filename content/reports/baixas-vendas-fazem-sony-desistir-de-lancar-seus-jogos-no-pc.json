@@ -1,6 +1,6 @@
 {
-  "slug": "galaxy-s26-vende-bem-na-america-latina-revela-presidente",
-  "generated_at": "2026-03-05T17:02:34.262Z",
+  "slug": "baixas-vendas-fazem-sony-desistir-de-lancar-seus-jogos-no-pc",
+  "generated_at": "2026-03-05T17:07:32.986Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 335,
+      "words": 369,
       "min": 220
     },
     {

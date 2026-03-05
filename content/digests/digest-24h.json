@@ -1,196 +1,214 @@
 {
-  "generated_at": "2026-03-05T15:13:54.048Z",
+  "generated_at": "2026-03-05T17:12:50.381Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 21,
+  "total": 23,
   "posts": [
     {
-      "title": "Em vitória da Epic Games, Google reduz taxas da Play Store; veja como ficou",
-      "slug": "em-vitoria-da-epic-games-google-reduz-taxas-da-play-store-veja-como-ficou",
+      "title": "Keeta em crise: empresa cancela estreia no Rio e demite funcionários",
+      "slug": "keeta-em-crise-empresa-cancela-estreia-no-rio-e-demite-funcionarios",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-05T13:59:12.000Z",
+      "date": "2026-03-05T16:21:18.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/em-vitoria-da-epic-games-google-reduz-taxas-da-play-store-veja-como-ficou/"
+      "original_url": "https://tecnoblog.net/noticias/keeta-em-crise-empresa-cancela-estreia-no-rio-e-demite-funcionarios/"
     },
     {
-      "title": "Microsoft quer que o Copilot sincronize suas senhas",
-      "slug": "microsoft-quer-que-o-copilot-sincronize-suas-senhas",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-05T13:50:03.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/microsoft-quer-que-o-copilot-sincronize-suas-senhas/"
-    },
-    {
-      "title": "Modo IA do Google poderá gerar documentos, montar listas e até criar apps",
-      "slug": "modo-ia-do-google-podera-gerar-documentos-montar-listas-e-ate-criar-apps",
+      "title": "Nvidia sinaliza que não investirá mais na OpenAI e Anthropic",
+      "slug": "nvidia-sinaliza-que-nao-investira-mais-na-openai-e-anthropic",
       "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-03-05T13:48:33.000Z",
+      "date": "2026-03-05T15:06:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/modo-ia-do-google-podera-gerar-documentos-montar-listas-e-ate-criar-apps/"
+      "original_url": "https://tecnoblog.net/noticias/nvidia-sinaliza-que-nao-investira-mais-na-openai-e-anthropic/"
     },
     {
-      "title": "Keeta faz demissão em massa no Rio de Janeiro após adiar lançamento na cidade",
-      "slug": "keeta-faz-demissao-em-massa-no-rio-de-janeiro-apos-adiar-lancamento-na-cidade",
+      "title": "Mês do Consumidor: Galaxy Watch 7 (44 mm) tem queda de 60% no Mercado Livre",
+      "slug": "mes-do-consumidor-galaxy-watch-7-44-mm-tem-queda-de-60percent-no-mercado-livre",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-05T14:58:40.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-05T15:02:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/keeta-faz-demissao-em-massa-no-rio-de-janeiro-apos-adiar-lancamento-na-cidade/"
+      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-galaxy-watch-7-44-mm-tem-queda-de-60-no-mercado-livre/"
     },
     {
-      "title": "Samsung confirma lançamento de novo baratinho sem querer; entenda",
-      "slug": "samsung-confirma-lancamento-de-novo-baratinho-sem-querer-entenda",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-05T14:52:00.000Z",
+      "title": "Galaxy S26 vende bem na América Latina, revela presidente",
+      "slug": "galaxy-s26-vende-bem-na-america-latina-revela-presidente",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-05T14:39:14.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-confirma-lancamento-de-novo-baratinho-sem-querer-entenda/"
+      "original_url": "https://tecnoblog.net/noticias/galaxy-s26-vende-bem-na-america-latina-revela-vp/"
     },
     {
-      "title": "Epic games alerta: golpe rouba V-bucks por meio de bots no Fortnite",
-      "slug": "epic-games-alerta-golpe-rouba-v-bucks-por-meio-de-bots-no-fortnite",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-05T14:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/epic-games-alerta-golpe-rouba-v-bucks-por-meio-de-bots-no-fortnite/"
-    },
-    {
-      "title": "Pedágio sem cancela terá milhões de multas canceladas; saiba o motivo",
-      "slug": "pedagio-sem-cancela-tera-milhoes-de-multas-canceladas-saiba-o-motivo",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-03-05T14:17:15.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/pedagio-sem-cancela-tera-milhoes-de-multas-canceladas-saiba-o-motivo/"
-    },
-    {
-      "title": "Celular modular que \"vira câmera\" tem detalhes de fotografia revelados",
-      "slug": "celular-modular-que-vira-camera-tem-detalhes-de-fotografia-revelados",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-05T14:07:02.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/celular-modular-que-vira-camera-tem-detalhes-de-fotografia-revelados/"
-    },
-    {
-      "title": "Nissan Versa muda tudo para não “morrer” no Brasil; veja",
-      "slug": "nissan-versa-muda-tudo-para-nao-morrer-no-brasil-veja",
+      "title": "Amazon faz queima de caixa de som gigante da JBL: Boombox 4 no precinho",
+      "slug": "amazon-faz-queima-de-caixa-de-som-gigante-da-jbl-boombox-4-no-precinho",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-05T14:00:00.000Z",
+      "date": "2026-03-05T16:49:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/nissan-versa-muda-tudo-para-nao-morrer-no-brasil-veja/"
+      "original_url": "https://canaltech.com.br/produtos/amazon-faz-queima-de-caixa-de-som-gigante-da-jbl-boombox-4-no-precinho/"
     },
     {
-      "title": "Executivo do Google não descarta lançamento do ‘Android para PC’ ainda neste ano",
-      "slug": "executivo-do-google-nao-descarta-lancamento-do-android-para-pc-ainda-neste-ano",
+      "title": "Governo dos EUA usa Call of Duty para comemorar bombardeio real no Irã",
+      "slug": "governo-dos-eua-usa-call-of-duty-para-comemorar-bombardeio-real-no-ira",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-05T16:41:59.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/governo-dos-eua-usa-call-of-duty-para-comemorar-bombardeio-real-no-ira/"
+    },
+    {
+      "title": "Ubisoft confirma remake de Assassin's Creed IV: Black Flag",
+      "slug": "ubisoft-confirma-remake-de-assassins-creed-iv-black-flag",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-05T16:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/ubisoft-confirma-remake-de-assassins-creed-iv-black-flag/"
+    },
+    {
+      "title": "O componente invisível que está mudando a forma como você dirige em 2026",
+      "slug": "o-componente-invisivel-que-esta-mudando-a-forma-como-voce-dirige-em-2026",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-05T16:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/carros/o-componente-invisivel-que-esta-mudando-a-forma-como-voce-dirige-em-2026/"
+    },
+    {
+      "title": "A Placa do Ano: RX 9070 XT XFX Swift com 16 GB pelo Menor Preço na Kabum!",
+      "slug": "a-placa-do-ano-rx-9070-xt-xfx-swift-com-16-gb-pelo-menor-preco-na-kabum",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-05T15:34:23.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/a-placa-do-ano-rx-9070-xt-xfx-swift-com-16-gb-pelo-menor-preco-na-kabum/"
+    },
+    {
+      "title": "Samsung Wallet ganha suporte a cartões American Express do Bradesco",
+      "slug": "samsung-wallet-ganha-suporte-a-cartoes-american-express-do-bradesco",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-05T15:31:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/samsung-wallet-ganha-suporte-a-cartoes-american-express-do-bradesco/"
+    },
+    {
+      "title": "NotebookLM agora cria vídeos que vão além de um slideshow básico",
+      "slug": "notebooklm-agora-cria-videos-que-vao-alem-de-um-slideshow-basico",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-05T15:22:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/notebooklm-agora-cria-videos-que-vao-alem-de-um-slideshow-basico/"
+    },
+    {
+      "title": "Baixas vendas fazem Sony desistir de lançar seus jogos no PC",
+      "slug": "baixas-vendas-fazem-sony-desistir-de-lancar-seus-jogos-no-pc",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-05T15:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/baixas-vendas-fazem-sony-desistir-de-lancar-seus-jogos-no-pc/"
+    },
+    {
+      "title": "iPhone 17e, MacBook Neo: Apple lançou 7 produtos e nenhum é acessível de verdade",
+      "slug": "iphone-17e-macbook-neo-apple-lancou-7-produtos-e-nenhum-e-acessivel-de-verdade",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-05T17:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411352-iphone-17e-macbook-neo-apple-lancou-7-produtos-e-nenhum-e-acessivel-de-verdade.htm"
+    },
+    {
+      "title": "Crítica: Com Steve Carell, Rooster trata politicamente correto de forma revigorante",
+      "slug": "critica-com-steve-carell-rooster-trata-politicamente-correto-de-forma-revigorante",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-05T16:59:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603300-critica-com-steve-carell-rooster-trata-politicamente-correto-de-forma-revigorante.htm"
+    },
+    {
+      "title": "Epic Games Store libera dois jogos grátis por tempo limitado nesta quinta (05)! Resgate agora",
+      "slug": "epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-05-resgate-agora",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-05T16:15:06.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503696-epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-05-resgate-agora.htm"
+    },
+    {
+      "title": "Headset Gamer JBL Quantum 910 pelo menor preço histórico; confira oportunidade",
+      "slug": "headset-gamer-jbl-quantum-910-pelo-menor-preco-historico-confira-oportunidade",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-05T16:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503699-headset-gamer-jbl-quantum-910-pelo-menor-preco-historico-confira-oportunidade.htm"
+    },
+    {
+      "title": "Realme lança celular com bateria de 10.001 mAh e tela de 144 Hz",
+      "slug": "realme-lanca-celular-com-bateria-de-10001-mah-e-tela-de-144-hz",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-05T13:52:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/executivo-do-google-nao-descarta-lancamento-do-android-para-pc-ainda-neste-ano/"
-    },
-    {
-      "title": "Mercado Livre joga preço do Galaxy S25 FE no chão; veja cupom de desconto",
-      "slug": "mercado-livre-joga-preco-do-galaxy-s25-fe-no-chao-veja-cupom-de-desconto",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-05T13:50:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-joga-preco-do-galaxy-s25-fe-no-chao-veja-cupom-de-desconto/"
-    },
-    {
-      "title": "Hackers transformam Telegram em central de crimes para vender acessos e dados",
-      "slug": "hackers-transformam-telegram-em-central-de-crimes-para-vender-acessos-e-dados",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-05T13:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/hackers-transformam-telegram-em-central-de-crimes-para-vender-acessos-e-dados/"
-    },
-    {
-      "title": "Xiaomi top com mega bateria ganha janela de lançamento; veja o que já sabemos",
-      "slug": "xiaomi-top-com-mega-bateria-ganha-janela-de-lancamento-veja-o-que-ja-sabemos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-05T13:01:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/xiaomi-top-com-mega-bateria-ganha-janela-de-lancamento-veja-o-que-ja-sabemos/"
-    },
-    {
-      "title": "Stanley celebra o Dia da Mulher com seleção especial de copos e garrafas com desconto",
-      "slug": "stanley-celebra-o-dia-da-mulher-com-selecao-especial-de-copos-e-garrafas-com-desconto",
-      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-05T15:06:00.000Z",
+      "date": "2026-03-05T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411344-stanley-celebra-o-dia-da-mulher-com-selecao-especial-de-copos-e-garrafas-com-desconto.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411348-realme-lanca-celular-com-bateria-de-10001-mah-e-tela-de-144-hz.htm"
     },
     {
-      "title": "Possíveis cores e preços dos Galaxy A57 e A37 vazam na internet",
-      "slug": "possiveis-cores-e-precos-dos-galaxy-a57-e-a37-vazam-na-internet",
-      "topic": "geral",
+      "title": "Ar-condicionado Samsung, Hisense e mais em promoção na Semana do Consumidor da Amazon",
+      "slug": "ar-condicionado-samsung-hisense-e-mais-em-promocao-na-semana-do-consumidor-da-amazon",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-05T15:00:00.000Z",
+      "date": "2026-03-05T15:46:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411347-possiveis-cores-e-precos-dos-galaxy-a57-e-a37-vazam-na-internet.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411351-ar-condicionado-samsung-hisense-e-mais-em-promocao-na-semana-do-consumidor-da-amazon.htm"
     },
     {
-      "title": "Air Fryer Philco de 12 litros por apenas R$367 na Shopee; confira oportunidade",
-      "slug": "air-fryer-philco-de-12-litros-por-apenas-rdollar367-na-shopee-confira-oportunidade",
-      "topic": "geral",
+      "title": "Play Store agora vai dedurar apps que consomem bateria demais no celular",
+      "slug": "play-store-agora-vai-dedurar-apps-que-consomem-bateria-demais-no-celular",
+      "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-05T14:16:00.000Z",
+      "date": "2026-03-05T15:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411349-air-fryer-philco-de-12-litros-por-apenas-r367-na-shopee-confira-oportunidade.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411350-play-store-agora-vai-dedurar-apps-que-consomem-bateria-demais-no-celular.htm"
     },
     {
-      "title": "Falando a Real quase mata seu melhor personagem em episódio emocionante",
-      "slug": "falando-a-real-quase-mata-seu-melhor-personagem-em-episodio-emocionante",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T14:15:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603291-falando-a-real-quase-mata-seu-melhor-personagem-em-episodio-emocionante.htm"
-    },
-    {
-      "title": "'Cadê a empresa bilionária?': Keeta faz demissão em massa e funcionários protestam",
-      "slug": "cade-a-empresa-bilionaria-keeta-faz-demissao-em-massa-e-funcionarios-protestam",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411345-cade-a-empresa-bilionaria-keeta-faz-demissao-em-massa-e-funcionarios-protestam.htm"
-    },
-    {
-      "title": "Sem alarde, Ubisoft confirma Assassin's Creed: Black Flag Resynced! Saiba tudo sobre o remake",
-      "slug": "sem-alarde-ubisoft-confirma-assassins-creed-black-flag-resynced-saiba-tudo-sobre-o-remake",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T13:21:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503013-sem-alarde-ubisoft-confirma-assassins-creed-black-flag-resynced-saiba-tudo-sobre-o-remake.htm"
-    },
-    {
-      "title": "Meta permitirá rivais de IA no WhatsApp em tentativa de evitar ação da UE",
-      "slug": "meta-permitira-rivais-de-ia-no-whatsapp-em-tentativa-de-evitar-acao-da-ue",
+      "title": "Amazon lança plataforma de IA para automatizar tarefas administrativas de planos de saúde",
+      "slug": "amazon-lanca-plataforma-de-ia-para-automatizar-tarefas-administrativas-de-planos-de-saude",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-05T13:53:51.000Z",
+      "date": "2026-03-05T16:49:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/meta-permitira-rivais-de-ia-no-whatsapp-em-tentativa-de-evitar-acao-da-ue.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/amazon-lanca-plataforma-de-ia-para-automatizar-tarefas-administrativas-de-planos-de-saude.htm"
     },
     {
-      "title": "Colorido e 'acessível': como é o MacBook Neo, o laptop menos caro da Apple",
-      "slug": "colorido-e-acessivel-como-e-o-macbook-neo-o-laptop-menos-caro-da-apple",
+      "title": "Broadcom sobe com previsão de US$100 bilhões em vendas de chips de IA",
+      "slug": "broadcom-sobe-com-previsao-de-usdollar100-bilhoes-em-vendas-de-chips-de-ia",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-05T13:50:07.000Z",
+      "date": "2026-03-05T16:26:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/flash/?c=f88c20c2c13cc373652b87994f26dd120260305"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/broadcom-sobe-com-previsao-de-us100-bilhoes-em-vendas-de-chips-de-ia.htm"
+    },
+    {
+      "title": "OpenAI é alvo em processo nos EUA que afirma que ChatGPT atuou como advogado sem licença",
+      "slug": "openai-e-alvo-em-processo-nos-eua-que-afirma-que-chatgpt-atuou-como-advogado-sem-licenca",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-05T16:20:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/openai-e-alvo-em-processo-nos-eua-que-afirma-que-chatgpt-atuou-como-advogado-sem-licenca.htm"
+    },
+    {
+      "title": "BYD apresenta bateria Blade de 2ª geração para reanimar vendas na China",
+      "slug": "byd-apresenta-bateria-blade-de-2a-geracao-para-reanimar-vendas-na-china",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-05T16:09:48.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/05/byd-apresenta-bateria-blade-de-2-geracao-para-reanimar-vendas-na-china.htm"
     }
   ]
 }

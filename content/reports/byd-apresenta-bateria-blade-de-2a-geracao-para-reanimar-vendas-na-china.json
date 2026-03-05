@@ -1,6 +1,6 @@
 {
-  "slug": "galaxy-s26-vende-bem-na-america-latina-revela-presidente",
-  "generated_at": "2026-03-05T17:02:34.262Z",
+  "slug": "byd-apresenta-bateria-blade-de-2a-geracao-para-reanimar-vendas-na-china",
+  "generated_at": "2026-03-05T17:12:49.377Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 335,
+      "words": 317,
       "min": 220
     },
     {
