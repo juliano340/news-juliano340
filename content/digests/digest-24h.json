@@ -1,25 +1,79 @@
 {
-  "generated_at": "2026-03-06T09:01:16.915Z",
+  "generated_at": "2026-03-06T11:03:26.333Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 8,
   "posts": [
     {
-      "title": "Youtuber diz não ter R$ 70 mil para pagar condenação por ridicularizar bebê e pede a juiz: 'Por favor, reconsidere'",
-      "slug": "youtuber-diz-nao-ter-rdollar-70-mil-para-pagar-condenacao-por-ridicularizar-bebe-e-pede-a-juiz-por-favor-reconsidere",
+      "title": "O Scroll Lock ativou sozinho? Veja como desativá-lo no seu PC",
+      "slug": "o-scroll-lock-ativou-sozinho-veja-como-desativa-lo-no-seu-pc",
       "topic": "produtividade-dev",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-06T07:01:48.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-06T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/06/youtuber-diz-nao-ter-r-70-mil-para-pagar-condenacao-por-ridicularizar-bebe-e-pede-a-juiz-por-favor-reconsidere.ghtml"
+      "original_url": "https://canaltech.com.br/software/o-scroll-lock-ativou-sozinho-veja-como-desativa-lo-no-seu-pc/"
     },
     {
-      "title": "Samsung traz ao Brasil tela 3D que promete revolucionar vitrines",
-      "slug": "samsung-traz-ao-brasil-tela-3d-que-promete-revolucionar-vitrines",
+      "title": "Projeto de Galaxy Z Flip mais barato aparece em patente; veja",
+      "slug": "projeto-de-galaxy-z-flip-mais-barato-aparece-em-patente-veja",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-06T09:00:00.000Z",
+      "date": "2026-03-06T10:57:26.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/samsung-traz-ao-brasil-tela-3d-que-promete-revolucionar-vitrines-6387/"
+      "original_url": "https://canaltech.com.br/smartphone/projeto-de-galaxy-z-flip-mais-barato-aparece-em-patente-veja/"
+    },
+    {
+      "title": "Motorola Razr 70 vaza por completo; veja detalhes do dobrável",
+      "slug": "motorola-razr-70-vaza-por-completo-veja-detalhes-do-dobravel",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T10:14:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/motorola-razr-70-vaza-por-completo-veja-detalhes-do-dobravel/"
+    },
+    {
+      "title": "3 carros que a Hyundai deve lançar no Brasil em 2026",
+      "slug": "3-carros-que-a-hyundai-deve-lancar-no-brasil-em-2026",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T10:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/3-carros-que-a-hyundai-deve-lancar-no-brasil-em-2026/"
+    },
+    {
+      "title": "Palpites para Bahia x Vitória: Análises e Onde Assistir (07/03/2026)",
+      "slug": "palpites-para-bahia-x-vitoria-analises-e-onde-assistir-07032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-06T11:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411317-palpites-para-bahia-x-vitoria-analises-e-onde-assistir-07032026.htm"
+    },
+    {
+      "title": "Temporada 8 de Outlander: relembre a história antes do final da série",
+      "slug": "temporada-8-de-outlander-relembre-a-historia-antes-do-final-da-serie",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T10:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603290-temporada-8-de-outlander-relembre-a-historia-antes-do-final-da-serie.htm"
+    },
+    {
+      "title": "Palpites para Londrina x Operário-PR: Análises e Onde Assistir (07/03/2026)",
+      "slug": "palpites-para-londrina-x-operario-pr-analises-e-onde-assistir-07032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-06T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411353-palpites-para-londrina-x-operario-pr-analises-e-onde-assistir-07032026.htm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (6)? Veja calendário lunar de março de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-6-veja-calendario-lunar-de-marco-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-06T08:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/06/qual-a-fase-da-lua-hoje-6-veja-calendario-lunar-de-marco-de-2026.htm"
     }
   ]
 }
