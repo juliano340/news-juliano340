@@ -1,79 +1,142 @@
 {
-  "generated_at": "2026-03-06T11:03:26.333Z",
+  "generated_at": "2026-03-06T13:10:08.215Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 15,
   "posts": [
     {
-      "title": "O Scroll Lock ativou sozinho? Veja como desativá-lo no seu PC",
-      "slug": "o-scroll-lock-ativou-sozinho-veja-como-desativa-lo-no-seu-pc",
+      "title": "Indonésia proibirá acesso às redes sociais a menores de 16 anos",
+      "slug": "indonesia-proibira-acesso-as-redes-sociais-a-menores-de-16-anos",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-06T11:00:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-06T12:49:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/o-scroll-lock-ativou-sozinho-veja-como-desativa-lo-no-seu-pc/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/06/indonesia-proibira-acesso-as-redes-sociais-a-menores-de-16-anos.ghtml"
     },
     {
-      "title": "Projeto de Galaxy Z Flip mais barato aparece em patente; veja",
-      "slug": "projeto-de-galaxy-z-flip-mais-barato-aparece-em-patente-veja",
+      "title": "LibreOffice critica União Europeia por usar Excel em consulta pública",
+      "slug": "libreoffice-critica-uniao-europeia-por-usar-excel-em-consulta-publica",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-06T12:04:01.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/libreoffice-critica-uniao-europeia-por-usar-excel-em-consulta-publica/"
+    },
+    {
+      "title": "Excel ganha integração com o ChatGPT para te ajudar a editar planilhas com IA",
+      "slug": "excel-ganha-integracao-com-o-chatgpt-para-te-ajudar-a-editar-planilhas-com-ia",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-06T12:43:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/software/excel-ganha-integracao-com-o-chatgpt-para-te-ajudar-a-editar-planilhas-com-ia/"
+    },
+    {
+      "title": "E-mails de phishing de falso suporte do LastPass roubam senhas de usuários",
+      "slug": "e-mails-de-phishing-de-falso-suporte-do-lastpass-roubam-senhas-de-usuarios",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-06T10:57:26.000Z",
+      "date": "2026-03-06T12:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/projeto-de-galaxy-z-flip-mais-barato-aparece-em-patente-veja/"
+      "original_url": "https://canaltech.com.br/seguranca/e-mails-de-phishing-de-falso-suporte-do-lastpass-roubam-senhas-de-usuarios/"
     },
     {
-      "title": "Motorola Razr 70 vaza por completo; veja detalhes do dobrável",
-      "slug": "motorola-razr-70-vaza-por-completo-veja-detalhes-do-dobravel",
+      "title": "Quais as melhores IAs para criar apps no Android? Google responde",
+      "slug": "quais-as-melhores-ias-para-criar-apps-no-android-google-responde",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-06T12:31:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/quais-as-melhores-ias-para-criar-apps-no-android-google-responde/"
+    },
+    {
+      "title": "Galaxy S26 vende como água após Samsung fazer upgrades de hardware; entenda",
+      "slug": "galaxy-s26-vende-como-agua-apos-samsung-fazer-upgrades-de-hardware-entenda",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-06T10:14:53.000Z",
+      "date": "2026-03-06T12:08:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/motorola-razr-70-vaza-por-completo-veja-detalhes-do-dobravel/"
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-vende-como-agua-apos-samsung-fazer-upgrades-de-hardware-entenda/"
     },
     {
-      "title": "3 carros que a Hyundai deve lançar no Brasil em 2026",
-      "slug": "3-carros-que-a-hyundai-deve-lancar-no-brasil-em-2026",
+      "title": "Volkswagen Tukan: nova picape será eletrificada e não substituirá a Saveiro",
+      "slug": "volkswagen-tukan-nova-picape-sera-eletrificada-e-nao-substituira-a-saveiro",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-06T10:05:00.000Z",
+      "date": "2026-03-06T12:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/3-carros-que-a-hyundai-deve-lancar-no-brasil-em-2026/"
+      "original_url": "https://canaltech.com.br/carros/volkswagen-tukan-nova-picape-sera-eletrificada-e-nao-substituira-a-saveiro/"
     },
     {
-      "title": "Palpites para Bahia x Vitória: Análises e Onde Assistir (07/03/2026)",
-      "slug": "palpites-para-bahia-x-vitoria-analises-e-onde-assistir-07032026",
-      "topic": "seguranca-ia",
+      "title": "Como funciona o Globoplay? Confira planos, recursos e canais",
+      "slug": "como-funciona-o-globoplay-confira-planos-recursos-e-canais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-funciona-o-globoplay-confira-planos-recursos-e-canais/"
+    },
+    {
+      "title": "Vazam detalhes de desempenho do Poco X8 Pro Max; confira",
+      "slug": "vazam-detalhes-de-desempenho-do-poco-x8-pro-max-confira",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T11:50:24.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/vazam-detalhes-de-desempenho-do-poco-x8-pro-max-confira/"
+    },
+    {
+      "title": "Sabia que os funcionários do TikTok podem ler suas mensagens privadas no app?",
+      "slug": "sabia-que-os-funcionarios-do-tiktok-podem-ler-suas-mensagens-privadas-no-app",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T11:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/sabia-que-os-funcionarios-do-tiktok-podem-ler-suas-mensagens-privadas-no-app/"
+    },
+    {
+      "title": "Escândalo na Meta: óculos Ray-Ban gravam e vazam vídeos íntimos dos usuários",
+      "slug": "escandalo-na-meta-oculos-ray-ban-gravam-e-vazam-videos-intimos-dos-usuarios",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T11:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/escandalo-na-meta-oculos-ray-ban-gravam-e-vazam-videos-intimos-dos-usuarios/"
+    },
+    {
+      "title": "Pay Day no Magazine Luiza: eletrônicos e eletroportáteis com até 60% OFF e cupons",
+      "slug": "pay-day-no-magazine-luiza-eletronicos-e-eletroportateis-com-ate-60percent-off-e-cupons",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-06T11:00:00.000Z",
+      "date": "2026-03-06T13:06:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411317-palpites-para-bahia-x-vitoria-analises-e-onde-assistir-07032026.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411374-pay-day-no-magazine-luiza-eletronicos-e-eletroportateis-com-ate-60-off-e-cupons.htm"
     },
     {
-      "title": "Temporada 8 de Outlander: relembre a história antes do final da série",
-      "slug": "temporada-8-de-outlander-relembre-a-historia-antes-do-final-da-serie",
+      "title": "O Brasil deve proibir redes sociais para menores? Confira argumentos prós e contras",
+      "slug": "o-brasil-deve-proibir-redes-sociais-para-menores-confira-argumentos-pros-e-contras",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-06T10:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603290-temporada-8-de-outlander-relembre-a-historia-antes-do-final-da-serie.htm"
+      "date": "2026-03-06T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411358-o-brasil-deve-proibir-redes-sociais-para-menores-confira-argumentos-pros-e-contras.htm"
     },
     {
-      "title": "Palpites para Londrina x Operário-PR: Análises e Onde Assistir (07/03/2026)",
-      "slug": "palpites-para-londrina-x-operario-pr-analises-e-onde-assistir-07032026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-06T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411353-palpites-para-londrina-x-operario-pr-analises-e-onde-assistir-07032026.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (6)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-6-veja-calendario-lunar-de-marco-de-2026",
+      "title": "Empresa de Bill Gates obtém licença para construir reator nuclear nos EUA",
+      "slug": "empresa-de-bill-gates-obtem-licenca-para-construir-reator-nuclear-nos-eua",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-06T08:30:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-06T12:54:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411371-empresa-de-bill-gates-obtem-licenca-para-construir-reator-nuclear-nos-eua.htm"
+    },
+    {
+      "title": "Quem é o Tofu? Conheça o personagem secreto de Resident Evil Requiem",
+      "slug": "quem-e-o-tofu-conheca-o-personagem-secreto-de-resident-evil-requiem",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T11:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/06/qual-a-fase-da-lua-hoje-6-veja-calendario-lunar-de-marco-de-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503680-quem-e-o-tofu-conheca-o-personagem-secreto-de-resident-evil-requiem.htm"
     }
   ]
 }
