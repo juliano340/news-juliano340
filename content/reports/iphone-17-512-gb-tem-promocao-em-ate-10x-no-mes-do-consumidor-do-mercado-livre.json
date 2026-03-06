@@ -1,6 +1,6 @@
 {
-  "slug": "bb-libera-pix-na-argentina-com-pagamentos-via-qr-code",
-  "generated_at": "2026-03-06T21:10:58.153Z",
+  "slug": "iphone-17-512-gb-tem-promocao-em-ate-10x-no-mes-do-consumidor-do-mercado-livre",
+  "generated_at": "2026-03-06T21:02:58.285Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 338,
       "min": 220
     },
     {

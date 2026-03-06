@@ -1,6 +1,6 @@
 {
-  "slug": "bb-libera-pix-na-argentina-com-pagamentos-via-qr-code",
-  "generated_at": "2026-03-06T21:10:58.153Z",
+  "slug": "volkswagen-joga-no-chao-preco-da-saveiro-para-enfrentar-fiat-strada",
+  "generated_at": "2026-03-06T21:05:47.979Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 326,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "bb-libera-pix-na-argentina-com-pagamentos-via-qr-code",
-  "generated_at": "2026-03-06T21:10:58.153Z",
+  "slug": "huawei-watch-fit-4-despenca-51percent-em-oferta-no-mes-do-consumidor-na-amazon",
+  "generated_at": "2026-03-06T21:00:35.597Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 390,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "bb-libera-pix-na-argentina-com-pagamentos-via-qr-code",
-  "generated_at": "2026-03-06T21:10:58.153Z",
+  "slug": "pikachu-maga-pokemon-compra-briga-com-trump-apos-uso-indevido-de-imagem",
+  "generated_at": "2026-03-06T21:04:33.136Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 313,
       "min": 220
     },
     {

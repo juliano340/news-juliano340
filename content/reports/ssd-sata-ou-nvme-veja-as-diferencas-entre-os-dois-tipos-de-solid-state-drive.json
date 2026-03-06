@@ -1,6 +1,6 @@
 {
-  "slug": "bb-libera-pix-na-argentina-com-pagamentos-via-qr-code",
-  "generated_at": "2026-03-06T21:10:58.153Z",
+  "slug": "ssd-sata-ou-nvme-veja-as-diferencas-entre-os-dois-tipos-de-solid-state-drive",
+  "generated_at": "2026-03-06T21:01:16.607Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 347,
+      "words": 367,
       "min": 220
     },
     {

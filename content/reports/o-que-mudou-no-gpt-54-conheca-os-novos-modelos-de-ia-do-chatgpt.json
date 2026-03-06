@@ -1,0 +1,19 @@
+{
+  "slug": "o-que-mudou-no-gpt-54-conheca-os-novos-modelos-de-ia-do-chatgpt",
+  "generated_at": "2026-03-06T21:07:38.966Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
