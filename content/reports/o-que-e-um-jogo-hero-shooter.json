@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-razr-70-tem-especificacoes-vazadas-por-orgao-regulador-chines-confira",
-  "generated_at": "2026-03-06T19:19:05.741Z",
+  "slug": "o-que-e-um-jogo-hero-shooter",
+  "generated_at": "2026-03-06T19:10:28.609Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 253,
+      "words": 369,
       "min": 220
     },
     {

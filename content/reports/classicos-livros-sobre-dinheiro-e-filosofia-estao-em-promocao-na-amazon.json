@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-razr-70-tem-especificacoes-vazadas-por-orgao-regulador-chines-confira",
-  "generated_at": "2026-03-06T19:19:05.741Z",
+  "slug": "classicos-livros-sobre-dinheiro-e-filosofia-estao-em-promocao-na-amazon",
+  "generated_at": "2026-03-06T19:16:38.019Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 253,
+      "words": 338,
       "min": 220
     },
     {

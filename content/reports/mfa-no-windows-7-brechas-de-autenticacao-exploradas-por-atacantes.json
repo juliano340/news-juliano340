@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-razr-70-tem-especificacoes-vazadas-por-orgao-regulador-chines-confira",
-  "generated_at": "2026-03-06T19:19:05.741Z",
+  "slug": "mfa-no-windows-7-brechas-de-autenticacao-exploradas-por-atacantes",
+  "generated_at": "2026-03-06T19:14:20.734Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 253,
+      "words": 269,
       "min": 220
     },
     {

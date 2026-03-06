@@ -1,6 +1,6 @@
 {
   "slug": "nova-ultrafibra-da-tim-agora-entrega-wifi-7-em-todo-o-brasil-veja-o-que-muda",
-  "generated_at": "2026-03-06T17:09:09.764Z",
+  "generated_at": "2026-03-06T19:11:13.656Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 311,
+      "words": 362,
       "min": 220
     },
     {

@@ -1,142 +1,178 @@
 {
-  "generated_at": "2026-03-06T17:24:16.489Z",
+  "generated_at": "2026-03-06T19:21:48.732Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 15,
+  "total": 19,
   "posts": [
     {
-      "title": "Garmin Forerunner 55 tem oferta imbatível com 46% OFF no Mês do Consumidor",
-      "slug": "garmin-forerunner-55-tem-oferta-imbativel-com-46percent-off-no-mes-do-consumidor",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T16:04:18.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-55-tem-oferta-imbativel-com-46-off-no-mes-do-consumidor/"
-    },
-    {
-      "title": "Instagram não vai mais exigir senha para alternar entre perfis da mesma Central de Contas",
-      "slug": "instagram-nao-vai-mais-exigir-senha-para-alternar-entre-perfis-da-mesma-central-de-contas",
+      "title": "iPhone 16e custa 43% menos que iPhone 17e com cupom no Mês do Consumidor",
+      "slug": "iphone-16e-custa-43percent-menos-que-iphone-17e-com-cupom-no-mes-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-06T15:00:26.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/instagram-nao-vai-mais-exigir-senha-para-alternar-entre-perfis-da-mesma-central-de-contas/"
+      "date": "2026-03-06T18:38:01.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-16e-custa-43-menos-que-iphone-17e-com-cupom-no-mes-do-consumidor/"
     },
     {
-      "title": "Por que os jogos do PlayStation fracassaram no PC?",
-      "slug": "por-que-os-jogos-do-playstation-fracassaram-no-pc",
+      "title": "Mac Studio de 512 GB de RAM some e versão de 256 GB fica mais cara",
+      "slug": "mac-studio-de-512-gb-de-ram-some-e-versao-de-256-gb-fica-mais-cara",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-06T18:18:34.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/mac-studio-de-512-gb-de-ram-some-e-versao-de-256-gb-fica-mais-cara/"
+    },
+    {
+      "title": "Galaxy Buds 3 fica 56% mais barato que Galaxy Buds 4 no Mês do Consumidor",
+      "slug": "galaxy-buds-3-fica-56percent-mais-barato-que-galaxy-buds-4-no-mes-do-consumidor",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-06T17:30:43.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/galaxy-buds-3-fica-56-mais-barato-que-galaxy-buds-4-no-mes-do-consumidor/"
+    },
+    {
+      "title": "Mês do Consumidor: Motorola Edge 60 Fusion (256 GB) cai 43% com cupom na Amazon",
+      "slug": "mes-do-consumidor-motorola-edge-60-fusion-256-gb-cai-43percent-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-06T17:25:06.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-motorola-edge-60-fusion-256-gb-cai-43-com-cupom-na-amazon/"
+    },
+    {
+      "title": "Por que os jogos de PS5 continuam sendo os mais caros do mercado brasileiro?",
+      "slug": "por-que-os-jogos-de-ps5-continuam-sendo-os-mais-caros-do-mercado-brasileiro",
       "topic": "geral",
       "source": "Canaltech",
+      "date": "2026-03-06T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/por-que-os-jogos-de-ps5-continuam-sendo-os-mais-caros-do-mercado-brasileiro/"
+    },
+    {
+      "title": "TVs Samsung ganham novidade para Copa do Mundo; veja modelos compatíveis",
+      "slug": "tvs-samsung-ganham-novidade-para-copa-do-mundo-veja-modelos-compativeis",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-06T18:49:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/tv/tvs-samsung-ganham-novidade-para-copa-do-mundo-veja-modelos-compativeis/"
+    },
+    {
+      "title": "COD: Black Ops 7 e mais 5 jogos grátis que valem seu tempo neste fim de semana",
+      "slug": "cod-black-ops-7-e-mais-5-jogos-gratis-que-valem-seu-tempo-neste-fim-de-semana",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T18:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/cod-black-ops-7-e-mais-5-jogos-gratis-que-valem-seu-tempo-neste-fim-de-semana/"
+    },
+    {
+      "title": "Novo carro elétrico chinês de luxo rompe barreira dos 1.000 km por carga",
+      "slug": "novo-carro-eletrico-chines-de-luxo-rompe-barreira-dos-1000-km-por-carga",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/novo-carro-eletrico-chines-de-luxo-rompe-barreira-dos-1000-km-por-carga/"
+    },
+    {
+      "title": "O que é um jogo hero shooter?",
+      "slug": "o-que-e-um-jogo-hero-shooter",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/o-que-e-um-jogo-hero-shooter/"
+    },
+    {
+      "title": "MFA no Windows: 7 brechas de autenticação exploradas por atacantes",
+      "slug": "mfa-no-windows-7-brechas-de-autenticacao-exploradas-por-atacantes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T18:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411369-mfa-no-windows-7-brechas-de-autenticacao-exploradas-por-atacantes.htm"
+    },
+    {
+      "title": "EUA usam cenas de Top Gun e até Breaking Bad para promover guerra contra Irã",
+      "slug": "eua-usam-cenas-de-top-gun-e-ate-breaking-bad-para-promover-guerra-contra-ira",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T18:15:26.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603316-eua-usam-cenas-de-top-gun-e-ate-breaking-bad-para-promover-guerra-contra-ira.htm"
+    },
+    {
+      "title": "Clássicos, livros sobre dinheiro e filosofia estão em promoção na Amazon",
+      "slug": "classicos-livros-sobre-dinheiro-e-filosofia-estao-em-promocao-na-amazon",
+      "topic": "frameworks",
+      "source": "Tecmundo",
+      "date": "2026-03-06T18:09:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411392-classicos-livros-sobre-dinheiro-e-filosofia-estao-em-promocao-na-amazon.htm"
+    },
+    {
+      "title": "Anthropic listada como 'risco para a cadeia de suprimentos' após impasse com o Pentágono",
+      "slug": "anthropic-listada-como-risco-para-a-cadeia-de-suprimentos-apos-impasse-com-o-pentagono",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411380-anthropic-listada-como-risco-para-a-cadeia-de-suprimentos-apos-impasse-com-o-pentagono.htm"
+    },
+    {
+      "title": "Capcom muda data de lançamento de Pragmata, que chega mais cedo",
+      "slug": "capcom-muda-data-de-lancamento-de-pragmata-que-chega-mais-cedo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T17:15:13.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503707-capcom-muda-data-de-lancamento-de-pragmata-que-chega-mais-cedo.htm"
+    },
+    {
+      "title": "Motorola Razr 70 tem especificações vazadas por órgão regulador chinês; confira",
+      "slug": "motorola-razr-70-tem-especificacoes-vazadas-por-orgao-regulador-chines-confira",
+      "topic": "geral",
+      "source": "Tecmundo",
       "date": "2026-03-06T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/por-que-os-jogos-do-playstation-fracassaram-no-pc/"
+      "original_url": "https://www.tecmundo.com.br/produto/411382-motorola-razr-70-tem-especificacoes-vazadas-por-orgao-regulador-chines-confira.htm"
     },
     {
-      "title": "Codex ganha app para Windows; veja como baixar",
-      "slug": "codex-ganha-app-para-windows-veja-como-baixar",
+      "title": "Pentágono contrata ex-funcionário do DOGE para liderar esforços de IA",
+      "slug": "pentagono-contrata-ex-funcionario-do-doge-para-liderar-esforcos-de-ia",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-06T16:34:32.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-06T18:52:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/codex-ganha-app-para-windows-veja-como-baixar/"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/06/pentagono-contrata-ex-funcionario-do-doge-para-liderar-esforcos-de-ia.htm"
     },
     {
-      "title": "Quanto você economiza trazendo um iPhone do Paraguai? Nós fizemos as contas",
-      "slug": "quanto-voce-economiza-trazendo-um-iphone-do-paraguai-nos-fizemos-as-contas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T16:10:57.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/quanto-voce-economiza-trazendo-um-iphone-do-paraguai-nos-fizemos-as-contas/"
-    },
-    {
-      "title": "Como funcionam as mensagens de visualização única do WhatsApp?",
-      "slug": "como-funcionam-as-mensagens-de-visualizacao-unica-do-whatsapp",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-06T16:05:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-funcionam-as-mensagens-de-visualizacao-unica-do-whatsapp/"
-    },
-    {
-      "title": "Embraer, universidades e startups aceleram projeto de carros voadores no Brasil",
-      "slug": "embraer-universidades-e-startups-aceleram-projeto-de-carros-voadores-no-brasil",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-06T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/embraer-universidades-e-startups-aceleram-projeto-de-carros-voadores-no-brasil/"
-    },
-    {
-      "title": "Capcom surpreende, antecipa Pragmata e lança trailer épico; veja nova data",
-      "slug": "capcom-surpreende-antecipa-pragmata-e-lanca-trailer-epico-veja-nova-data",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T15:09:55.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/capcom-surpreende-antecipa-pragmata-e-lanca-trailer-epico-veja-nova-data/"
-    },
-    {
-      "title": "Apple recebe autorização para lançar \"iPhone barato\" no Brasil; veja os preços",
-      "slug": "apple-recebe-autorizacao-para-lancar-iphone-barato-no-brasil-veja-os-precos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T15:06:46.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/apple-recebe-autorizacao-para-lancar-iphone-barato-no-brasil-veja-os-precos/"
-    },
-    {
-      "title": "Ted Lasso Temporada 4: Veja novo teaser, elenco e tudo sobre a produção",
-      "slug": "ted-lasso-temporada-4-veja-novo-teaser-elenco-e-tudo-sobre-a-producao",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T17:07:56.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/601742-ted-lasso-temporada-4-veja-primeiro-teaser-elenco-e-tudo-sobre-a-producao.htm"
-    },
-    {
-      "title": "Smart TVs de 43\" a partir de R$1.199 no Mercado Livre; confira as oportunidades",
-      "slug": "smart-tvs-de-43-a-partir-de-rdollar1199-no-mercado-livre-confira-as-oportunidades",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T17:03:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411395-smart-tvs-de-43-a-partir-de-r1199-no-mercado-livre-confira-as-oportunidades.htm"
-    },
-    {
-      "title": "Amazon atualiza app do Fire TV para celular com nova interface",
-      "slug": "amazon-atualiza-app-do-fire-tv-para-celular-com-nova-interface",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T16:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411377-amazon-atualiza-app-do-fire-tv-para-celular-com-nova-interface.htm"
-    },
-    {
-      "title": "30 melhores ofertas em eletrônicos da Semana do Consumidor na Amazon",
-      "slug": "30-melhores-ofertas-em-eletronicos-da-semana-do-consumidor-na-amazon",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T15:16:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411372-30-melhores-ofertas-em-eletronicos-da-semana-do-consumidor-na-amazon.htm"
-    },
-    {
-      "title": "Cillian Murphy não voltará ao papel de Tommy Shelby após Peaky Blinders: O Homem Imortal",
-      "slug": "cillian-murphy-nao-voltara-ao-papel-de-tommy-shelby-apos-peaky-blinders-o-homem-imortal",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T15:15:38.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603311-cillian-murphy-nao-voltara-ao-papel-de-tommy-shelby-apos-peaky-blinders-o-homem-imortal.htm"
-    },
-    {
-      "title": "Golpe do CPF cancelado: criminosos cobram regularização via Pix no WhatsApp",
-      "slug": "golpe-do-cpf-cancelado-criminosos-cobram-regularizacao-via-pix-no-whatsapp",
+      "title": "Nexperia China retoma maior parte das operações após interrupções",
+      "slug": "nexperia-china-retoma-maior-parte-das-operacoes-apos-interrupcoes",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-06T16:31:21.000Z",
+      "date": "2026-03-06T18:40:42.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/06/nexperia-china-retoma-maior-parte-das-operacoes-apos-interrupcoes.htm"
+    },
+    {
+      "title": "Maior economia provincial da China promete remodelar indústria com IA",
+      "slug": "maior-economia-provincial-da-china-promete-remodelar-industria-com-ia",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-06T18:17:31.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/06/golpe-cpf-cancelado.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/06/maior-economia-provincial-da-china-promete-remodelar-industria-com-ia.htm"
+    },
+    {
+      "title": "O que os astronautas da Artemis 2 vão comer na missão à órbita da Lua",
+      "slug": "o-que-os-astronautas-da-artemis-2-vao-comer-na-missao-a-orbita-da-lua",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-06T16:45:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/03/06/o-que-os-astronautas-vao-comer-na-missao-a-orbita-da-lua.htm"
     }
   ]
 }

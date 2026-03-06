@@ -1,7 +1,7 @@
 {
-  "slug": "motorola-razr-70-tem-especificacoes-vazadas-por-orgao-regulador-chines-confira",
-  "generated_at": "2026-03-06T19:19:05.741Z",
-  "status": "PASS",
+  "slug": "nexperia-china-retoma-maior-parte-das-operacoes-apos-interrupcoes",
+  "generated_at": "2026-03-06T19:20:19.186Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 253,
+      "words": 250,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [
