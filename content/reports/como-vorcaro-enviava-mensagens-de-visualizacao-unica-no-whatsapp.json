@@ -1,6 +1,6 @@
 {
-  "slug": "operacao-da-anatel-contra-internet-pirata-prende-seis-pessoas",
-  "generated_at": "2026-03-06T17:03:18.132Z",
+  "slug": "como-vorcaro-enviava-mensagens-de-visualizacao-unica-no-whatsapp",
+  "generated_at": "2026-03-06T17:21:01.379Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 313,
+      "words": 285,
       "min": 220
     },
     {

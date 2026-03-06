@@ -1,223 +1,142 @@
 {
-  "generated_at": "2026-03-06T15:29:10.011Z",
+  "generated_at": "2026-03-06T17:24:16.489Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 24,
+  "total": 15,
   "posts": [
     {
-      "title": "Google Play Store já avisa se app consome bateria em excesso",
-      "slug": "google-play-store-ja-avisa-se-app-consome-bateria-em-excesso",
+      "title": "Garmin Forerunner 55 tem oferta imbatível com 46% OFF no Mês do Consumidor",
+      "slug": "garmin-forerunner-55-tem-oferta-imbativel-com-46percent-off-no-mes-do-consumidor",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-06T16:04:18.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-55-tem-oferta-imbativel-com-46-off-no-mes-do-consumidor/"
+    },
+    {
+      "title": "Instagram não vai mais exigir senha para alternar entre perfis da mesma Central de Contas",
+      "slug": "instagram-nao-vai-mais-exigir-senha-para-alternar-entre-perfis-da-mesma-central-de-contas",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-06T15:00:26.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/instagram-nao-vai-mais-exigir-senha-para-alternar-entre-perfis-da-mesma-central-de-contas/"
+    },
+    {
+      "title": "Por que os jogos do PlayStation fracassaram no PC?",
+      "slug": "por-que-os-jogos-do-playstation-fracassaram-no-pc",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-06T17:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/por-que-os-jogos-do-playstation-fracassaram-no-pc/"
+    },
+    {
+      "title": "Codex ganha app para Windows; veja como baixar",
+      "slug": "codex-ganha-app-para-windows-veja-como-baixar",
       "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T14:48:31.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/google-play-store-ja-avisa-se-app-consome-bateria-em-excesso/"
+      "source": "Canaltech",
+      "date": "2026-03-06T16:34:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/software/codex-ganha-app-para-windows-veja-como-baixar/"
     },
     {
-      "title": "Galaxy S25 FE atinge menor preço histórico com cupom no Mês do Consumidor",
-      "slug": "galaxy-s25-fe-atinge-menor-preco-historico-com-cupom-no-mes-do-consumidor",
+      "title": "Quanto você economiza trazendo um iPhone do Paraguai? Nós fizemos as contas",
+      "slug": "quanto-voce-economiza-trazendo-um-iphone-do-paraguai-nos-fizemos-as-contas",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T14:45:09.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-06T16:10:57.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-fe-atinge-menor-preco-historico-com-cupom-no-mes-do-consumidor/"
+      "original_url": "https://canaltech.com.br/smartphone/quanto-voce-economiza-trazendo-um-iphone-do-paraguai-nos-fizemos-as-contas/"
     },
     {
-      "title": "Mês do Consumidor: Galaxy S25 (256 GB) está 52% mais em conta que S26 no Magalu",
-      "slug": "mes-do-consumidor-galaxy-s25-256-gb-esta-52percent-mais-em-conta-que-s26-no-magalu",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T14:18:25.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-galaxy-s25-256-gb-esta-52-mais-em-conta-que-s26-no-magalu/"
-    },
-    {
-      "title": "Amazon faz queima de fone de ouvido sem fio da Philips; preço abaixo dos R$ 140",
-      "slug": "amazon-faz-queima-de-fone-de-ouvido-sem-fio-da-philips-preco-abaixo-dos-rdollar-140",
+      "title": "Como funcionam as mensagens de visualização única do WhatsApp?",
+      "slug": "como-funcionam-as-mensagens-de-visualizacao-unica-do-whatsapp",
       "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-03-06T14:59:04.000Z",
+      "date": "2026-03-06T16:05:44.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/fone-de-ouvido/amazon-faz-queima-de-fone-de-ouvido-sem-fio-da-philips-preco-abaixo-dos-r-140/"
+      "original_url": "https://canaltech.com.br/apps/como-funcionam-as-mensagens-de-visualizacao-unica-do-whatsapp/"
     },
     {
-      "title": "WhatsApp libera IA de terceiros novamente no Brasil após nova decisão do Cade",
-      "slug": "whatsapp-libera-ia-de-terceiros-novamente-no-brasil-apos-nova-decisao-do-cade",
+      "title": "Embraer, universidades e startups aceleram projeto de carros voadores no Brasil",
+      "slug": "embraer-universidades-e-startups-aceleram-projeto-de-carros-voadores-no-brasil",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-06T16:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/embraer-universidades-e-startups-aceleram-projeto-de-carros-voadores-no-brasil/"
+    },
+    {
+      "title": "Capcom surpreende, antecipa Pragmata e lança trailer épico; veja nova data",
+      "slug": "capcom-surpreende-antecipa-pragmata-e-lanca-trailer-epico-veja-nova-data",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-06T14:58:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/whatsapp-libera-ia-de-terceiros-novamente-no-brasil-apos-nova-decisao-do-cade/"
-    },
-    {
-      "title": "Forza Horizon 6 acelera pelo Japão em nova gameplay; assista",
-      "slug": "forza-horizon-6-acelera-pelo-japao-em-nova-gameplay-assista",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T14:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/forza-horizon-6-acelera-pelo-japao-em-nova-gameplay-assista/"
-    },
-    {
-      "title": "Alura oferece curso grátis para imersão em front-end com foco em IA",
-      "slug": "alura-oferece-curso-gratis-para-imersao-em-front-end-com-foco-em-ia",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T14:16:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/alura-oferece-curso-gratis-para-imersao-em-front-end-com-foco-em-ia/"
-    },
-    {
-      "title": "Medida inédita: EUA classificam Anthropic como 'risco à cadeia de suprimentos'",
-      "slug": "medida-inedita-eua-classificam-anthropic-como-risco-a-cadeia-de-suprimentos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T14:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/medida-inedita-eua-classificam-anthropic-como-risco-a-cadeia-de-suprimentos/"
-    },
-    {
-      "title": "Galaxy S26 Ultra traz evoluções significativas para os celulares da Samsung",
-      "slug": "galaxy-s26-ultra-traz-evolucoes-significativas-para-os-celulares-da-samsung",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-06T14:09:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produto/samsung/galaxy-s26-ultra/analise/"
-    },
-    {
-      "title": "Sua rede está sendo usada contra você, avisa relatório anual da Cloudflare",
-      "slug": "sua-rede-esta-sendo-usada-contra-voce-avisa-relatorio-anual-da-cloudflare",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T14:00:00.000Z",
+      "date": "2026-03-06T15:09:55.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/seguranca/sua-rede-esta-sendo-usada-contra-voce-avisa-relatorio-anual-da-cloudflare/"
+      "original_url": "https://canaltech.com.br/games/capcom-surpreende-antecipa-pragmata-e-lanca-trailer-epico-veja-nova-data/"
     },
     {
-      "title": "Golf elétrico vem aí; saiba quando ele chega",
-      "slug": "golf-eletrico-vem-ai-saiba-quando-ele-chega",
+      "title": "Apple recebe autorização para lançar \"iPhone barato\" no Brasil; veja os preços",
+      "slug": "apple-recebe-autorizacao-para-lancar-iphone-barato-no-brasil-veja-os-precos",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-06T13:55:00.000Z",
+      "date": "2026-03-06T15:06:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/golf-eletrico-vem-ai-saiba-quando-ele-chega/"
+      "original_url": "https://canaltech.com.br/smartphone/apple-recebe-autorizacao-para-lancar-iphone-barato-no-brasil-veja-os-precos/"
     },
     {
-      "title": "Pegue a lupa para ver: LG UltraGear 24\" 144Hz está com preço microscópico no PIX",
-      "slug": "pegue-a-lupa-para-ver-lg-ultragear-24-144hz-esta-com-preco-microscopico-no-pix",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T13:54:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/pegue-a-lupa-para-ver-lg-ultragear-24-144hz-esta-com-preco-microscopico-no-pix/"
-    },
-    {
-      "title": "Óculos inteligentes da Samsung terão câmera e chegam ainda em 2026",
-      "slug": "oculos-inteligentes-da-samsung-terao-camera-e-chegam-ainda-em-2026",
+      "title": "Ted Lasso Temporada 4: Veja novo teaser, elenco e tudo sobre a produção",
+      "slug": "ted-lasso-temporada-4-veja-novo-teaser-elenco-e-tudo-sobre-a-producao",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-06T15:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411379-oculos-inteligentes-da-samsung-terao-camera-e-chegam-ainda-em-2026.htm"
-    },
-    {
-      "title": "EUA pode exigir permissão para vender chips de IA até aos países aliados",
-      "slug": "eua-pode-exigir-permissao-para-vender-chips-de-ia-ate-aos-paises-aliados",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T14:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411378-eua-pode-exigir-permissao-para-vender-chips-de-ia-ate-aos-paises-aliados.htm"
-    },
-    {
-      "title": "Meu PC roda Slay The Spire 2? Veja requisitos, preço e tudo sobre o jogo",
-      "slug": "meu-pc-roda-slay-the-spire-2-veja-requisitos-preco-e-tudo-sobre-o-jogo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T14:15:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503706-meu-pc-roda-slay-the-spire-2-veja-requisitos-preco-e-tudo-sobre-o-jogo.htm"
-    },
-    {
-      "title": "Nvidia pode relançar a RTX 3060 para contornar crise das memórias",
-      "slug": "nvidia-pode-relancar-a-rtx-3060-para-contornar-crise-das-memorias",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T14:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411376-nvidia-pode-relancar-a-rtx-3060-para-contornar-crise-das-memorias.htm"
-    },
-    {
-      "title": "Som alto no avião? United Airlines pode expulsar passageiros sem fones de ouvido",
-      "slug": "som-alto-no-aviao-united-airlines-pode-expulsar-passageiros-sem-fones-de-ouvido",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T13:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411375-som-alto-no-aviao-united-airlines-pode-expulsar-passageiros-sem-fones-de-ouvido.htm"
-    },
-    {
-      "title": "Air Fryers, chaleiras elétricas e mais com descontos de até 61% e cupons na Shopee; confira",
-      "slug": "air-fryers-chaleiras-eletricas-e-mais-com-descontos-de-ate-61percent-e-cupons-na-shopee-confira",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T13:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411368-air-fryers-chaleiras-eletricas-e-mais-com-descontos-de-ate-61-e-cupons-na-shopee-confira.htm"
-    },
-    {
-      "title": "Usuário denuncia conselho perigoso da Alexa com IA que cria gás tóxico",
-      "slug": "usuario-denuncia-conselho-perigoso-da-alexa-com-ia-que-cria-gas-toxico",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-06T13:15:00.000Z",
+      "date": "2026-03-06T17:07:56.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/software/411373-usuario-denuncia-conselho-perigoso-da-alexa-com-ia-que-cria-gas-toxico.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/601742-ted-lasso-temporada-4-veja-primeiro-teaser-elenco-e-tudo-sobre-a-producao.htm"
     },
     {
-      "title": "O Agente Secreto chega na Netflix neste sábado (07) com 4K e Dolby Vision",
-      "slug": "o-agente-secreto-chega-na-netflix-neste-sabado-07-com-4k-e-dolby-vision",
+      "title": "Smart TVs de 43\" a partir de R$1.199 no Mercado Livre; confira as oportunidades",
+      "slug": "smart-tvs-de-43-a-partir-de-rdollar1199-no-mercado-livre-confira-as-oportunidades",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-06T13:09:34.000Z",
+      "date": "2026-03-06T17:03:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603312-o-agente-secreto-sera-lancado-na-netflix-neste-sabado-07.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411395-smart-tvs-de-43-a-partir-de-r1199-no-mercado-livre-confira-as-oportunidades.htm"
     },
     {
-      "title": "Uso de IA em ataques no Irã levanta questões: 'humanos examinam alvos?'",
-      "slug": "uso-de-ia-em-ataques-no-ira-levanta-questoes-humanos-examinam-alvos",
-      "topic": "seguranca-ia",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-06T14:13:02.000Z",
+      "title": "Amazon atualiza app do Fire TV para celular com nova interface",
+      "slug": "amazon-atualiza-app-do-fire-tv-para-celular-com-nova-interface",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T16:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/rfi/2026/03/06/uso-de-ia-em-ataques-no-ira-levanta-questoes-humanos-examinam-alvos.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411377-amazon-atualiza-app-do-fire-tv-para-celular-com-nova-interface.htm"
     },
     {
-      "title": "Indonésia segue Austrália e vai proibir redes sociais para menores de 16 anos",
-      "slug": "indonesia-segue-australia-e-vai-proibir-redes-sociais-para-menores-de-16-anos",
+      "title": "30 melhores ofertas em eletrônicos da Semana do Consumidor na Amazon",
+      "slug": "30-melhores-ofertas-em-eletronicos-da-semana-do-consumidor-na-amazon",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T15:16:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411372-30-melhores-ofertas-em-eletronicos-da-semana-do-consumidor-na-amazon.htm"
+    },
+    {
+      "title": "Cillian Murphy não voltará ao papel de Tommy Shelby após Peaky Blinders: O Homem Imortal",
+      "slug": "cillian-murphy-nao-voltara-ao-papel-de-tommy-shelby-apos-peaky-blinders-o-homem-imortal",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T15:15:38.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603311-cillian-murphy-nao-voltara-ao-papel-de-tommy-shelby-apos-peaky-blinders-o-homem-imortal.htm"
+    },
+    {
+      "title": "Golpe do CPF cancelado: criminosos cobram regularização via Pix no WhatsApp",
+      "slug": "golpe-do-cpf-cancelado-criminosos-cobram-regularizacao-via-pix-no-whatsapp",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-06T14:01:38.000Z",
+      "date": "2026-03-06T16:31:21.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/03/06/indonesia-segue-australia-e-vai-proibir-redes-sociais-para-menores-de-16-anos.htm"
-    },
-    {
-      "title": "WhatsApp começa a cobrar por mensagens no Brasil e coloca IA na mira",
-      "slug": "whatsapp-comeca-a-cobrar-por-mensagens-no-brasil-e-coloca-ia-na-mira",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-06T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/03/06/whatsapp-comeca-a-cobrar-por-mensagens-no-brasil-e-coloca-ia-na-mira.htm"
-    },
-    {
-      "title": "Concorrente do ChatGPT é impedido de ser usada por forças armadas dos EUA",
-      "slug": "concorrente-do-chatgpt-e-impedido-de-ser-usada-por-forcas-armadas-dos-eua",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-06T13:24:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/06/concorrente-do-chatgpt-e-impedido-de-ser-usada-por-forcas-armadas-dos-eua.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/06/golpe-cpf-cancelado.htm"
     }
   ]
 }

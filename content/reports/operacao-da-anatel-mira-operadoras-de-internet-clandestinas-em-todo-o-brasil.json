@@ -1,6 +1,6 @@
 {
-  "slug": "operacao-da-anatel-contra-internet-pirata-prende-seis-pessoas",
-  "generated_at": "2026-03-06T17:03:18.132Z",
+  "slug": "operacao-da-anatel-mira-operadoras-de-internet-clandestinas-em-todo-o-brasil",
+  "generated_at": "2026-03-06T17:19:59.512Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 313,
+      "words": 260,
       "min": 220
     },
     {
