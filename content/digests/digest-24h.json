@@ -1,214 +1,115 @@
 {
-  "generated_at": "2026-03-06T21:11:18.306Z",
+  "generated_at": "2026-03-06T23:12:49.745Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 23,
+  "total": 12,
   "posts": [
     {
-      "title": "Huawei Watch Fit 4 despenca 51% em oferta no Mês do Consumidor na Amazon",
-      "slug": "huawei-watch-fit-4-despenca-51percent-em-oferta-no-mes-do-consumidor-na-amazon",
+      "title": "Smart TV Samsung Crystal UHD 55” tem 34% OFF no app Magalu no Mês do Consumidor",
+      "slug": "smart-tv-samsung-crystal-uhd-55-tem-34percent-off-no-app-magalu-no-mes-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-06T20:52:34.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/huawei-watch-fit-4-despenca-51-em-oferta-no-mes-do-consumidor-na-amazon/"
-    },
-    {
-      "title": "Códigos de Stardew Valley: como ativar e usar cheats no game",
-      "slug": "codigos-de-stardew-valley-como-ativar-e-usar-cheats-no-game",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T20:41:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/codigos-de-stardew-valley-como-ativar-e-usar-cheats-no-game/"
-    },
-    {
-      "title": "SSD SATA ou NVMe? Veja as diferenças entre os dois tipos de Solid State Drive",
-      "slug": "ssd-sata-ou-nvme-veja-as-diferencas-entre-os-dois-tipos-de-solid-state-drive",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T20:39:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/ssd-sata-ou-nvme-qual-a-diferenca/"
-    },
-    {
-      "title": "Meta vai cobrar chatbots de IA por uso do WhatsApp",
-      "slug": "meta-vai-cobrar-chatbots-de-ia-por-uso-do-whatsapp",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T20:37:37.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/meta-vai-cobrar-chatbots-de-ia-por-uso-do-whatsapp/"
-    },
-    {
-      "title": "Anthropic quer processar o Pentágono por classificação de risco à segurança nacional",
-      "slug": "anthropic-quer-processar-o-pentagono-por-classificacao-de-risco-a-seguranca-nacional",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T19:39:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/anthropic-quer-processar-o-pentagono-por-classificacao-de-risco-a-seguranca-nacional/"
-    },
-    {
-      "title": "iPhone 17 (512 GB) tem promoção em até 10x no Mês do Consumidor do Mercado Livre",
-      "slug": "iphone-17-512-gb-tem-promocao-em-ate-10x-no-mes-do-consumidor-do-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-06T19:01:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-512-gb-tem-promocao-em-ate-10x-no-mes-do-consumidor-do-mercado-livre/"
-    },
-    {
-      "title": "Tirem as crianças da sala: Leon sem camisa em Resident Evil Requiem é real",
-      "slug": "tirem-as-criancas-da-sala-leon-sem-camisa-em-resident-evil-requiem-e-real",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T20:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/tirem-as-criancas-da-sala-leon-sem-camisa-em-resident-evil-requiem-e-real/"
-    },
-    {
-      "title": "O Senhor dos Anéis: A Caçada a Gollum pode reescalar intérprete de Arwen",
-      "slug": "o-senhor-dos-aneis-a-cacada-a-gollum-pode-reescalar-interprete-de-arwen",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T20:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/o-senhor-dos-aneis-a-cacada-a-gollum-pode-reescalar-interprete-de-arwen/"
-    },
-    {
-      "title": "Pikachu MAGA? Pokémon compra briga com Trump após uso indevido de imagem",
-      "slug": "pikachu-maga-pokemon-compra-briga-com-trump-apos-uso-indevido-de-imagem",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T20:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/pikachu-maga-pokemon-compra-briga-com-trump-apos-uso-indevido-de-imagem/"
-    },
-    {
-      "title": "Capcom divulga detalhes do modo online de Mega Man Star Force Legacy Collection",
-      "slug": "capcom-divulga-detalhes-do-modo-online-de-mega-man-star-force-legacy-collection",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T20:06:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/capcom-divulga-detalhes-do-modo-online-de-mega-man-star-force-legacy-collection/"
-    },
-    {
-      "title": "Ex-chefe crava: Steam Machine é o rival do PS5 e Xbox está no caixão",
-      "slug": "ex-chefe-crava-steam-machine-e-o-rival-do-ps5-e-xbox-esta-no-caixao",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T20:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ex-chefe-crava-steam-machine-e-o-rival-do-ps5-e-xbox-esta-no-caixao/"
-    },
-    {
-      "title": "Volkswagen joga no chão preço da Saveiro para enfrentar Fiat Strada",
-      "slug": "volkswagen-joga-no-chao-preco-da-saveiro-para-enfrentar-fiat-strada",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-06T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/volkswagen-joga-no-chao-preco-da-saveiro-para-enfrentar-fiat-strada/"
-    },
-    {
-      "title": "Câmera escondida é crime: aprenda como detectar e se proteger",
-      "slug": "camera-escondida-e-crime-aprenda-como-detectar-e-se-proteger",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T19:44:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/camera-escondida-e-crime-aprenda-como-detectar-e-se-proteger/"
-    },
-    {
-      "title": "HQ do Homem-Aranha pode ter confirmado Hulk e Justiceiro em novo filme",
-      "slug": "hq-do-homem-aranha-pode-ter-confirmado-hulk-e-justiceiro-em-novo-filme",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-06T19:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/hq-do-homem-aranha-pode-ter-confirmado-hulk-e-justiceiro-em-novo-filme/"
-    },
-    {
-      "title": "Drones ucranianos x iranianos: entenda a lógica da “guerra custo-benefício”",
-      "slug": "drones-ucranianos-x-iranianos-entenda-a-logica-da-guerra-custo-beneficio",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-06T19:24:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/drones/drones-ucranianos-x-iranianos-entenda-a-logica-da-guerra-custo-beneficio/"
-    },
-    {
-      "title": "Guerra no Irã pode impactar indústria da tecnologia, alerta Foxconn",
-      "slug": "guerra-no-ira-pode-impactar-industria-da-tecnologia-alerta-foxconn",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411396-guerra-no-ira-pode-impactar-industria-da-tecnologia-alerta-foxconn.htm"
-    },
-    {
-      "title": "Microsoft denuncia ataque que começa com \"prove que você não é um robô\"",
-      "slug": "microsoft-denuncia-ataque-que-comeca-com-prove-que-voce-nao-e-um-robo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T20:20:00.000Z",
+      "date": "2026-03-06T22:08:37.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411394-microsoft-denuncia-ataque-que-comeca-com-prove-que-voce-nao-e-um-robo.htm"
+      "original_url": "https://tecnoblog.net/achados/smart-tv-samsung-crystal-uhd-55-tem-34-off-no-app-magalu-no-mes-do-consumidor/"
     },
     {
-      "title": "Mais países estudam proibir redes sociais para menores de 16 anos",
-      "slug": "mais-paises-estudam-proibir-redes-sociais-para-menores-de-16-anos",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-06T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411397-mais-paises-estudam-proibir-redes-sociais-para-menores-de-16-anos.htm"
+      "title": "Mês do Consumidor: Galaxy S25 Plus (512 GB) tem 59% OFF contra S26 Plus em oferta",
+      "slug": "mes-do-consumidor-galaxy-s25-plus-512-gb-tem-59percent-off-contra-s26-plus-em-oferta",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-06T21:16:12.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-galaxy-s25-plus-512-gb-tem-59-off-contra-s26-plus-em-oferta/"
     },
     {
-      "title": "Samsung lança IA em TVs da linha Crystal e novo modo para a Copa do Mundo",
-      "slug": "samsung-lanca-ia-em-tvs-da-linha-crystal-e-novo-modo-para-a-copa-do-mundo",
+      "title": "5 cuidados antes de comprar um carro híbrido ou elétrico usado",
+      "slug": "5-cuidados-antes-de-comprar-um-carro-hibrido-ou-eletrico-usado",
       "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-06T19:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-06T22:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411404-samsung-lanca-ia-em-tvs-da-linha-crystal-e-novo-modo-para-a-copa-do-mundo.htm"
+      "original_url": "https://canaltech.com.br/carros/5-cuidados-antes-de-comprar-um-carro-hibrido-ou-eletrico-usado/"
     },
     {
-      "title": "Câmeras de segurança esquecidas viram ferramentas de guerra no Oriente Médio",
-      "slug": "cameras-de-seguranca-esquecidas-viram-ferramentas-de-guerra-no-oriente-medio",
+      "title": "Forza Horizon 6: tudo o que sabemos sobre o novo jogo no Japão",
+      "slug": "forza-horizon-6-tudo-o-que-sabemos-sobre-o-novo-jogo-no-japao",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-06T19:20:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-06T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411383-cameras-de-seguranca-esquecidas-viram-ferramentas-de-guerra-no-oriente-medio.htm"
+      "original_url": "https://canaltech.com.br/games/forza-horizon-6-tudo-o-que-sabemos-sobre-o-novo-jogo-no-japao/"
     },
     {
-      "title": "Vovó gamer viraliza jogando Resident Evil Requiem aos 73 anos: “Nem é assustador”",
-      "slug": "vovo-gamer-viraliza-jogando-resident-evil-requiem-aos-73-anos-nem-e-assustador",
+      "title": "Luigi’s Mansion 3 e mais jogos para Switch com até 90% OFF na eShop",
+      "slug": "luigis-mansion-3-e-mais-jogos-para-switch-com-ate-90percent-off-na-eshop",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-06T19:11:49.000Z",
+      "date": "2026-03-06T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503719-luigis-mansion-3-e-mais-jogos-para-switch-com-ate-90-off-na-eshop.htm"
+    },
+    {
+      "title": "China mira operadoras brasileiras em campanha de espionagem digital",
+      "slug": "china-mira-operadoras-brasileiras-em-campanha-de-espionagem-digital",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T22:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411406-china-mira-operadoras-brasileiras-em-campanha-de-espionagem-digital.htm"
+    },
+    {
+      "title": "A Noiva, Kill Bill e mais filmes para assistir no cinema! Confira lista (6)",
+      "slug": "a-noiva-kill-bill-e-mais-filmes-para-assistir-no-cinema-confira-lista-6",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T22:15:07.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503710-vovo-gamer-viraliza-jogando-resident-evil-requiem-aos-73-anos-nem-e-assustador.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603283-a-noiva-kill-bill-e-mais-filmes-para-assistir-no-cinema-confira-lista-6.htm"
     },
     {
-      "title": "BB libera Pix na Argentina com pagamentos via QR Code",
-      "slug": "bb-libera-pix-na-argentina-com-pagamentos-via-qr-code",
+      "title": "SSDs vão encarecer: Samsung planeja aumento de 100% em chips, diz site",
+      "slug": "ssds-vao-encarecer-samsung-planeja-aumento-de-100percent-em-chips-diz-site",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-06T19:00:00.000Z",
+      "date": "2026-03-06T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411402-bb-libera-pix-na-argentina-com-pagamentos-via-qr-code.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411384-ssds-vao-encarecer-samsung-planeja-aumento-de-100-em-chips-diz-site.htm"
     },
     {
-      "title": "Pentágono e agência dos EUA realizarão testes de sistema laser antidrone",
-      "slug": "pentagono-e-agencia-dos-eua-realizarao-testes-de-sistema-laser-antidrone",
+      "title": "Vírus 'desperta' na Wikipédia e vandaliza milhares de páginas em 23 minutos",
+      "slug": "virus-desperta-na-wikipedia-e-vandaliza-milhares-de-paginas-em-23-minutos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T21:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411407-virus-desperta-na-wikipedia-e-vandaliza-milhares-de-paginas-em-23-minutos.htm"
+    },
+    {
+      "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (6)",
+      "slug": "steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-6",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T21:15:20.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503711-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-6.htm"
+    },
+    {
+      "title": "O Agente Secreto e mais 8 filmes e séries em alta para ver na Netflix no fim de semana (6)",
+      "slug": "o-agente-secreto-e-mais-8-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-6",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-06T20:15:54.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603293-o-agente-secreto-e-mais-8-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-6.htm"
+    },
+    {
+      "title": "Primeiras estrelas? O que são os pontos vermelhos captados no James Webb",
+      "slug": "primeiras-estrelas-o-que-sao-os-pontos-vermelhos-captados-no-james-webb",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-06T20:15:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/06/pentagono-e-agencia-dos-eua-realizarao-testes-de-sistema-laser-antidrone.htm"
+      "date": "2026-03-06T21:35:56.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/06/primeiras-estrelas-do-universo-pontos-vermelhos-misteriosos-geram-debate.htm"
     }
   ]
 }

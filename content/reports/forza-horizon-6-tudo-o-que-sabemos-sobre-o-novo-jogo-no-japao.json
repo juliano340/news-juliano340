@@ -1,7 +1,7 @@
 {
-  "slug": "o-agente-secreto-e-mais-8-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-6",
-  "generated_at": "2026-03-06T23:12:29.340Z",
-  "status": "WARN",
+  "slug": "forza-horizon-6-tudo-o-que-sabemos-sobre-o-novo-jogo-no-japao",
+  "generated_at": "2026-03-06T23:05:25.564Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 6
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 343,
+      "words": 400,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

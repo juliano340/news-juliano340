@@ -1,6 +1,6 @@
 {
-  "slug": "o-agente-secreto-e-mais-8-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-6",
-  "generated_at": "2026-03-06T23:12:29.340Z",
+  "slug": "mes-do-consumidor-galaxy-s25-plus-512-gb-tem-59percent-off-contra-s26-plus-em-oferta",
+  "generated_at": "2026-03-06T23:03:04.410Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 6
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 343,
+      "words": 372,
       "min": 220
     },
     {

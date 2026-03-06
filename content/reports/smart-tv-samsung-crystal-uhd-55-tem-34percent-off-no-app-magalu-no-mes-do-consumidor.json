@@ -1,6 +1,6 @@
 {
-  "slug": "o-agente-secreto-e-mais-8-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-6",
-  "generated_at": "2026-03-06T23:12:29.340Z",
+  "slug": "smart-tv-samsung-crystal-uhd-55-tem-34percent-off-no-app-magalu-no-mes-do-consumidor",
+  "generated_at": "2026-03-06T23:01:14.222Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 6
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 343,
+      "words": 415,
       "min": 220
     },
     {
