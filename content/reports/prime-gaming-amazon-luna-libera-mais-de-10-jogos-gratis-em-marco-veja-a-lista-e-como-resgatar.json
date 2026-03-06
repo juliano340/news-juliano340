@@ -1,6 +1,6 @@
 {
-  "slug": "149-ataques-em-quatro-dias-como-a-guerra-contra-o-ira-se-tornou-tambem-digital",
-  "generated_at": "2026-03-06T01:00:57.297Z",
+  "slug": "prime-gaming-amazon-luna-libera-mais-de-10-jogos-gratis-em-marco-veja-a-lista-e-como-resgatar",
+  "generated_at": "2026-03-06T01:00:33.172Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 255,
       "min": 220
     },
     {

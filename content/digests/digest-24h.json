@@ -1,106 +1,25 @@
 {
-  "generated_at": "2026-03-05T23:06:17.076Z",
+  "generated_at": "2026-03-06T01:00:59.366Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 11,
+  "total": 2,
   "posts": [
     {
-      "title": "Como descobrir câmeras escondidas em tomadas e espelhos usando o celular",
-      "slug": "como-descobrir-cameras-escondidas-em-tomadas-e-espelhos-usando-o-celular",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-05T21:34:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/05/como-descobrir-cameras-escondidas-em-tomadas-e-espelhos-usando-o-celular.ghtml"
-    },
-    {
-      "title": "Mês do Consumidor: Ar-condicionado TCL Inverter 12.000 BTUs tem 35% OFF no Magalu",
-      "slug": "mes-do-consumidor-ar-condicionado-tcl-inverter-12000-btus-tem-35percent-off-no-magalu",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-05T22:48:32.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-ar-condicionado-tcl-inverter-12-000-btus-tem-35-off-no-magalu/"
-    },
-    {
-      "title": "GPT-5.4 chega com capacidade nativa de usar computadores",
-      "slug": "gpt-54-chega-com-capacidade-nativa-de-usar-computadores",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-05T22:10:14.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/gpt-5-4-chega-com-capacidade-nativa-de-usar-computadores/"
-    },
-    {
-      "title": "Smart TV LG NanoCell 50” cai 36% em oferta do Mercado Livre no Mês do Consumidor",
-      "slug": "smart-tv-lg-nanocell-50-cai-36percent-em-oferta-do-mercado-livre-no-mes-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-05T21:49:18.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/smart-tv-lg-nanocell-50-cai-36-em-oferta-no-mercado-livre-no-mes-do-consumidor/"
-    },
-    {
-      "title": "Ar-condicionado LG Dual Inverter 18.000 BTUs tem 38% no Mês do Consumidor Magalu",
-      "slug": "ar-condicionado-lg-dual-inverter-18000-btus-tem-38percent-no-mes-do-consumidor-magalu",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-05T21:45:24.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/ar-condicionado-lg-dual-inverter-18-000-btus-tem-38-no-mes-do-consumidor-magalu/"
-    },
-    {
-      "title": "O que é upscaling? Como funciona o recurso que aumenta a resolução de imagens",
-      "slug": "o-que-e-upscaling-como-funciona-o-recurso-que-aumenta-a-resolucao-de-imagens",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-05T21:43:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-upscaling-como-funciona-o-recurso-que-aumenta-a-resolucao-de-imagens/"
-    },
-    {
-      "title": "Parentesco de Silas e Sherlock vai além das telas em Jovem Sherlock",
-      "slug": "parentesco-de-silas-e-sherlock-vai-alem-das-telas-em-jovem-sherlock",
+      "title": "Prime Gaming: Amazon Luna libera mais de 10 jogos grátis em março! Veja a lista e como resgatar",
+      "slug": "prime-gaming-amazon-luna-libera-mais-de-10-jogos-gratis-em-marco-veja-a-lista-e-como-resgatar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-05T22:45:55.000Z",
+      "date": "2026-03-05T23:15:04.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603301-parentesco-de-silas-e-sherlock-vai-alem-das-telas-em-jovem-sherlock.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503702-prime-gaming-amazon-luna-libera-mais-de-10-jogos-gratis-em-marco-veja-a-lista-e-como-resgatar.htm"
     },
     {
-      "title": "Metaphor: ReFantazio e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
-      "slug": "metaphor-refantazio-e-mais-jogos-para-ps4-e-ps5-com-ate-90percent-off-na-ps-store",
+      "title": "149 ataques em quatro dias: como a guerra contra o Irã se tornou também digital",
+      "slug": "149-ataques-em-quatro-dias-como-a-guerra-contra-o-ira-se-tornou-tambem-digital",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-05T22:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503704-metaphor-refantazio-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store.htm"
-    },
-    {
-      "title": "Senado aprova aumento de pena para furto e roubo de celular",
-      "slug": "senado-aprova-aumento-de-pena-para-furto-e-roubo-de-celular",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T22:00:00.000Z",
+      "date": "2026-03-05T21:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411361-senado-aprova-aumento-de-pena-para-furto-e-roubo-de-celular.htm"
-    },
-    {
-      "title": "Google Gemini teria encorajado homem a cometer suicídio, segundo processo",
-      "slug": "google-gemini-teria-encorajado-homem-a-cometer-suicidio-segundo-processo",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-05T21:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411356-google-gemini-teria-encorajado-homem-a-cometer-suicidio-segundo-processo.htm"
-    },
-    {
-      "title": "Onde assistir F1? Conheça o filme indicado ao Oscar",
-      "slug": "onde-assistir-f1-conheca-o-filme-indicado-ao-oscar",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-05T21:15:23.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603292-onde-assistir-f1-conheca-o-filme-indicado-ao-oscar.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411363-149-ataques-em-quatro-dias-como-a-guerra-contra-o-ira-se-tornou-tambem-digital.htm"
     }
   ]
 }
