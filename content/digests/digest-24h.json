@@ -1,43 +1,61 @@
 {
-  "generated_at": "2026-03-07T17:07:55.017Z",
+  "generated_at": "2026-03-07T19:07:07.197Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 6,
   "posts": [
     {
-      "title": "Como o GrapheneOS funciona? Conheça a versão do Android sem Google",
-      "slug": "como-o-grapheneos-funciona-conheca-a-versao-do-android-sem-google",
+      "title": "Quanto você economiza ao trazer uma TV do Paraguai? Nós fizemos as contas",
+      "slug": "quanto-voce-economiza-ao-trazer-uma-tv-do-paraguai-nos-fizemos-as-contas",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T17:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-o-grapheneos-funciona-conheca-a-versao-do-android-sem-google/"
+      "date": "2026-03-07T19:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/eletro/quanto-voce-economiza-ao-trazer-uma-tv-do-paraguai-nos-fizemos-as-contas/"
     },
     {
-      "title": "BYD, Jeep, Leap e Honda jogam preços no chão para limpar estoques",
-      "slug": "byd-jeep-leap-e-honda-jogam-precos-no-chao-para-limpar-estoques",
+      "title": "Por que a Inteligência Artificial está \"roubando\" até os antigos HDDs",
+      "slug": "por-que-a-inteligencia-artificial-esta-roubando-ate-os-antigos-hdds",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T16:00:00.000Z",
+      "date": "2026-03-07T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/byd-jeep-leap-e-honda-jogam-precos-no-chao-para-limpar-estoques/"
+      "original_url": "https://canaltech.com.br/hardware/por-que-a-inteligencia-artificial-esta-roubando-ate-os-antigos-hdds/"
     },
     {
-      "title": "Filmes canônicos de Resident Evil: veja a lista e onde assistir cada um deles",
-      "slug": "filmes-canonicos-de-resident-evil-veja-a-lista-e-onde-assistir-cada-um-deles",
+      "title": "12 filmes de ficção mal avaliados que merecem uma chance",
+      "slug": "12-filmes-de-ficcao-mal-avaliados-que-merecem-uma-chance",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T16:15:00.000Z",
+      "date": "2026-03-07T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503689-filmes-canonicos-de-resident-evil-veja-a-lista-e-onde-assistir-cada-um-deles.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603280-12-filmes-de-ficcao-mal-avaliados-que-merecem-uma-chance.htm"
     },
     {
-      "title": "Onde assistir todas as temporadas de Outlander e seu spin-off",
-      "slug": "onde-assistir-todas-as-temporadas-de-outlander-e-seu-spin-off",
+      "title": "Xbox Game Pass recebe Kingdom Come 2 e mais jogos esta semana! Confira os lançamentos (07)",
+      "slug": "xbox-game-pass-recebe-kingdom-come-2-e-mais-jogos-esta-semana-confira-os-lancamentos-07",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T15:15:00.000Z",
+      "date": "2026-03-07T18:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603295-onde-assistir-todas-as-temporadas-de-outlander-e-seu-spin-off.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503705-xbox-game-pass-recebe-kingdom-come-2-e-mais-jogos-esta-semana-confira-os-lancamentos-07.htm"
+    },
+    {
+      "title": "Notebooks, tablets e outros itens de informática em oferta na Semana do Consumidor da Amazon",
+      "slug": "notebooks-tablets-e-outros-itens-de-informatica-em-oferta-na-semana-do-consumidor-da-amazon",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-07T17:16:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411403-notebooks-tablets-e-outros-itens-de-informatica-em-oferta-na-semana-do-consumidor-da-amazon.htm"
+    },
+    {
+      "title": "Jogos para PlayStation em oferta na Semana do Consumidor Amazon: títulos para PS5 e PS4",
+      "slug": "jogos-para-playstation-em-oferta-na-semana-do-consumidor-amazon-titulos-para-ps5-e-ps4",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-07T15:16:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503713-jogos-para-playstation-em-oferta-na-semana-do-consumidor-amazon-titulos-para-ps5-e-ps4.htm"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "jogos-para-playstation-em-oferta-na-semana-do-consumidor-amazon-titulos-para-ps5-e-ps4",
-  "generated_at": "2026-03-07T19:07:04.983Z",
+  "slug": "notebooks-tablets-e-outros-itens-de-informatica-em-oferta-na-semana-do-consumidor-da-amazon",
+  "generated_at": "2026-03-07T19:05:58.192Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 322,
+      "words": 326,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 2,
       "min": 3
     }
   ],

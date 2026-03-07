@@ -1,7 +1,7 @@
 {
-  "slug": "jogos-para-playstation-em-oferta-na-semana-do-consumidor-amazon-titulos-para-ps5-e-ps4",
-  "generated_at": "2026-03-07T19:07:04.983Z",
-  "status": "WARN",
+  "slug": "xbox-game-pass-recebe-kingdom-come-2-e-mais-jogos-esta-semana-confira-os-lancamentos-07",
+  "generated_at": "2026-03-07T19:05:15.279Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 322,
+      "words": 341,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
