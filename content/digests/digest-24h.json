@@ -1,61 +1,34 @@
 {
-  "generated_at": "2026-03-07T19:07:07.197Z",
+  "generated_at": "2026-03-07T21:04:18.300Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 3,
   "posts": [
     {
-      "title": "Quanto você economiza ao trazer uma TV do Paraguai? Nós fizemos as contas",
-      "slug": "quanto-voce-economiza-ao-trazer-uma-tv-do-paraguai-nos-fizemos-as-contas",
+      "title": "Como funciona a \"escassez artificial\" que está afetando o mundo da tecnologia?",
+      "slug": "como-funciona-a-escassez-artificial-que-esta-afetando-o-mundo-da-tecnologia",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T19:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/eletro/quanto-voce-economiza-ao-trazer-uma-tv-do-paraguai-nos-fizemos-as-contas/"
+      "date": "2026-03-07T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/como-funciona-a-escassez-artificial-que-esta-afetando-o-mundo-da-tecnologia/"
     },
     {
-      "title": "Por que a Inteligência Artificial está \"roubando\" até os antigos HDDs",
-      "slug": "por-que-a-inteligencia-artificial-esta-roubando-ate-os-antigos-hdds",
+      "title": "PDF também tem vírus: como saber se o anexo é seguro sem abrir?",
+      "slug": "pdf-tambem-tem-virus-como-saber-se-o-anexo-e-seguro-sem-abrir",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T18:00:00.000Z",
+      "date": "2026-03-07T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/por-que-a-inteligencia-artificial-esta-roubando-ate-os-antigos-hdds/"
+      "original_url": "https://canaltech.com.br/seguranca/pdf-tambem-tem-virus-como-saber-se-o-anexo-e-seguro-sem-abrir/"
     },
     {
-      "title": "12 filmes de ficção mal avaliados que merecem uma chance",
-      "slug": "12-filmes-de-ficcao-mal-avaliados-que-merecem-uma-chance",
+      "title": "Qual o melhor Resident Evil? Veja ranking dos jogos da franquia com notas",
+      "slug": "qual-o-melhor-resident-evil-veja-ranking-dos-jogos-da-franquia-com-notas",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603280-12-filmes-de-ficcao-mal-avaliados-que-merecem-uma-chance.htm"
-    },
-    {
-      "title": "Xbox Game Pass recebe Kingdom Come 2 e mais jogos esta semana! Confira os lançamentos (07)",
-      "slug": "xbox-game-pass-recebe-kingdom-come-2-e-mais-jogos-esta-semana-confira-os-lancamentos-07",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-07T18:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503705-xbox-game-pass-recebe-kingdom-come-2-e-mais-jogos-esta-semana-confira-os-lancamentos-07.htm"
-    },
-    {
-      "title": "Notebooks, tablets e outros itens de informática em oferta na Semana do Consumidor da Amazon",
-      "slug": "notebooks-tablets-e-outros-itens-de-informatica-em-oferta-na-semana-do-consumidor-da-amazon",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-07T17:16:00.000Z",
+      "date": "2026-03-07T20:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411403-notebooks-tablets-e-outros-itens-de-informatica-em-oferta-na-semana-do-consumidor-da-amazon.htm"
-    },
-    {
-      "title": "Jogos para PlayStation em oferta na Semana do Consumidor Amazon: títulos para PS5 e PS4",
-      "slug": "jogos-para-playstation-em-oferta-na-semana-do-consumidor-amazon-titulos-para-ps5-e-ps4",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-07T15:16:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503713-jogos-para-playstation-em-oferta-na-semana-do-consumidor-amazon-titulos-para-ps5-e-ps4.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503687-qual-o-melhor-resident-evil-veja-ranking-dos-jogos-da-franquia-com-notas.htm"
     }
   ]
 }
