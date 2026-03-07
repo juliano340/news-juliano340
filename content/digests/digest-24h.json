@@ -1,97 +1,61 @@
 {
-  "generated_at": "2026-03-07T11:13:43.062Z",
+  "generated_at": "2026-03-07T13:09:48.781Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 10,
+  "total": 6,
   "posts": [
     {
-      "title": "'Sei quem nos protege': trend exalta segurança de Dubai e gera críticas após ataques do Irã",
-      "slug": "sei-quem-nos-protege-trend-exalta-seguranca-de-dubai-e-gera-criticas-apos-ataques-do-ira",
+      "title": "Quanto espaço fotos e vídeos ocupam em 1 ano? Fizemos as contas",
+      "slug": "quanto-espaco-fotos-e-videos-ocupam-em-1-ano-fizemos-as-contas",
       "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-07T08:00:35.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/07/sei-quem-nos-protege-trend-exalta-seguranca-de-dubai-e-gera-criticas-apos-ataques-do-ira.ghtml"
+      "source": "Canaltech",
+      "date": "2026-03-07T12:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/quanto-espaco-fotos-e-videos-ocupam-em-1-ano-fizemos-as-contas/"
     },
     {
-      "title": "Purificador de ar funciona contra poeira urbana? Engenheiro explica",
-      "slug": "purificador-de-ar-funciona-contra-poeira-urbana-engenheiro-explica",
+      "title": "Review Ford Territory 2026: SUV evolui à espera da versão híbrida",
+      "slug": "review-ford-territory-2026-suv-evolui-a-espera-da-versao-hibrida",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-07T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/eletro/purificador-de-ar-funciona-contra-poeira-urbana-engenheiro-explica/"
+      "date": "2026-03-07T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/veiculos/analise/review-ford-territory-2026-suv-evolui-a-espera-da-versao-hibrida/"
     },
     {
-      "title": "Galaxy S26 chegando: quando é melhor vender seu S25?",
-      "slug": "galaxy-s26-chegando-quando-e-melhor-vender-seu-s25",
+      "title": "Quanto a bateria de um celular perde por ano?",
+      "slug": "quanto-a-bateria-de-um-celular-perde-por-ano",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T10:30:00.000Z",
+      "date": "2026-03-07T11:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-chegando-quando-e-melhor-vender-seu-s25/"
+      "original_url": "https://canaltech.com.br/smartphone/quanto-a-bateria-de-um-celular-perde-por-ano/"
     },
     {
-      "title": "Como criar imagens no Perplexity com o Nano Banana 2",
-      "slug": "como-criar-imagens-no-perplexity-com-o-nano-banana-2",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-07T10:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-criar-imagens-no-perplexity-com-o-nano-banana-2/"
-    },
-    {
-      "title": "Guerra na nuvem: por que data centers privados viraram alvos militares?",
-      "slug": "guerra-na-nuvem-por-que-data-centers-privados-viraram-alvos-militares",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-07T09:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/guerra-na-nuvem-por-que-data-centers-privados-viraram-alvos-militares/"
-    },
-    {
-      "title": "Palpites para Fluminense x Flamengo: Análises e Onde Assistir (08/03/2026)",
-      "slug": "palpites-para-fluminense-x-flamengo-analises-e-onde-assistir-08032026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-07T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411389-palpites-para-fluminense-x-flamengo-analises-e-onde-assistir-08032026.htm"
-    },
-    {
-      "title": "Palpites para Internacional x Grêmio: Análises e Onde Assistir (08/03/2026)",
-      "slug": "palpites-para-internacional-x-gremio-analises-e-onde-assistir-08032026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-07T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411386-palpites-para-internacional-x-gremio-analises-e-onde-assistir-08032026.htm"
-    },
-    {
-      "title": "5 jogos grátis para curtir o fim de semana no PC, consoles e dispositivos móveis (7)",
-      "slug": "5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-7",
+      "title": "Como montar um PC bom e barato em meio à crise de chips?",
+      "slug": "como-montar-um-pc-bom-e-barato-em-meio-a-crise-de-chips",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T10:15:00.000Z",
+      "date": "2026-03-07T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503718-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-7.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411370-como-montar-um-pc-bom-e-barato-em-meio-a-crise-de-chips.htm"
     },
     {
-      "title": "Palpites para Novorizontino x Palmeiras: Análises e Onde Assistir (08/03/2026)",
-      "slug": "palpites-para-novorizontino-x-palmeiras-analises-e-onde-assistir-08032026",
-      "topic": "produtividade-dev",
+      "title": "Que fim levou o Nero, o clássico programa para 'queimar' CDs?",
+      "slug": "que-fim-levou-o-nero-o-classico-programa-para-queimar-cds",
+      "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-07T10:00:00.000Z",
+      "date": "2026-03-07T12:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411385-palpites-para-novorizontino-x-palmeiras-analises-e-onde-assistir-08032026.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411081-que-fim-levou-o-nero-o-classico-programa-para-queimar-cds.htm"
     },
     {
-      "title": "Palpites para Cruzeiro x Atlético-MG: Análises e Onde Assistir (08/03/2026)",
-      "slug": "palpites-para-cruzeiro-x-atletico-mg-analises-e-onde-assistir-08032026",
-      "topic": "seguranca-ia",
+      "title": "Lady Danbury volta para a temporada 5 de Bridgerton? Confira o que diz a criadora da série",
+      "slug": "lady-danbury-volta-para-a-temporada-5-de-bridgerton-confira-o-que-diz-a-criadora-da-serie",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411354-palpites-para-cruzeiro-x-atletico-mg-analises-e-onde-assistir-08032026.htm"
+      "date": "2026-03-07T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603320-lady-danbury-volta-para-a-temporada-5-de-bridgerton-confira-o-que-diz-a-criadora-da-serie.htm"
     }
   ]
 }
