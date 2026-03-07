@@ -1,6 +1,6 @@
 {
-  "slug": "sei-quem-nos-protege-trend-exalta-seguranca-de-dubai-e-gera-criticas-apos-ataques-do-ira",
-  "generated_at": "2026-03-07T11:02:35.097Z",
+  "slug": "como-criar-imagens-no-perplexity-com-o-nano-banana-2",
+  "generated_at": "2026-03-07T11:06:54.705Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 391,
+      "words": 312,
       "min": 220
     },
     {

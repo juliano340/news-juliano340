@@ -1,11 +1,14 @@
 # Weekly IA para Devs - 2026-03-07
 
-Gerado em 2026-03-07T09:10:08.398Z
+Gerado em 2026-03-07T11:13:43.062Z
 
-- [Mulheres e IA: líder do Google Cloud fala sobre futuro da tecnologia](https://canaltech.com.br/podcast/podcast-canaltech/mulheres-e-ia-lider-do-google-cloud-fala-sobre-futuro-da-tecnologia-6389/) | topico: produtividade-dev | score: 100
-- [Quais serão as novidades do HyperOS 3.1? Veja o que esperar](https://canaltech.com.br/apps/quais-serao-as-novidades-do-hyperos-31-veja-o-que-esperar/) | topico: geral | score: 100
-- [10 notícias mais importantes da semana (02/03 a 06/03)](https://www.tecmundo.com.br/mercado/411413-10-noticias-mais-importantes-da-semana-0203-a-0603.htm) | topico: geral | score: 92
-- [Qual é a fase da Lua hoje (7)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/07/qual-a-fase-da-lua-hoje-7-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 92
-- [Japão vira 'terceira via' na guerra dos chips entre EUA e China](https://www.uol.com.br/tilt/noticias/redacao/2026/03/07/japao-vira-alternativa-para-diluir-risco-de-taiwan-diz-diogo-cortiz.htm) | topico: geral | score: 100
-- [Homem compra 25 kg de lixo na Amazon por R$ 525 e recebe peças de R$ 36 mil](https://www.uol.com.br/tilt/noticias/redacao/2026/03/07/usuario-compra-lixos-da-amazon-por-r-525-e-recebe-40-pecas-valiosas.htm) | topico: geral | score: 92
-- [Delírio? Construir data center no espaço salva a IA ou cria um desastre?](https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/03/07/delirio-construir-data-center-no-espaco-salva-a-ia-ou-cria-um-desastre.htm) | topico: geral | score: 100
+- ['Sei quem nos protege': trend exalta segurança de Dubai e gera críticas após ataques do Irã](https://g1.globo.com/tecnologia/noticia/2026/03/07/sei-quem-nos-protege-trend-exalta-seguranca-de-dubai-e-gera-criticas-apos-ataques-do-ira.ghtml) | topico: geral | score: 100
+- [Purificador de ar funciona contra poeira urbana? Engenheiro explica](https://canaltech.com.br/eletro/purificador-de-ar-funciona-contra-poeira-urbana-engenheiro-explica/) | topico: produtividade-dev | score: 92
+- [Galaxy S26 chegando: quando é melhor vender seu S25?](https://canaltech.com.br/smartphone/galaxy-s26-chegando-quando-e-melhor-vender-seu-s25/) | topico: geral | score: 100
+- [Como criar imagens no Perplexity com o Nano Banana 2](https://canaltech.com.br/apps/como-criar-imagens-no-perplexity-com-o-nano-banana-2/) | topico: llms | score: 100
+- [Guerra na nuvem: por que data centers privados viraram alvos militares?](https://canaltech.com.br/mercado/guerra-na-nuvem-por-que-data-centers-privados-viraram-alvos-militares/) | topico: geral | score: 100
+- [Palpites para Fluminense x Flamengo: Análises e Onde Assistir (08/03/2026)](https://www.tecmundo.com.br/apostas/411389-palpites-para-fluminense-x-flamengo-analises-e-onde-assistir-08032026.htm) | topico: produtividade-dev | score: 92
+- [Palpites para Internacional x Grêmio: Análises e Onde Assistir (08/03/2026)](https://www.tecmundo.com.br/apostas/411386-palpites-para-internacional-x-gremio-analises-e-onde-assistir-08032026.htm) | topico: seguranca-ia | score: 92
+- [5 jogos grátis para curtir o fim de semana no PC, consoles e dispositivos móveis (7)](https://www.tecmundo.com.br/voxel/503718-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-7.htm) | topico: geral | score: 100
+- [Palpites para Novorizontino x Palmeiras: Análises e Onde Assistir (08/03/2026)](https://www.tecmundo.com.br/apostas/411385-palpites-para-novorizontino-x-palmeiras-analises-e-onde-assistir-08032026.htm) | topico: produtividade-dev | score: 92
+- [Palpites para Cruzeiro x Atlético-MG: Análises e Onde Assistir (08/03/2026)](https://www.tecmundo.com.br/apostas/411354-palpites-para-cruzeiro-x-atletico-mg-analises-e-onde-assistir-08032026.htm) | topico: seguranca-ia | score: 92

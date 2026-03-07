@@ -1,7 +1,7 @@
 {
-  "slug": "sei-quem-nos-protege-trend-exalta-seguranca-de-dubai-e-gera-criticas-apos-ataques-do-ira",
-  "generated_at": "2026-03-07T11:02:35.097Z",
-  "status": "PASS",
+  "slug": "palpites-para-novorizontino-x-palmeiras-analises-e-onde-assistir-08032026",
+  "generated_at": "2026-03-07T11:12:26.798Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 391,
+      "words": 375,
       "min": 220
     },
     {
@@ -84,16 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 0,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [
