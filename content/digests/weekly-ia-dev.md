@@ -1,10 +1,10 @@
 # Weekly IA para Devs - 2026-03-07
 
-Gerado em 2026-03-07T13:09:48.781Z
+Gerado em 2026-03-07T15:10:03.787Z
 
-- [Quanto espaço fotos e vídeos ocupam em 1 ano? Fizemos as contas](https://canaltech.com.br/smartphone/quanto-espaco-fotos-e-videos-ocupam-em-1-ano-fizemos-as-contas/) | topico: geral | score: 92
-- [Review Ford Territory 2026: SUV evolui à espera da versão híbrida](https://canaltech.com.br/veiculos/analise/review-ford-territory-2026-suv-evolui-a-espera-da-versao-hibrida/) | topico: produtividade-dev | score: 100
-- [Quanto a bateria de um celular perde por ano?](https://canaltech.com.br/smartphone/quanto-a-bateria-de-um-celular-perde-por-ano/) | topico: geral | score: 100
-- [Como montar um PC bom e barato em meio à crise de chips?](https://www.tecmundo.com.br/produto/411370-como-montar-um-pc-bom-e-barato-em-meio-a-crise-de-chips.htm) | topico: geral | score: 100
-- [Que fim levou o Nero, o clássico programa para 'queimar' CDs?](https://www.tecmundo.com.br/produto/411081-que-fim-levou-o-nero-o-classico-programa-para-queimar-cds.htm) | topico: agentes | score: 92
-- [Lady Danbury volta para a temporada 5 de Bridgerton? Confira o que diz a criadora da série](https://www.tecmundo.com.br/minha-serie/603320-lady-danbury-volta-para-a-temporada-5-de-bridgerton-confira-o-que-diz-a-criadora-da-serie.htm) | topico: geral | score: 100
+- [7 comandos da Alexa que realmente deixam sua casa inteligente](https://canaltech.com.br/gadgets/7-comandos-da-alexa-que-realmente-deixam-sua-casa-inteligente/) | topico: geral | score: 100
+- [Como hackers manipulam IAs para cometer crimes?](https://canaltech.com.br/seguranca/como-hackers-manipulam-ias-para-cometer-crimes/) | topico: geral | score: 100
+- [Vai migrar para o Claude? 5 recursos da IA que você precisa conhecer](https://canaltech.com.br/apps/vai-migrar-para-o-claude-5-recursos-da-ia-que-voce-precisa-conhecer/) | topico: llms | score: 92
+- [Xbox precisa de um "Reggie Fils-Aimé" ou outro Phil Spencer?](https://canaltech.com.br/games/xbox-precisa-de-um-reggie-fils-aime-ou-outro-phil-spencer/) | topico: geral | score: 100
+- [Expedition 33 e mais jogos para PC com até 94% OFF na Steam](https://www.tecmundo.com.br/voxel/503720-expedition-33-e-mais-jogos-para-pc-com-ate-94-off-na-steam.htm) | topico: geral | score: 100
+- [Funko lança coleção inspirada em Guerreiras do K-pop; confira os colecionáveis](https://www.tecmundo.com.br/minha-serie/603317-funko-lanca-colecao-inspirada-em-guerreiras-do-k-pop-confira-os-colecionaveis.htm) | topico: geral | score: 92

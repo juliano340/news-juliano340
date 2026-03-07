@@ -1,6 +1,6 @@
 {
-  "slug": "xbox-precisa-de-um-reggie-fils-aime-ou-outro-phil-spencer",
-  "generated_at": "2026-03-07T15:07:04.564Z",
+  "slug": "como-hackers-manipulam-ias-para-cometer-crimes",
+  "generated_at": "2026-03-07T15:03:54.668Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 379,
+      "words": 297,
       "min": 220
     },
     {

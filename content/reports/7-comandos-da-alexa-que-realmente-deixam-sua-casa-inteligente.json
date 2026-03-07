@@ -1,6 +1,6 @@
 {
-  "slug": "xbox-precisa-de-um-reggie-fils-aime-ou-outro-phil-spencer",
-  "generated_at": "2026-03-07T15:07:04.564Z",
+  "slug": "7-comandos-da-alexa-que-realmente-deixam-sua-casa-inteligente",
+  "generated_at": "2026-03-07T15:02:30.429Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 379,
+      "words": 432,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "xbox-precisa-de-um-reggie-fils-aime-ou-outro-phil-spencer",
-  "generated_at": "2026-03-07T15:07:04.564Z",
+  "slug": "expedition-33-e-mais-jogos-para-pc-com-ate-94percent-off-na-steam",
+  "generated_at": "2026-03-07T15:08:24.051Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 379,
+      "words": 311,
       "min": 220
     },
     {
