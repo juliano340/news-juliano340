@@ -1,61 +1,43 @@
 {
-  "generated_at": "2026-03-07T15:10:03.787Z",
+  "generated_at": "2026-03-07T17:07:55.017Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 4,
   "posts": [
     {
-      "title": "7 comandos da Alexa que realmente deixam sua casa inteligente",
-      "slug": "7-comandos-da-alexa-que-realmente-deixam-sua-casa-inteligente",
+      "title": "Como o GrapheneOS funciona? Conheça a versão do Android sem Google",
+      "slug": "como-o-grapheneos-funciona-conheca-a-versao-do-android-sem-google",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T15:00:00.000Z",
+      "date": "2026-03-07T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/gadgets/7-comandos-da-alexa-que-realmente-deixam-sua-casa-inteligente/"
+      "original_url": "https://canaltech.com.br/apps/como-o-grapheneos-funciona-conheca-a-versao-do-android-sem-google/"
     },
     {
-      "title": "Como hackers manipulam IAs para cometer crimes?",
-      "slug": "como-hackers-manipulam-ias-para-cometer-crimes",
+      "title": "BYD, Jeep, Leap e Honda jogam preços no chão para limpar estoques",
+      "slug": "byd-jeep-leap-e-honda-jogam-precos-no-chao-para-limpar-estoques",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T14:00:00.000Z",
+      "date": "2026-03-07T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/como-hackers-manipulam-ias-para-cometer-crimes/"
+      "original_url": "https://canaltech.com.br/carros/byd-jeep-leap-e-honda-jogam-precos-no-chao-para-limpar-estoques/"
     },
     {
-      "title": "Vai migrar para o Claude? 5 recursos da IA que você precisa conhecer",
-      "slug": "vai-migrar-para-o-claude-5-recursos-da-ia-que-voce-precisa-conhecer",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-07T13:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/vai-migrar-para-o-claude-5-recursos-da-ia-que-voce-precisa-conhecer/"
-    },
-    {
-      "title": "Xbox precisa de um \"Reggie Fils-Aimé\" ou outro Phil Spencer?",
-      "slug": "xbox-precisa-de-um-reggie-fils-aime-ou-outro-phil-spencer",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-07T13:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/xbox-precisa-de-um-reggie-fils-aime-ou-outro-phil-spencer/"
-    },
-    {
-      "title": "Expedition 33 e mais jogos para PC com até 94% OFF na Steam",
-      "slug": "expedition-33-e-mais-jogos-para-pc-com-ate-94percent-off-na-steam",
+      "title": "Filmes canônicos de Resident Evil: veja a lista e onde assistir cada um deles",
+      "slug": "filmes-canonicos-de-resident-evil-veja-a-lista-e-onde-assistir-cada-um-deles",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T14:00:00.000Z",
+      "date": "2026-03-07T16:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503720-expedition-33-e-mais-jogos-para-pc-com-ate-94-off-na-steam.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503689-filmes-canonicos-de-resident-evil-veja-a-lista-e-onde-assistir-cada-um-deles.htm"
     },
     {
-      "title": "Funko lança coleção inspirada em Guerreiras do K-pop; confira os colecionáveis",
-      "slug": "funko-lanca-colecao-inspirada-em-guerreiras-do-k-pop-confira-os-colecionaveis",
+      "title": "Onde assistir todas as temporadas de Outlander e seu spin-off",
+      "slug": "onde-assistir-todas-as-temporadas-de-outlander-e-seu-spin-off",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T13:46:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603317-funko-lanca-colecao-inspirada-em-guerreiras-do-k-pop-confira-os-colecionaveis.htm"
+      "date": "2026-03-07T15:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603295-onde-assistir-todas-as-temporadas-de-outlander-e-seu-spin-off.htm"
     }
   ]
 }
