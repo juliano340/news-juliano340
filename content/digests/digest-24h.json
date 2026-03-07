@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-03-07T01:02:07.443Z",
+  "generated_at": "2026-03-07T03:02:08.711Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 2,
   "posts": [
     {
-      "title": "Review do Redmi Note 15 Pro 5G: resistência e bateria que impressionam",
-      "slug": "review-do-redmi-note-15-pro-5g-resistencia-e-bateria-que-impressionam",
+      "title": "EUA preparam novas regras para contratos de IA após impasse com Anthropic, diz jornal",
+      "slug": "eua-preparam-novas-regras-para-contratos-de-ia-apos-impasse-com-anthropic-diz-jornal",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-07T01:54:05.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/06/eua-novas-regras-contratos-ia.ghtml"
+    },
+    {
+      "title": "Mês do Consumidor: Galaxy Tab S10 Lite fica 25% mais barato com cupom",
+      "slug": "mes-do-consumidor-galaxy-tab-s10-lite-fica-25percent-mais-barato-com-cupom",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-06T19:31:54.000Z",
+      "date": "2026-03-06T21:45:51.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/testamos/review-do-redmi-note-15-pro-5g-resistencia-e-bateria-que-impressionam/"
+      "original_url": "https://tecnoblog.net/achados/mes-do-consumidor-galaxy-tab-s10-lite-fica-25-mais-barato-com-cupom/"
     }
   ]
 }

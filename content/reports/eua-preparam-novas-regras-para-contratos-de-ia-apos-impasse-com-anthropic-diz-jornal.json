@@ -1,7 +1,7 @@
 {
-  "slug": "mes-do-consumidor-galaxy-tab-s10-lite-fica-25percent-mais-barato-com-cupom",
-  "generated_at": "2026-03-07T03:01:56.147Z",
-  "status": "WARN",
+  "slug": "eua-preparam-novas-regras-para-contratos-de-ia-apos-impasse-com-anthropic-diz-jornal",
+  "generated_at": "2026-03-07T03:01:05.329Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 286,
+      "words": 358,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
