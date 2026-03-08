@@ -1,6 +1,6 @@
 {
-  "slug": "feliz-dia-da-mulher-frases-veja-52-mensagens-prontas-para-usar",
-  "generated_at": "2026-03-08T15:13:48.689Z",
+  "slug": "ea-sports-fc-26-baratinho-f1-25-e-monster-hunter-de-graca-e-mais-veja-as-indicacoes-de-games-da-semana",
+  "generated_at": "2026-03-08T15:08:10.399Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 390,
+      "words": 326,
       "min": 220
     },
     {

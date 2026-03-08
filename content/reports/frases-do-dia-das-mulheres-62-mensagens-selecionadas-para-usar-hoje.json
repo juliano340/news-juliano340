@@ -1,6 +1,6 @@
 {
-  "slug": "feliz-dia-da-mulher-frases-veja-52-mensagens-prontas-para-usar",
-  "generated_at": "2026-03-08T15:13:48.689Z",
+  "slug": "frases-do-dia-das-mulheres-62-mensagens-selecionadas-para-usar-hoje",
+  "generated_at": "2026-03-08T15:11:53.826Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 390,
+      "words": 288,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "feliz-dia-da-mulher-frases-veja-52-mensagens-prontas-para-usar",
-  "generated_at": "2026-03-08T15:13:48.689Z",
+  "slug": "loja-da-pichau-na-shopee-tem-placas-de-video-com-desconto-e-cupom-de-rdollar100",
+  "generated_at": "2026-03-08T15:06:08.950Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 390,
+      "words": 308,
       "min": 220
     },
     {
