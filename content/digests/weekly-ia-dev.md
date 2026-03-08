@@ -1,10 +1,11 @@
 # Weekly IA para Devs - 2026-03-08
 
-Gerado em 2026-03-08T15:13:49.694Z
+Gerado em 2026-03-08T17:10:48.224Z
 
-- [5 RPGs clássicos que foram "salvos" pelo botão de acelerar](https://canaltech.com.br/games/rpgs-classicos-salvos-pelo-botao-acelerar/) | topico: geral | score: 100
-- [Loja da Pichau na Shopee tem placas de vídeo com desconto e cupom de R$100](https://www.tecmundo.com.br/guia-de-compras/411408-loja-da-pichau-na-shopee-tem-placas-de-video-com-desconto-e-cupom-de-r100.htm) | topico: geral | score: 100
-- [EA Sports FC 26 baratinho, F1 25 e Monster Hunter de graça e mais! Veja as indicações de games da semana](https://www.tecmundo.com.br/voxel/503721-ea-sports-fc-26-baratinho-f1-25-e-monster-hunter-de-graca-e-mais-veja-as-indicacoes-de-games-da-semana.htm) | topico: geral | score: 100
-- [8 filmes e séries com Joel Edgerton, de Sonhos de Trem](https://www.tecmundo.com.br/minha-serie/603276-8-filmes-e-series-com-joel-edgerton-de-sonhos-de-trem.htm) | topico: geral | score: 100
-- [Frases do Dia das Mulheres: 62 mensagens selecionadas para usar hoje](https://www.uol.com.br/tilt/noticias/redacao/2026/03/08/frases-do-dia-das-mulheres-65-mensagens-selecionadas-para-usar-hoje.htm) | topico: geral | score: 100
-- [Feliz Dia da Mulher frases: veja 52 mensagens prontas para usar](https://www.uol.com.br/tilt/noticias/redacao/2026/03/08/feliz-dia-da-mulher-frases-veja-58-mensagens-prontas-para-usar.htm) | topico: geral | score: 100
+- [Nostalgia: 3 toca-fitas para carro que fizeram sucesso nos anos 80](https://canaltech.com.br/carros/nostalgia-3-toca-fitas-para-carro-que-fizeram-sucesso-nos-anos-80/) | topico: llms | score: 100
+- [Não gosta de "borrachinha"? Veja 6 modelos de fones abertos para comprar](https://canaltech.com.br/fone-de-ouvido/nao-gosta-de-borrachinha-veja-6-modelos-de-fones-abertos-para-comprar/) | topico: produtividade-dev | score: 100
+- [Biometria é mais segura que senha no celular?](https://canaltech.com.br/smartphone/biometria-e-mais-segura-que-senha-no-celular/) | topico: geral | score: 100
+- [5 jogos da franquia Power Rangers para você morfar](https://www.tecmundo.com.br/voxel/503534-5-jogos-da-franquia-power-rangers-para-voce-morfar.htm) | topico: geral | score: 85
+- [Mochilas, camisetas, tênis Nike e mais da marca com até 70% OFF na Netshoes; aproveite](https://www.tecmundo.com.br/guia-de-compras/411412-mochilas-camisetas-tenis-nike-e-mais-da-marca-com-ate-70-off-na-netshoes-aproveite.htm) | topico: geral | score: 100
+- [Bugonia já está no streaming! Veja onde e como assistir](https://www.tecmundo.com.br/minha-serie/603315-bugonia-ja-esta-no-streaming-veja-onde-e-como-assistir.htm) | topico: geral | score: 92
+- [X investiga postagens ofensivas do chatbot Grok da xAI, diz Sky News](https://www.uol.com.br/tilt/noticias/reuters/2026/03/08/x-investiga-postagens-ofensivas-do-chatbot-grok-da-xai-diz-sky-news.htm) | topico: geral | score: 100

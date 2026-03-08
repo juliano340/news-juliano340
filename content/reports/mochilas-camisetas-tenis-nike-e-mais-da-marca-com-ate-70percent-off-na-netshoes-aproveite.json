@@ -1,6 +1,6 @@
 {
-  "slug": "biometria-e-mais-segura-que-senha-no-celular",
-  "generated_at": "2026-03-08T17:04:55.384Z",
+  "slug": "mochilas-camisetas-tenis-nike-e-mais-da-marca-com-ate-70percent-off-na-netshoes-aproveite",
+  "generated_at": "2026-03-08T17:07:49.036Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 298,
+      "words": 350,
       "min": 220
     },
     {

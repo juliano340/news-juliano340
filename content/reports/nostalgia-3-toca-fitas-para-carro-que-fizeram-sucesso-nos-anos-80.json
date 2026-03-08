@@ -1,6 +1,6 @@
 {
-  "slug": "biometria-e-mais-segura-que-senha-no-celular",
-  "generated_at": "2026-03-08T17:04:55.384Z",
+  "slug": "nostalgia-3-toca-fitas-para-carro-que-fizeram-sucesso-nos-anos-80",
+  "generated_at": "2026-03-08T17:02:37.332Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 298,
+      "words": 322,
       "min": 220
     },
     {

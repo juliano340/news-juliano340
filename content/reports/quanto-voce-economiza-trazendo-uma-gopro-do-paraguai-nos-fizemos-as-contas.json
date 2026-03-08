@@ -1,0 +1,19 @@
+{
+  "slug": "quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas",
+  "generated_at": "2026-03-08T17:01:00.840Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
