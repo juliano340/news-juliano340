@@ -1,7 +1,7 @@
 {
-  "slug": "quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas",
-  "generated_at": "2026-03-08T23:03:52.480Z",
-  "status": "WARN",
+  "slug": "bluetooth-mais-novo-melhora-audio-ou-so-economia-de-bateria",
+  "generated_at": "2026-03-08T23:01:33.669Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 354,
+      "words": 254,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,11 +91,9 @@
       "min": 3
     }
   ],
-  "warnings": [
-    "fonte_primaria_ausente_no_corpo"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

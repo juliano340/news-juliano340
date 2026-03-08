@@ -1,7 +1,9 @@
 # Weekly IA para Devs - 2026-03-08
 
-Gerado em 2026-03-08T21:06:32.997Z
+Gerado em 2026-03-08T23:08:43.742Z
 
-- [Gerar senhas com IA é seguro? O que fazer e o que NUNCA fazer](https://canaltech.com.br/seguranca/gerar-senhas-com-ia-e-seguro-o-que-fazer-e-o-que-nunca-fazer/) | topico: geral | score: 100
-- [Por que a pré-visualização de links virou o pesadelo da segurança?](https://canaltech.com.br/seguranca/por-que-a-pre-visualizacao-de-links-virou-o-pesadelo-da-seguranca/) | topico: geral | score: 100
-- [Review: Pokémon FireRed traz forte dose de nostalgia, que não distrai de limitações sérias](https://www.tecmundo.com.br/voxel/503712-review-pokemon-firered-traz-forte-dose-de-nostalgia-que-nao-distrai-de-limitacoes-serias.htm) | topico: geral | score: 92
+- [Bluetooth mais novo melhora áudio ou só economia de bateria?](https://canaltech.com.br/produtos/bluetooth-mais-novo-melhora-audio-ou-so-economia-de-bateria/) | topico: produtividade-dev | score: 100
+- [O que é feito na revisão de um carro elétrico?](https://canaltech.com.br/carros/o-que-e-feito-na-revisao-de-um-carro-eletrico/) | topico: produtividade-dev | score: 100
+- [Quanto você economiza trazendo uma GoPro do Paraguai? Nós fizemos as contas](https://canaltech.com.br/camera/quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas/) | topico: produtividade-dev | score: 92
+- [Monster Hunter Stories 3, Fatal Frame 2 e mais! Veja os lançamentos de games da semana](https://www.tecmundo.com.br/voxel/503723-monster-hunter-stories-3-fatal-frame-2-e-mais-veja-os-lancamentos-de-games-da-semana.htm) | topico: geral | score: 100
+- [Home office: 30 vagas para trabalho remoto internacional [08/03]](https://www.tecmundo.com.br/mercado/411401-home-office-30-vagas-para-trabalho-remoto-internacional-0803.htm) | topico: geral | score: 83

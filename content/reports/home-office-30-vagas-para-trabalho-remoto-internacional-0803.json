@@ -1,6 +1,6 @@
 {
-  "slug": "quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas",
-  "generated_at": "2026-03-08T23:03:52.480Z",
+  "slug": "home-office-30-vagas-para-trabalho-remoto-internacional-0803",
+  "generated_at": "2026-03-08T23:06:49.228Z",
   "status": "WARN",
   "checks": [
     {
@@ -19,10 +19,46 @@
     },
     {
       "id": "watch_bullets",
+      "status": "FAIL",
+      "level": "WARN",
+      "reason": "observacao_sem_3_a_5_bullets",
+      "bullets": 0
+    },
+    {
+      "id": "faq_count",
       "status": "PASS",
       "level": "BLOCK",
-      "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "reason": "faq_job_roundup_insuficiente",
+      "count": 4,
+      "min": 4
+    },
+    {
+      "id": "non_duplicate_sections",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "secoes_duplicadas"
+    },
+    {
+      "id": "job_roundup_boilerplate",
+      "status": "PASS",
+      "level": "BLOCK",
+      "reason": "boilerplate_inadequado_para_job_roundup"
+    },
+    {
+      "id": "job_roundup_highlights_count",
+      "status": "PASS",
+      "level": "WARN",
+      "reason": "destaques_insuficientes_no_job_roundup",
+      "count": 6,
+      "min": 6
+    },
+    {
+      "id": "job_roundup_highlights_examples",
+      "status": "FAIL",
+      "level": "WARN",
+      "reason": "destaques_sem_exemplos_suficientes",
+      "count": 0,
+      "min": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +71,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 354,
+      "words": 424,
       "min": 220
     },
     {
@@ -43,7 +79,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "estrutura_com_poucos_paragrafos",
-      "paragraphs": 9,
+      "paragraphs": 13,
       "min": 5
     },
     {
@@ -66,7 +102,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -84,18 +120,20 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 2,
       "min": 3
     }
   ],
   "warnings": [
-    "fonte_primaria_ausente_no_corpo"
+    "observacao_sem_3_a_5_bullets",
+    "destaques_sem_exemplos_suficientes",
+    "poucos_links_internos"
   ],
   "errors": [],
-  "score": 92,
+  "score": 83,
   "metadata": {
     "status": "PASS",
     "checks": [
