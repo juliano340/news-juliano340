@@ -1,25 +1,88 @@
 {
-  "generated_at": "2026-03-08T11:03:15.773Z",
+  "generated_at": "2026-03-08T13:18:57.406Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 9,
   "posts": [
     {
-      "title": "O que é o HyperOS? Conheça o sistema para celulares da Xiaomi",
-      "slug": "o-que-e-o-hyperos-conheca-o-sistema-para-celulares-da-xiaomi",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-08T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-que-e-o-hyperos-conheca-o-sistema-para-celulares-da-xiaomi/"
-    },
-    {
-      "title": "De Fallout a God of War: Prime Video virou a casa das adaptações de games?",
-      "slug": "de-fallout-a-god-of-war-prime-video-virou-a-casa-das-adaptacoes-de-games",
+      "title": "Xbox Helix, portátil ou Project Brooklyn? O que esperar dos novos anúncios",
+      "slug": "xbox-helix-portatil-ou-project-brooklyn-o-que-esperar-dos-novos-anuncios",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-08T10:00:00.000Z",
+      "date": "2026-03-08T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/de-fallout-a-god-of-war-prime-video-virou-a-casa-das-adaptacoes-de-games/"
+      "original_url": "https://canaltech.com.br/games/xbox-helix-portatil-ou-project-brooklyn-o-que-esperar-dos-novos-anuncios/"
+    },
+    {
+      "title": "Vale trocar smartwatch por smartband? Testamos rotinas reais",
+      "slug": "vale-trocar-smartwatch-por-smartband-testamos-rotinas-reais",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-08T12:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/vale-trocar-smartwatch-por-smartband-testamos-rotinas-reais/"
+    },
+    {
+      "title": "3 motivos para comprar o Ford Territory 2026 e 2 para deixar na loja",
+      "slug": "3-motivos-para-comprar-o-ford-territory-2026-e-2-para-deixar-na-loja",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-08T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/3-motivos-para-comprar-o-ford-territory-2026-e-2-para-deixar-na-loja/"
+    },
+    {
+      "title": "Preço da Starlink vai baixar no Brasil? Concorrente chinesa pode forçar queda",
+      "slug": "preco-da-starlink-vai-baixar-no-brasil-concorrente-chinesa-pode-forcar-queda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-08T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/telecom/preco-da-starlink-vai-baixar-no-brasil-concorrente-chinesa-pode-forcar-queda/"
+    },
+    {
+      "title": "5 melhores celulares para jogar ou emular games antigos em 2026",
+      "slug": "5-melhores-celulares-para-jogar-ou-emular-games-antigos-em-2026",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-08T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/5-melhores-celulares-para-jogar-ou-emular-games-antigos-em-2026/"
+    },
+    {
+      "title": "Epic Games libera ótimo jogo grátis no celular! Resgate agora no Android (08)",
+      "slug": "epic-games-libera-otimo-jogo-gratis-no-celular-resgate-agora-no-android-08",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-08T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503701-epic-games-libera-otimo-jogo-gratis-no-celular-resgate-agora-no-android-08.htm"
+    },
+    {
+      "title": "Mensagem 8 de março para WhatsApp: 59 frases do Dia da Mulher",
+      "slug": "mensagem-8-de-marco-para-whatsapp-59-frases-do-dia-da-mulher",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-08T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/08/mensagem-8-de-marco-para-whatsapp-59-frases-do-dia-da-mulher.htm"
+    },
+    {
+      "title": "Mensagem bíblica Dia da Mulher: 25 passagens para refletir no 8 de março",
+      "slug": "mensagem-biblica-dia-da-mulher-25-passagens-para-refletir-no-8-de-marco",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-08T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/08/mensagem-biblica-dia-da-mulher-25-passagens-para-refletir-no-8-de-marco.htm"
+    },
+    {
+      "title": "Mensagem para o Dia das Mulheres: 49 frases criativas e emocionantes",
+      "slug": "mensagem-para-o-dia-das-mulheres-49-frases-criativas-e-emocionantes",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-08T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/08/mensagem-para-o-dia-das-mulheres-49-frases-criativas-e-emocionantes.htm"
     }
   ]
 }
