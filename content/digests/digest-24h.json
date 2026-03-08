@@ -1,34 +1,43 @@
 {
-  "generated_at": "2026-03-07T23:05:24.851Z",
+  "generated_at": "2026-03-08T01:04:47.628Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 4,
   "posts": [
     {
-      "title": "PS6 com GDDR7: o que pode mudar de verdade e o que é marketing",
-      "slug": "ps6-com-gddr7-o-que-pode-mudar-de-verdade-e-o-que-e-marketing",
+      "title": "3 celulares Samsung de ouro que você provavelmente não consegue pagar",
+      "slug": "3-celulares-samsung-de-ouro-que-voce-provavelmente-nao-consegue-pagar",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-07T23:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ps6-com-gddr7-o-que-pode-mudar-de-verdade-e-o-que-e-marketing/"
+      "date": "2026-03-08T00:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/3-celulares-samsung-de-ouro-que-voce-provavelmente-nao-consegue-pagar/"
     },
     {
-      "title": "5 rotas de avião mais usadas em 2025",
-      "slug": "5-rotas-de-aviao-mais-usadas-em-2025",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-07T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/5-rotas-de-aviao-mais-usadas-em-2025/"
-    },
-    {
-      "title": "Saros: história, gameplay, data de lançamento e mais",
-      "slug": "saros-historia-gameplay-data-de-lancamento-e-mais",
+      "title": "Onde assistir Sherlock Holmes? Confira 8 filmes e séries sobre o detetive para assistir",
+      "slug": "onde-assistir-sherlock-holmes-confira-8-filmes-e-series-sobre-o-detetive-para-assistir",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-07T22:00:00.000Z",
+      "date": "2026-03-07T23:15:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503681-saros-historia-gameplay-data-de-lancamento-e-mais.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603313-onde-assistir-sherlock-holmes-confira-8-filmes-e-series-sobre-o-detetive-para-assistir.htm"
+    },
+    {
+      "title": "Por Onde Anda Michael Rosembaum, o Lex Luthor de Smallville?",
+      "slug": "por-onde-anda-michael-rosembaum-o-lex-luthor-de-smallville",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-07T21:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603322-por-onde-anda-michael-rosembaum-o-lex-luthor-de-smallville.htm"
+    },
+    {
+      "title": "Mensagem para Dia da Mulher: 84 frases belas e criativas para enviar",
+      "slug": "mensagem-para-dia-da-mulher-84-frases-belas-e-criativas-para-enviar",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-08T00:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/07/mensagem-para-dia-da-mulher-100-frases-belas-e-criativas-para-enviar.htm"
     }
   ]
 }

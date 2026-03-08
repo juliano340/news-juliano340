@@ -1,6 +1,6 @@
 {
-  "slug": "por-onde-anda-michael-rosembaum-o-lex-luthor-de-smallville",
-  "generated_at": "2026-03-08T01:03:56.484Z",
+  "slug": "mensagem-para-dia-da-mulher-84-frases-belas-e-criativas-para-enviar",
+  "generated_at": "2026-03-08T01:04:46.623Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 249,
+      "words": 370,
       "min": 220
     },
     {

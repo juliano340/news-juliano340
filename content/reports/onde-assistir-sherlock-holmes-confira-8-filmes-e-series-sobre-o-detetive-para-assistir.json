@@ -1,6 +1,6 @@
 {
-  "slug": "por-onde-anda-michael-rosembaum-o-lex-luthor-de-smallville",
-  "generated_at": "2026-03-08T01:03:56.484Z",
+  "slug": "onde-assistir-sherlock-holmes-confira-8-filmes-e-series-sobre-o-detetive-para-assistir",
+  "generated_at": "2026-03-08T01:03:05.175Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 249,
+      "words": 363,
       "min": 220
     },
     {
