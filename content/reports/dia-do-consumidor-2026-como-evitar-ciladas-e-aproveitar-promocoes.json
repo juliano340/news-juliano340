@@ -1,7 +1,7 @@
 {
-  "slug": "quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas",
-  "generated_at": "2026-03-08T19:03:42.275Z",
-  "status": "BLOCK",
+  "slug": "dia-do-consumidor-2026-como-evitar-ciladas-e-aproveitar-promocoes",
+  "generated_at": "2026-03-08T19:08:11.926Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 332,
+      "words": 503,
       "min": 220
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "placeholder_terms",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "BLOCK",
       "reason": "placeholder_detectado"
     },
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,12 +91,85 @@
       "min": 3
     }
   ],
-  "warnings": [
-    "fonte_primaria_ausente_no_corpo"
-  ],
-  "errors": [
-    "placeholder_detectado"
-  ],
-  "score": 85,
-  "metadata": null
+  "warnings": [],
+  "errors": [],
+  "score": 100,
+  "metadata": {
+    "status": "PASS",
+    "checks": [
+      {
+        "id": "required_title",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_date",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_original_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_primary_source",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_content",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_meta_description",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "required_canonical_url",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "slug_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "original_url_format",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "canonical_matches_slug",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "meta_description_length",
+        "status": "PASS",
+        "level": "BLOCK"
+      },
+      {
+        "id": "schema_min_fields",
+        "status": "PASS",
+        "level": "BLOCK"
+      }
+    ],
+    "warnings": [],
+    "errors": [],
+    "score": 100
+  }
 }
