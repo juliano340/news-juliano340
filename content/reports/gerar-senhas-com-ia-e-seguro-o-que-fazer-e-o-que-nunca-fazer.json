@@ -1,7 +1,7 @@
 {
-  "slug": "review-pokemon-firered-traz-forte-dose-de-nostalgia-que-nao-distrai-de-limitacoes-serias",
-  "generated_at": "2026-03-08T21:06:30.930Z",
-  "status": "WARN",
+  "slug": "gerar-senhas-com-ia-e-seguro-o-que-fazer-e-o-que-nunca-fazer",
+  "generated_at": "2026-03-08T21:01:25.378Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 309,
+      "words": 361,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

@@ -1,52 +1,34 @@
 {
-  "generated_at": "2026-03-08T19:10:25.831Z",
+  "generated_at": "2026-03-08T21:06:32.997Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 3,
   "posts": [
     {
-      "title": "Assinou o ChatGPT Plus? 5 recursos que você precisa conhecer",
-      "slug": "assinou-o-chatgpt-plus-5-recursos-que-voce-precisa-conhecer",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-08T19:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/assinou-o-chatgpt-plus-5-recursos-que-voce-precisa-conhecer/"
-    },
-    {
-      "title": "O perigo do \"Patrocinado\": como identificar anúncios falsos nas buscas do Google",
-      "slug": "o-perigo-do-patrocinado-como-identificar-anuncios-falsos-nas-buscas-do-google",
+      "title": "Gerar senhas com IA é seguro? O que fazer e o que NUNCA fazer",
+      "slug": "gerar-senhas-com-ia-e-seguro-o-que-fazer-e-o-que-nunca-fazer",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-08T18:00:00.000Z",
+      "date": "2026-03-08T21:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/o-perigo-do-patrocinado-como-identificar-anuncios-falsos-nas-buscas-do-google/"
+      "original_url": "https://canaltech.com.br/seguranca/gerar-senhas-com-ia-e-seguro-o-que-fazer-e-o-que-nunca-fazer/"
     },
     {
-      "title": "Dia do Consumidor 2026: como evitar ciladas e aproveitar promoções",
-      "slug": "dia-do-consumidor-2026-como-evitar-ciladas-e-aproveitar-promocoes",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-08T18:00:00.000Z",
+      "title": "Por que a pré-visualização de links virou o pesadelo da segurança?",
+      "slug": "por-que-a-pre-visualizacao-de-links-virou-o-pesadelo-da-seguranca",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-08T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411131-dia-do-consumidor-2026-como-evitar-ciladas-e-aproveitar-promocoes.htm"
+      "original_url": "https://canaltech.com.br/seguranca/por-que-a-pre-visualizacao-de-links-virou-o-pesadelo-da-seguranca/"
     },
     {
-      "title": "LEGOS mais vendidos na Amazon entram em oferta na Semana do consumidor; aproveite",
-      "slug": "legos-mais-vendidos-na-amazon-entram-em-oferta-na-semana-do-consumidor-aproveite",
+      "title": "Review: Pokémon FireRed traz forte dose de nostalgia, que não distrai de limitações sérias",
+      "slug": "review-pokemon-firered-traz-forte-dose-de-nostalgia-que-nao-distrai-de-limitacoes-serias",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-08T17:16:00.000Z",
+      "date": "2026-03-08T18:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603318-legos-mais-vendidos-na-amazon-entram-em-oferta-na-semana-do-consumidor-aproveite.htm"
-    },
-    {
-      "title": "Final explicado de Jovem Sherlock: entenda desfecho da série do Prime Video",
-      "slug": "final-explicado-de-jovem-sherlock-entenda-desfecho-da-serie-do-prime-video",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-08T17:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603294-final-explicado-de-jovem-sherlock-entenda-desfecho-da-serie-do-prime-video.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503712-review-pokemon-firered-traz-forte-dose-de-nostalgia-que-nao-distrai-de-limitacoes-serias.htm"
     }
   ]
 }
