@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-lanca-moto-g77-e-moto-g67-no-brasil-veja-precos-e-atributos",
-  "generated_at": "2026-03-09T21:03:19.365Z",
+  "slug": "google-campus-anuncia-nova-sede-em-sp-e-lanca-tres-programas-de-apoio-a-startups-de-ia",
+  "generated_at": "2026-03-09T21:12:09.028Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 325,
+      "words": 411,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-lanca-moto-g77-e-moto-g67-no-brasil-veja-precos-e-atributos",
-  "generated_at": "2026-03-09T21:03:19.365Z",
+  "slug": "huawei-watch-gt-6-tem-melhor-preco-do-ano-no-mercado-livre-na-semana-do-consumidor",
+  "generated_at": "2026-03-09T21:02:15.709Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 325,
+      "words": 358,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-lanca-moto-g77-e-moto-g67-no-brasil-veja-precos-e-atributos",
-  "generated_at": "2026-03-09T21:03:19.365Z",
+  "slug": "netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-9",
+  "generated_at": "2026-03-09T21:14:24.003Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 325,
+      "words": 292,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 1,
       "min": 3
     }
   ],

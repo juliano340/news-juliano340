@@ -1,169 +1,250 @@
 {
-  "generated_at": "2026-03-09T19:28:49.629Z",
+  "generated_at": "2026-03-09T21:16:28.961Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 27,
   "posts": [
     {
-      "title": "Como funcionam os programas que recuperam mensagens de celulares e são usados pela PF em investigações",
-      "slug": "como-funcionam-os-programas-que-recuperam-mensagens-de-celulares-e-sao-usados-pela-pf-em-investigacoes",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-09T17:43:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/09/como-funcionam-os-programas-que-recuperam-mensagens-de-celulares-e-sao-usados-pela-pf-em-investigacoes.ghtml"
-    },
-    {
-      "title": "Copilot Cowork: IA autônoma da Microsoft quer trabalhar no seu lugar",
-      "slug": "copilot-cowork-ia-autonoma-da-microsoft-quer-trabalhar-no-seu-lugar",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T18:59:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/copilot-cowork-ia-autonoma-da-microsoft-quer-trabalhar-no-seu-lugar/"
-    },
-    {
-      "title": "Galaxy Buds Core tem menor preço de 2026 até agora na Semana do Consumidor",
-      "slug": "galaxy-buds-core-tem-menor-preco-de-2026-ate-agora-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T18:09:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-buds-core-tem-menor-preco-de-2026-ate-agora-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Semana do Consumidor: Galaxy S25 Ultra (512 GB) 53% mais barato que S26 Ultra",
-      "slug": "semana-do-consumidor-galaxy-s25-ultra-512-gb-53percent-mais-barato-que-s26-ultra",
+      "title": "'Treinando caso ela diga não': vídeos no TikTok simulam agressões a mulheres em meio a escalada de violência e recorde de feminicídios",
+      "slug": "treinando-caso-ela-diga-nao-videos-no-tiktok-simulam-agressoes-a-mulheres-em-meio-a-escalada-de-violencia-e-recorde-de-feminicidios",
       "topic": "seguranca-ia",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-09T18:33:58.000Z",
+      "editorial_score": 92,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/09/treinando-caso-ela-diga-nao-videos-simulam-agressoes-a-mulheres-que-recusam-namoro-e-casamento-viralizam-no-tiktok.ghtml"
+    },
+    {
+      "title": "O que são redes de computadores? Veja tipos e exemplos de computer networks",
+      "slug": "o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks",
+      "topic": "infra-ia",
       "source": "Tecnoblog",
-      "date": "2026-03-09T15:07:45.000Z",
+      "date": "2026-03-09T20:33:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/semana-do-consumidor-galaxy-s25-ultra-512-gb-53-mais-barato-que-s26-ultra/"
+      "original_url": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
     },
     {
-      "title": "Microsoft alerta para aumento do uso de IA para acelerar ataques digitais",
-      "slug": "microsoft-alerta-para-aumento-do-uso-de-ia-para-acelerar-ataques-digitais",
+      "title": "Huawei Watch GT 6 tem melhor preço do ano no Mercado Livre na Semana do Consumidor",
+      "slug": "huawei-watch-gt-6-tem-melhor-preco-do-ano-no-mercado-livre-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T20:18:38.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/huawei-watch-gt-6-tem-melhor-preco-do-ano-no-mercado-livre-na-semana-do-consumidor/"
+    },
+    {
+      "title": "Chips Intel Core Series 2 chegam somente com núcleos de alto desempenho",
+      "slug": "chips-intel-core-series-2-chegam-somente-com-nucleos-de-alto-desempenho",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T20:17:03.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/chips-intel-core-series-2-chegam-somente-com-nucleos-de-alto-desempenho/"
+    },
+    {
+      "title": "Motorola lança Moto G77 e Moto G67 no Brasil; veja preços e atributos",
+      "slug": "motorola-lanca-moto-g77-e-moto-g67-no-brasil-veja-precos-e-atributos",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T18:15:46.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/motorola-lanca-moto-g77-e-moto-g67-no-brasil-veja-precos-e-atributos/"
+    },
+    {
+      "title": "MacBooks com chip M5 são homologados pela Anatel",
+      "slug": "macbooks-com-chip-m5-sao-homologados-pela-anatel",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T16:44:54.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/macbooks-com-chip-m5-sao-homologados-na-anatel/"
+    },
+    {
+      "title": "CEO da Bluesky deixa o cargo e rede social anuncia novo chefe interino",
+      "slug": "ceo-da-bluesky-deixa-o-cargo-e-rede-social-anuncia-novo-chefe-interino",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-09T18:45:00.000Z",
+      "date": "2026-03-09T20:52:14.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/microsoft-alerta-para-aumento-do-uso-de-ia-para-acelerar-ataques-digitais/"
+      "original_url": "https://canaltech.com.br/mercado/ceo-da-bluesky-deixa-o-cargo-e-rede-social-anuncia-novo-chefe-interino/"
     },
     {
-      "title": "Motorola Signature x iPhone 17 Pro: qual lançamento faz mais sentido?",
-      "slug": "motorola-signature-x-iphone-17-pro-qual-lancamento-faz-mais-sentido",
+      "title": "Cilada no Android? Emulador pago de Xbox usa código de app grátis",
+      "slug": "cilada-no-android-emulador-pago-de-xbox-usa-codigo-de-app-gratis",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-09T18:39:00.000Z",
+      "date": "2026-03-09T20:50:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/motorola-signature-x-iphone-17-pro-qual-lancamento-faz-mais-sentido/"
+      "original_url": "https://canaltech.com.br/games/cilada-no-android-emulador-pago-de-xbox-usa-codigo-de-app-gratis/"
     },
     {
-      "title": "Cientistas usam \"visão de raio X\" para recuperar mapa das estrelas perdido",
-      "slug": "cientistas-usam-visao-de-raio-x-para-recuperar-mapa-das-estrelas-perdido",
+      "title": "OpenAI adquire startup para aumentar segurança de seus agentes de IA",
+      "slug": "openai-adquire-startup-para-aumentar-seguranca-de-seus-agentes-de-ia",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T20:31:15.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/openai-adquire-startup-para-aumentar-seguranca-de-seus-agentes-de-ia/"
+    },
+    {
+      "title": "Empresas da Fortune 500 vazam chaves privadas e \"abrem as portas\" para hackers",
+      "slug": "empresas-da-fortune-500-vazam-chaves-privadas-e-abrem-as-portas-para-hackers",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T20:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/empresas-da-fortune-500-vazam-chaves-privadas-e-abrem-as-portas-para-hackers/"
+    },
+    {
+      "title": "Magalu faz queima de robô que aspira e passa pano em casa grande; menos de R$700",
+      "slug": "magalu-faz-queima-de-robo-que-aspira-e-passa-pano-em-casa-grande-menos-de-rdollar700",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T19:57:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/magalu-faz-queima-de-robo-que-aspira-e-passa-pano-em-casa-grande-menos-de-r700/"
+    },
+    {
+      "title": "Guerra comercial: Nintendo vai à Justiça contra EUA e exige reembolso com juros",
+      "slug": "guerra-comercial-nintendo-vai-a-justica-contra-eua-e-exige-reembolso-com-juros",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T19:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/guerra-comercial-nintendo-vai-a-justica-contra-eua-e-exige-reembolso-com-juros/"
+    },
+    {
+      "title": "Gomu Gomu no Sô! Chico Bento vira Luffy em crossover genial com One Piece",
+      "slug": "gomu-gomu-no-so-chico-bento-vira-luffy-em-crossover-genial-com-one-piece",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T19:39:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/gomu-gomu-no-so-chico-bento-vira-luffy-em-crossover-genial-com-one-piece/"
+    },
+    {
+      "title": "X libera ajuste para impedir que o Grok edite suas fotos na rede social",
+      "slug": "x-libera-ajuste-para-impedir-que-o-grok-edite-suas-fotos-na-rede-social",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-09T19:27:08.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/x-libera-ajuste-para-impedir-que-o-grok-edite-suas-fotos-na-rede-social/"
+    },
+    {
+      "title": "Apple libera iOS 26.4 com novos emojis para o iPhone",
+      "slug": "apple-libera-ios-264-com-novos-emojis-para-o-iphone",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-09T18:23:09.000Z",
+      "date": "2026-03-09T19:22:28.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/espaco/cientistas-usam-visao-de-raio-x-para-recuperar-mapa-das-estrelas-perdido/"
+      "original_url": "https://canaltech.com.br/apps/apple-libera-ios-264-com-novos-emojis-para-o-iphone/"
     },
     {
-      "title": "Quais as diferenças entre Copilot Cowork e Claude Cowork?",
-      "slug": "quais-as-diferencas-entre-copilot-cowork-e-claude-cowork",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-09T18:18:35.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/quais-as-diferencas-entre-copilot-cowork-e-claude-cowork/"
-    },
-    {
-      "title": "Motorola Signature x Galaxy S26 Ultra: qual é mais poderoso?",
-      "slug": "motorola-signature-x-galaxy-s26-ultra-qual-e-mais-poderoso",
+      "title": "Vai ter Steam Machine! Valve edita post e confirma console para 2026",
+      "slug": "vai-ter-steam-machine-valve-edita-post-e-confirma-console-para-2026",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-09T18:05:00.000Z",
+      "date": "2026-03-09T19:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/motorola-signature-x-galaxy-s26-ultra-qual-e-mais-poderoso/"
+      "original_url": "https://canaltech.com.br/games/vai-ter-steam-machine-valve-edita-post-e-confirma-console-para-2026/"
     },
     {
-      "title": "Toyota derruba preços do Corolla para frear avanço do King",
-      "slug": "toyota-derruba-precos-do-corolla-para-frear-avanco-do-king",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T18:00:00.000Z",
+      "title": "Semana do Consumidor no Magazine Luiza: confira as ofertas de destaque",
+      "slug": "semana-do-consumidor-no-magazine-luiza-confira-as-ofertas-de-destaque",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-09T21:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/toyota-derruba-precos-do-corolla-para-frear-avanco-do-king/"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411454-semana-do-consumidor-no-magazine-luiza-confira-as-ofertas-de-destaque.htm"
     },
     {
-      "title": "Tablet top da Samsung está com R$ 3,3 mil de desconto; Tab S11 Ultra no precinho",
-      "slug": "tablet-top-da-samsung-esta-com-rdollar-33-mil-de-desconto-tab-s11-ultra-no-precinho",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T17:28:49.000Z",
+      "title": "Australianos usam VPNs para driblar restrições em sites adultos",
+      "slug": "australianos-usam-vpns-para-driblar-restricoes-em-sites-adultos",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-09T21:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tablet/tablet-top-da-samsung-esta-com-r-33-mil-de-desconto-tab-s11-ultra-no-precinho/"
+      "original_url": "https://www.tecmundo.com.br/software/411438-australianos-usam-vpns-para-driblar-restricoes-em-sites-adultos.htm"
     },
     {
-      "title": "Motorola lança três modelos da linha Edge 70 no Brasil; veja o que muda",
-      "slug": "motorola-lanca-tres-modelos-da-linha-edge-70-no-brasil-veja-o-que-muda",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T17:08:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/motorola-lanca-tres-modelos-da-linha-edge-70-no-brasil-veja-o-que-muda/"
-    },
-    {
-      "title": "Motorola lança os smartphones Moto G67 e G77 no Brasil",
-      "slug": "motorola-lanca-os-smartphones-moto-g67-e-g77-no-brasil",
+      "title": "Google Campus anuncia nova sede em SP e lança três programas de apoio a startups de IA",
+      "slug": "google-campus-anuncia-nova-sede-em-sp-e-lanca-tres-programas-de-apoio-a-startups-de-ia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-09T18:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411443-motorola-lanca-os-smartphones-moto-g67-e-g77-no-brasil.htm"
+      "date": "2026-03-09T20:45:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/mercado/411455-google-campus-anuncia-nova-sede-no-ipt-e-lanca-tres-programas-de-apoio-a-startups-de-ia.htm"
     },
     {
-      "title": "Semana do Consumidor AliExpress: ofertas do Brasil e cupons com até R$365 OFF",
-      "slug": "semana-do-consumidor-aliexpress-ofertas-do-brasil-e-cupons-com-ate-rdollar365-off",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-09T18:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411436-semana-do-consumidor-aliexpress-ofertas-do-brasil-e-cupons-com-ate-r365-off.htm"
-    },
-    {
-      "title": "Crítica: Máquina de Guerra é o filme mais heterossexual da Netflix",
-      "slug": "critica-maquina-de-guerra-e-o-filme-mais-heterossexual-da-netflix",
+      "title": "Claude Opus 4.6 encontra 22 vulnerabilidades em um mês no Firefox",
+      "slug": "claude-opus-46-encontra-22-vulnerabilidades-em-um-mes-no-firefox",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-09T18:18:43.000Z",
+      "date": "2026-03-09T20:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603333-critica-maquina-de-guerra-e-o-filme-mais-heterossexual-da-netflix.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411446-claude-opus-46-encontra-22-vulnerabilidades-em-um-mes-no-firefox.htm"
     },
     {
-      "title": "Apple prepara produtos 'Ultra' entusiastas para o futuro, afirma site",
-      "slug": "apple-prepara-produtos-ultra-entusiastas-para-o-futuro-afirma-site",
-      "topic": "infra-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-09T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411437-apple-prepara-produtos-ultra-entusiastas-para-o-futuro-afirma-site.htm"
-    },
-    {
-      "title": "Discord fora do ar? Serviço de mensagens com instabilidade na tarde de segunda-feira (09)",
-      "slug": "discord-fora-do-ar-servico-de-mensagens-com-instabilidade-na-tarde-de-segunda-feira-09",
+      "title": "Criminosos usam falso Claude Code para distribuir vírus no Google",
+      "slug": "criminosos-usam-falso-claude-code-para-distribuir-virus-no-google",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-09T17:30:06.000Z",
+      "date": "2026-03-09T20:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411439-discord-fora-do-ar-servico-de-mensagens-com-instabilidade-na-tarde-de-segunda-feira-09.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411433-criminosos-usam-falso-claude-code-para-distribuir-virus-no-google.htm"
     },
     {
-      "title": "Nexperia China diz que começou a produzir seus próprios chips",
-      "slug": "nexperia-china-diz-que-comecou-a-produzir-seus-proprios-chips",
+      "title": "Semana do Consumidor Amazon: confira novas ofertas e cupons liberados",
+      "slug": "semana-do-consumidor-amazon-confira-novas-ofertas-e-cupons-liberados",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T20:16:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411448-semana-do-consumidor-amazon-confira-novas-ofertas-e-cupons-liberados.htm"
+    },
+    {
+      "title": "Netflix recebe 8 filmes e séries de peso na semana! Veja lista de lançamentos (9)",
+      "slug": "netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-9",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T20:15:56.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603328-netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-9.htm"
+    },
+    {
+      "title": "Clientes da Vivo foram alvo de vírus que rouba senhas",
+      "slug": "clientes-da-vivo-foram-alvo-de-virus-que-rouba-senhas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T20:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411453-clientes-da-vivo-foram-alvo-de-virus-que-rouba-senhas.htm"
+    },
+    {
+      "title": "Caso Master: Daniel Vorcaro derrubava matérias negativas do Google",
+      "slug": "caso-master-daniel-vorcaro-derrubava-materias-negativas-do-google",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-09T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/411450-caso-master-daniel-vorcaro-derrubava-materias-negativas-do-google.htm"
+    },
+    {
+      "title": "Após atualização, extensão do Chrome passa a espionar milhares de vítimas",
+      "slug": "apos-atualizacao-extensao-do-chrome-passa-a-espionar-milhares-de-vitimas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T19:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411440-apos-atualizacao-extensao-do-chrome-passa-a-espionar-milhares-de-vitimas.htm"
+    },
+    {
+      "title": "Como não cair no 'golpe do chocolate', que enganou filha de Renato Gaúcho",
+      "slug": "como-nao-cair-no-golpe-do-chocolate-que-enganou-filha-de-renato-gaucho",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-09T19:03:40.000Z",
+      "date": "2026-03-09T20:02:48.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/09/nexperia-china-diz-que-comecou-a-produzir-seus-proprios-chips.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/09/como-e-o-golpe-do-chocolate-em-que-a-filha-de-renato-gaucho-diz-ter-caido.htm"
     }
   ]
 }

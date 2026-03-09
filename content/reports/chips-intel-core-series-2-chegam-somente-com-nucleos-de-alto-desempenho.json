@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-lanca-moto-g77-e-moto-g67-no-brasil-veja-precos-e-atributos",
-  "generated_at": "2026-03-09T21:03:19.365Z",
+  "slug": "chips-intel-core-series-2-chegam-somente-com-nucleos-de-alto-desempenho",
+  "generated_at": "2026-03-09T21:02:41.977Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 325,
+      "words": 333,
       "min": 220
     },
     {
