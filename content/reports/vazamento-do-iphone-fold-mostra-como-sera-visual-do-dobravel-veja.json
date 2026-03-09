@@ -1,6 +1,6 @@
 {
-  "slug": "tecnologia-transforma-pneus-em-sensores-capazes-de-antecipar-riscos-na-pista",
-  "generated_at": "2026-03-09T11:05:35.625Z",
+  "slug": "vazamento-do-iphone-fold-mostra-como-sera-visual-do-dobravel-veja",
+  "generated_at": "2026-03-09T11:00:47.948Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 302,
+      "words": 251,
       "min": 220
     },
     {

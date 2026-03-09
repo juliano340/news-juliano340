@@ -1,25 +1,43 @@
 {
-  "generated_at": "2026-03-09T09:03:15.402Z",
+  "generated_at": "2026-03-09T11:05:39.230Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 4,
   "posts": [
     {
-      "title": "Palpites para Mirassol x Santos: Análises e Onde Assistir (10/03/2026)",
-      "slug": "palpites-para-mirassol-x-santos-analises-e-onde-assistir-10032026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-09T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411398-palpites-para-mirassol-x-santos-analises-e-onde-assistir-10032026.htm"
+      "title": "Vazamento do iPhone Fold mostra como será visual do dobrável; veja",
+      "slug": "vazamento-do-iphone-fold-mostra-como-sera-visual-do-dobravel-veja",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T10:21:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/vazamento-do-iphone-fold-mostra-como-sera-visual-do-dobravel-veja/"
     },
     {
-      "title": "Qual é a fase da Lua hoje (9)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-9-veja-calendario-lunar-de-marco-de-2026",
+      "title": "Guerra cibernética: como hackers atuam no conflito entre Irã e EUA",
+      "slug": "guerra-cibernetica-como-hackers-atuam-no-conflito-entre-ira-e-eua",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-09T08:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-09T10:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/09/qual-e-a-fase-da-lua-hoje-9-veja-calendario-lunar-de-marco-de-2026.htm"
+      "original_url": "https://canaltech.com.br/mercado/guerra-cibernetica-como-hackers-atuam-no-conflito-entre-ira-e-eua/"
+    },
+    {
+      "title": "Qual streaming de TV assinar? Compare os apps da Claro, Sky e Vivo",
+      "slug": "qual-streaming-de-tv-assinar-compare-os-apps-da-claro-sky-e-vivo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T09:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/qual-streaming-de-tv-assinar-compare-os-apps-da-claro-sky-e-vivo/"
+    },
+    {
+      "title": "Tecnologia transforma pneus em \"sensores\" capazes de antecipar riscos na pista",
+      "slug": "tecnologia-transforma-pneus-em-sensores-capazes-de-antecipar-riscos-na-pista",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-09T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/tecnologia-transforma-pneus-em-sensores-capazes-de-antecipar-riscos-na-pista/"
     }
   ]
 }
