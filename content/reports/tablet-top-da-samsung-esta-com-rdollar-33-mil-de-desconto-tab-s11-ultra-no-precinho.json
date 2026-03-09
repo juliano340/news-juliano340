@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-lanca-tres-modelos-da-linha-edge-70-no-brasil-veja-o-que-muda",
-  "generated_at": "2026-03-09T19:20:38.814Z",
+  "slug": "tablet-top-da-samsung-esta-com-rdollar-33-mil-de-desconto-tab-s11-ultra-no-precinho",
+  "generated_at": "2026-03-09T19:19:23.516Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",

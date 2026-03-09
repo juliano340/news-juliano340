@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-lanca-tres-modelos-da-linha-edge-70-no-brasil-veja-o-que-muda",
-  "generated_at": "2026-03-09T19:20:38.814Z",
+  "slug": "microsoft-alerta-para-aumento-do-uso-de-ia-para-acelerar-ataques-digitais",
+  "generated_at": "2026-03-09T19:10:35.676Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 348,
+      "words": 358,
       "min": 220
     },
     {

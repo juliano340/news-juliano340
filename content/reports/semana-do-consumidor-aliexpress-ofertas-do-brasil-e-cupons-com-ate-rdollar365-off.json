@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-lanca-tres-modelos-da-linha-edge-70-no-brasil-veja-o-que-muda",
-  "generated_at": "2026-03-09T19:20:38.814Z",
+  "slug": "semana-do-consumidor-aliexpress-ofertas-do-brasil-e-cupons-com-ate-rdollar365-off",
+  "generated_at": "2026-03-09T19:22:24.584Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 348,
+      "words": 298,
       "min": 220
     },
     {
