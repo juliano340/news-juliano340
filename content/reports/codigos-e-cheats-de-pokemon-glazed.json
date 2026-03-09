@@ -1,6 +1,6 @@
 {
-  "slug": "project-helix-sucessor-do-xbox-series-x-pode-ter-preco-alto-veja-previsao",
-  "generated_at": "2026-03-09T17:34:43.313Z",
+  "slug": "codigos-e-cheats-de-pokemon-glazed",
+  "generated_at": "2026-03-09T17:06:37.724Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 401,
+      "words": 353,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "project-helix-sucessor-do-xbox-series-x-pode-ter-preco-alto-veja-previsao",
-  "generated_at": "2026-03-09T17:34:43.313Z",
+  "slug": "motorola-signature-chega-ao-brasil-com-foco-em-luxo-e-alta-durabilidade",
+  "generated_at": "2026-03-09T17:23:49.628Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 401,
+      "words": 283,
       "min": 220
     },
     {

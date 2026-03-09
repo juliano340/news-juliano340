@@ -1,196 +1,205 @@
 {
-  "generated_at": "2026-03-09T15:35:20.402Z",
+  "generated_at": "2026-03-09T17:39:21.703Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 21,
+  "total": 22,
   "posts": [
     {
-      "title": "Galaxy S24 Ultra está ainda mais barato com 55% OFF na Semana do Consumidor",
-      "slug": "galaxy-s24-ultra-esta-ainda-mais-barato-com-55percent-off-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T14:33:39.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s24-ultra-esta-ainda-mais-barato-com-55-off-na-semana-do-consumidor/"
+      "title": "Anthropic processa o governo Trump buscando reverter designação de 'risco à cadeia de suprimentos'",
+      "slug": "anthropic-processa-o-governo-trump-buscando-reverter-designacao-de-risco-a-cadeia-de-suprimentos",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-09T16:12:43.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/09/anthropic-processa-governo-trump.ghtml"
     },
     {
-      "title": "Semana do Consumidor: iPhone 17 (256 GB) tem queda de 20% no Mercado Livre",
-      "slug": "semana-do-consumidor-iphone-17-256-gb-tem-queda-de-20percent-no-mercado-livre",
+      "title": "Motorola lança Signature, concorrente ‘fininho' do Galaxy S26 Ultra",
+      "slug": "motorola-lanca-signature-concorrente-fininho-do-galaxy-s26-ultra",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T14:27:30.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/semana-do-consumidor-iphone-17-256-gb-tem-queda-de-20-no-mercado-livre/"
+      "source": "G1 Tecnologia",
+      "date": "2026-03-09T15:30:33.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/09/motorola-signature-concorrente-galaxy-s26-ultra.ghtml"
     },
     {
-      "title": "Qualcomm anuncia Arduino Ventuno Q, placa que une IA com robótica",
-      "slug": "qualcomm-anuncia-arduino-ventuno-q-placa-que-une-ia-com-robotica",
+      "title": "Códigos e cheats de Pokémon Glazed",
+      "slug": "codigos-e-cheats-de-pokemon-glazed",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T16:34:41.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/codigos-e-cheats-de-pokemon-glazed/"
+    },
+    {
+      "title": "Motorola Edge 70 chega ao Brasil com design fininho; veja quanto custa",
+      "slug": "motorola-edge-70-chega-ao-brasil-com-design-fininho-veja-quanto-custa",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T16:01:55.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/motorola-edge-70-chega-ao-brasil-com-design-fininho-veja-quanto-custa/"
+    },
+    {
+      "title": "China alerta para nova crise global de chips",
+      "slug": "china-alerta-para-nova-crise-global-de-chips",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T15:47:02.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/china-alerta-para-nova-crise-global-de-chips/"
+    },
+    {
+      "title": "Motorola Signature, novo ultra premium da marca, chega ao Brasil; veja preços",
+      "slug": "motorola-signature-novo-ultra-premium-da-marca-chega-ao-brasil-veja-precos",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-09T14:11:17.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/qualcomm-anuncia-arduino-ventuno-q-placa-que-une-ia-com-robotica/"
+      "date": "2026-03-09T15:33:54.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/motorola-signature-novo-ultra-premium-da-marca-chega-ao-brasil-veja-precos/"
     },
     {
-      "title": "Galaxy S25 deve ganhar abertura virtual nas lentes com zoom",
-      "slug": "galaxy-s25-deve-ganhar-abertura-virtual-nas-lentes-com-zoom",
+      "title": "Galaxy Tab S10 FE tem 38% OFF em até 12x sem juros na Semana do Consumidor",
+      "slug": "galaxy-tab-s10-fe-tem-38percent-off-em-ate-12x-sem-juros-na-semana-do-consumidor",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-09T14:06:39.000Z",
+      "date": "2026-03-09T15:32:21.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/galaxy-s25-deve-ganhar-abertura-virtual-nas-lentes-com-zoom/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-tem-38-off-em-ate-12x-sem-juros-na-semana-do-consumidor/"
     },
     {
-      "title": "iPhone Air (1 TB) tem 38% de desconto na Semana do Consumidor no Mercado Livre",
-      "slug": "iphone-air-1-tb-tem-38percent-de-desconto-na-semana-do-consumidor-no-mercado-livre",
+      "title": "Gang of Dragon em apuros? Estúdio do criador de Yakuza perderá financiamento",
+      "slug": "gang-of-dragon-em-apuros-estudio-do-criador-de-yakuza-perdera-financiamento",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T13:50:31.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-09T17:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/gang-of-dragon-em-apuros-estudio-do-criador-de-yakuza-perdera-financiamento/"
+    },
+    {
+      "title": "Novos baratinhos da Motorola chegaram ao Brasil: conheça os Moto G77 e G67",
+      "slug": "novos-baratinhos-da-motorola-chegaram-ao-brasil-conheca-os-moto-g77-e-g67",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T16:30:15.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/novos-baratinhos-da-motorola-chegaram-ao-brasil-conheca-os-moto-g77-e-g67/"
+    },
+    {
+      "title": "De novo: JBS sofre novo mega-ataque hacker e tem 3 TB de dados roubados",
+      "slug": "de-novo-jbs-sofre-novo-mega-ataque-hacker-e-tem-3-tb-de-dados-roubados",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T16:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/de-novo-jbs-sofre-novo-mega-ataque-hacker-e-tem-3-tb-de-dados-roubados/"
+    },
+    {
+      "title": "Xiaomi planeja segundo \"salto\" no nome de seus celulares em dois anos; entenda",
+      "slug": "xiaomi-planeja-segundo-salto-no-nome-de-seus-celulares-em-dois-anos-entenda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T16:04:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/xiaomi-planeja-segundo-salto-no-nome-de-seus-celulares-em-dois-anos-entenda/"
+    },
+    {
+      "title": "BYD quer \"eletrizar\" estádio de gigante brasileiro; entenda",
+      "slug": "byd-quer-eletrizar-estadio-de-gigante-brasileiro-entenda",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-09T16:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-air-1-tb-tem-38-de-desconto-na-semana-do-consumidor-no-mercado-livre/"
+      "original_url": "https://canaltech.com.br/carros/byd-quer-eletrizar-estadio-de-gigante-brasileiro-entenda/"
     },
     {
-      "title": "Semana do Consumidor: iPhone 16 sai 45% mais barato na Amazon",
-      "slug": "semana-do-consumidor-iphone-16-sai-45percent-mais-barato-na-amazon",
+      "title": "Motorola Signature chega ao Brasil com foco em luxo e alta durabilidade",
+      "slug": "motorola-signature-chega-ao-brasil-com-foco-em-luxo-e-alta-durabilidade",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T13:09:21.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-09T15:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/semana-do-consumidor-iphone-16-sai-45-mais-barato-na-amazon/"
+      "original_url": "https://canaltech.com.br/smartphone/motorola-signature-chega-ao-brasil-com-foco-em-luxo-e-alta-durabilidade/"
     },
     {
-      "title": "Galaxy A37 passa na Anatel e já pode chegar ao Brasil",
-      "slug": "galaxy-a37-passa-na-anatel-e-ja-pode-chegar-ao-brasil",
+      "title": "Novo celular da Oppo pode acabar com vinco nas telas dobráveis",
+      "slug": "novo-celular-da-oppo-pode-acabar-com-vinco-nas-telas-dobraveis",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T13:05:09.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-09T17:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411430-novo-celular-da-oppo-pode-acabar-com-vinco-nas-telas-dobraveis.htm"
+    },
+    {
+      "title": "Como funcionam as ferramentas usadas pela PF para 'hackear' celulares?",
+      "slug": "como-funcionam-as-ferramentas-usadas-pela-pf-para-hackear-celulares",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T16:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411427-como-funcionam-as-ferramentas-usadas-pela-pf-para-hackear-celulares.htm"
+    },
+    {
+      "title": "Motorola Edge 70, 70 Fusion e 70 Fusion+ são lançados no Brasil; confira",
+      "slug": "motorola-edge-70-70-fusion-e-70-fusion-sao-lancados-no-brasil-confira",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T16:25:31.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411435-motorola-edge-70-70-fusion-e-70-fusion-sao-lancados-no-brasil-confira.htm"
+    },
+    {
+      "title": "5 filmes parecidos com Máquina de Guerra para assistir na Netflix",
+      "slug": "5-filmes-parecidos-com-maquina-de-guerra-para-assistir-na-netflix",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T16:15:04.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603327-5-filmes-parecidos-com-maquina-de-guerra-para-assistir-na-netflix.htm"
+    },
+    {
+      "title": "Motorola Signature chega ao Brasil com câmeras potentes e 7 anos de atualizações",
+      "slug": "motorola-signature-chega-ao-brasil-com-cameras-potentes-e-7-anos-de-atualizacoes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T16:13:50.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/galaxy-a37-passa-na-anatel-e-ja-pode-chegar-ao-brasil/"
+      "original_url": "https://www.tecmundo.com.br/produto/411434-motorola-signature-chega-ao-brasil-com-cameras-potentes-e-7-anos-de-atualizacoes.htm"
     },
     {
-      "title": "Xbox Helix promete o \"maior salto técnico\" da história, mas a que custo?",
-      "slug": "xbox-helix-promete-o-maior-salto-tecnico-da-historia-mas-a-que-custo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T15:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/xbox-helix-promete-o-maior-salto-tecnico-da-historia-mas-a-que-custo/"
-    },
-    {
-      "title": "Google Tradutor vai facilitar acesso a idiomas específicos durante uma viagem",
-      "slug": "google-tradutor-vai-facilitar-acesso-a-idiomas-especificos-durante-uma-viagem",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-09T15:05:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/google-tradutor-vai-facilitar-acesso-a-idiomas-especificos-durante-uma-viagem/"
-    },
-    {
-      "title": "Microsoft Copilot ganha tecnologia do Claude Cowork para resolver tarefas com IA",
-      "slug": "microsoft-copilot-ganha-tecnologia-do-claude-cowork-para-resolver-tarefas-com-ia",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-09T14:48:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/microsoft-copilot-ganha-tecnologia-do-claude-cowork-para-resolver-tarefas-com-ia/"
-    },
-    {
-      "title": "O que aconteceu com o tema escuro no X? Entenda mudança no app",
-      "slug": "o-que-aconteceu-com-o-tema-escuro-no-x-entenda-mudanca-no-app",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-09T14:43:36.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-que-aconteceu-com-o-tema-escuro-no-x-entenda-mudanca-no-app/"
-    },
-    {
-      "title": "PS Store adota sistema bizarro de preços dinâmicos no PS5; veja como funciona",
-      "slug": "ps-store-adota-sistema-bizarro-de-precos-dinamicos-no-ps5-veja-como-funciona",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T14:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ps-store-adota-sistema-bizarro-de-precos-dinamicos-no-ps5-veja-como-funciona/"
-    },
-    {
-      "title": "iPhone 17 Pro supera Galaxy S26 Ultra em teste de câmeras; veja",
-      "slug": "iphone-17-pro-supera-galaxy-s26-ultra-em-teste-de-cameras-veja",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T14:23:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/iphone-17-pro-supera-galaxy-s26-ultra-em-teste-de-cameras-veja/"
-    },
-    {
-      "title": "Papa recebe SUV de luxo da Ford com detalhes personalizados",
-      "slug": "papa-recebe-suv-de-luxo-da-ford-com-detalhes-personalizados",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/papa-recebe-suv-de-luxo-da-ford-com-detalhes-personalizados/"
-    },
-    {
-      "title": "Erro interno faz funcionário espalhar vírus invisível na Wikipédia",
-      "slug": "erro-interno-faz-funcionario-espalhar-virus-invisivel-na-wikipedia",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T13:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/erro-interno-faz-funcionario-espalhar-virus-invisivel-na-wikipedia/"
-    },
-    {
-      "title": "Air fryer, celular e mais eletrônicos e eletroportáteis com desconto nas Super Ofertas da Shopee",
-      "slug": "air-fryer-celular-e-mais-eletronicos-e-eletroportateis-com-desconto-nas-super-ofertas-da-shopee",
+      "title": "Project Helix, sucessor do Xbox Series X, pode ter preço alto! Veja previsão",
+      "slug": "project-helix-sucessor-do-xbox-series-x-pode-ter-preco-alto-veja-previsao",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-09T15:16:00.000Z",
+      "date": "2026-03-09T15:15:11.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411429-air-fryer-celular-e-mais-eletronicos-e-eletroportateis-com-desconto-nas-super-ofertas-da-shopee.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503726-project-helix-sucessor-do-xbox-series-x-pode-ter-preco-alto-veja-previsao.htm"
     },
     {
-      "title": "iPhone Fold vaza em renderizações com visual quadrado",
-      "slug": "iphone-fold-vaza-em-renderizacoes-com-visual-quadrado",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-09T14:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411423-iphone-fold-vaza-em-renderizacoes-com-visual-quadrado.htm"
-    },
-    {
-      "title": "Por que a Nintendo está processando o governo de Donald Trump nos Estados Unidos? Entenda",
-      "slug": "por-que-a-nintendo-esta-processando-o-governo-de-donald-trump-nos-estados-unidos-entenda",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-09T13:24:43.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503725-por-que-a-nintendo-esta-processando-o-governo-de-donald-trump-nos-estados-unidos-entenda.htm"
-    },
-    {
-      "title": "Galaxy S26 Ultra é resistente? Teste de queda revela que câmeras estão mais frágeis",
-      "slug": "galaxy-s26-ultra-e-resistente-teste-de-queda-revela-que-cameras-estao-mais-frageis",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-09T13:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411421-galaxy-s26-ultra-e-resistente-teste-de-queda-revela-que-cameras-estao-mais-frageis.htm"
-    },
-    {
-      "title": "Microsoft recorre à Anthropic para o Copilot Cowork, em esforço para desenvolver agentes de IA",
-      "slug": "microsoft-recorre-a-anthropic-para-o-copilot-cowork-em-esforco-para-desenvolver-agentes-de-ia",
+      "title": "Centros de tecnologia chineses promovem agente de IA OpenClaw, apesar de riscos",
+      "slug": "centros-de-tecnologia-chineses-promovem-agente-de-ia-openclaw-apesar-de-riscos",
       "topic": "agentes",
       "source": "UOL Tecnologia",
-      "date": "2026-03-09T15:19:46.000Z",
+      "date": "2026-03-09T16:43:30.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/09/microsoft-recorre-a-anthropic-para-o-copilot-cowork-em-esforco-para-desenvolver-agentes-de-ia.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/09/centros-de-tecnologia-chineses-promovem-agente-de-ia-openclaw-apesar-de-riscos.htm"
     },
     {
-      "title": "Pela 1ª vez, TSE obriga big tech a se antecipar a ilícito eleitoral com IA",
-      "slug": "pela-1a-vez-tse-obriga-big-tech-a-se-antecipar-a-ilicito-eleitoral-com-ia",
+      "title": "IA escolheu 1.000 alvos no Irã em 24h e mudou a cara da guerra",
+      "slug": "ia-escolheu-1000-alvos-no-ira-em-24h-e-mudou-a-cara-da-guerra",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-09T14:00:00.000Z",
+      "date": "2026-03-09T16:35:37.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/09/pela-1-vez-tse-obriga-big-tech-a-se-antecipar-a-ilicito-eleitoral-com-ia.htm"
+      "original_url": "https://www.uol.com.br/flash/?c=b12028aa46f889aefa2d75f829c8393020260308"
+    },
+    {
+      "title": "Anthropic abre processo para bloquear inclusão da empresa em lista de restrição pelo Pentágono",
+      "slug": "anthropic-abre-processo-para-bloquear-inclusao-da-empresa-em-lista-de-restricao-pelo-pentagono",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-09T15:43:28.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/09/anthropic-abre-processo-para-bloquear-inclusao-da-empresa-em-lista-de-restricao-pelo-pentagono.htm"
     }
   ]
 }

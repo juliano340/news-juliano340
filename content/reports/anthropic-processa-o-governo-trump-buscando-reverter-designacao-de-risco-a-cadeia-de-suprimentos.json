@@ -1,6 +1,6 @@
 {
-  "slug": "project-helix-sucessor-do-xbox-series-x-pode-ter-preco-alto-veja-previsao",
-  "generated_at": "2026-03-09T17:34:43.313Z",
+  "slug": "anthropic-processa-o-governo-trump-buscando-reverter-designacao-de-risco-a-cadeia-de-suprimentos",
+  "generated_at": "2026-03-09T17:02:25.191Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 401,
+      "words": 317,
       "min": 220
     },
     {

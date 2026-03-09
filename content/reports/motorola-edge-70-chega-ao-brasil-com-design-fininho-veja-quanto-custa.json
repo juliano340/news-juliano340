@@ -1,7 +1,7 @@
 {
-  "slug": "project-helix-sucessor-do-xbox-series-x-pode-ter-preco-alto-veja-previsao",
-  "generated_at": "2026-03-09T17:34:43.313Z",
-  "status": "PASS",
+  "slug": "motorola-edge-70-chega-ao-brasil-com-design-fininho-veja-quanto-custa",
+  "generated_at": "2026-03-09T17:07:39.834Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 401,
+      "words": 273,
       "min": 220
     },
     {
@@ -84,16 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 1,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

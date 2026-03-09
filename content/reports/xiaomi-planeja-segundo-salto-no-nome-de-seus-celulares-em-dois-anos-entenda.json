@@ -1,6 +1,6 @@
 {
-  "slug": "project-helix-sucessor-do-xbox-series-x-pode-ter-preco-alto-veja-previsao",
-  "generated_at": "2026-03-09T17:34:43.313Z",
+  "slug": "xiaomi-planeja-segundo-salto-no-nome-de-seus-celulares-em-dois-anos-entenda",
+  "generated_at": "2026-03-09T17:20:44.911Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 401,
+      "words": 305,
       "min": 220
     },
     {
