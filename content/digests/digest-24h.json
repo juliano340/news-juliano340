@@ -1,43 +1,160 @@
 {
-  "generated_at": "2026-03-09T11:05:39.230Z",
+  "generated_at": "2026-03-09T13:23:30.891Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 17,
   "posts": [
     {
-      "title": "Vazamento do iPhone Fold mostra como será visual do dobrável; veja",
-      "slug": "vazamento-do-iphone-fold-mostra-como-sera-visual-do-dobravel-veja",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T10:21:00.000Z",
+      "title": "Firefox corrige 22 falhas de segurança encontradas por IA",
+      "slug": "firefox-corrige-22-falhas-de-seguranca-encontradas-por-ia",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T12:31:43.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/vazamento-do-iphone-fold-mostra-como-sera-visual-do-dobravel-veja/"
+      "original_url": "https://tecnoblog.net/noticias/firefox-corrige-22-falhas-de-seguranca-encontradas-por-ia/"
     },
     {
-      "title": "Guerra cibernética: como hackers atuam no conflito entre Irã e EUA",
-      "slug": "guerra-cibernetica-como-hackers-atuam-no-conflito-entre-ira-e-eua",
+      "title": "Códigos de Blue Lock Rivals: veja lista com os códigos do Roblox de março",
+      "slug": "codigos-de-blue-lock-rivals-veja-lista-com-os-codigos-do-roblox-de-marco",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T10:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-09T12:14:18.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/guerra-cibernetica-como-hackers-atuam-no-conflito-entre-ira-e-eua/"
+      "original_url": "https://tecnoblog.net/responde/codigos-de-blue-lock-rivals-veja-lista-com-os-codigos-do-roblox-de-marco/"
     },
     {
-      "title": "Qual streaming de TV assinar? Compare os apps da Claro, Sky e Vivo",
-      "slug": "qual-streaming-de-tv-assinar-compare-os-apps-da-claro-sky-e-vivo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T09:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/qual-streaming-de-tv-assinar-compare-os-apps-da-claro-sky-e-vivo/"
-    },
-    {
-      "title": "Tecnologia transforma pneus em \"sensores\" capazes de antecipar riscos na pista",
-      "slug": "tecnologia-transforma-pneus-em-sensores-capazes-de-antecipar-riscos-na-pista",
+      "title": "Fujifilm pede para usuários escolherem quais produtos a marca deve lançar",
+      "slug": "fujifilm-pede-para-usuarios-escolherem-quais-produtos-a-marca-deve-lancar",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-09T09:00:00.000Z",
+      "date": "2026-03-09T12:48:14.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/tecnologia-transforma-pneus-em-sensores-capazes-de-antecipar-riscos-na-pista/"
+      "original_url": "https://canaltech.com.br/camera/fujifilm-pede-para-usuarios-escolherem-quais-produtos-a-marca-deve-lancar/"
+    },
+    {
+      "title": "Samsung derrota TCL na justiça; chinesa não poderá vender TVs QLED na Alemanha",
+      "slug": "samsung-derrota-tcl-na-justica-chinesa-nao-podera-vender-tvs-qled-na-alemanha",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-09T12:48:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/tv/samsung-derrota-tcl-na-justica-chinesa-nao-podera-vender-tvs-qled-na-alemanha/"
+    },
+    {
+      "title": "Microsoft expande prazo para trocar para o novo Outlook no Windows",
+      "slug": "microsoft-expande-prazo-para-trocar-para-o-novo-outlook-no-windows",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-09T12:41:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/microsoft-expande-prazo-para-trocar-para-o-novo-outlook-no-windows/"
+    },
+    {
+      "title": "Galaxy S26 Ultra de 1TB com preço no chão: cupom dá R$ 6,6 mil de desconto",
+      "slug": "galaxy-s26-ultra-de-1tb-com-preco-no-chao-cupom-da-rdollar-66-mil-de-desconto",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T12:30:33.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-ultra-de-1tb-com-preco-no-chao-cupom-da-r-66-mil-de-desconto/"
+    },
+    {
+      "title": "Líder de hardware da OpenAI se demite após acordo com o Pentágono",
+      "slug": "lider-de-hardware-da-openai-se-demite-apos-acordo-com-o-pentagono",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T12:25:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/lider-de-hardware-da-openai-se-demite-apos-acordo-com-o-pentagono/"
+    },
+    {
+      "title": "FBI derruba fórum hacker e rouba dados e IPs de criminosos",
+      "slug": "fbi-derruba-forum-hacker-e-rouba-dados-e-ips-de-criminosos",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T12:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/fbi-derruba-forum-hacker-e-rouba-dados-e-ips-de-criminosos/"
+    },
+    {
+      "title": "Tudo revelado! Galaxy A57 e A37 vazam em anúncio antes da hora",
+      "slug": "tudo-revelado-galaxy-a57-e-a37-vazam-em-anuncio-antes-da-hora",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-09T12:08:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/tudo-revelado-galaxy-a57-e-a37-vazam-em-anuncio-antes-da-hora/"
+    },
+    {
+      "title": "Volvo convoca recall de SUV elétrico por risco de incêndio",
+      "slug": "volvo-convoca-recall-de-suv-eletrico-por-risco-de-incendio",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-09T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/volvo-convoca-recall-de-suv-eletrico-por-risco-de-incendio/"
+    },
+    {
+      "title": "Quem não usa fone de ouvido no avião será expulso de voos; entenda nova política",
+      "slug": "quem-nao-usa-fone-de-ouvido-no-aviao-sera-expulso-de-voos-entenda-nova-politica",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-03-09T11:57:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/fone-de-ouvido/quem-nao-usa-fone-de-ouvido-no-aviao-sera-expulso-de-voos-entenda-nova-politica/"
+    },
+    {
+      "title": "Ventilador, ar-condicionado e mais com até 75% OFF na Shopee",
+      "slug": "ventilador-ar-condicionado-e-mais-com-ate-75percent-off-na-shopee",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T13:09:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411420-ventilador-ar-condicionado-e-mais-com-ate-75-off-na-shopee.htm"
+    },
+    {
+      "title": "Cirurgião viraliza ao usar robô médico para montar LEGO nos EUA",
+      "slug": "cirurgiao-viraliza-ao-usar-robo-medico-para-montar-lego-nos-eua",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-09T12:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/411416-cirurgiao-viraliza-ao-usar-robo-medico-para-montar-lego-nos-eua.htm"
+    },
+    {
+      "title": "Como assistir Baki em ordem? Veja cronologia completa",
+      "slug": "como-assistir-baki-em-ordem-veja-cronologia-completa",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603321-como-assistir-baki-em-ordem-veja-cronologia-completa.htm"
+    },
+    {
+      "title": "O que é link na bio? Entenda como a ferramenta se tornou estratégica em 2026",
+      "slug": "o-que-e-link-na-bio-entenda-como-a-ferramenta-se-tornou-estrategica-em-2026",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T12:00:09.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411418-o-que-e-link-na-bio-entenda-como-a-ferramenta-se-tornou-estrategica-em-2026.htm"
+    },
+    {
+      "title": "Google simplifica integração do OpenClaw ao Gmail e outros apps",
+      "slug": "google-simplifica-integracao-do-openclaw-ao-gmail-e-outros-apps",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-09T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411409-google-simplifica-integracao-do-openclaw-ao-gmail-e-outros-apps.htm"
+    },
+    {
+      "title": "Códigos de Age of Empires: cheats e comandos para todos os jogos",
+      "slug": "codigos-de-age-of-empires-cheats-e-comandos-para-todos-os-jogos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503318-codigos-de-age-of-empires-cheats-e-comandos-para-todos-os-jogos.htm"
     }
   ]
 }
