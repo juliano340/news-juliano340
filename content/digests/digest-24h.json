@@ -1,52 +1,34 @@
 {
-  "generated_at": "2026-03-08T23:08:43.742Z",
+  "generated_at": "2026-03-09T01:04:19.191Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 3,
   "posts": [
     {
-      "title": "Bluetooth mais novo melhora áudio ou só economia de bateria?",
-      "slug": "bluetooth-mais-novo-melhora-audio-ou-so-economia-de-bateria",
-      "topic": "produtividade-dev",
+      "title": "Tem como testar o Android 17 no Brasil? Veja se o seu celular é compatível",
+      "slug": "tem-como-testar-o-android-17-no-brasil-veja-se-o-seu-celular-e-compativel",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-08T23:00:00.000Z",
+      "date": "2026-03-09T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/bluetooth-mais-novo-melhora-audio-ou-so-economia-de-bateria/"
+      "original_url": "https://canaltech.com.br/apps/tem-como-testar-o-android-17-no-brasil-veja-se-o-seu-celular-e-compativel/"
     },
     {
-      "title": "O que é feito na revisão de um carro elétrico?",
-      "slug": "o-que-e-feito-na-revisao-de-um-carro-eletrico",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-08T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/o-que-e-feito-na-revisao-de-um-carro-eletrico/"
-    },
-    {
-      "title": "Quanto você economiza trazendo uma GoPro do Paraguai? Nós fizemos as contas",
-      "slug": "quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-08T17:00:00.000Z",
+      "title": "US$ 1,5 bilhão na mesa: A guerra pela inteligência dos carros autônomos já está nas ruas",
+      "slug": "usdollar-15-bilhao-na-mesa-a-guerra-pela-inteligencia-dos-carros-autonomos-ja-esta-nas-ruas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-09T01:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/camera/quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas/"
+      "original_url": "https://www.tecmundo.com.br/auto/411322-us-15-bilhao-na-mesa-a-guerra-pela-inteligencia-dos-carros-autonomos-ja-esta-nas-ruas.htm"
     },
     {
-      "title": "Monster Hunter Stories 3, Fatal Frame 2 e mais! Veja os lançamentos de games da semana",
-      "slug": "monster-hunter-stories-3-fatal-frame-2-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "title": "One Piece, Scarpetta e mais! Os lançamentos de filmes e séries da semana (08/03)",
+      "slug": "one-piece-scarpetta-e-mais-os-lancamentos-de-filmes-e-series-da-semana-0803",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-08T22:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503723-monster-hunter-stories-3-fatal-frame-2-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
-    },
-    {
-      "title": "Home office: 30 vagas para trabalho remoto internacional [08/03]",
-      "slug": "home-office-30-vagas-para-trabalho-remoto-internacional-0803",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-08T22:00:00.000Z",
-      "editorial_score": 83,
-      "original_url": "https://www.tecmundo.com.br/mercado/411401-home-office-30-vagas-para-trabalho-remoto-internacional-0803.htm"
+      "date": "2026-03-08T23:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603309-one-piece-scarpetta-e-mais-os-lancamentos-de-filmes-e-series-da-semana-0803.htm"
     }
   ]
 }

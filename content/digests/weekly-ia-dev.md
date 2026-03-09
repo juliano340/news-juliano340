@@ -1,9 +1,7 @@
-# Weekly IA para Devs - 2026-03-08
+# Weekly IA para Devs - 2026-03-09
 
-Gerado em 2026-03-08T23:08:43.742Z
+Gerado em 2026-03-09T01:04:19.191Z
 
-- [Bluetooth mais novo melhora áudio ou só economia de bateria?](https://canaltech.com.br/produtos/bluetooth-mais-novo-melhora-audio-ou-so-economia-de-bateria/) | topico: produtividade-dev | score: 100
-- [O que é feito na revisão de um carro elétrico?](https://canaltech.com.br/carros/o-que-e-feito-na-revisao-de-um-carro-eletrico/) | topico: produtividade-dev | score: 100
-- [Quanto você economiza trazendo uma GoPro do Paraguai? Nós fizemos as contas](https://canaltech.com.br/camera/quanto-voce-economiza-trazendo-uma-gopro-do-paraguai-nos-fizemos-as-contas/) | topico: produtividade-dev | score: 92
-- [Monster Hunter Stories 3, Fatal Frame 2 e mais! Veja os lançamentos de games da semana](https://www.tecmundo.com.br/voxel/503723-monster-hunter-stories-3-fatal-frame-2-e-mais-veja-os-lancamentos-de-games-da-semana.htm) | topico: geral | score: 100
-- [Home office: 30 vagas para trabalho remoto internacional [08/03]](https://www.tecmundo.com.br/mercado/411401-home-office-30-vagas-para-trabalho-remoto-internacional-0803.htm) | topico: geral | score: 83
+- [Tem como testar o Android 17 no Brasil? Veja se o seu celular é compatível](https://canaltech.com.br/apps/tem-como-testar-o-android-17-no-brasil-veja-se-o-seu-celular-e-compativel/) | topico: geral | score: 100
+- [US$ 1,5 bilhão na mesa: A guerra pela inteligência dos carros autônomos já está nas ruas](https://www.tecmundo.com.br/auto/411322-us-15-bilhao-na-mesa-a-guerra-pela-inteligencia-dos-carros-autonomos-ja-esta-nas-ruas.htm) | topico: geral | score: 92
+- [One Piece, Scarpetta e mais! Os lançamentos de filmes e séries da semana (08/03)](https://www.tecmundo.com.br/minha-serie/603309-one-piece-scarpetta-e-mais-os-lancamentos-de-filmes-e-series-da-semana-0803.htm) | topico: geral | score: 92
