@@ -1,25 +1,79 @@
 {
-  "generated_at": "2026-03-10T09:01:09.129Z",
+  "generated_at": "2026-03-10T11:05:24.175Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 8,
   "posts": [
     {
-      "title": "Guerra no Oriente Médio pode encarecer tecnologia? Entenda os impactos",
-      "slug": "guerra-no-oriente-medio-pode-encarecer-tecnologia-entenda-os-impactos",
-      "topic": "geral",
+      "title": "Como criar vídeos com IA no NotebookML?",
+      "slug": "como-criar-videos-com-ia-no-notebookml",
+      "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-10T09:00:00.000Z",
+      "date": "2026-03-10T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/guerra-no-oriente-medio-pode-encarecer-tecnologia-entenda-os-impactos-6393/"
+      "original_url": "https://canaltech.com.br/apps/como-criar-videos-com-ia-no-notebookml/"
     },
     {
-      "title": "Qual é a fase da Lua hoje (10)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-10-veja-calendario-lunar-de-marco-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-10T08:30:00.000Z",
+      "title": "Ar-condicionado da Xiaomi detecta pessoas no ambiente para funcionar sozinho",
+      "slug": "ar-condicionado-da-xiaomi-detecta-pessoas-no-ambiente-para-funcionar-sozinho",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-10T10:53:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/10/qual-e-a-fase-da-lua-hoje-10-veja-calendario-lunar-de-marco-de-2026.htm"
+      "original_url": "https://canaltech.com.br/eletro/ar-condicionado-da-xiaomi-detecta-pessoas-no-ambiente-para-funcionar-sozinho/"
+    },
+    {
+      "title": "iPhone dobrável vai ter nome \"de Samsung\"; entenda",
+      "slug": "iphone-dobravel-vai-ter-nome-de-samsung-entenda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T10:24:26.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/iphone-dobravel-vai-ter-nome-de-samsung-entenda/"
+    },
+    {
+      "title": "Golpe da porta aberta: veja como evitar furto e roubo do carro",
+      "slug": "golpe-da-porta-aberta-veja-como-evitar-furto-e-roubo-do-carro",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T09:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/golpe-da-porta-aberta-veja-como-evitar-furto-e-roubo-do-carro/"
+    },
+    {
+      "title": "Por que Resident Evil se chama Biohazard no Japão? Entenda a diferença",
+      "slug": "por-que-resident-evil-se-chama-biohazard-no-japao-entenda-a-diferenca",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503690-por-que-resident-evil-se-chama-biohazard-no-japao-entenda-a-diferenca.htm"
+    },
+    {
+      "title": "Palpites para Flamengo x Cruzeiro: Análises e Onde Assistir (11/03/2026)",
+      "slug": "palpites-para-flamengo-x-cruzeiro-analises-e-onde-assistir-11032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-10T10:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411426-palpites-para-flamengo-x-cruzeiro-analises-e-onde-assistir-11032026.htm"
+    },
+    {
+      "title": "Palpites para Corinthians x Coritiba: Análises e Onde Assistir (11/03/2026)",
+      "slug": "palpites-para-corinthians-x-coritiba-analises-e-onde-assistir-11032026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-10T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411425-palpites-para-corinthians-x-coritiba-analises-e-onde-assistir-11032026.htm"
+    },
+    {
+      "title": "Palpites para Bahia x Vitória: Análises e Onde Assistir (11/03/2026)",
+      "slug": "palpites-para-bahia-x-vitoria-analises-e-onde-assistir-11032026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-10T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411422-palpites-para-bahia-x-vitoria-analises-e-onde-assistir-11032026.htm"
     }
   ]
 }
