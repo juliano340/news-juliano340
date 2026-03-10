@@ -1,223 +1,178 @@
 {
-  "generated_at": "2026-03-10T19:13:10.081Z",
+  "generated_at": "2026-03-10T21:10:57.889Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 24,
+  "total": 19,
   "posts": [
     {
-      "title": "Meta compra Moltbook, rede social voltada a agentes de IA",
-      "slug": "meta-compra-moltbook-rede-social-voltada-a-agentes-de-ia",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-10T18:43:32.000Z",
+      "title": "Oi prepara leilão para vender o que sobrou da telefonia fixa",
+      "slug": "oi-prepara-leilao-para-vender-o-que-sobrou-da-telefonia-fixa",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-10T20:08:44.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/10/meta-compra-moltbook-rede-social-de-agentes-de-ia.ghtml"
+      "original_url": "https://tecnoblog.net/noticias/oi-prepara-leilao-para-vender-o-que-sobrou-da-telefonia-fixa/"
     },
     {
-      "title": "X Money: Elon Musk diz que lançará sistema de pagamentos do X em abril",
-      "slug": "x-money-elon-musk-diz-que-lancara-sistema-de-pagamentos-do-x-em-abril",
+      "title": "O que é scareware? Saiba como funciona esse tipo de golpe cibernético",
+      "slug": "o-que-e-scareware-saiba-como-funciona-esse-tipo-de-golpe-cibernetico",
       "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-10T18:26:23.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-10T19:16:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/10/x-money-elon-musk-diz-que-sistema-de-pagamentos-do-x-sera-lancado-em-abril.ghtml"
+      "original_url": "https://tecnoblog.net/responde/o-que-e-scareware-saiba-como-funciona-esse-tipo-de-golpe-cibernetico/"
     },
     {
-      "title": "TikTok remove vídeos que simulavam agressões contra mulheres após reportagem e investigação da PF; perfis seguem no ar",
-      "slug": "tiktok-remove-videos-que-simulavam-agressoes-contra-mulheres-apos-reportagem-e-investigacao-da-pf-perfis-seguem-no-ar",
+      "title": "Do terror ao humor absurdo: conheça Zach Cregger, diretor do novo Resident Evil",
+      "slug": "do-terror-ao-humor-absurdo-conheca-zach-cregger-diretor-do-novo-resident-evil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T21:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/entretenimento/do-terror-ao-humor-absurdo-conheca-zach-cregger-diretor-do-novo-resident-evil/"
+    },
+    {
+      "title": "Nova escova da Xiaomi ensina crianças a escovarem os dentes",
+      "slug": "nova-escova-da-xiaomi-ensina-criancas-a-escovarem-os-dentes",
       "topic": "produtividade-dev",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-10T17:01:48.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/10/tiktok-remove-videos-que-simulavam-agressoes-contra-mulheres.ghtml"
-    },
-    {
-      "title": "Google NotebookLM agora “lê” livros em EPUB para gerar resumos e afins",
-      "slug": "google-notebooklm-agora-le-livros-em-epub-para-gerar-resumos-e-afins",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-10T18:42:14.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-notebooklm-agora-le-livros-em-epub-para-gerar-resumos-e-afins/"
-    },
-    {
-      "title": "Ericsson culpa fornecedor por vazamento que expôs dados de 15 mil pessoas",
-      "slug": "ericsson-culpa-fornecedor-por-vazamento-que-expos-dados-de-15-mil-pessoas",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-10T18:30:01.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/ericsson-culpa-fornecedor-por-vazamento-que-expos-dados-de-15-mil-pessoas/"
-    },
-    {
-      "title": "Galaxy S25 FE tem 45% de desconto com cupom na Semana do Consumidor",
-      "slug": "galaxy-s25-fe-tem-45percent-de-desconto-com-cupom-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-10T17:40:15.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-fe-tem-45-de-desconto-com-cupom-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Rumor indica que Xbox seguirá apostando em política que desagrada fãs",
-      "slug": "rumor-indica-que-xbox-seguira-apostando-em-politica-que-desagrada-fas",
-      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-10T18:50:00.000Z",
+      "date": "2026-03-10T20:58:29.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/rumor-indica-que-xbox-seguira-apostando-em-politica-que-desagrada-fas/"
+      "original_url": "https://canaltech.com.br/produtos/nova-escova-da-xiaomi-ensina-criancas-a-escovarem-os-dentes/"
     },
     {
-      "title": "One UI 8.5 vai reiniciar celulares sem uso por dias para proteger dados",
-      "slug": "one-ui-85-vai-reiniciar-celulares-sem-uso-por-dias-para-proteger-dados",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-10T18:21:12.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/one-ui-85-vai-reiniciar-celulares-sem-uso-por-dias-para-proteger-dados/"
-    },
-    {
-      "title": "Modo tela cheia do Xbox chega ao Lenovo Legion Go; saiba como testar",
-      "slug": "modo-tela-cheia-do-xbox-chega-ao-lenovo-legion-go-saiba-como-testar",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-10T18:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/modo-tela-cheia-do-xbox-chega-ao-lenovo-legion-go-saiba-como-testar/"
-    },
-    {
-      "title": "Chevrolet faz queima nos preços do Spark EUV para encarar o Dolphin",
-      "slug": "chevrolet-faz-queima-nos-precos-do-spark-euv-para-encarar-o-dolphin",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-10T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/chevrolet-faz-queima-nos-precos-do-spark-euv-para-encarar-o-dolphin/"
-    },
-    {
-      "title": "Photoshop recebe novo assistente para editar imagens com IA",
-      "slug": "photoshop-recebe-novo-assistente-para-editar-imagens-com-ia",
+      "title": "OpenAI transforma ChatGPT em guia oficial de IA do Lollapalooza Brasil",
+      "slug": "openai-transforma-chatgpt-em-guia-oficial-de-ia-do-lollapalooza-brasil",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-10T17:50:52.000Z",
+      "date": "2026-03-10T20:54:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/photoshop-recebe-novo-assistente-para-editar-imagens-com-ia/"
+      "original_url": "https://canaltech.com.br/apps/openai-transforma-chatgpt-em-guia-oficial-de-ia-para-o-lollapalooza-brasil/"
     },
     {
-      "title": "Meta compra Moltbook após sucesso da \"rede social de robôs\"",
-      "slug": "meta-compra-moltbook-apos-sucesso-da-rede-social-de-robos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-10T17:50:11.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/meta-compra-moltbook-apos-sucesso-da-rede-social-de-robos/"
-    },
-    {
-      "title": "Extensões com selo oficial do Google são vendidas a hackers e roubam dados",
-      "slug": "extensoes-com-selo-oficial-do-google-sao-vendidas-a-hackers-e-roubam-dados",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-10T17:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/extensoes-com-selo-oficial-do-google-sao-vendidas-a-hackers-e-roubam-dados/"
-    },
-    {
-      "title": "Criador de Resident Evil funda novo estúdio e já prepara jogo AAA inédito",
-      "slug": "criador-de-resident-evil-funda-novo-estudio-e-ja-prepara-jogo-aaa-inedito",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-10T17:05:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/criador-de-resident-evil-funda-novo-estudio-e-ja-prepara-jogo-aaa-inedito/"
-    },
-    {
-      "title": "A inteligência artificial de voz como infraestrutura de inclusão e continuidade da identidade",
-      "slug": "a-inteligencia-artificial-de-voz-como-infraestrutura-de-inclusao-e-continuidade-da-identidade",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T18:50:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411483-a-inteligencia-artificial-de-voz-como-infraestrutura-de-inclusao-e-continuidade-da-identidade.htm"
-    },
-    {
-      "title": "Samsung lança recurso que bloqueia celulares após 72 horas de inatividade",
-      "slug": "samsung-lanca-recurso-que-bloqueia-celulares-apos-72-horas-de-inatividade",
+      "title": "Meta falha ao moderar deepfakes e é cobrada por comitê",
+      "slug": "meta-falha-ao-moderar-deepfakes-e-e-cobrada-por-comite",
       "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-10T18:45:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-10T20:42:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411479-samsung-lanca-recurso-que-bloqueia-celulares-apos-72-horas-de-inatividade.htm"
+      "original_url": "https://canaltech.com.br/internet/meta-falha-ao-moderar-deepfakes-e-e-cobrada-por-comite/"
     },
     {
-      "title": "Escolha seu Nintendo: consoles com até R$ 200 de desconto com cupom",
-      "slug": "escolha-seu-nintendo-consoles-com-ate-rdollar-200-de-desconto-com-cupom",
+      "title": "Recorde e demissão: EA surpreende e corta equipe de Battlefield 6",
+      "slug": "recorde-e-demissao-ea-surpreende-e-corta-equipe-de-battlefield-6",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T18:36:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-10T20:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503740-escolha-seu-nintendo-consoles-com-ate-r-200-de-desconto-com-cupom.htm"
+      "original_url": "https://canaltech.com.br/games/recorde-e-demissao-ea-surpreende-e-corta-equipe-de-battlefield-6/"
     },
     {
-      "title": "Hacker de GTA 6 condenado à prisão perpétua fala sobre código-fonte do jogo",
-      "slug": "hacker-de-gta-6-condenado-a-prisao-perpetua-fala-sobre-codigo-fonte-do-jogo",
+      "title": "Híbridos mais vendidos: \"família Song\" reina e Yaris Cross estreia",
+      "slug": "hibridos-mais-vendidos-familia-song-reina-e-yaris-cross-estreia",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T18:15:41.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-10T20:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503735-hacker-de-gta-6-condenado-a-prisao-perpetua-fala-sobre-codigo-fonte-do-jogo.htm"
+      "original_url": "https://canaltech.com.br/carros/hibridos-mais-vendidos-familia-song-reina-e-yaris-cross-estreia/"
     },
     {
-      "title": "Anthropic processa governo dos EUA após ser classificada como ameaça à segurança nacional",
-      "slug": "anthropic-processa-governo-dos-eua-apos-ser-classificada-como-ameaca-a-seguranca-nacional",
+      "title": "Link na bio: como criar páginas atrativas para clientes no Instagram",
+      "slug": "link-na-bio-como-criar-paginas-atrativas-para-clientes-no-instagram",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-10T19:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/link-na-bio-como-criar-paginas-atrativas-para-clientes-no-instagram/"
+    },
+    {
+      "title": "LG lança lava e seca com “bomba de calor” que gasta menos e cuida das roupas",
+      "slug": "lg-lanca-lava-e-seca-com-bomba-de-calor-que-gasta-menos-e-cuida-das-roupas",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T18:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-10T19:54:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411474-anthropic-processa-governo-dos-eua-apos-ser-classificada-como-ameaca-a-seguranca-nacional.htm"
+      "original_url": "https://canaltech.com.br/eletro/lg-lanca-lava-e-seca-com-bomba-de-calor-que-gasta-menos-e-cuida-das-roupas/"
     },
     {
-      "title": "Duplicata escritural: a nova infraestrutura que vai potencializar o crédito para PMEs",
-      "slug": "duplicata-escritural-a-nova-infraestrutura-que-vai-potencializar-o-credito-para-pmes",
+      "title": "IA pode ficar mais cara com a alta do petróleo? Especialistas explicam",
+      "slug": "ia-pode-ficar-mais-cara-com-a-alta-do-petroleo-especialistas-explicam",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T17:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411480-duplicata-escritural-a-nova-infraestrutura-que-vai-potencializar-o-credito-para-pmes.htm"
-    },
-    {
-      "title": "YouTube terá anúncios de até 30 segundos que não podem ser pulados",
-      "slug": "youtube-tera-anuncios-de-ate-30-segundos-que-nao-podem-ser-pulados",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-10T17:40:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-10T19:42:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/411475-youtube-tera-anuncios-de-ate-30-segundos-que-nao-podem-ser-pulados.htm"
+      "original_url": "https://canaltech.com.br/mercado/ia-pode-ficar-mais-cara-com-a-alta-do-petroleo-especialistas-explicam/"
     },
     {
-      "title": "Segunda temporada de One Piece tem quantos episódios? Veja tempo para maratonar",
-      "slug": "segunda-temporada-de-one-piece-tem-quantos-episodios-veja-tempo-para-maratonar",
+      "title": "Rumor confiável crava lançamento do PS6 para antes de 2030",
+      "slug": "rumor-confiavel-crava-lancamento-do-ps6-para-antes-de-2030",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T19:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/rumor-confiavel-crava-lancamento-do-ps6-para-antes-de-2030/"
+    },
+    {
+      "title": "Medalhista dos Jogos Paralímpicos de Inverno usou ChatGPT como 'treinador'",
+      "slug": "medalhista-dos-jogos-paralimpicos-de-inverno-usou-chatgpt-como-treinador",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-03-10T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411477-medalhista-dos-jogos-paralimpicos-de-inverno-usou-chatgpt-como-treinador.htm"
+    },
+    {
+      "title": "GPT‑5.4: quando o avanço deixa de ser teoria e vira trabalho de verdade",
+      "slug": "gpt54-quando-o-avanco-deixa-de-ser-teoria-e-vira-trabalho-de-verdade",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-10T17:15:27.000Z",
+      "date": "2026-03-10T20:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603352-segunda-temporada-de-one-piece-tem-quantos-episodios-veja-tempo-para-maratonar.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411486-gpt54-quando-o-avanco-deixa-de-ser-teoria-e-vira-trabalho-de-verdade.htm"
     },
     {
-      "title": "EUA fazem consulta pública sobre robotáxi da Zoox sem volante",
-      "slug": "eua-fazem-consulta-publica-sobre-robotaxi-da-zoox-sem-volante",
+      "title": "Epic Games muda preços de V-Bucks e de passe de batalha no Fortnite",
+      "slug": "epic-games-muda-precos-de-v-bucks-e-de-passe-de-batalha-no-fortnite",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-10T17:42:08.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-10T20:15:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/eua-fazem-consulta-publica-sobre-robotaxi-da-zoox-sem-volante.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503737-epic-games-muda-precos-de-v-bucks-e-de-passe-de-batalha-no-fortnite.htm"
     },
     {
-      "title": "Meta cobrará taxa de anunciantes para compensar impostos digitais da Europa",
-      "slug": "meta-cobrara-taxa-de-anunciantes-para-compensar-impostos-digitais-da-europa",
+      "title": "Xiaomi lança novo Poco C85X barato com bateria forte",
+      "slug": "xiaomi-lanca-novo-poco-c85x-barato-com-bateria-forte",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-10T16:47:09.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-10T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/meta-cobrara-taxa-de-anunciantes-para-compensar-impostos-digitais-da-europa.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411472-xiaomi-lanca-novo-poco-c85x-barato-com-bateria-forte.htm"
+    },
+    {
+      "title": "Nintendo Switch e jogos do Mario ficam mais baratos no Mario Day do Mercado Livre",
+      "slug": "nintendo-switch-e-jogos-do-mario-ficam-mais-baratos-no-mario-day-do-mercado-livre",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T19:46:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503739-nintendo-switch-e-jogos-do-mario-ficam-mais-baratos-no-mario-day-do-mercado-livre.htm"
+    },
+    {
+      "title": "VENON: malware brasileiro troca seu Pix na hora do pagamento",
+      "slug": "venon-malware-brasileiro-troca-seu-pix-na-hora-do-pagamento",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T19:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411482-venon-malware-brasileiro-troca-seu-pix-na-hora-do-pagamento.htm"
+    },
+    {
+      "title": "Final explicado de Máquina de Guerra: Entenda desfecho do filme de ação da Netflix",
+      "slug": "final-explicado-de-maquina-de-guerra-entenda-desfecho-do-filme-de-acao-da-netflix",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T19:15:34.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603357-final-explicado-de-maquina-de-guerra-entenda-desfecho-do-filme-de-acao-da-netflix.htm"
     }
   ]
 }

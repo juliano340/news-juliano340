@@ -1,28 +1,23 @@
 # Weekly IA para Devs - 2026-03-10
 
-Gerado em 2026-03-10T19:13:10.081Z
+Gerado em 2026-03-10T21:10:57.889Z
 
-- [Meta compra Moltbook, rede social voltada a agentes de IA](https://g1.globo.com/tecnologia/noticia/2026/03/10/meta-compra-moltbook-rede-social-de-agentes-de-ia.ghtml) | topico: llms | score: 100
-- [X Money: Elon Musk diz que lançará sistema de pagamentos do X em abril](https://g1.globo.com/tecnologia/noticia/2026/03/10/x-money-elon-musk-diz-que-sistema-de-pagamentos-do-x-sera-lancado-em-abril.ghtml) | topico: geral | score: 100
-- [TikTok remove vídeos que simulavam agressões contra mulheres após reportagem e investigação da PF; perfis seguem no ar](https://g1.globo.com/tecnologia/noticia/2026/03/10/tiktok-remove-videos-que-simulavam-agressoes-contra-mulheres.ghtml) | topico: produtividade-dev | score: 100
-- [Google NotebookLM agora “lê” livros em EPUB para gerar resumos e afins](https://tecnoblog.net/noticias/google-notebooklm-agora-le-livros-em-epub-para-gerar-resumos-e-afins/) | topico: agentes | score: 100
-- [Ericsson culpa fornecedor por vazamento que expôs dados de 15 mil pessoas](https://tecnoblog.net/noticias/ericsson-culpa-fornecedor-por-vazamento-que-expos-dados-de-15-mil-pessoas/) | topico: geral | score: 100
-- [Galaxy S25 FE tem 45% de desconto com cupom na Semana do Consumidor](https://tecnoblog.net/achados/galaxy-s25-fe-tem-45-de-desconto-com-cupom-na-semana-do-consumidor/) | topico: geral | score: 100
-- [Rumor indica que Xbox seguirá apostando em política que desagrada fãs](https://canaltech.com.br/games/rumor-indica-que-xbox-seguira-apostando-em-politica-que-desagrada-fas/) | topico: geral | score: 100
-- [One UI 8.5 vai reiniciar celulares sem uso por dias para proteger dados](https://canaltech.com.br/apps/one-ui-85-vai-reiniciar-celulares-sem-uso-por-dias-para-proteger-dados/) | topico: seguranca-ia | score: 100
-- [Modo tela cheia do Xbox chega ao Lenovo Legion Go; saiba como testar](https://canaltech.com.br/hardware/modo-tela-cheia-do-xbox-chega-ao-lenovo-legion-go-saiba-como-testar/) | topico: geral | score: 100
-- [Chevrolet faz queima nos preços do Spark EUV para encarar o Dolphin](https://canaltech.com.br/carros/chevrolet-faz-queima-nos-precos-do-spark-euv-para-encarar-o-dolphin/) | topico: geral | score: 100
-- [Photoshop recebe novo assistente para editar imagens com IA](https://canaltech.com.br/apps/photoshop-recebe-novo-assistente-para-editar-imagens-com-ia/) | topico: llms | score: 100
-- [Meta compra Moltbook após sucesso da "rede social de robôs"](https://canaltech.com.br/mercado/meta-compra-moltbook-apos-sucesso-da-rede-social-de-robos/) | topico: geral | score: 100
-- [Extensões com selo oficial do Google são vendidas a hackers e roubam dados](https://canaltech.com.br/seguranca/extensoes-com-selo-oficial-do-google-sao-vendidas-a-hackers-e-roubam-dados/) | topico: geral | score: 100
-- [Criador de Resident Evil funda novo estúdio e já prepara jogo AAA inédito](https://canaltech.com.br/games/criador-de-resident-evil-funda-novo-estudio-e-ja-prepara-jogo-aaa-inedito/) | topico: geral | score: 92
-- [A inteligência artificial de voz como infraestrutura de inclusão e continuidade da identidade](https://www.tecmundo.com.br/mercado/411483-a-inteligencia-artificial-de-voz-como-infraestrutura-de-inclusao-e-continuidade-da-identidade.htm) | topico: geral | score: 92
-- [Samsung lança recurso que bloqueia celulares após 72 horas de inatividade](https://www.tecmundo.com.br/produto/411479-samsung-lanca-recurso-que-bloqueia-celulares-apos-72-horas-de-inatividade.htm) | topico: agentes | score: 100
-- [Escolha seu Nintendo: consoles com até R$ 200 de desconto com cupom](https://www.tecmundo.com.br/voxel/503740-escolha-seu-nintendo-consoles-com-ate-r-200-de-desconto-com-cupom.htm) | topico: geral | score: 100
-- [Hacker de GTA 6 condenado à prisão perpétua fala sobre código-fonte do jogo](https://www.tecmundo.com.br/voxel/503735-hacker-de-gta-6-condenado-a-prisao-perpetua-fala-sobre-codigo-fonte-do-jogo.htm) | topico: geral | score: 100
-- [Anthropic processa governo dos EUA após ser classificada como ameaça à segurança nacional](https://www.tecmundo.com.br/mercado/411474-anthropic-processa-governo-dos-eua-apos-ser-classificada-como-ameaca-a-seguranca-nacional.htm) | topico: geral | score: 100
-- [Duplicata escritural: a nova infraestrutura que vai potencializar o crédito para PMEs](https://www.tecmundo.com.br/mercado/411480-duplicata-escritural-a-nova-infraestrutura-que-vai-potencializar-o-credito-para-pmes.htm) | topico: geral | score: 100
-- [YouTube terá anúncios de até 30 segundos que não podem ser pulados](https://www.tecmundo.com.br/internet/411475-youtube-tera-anuncios-de-ate-30-segundos-que-nao-podem-ser-pulados.htm) | topico: seguranca-ia | score: 92
-- [Segunda temporada de One Piece tem quantos episódios? Veja tempo para maratonar](https://www.tecmundo.com.br/minha-serie/603352-segunda-temporada-de-one-piece-tem-quantos-episodios-veja-tempo-para-maratonar.htm) | topico: geral | score: 100
-- [EUA fazem consulta pública sobre robotáxi da Zoox sem volante](https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/eua-fazem-consulta-publica-sobre-robotaxi-da-zoox-sem-volante.htm) | topico: geral | score: 100
-- [Meta cobrará taxa de anunciantes para compensar impostos digitais da Europa](https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/meta-cobrara-taxa-de-anunciantes-para-compensar-impostos-digitais-da-europa.htm) | topico: geral | score: 100
+- [Oi prepara leilão para vender o que sobrou da telefonia fixa](https://tecnoblog.net/noticias/oi-prepara-leilao-para-vender-o-que-sobrou-da-telefonia-fixa/) | topico: infra-ia | score: 100
+- [O que é scareware? Saiba como funciona esse tipo de golpe cibernético](https://tecnoblog.net/responde/o-que-e-scareware-saiba-como-funciona-esse-tipo-de-golpe-cibernetico/) | topico: geral | score: 100
+- [Do terror ao humor absurdo: conheça Zach Cregger, diretor do novo Resident Evil](https://canaltech.com.br/entretenimento/do-terror-ao-humor-absurdo-conheca-zach-cregger-diretor-do-novo-resident-evil/) | topico: geral | score: 92
+- [Nova escova da Xiaomi ensina crianças a escovarem os dentes](https://canaltech.com.br/produtos/nova-escova-da-xiaomi-ensina-criancas-a-escovarem-os-dentes/) | topico: produtividade-dev | score: 100
+- [OpenAI transforma ChatGPT em guia oficial de IA do Lollapalooza Brasil](https://canaltech.com.br/apps/openai-transforma-chatgpt-em-guia-oficial-de-ia-para-o-lollapalooza-brasil/) | topico: llms | score: 100
+- [Meta falha ao moderar deepfakes e é cobrada por comitê](https://canaltech.com.br/internet/meta-falha-ao-moderar-deepfakes-e-e-cobrada-por-comite/) | topico: agentes | score: 100
+- [Recorde e demissão: EA surpreende e corta equipe de Battlefield 6](https://canaltech.com.br/games/recorde-e-demissao-ea-surpreende-e-corta-equipe-de-battlefield-6/) | topico: geral | score: 100
+- [Híbridos mais vendidos: "família Song" reina e Yaris Cross estreia](https://canaltech.com.br/carros/hibridos-mais-vendidos-familia-song-reina-e-yaris-cross-estreia/) | topico: geral | score: 100
+- [Link na bio: como criar páginas atrativas para clientes no Instagram](https://canaltech.com.br/apps/link-na-bio-como-criar-paginas-atrativas-para-clientes-no-instagram/) | topico: agentes | score: 100
+- [LG lança lava e seca com “bomba de calor” que gasta menos e cuida das roupas](https://canaltech.com.br/eletro/lg-lanca-lava-e-seca-com-bomba-de-calor-que-gasta-menos-e-cuida-das-roupas/) | topico: geral | score: 100
+- [IA pode ficar mais cara com a alta do petróleo? Especialistas explicam](https://canaltech.com.br/mercado/ia-pode-ficar-mais-cara-com-a-alta-do-petroleo-especialistas-explicam/) | topico: geral | score: 92
+- [Rumor confiável crava lançamento do PS6 para antes de 2030](https://canaltech.com.br/games/rumor-confiavel-crava-lancamento-do-ps6-para-antes-de-2030/) | topico: geral | score: 100
+- [Medalhista dos Jogos Paralímpicos de Inverno usou ChatGPT como 'treinador'](https://www.tecmundo.com.br/software/411477-medalhista-dos-jogos-paralimpicos-de-inverno-usou-chatgpt-como-treinador.htm) | topico: llms | score: 100
+- [GPT‑5.4: quando o avanço deixa de ser teoria e vira trabalho de verdade](https://www.tecmundo.com.br/mercado/411486-gpt54-quando-o-avanco-deixa-de-ser-teoria-e-vira-trabalho-de-verdade.htm) | topico: geral | score: 100
+- [Epic Games muda preços de V-Bucks e de passe de batalha no Fortnite](https://www.tecmundo.com.br/voxel/503737-epic-games-muda-precos-de-v-bucks-e-de-passe-de-batalha-no-fortnite.htm) | topico: geral | score: 100
+- [Xiaomi lança novo Poco C85X barato com bateria forte](https://www.tecmundo.com.br/produto/411472-xiaomi-lanca-novo-poco-c85x-barato-com-bateria-forte.htm) | topico: geral | score: 100
+- [Nintendo Switch e jogos do Mario ficam mais baratos no Mario Day do Mercado Livre](https://www.tecmundo.com.br/voxel/503739-nintendo-switch-e-jogos-do-mario-ficam-mais-baratos-no-mario-day-do-mercado-livre.htm) | topico: geral | score: 92
+- [VENON: malware brasileiro troca seu Pix na hora do pagamento](https://www.tecmundo.com.br/seguranca/411482-venon-malware-brasileiro-troca-seu-pix-na-hora-do-pagamento.htm) | topico: geral | score: 100
+- [Final explicado de Máquina de Guerra: Entenda desfecho do filme de ação da Netflix](https://www.tecmundo.com.br/minha-serie/603357-final-explicado-de-maquina-de-guerra-entenda-desfecho-do-filme-de-acao-da-netflix.htm) | topico: geral | score: 100
