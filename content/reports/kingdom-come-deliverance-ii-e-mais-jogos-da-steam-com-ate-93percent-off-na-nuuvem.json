@@ -1,6 +1,6 @@
 {
-  "slug": "smart-tvs-celulares-e-mais-destaques-do-mes-do-consumidor-nas-casas-bahia",
-  "generated_at": "2026-03-10T23:04:55.669Z",
+  "slug": "kingdom-come-deliverance-ii-e-mais-jogos-da-steam-com-ate-93percent-off-na-nuuvem",
+  "generated_at": "2026-03-10T23:02:24.636Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 306,
+      "words": 342,
       "min": 220
     },
     {

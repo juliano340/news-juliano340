@@ -1,6 +1,6 @@
 {
-  "slug": "smart-tvs-celulares-e-mais-destaques-do-mes-do-consumidor-nas-casas-bahia",
-  "generated_at": "2026-03-10T23:04:55.669Z",
+  "slug": "eventos-iam-voltar-ao-calendario-do-windows-11-mas-microsoft-adiou-plano",
+  "generated_at": "2026-03-10T23:01:28.070Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 306,
+      "words": 335,
       "min": 220
     },
     {

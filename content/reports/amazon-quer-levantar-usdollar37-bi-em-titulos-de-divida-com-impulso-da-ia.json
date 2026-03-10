@@ -1,6 +1,6 @@
 {
-  "slug": "smart-tvs-celulares-e-mais-destaques-do-mes-do-consumidor-nas-casas-bahia",
-  "generated_at": "2026-03-10T23:04:55.669Z",
+  "slug": "amazon-quer-levantar-usdollar37-bi-em-titulos-de-divida-com-impulso-da-ia",
+  "generated_at": "2026-03-10T23:05:19.033Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 306,
+      "words": 263,
       "min": 220
     },
     {

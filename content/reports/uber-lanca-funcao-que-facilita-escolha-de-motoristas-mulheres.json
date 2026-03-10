@@ -1,6 +1,6 @@
 {
-  "slug": "smart-tvs-celulares-e-mais-destaques-do-mes-do-consumidor-nas-casas-bahia",
-  "generated_at": "2026-03-10T23:04:55.669Z",
+  "slug": "uber-lanca-funcao-que-facilita-escolha-de-motoristas-mulheres",
+  "generated_at": "2026-03-10T23:02:46.694Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 306,
+      "words": 442,
       "min": 220
     },
     {
