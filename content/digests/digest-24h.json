@@ -1,133 +1,232 @@
 {
-  "generated_at": "2026-03-10T13:08:23.391Z",
+  "generated_at": "2026-03-10T15:15:05.952Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 14,
+  "total": 25,
   "posts": [
     {
-      "title": "Hackers miram contas de WhatsApp e Signal em ataque global",
-      "slug": "hackers-miram-contas-de-whatsapp-e-signal-em-ataque-global",
+      "title": "Veja quem são novos bilionários de IA na lista da Forbes",
+      "slug": "veja-quem-sao-novos-bilionarios-de-ia-na-lista-da-forbes",
+      "topic": "produtividade-dev",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-10T14:09:42.000Z",
+      "editorial_score": 92,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/10/veja-quem-sao-novos-bilionarios-de-ia-na-lista-da-forbes.ghtml"
+    },
+    {
+      "title": "Semana do Consumidor: Huawei Watch GT 6 tem oferta histórica com 46% de desconto",
+      "slug": "semana-do-consumidor-huawei-watch-gt-6-tem-oferta-historica-com-46percent-de-desconto",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-10T14:17:02.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/semana-do-consumidor-huawei-watch-gt-6-tem-oferta-historica-com-46-de-desconto/"
+    },
+    {
+      "title": "Adolescentes venderam kits de ataques DDoS para derrubar sites",
+      "slug": "adolescentes-venderam-kits-de-ataques-ddos-para-derrubar-sites",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-10T12:29:11.000Z",
+      "date": "2026-03-10T14:02:36.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/hackers-miram-contas-de-whatsapp-e-signal-em-ataque-global/"
+      "original_url": "https://tecnoblog.net/noticias/adolescentes-venderam-kits-de-ataques-ddos-para-derrubar-sites/"
     },
     {
-      "title": "Não quer que suas fotos sejam editadas com IA pelo Grok? Veja como bloquear",
-      "slug": "nao-quer-que-suas-fotos-sejam-editadas-com-ia-pelo-grok-veja-como-bloquear",
-      "topic": "agentes",
+      "title": "iPhone 15 (512 GB) sai 48% mais barato com cupom na Semana do Consumidor",
+      "slug": "iphone-15-512-gb-sai-48percent-mais-barato-com-cupom-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-10T13:41:42.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-15-512-gb-sai-48-mais-barato-com-cupom-na-semana-do-consumidor/"
+    },
+    {
+      "title": "Samsung introduz função que reinicia celular após 72 horas de inatividade",
+      "slug": "samsung-introduz-funcao-que-reinicia-celular-apos-72-horas-de-inatividade",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-10T13:34:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/samsung-introduz-funcao-que-reinicia-celular-apos-72-horas-de-inatividade/"
+    },
+    {
+      "title": "IA para uso militar: por que a Anthropic processou o Pentágono?",
+      "slug": "ia-para-uso-militar-por-que-a-anthropic-processou-o-pentagono",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-10T12:53:34.000Z",
+      "date": "2026-03-10T14:57:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/nao-quer-que-suas-fotos-sejam-editadas-com-ia-pelo-grok-veja-como-bloquear/"
+      "original_url": "https://canaltech.com.br/mercado/ia-para-uso-militar-por-que-a-anthropic-processou-o-pentagono/"
     },
     {
-      "title": "Code Review é a nova ferramenta do Claude para encontrar bugs em apps",
-      "slug": "code-review-e-a-nova-ferramenta-do-claude-para-encontrar-bugs-em-apps",
+      "title": "Google Mensagens vai te proteger de golpes através de SMS",
+      "slug": "google-mensagens-vai-te-proteger-de-golpes-atraves-de-sms",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T14:54:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/google-mensagens-vai-te-proteger-de-golpes-atraves-de-sms/"
+    },
+    {
+      "title": "Trailer final de Super Mario Galaxy revela quem será voz do Yoshi; assista",
+      "slug": "trailer-final-de-super-mario-galaxy-revela-quem-sera-voz-do-yoshi-assista",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T14:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/trailer-final-de-super-mario-galaxy-revela-quem-sera-voz-do-yoshi-assista/"
+    },
+    {
+      "title": "Robô-aspirador que limpa cesto de pó sozinho sai por menos de R$ 1.200 no Magalu",
+      "slug": "robo-aspirador-que-limpa-cesto-de-po-sozinho-sai-por-menos-de-rdollar-1200-no-magalu",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T14:28:11.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/robo-aspirador-que-limpa-cesto-de-po-sozinho-sai-por-menos-de-r-1200-no-magalu/"
+    },
+    {
+      "title": "Rival do Ray-Ban Meta agora permite escolher entre ChatGPT, DeepSeek e Gemini",
+      "slug": "rival-do-ray-ban-meta-agora-permite-escolher-entre-chatgpt-deepseek-e-gemini",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-10T12:48:13.000Z",
+      "date": "2026-03-10T14:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/code-review-e-a-nova-ferramenta-do-claude-para-encontrar-bugs-em-apps/"
+      "original_url": "https://canaltech.com.br/wearable/rival-do-ray-ban-meta-agora-permite-escolher-entre-chatgpt-deepseek-e-gemini/"
     },
     {
-      "title": "Xiaomi lança máquina de lavar roupas super tecnológica por menos de R$ 900",
-      "slug": "xiaomi-lanca-maquina-de-lavar-roupas-super-tecnologica-por-menos-de-rdollar-900",
+      "title": "Toyota convoca recall do Corolla por falha incomum nos faróis",
+      "slug": "toyota-convoca-recall-do-corolla-por-falha-incomum-nos-farois",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-10T12:40:46.000Z",
+      "date": "2026-03-10T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/xiaomi-lanca-maquina-de-lavar-roupas-super-tecnologica-por-menos-de-r-900/"
+      "original_url": "https://canaltech.com.br/carros/toyota-convoca-recall-do-corolla-por-falha-incomum-nos-farois/"
     },
     {
-      "title": "Fãs em choque: roteiro vazado de Resident Evil revela comédia com bebês zumbis",
-      "slug": "fas-em-choque-roteiro-vazado-de-resident-evil-revela-comedia-com-bebes-zumbis",
-      "topic": "geral",
+      "title": "Shopee faz queima de ar-condicionado inverter de 9000 BTU TCL; menos de R$ 1.300",
+      "slug": "shopee-faz-queima-de-ar-condicionado-inverter-de-9000-btu-tcl-menos-de-rdollar-1300",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-10T12:20:00.000Z",
+      "date": "2026-03-10T13:41:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/fas-em-choque-roteiro-vazado-de-resident-evil-revela-comedia-com-bebes-zumbis/"
+      "original_url": "https://canaltech.com.br/eletro/shopee-faz-queima-de-ar-condicionado-inverter-de-9000-btu-tcl-menos-de-r-1300/"
     },
     {
-      "title": "Nova caixa de som JBL \"extrema\" está chegando ao Brasil; veja o que já sabemos",
-      "slug": "nova-caixa-de-som-jbl-extrema-esta-chegando-ao-brasil-veja-o-que-ja-sabemos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-10T11:37:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/casa-conectada/nova-caixa-jbl-extrema-esta-chegando-ao-brasil-veja-o-que-ja-sabemos/"
-    },
-    {
-      "title": "Microsoft nega \"carta branca\" para salvar o Xbox, mas reforça foco nos games",
-      "slug": "microsoft-nega-carta-branca-para-salvar-o-xbox-mas-reforca-foco-nos-games",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-10T11:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/microsoft-nega-carta-branca-para-salvar-o-xbox-mas-reforca-foco-nos-games/"
-    },
-    {
-      "title": "Microsoft anuncia Copilot Cowork, assistente de IA autônomo que trabalha por você",
-      "slug": "microsoft-anuncia-copilot-cowork-assistente-de-ia-autonomo-que-trabalha-por-voce",
+      "title": "Google Fotos terá opção para desativar a busca com IA",
+      "slug": "google-fotos-tera-opcao-para-desativar-a-busca-com-ia",
       "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-10T12:51:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/software/411461-microsoft-anuncia-copilot-cowork-assistente-de-ia-autonomo-que-trabalha-por-voce.htm"
-    },
-    {
-      "title": "Steam libera jogo grátis com ótimas avaliações! Resgate agora (10)",
-      "slug": "steam-libera-jogo-gratis-com-otimas-avaliacoes-resgate-agora-10",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T12:18:03.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503732-steam-libera-jogo-gratis-com-otimas-avaliacoes-resgate-agora-10.htm"
-    },
-    {
-      "title": "Noivos ganham RTX 5090, Intel Core Ultra 9 e memórias DDR5 de presente de casamento",
-      "slug": "noivos-ganham-rtx-5090-intel-core-ultra-9-e-memorias-ddr5-de-presente-de-casamento",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T11:45:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-10T13:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411417-noivos-ganham-rtx-5090-intel-core-ultra-9-e-memorias-ddr5-de-presente-de-casamento.htm"
+      "original_url": "https://canaltech.com.br/apps/google-fotos-tera-opcao-para-desativar-a-busca-com-ia/"
     },
     {
-      "title": "Bets solicitam bloqueio das plataformas Polymarket e Kalshi",
-      "slug": "bets-solicitam-bloqueio-das-plataformas-polymarket-e-kalshi",
+      "title": "One Piece: 5 coisas para lembrar antes de maratonar a temporada 2",
+      "slug": "one-piece-5-coisas-para-lembrar-antes-de-maratonar-a-temporada-2",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T13:26:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/one-piece-5-coisas-para-lembrar-antes-de-maratonar-a-temporada-2/"
+    },
+    {
+      "title": "Novo \"rei do custo-benefício\"? JBL revela fone acessível com ANC e som espacial",
+      "slug": "novo-rei-do-custo-beneficio-jbl-revela-fone-acessivel-com-anc-e-som-espacial",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-10T13:13:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/fone-de-ouvido/novo-rei-do-custo-beneficio-jbl-revela-fone-acessivel-com-anc-e-som-espacial/"
+    },
+    {
+      "title": "Motorola quase morreu, agora volta a mirar no topo! Qual o plano?",
+      "slug": "motorola-quase-morreu-agora-volta-a-mirar-no-topo-qual-o-plano",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-10T11:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411458-bets-solicitam-bloqueio-das-plataformas-polymarket-e-kalshi.htm"
-    },
-    {
-      "title": "Novo episódio de Marshals traz respostas sobre dois grandes mistérios de Yellowstone",
-      "slug": "novo-episodio-de-marshals-traz-respostas-sobre-dois-grandes-misterios-de-yellowstone",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603329-novo-episodio-de-marshals-traz-respostas-sobre-dois-grandes-misterios-de-yellowstone.htm"
-    },
-    {
-      "title": "Palpites para Atlético MG x Internacional: Análises e Onde Assistir (11/03/2026)",
-      "slug": "palpites-para-atletico-mg-x-internacional-analises-e-onde-assistir-11032026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-10T11:00:00.000Z",
+      "date": "2026-03-10T15:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411428-palpites-para-atletico-mg-x-internacional-analises-e-onde-assistir-11032026.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411460-motorola-quase-morreu-agora-volta-a-mirar-no-topo-qual-o-plano.htm"
     },
     {
-      "title": "'Projeto Manhattan chinês' dá à China poder de fazer chips que EUA não têm",
-      "slug": "projeto-manhattan-chines-da-a-china-poder-de-fazer-chips-que-eua-nao-tem",
+      "title": "Shopee traz ar-condicionado de 9.000 BTUs por apenas R$1.292; confira oportunidade",
+      "slug": "shopee-traz-ar-condicionado-de-9000-btus-por-apenas-rdollar1292-confira-oportunidade",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T14:36:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411467-shopee-traz-ar-condicionado-de-9000-btus-por-apenas-r1292-confira-oportunidade.htm"
+    },
+    {
+      "title": "Amazon culpa uso de IA por instabilidade no site e app, diz jornal",
+      "slug": "amazon-culpa-uso-de-ia-por-instabilidade-no-site-e-app-diz-jornal",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T14:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411464-amazon-culpa-uso-de-ia-por-instabilidade-no-site-e-app-diz-jornal.htm"
+    },
+    {
+      "title": "Yoshi será interpretado por Donald Glover em Super Mario Galaxy: O Filme! Conheça o elenco",
+      "slug": "yoshi-sera-interpretado-por-donald-glover-em-super-mario-galaxy-o-filme-conheca-o-elenco",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T14:15:19.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503733-yoshi-sera-interpretado-por-donald-glover-em-super-mario-galaxy-o-filme-conheca-o-elenco.htm"
+    },
+    {
+      "title": "As séries de Vorcaro: 5 produções do streaming mencionadas nas mensagens vazadas",
+      "slug": "as-series-de-vorcaro-5-producoes-do-streaming-mencionadas-nas-mensagens-vazadas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T13:17:02.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603345-as-series-de-vorcaro-5-producoes-do-streaming-mencionadas-nas-mensagens-vazadas.htm"
+    },
+    {
+      "title": "Cupons Amazon na Semana do Consumidor: confira os descontos disponíveis",
+      "slug": "cupons-amazon-na-semana-do-consumidor-confira-os-descontos-disponiveis",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-10T13:09:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411462-cupons-amazon-na-semana-do-consumidor-confira-os-descontos-disponiveis.htm"
+    },
+    {
+      "title": "Meta compra rede social de agentes de IA Moltbook",
+      "slug": "meta-compra-rede-social-de-agentes-de-ia-moltbook",
+      "topic": "agentes",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-10T14:55:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/meta-compra-rede-social-de-agentes-de-ia-moltbook.htm"
+    },
+    {
+      "title": "AMI, do ex-chefe de IA da Meta, levanta US$1,03 bilhão",
+      "slug": "ami-do-ex-chefe-de-ia-da-meta-levanta-usdollar103-bilhao",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-10T11:00:00.000Z",
+      "date": "2026-03-10T14:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/10/china-cria-projeto-manhattan-dos-chips-e-pega-o-mundo-de-surpresa.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/ami-do-ex-chefe-de-ia-da-meta-levanta-us103-bilhao.htm"
+    },
+    {
+      "title": "Citigroup aumenta previsão de investimento e receita de empresas com IA",
+      "slug": "citigroup-aumenta-previsao-de-investimento-e-receita-de-empresas-com-ia",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-10T14:18:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/citigroup-aumenta-previsao-de-investimento-e-receita-de-empresas-com-ia.htm"
+    },
+    {
+      "title": "Anthropic processa o governo dos EUA por disputa sobre o uso de sua IA",
+      "slug": "anthropic-processa-o-governo-dos-eua-por-disputa-sobre-o-uso-de-sua-ia",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-10T13:29:04.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/03/10/anthropic-processa-o-governo-dos-eua-por-disputa-sobre-o-uso-de-sua-ia.htm"
     }
   ]
 }
