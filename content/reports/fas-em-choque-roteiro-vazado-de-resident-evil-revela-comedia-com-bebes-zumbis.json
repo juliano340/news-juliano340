@@ -1,6 +1,6 @@
 {
-  "slug": "projeto-manhattan-chines-da-a-china-poder-de-fazer-chips-que-eua-nao-tem",
-  "generated_at": "2026-03-10T13:08:22.387Z",
+  "slug": "fas-em-choque-roteiro-vazado-de-resident-evil-revela-comedia-com-bebes-zumbis",
+  "generated_at": "2026-03-10T13:03:36.933Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 277,
+      "words": 338,
       "min": 220
     },
     {

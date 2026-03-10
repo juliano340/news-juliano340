@@ -1,7 +1,7 @@
 {
-  "slug": "projeto-manhattan-chines-da-a-china-poder-de-fazer-chips-que-eua-nao-tem",
-  "generated_at": "2026-03-10T13:08:22.387Z",
-  "status": "PASS",
+  "slug": "palpites-para-atletico-mg-x-internacional-analises-e-onde-assistir-11032026",
+  "generated_at": "2026-03-10T13:07:56.569Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 277,
+      "words": 363,
       "min": 220
     },
     {
@@ -84,16 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 0,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

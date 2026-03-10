@@ -1,6 +1,6 @@
 {
-  "slug": "projeto-manhattan-chines-da-a-china-poder-de-fazer-chips-que-eua-nao-tem",
-  "generated_at": "2026-03-10T13:08:22.387Z",
+  "slug": "novo-episodio-de-marshals-traz-respostas-sobre-dois-grandes-misterios-de-yellowstone",
+  "generated_at": "2026-03-10T13:07:33.399Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 277,
+      "words": 349,
       "min": 220
     },
     {

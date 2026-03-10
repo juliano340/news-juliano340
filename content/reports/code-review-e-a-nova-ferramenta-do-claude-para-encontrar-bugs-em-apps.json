@@ -1,6 +1,6 @@
 {
-  "slug": "projeto-manhattan-chines-da-a-china-poder-de-fazer-chips-que-eua-nao-tem",
-  "generated_at": "2026-03-10T13:08:22.387Z",
+  "slug": "code-review-e-a-nova-ferramenta-do-claude-para-encontrar-bugs-em-apps",
+  "generated_at": "2026-03-10T13:01:44.606Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 277,
+      "words": 326,
       "min": 220
     },
     {

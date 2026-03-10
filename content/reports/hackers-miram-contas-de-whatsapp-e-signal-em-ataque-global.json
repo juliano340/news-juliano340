@@ -1,6 +1,6 @@
 {
-  "slug": "projeto-manhattan-chines-da-a-china-poder-de-fazer-chips-que-eua-nao-tem",
-  "generated_at": "2026-03-10T13:08:22.387Z",
+  "slug": "hackers-miram-contas-de-whatsapp-e-signal-em-ataque-global",
+  "generated_at": "2026-03-10T13:00:40.321Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 277,
+      "words": 258,
       "min": 220
     },
     {
