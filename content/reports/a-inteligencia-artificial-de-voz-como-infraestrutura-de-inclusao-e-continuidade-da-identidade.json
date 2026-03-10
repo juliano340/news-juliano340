@@ -1,7 +1,7 @@
 {
-  "slug": "meta-cobrara-taxa-de-anunciantes-para-compensar-impostos-digitais-da-europa",
-  "generated_at": "2026-03-10T19:13:09.076Z",
-  "status": "PASS",
+  "slug": "a-inteligencia-artificial-de-voz-como-infraestrutura-de-inclusao-e-continuidade-da-identidade",
+  "generated_at": "2026-03-10T19:08:12.518Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 237,
+      "words": 269,
       "min": 220
     },
     {
@@ -84,16 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 1,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

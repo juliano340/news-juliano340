@@ -1,6 +1,6 @@
 {
-  "slug": "meta-cobrara-taxa-de-anunciantes-para-compensar-impostos-digitais-da-europa",
-  "generated_at": "2026-03-10T19:13:09.076Z",
+  "slug": "one-ui-85-vai-reiniciar-celulares-sem-uso-por-dias-para-proteger-dados",
+  "generated_at": "2026-03-10T19:04:44.761Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 237,
+      "words": 381,
       "min": 220
     },
     {

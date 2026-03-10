@@ -1,6 +1,6 @@
 {
-  "slug": "meta-cobrara-taxa-de-anunciantes-para-compensar-impostos-digitais-da-europa",
-  "generated_at": "2026-03-10T19:13:09.076Z",
+  "slug": "x-money-elon-musk-diz-que-lancara-sistema-de-pagamentos-do-x-em-abril",
+  "generated_at": "2026-03-10T19:01:04.831Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 237,
+      "words": 272,
       "min": 220
     },
     {

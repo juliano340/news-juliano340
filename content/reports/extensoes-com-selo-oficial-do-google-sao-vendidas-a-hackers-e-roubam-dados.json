@@ -1,6 +1,6 @@
 {
-  "slug": "meta-cobrara-taxa-de-anunciantes-para-compensar-impostos-digitais-da-europa",
-  "generated_at": "2026-03-10T19:13:09.076Z",
+  "slug": "extensoes-com-selo-oficial-do-google-sao-vendidas-a-hackers-e-roubam-dados",
+  "generated_at": "2026-03-10T19:07:14.738Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 237,
+      "words": 407,
       "min": 220
     },
     {
