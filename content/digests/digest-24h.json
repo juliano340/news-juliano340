@@ -1,106 +1,34 @@
 {
-  "generated_at": "2026-03-09T23:07:18.139Z",
+  "generated_at": "2026-03-10T01:01:31.513Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 11,
+  "total": 3,
   "posts": [
     {
-      "title": "Galaxy Ring atinge 66% OFF em até 10x sem juros na Semana do Consumidor na Amazon",
-      "slug": "galaxy-ring-atinge-66percent-off-em-ate-10x-sem-juros-na-semana-do-consumidor-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T21:54:46.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-ring-atinge-66-off-em-ate-10x-sem-juros-na-semana-do-consumidor-na-amazon/"
-    },
-    {
-      "title": "IP68, IP67, IP54 ou IPX7: entenda o que significam os graus de certificação IP",
-      "slug": "ip68-ip67-ip54-ou-ipx7-entenda-o-que-significam-os-graus-de-certificacao-ip",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T21:28:55.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/ip68-ip67-ip54-ou-ipx7-entenda-o-que-significam-os-graus-de-certificacao-ip/"
-    },
-    {
-      "title": "Semana do Consumidor: Galaxy Tab S11 5G (256 GB) tem oferta em até 10x sem juros",
-      "slug": "semana-do-consumidor-galaxy-tab-s11-5g-256-gb-tem-oferta-em-ate-10x-sem-juros",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-09T21:25:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/semana-do-consumidor-galaxy-tab-s11-5g-256-gb-tem-oferta-em-ate-10x-sem-juros/"
-    },
-    {
-      "title": "Fãs enlouquecem diretor de Resident Evil por causa do casamento de Leon",
-      "slug": "fas-enlouquecem-diretor-de-resident-evil-por-causa-do-casamento-de-leon",
+      "title": "O Senhor dos Anéis: Elijah Wood não quer ninguém interpretando Frodo além dele",
+      "slug": "o-senhor-dos-aneis-elijah-wood-nao-quer-ninguem-interpretando-frodo-alem-dele",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-09T22:25:00.000Z",
+      "date": "2026-03-09T23:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/fas-enlouquecem-diretor-de-resident-evil-por-causa-do-casamento-de-leon/"
+      "original_url": "https://canaltech.com.br/entretenimento/o-senhor-dos-aneis-elijah-wood-nao-quer-ninguem-interpretando-frodo-alem-dele/"
     },
     {
-      "title": "Xbox Helix pode custar R$ 9 mil? Analista acredita que sim",
-      "slug": "xbox-helix-pode-custar-rdollar-9-mil-analista-acredita-que-sim",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-09T21:06:04.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/xbox-helix-pode-custar-r-9-mil-analista-acredita-que-sim/"
-    },
-    {
-      "title": "Claude Cowork oficializa o fim do comando e inaugura delegação do trabalho à IA",
-      "slug": "claude-cowork-oficializa-o-fim-do-comando-e-inaugura-delegacao-do-trabalho-a-ia",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-09T23:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411419-claude-cowork-oficializa-o-fim-do-comando-e-inaugura-delegacao-do-trabalho-a-ia.htm"
-    },
-    {
-      "title": "App falso de alerta de ataque áreo em Israel rouba dados do celular",
-      "slug": "app-falso-de-alerta-de-ataque-areo-em-israel-rouba-dados-do-celular",
+      "title": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (09)",
+      "slug": "android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-09",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-09T22:00:00.000Z",
+      "date": "2026-03-09T23:15:25.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411457-app-falso-de-alerta-de-ataque-areo-em-israel-rouba-dados-do-celular.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503728-android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-09.htm"
     },
     {
-      "title": "Samsung obtém vitória judicial contra a TCL por 'falsas TVs QLED'",
-      "slug": "samsung-obtem-vitoria-judicial-contra-a-tcl-por-falsas-tvs-qled",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-09T22:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411452-samsung-obtem-vitoria-judicial-contra-a-tcl-por-falsas-tvs-qled.htm"
-    },
-    {
-      "title": "Intel lança chips Core Series 2 com até 12 núcleos para computação na borda",
-      "slug": "intel-lanca-chips-core-series-2-com-ate-12-nucleos-para-computacao-na-borda",
+      "title": "Temporada 8 de Outlander tem quantos episódios? Veja calendário de lançamento",
+      "slug": "temporada-8-de-outlander-tem-quantos-episodios-veja-calendario-de-lancamento",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-09T21:30:00.000Z",
+      "date": "2026-03-09T22:15:40.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411456-intel-lanca-chips-core-series-2-com-ate-12-nucleos-para-computacao-na-borda.htm"
-    },
-    {
-      "title": "Criador de Resident Evil, Shinji Mikami abre novo estúdio de games",
-      "slug": "criador-de-resident-evil-shinji-mikami-abre-novo-estudio-de-games",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-09T21:15:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503729-criador-de-resident-evil-shinji-mikami-abre-novo-estudio-de-games.htm"
-    },
-    {
-      "title": "Distribuído no GitHub, vírus ladrão de dados mira extensões do Chrome e Discord",
-      "slug": "distribuido-no-github-virus-ladrao-de-dados-mira-extensoes-do-chrome-e-discord",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-09T21:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411442-distribuido-no-github-virus-ladrao-de-dados-mira-extensoes-do-chrome-e-discord.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603330-temporada-8-de-outlander-tem-quantos-episodios-veja-calendario-de-lancamento.htm"
     }
   ]
 }

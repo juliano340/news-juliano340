@@ -1,6 +1,6 @@
 {
-  "slug": "temporada-8-de-outlander-tem-quantos-episodios-veja-calendario-de-lancamento",
-  "generated_at": "2026-03-10T01:01:29.439Z",
+  "slug": "android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-09",
+  "generated_at": "2026-03-10T01:01:03.818Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 262,
+      "words": 296,
       "min": 220
     },
     {
