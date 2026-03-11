@@ -1,187 +1,88 @@
 {
-  "generated_at": "2026-03-11T21:08:49.618Z",
+  "generated_at": "2026-03-11T23:03:38.386Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 20,
+  "total": 9,
   "posts": [
     {
-      "title": "Grupo ligado ao Irã reivindica ciberataque a empresa dos EUA em resposta a ataque em escola",
-      "slug": "grupo-ligado-ao-ira-reivindica-ciberataque-a-empresa-dos-eua-em-resposta-a-ataque-em-escola",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-11T19:44:01.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/11/grupo-do-ira-reivindica-ciberataque-a-empresa-de-tecnologia-medica-dos-eua.ghtml"
-    },
-    {
-      "title": "Galaxy S25 FE (256 GB) tem promoção com cupom de R$ 500 na Semana do Consumidor",
-      "slug": "galaxy-s25-fe-256-gb-tem-promocao-com-cupom-de-rdollar-500-na-semana-do-consumidor",
+      "title": "Motorola Signature já tem R$ 1.800 OFF com cupom na Semana do Consumidor",
+      "slug": "motorola-signature-ja-tem-rdollar-1800-off-com-cupom-na-semana-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-11T20:20:29.000Z",
+      "date": "2026-03-11T21:57:43.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/achados/motorola-signature-ja-tem-r-1-800-off-com-cupom-na-semana-do-consumidor/"
+    },
+    {
+      "title": "Motorola Edge 60 Fusion custa 43% menos que Edge 70 Fusion na Semana do Consumidor",
+      "slug": "motorola-edge-60-fusion-custa-43percent-menos-que-edge-70-fusion-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T21:22:52.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-fe-256-gb-tem-promocao-com-cupom-de-r-500-na-semana-do-consumidor/"
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-fusion-custa-43-menos-que-edge-70-fusion-na-semana-do-consumidor/"
     },
     {
-      "title": "Estudo revela que 8 em cada 10 IAs ajudam a planejar ataques violentos",
-      "slug": "estudo-revela-que-8-em-cada-10-ias-ajudam-a-planejar-ataques-violentos",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-11T19:42:49.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/estudo-revela-que-8-em-cada-10-ias-ajudam-a-planejar-ataques-violentos/"
-    },
-    {
-      "title": "Microsoft revela mais detalhes sobre o Project Helix, seu próximo Xbox",
-      "slug": "microsoft-revela-mais-detalhes-sobre-o-project-helix-seu-proximo-xbox",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-11T19:05:09.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/project-helix-microsoft-revela-detalhes-tecnicos-do-proximo-xbox/"
-    },
-    {
-      "title": "Como vai funcionar a conta gerenciada por pais no WhatsApp? Entenda regras",
-      "slug": "como-vai-funcionar-a-conta-gerenciada-por-pais-no-whatsapp-entenda-regras",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-11T20:52:59.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-vai-funcionar-a-conta-gerenciada-por-pais-no-whatsapp-entenda-regras/"
-    },
-    {
-      "title": "Novo notebook de entrada, Positivo Vision N15M vem com IA e minitela integradas",
-      "slug": "novo-notebook-de-entrada-positivo-vision-n15m-vem-com-ia-e-minitela-integradas",
+      "title": "Golpe da ClickBus usa site falso para roubar Pix e dados de cartão",
+      "slug": "golpe-da-clickbus-usa-site-falso-para-roubar-pix-e-dados-de-cartao",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T20:10:00.000Z",
+      "date": "2026-03-11T21:34:44.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/notebook/novo-notebook-de-entrada-positivo-vision-n15m-vem-com-ia-e-minitela-integradas/"
+      "original_url": "https://canaltech.com.br/seguranca/golpe-da-clickbus-usa-site-falso-para-roubar-pix-e-dados-de-cartao/"
     },
     {
-      "title": "Volkswagen derruba preço do Virtus e sedan rivaliza com Chevrolet Spark",
-      "slug": "volkswagen-derruba-preco-do-virtus-e-sedan-rivaliza-com-chevrolet-spark",
+      "title": "Magalu faz queima de notebook Lenovo com Snapdragon; IA por menos de R$ 4 mil",
+      "slug": "magalu-faz-queima-de-notebook-lenovo-com-snapdragon-ia-por-menos-de-rdollar-4-mil",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T20:00:00.000Z",
+      "date": "2026-03-11T21:29:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/volkswagen-derruba-preco-do-virtus-e-sedan-rivaliza-com-chevrolet-spark/"
+      "original_url": "https://canaltech.com.br/notebook/magalu-faz-queima-de-notebook-lenovo-com-snapdragon-ia-por-menos-de-r-4-mil/"
     },
     {
-      "title": "Xbox Helix: o que as especificações técnicas revelam sobre o novo console",
-      "slug": "xbox-helix-o-que-as-especificacoes-tecnicas-revelam-sobre-o-novo-console",
+      "title": "Garota de Fora: Recomeço tem quantos episódios? Veja calendário de lançamento",
+      "slug": "garota-de-fora-recomeco-tem-quantos-episodios-veja-calendario-de-lancamento",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-11T19:28:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/xbox-helix-o-que-as-especificacoes-tecnicas-revelam-sobre-o-novo-console/"
-    },
-    {
-      "title": "Geladeira de enchente tem conserto? Saiba o que fazer antes de ligar na tomada",
-      "slug": "geladeira-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-11T19:21:02.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/geladeira-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/"
-    },
-    {
-      "title": "Esqueça o Bowser! Quem diabos é Wart, o sapo vilão do novo filme do Mario?",
-      "slug": "esqueca-o-bowser-quem-diabos-e-wart-o-sapo-vilao-do-novo-filme-do-mario",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-11T19:10:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-11T22:45:54.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/entretenimento/esqueca-o-bowser-quem-diabos-e-wart-o-sapo-vilao-do-novo-filme-do-mario/"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603353-garota-de-fora-recomeco-tem-quantos-episodios-veja-calendario-de-lancamento.htm"
     },
     {
-      "title": "Xbox Helix: Microsoft revela detalhes da sua próxima geração de consoles",
-      "slug": "xbox-helix-microsoft-revela-detalhes-da-sua-proxima-geracao-de-consoles",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-11T19:02:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/xbox-helix-microsoft-revela-detalhes-da-sua-proxima-geracao-de-consoles/"
-    },
-    {
-      "title": "Browser-in-the-browser: conheça o 'phishing 2.0' que rouba logins e senhas",
-      "slug": "browser-in-the-browser-conheca-o-phishing-20-que-rouba-logins-e-senhas",
+      "title": "Star Wars Outlaws e mais jogos de Xbox com até 90% OFF; confira",
+      "slug": "star-wars-outlaws-e-mais-jogos-de-xbox-com-ate-90percent-off-confira",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T21:00:00.000Z",
+      "date": "2026-03-11T22:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411524-browser-in-the-browser-conheca-o-phishing-20-que-rouba-logins-e-senhas.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503753-star-wars-outlaws-e-mais-jogos-de-xbox-com-ate-90-off-confira.htm"
     },
     {
-      "title": "Helix: Microsoft revela detalhes sobre console de nova geração e modo Xbox no PC",
-      "slug": "helix-microsoft-revela-detalhes-sobre-console-de-nova-geracao-e-modo-xbox-no-pc",
+      "title": "Meta desenvolve chips próprios para alimentar data centers de IA",
+      "slug": "meta-desenvolve-chips-proprios-para-alimentar-data-centers-de-ia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T20:45:09.000Z",
+      "date": "2026-03-11T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503751-helix-microsoft-revela-detalhes-sobre-console-de-nova-geracao-e-modo-xbox-no-pc.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411533-meta-desenvolve-chips-proprios-para-alimentar-data-centers-de-ia.htm"
     },
     {
-      "title": "OpenAI adia 'modo adulto' do ChatGPT para focar em outras prioridades",
-      "slug": "openai-adia-modo-adulto-do-chatgpt-para-focar-em-outras-prioridades",
+      "title": "Como termina One Piece Temporada 2? Veja final explicado da série",
+      "slug": "como-termina-one-piece-temporada-2-veja-final-explicado-da-serie",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T20:45:00.000Z",
+      "date": "2026-03-11T21:15:12.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411527-openai-adia-modo-adulto-do-chatgpt-para-focar-em-outras-prioridades.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603367-como-termina-one-piece-temporada-2-veja-final-explicado-da-serie.htm"
     },
     {
-      "title": "Dispositivos de casa inteligente entram em oferta com cupons de até 20% OFF",
-      "slug": "dispositivos-de-casa-inteligente-entram-em-oferta-com-cupons-de-ate-20percent-off",
+      "title": "Hackers ligados ao Irã reivindicam responsabilidade por ataque a fabricante de dispositivos médicos dos EUA",
+      "slug": "hackers-ligados-ao-ira-reivindicam-responsabilidade-por-ataque-a-fabricante-de-dispositivos-medicos-dos-eua",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T20:36:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-11T22:34:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411535-dispositivos-de-casa-inteligente-entram-em-oferta-com-cupons-de-ate-20-off.htm"
-    },
-    {
-      "title": "O que lembrar antes da temporada 7 de Virgin River? Saiba tudo!",
-      "slug": "o-que-lembrar-antes-da-temporada-7-de-virgin-river-saiba-tudo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T20:15:02.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603347-o-que-lembrar-antes-da-temporada-7-de-virgin-river-saiba-tudo.htm"
-    },
-    {
-      "title": "Funcionário da JBS teria ajudado a vazar 3 TB de dados para grupo criminoso",
-      "slug": "funcionario-da-jbs-teria-ajudado-a-vazar-3-tb-de-dados-para-grupo-criminoso",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T20:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411532-funcionario-da-jbs-teria-ajudado-a-vazar-3-tb-de-dados-para-grupo-criminoso.htm"
-    },
-    {
-      "title": "IAs podem ajudar adolescentes a fazer ataques armados, revela estudo",
-      "slug": "ias-podem-ajudar-adolescentes-a-fazer-ataques-armados-revela-estudo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411521-ias-podem-ajudar-adolescentes-a-fazer-ataques-armados-revela-estudo.htm"
-    },
-    {
-      "title": "YouTube supera Disney e se torna a maior empresa de mídia do mundo, mostra estudo",
-      "slug": "youtube-supera-disney-e-se-torna-a-maior-empresa-de-midia-do-mundo-mostra-estudo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T19:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411525-youtube-supera-disney-e-se-torna-a-maior-empresa-de-midia-do-mundo-mostra-estudo.htm"
-    },
-    {
-      "title": "Solasta 2 chega ao acesso antecipado com evoluções e gráficos da Unreal 5: “Outro nível”",
-      "slug": "solasta-2-chega-ao-acesso-antecipado-com-evolucoes-e-graficos-da-unreal-5-outro-nivel",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T19:27:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503750-solasta-2-chega-ao-acesso-antecipado-com-evolucoes-e-graficos-da-unreal-5-e-outro-nivel.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/11/hackers-ligados-ao-ira-reivindicam-responsabilidade-por-ataque-a-fabricante-de-dispositivos-medicos-dos-eua.htm"
     }
   ]
 }
