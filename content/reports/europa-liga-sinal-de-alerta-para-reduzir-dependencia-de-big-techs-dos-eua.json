@@ -1,6 +1,6 @@
 {
-  "slug": "como-musk-aumentou-sua-fortuna-em-quase-usdollar-500-bilhoes-em-um-ano",
-  "generated_at": "2026-03-11T09:01:09.617Z",
+  "slug": "europa-liga-sinal-de-alerta-para-reduzir-dependencia-de-big-techs-dos-eua",
+  "generated_at": "2026-03-11T09:03:27.316Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 400,
+      "words": 306,
       "min": 220
     },
     {
