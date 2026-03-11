@@ -1,25 +1,24 @@
 # Weekly IA para Devs - 2026-03-11
 
-Gerado em 2026-03-11T19:10:47.766Z
+Gerado em 2026-03-11T21:08:49.618Z
 
-- [WhatsApp lança recurso para pais limitarem quem pode falar com seus filhos](https://g1.globo.com/tecnologia/noticia/2026/03/11/whatsapp-protecao-pais-filhos.ghtml) | topico: geral | score: 100
-- [Intel anuncia chips Core Ultra 200S Plus com mais desempenho para jogos](https://tecnoblog.net/noticias/intel-anuncia-chips-core-ultra-200s-plus-com-mais-desempenho-para-jogos/) | topico: geral | score: 92
-- [Apple Music vai rodar dentro do feed do TikTok](https://tecnoblog.net/noticias/apple-music-vai-rodar-dentro-do-feed-do-tiktok/) | topico: agentes | score: 100
-- [Mistério revelado: por que a Lua está "enrugando" como uma uva passa?](https://canaltech.com.br/espaco/misterio-revelado-por-que-a-lua-esta-enrugando-como-uma-uva-passa/) | topico: produtividade-dev | score: 100
-- [Novo top da Xiaomi vazou: 2 câmeras de 200 MP e mais sobre o Xiaomi 18 Pro Max](https://canaltech.com.br/smartphone/novo-top-da-xiaomi-vazou-2-cameras-de-200-mp-e-mais-sobre-o-xiaomi-18-pro-max/) | topico: geral | score: 100
-- [Magalu faz promoção de ar-condicionado portátil da Philco; 12.000 BTUs com cupom](https://canaltech.com.br/eletro/magalu-faz-promocao-de-ar-condicionado-portatil-da-philco-12000-btus-com-cupom/) | topico: geral | score: 92
-- [Sora no ChatGPT? Gerador de vídeos chega em breve ao app, diz site](https://canaltech.com.br/apps/sora-no-chatgpt-gerador-de-videos-chega-em-breve-ao-app-diz-site/) | topico: llms | score: 100
-- [Nova plataforma usa gamificação para ensinar programação e IA a crianças](https://canaltech.com.br/mercado/nova-plataforma-usa-gamificacao-para-ensinar-programacao-e-ia-a-criancas/) | topico: geral | score: 100
-- [Piloto automático da Tesla "enlouquece" e quase causa acidente com trem; veja](https://canaltech.com.br/carros/piloto-automatico-da-tesla-enlouquece-e-quase-causa-acidente-com-trem-veja/) | topico: produtividade-dev | score: 100
-- ["Caso ela diga não": o que é nova trend do TikTok investigada pela PF?](https://canaltech.com.br/seguranca/caso-ela-diga-nao-o-que-e-nova-trend-do-tiktok-investigada-pela-pf/) | topico: geral | score: 100
-- [Magalu faz queima de Microsoft 365: Excel, Word e PowerPoint por preço baixo](https://canaltech.com.br/software/magalu-faz-queima-de-microsoft-365-excel-word-e-powerpoint-por-preco-baixo/) | topico: produtividade-dev | score: 100
-- [WhatsApp agora permite que pais gerenciem contas dos filhos no app](https://canaltech.com.br/apps/whatsapp-agora-permite-que-pais-gerenciem-contas-dos-filhos-no-app/) | topico: agentes | score: 100
-- [Qual é o melhor celular até R$ 1.500 para comprar em março de 2026?](https://canaltech.com.br/smartphone/qual-e-o-melhor-celular-ate-r-1500-para-comprar-em-2026/) | topico: geral | score: 100
-- [Microsoft corrige 86 vulnerabilidades de segurança do Windows](https://www.tecmundo.com.br/seguranca/411519-microsoft-corrige-86-vulnerabilidades-de-seguranca-do-windows.htm) | topico: geral | score: 100
-- [Por que a China emitiu alerta de segurança contra IA OpenClaw?](https://www.tecmundo.com.br/seguranca/411517-por-que-a-china-emitiu-alerta-de-seguranca-contra-ia-openclaw.htm) | topico: geral | score: 100
-- [Máquina de Guerra 2 vai acontecer? Protagonista e diretor falam de sequência](https://www.tecmundo.com.br/minha-serie/603364-maquina-de-guerra-2-vai-acontecer-protagonista-e-diretor-falam-de-sequencia.htm) | topico: geral | score: 100
-- [Com alta prevista para chips, SSDs aparecem em oferta no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411518-com-alta-prevista-para-chips-ssds-aparecem-em-oferta-no-magazine-luiza.htm) | topico: geral | score: 100
-- [Facebook e WhatsApp ganham novos recursos contra fraudes em chats](https://www.tecmundo.com.br/seguranca/411520-facebook-e-whatsapp-ganham-novos-recursos-contra-fraudes-em-chats.htm) | topico: geral | score: 100
-- [Hackers chineses usam a guerra no Irã como isca para ataques](https://www.tecmundo.com.br/seguranca/411509-hackers-chineses-usam-a-guerra-no-ira-como-isca-para-ataques.htm) | topico: geral | score: 100
-- [PS Plus Extra e Deluxe de março terá Persona e mais jogos de peso! Veja a lista completa](https://www.tecmundo.com.br/voxel/503749-ps-plus-extra-e-deluxe-de-marco-tera-persona-e-mais-jogos-de-peso-veja-a-lista-completa.htm) | topico: geral | score: 92
-- [Meta revela planos para lote de chips de IA próprios](https://www.uol.com.br/tilt/noticias/reuters/2026/03/11/meta-revela-planos-para-lote-de-chips-de-iaproprios.htm) | topico: geral | score: 100
+- [Grupo ligado ao Irã reivindica ciberataque a empresa dos EUA em resposta a ataque em escola](https://g1.globo.com/tecnologia/noticia/2026/03/11/grupo-do-ira-reivindica-ciberataque-a-empresa-de-tecnologia-medica-dos-eua.ghtml) | topico: geral | score: 100
+- [Galaxy S25 FE (256 GB) tem promoção com cupom de R$ 500 na Semana do Consumidor](https://tecnoblog.net/achados/galaxy-s25-fe-256-gb-tem-promocao-com-cupom-de-r-500-na-semana-do-consumidor/) | topico: geral | score: 92
+- [Estudo revela que 8 em cada 10 IAs ajudam a planejar ataques violentos](https://tecnoblog.net/noticias/estudo-revela-que-8-em-cada-10-ias-ajudam-a-planejar-ataques-violentos/) | topico: llms | score: 100
+- [Microsoft revela mais detalhes sobre o Project Helix, seu próximo Xbox](https://tecnoblog.net/noticias/project-helix-microsoft-revela-detalhes-tecnicos-do-proximo-xbox/) | topico: geral | score: 100
+- [Como vai funcionar a conta gerenciada por pais no WhatsApp? Entenda regras](https://canaltech.com.br/apps/como-vai-funcionar-a-conta-gerenciada-por-pais-no-whatsapp-entenda-regras/) | topico: seguranca-ia | score: 100
+- [Novo notebook de entrada, Positivo Vision N15M vem com IA e minitela integradas](https://canaltech.com.br/notebook/novo-notebook-de-entrada-positivo-vision-n15m-vem-com-ia-e-minitela-integradas/) | topico: geral | score: 100
+- [Volkswagen derruba preço do Virtus e sedan rivaliza com Chevrolet Spark](https://canaltech.com.br/carros/volkswagen-derruba-preco-do-virtus-e-sedan-rivaliza-com-chevrolet-spark/) | topico: geral | score: 100
+- [Xbox Helix: o que as especificações técnicas revelam sobre o novo console](https://canaltech.com.br/games/xbox-helix-o-que-as-especificacoes-tecnicas-revelam-sobre-o-novo-console/) | topico: geral | score: 100
+- [Geladeira de enchente tem conserto? Saiba o que fazer antes de ligar na tomada](https://canaltech.com.br/eletro/geladeira-de-enchente-tem-conserto-saiba-o-que-fazer-antes-de-ligar-na-tomada/) | topico: produtividade-dev | score: 100
+- [Esqueça o Bowser! Quem diabos é Wart, o sapo vilão do novo filme do Mario?](https://canaltech.com.br/entretenimento/esqueca-o-bowser-quem-diabos-e-wart-o-sapo-vilao-do-novo-filme-do-mario/) | topico: geral | score: 92
+- [Xbox Helix: Microsoft revela detalhes da sua próxima geração de consoles](https://canaltech.com.br/games/xbox-helix-microsoft-revela-detalhes-da-sua-proxima-geracao-de-consoles/) | topico: geral | score: 100
+- [Browser-in-the-browser: conheça o 'phishing 2.0' que rouba logins e senhas](https://www.tecmundo.com.br/seguranca/411524-browser-in-the-browser-conheca-o-phishing-20-que-rouba-logins-e-senhas.htm) | topico: geral | score: 100
+- [Helix: Microsoft revela detalhes sobre console de nova geração e modo Xbox no PC](https://www.tecmundo.com.br/voxel/503751-helix-microsoft-revela-detalhes-sobre-console-de-nova-geracao-e-modo-xbox-no-pc.htm) | topico: geral | score: 100
+- [OpenAI adia 'modo adulto' do ChatGPT para focar em outras prioridades](https://www.tecmundo.com.br/mercado/411527-openai-adia-modo-adulto-do-chatgpt-para-focar-em-outras-prioridades.htm) | topico: geral | score: 100
+- [Dispositivos de casa inteligente entram em oferta com cupons de até 20% OFF](https://www.tecmundo.com.br/guia-de-compras/411535-dispositivos-de-casa-inteligente-entram-em-oferta-com-cupons-de-ate-20-off.htm) | topico: geral | score: 100
+- [O que lembrar antes da temporada 7 de Virgin River? Saiba tudo!](https://www.tecmundo.com.br/minha-serie/603347-o-que-lembrar-antes-da-temporada-7-de-virgin-river-saiba-tudo.htm) | topico: geral | score: 100
+- [Funcionário da JBS teria ajudado a vazar 3 TB de dados para grupo criminoso](https://www.tecmundo.com.br/seguranca/411532-funcionario-da-jbs-teria-ajudado-a-vazar-3-tb-de-dados-para-grupo-criminoso.htm) | topico: geral | score: 100
+- [IAs podem ajudar adolescentes a fazer ataques armados, revela estudo](https://www.tecmundo.com.br/seguranca/411521-ias-podem-ajudar-adolescentes-a-fazer-ataques-armados-revela-estudo.htm) | topico: geral | score: 100
+- [YouTube supera Disney e se torna a maior empresa de mídia do mundo, mostra estudo](https://www.tecmundo.com.br/mercado/411525-youtube-supera-disney-e-se-torna-a-maior-empresa-de-midia-do-mundo-mostra-estudo.htm) | topico: geral | score: 100
+- [Solasta 2 chega ao acesso antecipado com evoluções e gráficos da Unreal 5: “Outro nível”](https://www.tecmundo.com.br/voxel/503750-solasta-2-chega-ao-acesso-antecipado-com-evolucoes-e-graficos-da-unreal-5-e-outro-nivel.htm) | topico: geral | score: 100
