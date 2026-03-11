@@ -1,23 +1,29 @@
 # Weekly IA para Devs - 2026-03-11
 
-Gerado em 2026-03-11T13:11:20.883Z
+Gerado em 2026-03-11T15:15:45.246Z
 
-- [China alerta estatais e órgãos do governo sobre riscos de segurança do software de inteligência artificial OpenClaw](https://g1.globo.com/tecnologia/noticia/2026/03/11/china-alerta-estatais-e-orgaos-do-governo-sobre-riscos-de-seguranca-do-software-de-inteligencia-artificial-openclaw.ghtml) | topico: agentes | score: 100
-- [iPhone 17 (512 GB) em até 10x tem 23% OFF na Semana do Consumidor no Mercado Livre](https://tecnoblog.net/achados/iphone-17-512-gb-em-ate-10x-tem-23-off-na-semana-do-consumidor-no-mercado-livre/) | topico: geral | score: 92
-- [Jovi desafia Samsung e Motorola com novo intermediário top no Brasil](https://canaltech.com.br/smartphone/jovi-desafia-samsung-e-motorola-com-novo-intermediario-top-no-brasil/) | topico: geral | score: 100
-- [Coisa de filme: hackers chineses invadem sistema secreto de grampos do FBI](https://canaltech.com.br/seguranca/coisa-de-filme-hackers-chineses-invadem-sistema-secreto-de-grampos-do-fbi/) | topico: geral | score: 100
-- [Chinesa usa lasers para eliminar vinco da tela de novo celular dobrável](https://canaltech.com.br/smartphone/chinesa-usa-lasers-para-eliminar-vinco-da-tela-de-novo-celular-dobravel/) | topico: geral | score: 100
-- [Estudar matemática no ChatGPT ficou mais fácil; entenda mudança](https://canaltech.com.br/apps/estudar-matematica-no-chatgpt-ficou-mais-facil-entenda-mudanca/) | topico: llms | score: 100
-- [Apple comemora 50 anos e jornalista lança livro contando a história da marca](https://canaltech.com.br/produtos/apple-comemora-50-anos-e-jornalista-lanca-livro-contando-a-historia-da-marca/) | topico: geral | score: 100
-- [Assistente Meta AI também pode ganhar assinatura paga, revela site](https://canaltech.com.br/apps/assistente-meta-ai-tambem-pode-ganhar-assinatura-paga-revela-site/) | topico: llms | score: 100
-- [Avatr 11: carro chinês de meio milhão chega para desafiar BMW e Porsche](https://canaltech.com.br/carros/avatr-11-carro-chines-de-meio-milhao-chega-para-desafiar-bmw-e-porsche/) | topico: produtividade-dev | score: 100
-- [Samsung testa baterias de celular que duram vários dias; entenda](https://canaltech.com.br/smartphone/samsung-testa-baterias-de-celular-que-duram-varios-dias-entenda/) | topico: geral | score: 100
-- [Novo processo acusa Anna's Archive de vender "acesso VIP" a conteúdo pirata](https://canaltech.com.br/seguranca/novo-processo-acusa-annas-archive-de-vender-acesso-vip-a-conteudo-pirata/) | topico: geral | score: 100
-- [Placa de vídeo em ouro mais cara do mundo já custa mais de R$ 4 milhões](https://www.tecmundo.com.br/produto/411496-placa-de-video-em-ouro-mais-cara-do-mundo-ja-custa-mais-de-r-4-milhoes.htm) | topico: geral | score: 92
-- [PF desmantela esquema de TV pirata que movimentou mais de R$ 4,2 milhões](https://www.tecmundo.com.br/mercado/411502-pf-desmantela-esquema-de-tv-pirata-que-movimentou-mais-de-r-42-milhoes.htm) | topico: geral | score: 92
-- [Quando Reacher Temporada 4 chega ao Prime Video? Confira previsão de lançamento](https://www.tecmundo.com.br/minha-serie/603334-quando-reacher-temporada-4-chega-ao-prime-video-confira-previsao-de-lancamento.htm) | topico: geral | score: 100
-- [ChatGPT ganha integração com o Shazam para identificar músicas na hora](https://www.tecmundo.com.br/software/411488-chatgpt-ganha-integracao-com-o-shazam-para-identificar-musicas-na-hora.htm) | topico: llms | score: 100
-- [Adeus bombeiros? Cães-robôs ajudam em incêndios e viralizam](https://www.tecmundo.com.br/internet/411492-adeus-bombeiros-caes-robos-ajudam-em-incendios-e-viralizam.htm) | topico: geral | score: 100
-- [15 heróis mais "apelões" em Overwatch; confira a lista](https://www.tecmundo.com.br/voxel/503611-15-herois-mais-apeloes-em-overwatch-confira-a-lista.htm) | topico: geral | score: 100
-- [Palpites para São Paulo x Chapecoense: Análises e Onde Assistir (12/03/2026)](https://www.tecmundo.com.br/apostas/411497-palpites-para-sao-paulo-x-chapecoense-analises-e-onde-assistir-12032026.htm) | topico: seguranca-ia | score: 92
-- [KadNap: botnet mira roteadores da Asus para alimentar rede maliciosa](https://www.tecmundo.com.br/seguranca/411487-kadnap-botnet-mira-roteadores-da-asus-para-alimentar-rede-maliciosa.htm) | topico: geral | score: 100
+- [Espanha lançará ferramenta para monitorar ódio nas redes sociais, diz primeiro-ministro](https://g1.globo.com/tecnologia/noticia/2026/03/11/espanha-lancara-ferramenta-para-monitorar-odio-nas-redes-sociais-diz-primeiro-ministro.ghtml) | topico: agentes | score: 100
+- [Meta lança novas ferramentas de IA antifraude no WhatsApp e Facebook](https://tecnoblog.net/noticias/meta-lanca-novas-ferramentas-de-ia-antifraude-no-whatsapp-e-facebook/) | topico: agentes | score: 100
+- [iPhone 17 Pro (1 TB) tem desconto inédito na Semana do Consumidor no Mercado Livre](https://tecnoblog.net/achados/iphone-17-pro-1-tb-tem-desconto-inedito-na-semana-do-consumidor-no-mercado-livre/) | topico: geral | score: 92
+- [Google revela como irá melhorar o desempenho do Android](https://tecnoblog.net/noticias/google-revela-como-ira-melhorar-o-desempenho-do-android/) | topico: frameworks | score: 92
+- [iPhone Air (512 GB) tem promoção histórica com 39% OFF na Semana do Consumidor](https://tecnoblog.net/achados/iphone-air-512-gb-tem-promocao-historica-com-39-off-na-semana-do-consumidor/) | topico: geral | score: 92
+- [YouTube exibe anúncios de 30 segundos nas TVs sem opção de pular](https://tecnoblog.net/noticias/youtube-exibe-anuncios-de-30-segundos-nas-tvs-sem-opcao-de-pular/) | topico: produtividade-dev | score: 92
+- [Galaxy S25 Plus (512 GB) despenca 54% com cupom na Semana do Consumidor na Amazon](https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-despenca-54-com-cupom-na-semana-do-consumidor-na-amazon/) | topico: geral | score: 92
+- [Huawei Watch Fit 4 tem 54% OFF e menor preço que já vimos na Semana do Consumidor](https://tecnoblog.net/achados/huawei-watch-fit-4-tem-54-off-e-menor-preco-que-ja-vimos-na-semana-do-consumidor/) | topico: geral | score: 92
+- [Jovi V70 chega ao Brasil com câmera de 200 MP; veja o preço](https://tecnoblog.net/noticias/jovi-v70-chega-ao-brasil-com-camera-de-200-mp-veja-o-preco/) | topico: geral | score: 92
+- [A inflação chegou: V-Bucks do Fortnite ficarão mais caros em breve](https://canaltech.com.br/games/a-inflacao-chegou-v-bucks-do-fortnite-ficarao-mais-caros-em-breve/) | topico: geral | score: 100
+- [Prêmio Canaltech é destaque na CNN ao vivo; veja os vencedores](https://canaltech.com.br/canaltech/premio-canaltech-e-destaque-na-cnn-ao-vivo-veja-os-vencedores/) | topico: geral | score: 100
+- [Cofundador do Facebook é o brasileiro mais rico na lista da Forbes; veja top 10](https://canaltech.com.br/mercado/cofundador-do-facebook-e-o-brasileiro-mais-rico-na-lista-da-forbes-veja-top-10/) | topico: geral | score: 92
+- [Mercado Livre faz queima de iPhone 15 de 256 GB; Apple no menor preço histórico](https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-15-de-256-gb-apple-no-menor-preco-historico/) | topico: geral | score: 100
+- [5 novidades do Gemini para Documentos, Planilhas e Apresentações](https://canaltech.com.br/apps/5-novidades-do-gemini-para-documentos-planilhas-e-apresentacoes/) | topico: llms | score: 100
+- [WhatsApp cria alerta para combater golpes de roubo de conta no app](https://canaltech.com.br/apps/whatsapp-cria-alerta-para-combater-golpes-de-roubo-de-conta-no-app/) | topico: agentes | score: 100
+- [Harry Potter: atriz de His Dark Materials estreia como Belatriz em audiolivro](https://canaltech.com.br/entretenimento/harry-potter-atriz-de-his-dark-materials-estreia-como-belatriz-em-audiolivro/) | topico: geral | score: 100
+- [Monitor gamer Samsung Odyssey G5 27" em oferta com cupom para assinantes Meli+](https://canaltech.com.br/hardware/monitor-gamer-samsung-odyssey-g5-27-em-oferta-com-cupom-para-assinantes-meli/) | topico: geral | score: 100
+- [BYD estuda entrar na Fórmula 1 para desafiar gigantes do automobilismo](https://canaltech.com.br/carros/byd-estuda-entrar-na-formula-1-para-desafiar-gigantes-do-automobilismo/) | topico: produtividade-dev | score: 100
+- [Hackers norte-coreanos transformam IAs em “multiplicadoras de forças” em ataques](https://canaltech.com.br/seguranca/hackers-norte-coreanos-transformam-ias-em-multiplicadoras-de-forcas-em-ataques/) | topico: geral | score: 100
+- [WhatsApp lança contas para menores supervisionadas pelos pais; saiba como funciona](https://www.tecmundo.com.br/software/411512-whatsapp-lanca-contas-para-menores-supervisionadas-pelos-pais-saiba-como-funciona.htm) | topico: seguranca-ia | score: 92
+- [MacBook Neo deixou indústria de PCs 'em choque', afirma co-CEO da Asus](https://www.tecmundo.com.br/produto/411506-macbook-neo-deixou-industria-de-pcs-em-choque-afirmou-co-ceo-da-asus.htm) | topico: produtividade-dev | score: 92
+- [Quer pagar menos no Galaxy S26? Samsung libera cupom com desconto](https://www.tecmundo.com.br/guia-de-compras/411505-quer-pagar-menos-no-galaxy-s26-samsung-libera-cupom-com-desconto.htm) | topico: geral | score: 100
+- [Agente Secreto: Final da Netflix revela detalhes sobre destino de Armando](https://www.tecmundo.com.br/minha-serie/603363-agente-secreto-final-da-netflix-revela-detalhes-sobre-destino-de-armando.htm) | topico: geral | score: 92
+- [Site falso de limpeza para Mac esconde malware que rouba tudo](https://www.tecmundo.com.br/seguranca/411500-site-falso-de-limpeza-para-mac-esconde-malware-que-rouba-tudo.htm) | topico: geral | score: 100
+- [Meu PC roda Crimson Desert? Veja requisitos mínimos e recomendados do game](https://www.tecmundo.com.br/voxel/503741-meu-pc-roda-crimson-desert-veja-requisitos-minimos-e-recomendados-do-game.htm) | topico: geral | score: 100

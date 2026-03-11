@@ -1,178 +1,250 @@
 {
-  "generated_at": "2026-03-11T13:11:20.883Z",
+  "generated_at": "2026-03-11T15:15:45.246Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 19,
+  "total": 27,
   "posts": [
     {
-      "title": "China alerta estatais e órgãos do governo sobre riscos de segurança do software de inteligência artificial OpenClaw",
-      "slug": "china-alerta-estatais-e-orgaos-do-governo-sobre-riscos-de-seguranca-do-software-de-inteligencia-artificial-openclaw",
+      "title": "Espanha lançará ferramenta para monitorar ódio nas redes sociais, diz primeiro-ministro",
+      "slug": "espanha-lancara-ferramenta-para-monitorar-odio-nas-redes-sociais-diz-primeiro-ministro",
       "topic": "agentes",
       "source": "G1 Tecnologia",
-      "date": "2026-03-11T11:21:15.000Z",
+      "date": "2026-03-11T14:05:58.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/11/china-alerta-estatais-e-orgaos-do-governo-sobre-riscos-de-seguranca-do-software-de-inteligencia-artificial-openclaw.ghtml"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/11/espanha-lancara-ferramenta-para-monitorar-odio-nas-redes-sociais-diz-primeiro-ministro.ghtml"
     },
     {
-      "title": "iPhone 17 (512 GB) em até 10x tem 23% OFF na Semana do Consumidor no Mercado Livre",
-      "slug": "iphone-17-512-gb-em-ate-10x-tem-23percent-off-na-semana-do-consumidor-no-mercado-livre",
+      "title": "Meta lança novas ferramentas de IA antifraude no WhatsApp e Facebook",
+      "slug": "meta-lanca-novas-ferramentas-de-ia-antifraude-no-whatsapp-e-facebook",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T14:31:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/meta-lanca-novas-ferramentas-de-ia-antifraude-no-whatsapp-e-facebook/"
+    },
+    {
+      "title": "iPhone 17 Pro (1 TB) tem desconto inédito na Semana do Consumidor no Mercado Livre",
+      "slug": "iphone-17-pro-1-tb-tem-desconto-inedito-na-semana-do-consumidor-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-11T12:51:33.000Z",
+      "date": "2026-03-11T14:22:27.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-512-gb-em-ate-10x-tem-23-off-na-semana-do-consumidor-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-1-tb-tem-desconto-inedito-na-semana-do-consumidor-no-mercado-livre/"
     },
     {
-      "title": "Jovi desafia Samsung e Motorola com novo intermediário top no Brasil",
-      "slug": "jovi-desafia-samsung-e-motorola-com-novo-intermediario-top-no-brasil",
+      "title": "Google revela como irá melhorar o desempenho do Android",
+      "slug": "google-revela-como-ira-melhorar-o-desempenho-do-android",
+      "topic": "frameworks",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T14:11:36.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/google-revela-como-ira-melhorar-o-desempenho-do-android/"
+    },
+    {
+      "title": "iPhone Air (512 GB) tem promoção histórica com 39% OFF na Semana do Consumidor",
+      "slug": "iphone-air-512-gb-tem-promocao-historica-com-39percent-off-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T14:09:06.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-air-512-gb-tem-promocao-historica-com-39-off-na-semana-do-consumidor/"
+    },
+    {
+      "title": "YouTube exibe anúncios de 30 segundos nas TVs sem opção de pular",
+      "slug": "youtube-exibe-anuncios-de-30-segundos-nas-tvs-sem-opcao-de-pular",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T13:30:49.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/youtube-exibe-anuncios-de-30-segundos-nas-tvs-sem-opcao-de-pular/"
+    },
+    {
+      "title": "Galaxy S25 Plus (512 GB) despenca 54% com cupom na Semana do Consumidor na Amazon",
+      "slug": "galaxy-s25-plus-512-gb-despenca-54percent-com-cupom-na-semana-do-consumidor-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T13:29:32.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-despenca-54-com-cupom-na-semana-do-consumidor-na-amazon/"
+    },
+    {
+      "title": "Huawei Watch Fit 4 tem 54% OFF e menor preço que já vimos na Semana do Consumidor",
+      "slug": "huawei-watch-fit-4-tem-54percent-off-e-menor-preco-que-ja-vimos-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T13:22:20.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/huawei-watch-fit-4-tem-54-off-e-menor-preco-que-ja-vimos-na-semana-do-consumidor/"
+    },
+    {
+      "title": "Jovi V70 chega ao Brasil com câmera de 200 MP; veja o preço",
+      "slug": "jovi-v70-chega-ao-brasil-com-camera-de-200-mp-veja-o-preco",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T13:05:56.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/jovi-v70-chega-ao-brasil-com-camera-de-200-mp-veja-o-preco/"
+    },
+    {
+      "title": "A inflação chegou: V-Bucks do Fortnite ficarão mais caros em breve",
+      "slug": "a-inflacao-chegou-v-bucks-do-fortnite-ficarao-mais-caros-em-breve",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T13:00:00.000Z",
+      "date": "2026-03-11T15:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/jovi-desafia-samsung-e-motorola-com-novo-intermediario-top-no-brasil/"
+      "original_url": "https://canaltech.com.br/games/a-inflacao-chegou-v-bucks-do-fortnite-ficarao-mais-caros-em-breve/"
     },
     {
-      "title": "Coisa de filme: hackers chineses invadem sistema secreto de grampos do FBI",
-      "slug": "coisa-de-filme-hackers-chineses-invadem-sistema-secreto-de-grampos-do-fbi",
+      "title": "Prêmio Canaltech é destaque na CNN ao vivo; veja os vencedores",
+      "slug": "premio-canaltech-e-destaque-na-cnn-ao-vivo-veja-os-vencedores",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T13:00:00.000Z",
+      "date": "2026-03-11T14:45:16.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/coisa-de-filme-hackers-chineses-invadem-sistema-secreto-de-grampos-do-fbi/"
+      "original_url": "https://canaltech.com.br/canaltech/premio-canaltech-e-destaque-na-cnn-ao-vivo-veja-os-vencedores/"
     },
     {
-      "title": "Chinesa usa lasers para eliminar vinco da tela de novo celular dobrável",
-      "slug": "chinesa-usa-lasers-para-eliminar-vinco-da-tela-de-novo-celular-dobravel",
+      "title": "Cofundador do Facebook é o brasileiro mais rico na lista da Forbes; veja top 10",
+      "slug": "cofundador-do-facebook-e-o-brasileiro-mais-rico-na-lista-da-forbes-veja-top-10",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T12:46:30.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/chinesa-usa-lasers-para-eliminar-vinco-da-tela-de-novo-celular-dobravel/"
+      "date": "2026-03-11T14:41:30.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/mercado/cofundador-do-facebook-e-o-brasileiro-mais-rico-na-lista-da-forbes-veja-top-10/"
     },
     {
-      "title": "Estudar matemática no ChatGPT ficou mais fácil; entenda mudança",
-      "slug": "estudar-matematica-no-chatgpt-ficou-mais-facil-entenda-mudanca",
+      "title": "Mercado Livre faz queima de iPhone 15 de 256 GB; Apple no menor preço histórico",
+      "slug": "mercado-livre-faz-queima-de-iphone-15-de-256-gb-apple-no-menor-preco-historico",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-11T14:35:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-15-de-256-gb-apple-no-menor-preco-historico/"
+    },
+    {
+      "title": "5 novidades do Gemini para Documentos, Planilhas e Apresentações",
+      "slug": "5-novidades-do-gemini-para-documentos-planilhas-e-apresentacoes",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-11T12:36:45.000Z",
+      "date": "2026-03-11T14:31:43.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/estudar-matematica-no-chatgpt-ficou-mais-facil-entenda-mudanca/"
+      "original_url": "https://canaltech.com.br/apps/5-novidades-do-gemini-para-documentos-planilhas-e-apresentacoes/"
     },
     {
-      "title": "Apple comemora 50 anos e jornalista lança livro contando a história da marca",
-      "slug": "apple-comemora-50-anos-e-jornalista-lanca-livro-contando-a-historia-da-marca",
+      "title": "WhatsApp cria alerta para combater golpes de roubo de conta no app",
+      "slug": "whatsapp-cria-alerta-para-combater-golpes-de-roubo-de-conta-no-app",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-11T14:31:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/whatsapp-cria-alerta-para-combater-golpes-de-roubo-de-conta-no-app/"
+    },
+    {
+      "title": "Harry Potter: atriz de His Dark Materials estreia como Belatriz em audiolivro",
+      "slug": "harry-potter-atriz-de-his-dark-materials-estreia-como-belatriz-em-audiolivro",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T12:32:00.000Z",
+      "date": "2026-03-11T14:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/apple-comemora-50-anos-e-jornalista-lanca-livro-contando-a-historia-da-marca/"
+      "original_url": "https://canaltech.com.br/entretenimento/harry-potter-atriz-de-his-dark-materials-estreia-como-belatriz-em-audiolivro/"
     },
     {
-      "title": "Assistente Meta AI também pode ganhar assinatura paga, revela site",
-      "slug": "assistente-meta-ai-tambem-pode-ganhar-assinatura-paga-revela-site",
-      "topic": "llms",
+      "title": "Monitor gamer Samsung Odyssey G5 27\" em oferta com cupom para assinantes Meli+",
+      "slug": "monitor-gamer-samsung-odyssey-g5-27-em-oferta-com-cupom-para-assinantes-meli",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T12:27:53.000Z",
+      "date": "2026-03-11T14:17:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/assistente-meta-ai-tambem-pode-ganhar-assinatura-paga-revela-site/"
+      "original_url": "https://canaltech.com.br/hardware/monitor-gamer-samsung-odyssey-g5-27-em-oferta-com-cupom-para-assinantes-meli/"
     },
     {
-      "title": "Avatr 11: carro chinês de meio milhão chega para desafiar BMW e Porsche",
-      "slug": "avatr-11-carro-chines-de-meio-milhao-chega-para-desafiar-bmw-e-porsche",
+      "title": "BYD estuda entrar na Fórmula 1 para desafiar gigantes do automobilismo",
+      "slug": "byd-estuda-entrar-na-formula-1-para-desafiar-gigantes-do-automobilismo",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-11T12:05:00.000Z",
+      "date": "2026-03-11T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/avatr-11-carro-chines-de-meio-milhao-chega-para-desafiar-bmw-e-porsche/"
+      "original_url": "https://canaltech.com.br/carros/byd-estuda-entrar-na-formula-1-para-desafiar-gigantes-do-automobilismo/"
     },
     {
-      "title": "Samsung testa baterias de celular que duram vários dias; entenda",
-      "slug": "samsung-testa-baterias-de-celular-que-duram-varios-dias-entenda",
+      "title": "Hackers norte-coreanos transformam IAs em “multiplicadoras de forças” em ataques",
+      "slug": "hackers-norte-coreanos-transformam-ias-em-multiplicadoras-de-forcas-em-ataques",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T11:23:16.000Z",
+      "date": "2026-03-11T13:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-testa-baterias-de-celular-que-duram-varios-dias-entenda/"
+      "original_url": "https://canaltech.com.br/seguranca/hackers-norte-coreanos-transformam-ias-em-multiplicadoras-de-forcas-em-ataques/"
     },
     {
-      "title": "Novo processo acusa Anna's Archive de vender \"acesso VIP\" a conteúdo pirata",
-      "slug": "novo-processo-acusa-annas-archive-de-vender-acesso-vip-a-conteudo-pirata",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-11T11:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/novo-processo-acusa-annas-archive-de-vender-acesso-vip-a-conteudo-pirata/"
-    },
-    {
-      "title": "Placa de vídeo em ouro mais cara do mundo já custa mais de R$ 4 milhões",
-      "slug": "placa-de-video-em-ouro-mais-cara-do-mundo-ja-custa-mais-de-rdollar-4-milhoes",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T13:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411496-placa-de-video-em-ouro-mais-cara-do-mundo-ja-custa-mais-de-r-4-milhoes.htm"
-    },
-    {
-      "title": "PF desmantela esquema de TV pirata que movimentou mais de R$ 4,2 milhões",
-      "slug": "pf-desmantela-esquema-de-tv-pirata-que-movimentou-mais-de-rdollar-42-milhoes",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T12:40:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411502-pf-desmantela-esquema-de-tv-pirata-que-movimentou-mais-de-r-42-milhoes.htm"
-    },
-    {
-      "title": "Quando Reacher Temporada 4 chega ao Prime Video? Confira previsão de lançamento",
-      "slug": "quando-reacher-temporada-4-chega-ao-prime-video-confira-previsao-de-lancamento",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T12:15:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603334-quando-reacher-temporada-4-chega-ao-prime-video-confira-previsao-de-lancamento.htm"
-    },
-    {
-      "title": "ChatGPT ganha integração com o Shazam para identificar músicas na hora",
-      "slug": "chatgpt-ganha-integracao-com-o-shazam-para-identificar-musicas-na-hora",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-11T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411488-chatgpt-ganha-integracao-com-o-shazam-para-identificar-musicas-na-hora.htm"
-    },
-    {
-      "title": "Adeus bombeiros? Cães-robôs ajudam em incêndios e viralizam",
-      "slug": "adeus-bombeiros-caes-robos-ajudam-em-incendios-e-viralizam",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T11:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411492-adeus-bombeiros-caes-robos-ajudam-em-incendios-e-viralizam.htm"
-    },
-    {
-      "title": "15 heróis mais \"apelões\" em Overwatch; confira a lista",
-      "slug": "15-herois-mais-apeloes-em-overwatch-confira-a-lista",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503611-15-herois-mais-apeloes-em-overwatch-confira-a-lista.htm"
-    },
-    {
-      "title": "Palpites para São Paulo x Chapecoense: Análises e Onde Assistir (12/03/2026)",
-      "slug": "palpites-para-sao-paulo-x-chapecoense-analises-e-onde-assistir-12032026",
+      "title": "WhatsApp lança contas para menores supervisionadas pelos pais; saiba como funciona",
+      "slug": "whatsapp-lanca-contas-para-menores-supervisionadas-pelos-pais-saiba-como-funciona",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-11T11:00:00.000Z",
+      "date": "2026-03-11T15:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411497-palpites-para-sao-paulo-x-chapecoense-analises-e-onde-assistir-12032026.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411512-whatsapp-lanca-contas-para-menores-supervisionadas-pelos-pais-saiba-como-funciona.htm"
     },
     {
-      "title": "KadNap: botnet mira roteadores da Asus para alimentar rede maliciosa",
-      "slug": "kadnap-botnet-mira-roteadores-da-asus-para-alimentar-rede-maliciosa",
+      "title": "MacBook Neo deixou indústria de PCs 'em choque', afirma co-CEO da Asus",
+      "slug": "macbook-neo-deixou-industria-de-pcs-em-choque-afirma-co-ceo-da-asus",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-11T14:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/411506-macbook-neo-deixou-industria-de-pcs-em-choque-afirmou-co-ceo-da-asus.htm"
+    },
+    {
+      "title": "Quer pagar menos no Galaxy S26? Samsung libera cupom com desconto",
+      "slug": "quer-pagar-menos-no-galaxy-s26-samsung-libera-cupom-com-desconto",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T11:00:00.000Z",
+      "date": "2026-03-11T14:16:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411487-kadnap-botnet-mira-roteadores-da-asus-para-alimentar-rede-maliciosa.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411505-quer-pagar-menos-no-galaxy-s26-samsung-libera-cupom-com-desconto.htm"
+    },
+    {
+      "title": "Agente Secreto: Final da Netflix revela detalhes sobre destino de Armando",
+      "slug": "agente-secreto-final-da-netflix-revela-detalhes-sobre-destino-de-armando",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T14:15:01.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603363-agente-secreto-final-da-netflix-revela-detalhes-sobre-destino-de-armando.htm"
+    },
+    {
+      "title": "Site falso de limpeza para Mac esconde malware que rouba tudo",
+      "slug": "site-falso-de-limpeza-para-mac-esconde-malware-que-rouba-tudo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411500-site-falso-de-limpeza-para-mac-esconde-malware-que-rouba-tudo.htm"
+    },
+    {
+      "title": "Meu PC roda Crimson Desert? Veja requisitos mínimos e recomendados do game",
+      "slug": "meu-pc-roda-crimson-desert-veja-requisitos-minimos-e-recomendados-do-game",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T13:15:15.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503741-meu-pc-roda-crimson-desert-veja-requisitos-minimos-e-recomendados-do-game.htm"
+    },
+    {
+      "title": "Mês do Consumidor Nespresso tem cafeteiras e cápsulas com até 45% OFF",
+      "slug": "mes-do-consumidor-nespresso-tem-cafeteiras-e-capsulas-com-ate-45percent-off",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T13:07:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411495-mes-do-consumidor-nespresso-tem-cafeteiras-e-capsulas-com-ate-45-off.htm"
+    },
+    {
+      "title": "WhatsApp terá conta gerenciadas por pais para crianças menores de 13 anos",
+      "slug": "whatsapp-tera-conta-gerenciadas-por-pais-para-criancas-menores-de-13-anos",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-11T15:10:34.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/11/whatsapp-tera-conta-gerenciadas-por-pais-para-criancas-menores-de-13-anos.htm"
     }
   ]
 }
