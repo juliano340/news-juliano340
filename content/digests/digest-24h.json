@@ -1,115 +1,34 @@
 {
-  "generated_at": "2026-03-10T23:05:20.037Z",
+  "generated_at": "2026-03-11T01:01:40.704Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 12,
+  "total": 3,
   "posts": [
     {
-      "title": "Motorola Edge 60 Pro (512 GB) tem 38% OFF contra Edge 70 na Semana do Consumidor",
-      "slug": "motorola-edge-60-pro-512-gb-tem-38percent-off-contra-edge-70-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-10T21:52:03.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-38-off-contra-edge-70-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Nintendo Switch tem 37% de desconto com cupom no Magalu na Semana do Consumidor",
-      "slug": "nintendo-switch-tem-37percent-de-desconto-com-cupom-no-magalu-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-10T21:51:49.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/nintendo-switch-tem-37-de-desconto-com-cupom-no-magalu-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Eventos iam voltar ao calendário do Windows 11, mas Microsoft adiou plano",
-      "slug": "eventos-iam-voltar-ao-calendario-do-windows-11-mas-microsoft-adiou-plano",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-10T21:07:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/eventos-iam-voltar-ao-calendario-do-windows-11-mas-microsoft-adiou-plano/"
-    },
-    {
-      "title": "Gostou de Os Dinossauros da Netflix? Esta série da Apple TV vai te deixar de queixo caído",
-      "slug": "gostou-de-os-dinossauros-da-netflix-esta-serie-da-apple-tv-vai-te-deixar-de-queixo-caido",
+      "title": "Lista dos 10 maiores bilionários de 2026 tem 7 nomes da tecnologia",
+      "slug": "lista-dos-10-maiores-bilionarios-de-2026-tem-7-nomes-da-tecnologia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-10T22:45:15.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603344-gostou-de-os-dinossauros-da-netflix-esta-serie-da-apple-tv-vai-te-deixar-de-queixo-caido.htm"
+      "date": "2026-03-11T00:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411484-lista-dos-10-maiores-bilionarios-de-2026-tem-7-nomes-da-tecnologia.htm"
     },
     {
-      "title": "Kingdom Come: Deliverance II e mais jogos da Steam com até 93% OFF na Nuuvem",
-      "slug": "kingdom-come-deliverance-ii-e-mais-jogos-da-steam-com-ate-93percent-off-na-nuuvem",
+      "title": "Resident Evil Requiem: Todos os códigos e sequências de puzzles e cofres do game",
+      "slug": "resident-evil-requiem-todos-os-codigos-e-sequencias-de-puzzles-e-cofres-do-game",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-10T22:30:00.000Z",
+      "date": "2026-03-10T23:15:57.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503743-kingdom-come-deliverance-ii-e-mais-jogos-da-steam-com-ate-93-off-na-nuuvem.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503724-resident-evil-requiem-todos-os-codigos-e-sequencias-de-puzzles-e-cofres-do-game.htm"
     },
     {
-      "title": "Uber lança função que facilita escolha de motoristas mulheres",
-      "slug": "uber-lanca-funcao-que-facilita-escolha-de-motoristas-mulheres",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T22:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/transportes/411498-uber-lanca-funcao-que-facilita-escolha-de-motoristas-mulheres.htm"
-    },
-    {
-      "title": "Home office: 78 vagas para trabalho remoto [10/03]",
-      "slug": "home-office-78-vagas-para-trabalho-remoto-1003",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T22:00:00.000Z",
-      "editorial_score": 83,
-      "original_url": "https://www.tecmundo.com.br/mercado/411478-home-office-78-vagas-para-trabalho-remoto-1003.htm"
-    },
-    {
-      "title": "Membros do Pentágono criarão agentes de IA com novo recurso do Google",
-      "slug": "membros-do-pentagono-criarao-agentes-de-ia-com-novo-recurso-do-google",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-10T21:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411485-membros-do-pentagono-criarao-agentes-de-ia-com-novo-recurso-do-google.htm"
-    },
-    {
-      "title": "Motorola Signature deixa ‘fantasmas’ do passado para trás: testamos o novo celular",
-      "slug": "motorola-signature-deixa-fantasmas-do-passado-para-tras-testamos-o-novo-celular",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T21:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411490-motorola-signature-deixa-fantasmas-do-passado-para-tras-testamos-o-novo-celular.htm"
-    },
-    {
-      "title": "Timothée Chalamet: Entenda polêmica que pode fazer o ator perder o Oscar 2026 de Melhor Ator",
-      "slug": "timothee-chalamet-entenda-polemica-que-pode-fazer-o-ator-perder-o-oscar-2026-de-melhor-ator",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T21:15:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603360-timothee-chalamet-entenda-polemica-que-pode-fazer-o-ator-perder-o-oscar-2026-de-melhor-ator.htm"
-    },
-    {
-      "title": "Smart TVs, celulares e mais destaques do Mês do Consumidor nas Casas Bahia",
-      "slug": "smart-tvs-celulares-e-mais-destaques-do-mes-do-consumidor-nas-casas-bahia",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T20:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411476-smart-tvs-celulares-e-mais-destaques-do-mes-do-consumidor-nas-casas-bahia.htm"
-    },
-    {
-      "title": "Amazon quer levantar US$37 bi em títulos de dívida com impulso da IA",
-      "slug": "amazon-quer-levantar-usdollar37-bi-em-titulos-de-divida-com-impulso-da-ia",
+      "title": "Canais misóginos no Youtube somam mais de 130 mil vídeos",
+      "slug": "canais-misoginos-no-youtube-somam-mais-de-130-mil-videos",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-10T21:24:52.000Z",
+      "date": "2026-03-10T23:02:47.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/10/amazon-quer-levantar-us37-bi-em-titulos-de-divida-com-impulso-da-ia.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/10/canais-misoginos-no-youtube-somam-mais-de-130-mil-videos.htm"
     }
   ]
 }
