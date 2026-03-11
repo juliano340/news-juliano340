@@ -1,23 +1,25 @@
 # Weekly IA para Devs - 2026-03-11
 
-Gerado em 2026-03-11T17:09:13.221Z
+Gerado em 2026-03-11T19:10:47.766Z
 
-- [Semana do Consumidor: Galaxy S25 tem 56% OFF na melhor promoção desde Janeiro](https://tecnoblog.net/achados/semana-do-consumidor-galaxy-s25-tem-56-off-na-melhor-promocao-desde-janeiro/) | topico: geral | score: 92
-- [Mercado Livre agora aluga filmes na plataforma Play](https://tecnoblog.net/noticias/mercado-livre-agora-aluga-filmes-na-plataforma-play/) | topico: geral | score: 100
-- [Samsung derruba preço de TV 4K com karaokê; modelo de 50'' por menos de R$ 2 mil](https://canaltech.com.br/tv/samsung-derruba-preco-de-tv-4k-com-karaoke-modelo-de-50-por-menos-de-r-2-mil/) | topico: geral | score: 100
-- [LG perde posto de "marca mais confiável de eletrodomésticos", indica relatório](https://canaltech.com.br/eletro/lg-perde-posto-de-marca-mais-confiavel-de-eletrodomesticos-indica-relatorio/) | topico: produtividade-dev | score: 100
-- [Alarme falso ou teaser do Xbox Helix? Microsoft divulga foto do dev kit](https://canaltech.com.br/games/alarme-falso-ou-teaser-do-xbox-helix-microsoft-divulga-foto-do-dev-kit/) | topico: geral | score: 100
-- [Qual é o melhor momento para comprar ar-condicionado em 2026?](https://canaltech.com.br/eletro/qual-e-o-melhor-momento-para-comprar-ar-condicionado-em-2026/) | topico: produtividade-dev | score: 100
-- [Voo MH370: por que a tecnologia mais avançada falhou em achar Boeing perdido](https://canaltech.com.br/carros/voo-mh370-por-que-a-tecnologia-mais-avancada-falhou-em-achar-boeing-perdido/) | topico: produtividade-dev | score: 100
-- [God of War: Minigames eróticos foram criados por mulheres, revela ex-roteirista](https://canaltech.com.br/games/god-of-war-minigames-eroticos-foram-criados-por-mulheres-revela-ex-roteirista/) | topico: geral | score: 100
-- [Novo iPhone vai mudar por dentro, mas segue igual por fora, diz leaker](https://canaltech.com.br/smartphone/novo-iphone-vai-mudar-por-dentro-mas-segue-igual-por-fora-diz-leaker/) | topico: geral | score: 100
-- [Play Store oferece diversos pacotes de ícones e apps grátis por tempo limitado](https://www.tecmundo.com.br/software/411432-play-store-oferece-diversos-pacotes-de-icones-e-apps-gratis-por-tempo-limitado.htm) | topico: agentes | score: 100
-- [Samurai Champloo vai ganhar live action pela mesma equipe de One Piece](https://www.tecmundo.com.br/minha-serie/603361-samurai-champloo-vai-ganhar-live-action-pela-mesma-equipe-de-one-piece.htm) | topico: geral | score: 100
-- [Intel revela chips Core Ultra 200S Plus com mais núcleos para PCs](https://www.tecmundo.com.br/produto/411507-intel-revela-chips-core-ultra-200s-plus-com-mais-nucleos-para-pcs.htm) | topico: geral | score: 100
-- [Pokémon Scarlet, Pac-Man World 2, Hades II e mais jogos da Nintendo em promoção na Amazon](https://www.tecmundo.com.br/voxel/503747-pokemon-scarlet-pac-man-world-2-hades-ii-e-mais-jogos-da-nintendo-em-promocao-na-amazon.htm) | topico: geral | score: 100
-- [ChatGPT deve ganhar integração com Sora para gerar vídeos](https://www.tecmundo.com.br/software/411508-chatgpt-deve-ganhar-integracao-com-sora-para-gerar-videos.htm) | topico: llms | score: 100
-- [NemoClaw: Nvidia planeja ferramenta de IA open-source, diz site](https://www.tecmundo.com.br/software/411504-nemoclaw-nvidia-planeja-ferramenta-de-ia-open-source-diz-site.htm) | topico: seguranca-ia | score: 100
-- [Eletrônicos, Smart TVs, gadgets e mais com preços baixos nas Super Ofertas da Shopee; aproveite](https://www.tecmundo.com.br/guia-de-compras/411515-eletronicos-smart-tvs-gadgets-e-mais-com-precos-baixos-nas-super-ofertas-da-shopee-aproveite.htm) | topico: geral | score: 92
-- [Ghost of Yotei Legends precisa de PS Plus? Saiba tudo sobre o multiplayer](https://www.tecmundo.com.br/voxel/503744-ghost-of-yotei-legends-precisa-de-ps-plus-saiba-tudo-sobre-o-multiplayer.htm) | topico: geral | score: 92
-- [Claude caiu? Chatbot de IA apresenta instabilidade nesta quarta (11)](https://www.tecmundo.com.br/internet/411513-claude-caiu-servico-de-ia-apresenta-instabilidade-nesta-quarta-11.htm) | topico: llms | score: 100
-- [Musk revela projeto conjunto de software Tesla-xAI "Macrohard"](https://www.uol.com.br/tilt/noticias/reuters/2026/03/11/musk-revela-projeto-conjunto-de-software-tesla-xai-macrohard.htm) | topico: geral | score: 100
+- [WhatsApp lança recurso para pais limitarem quem pode falar com seus filhos](https://g1.globo.com/tecnologia/noticia/2026/03/11/whatsapp-protecao-pais-filhos.ghtml) | topico: geral | score: 100
+- [Intel anuncia chips Core Ultra 200S Plus com mais desempenho para jogos](https://tecnoblog.net/noticias/intel-anuncia-chips-core-ultra-200s-plus-com-mais-desempenho-para-jogos/) | topico: geral | score: 92
+- [Apple Music vai rodar dentro do feed do TikTok](https://tecnoblog.net/noticias/apple-music-vai-rodar-dentro-do-feed-do-tiktok/) | topico: agentes | score: 100
+- [Mistério revelado: por que a Lua está "enrugando" como uma uva passa?](https://canaltech.com.br/espaco/misterio-revelado-por-que-a-lua-esta-enrugando-como-uma-uva-passa/) | topico: produtividade-dev | score: 100
+- [Novo top da Xiaomi vazou: 2 câmeras de 200 MP e mais sobre o Xiaomi 18 Pro Max](https://canaltech.com.br/smartphone/novo-top-da-xiaomi-vazou-2-cameras-de-200-mp-e-mais-sobre-o-xiaomi-18-pro-max/) | topico: geral | score: 100
+- [Magalu faz promoção de ar-condicionado portátil da Philco; 12.000 BTUs com cupom](https://canaltech.com.br/eletro/magalu-faz-promocao-de-ar-condicionado-portatil-da-philco-12000-btus-com-cupom/) | topico: geral | score: 92
+- [Sora no ChatGPT? Gerador de vídeos chega em breve ao app, diz site](https://canaltech.com.br/apps/sora-no-chatgpt-gerador-de-videos-chega-em-breve-ao-app-diz-site/) | topico: llms | score: 100
+- [Nova plataforma usa gamificação para ensinar programação e IA a crianças](https://canaltech.com.br/mercado/nova-plataforma-usa-gamificacao-para-ensinar-programacao-e-ia-a-criancas/) | topico: geral | score: 100
+- [Piloto automático da Tesla "enlouquece" e quase causa acidente com trem; veja](https://canaltech.com.br/carros/piloto-automatico-da-tesla-enlouquece-e-quase-causa-acidente-com-trem-veja/) | topico: produtividade-dev | score: 100
+- ["Caso ela diga não": o que é nova trend do TikTok investigada pela PF?](https://canaltech.com.br/seguranca/caso-ela-diga-nao-o-que-e-nova-trend-do-tiktok-investigada-pela-pf/) | topico: geral | score: 100
+- [Magalu faz queima de Microsoft 365: Excel, Word e PowerPoint por preço baixo](https://canaltech.com.br/software/magalu-faz-queima-de-microsoft-365-excel-word-e-powerpoint-por-preco-baixo/) | topico: produtividade-dev | score: 100
+- [WhatsApp agora permite que pais gerenciem contas dos filhos no app](https://canaltech.com.br/apps/whatsapp-agora-permite-que-pais-gerenciem-contas-dos-filhos-no-app/) | topico: agentes | score: 100
+- [Qual é o melhor celular até R$ 1.500 para comprar em março de 2026?](https://canaltech.com.br/smartphone/qual-e-o-melhor-celular-ate-r-1500-para-comprar-em-2026/) | topico: geral | score: 100
+- [Microsoft corrige 86 vulnerabilidades de segurança do Windows](https://www.tecmundo.com.br/seguranca/411519-microsoft-corrige-86-vulnerabilidades-de-seguranca-do-windows.htm) | topico: geral | score: 100
+- [Por que a China emitiu alerta de segurança contra IA OpenClaw?](https://www.tecmundo.com.br/seguranca/411517-por-que-a-china-emitiu-alerta-de-seguranca-contra-ia-openclaw.htm) | topico: geral | score: 100
+- [Máquina de Guerra 2 vai acontecer? Protagonista e diretor falam de sequência](https://www.tecmundo.com.br/minha-serie/603364-maquina-de-guerra-2-vai-acontecer-protagonista-e-diretor-falam-de-sequencia.htm) | topico: geral | score: 100
+- [Com alta prevista para chips, SSDs aparecem em oferta no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411518-com-alta-prevista-para-chips-ssds-aparecem-em-oferta-no-magazine-luiza.htm) | topico: geral | score: 100
+- [Facebook e WhatsApp ganham novos recursos contra fraudes em chats](https://www.tecmundo.com.br/seguranca/411520-facebook-e-whatsapp-ganham-novos-recursos-contra-fraudes-em-chats.htm) | topico: geral | score: 100
+- [Hackers chineses usam a guerra no Irã como isca para ataques](https://www.tecmundo.com.br/seguranca/411509-hackers-chineses-usam-a-guerra-no-ira-como-isca-para-ataques.htm) | topico: geral | score: 100
+- [PS Plus Extra e Deluxe de março terá Persona e mais jogos de peso! Veja a lista completa](https://www.tecmundo.com.br/voxel/503749-ps-plus-extra-e-deluxe-de-marco-tera-persona-e-mais-jogos-de-peso-veja-a-lista-completa.htm) | topico: geral | score: 92
+- [Meta revela planos para lote de chips de IA próprios](https://www.uol.com.br/tilt/noticias/reuters/2026/03/11/meta-revela-planos-para-lote-de-chips-de-iaproprios.htm) | topico: geral | score: 100
