@@ -1,52 +1,43 @@
 {
-  "generated_at": "2026-03-11T09:03:28.319Z",
+  "generated_at": "2026-03-11T11:02:49.613Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 4,
   "posts": [
     {
-      "title": "Como Musk aumentou sua fortuna em quase US$ 500 bilhões em um ano",
-      "slug": "como-musk-aumentou-sua-fortuna-em-quase-usdollar-500-bilhoes-em-um-ano",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-11T05:00:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/11/como-musk-aumentou-sua-fortuna-em-quase-us-500-bilhoes-em-um-ano.ghtml"
-    },
-    {
-      "title": "Por que a alta do petróleo pode encarecer a inteligência artificial",
-      "slug": "por-que-a-alta-do-petroleo-pode-encarecer-a-inteligencia-artificial",
+      "title": "Galaxy S26 Ultra está menos \"duro na queda\", indicam testes",
+      "slug": "galaxy-s26-ultra-esta-menos-duro-na-queda-indicam-testes",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-11T09:00:00.000Z",
+      "date": "2026-03-11T10:22:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/por-que-a-alta-do-petroleo-pode-encarecer-a-inteligencia-artificial-6395/"
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-ultra-esta-menos-duro-na-queda-indicam-testes/"
     },
     {
-      "title": "Palpites para Vasco x Palmeiras: Análises e Onde Assistir (12/03/2026)",
-      "slug": "palpites-para-vasco-x-palmeiras-analises-e-onde-assistir-12032026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-11T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411493-palpites-para-vasco-x-palmeiras-analises-e-onde-assistir-12032026.htm"
+      "title": "Luminosos de Uber e 99 geram polêmica e podem causar suspensão",
+      "slug": "luminosos-de-uber-e-99-geram-polemica-e-podem-causar-suspensao",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-11T09:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/luminosos-de-uber-e-99-geram-polemica-e-podem-causar-suspensao/"
     },
     {
-      "title": "Palpites para Grêmio x Bragantino: Análises e Onde Assistir (12/03/2026)",
-      "slug": "palpites-para-gremio-x-bragantino-analises-e-onde-assistir-12032026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-11T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411491-palpites-para-gremio-x-bragantino-analises-e-onde-assistir-12032026.htm"
-    },
-    {
-      "title": "Europa liga sinal de alerta para reduzir dependência de big techs dos EUA",
-      "slug": "europa-liga-sinal-de-alerta-para-reduzir-dependencia-de-big-techs-dos-eua",
+      "title": "Netflix, IA e o roteiro mastigado: design para mentes distraídas",
+      "slug": "netflix-ia-e-o-roteiro-mastigado-design-para-mentes-distraidas",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-11T08:30:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-11T10:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/11/europa-liga-sinal-de-alerta-para-reduzir-dependencia-de-big-techs-dos-eua.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603346-netflix-ia-e-o-roteiro-mastigado-design-para-mentes-distraidas.htm"
+    },
+    {
+      "title": "Palpites para Remo x Fluminense: Análises e Onde Assistir (12/03/2026)",
+      "slug": "palpites-para-remo-x-fluminense-analises-e-onde-assistir-12032026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-11T10:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411494-palpites-para-remo-x-fluminense-analises-e-onde-assistir-12032026.htm"
     }
   ]
 }

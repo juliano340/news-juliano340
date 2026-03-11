@@ -1,9 +1,8 @@
 # Weekly IA para Devs - 2026-03-11
 
-Gerado em 2026-03-11T09:03:28.319Z
+Gerado em 2026-03-11T11:02:49.613Z
 
-- [Como Musk aumentou sua fortuna em quase US$ 500 bilhões em um ano](https://g1.globo.com/tecnologia/noticia/2026/03/11/como-musk-aumentou-sua-fortuna-em-quase-us-500-bilhoes-em-um-ano.ghtml) | topico: geral | score: 100
-- [Por que a alta do petróleo pode encarecer a inteligência artificial](https://canaltech.com.br/podcast/podcast-canaltech/por-que-a-alta-do-petroleo-pode-encarecer-a-inteligencia-artificial-6395/) | topico: geral | score: 100
-- [Palpites para Vasco x Palmeiras: Análises e Onde Assistir (12/03/2026)](https://www.tecmundo.com.br/apostas/411493-palpites-para-vasco-x-palmeiras-analises-e-onde-assistir-12032026.htm) | topico: seguranca-ia | score: 92
-- [Palpites para Grêmio x Bragantino: Análises e Onde Assistir (12/03/2026)](https://www.tecmundo.com.br/apostas/411491-palpites-para-gremio-x-bragantino-analises-e-onde-assistir-12032026.htm) | topico: seguranca-ia | score: 92
-- [Europa liga sinal de alerta para reduzir dependência de big techs dos EUA](https://www.uol.com.br/tilt/noticias/redacao/2026/03/11/europa-liga-sinal-de-alerta-para-reduzir-dependencia-de-big-techs-dos-eua.htm) | topico: geral | score: 100
+- [Galaxy S26 Ultra está menos "duro na queda", indicam testes](https://canaltech.com.br/smartphone/galaxy-s26-ultra-esta-menos-duro-na-queda-indicam-testes/) | topico: geral | score: 100
+- [Luminosos de Uber e 99 geram polêmica e podem causar suspensão](https://canaltech.com.br/carros/luminosos-de-uber-e-99-geram-polemica-e-podem-causar-suspensao/) | topico: produtividade-dev | score: 100
+- [Netflix, IA e o roteiro mastigado: design para mentes distraídas](https://www.tecmundo.com.br/minha-serie/603346-netflix-ia-e-o-roteiro-mastigado-design-para-mentes-distraidas.htm) | topico: geral | score: 100
+- [Palpites para Remo x Fluminense: Análises e Onde Assistir (12/03/2026)](https://www.tecmundo.com.br/apostas/411494-palpites-para-remo-x-fluminense-analises-e-onde-assistir-12032026.htm) | topico: produtividade-dev | score: 92
