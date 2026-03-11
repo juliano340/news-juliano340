@@ -1,34 +1,16 @@
 {
-  "generated_at": "2026-03-11T01:01:40.704Z",
+  "generated_at": "2026-03-11T03:00:39.914Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 1,
   "posts": [
     {
-      "title": "Lista dos 10 maiores bilionários de 2026 tem 7 nomes da tecnologia",
-      "slug": "lista-dos-10-maiores-bilionarios-de-2026-tem-7-nomes-da-tecnologia",
+      "title": "App falso do INSS espalha vírus que desvia transferências bancárias",
+      "slug": "app-falso-do-inss-espalha-virus-que-desvia-transferencias-bancarias",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T00:00:00.000Z",
+      "date": "2026-03-11T01:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411484-lista-dos-10-maiores-bilionarios-de-2026-tem-7-nomes-da-tecnologia.htm"
-    },
-    {
-      "title": "Resident Evil Requiem: Todos os códigos e sequências de puzzles e cofres do game",
-      "slug": "resident-evil-requiem-todos-os-codigos-e-sequencias-de-puzzles-e-cofres-do-game",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-10T23:15:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503724-resident-evil-requiem-todos-os-codigos-e-sequencias-de-puzzles-e-cofres-do-game.htm"
-    },
-    {
-      "title": "Canais misóginos no Youtube somam mais de 130 mil vídeos",
-      "slug": "canais-misoginos-no-youtube-somam-mais-de-130-mil-videos",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-10T23:02:47.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/10/canais-misoginos-no-youtube-somam-mais-de-130-mil-videos.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411489-app-falso-do-inss-espalha-virus-que-desvia-transferencias-bancarias.htm"
     }
   ]
 }
