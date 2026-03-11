@@ -1,43 +1,178 @@
 {
-  "generated_at": "2026-03-11T11:02:49.613Z",
+  "generated_at": "2026-03-11T13:11:20.883Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 19,
   "posts": [
     {
-      "title": "Galaxy S26 Ultra está menos \"duro na queda\", indicam testes",
-      "slug": "galaxy-s26-ultra-esta-menos-duro-na-queda-indicam-testes",
+      "title": "China alerta estatais e órgãos do governo sobre riscos de segurança do software de inteligência artificial OpenClaw",
+      "slug": "china-alerta-estatais-e-orgaos-do-governo-sobre-riscos-de-seguranca-do-software-de-inteligencia-artificial-openclaw",
+      "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-11T11:21:15.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/11/china-alerta-estatais-e-orgaos-do-governo-sobre-riscos-de-seguranca-do-software-de-inteligencia-artificial-openclaw.ghtml"
+    },
+    {
+      "title": "iPhone 17 (512 GB) em até 10x tem 23% OFF na Semana do Consumidor no Mercado Livre",
+      "slug": "iphone-17-512-gb-em-ate-10x-tem-23percent-off-na-semana-do-consumidor-no-mercado-livre",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-11T10:22:59.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-ultra-esta-menos-duro-na-queda-indicam-testes/"
-    },
-    {
-      "title": "Luminosos de Uber e 99 geram polêmica e podem causar suspensão",
-      "slug": "luminosos-de-uber-e-99-geram-polemica-e-podem-causar-suspensao",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-11T09:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/luminosos-de-uber-e-99-geram-polemica-e-podem-causar-suspensao/"
-    },
-    {
-      "title": "Netflix, IA e o roteiro mastigado: design para mentes distraídas",
-      "slug": "netflix-ia-e-o-roteiro-mastigado-design-para-mentes-distraidas",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-11T10:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603346-netflix-ia-e-o-roteiro-mastigado-design-para-mentes-distraidas.htm"
-    },
-    {
-      "title": "Palpites para Remo x Fluminense: Análises e Onde Assistir (12/03/2026)",
-      "slug": "palpites-para-remo-x-fluminense-analises-e-onde-assistir-12032026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-11T10:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-11T12:51:33.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411494-palpites-para-remo-x-fluminense-analises-e-onde-assistir-12032026.htm"
+      "original_url": "https://tecnoblog.net/achados/iphone-17-512-gb-em-ate-10x-tem-23-off-na-semana-do-consumidor-no-mercado-livre/"
+    },
+    {
+      "title": "Jovi desafia Samsung e Motorola com novo intermediário top no Brasil",
+      "slug": "jovi-desafia-samsung-e-motorola-com-novo-intermediario-top-no-brasil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-11T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/jovi-desafia-samsung-e-motorola-com-novo-intermediario-top-no-brasil/"
+    },
+    {
+      "title": "Coisa de filme: hackers chineses invadem sistema secreto de grampos do FBI",
+      "slug": "coisa-de-filme-hackers-chineses-invadem-sistema-secreto-de-grampos-do-fbi",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-11T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/coisa-de-filme-hackers-chineses-invadem-sistema-secreto-de-grampos-do-fbi/"
+    },
+    {
+      "title": "Chinesa usa lasers para eliminar vinco da tela de novo celular dobrável",
+      "slug": "chinesa-usa-lasers-para-eliminar-vinco-da-tela-de-novo-celular-dobravel",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-11T12:46:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/chinesa-usa-lasers-para-eliminar-vinco-da-tela-de-novo-celular-dobravel/"
+    },
+    {
+      "title": "Estudar matemática no ChatGPT ficou mais fácil; entenda mudança",
+      "slug": "estudar-matematica-no-chatgpt-ficou-mais-facil-entenda-mudanca",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-11T12:36:45.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/estudar-matematica-no-chatgpt-ficou-mais-facil-entenda-mudanca/"
+    },
+    {
+      "title": "Apple comemora 50 anos e jornalista lança livro contando a história da marca",
+      "slug": "apple-comemora-50-anos-e-jornalista-lanca-livro-contando-a-historia-da-marca",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-11T12:32:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/apple-comemora-50-anos-e-jornalista-lanca-livro-contando-a-historia-da-marca/"
+    },
+    {
+      "title": "Assistente Meta AI também pode ganhar assinatura paga, revela site",
+      "slug": "assistente-meta-ai-tambem-pode-ganhar-assinatura-paga-revela-site",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-11T12:27:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/assistente-meta-ai-tambem-pode-ganhar-assinatura-paga-revela-site/"
+    },
+    {
+      "title": "Avatr 11: carro chinês de meio milhão chega para desafiar BMW e Porsche",
+      "slug": "avatr-11-carro-chines-de-meio-milhao-chega-para-desafiar-bmw-e-porsche",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-11T12:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/avatr-11-carro-chines-de-meio-milhao-chega-para-desafiar-bmw-e-porsche/"
+    },
+    {
+      "title": "Samsung testa baterias de celular que duram vários dias; entenda",
+      "slug": "samsung-testa-baterias-de-celular-que-duram-varios-dias-entenda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-11T11:23:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/samsung-testa-baterias-de-celular-que-duram-varios-dias-entenda/"
+    },
+    {
+      "title": "Novo processo acusa Anna's Archive de vender \"acesso VIP\" a conteúdo pirata",
+      "slug": "novo-processo-acusa-annas-archive-de-vender-acesso-vip-a-conteudo-pirata",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-11T11:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/novo-processo-acusa-annas-archive-de-vender-acesso-vip-a-conteudo-pirata/"
+    },
+    {
+      "title": "Placa de vídeo em ouro mais cara do mundo já custa mais de R$ 4 milhões",
+      "slug": "placa-de-video-em-ouro-mais-cara-do-mundo-ja-custa-mais-de-rdollar-4-milhoes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T13:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/411496-placa-de-video-em-ouro-mais-cara-do-mundo-ja-custa-mais-de-r-4-milhoes.htm"
+    },
+    {
+      "title": "PF desmantela esquema de TV pirata que movimentou mais de R$ 4,2 milhões",
+      "slug": "pf-desmantela-esquema-de-tv-pirata-que-movimentou-mais-de-rdollar-42-milhoes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T12:40:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/mercado/411502-pf-desmantela-esquema-de-tv-pirata-que-movimentou-mais-de-r-42-milhoes.htm"
+    },
+    {
+      "title": "Quando Reacher Temporada 4 chega ao Prime Video? Confira previsão de lançamento",
+      "slug": "quando-reacher-temporada-4-chega-ao-prime-video-confira-previsao-de-lancamento",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T12:15:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603334-quando-reacher-temporada-4-chega-ao-prime-video-confira-previsao-de-lancamento.htm"
+    },
+    {
+      "title": "ChatGPT ganha integração com o Shazam para identificar músicas na hora",
+      "slug": "chatgpt-ganha-integracao-com-o-shazam-para-identificar-musicas-na-hora",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-03-11T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411488-chatgpt-ganha-integracao-com-o-shazam-para-identificar-musicas-na-hora.htm"
+    },
+    {
+      "title": "Adeus bombeiros? Cães-robôs ajudam em incêndios e viralizam",
+      "slug": "adeus-bombeiros-caes-robos-ajudam-em-incendios-e-viralizam",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T11:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/411492-adeus-bombeiros-caes-robos-ajudam-em-incendios-e-viralizam.htm"
+    },
+    {
+      "title": "15 heróis mais \"apelões\" em Overwatch; confira a lista",
+      "slug": "15-herois-mais-apeloes-em-overwatch-confira-a-lista",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503611-15-herois-mais-apeloes-em-overwatch-confira-a-lista.htm"
+    },
+    {
+      "title": "Palpites para São Paulo x Chapecoense: Análises e Onde Assistir (12/03/2026)",
+      "slug": "palpites-para-sao-paulo-x-chapecoense-analises-e-onde-assistir-12032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-11T11:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411497-palpites-para-sao-paulo-x-chapecoense-analises-e-onde-assistir-12032026.htm"
+    },
+    {
+      "title": "KadNap: botnet mira roteadores da Asus para alimentar rede maliciosa",
+      "slug": "kadnap-botnet-mira-roteadores-da-asus-para-alimentar-rede-maliciosa",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-11T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411487-kadnap-botnet-mira-roteadores-da-asus-para-alimentar-rede-maliciosa.htm"
     }
   ]
 }
