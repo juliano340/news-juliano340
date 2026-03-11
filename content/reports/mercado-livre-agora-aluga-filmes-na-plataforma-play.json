@@ -1,6 +1,6 @@
 {
-  "slug": "claude-caiu-chatbot-de-ia-apresenta-instabilidade-nesta-quarta-11",
-  "generated_at": "2026-03-11T17:08:54.415Z",
+  "slug": "mercado-livre-agora-aluga-filmes-na-plataforma-play",
+  "generated_at": "2026-03-11T17:01:18.803Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 294,
+      "words": 292,
       "min": 220
     },
     {

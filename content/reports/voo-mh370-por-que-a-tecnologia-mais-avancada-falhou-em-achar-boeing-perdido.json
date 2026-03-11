@@ -1,6 +1,6 @@
 {
-  "slug": "claude-caiu-chatbot-de-ia-apresenta-instabilidade-nesta-quarta-11",
-  "generated_at": "2026-03-11T17:08:54.415Z",
+  "slug": "voo-mh370-por-que-a-tecnologia-mais-avancada-falhou-em-achar-boeing-perdido",
+  "generated_at": "2026-03-11T17:03:59.730Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 294,
+      "words": 306,
       "min": 220
     },
     {

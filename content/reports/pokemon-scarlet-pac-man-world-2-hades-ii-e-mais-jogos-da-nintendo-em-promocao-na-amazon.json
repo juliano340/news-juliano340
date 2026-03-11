@@ -1,6 +1,6 @@
 {
-  "slug": "claude-caiu-chatbot-de-ia-apresenta-instabilidade-nesta-quarta-11",
-  "generated_at": "2026-03-11T17:08:54.415Z",
+  "slug": "pokemon-scarlet-pac-man-world-2-hades-ii-e-mais-jogos-da-nintendo-em-promocao-na-amazon",
+  "generated_at": "2026-03-11T17:06:42.350Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 294,
+      "words": 327,
       "min": 220
     },
     {

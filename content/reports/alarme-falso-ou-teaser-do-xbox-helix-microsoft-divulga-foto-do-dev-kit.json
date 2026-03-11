@@ -1,6 +1,6 @@
 {
-  "slug": "claude-caiu-chatbot-de-ia-apresenta-instabilidade-nesta-quarta-11",
-  "generated_at": "2026-03-11T17:08:54.415Z",
+  "slug": "alarme-falso-ou-teaser-do-xbox-helix-microsoft-divulga-foto-do-dev-kit",
+  "generated_at": "2026-03-11T17:03:05.913Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 294,
+      "words": 390,
       "min": 220
     },
     {

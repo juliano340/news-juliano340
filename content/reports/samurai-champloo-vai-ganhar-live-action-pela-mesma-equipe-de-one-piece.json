@@ -1,6 +1,6 @@
 {
-  "slug": "claude-caiu-chatbot-de-ia-apresenta-instabilidade-nesta-quarta-11",
-  "generated_at": "2026-03-11T17:08:54.415Z",
+  "slug": "samurai-champloo-vai-ganhar-live-action-pela-mesma-equipe-de-one-piece",
+  "generated_at": "2026-03-11T17:05:28.167Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 294,
+      "words": 302,
       "min": 220
     },
     {
