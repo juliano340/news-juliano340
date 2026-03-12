@@ -1,7 +1,7 @@
 {
-  "slug": "microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas",
-  "generated_at": "2026-03-12T23:01:54.635Z",
-  "status": "WARN",
+  "slug": "justica-ordena-stone-a-reintegrar-funcionarios-demitidos-em-layoff",
+  "generated_at": "2026-03-12T23:08:16.871Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 275,
+      "words": 289,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

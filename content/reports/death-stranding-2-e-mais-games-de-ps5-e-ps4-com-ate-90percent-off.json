@@ -1,6 +1,6 @@
 {
-  "slug": "microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas",
-  "generated_at": "2026-03-12T23:01:54.635Z",
+  "slug": "death-stranding-2-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off",
+  "generated_at": "2026-03-12T23:07:00.543Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 275,
+      "words": 326,
       "min": 220
     },
     {

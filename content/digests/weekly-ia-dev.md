@@ -1,23 +1,15 @@
 # Weekly IA para Devs - 2026-03-12
 
-Gerado em 2026-03-12T21:13:59.064Z
+Gerado em 2026-03-12T23:11:56.214Z
 
-- [Galaxy S25 FE atinge oferta histórica na Amazon durante a Semana do Consumidor](https://tecnoblog.net/achados/galaxy-s25-fe-atinge-oferta-historica-na-amazon-durante-a-semana-do-consumidor/) | topico: geral | score: 100
-- [Nintendo Switch Lite tem 34% OFF em até 10x com cupom na Semana do Consumidor](https://tecnoblog.net/achados/nintendo-switch-lite-tem-34-off-em-ate-10x-com-cupom-na-semana-do-consumidor/) | topico: geral | score: 100
-- [Meta revela quatro chips MTIA para impulsionar IA](https://tecnoblog.net/noticias/meta-anuncia-quatro-chips-mtia-para-impulsionar-ia/) | topico: geral | score: 100
-- [Exclusivo: Sky assina contrato de operadora virtual com a Surf Telecom](https://tecnoblog.net/noticias/exclusivo-sky-assina-contrato-de-operadora-virtual-com-a-surf-telecom/) | topico: geral | score: 100
-- [iPhone 17 (256 GB) tem queda histórica de preço durante a Semana do Consumidor](https://tecnoblog.net/achados/iphone-17-256-gb-tem-queda-historica-de-preco-durante-a-semana-do-consumidor/) | topico: geral | score: 92
-- [Garmin Forerunner 55 tem 44% OFF em até 10x na Semana do Consumidor na Amazon](https://tecnoblog.net/achados/garmin-forerunner-55-tem-44-off-em-ate-10x-na-semana-do-consumidor-na-amazon/) | topico: agentes | score: 100
-- [Jogo exclusivo do Nintendo Switch 2 chega ao Xbox e ao PC](https://canaltech.com.br/games/jogo-exclusivo-do-nintendo-switch-2-chega-ao-xbox-e-ao-pc/) | topico: geral | score: 100
-- [Disney+ ou TikTok? Streaming ganha feed com vídeos curtos do catálogo](https://canaltech.com.br/apps/disney-ou-tiktok-streaming-ganha-feed-com-videos-curtos-do-catalogo/) | topico: geral | score: 92
-- [Google vai melhorar Android para ser mais rápido e gastar muito menos bateria](https://canaltech.com.br/apps/google-vai-melhorar-android-para-ser-mais-rapido-e-gastar-muito-menos-bateria/) | topico: produtividade-dev | score: 100
-- [Xbox confirma que outro projeto da era Phil Spencer está morto](https://canaltech.com.br/games/xbox-confirma-que-outro-projeto-da-era-phil-spencer-esta-morto/) | topico: geral | score: 100
-- [Nissan derruba preços do Versa e sedan rivaliza com Chevrolet Onix Plus](https://canaltech.com.br/carros/nissan-derruba-precos-do-versa-e-sedan-rivaliza-com-chevrolet-onix-plus/) | topico: geral | score: 100
-- [Como ficarão os jogos indie no Xbox Helix? Diretor do ID@Xbox explica](https://canaltech.com.br/games/como-ficarao-os-jogos-indie-no-xbox-helix-diretor-do-idxbox-explica/) | topico: geral | score: 100
-- [Alexa+ ganha opções de personalidade que incluem até modo 'adulto'](https://www.tecmundo.com.br/produto/411561-alexa-ganha-opcoes-de-personalidade-que-incluem-ate-modo-adulto.htm) | topico: llms | score: 92
-- [Novos tipos de RAM e armazenamento vão deixar celulares ainda mais caros](https://www.tecmundo.com.br/produto/411563-novos-tipos-de-ram-e-armazenamento-vao-deixar-celulares-ainda-mais-caros.htm) | topico: geral | score: 100
-- [Grupo iraniano assume ataque cibernético contra empresas americanas](https://www.tecmundo.com.br/seguranca/411550-grupo-iraniano-assume-ataque-cibernetico-contra-empresas-americanas.htm) | topico: geral | score: 100
-- [Pokémon Pokopia, que custa mais de R$ 400 no Brasil, já vendeu mais de 2 milhões de cópias](https://www.tecmundo.com.br/voxel/503759-pokemon-pokopia-que-custa-mais-de-r-400-no-brasil-ja-vendeu-mais-de-2-milhoes-de-copias.htm) | topico: geral | score: 92
-- [OPPO Find X9 Pro chega com câmera de 200 MP e até 2 dias de bateria](https://www.tecmundo.com.br/produto/411565-oppo-find-x9-pro-chega-com-camera-de-200-mp-e-ate-2-dias-de-bateria.htm) | topico: agentes | score: 100
-- [Apple corrige brechas de segurança dos antigos iOS 15 e iOS 16; entenda](https://www.tecmundo.com.br/seguranca/411557-apple-corrige-brechas-de-seguranca-dos-antigos-ios-15-e-ios-16-entenda.htm) | topico: geral | score: 100
-- [Iron lung e outros 7 lançamentos do cinema nesta semana](https://www.tecmundo.com.br/minha-serie/603366-iron-lung-e-outros-7-lancamentos-do-cinema-nesta-semana.htm) | topico: geral | score: 92
+- [Motorola Edge 70 já tem mais de R$ 700 OFF em oferta na Semana do Consumidor](https://tecnoblog.net/achados/motorola-edge-70-ja-tem-mais-de-r-700-off-em-oferta-na-semana-do-consumidor/) | topico: geral | score: 85
+- [Microsoft anuncia Copilot Health para ajudar usuários com questões médicas](https://tecnoblog.net/noticias/microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas/) | topico: llms | score: 92
+- [Remake saiu, estúdio caiu: Ballistic Moon, de Until Dawn, fecha as portas de vez](https://canaltech.com.br/games/remake-saiu-estudio-caiu-ballistic-moon-de-until-dawn-fecha-as-portas-de-vez/) | topico: geral | score: 100
+- [Operação desmantela grupo que vendia armas feitas em impressoras 3D](https://www.tecmundo.com.br/seguranca/411567-operacao-desmantela-grupo-que-vendia-armas-feitas-em-impressoras-3d.htm) | topico: geral | score: 100
+- [Death Stranding 2 e mais games de PS5 e PS4 com até 90% OFF](https://www.tecmundo.com.br/voxel/503763-death-stranding-2-e-mais-games-de-ps5-e-ps4-com-ate-90-off.htm) | topico: geral | score: 92
+- [Justiça ordena Stone a reintegrar funcionários demitidos em layoff](https://www.tecmundo.com.br/mercado/411575-justica-ordena-stone-a-reintegrar-funcionarios-demitidos-em-layoff.htm) | topico: geral | score: 100
+- [Guerra dos chips: por que a venda de GPUs para IA virou política](https://www.tecmundo.com.br/mercado/411481-guerra-dos-chips-por-que-a-venda-de-gpus-para-ia-virou-politica.htm) | topico: geral | score: 100
+- [O desafio de desaprender na era da IA](https://www.tecmundo.com.br/mercado/411576-o-desafio-de-desaprender-na-era-da-ia.htm) | topico: geral | score: 100
+- [Falha em plugin do WordPress expõe 400 mil sites a ataques cibernéticos](https://www.tecmundo.com.br/seguranca/411559-falha-em-plugin-do-wordpress-expoe-400-mil-sites-a-ataques-ciberneticos.htm) | topico: geral | score: 100
+- [N8N: falhas críticas expõem mais de 100 mil usuários a cibercriminosos](https://www.tecmundo.com.br/seguranca/411566-n8n-falhas-criticas-expoem-mais-de-100-mil-usuarios-a-cibercriminosos.htm) | topico: geral | score: 100
+- [Quem são os novos personagens de One Piece? Confira elenco da temporada 2](https://www.tecmundo.com.br/minha-serie/603374-quem-sao-os-novos-personagens-de-one-piece-confira-elenco-da-temporada-2.htm) | topico: geral | score: 92

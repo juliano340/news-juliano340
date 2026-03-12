@@ -1,178 +1,106 @@
 {
-  "generated_at": "2026-03-12T21:13:59.064Z",
+  "generated_at": "2026-03-12T23:11:56.214Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 19,
+  "total": 11,
   "posts": [
     {
-      "title": "Galaxy S25 FE atinge oferta histórica na Amazon durante a Semana do Consumidor",
-      "slug": "galaxy-s25-fe-atinge-oferta-historica-na-amazon-durante-a-semana-do-consumidor",
+      "title": "Motorola Edge 70 já tem mais de R$ 700 OFF em oferta na Semana do Consumidor",
+      "slug": "motorola-edge-70-ja-tem-mais-de-rdollar-700-off-em-oferta-na-semana-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-12T20:47:55.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-fe-atinge-oferta-historica-na-amazon-durante-a-semana-do-consumidor/"
+      "date": "2026-03-12T22:15:48.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-70-ja-tem-mais-de-r-700-off-em-oferta-na-semana-do-consumidor/"
     },
     {
-      "title": "Nintendo Switch Lite tem 34% OFF em até 10x com cupom na Semana do Consumidor",
-      "slug": "nintendo-switch-lite-tem-34percent-off-em-ate-10x-com-cupom-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T20:05:33.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/nintendo-switch-lite-tem-34-off-em-ate-10x-com-cupom-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Meta revela quatro chips MTIA para impulsionar IA",
-      "slug": "meta-revela-quatro-chips-mtia-para-impulsionar-ia",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T19:39:02.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/meta-anuncia-quatro-chips-mtia-para-impulsionar-ia/"
-    },
-    {
-      "title": "Exclusivo: Sky assina contrato de operadora virtual com a Surf Telecom",
-      "slug": "exclusivo-sky-assina-contrato-de-operadora-virtual-com-a-surf-telecom",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T19:18:35.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/exclusivo-sky-assina-contrato-de-operadora-virtual-com-a-surf-telecom/"
-    },
-    {
-      "title": "iPhone 17 (256 GB) tem queda histórica de preço durante a Semana do Consumidor",
-      "slug": "iphone-17-256-gb-tem-queda-historica-de-preco-durante-a-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T18:38:08.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-256-gb-tem-queda-historica-de-preco-durante-a-semana-do-consumidor/"
-    },
-    {
-      "title": "Garmin Forerunner 55 tem 44% OFF em até 10x na Semana do Consumidor na Amazon",
-      "slug": "garmin-forerunner-55-tem-44percent-off-em-ate-10x-na-semana-do-consumidor-na-amazon",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T17:52:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-55-tem-44-off-em-ate-10x-na-semana-do-consumidor-na-amazon/"
-    },
-    {
-      "title": "Jogo exclusivo do Nintendo Switch 2 chega ao Xbox e ao PC",
-      "slug": "jogo-exclusivo-do-nintendo-switch-2-chega-ao-xbox-e-ao-pc",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T20:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/jogo-exclusivo-do-nintendo-switch-2-chega-ao-xbox-e-ao-pc/"
-    },
-    {
-      "title": "Disney+ ou TikTok? Streaming ganha feed com vídeos curtos do catálogo",
-      "slug": "disney-ou-tiktok-streaming-ganha-feed-com-videos-curtos-do-catalogo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T20:51:48.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/disney-ou-tiktok-streaming-ganha-feed-com-videos-curtos-do-catalogo/"
-    },
-    {
-      "title": "Google vai melhorar Android para ser mais rápido e gastar muito menos bateria",
-      "slug": "google-vai-melhorar-android-para-ser-mais-rapido-e-gastar-muito-menos-bateria",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-12T20:42:18.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/google-vai-melhorar-android-para-ser-mais-rapido-e-gastar-muito-menos-bateria/"
-    },
-    {
-      "title": "Xbox confirma que outro projeto da era Phil Spencer está morto",
-      "slug": "xbox-confirma-que-outro-projeto-da-era-phil-spencer-esta-morto",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T20:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/xbox-confirma-que-outro-projeto-da-era-phil-spencer-esta-morto/"
-    },
-    {
-      "title": "Nissan derruba preços do Versa e sedan rivaliza com Chevrolet Onix Plus",
-      "slug": "nissan-derruba-precos-do-versa-e-sedan-rivaliza-com-chevrolet-onix-plus",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/nissan-derruba-precos-do-versa-e-sedan-rivaliza-com-chevrolet-onix-plus/"
-    },
-    {
-      "title": "Como ficarão os jogos indie no Xbox Helix? Diretor do ID@Xbox explica",
-      "slug": "como-ficarao-os-jogos-indie-no-xbox-helix-diretor-do-idxbox-explica",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T19:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/como-ficarao-os-jogos-indie-no-xbox-helix-diretor-do-idxbox-explica/"
-    },
-    {
-      "title": "Alexa+ ganha opções de personalidade que incluem até modo 'adulto'",
-      "slug": "alexa-ganha-opcoes-de-personalidade-que-incluem-ate-modo-adulto",
+      "title": "Microsoft anuncia Copilot Health para ajudar usuários com questões médicas",
+      "slug": "microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas",
       "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-12T21:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T19:40:45.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411561-alexa-ganha-opcoes-de-personalidade-que-incluem-ate-modo-adulto.htm"
+      "original_url": "https://tecnoblog.net/noticias/microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas/"
     },
     {
-      "title": "Novos tipos de RAM e armazenamento vão deixar celulares ainda mais caros",
-      "slug": "novos-tipos-de-ram-e-armazenamento-vao-deixar-celulares-ainda-mais-caros",
+      "title": "Remake saiu, estúdio caiu: Ballistic Moon, de Until Dawn, fecha as portas de vez",
+      "slug": "remake-saiu-estudio-caiu-ballistic-moon-de-until-dawn-fecha-as-portas-de-vez",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T20:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-12T21:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411563-novos-tipos-de-ram-e-armazenamento-vao-deixar-celulares-ainda-mais-caros.htm"
+      "original_url": "https://canaltech.com.br/games/remake-saiu-estudio-caiu-ballistic-moon-de-until-dawn-fecha-as-portas-de-vez/"
     },
     {
-      "title": "Grupo iraniano assume ataque cibernético contra empresas americanas",
-      "slug": "grupo-iraniano-assume-ataque-cibernetico-contra-empresas-americanas",
+      "title": "Operação desmantela grupo que vendia armas feitas em impressoras 3D",
+      "slug": "operacao-desmantela-grupo-que-vendia-armas-feitas-em-impressoras-3d",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T20:20:00.000Z",
+      "date": "2026-03-12T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411550-grupo-iraniano-assume-ataque-cibernetico-contra-empresas-americanas.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411567-operacao-desmantela-grupo-que-vendia-armas-feitas-em-impressoras-3d.htm"
     },
     {
-      "title": "Pokémon Pokopia, que custa mais de R$ 400 no Brasil, já vendeu mais de 2 milhões de cópias",
-      "slug": "pokemon-pokopia-que-custa-mais-de-rdollar-400-no-brasil-ja-vendeu-mais-de-2-milhoes-de-copias",
+      "title": "Death Stranding 2 e mais games de PS5 e PS4 com até 90% OFF",
+      "slug": "death-stranding-2-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T20:15:22.000Z",
+      "date": "2026-03-12T22:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503759-pokemon-pokopia-que-custa-mais-de-r-400-no-brasil-ja-vendeu-mais-de-2-milhoes-de-copias.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503763-death-stranding-2-e-mais-games-de-ps5-e-ps4-com-ate-90-off.htm"
     },
     {
-      "title": "OPPO Find X9 Pro chega com câmera de 200 MP e até 2 dias de bateria",
-      "slug": "oppo-find-x9-pro-chega-com-camera-de-200-mp-e-ate-2-dias-de-bateria",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-12T20:04:42.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411565-oppo-find-x9-pro-chega-com-camera-de-200-mp-e-ate-2-dias-de-bateria.htm"
-    },
-    {
-      "title": "Apple corrige brechas de segurança dos antigos iOS 15 e iOS 16; entenda",
-      "slug": "apple-corrige-brechas-de-seguranca-dos-antigos-ios-15-e-ios-16-entenda",
+      "title": "Justiça ordena Stone a reintegrar funcionários demitidos em layoff",
+      "slug": "justica-ordena-stone-a-reintegrar-funcionarios-demitidos-em-layoff",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T20:00:00.000Z",
+      "date": "2026-03-12T22:10:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411557-apple-corrige-brechas-de-seguranca-dos-antigos-ios-15-e-ios-16-entenda.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411575-justica-ordena-stone-a-reintegrar-funcionarios-demitidos-em-layoff.htm"
     },
     {
-      "title": "Iron lung e outros 7 lançamentos do cinema nesta semana",
-      "slug": "iron-lung-e-outros-7-lancamentos-do-cinema-nesta-semana",
+      "title": "Guerra dos chips: por que a venda de GPUs para IA virou política",
+      "slug": "guerra-dos-chips-por-que-a-venda-de-gpus-para-ia-virou-politica",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T19:15:49.000Z",
+      "date": "2026-03-12T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411481-guerra-dos-chips-por-que-a-venda-de-gpus-para-ia-virou-politica.htm"
+    },
+    {
+      "title": "O desafio de desaprender na era da IA",
+      "slug": "o-desafio-de-desaprender-na-era-da-ia",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T21:50:41.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411576-o-desafio-de-desaprender-na-era-da-ia.htm"
+    },
+    {
+      "title": "Falha em plugin do WordPress expõe 400 mil sites a ataques cibernéticos",
+      "slug": "falha-em-plugin-do-wordpress-expoe-400-mil-sites-a-ataques-ciberneticos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T21:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411559-falha-em-plugin-do-wordpress-expoe-400-mil-sites-a-ataques-ciberneticos.htm"
+    },
+    {
+      "title": "N8N: falhas críticas expõem mais de 100 mil usuários a cibercriminosos",
+      "slug": "n8n-falhas-criticas-expoem-mais-de-100-mil-usuarios-a-cibercriminosos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T21:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411566-n8n-falhas-criticas-expoem-mais-de-100-mil-usuarios-a-cibercriminosos.htm"
+    },
+    {
+      "title": "Quem são os novos personagens de One Piece? Confira elenco da temporada 2",
+      "slug": "quem-sao-os-novos-personagens-de-one-piece-confira-elenco-da-temporada-2",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T21:15:36.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603366-iron-lung-e-outros-7-lancamentos-do-cinema-nesta-semana.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603374-quem-sao-os-novos-personagens-de-one-piece-confira-elenco-da-temporada-2.htm"
     }
   ]
 }

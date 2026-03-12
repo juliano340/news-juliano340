@@ -1,6 +1,6 @@
 {
-  "slug": "microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas",
-  "generated_at": "2026-03-12T23:01:54.635Z",
+  "slug": "quem-sao-os-novos-personagens-de-one-piece-confira-elenco-da-temporada-2",
+  "generated_at": "2026-03-12T23:11:54.155Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 275,
+      "words": 391,
       "min": 220
     },
     {

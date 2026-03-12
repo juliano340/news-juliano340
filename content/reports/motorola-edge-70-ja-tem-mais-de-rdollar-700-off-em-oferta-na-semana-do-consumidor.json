@@ -1,6 +1,6 @@
 {
-  "slug": "microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas",
-  "generated_at": "2026-03-12T23:01:54.635Z",
+  "slug": "motorola-edge-70-ja-tem-mais-de-rdollar-700-off-em-oferta-na-semana-do-consumidor",
+  "generated_at": "2026-03-12T23:00:51.480Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 275,
+      "words": 424,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -87,15 +87,16 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 1,
       "min": 3
     }
   ],
   "warnings": [
+    "fonte_primaria_ausente_no_corpo",
     "poucos_links_internos"
   ],
   "errors": [],
-  "score": 92,
+  "score": 85,
   "metadata": {
     "status": "PASS",
     "checks": [
