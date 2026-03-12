@@ -1,169 +1,250 @@
 {
-  "generated_at": "2026-03-12T17:20:17.533Z",
+  "generated_at": "2026-03-12T19:24:55.164Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 27,
   "posts": [
     {
-      "title": "Google Maps vai ganhar assistente com IA para responder perguntas sobre lugares e rotas",
-      "slug": "google-maps-vai-ganhar-assistente-com-ia-para-responder-perguntas-sobre-lugares-e-rotas",
-      "topic": "llms",
+      "title": "Por que as pessoas estão abandonando os fones de ouvido sem fio?",
+      "slug": "por-que-as-pessoas-estao-abandonando-os-fones-de-ouvido-sem-fio",
+      "topic": "geral",
       "source": "G1 Tecnologia",
-      "date": "2026-03-12T15:31:39.000Z",
+      "date": "2026-03-12T18:42:09.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/12/google-maps-vai-ganhar-assistente-com-ia-para-responder-perguntas-sobre-lugares.ghtml"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/12/por-que-as-pessoas-estao-abandonando-os-fones-de-ouvido-sem-fio.ghtml"
     },
     {
-      "title": "O que é FTP? Entenda o Protocolo de Transferência de Arquivos",
-      "slug": "o-que-e-ftp-entenda-o-protocolo-de-transferencia-de-arquivos",
+      "title": "OpenAI deve levar o Sora ao ChatGPT",
+      "slug": "openai-deve-levar-o-sora-ao-chatgpt",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T18:49:56.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/openai-deve-levar-o-sora-ao-chatgpt/"
+    },
+    {
+      "title": "Oppo Find X9 Pro traz câmeras poderosas e conexão fluida com Mac e PC",
+      "slug": "oppo-find-x9-pro-traz-cameras-poderosas-e-conexao-fluida-com-mac-e-pc",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T18:30:28.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/publieditoriais/oppo-find-x9-pro-traz-cameras-poderosas-e-conexao-fluida-com-mac-e-pc/"
+    },
+    {
+      "title": "Semana do Consumidor: TV 4K Samsung QLED Ultra 50″ com menor preço desde dezembro",
+      "slug": "semana-do-consumidor-tv-4k-samsung-qled-ultra-50-com-menor-preco-desde-dezembro",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T18:27:14.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/semana-do-consumidor-tv-4k-samsung-qled-ultra-50-com-menor-preco-desde-dezembro/"
+    },
+    {
+      "title": "WordPress lança criador de sites privados que roda direto no navegador",
+      "slug": "wordpress-lanca-criador-de-sites-privados-que-roda-direto-no-navegador",
+      "topic": "infra-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T17:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/wordpress-lanca-criador-de-sites-privados-que-roda-direto-no-navegador/"
+    },
+    {
+      "title": "Galaxy A56 fica 41% mais barato em oferta no AliExpress na Semana do Consumidor",
+      "slug": "galaxy-a56-fica-41percent-mais-barato-em-oferta-no-aliexpress-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T15:28:47.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/galaxy-a56-fica-41-mais-barato-em-oferta-no-aliexpress-na-semana-do-consumidor/"
+    },
+    {
+      "title": "Starlink quer lançar 1 milhão de satélites, mas Amazon quer barrar Musk",
+      "slug": "starlink-quer-lancar-1-milhao-de-satelites-mas-amazon-quer-barrar-musk",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-03-12T19:02:54.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/telecom/starlink-quer-lancar-1-milhao-de-satelites-mas-amazon-quer-barrar-musk/"
+    },
+    {
+      "title": "Tinder vai combinar perfis de acordo com gosto musical e signos compatíveis",
+      "slug": "tinder-vai-combinar-perfis-de-acordo-com-gosto-musical-e-signos-compativeis",
       "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T15:51:57.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-12T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-ftp/"
+      "original_url": "https://canaltech.com.br/apps/tinder-vai-combinar-perfis-de-acordo-com-gosto-musical-e-signos-compativeis/"
     },
     {
-      "title": "Em primeira mão: Spotify deixará de vender gift cards no Brasil",
-      "slug": "em-primeira-mao-spotify-deixara-de-vender-gift-cards-no-brasil",
+      "title": "Amazon derruba preço de relógio Forerunner da Garmin com GPS; desconto agressivo",
+      "slug": "amazon-derruba-preco-de-relogio-forerunner-da-garmin-com-gps-desconto-agressivo",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T15:38:23.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-12T18:42:17.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/spotify-deixara-de-vender-gift-cards-no-brasil/"
+      "original_url": "https://canaltech.com.br/smartwatch/amazon-derruba-preco-de-relogio-forerunner-da-garmin-com-gps-desconto-agressivo/"
     },
     {
-      "title": "Armazenamento UFS: o que é e quais são as versões do padrão de memória flash",
-      "slug": "armazenamento-ufs-o-que-e-e-quais-sao-as-versoes-do-padrao-de-memoria-flash",
-      "topic": "infra-ia",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T15:25:42.000Z",
+      "title": "Dá para assistir TV usando fone de ouvido sem fio? Como fazer isso na Samsung",
+      "slug": "da-para-assistir-tv-usando-fone-de-ouvido-sem-fio-como-fazer-isso-na-samsung",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-12T18:25:24.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/armazenamento-ufs-o-que-e-e-quais-sao-as-versoes-do-padrao-de-memoria-flash/"
+      "original_url": "https://canaltech.com.br/eletro/da-para-assistir-tv-usando-fone-de-ouvido-sem-fio-como-fazer-isso-na-samsung/"
     },
     {
-      "title": "Google Maps vai responder suas perguntas com o Gemini",
-      "slug": "google-maps-vai-responder-suas-perguntas-com-o-gemini",
+      "title": "O Senhor dos Anéis: Kate Winslet ganha papel misterioso em A Caçada de Gollum",
+      "slug": "o-senhor-dos-aneis-kate-winslet-ganha-papel-misterioso-em-a-cacada-de-gollum",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T18:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/o-senhor-dos-aneis-kate-winslet-ganha-papel-misterioso-em-a-cacada-de-gollum/"
+    },
+    {
+      "title": "OPPO Find X9 Pro chega ao Brasil com câmera de 200 MP e bateria gigante",
+      "slug": "oppo-find-x9-pro-chega-ao-brasil-com-camera-de-200-mp-e-bateria-gigante",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/oppo-find-x9-pro-chega-ao-brasil-com-camera-de-200-mp-e-bateria-gigante/"
+    },
+    {
+      "title": "Microsoft apaga campanha de marketing desastrosa que irritou fãs e funcionários",
+      "slug": "microsoft-apaga-campanha-de-marketing-desastrosa-que-irritou-fas-e-funcionarios",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T17:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/microsoft-apaga-campanha-de-marketing-desastrosa-que-irritou-fas-e-funcionarios/"
+    },
+    {
+      "title": "Galaxy S27 Ultra pode ter bateria gigante para durar vários dias",
+      "slug": "galaxy-s27-ultra-pode-ter-bateria-gigante-para-durar-varios-dias",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T17:39:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-ter-bateria-gigante-para-durar-varios-dias/"
+    },
+    {
+      "title": "Google Maps ganha 'Navegação Imersiva' e novo atalho para consultar o Gemini",
+      "slug": "google-maps-ganha-navegacao-imersiva-e-novo-atalho-para-consultar-o-gemini",
       "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T15:22:44.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-12T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-maps-vai-responder-suas-perguntas-com-o-gemini/"
+      "original_url": "https://www.tecmundo.com.br/software/411549-google-maps-ganha-navegacao-imersiva-e-novo-atalho-para-consultar-o-gemini.htm"
     },
     {
-      "title": "Motorola explica política de updates: “Atualizações nem sempre são boas”",
-      "slug": "motorola-explica-politica-de-updates-atualizacoes-nem-sempre-sao-boas",
+      "title": "Highguard está oficialmente morto! Relembre a trajetória do jogo",
+      "slug": "highguard-esta-oficialmente-morto-relembre-a-trajetoria-do-jogo",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T15:02:38.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-12T18:50:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503761-highguard-esta-oficialmente-morto-relembre-a-trajetoria-do-jogo.htm"
+    },
+    {
+      "title": "Tablets entram em promoção no Mês do Consumidor do Mercado Livre; aproveite",
+      "slug": "tablets-entram-em-promocao-no-mes-do-consumidor-do-mercado-livre-aproveite",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T18:36:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/motorola-explica-politica-de-updates-atualizacoes-nem-sempre-sao-boas/"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411558-tablets-entram-em-promocao-no-mes-do-consumidor-do-mercado-livre-aproveite.htm"
     },
     {
-      "title": "Como saber se jogo vai rodar no Steam Machine? Valve revela exigências",
-      "slug": "como-saber-se-jogo-vai-rodar-no-steam-machine-valve-revela-exigencias",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T16:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/como-saber-se-jogo-vai-rodar-no-steam-machine-valve-revela-exigencias/"
-    },
-    {
-      "title": "Por que o iPhone PRODUCT(RED) sumiu? Entenda o que houve com o iPhone vermelho",
-      "slug": "por-que-o-iphone-productred-sumiu-entenda-o-que-houve-com-o-iphone-vermelho",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T16:27:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/por-que-o-iphone-productred-sumiu-entenda-o-que-houve-com-o-iphone-vermelho/"
-    },
-    {
-      "title": "Gemini agora encontra fotos na Galeria da Samsung com a One UI 8.5; veja como",
-      "slug": "gemini-agora-encontra-fotos-na-galeria-da-samsung-com-a-one-ui-85-veja-como",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-12T16:20:54.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/gemini-agora-encontra-fotos-na-galeria-da-samsung-com-a-one-ui-85-veja-como/"
-    },
-    {
-      "title": "Nova bateria Blade da BYD promete recarga quase completa em 12 minutos",
-      "slug": "nova-bateria-blade-da-byd-promete-recarga-quase-completa-em-12-minutos",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-03-12T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/nova-bateria-blade-da-byd-promete-recarga-quase-completa-em-12-minutos/"
-    },
-    {
-      "title": "Google Maps com IA: app vai planejar rotas em conversas com o Gemini",
-      "slug": "google-maps-com-ia-app-vai-planejar-rotas-em-conversas-com-o-gemini",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-12T13:46:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/google-maps-com-ia-app-vai-planejar-rotas-em-conversas-com-o-gemini/"
-    },
-    {
-      "title": "Stone demite centenas de funcionários na área de tecnologia",
-      "slug": "stone-demite-centenas-de-funcionarios-na-area-de-tecnologia",
+      "title": "Oppo Find X9 Pro: celular premium com câmera 'parruda' chega por R$ 12 mil no Brasil",
+      "slug": "oppo-find-x9-pro-celular-premium-com-camera-parruda-chega-por-rdollar-12-mil-no-brasil",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T17:00:00.000Z",
+      "date": "2026-03-12T18:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411538-oppo-find-x9-pro-celular-premium-com-camera-parruda-chega-por-r-12-mil-no-brasil.htm"
+    },
+    {
+      "title": "Senado aprova uso da IA para monitorar agressores de mulheres",
+      "slug": "senado-aprova-uso-da-ia-para-monitorar-agressores-de-mulheres",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T18:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411560-senado-aprova-uso-da-ia-para-monitorar-agressores-de-mulheres.htm"
+    },
+    {
+      "title": "Reinado da Samsung no Brasil pode acabar? Comparamos o Galaxy S26 Ultra e Oppo Find X9 Pro",
+      "slug": "reinado-da-samsung-no-brasil-pode-acabar-comparamos-o-galaxy-s26-ultra-e-oppo-find-x9-pro",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/celular/411459-reinado-da-samsung-no-brasil-pode-acabar-comparamos-o-galaxy-s26-ultra-e-oppo-find-x9-pro.htm"
+    },
+    {
+      "title": "Eletroportáteis e eletrodomésticos em oferta na Semana do Consumidor do Magazine Luiza",
+      "slug": "eletroportateis-e-eletrodomesticos-em-oferta-na-semana-do-consumidor-do-magazine-luiza",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-12T17:46:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411556-stone-demite-centenas-de-funcionarios-na-area-de-tecnologia.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411553-eletroportateis-e-eletrodomesticos-em-oferta-na-semana-do-consumidor-do-magazine-luiza.htm"
     },
     {
-      "title": "CEO da OpenAI reconhece que imagem da IA está ‘queimada’ atualmente",
-      "slug": "ceo-da-openai-reconhece-que-imagem-da-ia-esta-queimada-atualmente",
-      "topic": "geral",
+      "title": "Jovi Y70 chega com câmera de 200 MP e bateria forte no Brasil",
+      "slug": "jovi-y70-chega-com-camera-de-200-mp-e-bateria-forte-no-brasil",
+      "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-12T16:30:00.000Z",
+      "date": "2026-03-12T17:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411551-ceo-da-openai-reconhece-que-imagem-da-ia-esta-queimada-atualmente.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411554-jovi-y70-chega-com-camera-de-200-mp-e-bateria-forte-no-brasil.htm"
     },
     {
-      "title": "Epic Games Store libera dois jogos grátis por tempo limitado nesta quinta (12)! Resgate agora",
-      "slug": "epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-12-resgate-agora",
+      "title": "Qual é o nome verdadeiro do soldado 81 de Máquina de Guerra? Entenda o mistério",
+      "slug": "qual-e-o-nome-verdadeiro-do-soldado-81-de-maquina-de-guerra-entenda-o-misterio",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T16:15:48.000Z",
+      "date": "2026-03-12T17:15:52.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503758-epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-12-resgate-agora.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603369-qual-e-o-nome-verdadeiro-do-soldado-81-de-maquina-de-guerra-entenda-o-misterio.htm"
     },
     {
-      "title": "Cofre Digital: operação mira grupo que desviou R$ 710 mi em ciberataques",
-      "slug": "cofre-digital-operacao-mira-grupo-que-desviou-rdollar-710-mi-em-ciberataques",
+      "title": "Amazon se retira de organização de drones e levanta questões de segurança",
+      "slug": "amazon-se-retira-de-organizacao-de-drones-e-levanta-questoes-de-seguranca",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411548-cofre-digital-operacao-mira-grupo-que-desviou-r-710-mi-em-ciberataques.htm"
-    },
-    {
-      "title": "Eletrônicos em promoção na Shopee: Galaxy Fit 3, microfone Ulanzi, console portátil R36S e mais",
-      "slug": "eletronicos-em-promocao-na-shopee-galaxy-fit-3-microfone-ulanzi-console-portatil-r36s-e-mais",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T15:46:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411555-eletronicos-em-promocao-na-shopee-galaxy-fit-3-microfone-ulanzi-console-portatil-r36s-e-mais.htm"
-    },
-    {
-      "title": "Notebook da Asus com a GoPro é lançado no Brasil com preço 'radical'",
-      "slug": "notebook-da-asus-com-a-gopro-e-lancado-no-brasil-com-preco-radical",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T15:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411552-notebook-da-asus-com-a-gopro-e-lancado-no-brasil-com-preco-radical.htm"
-    },
-    {
-      "title": "Saiba onde assistir os filmes que concorrem a Melhor Filme Internacional no Oscar 2026",
-      "slug": "saiba-onde-assistir-os-filmes-que-concorrem-a-melhor-filme-internacional-no-oscar-2026",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T15:15:28.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-12T19:08:53.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603348-saiba-onde-assistir-os-filmes-que-concorrem-a-melhor-filme-internacional-no-oscar-2026.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/amazon-se-retira-de-organizacao-de-drones-e-levanta-questoes-de-seguranca.htm"
+    },
+    {
+      "title": "Canadense Telus investiga ataque hacker a seus sistemas",
+      "slug": "canadense-telus-investiga-ataque-hacker-a-seus-sistemas",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-12T18:56:56.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/canadense-telus-investiga-ataque-hacker-a-seus-sistemas.htm"
+    },
+    {
+      "title": "Lucid revela conceito de robotáxi sem volante, mirando no Cybercab da Tesla",
+      "slug": "lucid-revela-conceito-de-robotaxi-sem-volante-mirando-no-cybercab-da-tesla",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-12T18:48:37.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/lucid-revela-conceito-de-robotaxi-sem-volante-mirando-no-cybercab-da-tesla.htm"
+    },
+    {
+      "title": "Advogados lotam feira de tecnologia nos EUA e se perguntam: A IA desvalorizará o tempo?",
+      "slug": "advogados-lotam-feira-de-tecnologia-nos-eua-e-se-perguntam-a-ia-desvalorizara-o-tempo",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-12T18:33:15.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/advogados-lotam-feira-de-tecnologia-nos-eua-e-se-perguntam-a-ia-desvalorizara-o-tempo.htm"
     }
   ]
 }

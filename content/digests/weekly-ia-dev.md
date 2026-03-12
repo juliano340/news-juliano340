@@ -1,22 +1,29 @@
 # Weekly IA para Devs - 2026-03-12
 
-Gerado em 2026-03-12T17:20:17.533Z
+Gerado em 2026-03-12T19:24:55.164Z
 
-- [Google Maps vai ganhar assistente com IA para responder perguntas sobre lugares e rotas](https://g1.globo.com/tecnologia/noticia/2026/03/12/google-maps-vai-ganhar-assistente-com-ia-para-responder-perguntas-sobre-lugares.ghtml) | topico: llms | score: 100
-- [O que é FTP? Entenda o Protocolo de Transferência de Arquivos](https://tecnoblog.net/responde/o-que-e-ftp/) | topico: agentes | score: 100
-- [Em primeira mão: Spotify deixará de vender gift cards no Brasil](https://tecnoblog.net/noticias/spotify-deixara-de-vender-gift-cards-no-brasil/) | topico: geral | score: 100
-- [Armazenamento UFS: o que é e quais são as versões do padrão de memória flash](https://tecnoblog.net/responde/armazenamento-ufs-o-que-e-e-quais-sao-as-versoes-do-padrao-de-memoria-flash/) | topico: infra-ia | score: 100
-- [Google Maps vai responder suas perguntas com o Gemini](https://tecnoblog.net/noticias/google-maps-vai-responder-suas-perguntas-com-o-gemini/) | topico: llms | score: 100
-- [Motorola explica política de updates: “Atualizações nem sempre são boas”](https://tecnoblog.net/noticias/motorola-explica-politica-de-updates-atualizacoes-nem-sempre-sao-boas/) | topico: geral | score: 92
-- [Como saber se jogo vai rodar no Steam Machine? Valve revela exigências](https://canaltech.com.br/games/como-saber-se-jogo-vai-rodar-no-steam-machine-valve-revela-exigencias/) | topico: geral | score: 100
-- [Por que o iPhone PRODUCT(RED) sumiu? Entenda o que houve com o iPhone vermelho](https://canaltech.com.br/smartphone/por-que-o-iphone-productred-sumiu-entenda-o-que-houve-com-o-iphone-vermelho/) | topico: geral | score: 100
-- [Gemini agora encontra fotos na Galeria da Samsung com a One UI 8.5; veja como](https://canaltech.com.br/apps/gemini-agora-encontra-fotos-na-galeria-da-samsung-com-a-one-ui-85-veja-como/) | topico: llms | score: 100
-- [Nova bateria Blade da BYD promete recarga quase completa em 12 minutos](https://canaltech.com.br/carros/nova-bateria-blade-da-byd-promete-recarga-quase-completa-em-12-minutos/) | topico: infra-ia | score: 100
-- [Google Maps com IA: app vai planejar rotas em conversas com o Gemini](https://canaltech.com.br/apps/google-maps-com-ia-app-vai-planejar-rotas-em-conversas-com-o-gemini/) | topico: llms | score: 100
-- [Stone demite centenas de funcionários na área de tecnologia](https://www.tecmundo.com.br/mercado/411556-stone-demite-centenas-de-funcionarios-na-area-de-tecnologia.htm) | topico: geral | score: 92
-- [CEO da OpenAI reconhece que imagem da IA está ‘queimada’ atualmente](https://www.tecmundo.com.br/mercado/411551-ceo-da-openai-reconhece-que-imagem-da-ia-esta-queimada-atualmente.htm) | topico: geral | score: 100
-- [Epic Games Store libera dois jogos grátis por tempo limitado nesta quinta (12)! Resgate agora](https://www.tecmundo.com.br/voxel/503758-epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-12-resgate-agora.htm) | topico: geral | score: 100
-- [Cofre Digital: operação mira grupo que desviou R$ 710 mi em ciberataques](https://www.tecmundo.com.br/seguranca/411548-cofre-digital-operacao-mira-grupo-que-desviou-r-710-mi-em-ciberataques.htm) | topico: geral | score: 100
-- [Eletrônicos em promoção na Shopee: Galaxy Fit 3, microfone Ulanzi, console portátil R36S e mais](https://www.tecmundo.com.br/guia-de-compras/411555-eletronicos-em-promocao-na-shopee-galaxy-fit-3-microfone-ulanzi-console-portatil-r36s-e-mais.htm) | topico: geral | score: 100
-- [Notebook da Asus com a GoPro é lançado no Brasil com preço 'radical'](https://www.tecmundo.com.br/produto/411552-notebook-da-asus-com-a-gopro-e-lancado-no-brasil-com-preco-radical.htm) | topico: geral | score: 100
-- [Saiba onde assistir os filmes que concorrem a Melhor Filme Internacional no Oscar 2026](https://www.tecmundo.com.br/minha-serie/603348-saiba-onde-assistir-os-filmes-que-concorrem-a-melhor-filme-internacional-no-oscar-2026.htm) | topico: geral | score: 92
+- [Por que as pessoas estão abandonando os fones de ouvido sem fio?](https://g1.globo.com/tecnologia/noticia/2026/03/12/por-que-as-pessoas-estao-abandonando-os-fones-de-ouvido-sem-fio.ghtml) | topico: geral | score: 100
+- [OpenAI deve levar o Sora ao ChatGPT](https://tecnoblog.net/noticias/openai-deve-levar-o-sora-ao-chatgpt/) | topico: llms | score: 100
+- [Oppo Find X9 Pro traz câmeras poderosas e conexão fluida com Mac e PC](https://tecnoblog.net/publieditoriais/oppo-find-x9-pro-traz-cameras-poderosas-e-conexao-fluida-com-mac-e-pc/) | topico: geral | score: 100
+- [Semana do Consumidor: TV 4K Samsung QLED Ultra 50″ com menor preço desde dezembro](https://tecnoblog.net/achados/semana-do-consumidor-tv-4k-samsung-qled-ultra-50-com-menor-preco-desde-dezembro/) | topico: geral | score: 100
+- [WordPress lança criador de sites privados que roda direto no navegador](https://tecnoblog.net/noticias/wordpress-lanca-criador-de-sites-privados-que-roda-direto-no-navegador/) | topico: infra-ia | score: 100
+- [Galaxy A56 fica 41% mais barato em oferta no AliExpress na Semana do Consumidor](https://tecnoblog.net/achados/galaxy-a56-fica-41-mais-barato-em-oferta-no-aliexpress-na-semana-do-consumidor/) | topico: geral | score: 100
+- [Starlink quer lançar 1 milhão de satélites, mas Amazon quer barrar Musk](https://canaltech.com.br/telecom/starlink-quer-lancar-1-milhao-de-satelites-mas-amazon-quer-barrar-musk/) | topico: infra-ia | score: 100
+- [Tinder vai combinar perfis de acordo com gosto musical e signos compatíveis](https://canaltech.com.br/apps/tinder-vai-combinar-perfis-de-acordo-com-gosto-musical-e-signos-compativeis/) | topico: agentes | score: 100
+- [Amazon derruba preço de relógio Forerunner da Garmin com GPS; desconto agressivo](https://canaltech.com.br/smartwatch/amazon-derruba-preco-de-relogio-forerunner-da-garmin-com-gps-desconto-agressivo/) | topico: geral | score: 100
+- [Dá para assistir TV usando fone de ouvido sem fio? Como fazer isso na Samsung](https://canaltech.com.br/eletro/da-para-assistir-tv-usando-fone-de-ouvido-sem-fio-como-fazer-isso-na-samsung/) | topico: seguranca-ia | score: 100
+- [O Senhor dos Anéis: Kate Winslet ganha papel misterioso em A Caçada de Gollum](https://canaltech.com.br/entretenimento/o-senhor-dos-aneis-kate-winslet-ganha-papel-misterioso-em-a-cacada-de-gollum/) | topico: geral | score: 100
+- [OPPO Find X9 Pro chega ao Brasil com câmera de 200 MP e bateria gigante](https://canaltech.com.br/smartphone/oppo-find-x9-pro-chega-ao-brasil-com-camera-de-200-mp-e-bateria-gigante/) | topico: geral | score: 100
+- [Microsoft apaga campanha de marketing desastrosa que irritou fãs e funcionários](https://canaltech.com.br/games/microsoft-apaga-campanha-de-marketing-desastrosa-que-irritou-fas-e-funcionarios/) | topico: geral | score: 100
+- [Galaxy S27 Ultra pode ter bateria gigante para durar vários dias](https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-ter-bateria-gigante-para-durar-varios-dias/) | topico: geral | score: 100
+- [Google Maps ganha 'Navegação Imersiva' e novo atalho para consultar o Gemini](https://www.tecmundo.com.br/software/411549-google-maps-ganha-navegacao-imersiva-e-novo-atalho-para-consultar-o-gemini.htm) | topico: llms | score: 100
+- [Highguard está oficialmente morto! Relembre a trajetória do jogo](https://www.tecmundo.com.br/voxel/503761-highguard-esta-oficialmente-morto-relembre-a-trajetoria-do-jogo.htm) | topico: geral | score: 100
+- [Tablets entram em promoção no Mês do Consumidor do Mercado Livre; aproveite](https://www.tecmundo.com.br/guia-de-compras/411558-tablets-entram-em-promocao-no-mes-do-consumidor-do-mercado-livre-aproveite.htm) | topico: geral | score: 92
+- [Oppo Find X9 Pro: celular premium com câmera 'parruda' chega por R$ 12 mil no Brasil](https://www.tecmundo.com.br/produto/411538-oppo-find-x9-pro-celular-premium-com-camera-parruda-chega-por-r-12-mil-no-brasil.htm) | topico: geral | score: 100
+- [Senado aprova uso da IA para monitorar agressores de mulheres](https://www.tecmundo.com.br/seguranca/411560-senado-aprova-uso-da-ia-para-monitorar-agressores-de-mulheres.htm) | topico: geral | score: 100
+- [Reinado da Samsung no Brasil pode acabar? Comparamos o Galaxy S26 Ultra e Oppo Find X9 Pro](https://www.tecmundo.com.br/celular/411459-reinado-da-samsung-no-brasil-pode-acabar-comparamos-o-galaxy-s26-ultra-e-oppo-find-x9-pro.htm) | topico: geral | score: 100
+- [Eletroportáteis e eletrodomésticos em oferta na Semana do Consumidor do Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411553-eletroportateis-e-eletrodomesticos-em-oferta-na-semana-do-consumidor-do-magazine-luiza.htm) | topico: produtividade-dev | score: 92
+- [Jovi Y70 chega com câmera de 200 MP e bateria forte no Brasil](https://www.tecmundo.com.br/produto/411554-jovi-y70-chega-com-camera-de-200-mp-e-bateria-forte-no-brasil.htm) | topico: agentes | score: 100
+- [Qual é o nome verdadeiro do soldado 81 de Máquina de Guerra? Entenda o mistério](https://www.tecmundo.com.br/minha-serie/603369-qual-e-o-nome-verdadeiro-do-soldado-81-de-maquina-de-guerra-entenda-o-misterio.htm) | topico: geral | score: 100
+- [Amazon se retira de organização de drones e levanta questões de segurança](https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/amazon-se-retira-de-organizacao-de-drones-e-levanta-questoes-de-seguranca.htm) | topico: geral | score: 92
+- [Canadense Telus investiga ataque hacker a seus sistemas](https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/canadense-telus-investiga-ataque-hacker-a-seus-sistemas.htm) | topico: geral | score: 100

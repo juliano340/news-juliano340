@@ -1,6 +1,6 @@
 {
-  "slug": "galaxy-a56-fica-41percent-mais-barato-em-oferta-no-aliexpress-na-semana-do-consumidor",
-  "generated_at": "2026-03-12T19:08:08.867Z",
+  "slug": "tinder-vai-combinar-perfis-de-acordo-com-gosto-musical-e-signos-compativeis",
+  "generated_at": "2026-03-12T19:11:41.817Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 250,
+      "words": 287,
       "min": 220
     },
     {

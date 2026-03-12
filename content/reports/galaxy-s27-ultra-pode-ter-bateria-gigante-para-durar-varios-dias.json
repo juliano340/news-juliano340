@@ -1,6 +1,6 @@
 {
-  "slug": "galaxy-a56-fica-41percent-mais-barato-em-oferta-no-aliexpress-na-semana-do-consumidor",
-  "generated_at": "2026-03-12T19:08:08.867Z",
+  "slug": "galaxy-s27-ultra-pode-ter-bateria-gigante-para-durar-varios-dias",
+  "generated_at": "2026-03-12T19:18:37.556Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 250,
+      "words": 300,
       "min": 220
     },
     {
