@@ -1,6 +1,6 @@
 {
-  "slug": "garmin-forerunner-55-tem-44percent-off-em-ate-10x-na-semana-do-consumidor-na-amazon",
-  "generated_at": "2026-03-12T21:03:48.502Z",
+  "slug": "oppo-find-x9-pro-chega-com-camera-de-200-mp-e-ate-2-dias-de-bateria",
+  "generated_at": "2026-03-12T21:11:09.677Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 264,
+      "words": 428,
       "min": 220
     },
     {

@@ -1,7 +1,7 @@
 {
-  "slug": "garmin-forerunner-55-tem-44percent-off-em-ate-10x-na-semana-do-consumidor-na-amazon",
-  "generated_at": "2026-03-12T21:03:48.502Z",
-  "status": "PASS",
+  "slug": "alexa-ganha-opcoes-de-personalidade-que-incluem-ate-modo-adulto",
+  "generated_at": "2026-03-12T21:09:01.222Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 264,
+      "words": 324,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

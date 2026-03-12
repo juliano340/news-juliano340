@@ -1,6 +1,6 @@
 {
-  "slug": "garmin-forerunner-55-tem-44percent-off-em-ate-10x-na-semana-do-consumidor-na-amazon",
-  "generated_at": "2026-03-12T21:03:48.502Z",
+  "slug": "google-vai-melhorar-android-para-ser-mais-rapido-e-gastar-muito-menos-bateria",
+  "generated_at": "2026-03-12T21:07:08.845Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 264,
+      "words": 245,
       "min": 220
     },
     {

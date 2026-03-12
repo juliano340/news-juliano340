@@ -1,6 +1,6 @@
 {
-  "slug": "garmin-forerunner-55-tem-44percent-off-em-ate-10x-na-semana-do-consumidor-na-amazon",
-  "generated_at": "2026-03-12T21:03:48.502Z",
+  "slug": "apple-corrige-brechas-de-seguranca-dos-antigos-ios-15-e-ios-16-entenda",
+  "generated_at": "2026-03-12T21:12:44.892Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 264,
+      "words": 387,
       "min": 220
     },
     {

@@ -1,250 +1,178 @@
 {
-  "generated_at": "2026-03-12T19:24:55.164Z",
+  "generated_at": "2026-03-12T21:13:59.064Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 27,
+  "total": 19,
   "posts": [
     {
-      "title": "Por que as pessoas estão abandonando os fones de ouvido sem fio?",
-      "slug": "por-que-as-pessoas-estao-abandonando-os-fones-de-ouvido-sem-fio",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-12T18:42:09.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/12/por-que-as-pessoas-estao-abandonando-os-fones-de-ouvido-sem-fio.ghtml"
-    },
-    {
-      "title": "OpenAI deve levar o Sora ao ChatGPT",
-      "slug": "openai-deve-levar-o-sora-ao-chatgpt",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T18:49:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/openai-deve-levar-o-sora-ao-chatgpt/"
-    },
-    {
-      "title": "Oppo Find X9 Pro traz câmeras poderosas e conexão fluida com Mac e PC",
-      "slug": "oppo-find-x9-pro-traz-cameras-poderosas-e-conexao-fluida-com-mac-e-pc",
+      "title": "Galaxy S25 FE atinge oferta histórica na Amazon durante a Semana do Consumidor",
+      "slug": "galaxy-s25-fe-atinge-oferta-historica-na-amazon-durante-a-semana-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-12T18:30:28.000Z",
+      "date": "2026-03-12T20:47:55.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/publieditoriais/oppo-find-x9-pro-traz-cameras-poderosas-e-conexao-fluida-com-mac-e-pc/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-fe-atinge-oferta-historica-na-amazon-durante-a-semana-do-consumidor/"
     },
     {
-      "title": "Semana do Consumidor: TV 4K Samsung QLED Ultra 50″ com menor preço desde dezembro",
-      "slug": "semana-do-consumidor-tv-4k-samsung-qled-ultra-50-com-menor-preco-desde-dezembro",
+      "title": "Nintendo Switch Lite tem 34% OFF em até 10x com cupom na Semana do Consumidor",
+      "slug": "nintendo-switch-lite-tem-34percent-off-em-ate-10x-com-cupom-na-semana-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-12T18:27:14.000Z",
+      "date": "2026-03-12T20:05:33.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/semana-do-consumidor-tv-4k-samsung-qled-ultra-50-com-menor-preco-desde-dezembro/"
+      "original_url": "https://tecnoblog.net/achados/nintendo-switch-lite-tem-34-off-em-ate-10x-com-cupom-na-semana-do-consumidor/"
     },
     {
-      "title": "WordPress lança criador de sites privados que roda direto no navegador",
-      "slug": "wordpress-lanca-criador-de-sites-privados-que-roda-direto-no-navegador",
-      "topic": "infra-ia",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T17:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/wordpress-lanca-criador-de-sites-privados-que-roda-direto-no-navegador/"
-    },
-    {
-      "title": "Galaxy A56 fica 41% mais barato em oferta no AliExpress na Semana do Consumidor",
-      "slug": "galaxy-a56-fica-41percent-mais-barato-em-oferta-no-aliexpress-na-semana-do-consumidor",
+      "title": "Meta revela quatro chips MTIA para impulsionar IA",
+      "slug": "meta-revela-quatro-chips-mtia-para-impulsionar-ia",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-12T15:28:47.000Z",
+      "date": "2026-03-12T19:39:02.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-a56-fica-41-mais-barato-em-oferta-no-aliexpress-na-semana-do-consumidor/"
+      "original_url": "https://tecnoblog.net/noticias/meta-anuncia-quatro-chips-mtia-para-impulsionar-ia/"
     },
     {
-      "title": "Starlink quer lançar 1 milhão de satélites, mas Amazon quer barrar Musk",
-      "slug": "starlink-quer-lancar-1-milhao-de-satelites-mas-amazon-quer-barrar-musk",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-03-12T19:02:54.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/telecom/starlink-quer-lancar-1-milhao-de-satelites-mas-amazon-quer-barrar-musk/"
-    },
-    {
-      "title": "Tinder vai combinar perfis de acordo com gosto musical e signos compatíveis",
-      "slug": "tinder-vai-combinar-perfis-de-acordo-com-gosto-musical-e-signos-compativeis",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-12T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/tinder-vai-combinar-perfis-de-acordo-com-gosto-musical-e-signos-compativeis/"
-    },
-    {
-      "title": "Amazon derruba preço de relógio Forerunner da Garmin com GPS; desconto agressivo",
-      "slug": "amazon-derruba-preco-de-relogio-forerunner-da-garmin-com-gps-desconto-agressivo",
+      "title": "Exclusivo: Sky assina contrato de operadora virtual com a Surf Telecom",
+      "slug": "exclusivo-sky-assina-contrato-de-operadora-virtual-com-a-surf-telecom",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T18:42:17.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T19:18:35.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartwatch/amazon-derruba-preco-de-relogio-forerunner-da-garmin-com-gps-desconto-agressivo/"
+      "original_url": "https://tecnoblog.net/noticias/exclusivo-sky-assina-contrato-de-operadora-virtual-com-a-surf-telecom/"
     },
     {
-      "title": "Dá para assistir TV usando fone de ouvido sem fio? Como fazer isso na Samsung",
-      "slug": "da-para-assistir-tv-usando-fone-de-ouvido-sem-fio-como-fazer-isso-na-samsung",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-12T18:25:24.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/da-para-assistir-tv-usando-fone-de-ouvido-sem-fio-como-fazer-isso-na-samsung/"
-    },
-    {
-      "title": "O Senhor dos Anéis: Kate Winslet ganha papel misterioso em A Caçada de Gollum",
-      "slug": "o-senhor-dos-aneis-kate-winslet-ganha-papel-misterioso-em-a-cacada-de-gollum",
+      "title": "iPhone 17 (256 GB) tem queda histórica de preço durante a Semana do Consumidor",
+      "slug": "iphone-17-256-gb-tem-queda-historica-de-preco-durante-a-semana-do-consumidor",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T18:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/o-senhor-dos-aneis-kate-winslet-ganha-papel-misterioso-em-a-cacada-de-gollum/"
-    },
-    {
-      "title": "OPPO Find X9 Pro chega ao Brasil com câmera de 200 MP e bateria gigante",
-      "slug": "oppo-find-x9-pro-chega-ao-brasil-com-camera-de-200-mp-e-bateria-gigante",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/oppo-find-x9-pro-chega-ao-brasil-com-camera-de-200-mp-e-bateria-gigante/"
-    },
-    {
-      "title": "Microsoft apaga campanha de marketing desastrosa que irritou fãs e funcionários",
-      "slug": "microsoft-apaga-campanha-de-marketing-desastrosa-que-irritou-fas-e-funcionarios",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T17:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/microsoft-apaga-campanha-de-marketing-desastrosa-que-irritou-fas-e-funcionarios/"
-    },
-    {
-      "title": "Galaxy S27 Ultra pode ter bateria gigante para durar vários dias",
-      "slug": "galaxy-s27-ultra-pode-ter-bateria-gigante-para-durar-varios-dias",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T17:39:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-pode-ter-bateria-gigante-para-durar-varios-dias/"
-    },
-    {
-      "title": "Google Maps ganha 'Navegação Imersiva' e novo atalho para consultar o Gemini",
-      "slug": "google-maps-ganha-navegacao-imersiva-e-novo-atalho-para-consultar-o-gemini",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-12T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411549-google-maps-ganha-navegacao-imersiva-e-novo-atalho-para-consultar-o-gemini.htm"
-    },
-    {
-      "title": "Highguard está oficialmente morto! Relembre a trajetória do jogo",
-      "slug": "highguard-esta-oficialmente-morto-relembre-a-trajetoria-do-jogo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T18:50:42.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503761-highguard-esta-oficialmente-morto-relembre-a-trajetoria-do-jogo.htm"
-    },
-    {
-      "title": "Tablets entram em promoção no Mês do Consumidor do Mercado Livre; aproveite",
-      "slug": "tablets-entram-em-promocao-no-mes-do-consumidor-do-mercado-livre-aproveite",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T18:36:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T18:38:08.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411558-tablets-entram-em-promocao-no-mes-do-consumidor-do-mercado-livre-aproveite.htm"
+      "original_url": "https://tecnoblog.net/achados/iphone-17-256-gb-tem-queda-historica-de-preco-durante-a-semana-do-consumidor/"
     },
     {
-      "title": "Oppo Find X9 Pro: celular premium com câmera 'parruda' chega por R$ 12 mil no Brasil",
-      "slug": "oppo-find-x9-pro-celular-premium-com-camera-parruda-chega-por-rdollar-12-mil-no-brasil",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T18:35:00.000Z",
+      "title": "Garmin Forerunner 55 tem 44% OFF em até 10x na Semana do Consumidor na Amazon",
+      "slug": "garmin-forerunner-55-tem-44percent-off-em-ate-10x-na-semana-do-consumidor-na-amazon",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T17:52:40.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411538-oppo-find-x9-pro-celular-premium-com-camera-parruda-chega-por-r-12-mil-no-brasil.htm"
+      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-55-tem-44-off-em-ate-10x-na-semana-do-consumidor-na-amazon/"
     },
     {
-      "title": "Senado aprova uso da IA para monitorar agressores de mulheres",
-      "slug": "senado-aprova-uso-da-ia-para-monitorar-agressores-de-mulheres",
+      "title": "Jogo exclusivo do Nintendo Switch 2 chega ao Xbox e ao PC",
+      "slug": "jogo-exclusivo-do-nintendo-switch-2-chega-ao-xbox-e-ao-pc",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T18:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-12T20:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411560-senado-aprova-uso-da-ia-para-monitorar-agressores-de-mulheres.htm"
+      "original_url": "https://canaltech.com.br/games/jogo-exclusivo-do-nintendo-switch-2-chega-ao-xbox-e-ao-pc/"
     },
     {
-      "title": "Reinado da Samsung no Brasil pode acabar? Comparamos o Galaxy S26 Ultra e Oppo Find X9 Pro",
-      "slug": "reinado-da-samsung-no-brasil-pode-acabar-comparamos-o-galaxy-s26-ultra-e-oppo-find-x9-pro",
+      "title": "Disney+ ou TikTok? Streaming ganha feed com vídeos curtos do catálogo",
+      "slug": "disney-ou-tiktok-streaming-ganha-feed-com-videos-curtos-do-catalogo",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/celular/411459-reinado-da-samsung-no-brasil-pode-acabar-comparamos-o-galaxy-s26-ultra-e-oppo-find-x9-pro.htm"
+      "source": "Canaltech",
+      "date": "2026-03-12T20:51:48.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/disney-ou-tiktok-streaming-ganha-feed-com-videos-curtos-do-catalogo/"
     },
     {
-      "title": "Eletroportáteis e eletrodomésticos em oferta na Semana do Consumidor do Magazine Luiza",
-      "slug": "eletroportateis-e-eletrodomesticos-em-oferta-na-semana-do-consumidor-do-magazine-luiza",
+      "title": "Google vai melhorar Android para ser mais rápido e gastar muito menos bateria",
+      "slug": "google-vai-melhorar-android-para-ser-mais-rapido-e-gastar-muito-menos-bateria",
       "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-12T17:46:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411553-eletroportateis-e-eletrodomesticos-em-oferta-na-semana-do-consumidor-do-magazine-luiza.htm"
+      "source": "Canaltech",
+      "date": "2026-03-12T20:42:18.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/google-vai-melhorar-android-para-ser-mais-rapido-e-gastar-muito-menos-bateria/"
     },
     {
-      "title": "Jovi Y70 chega com câmera de 200 MP e bateria forte no Brasil",
-      "slug": "jovi-y70-chega-com-camera-de-200-mp-e-bateria-forte-no-brasil",
+      "title": "Xbox confirma que outro projeto da era Phil Spencer está morto",
+      "slug": "xbox-confirma-que-outro-projeto-da-era-phil-spencer-esta-morto",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T20:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/xbox-confirma-que-outro-projeto-da-era-phil-spencer-esta-morto/"
+    },
+    {
+      "title": "Nissan derruba preços do Versa e sedan rivaliza com Chevrolet Onix Plus",
+      "slug": "nissan-derruba-precos-do-versa-e-sedan-rivaliza-com-chevrolet-onix-plus",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/nissan-derruba-precos-do-versa-e-sedan-rivaliza-com-chevrolet-onix-plus/"
+    },
+    {
+      "title": "Como ficarão os jogos indie no Xbox Helix? Diretor do ID@Xbox explica",
+      "slug": "como-ficarao-os-jogos-indie-no-xbox-helix-diretor-do-idxbox-explica",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T19:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/como-ficarao-os-jogos-indie-no-xbox-helix-diretor-do-idxbox-explica/"
+    },
+    {
+      "title": "Alexa+ ganha opções de personalidade que incluem até modo 'adulto'",
+      "slug": "alexa-ganha-opcoes-de-personalidade-que-incluem-ate-modo-adulto",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-03-12T21:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/411561-alexa-ganha-opcoes-de-personalidade-que-incluem-ate-modo-adulto.htm"
+    },
+    {
+      "title": "Novos tipos de RAM e armazenamento vão deixar celulares ainda mais caros",
+      "slug": "novos-tipos-de-ram-e-armazenamento-vao-deixar-celulares-ainda-mais-caros",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T20:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411563-novos-tipos-de-ram-e-armazenamento-vao-deixar-celulares-ainda-mais-caros.htm"
+    },
+    {
+      "title": "Grupo iraniano assume ataque cibernético contra empresas americanas",
+      "slug": "grupo-iraniano-assume-ataque-cibernetico-contra-empresas-americanas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T20:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411550-grupo-iraniano-assume-ataque-cibernetico-contra-empresas-americanas.htm"
+    },
+    {
+      "title": "Pokémon Pokopia, que custa mais de R$ 400 no Brasil, já vendeu mais de 2 milhões de cópias",
+      "slug": "pokemon-pokopia-que-custa-mais-de-rdollar-400-no-brasil-ja-vendeu-mais-de-2-milhoes-de-copias",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T20:15:22.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503759-pokemon-pokopia-que-custa-mais-de-r-400-no-brasil-ja-vendeu-mais-de-2-milhoes-de-copias.htm"
+    },
+    {
+      "title": "OPPO Find X9 Pro chega com câmera de 200 MP e até 2 dias de bateria",
+      "slug": "oppo-find-x9-pro-chega-com-camera-de-200-mp-e-ate-2-dias-de-bateria",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-12T17:30:00.000Z",
+      "date": "2026-03-12T20:04:42.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411554-jovi-y70-chega-com-camera-de-200-mp-e-bateria-forte-no-brasil.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411565-oppo-find-x9-pro-chega-com-camera-de-200-mp-e-ate-2-dias-de-bateria.htm"
     },
     {
-      "title": "Qual é o nome verdadeiro do soldado 81 de Máquina de Guerra? Entenda o mistério",
-      "slug": "qual-e-o-nome-verdadeiro-do-soldado-81-de-maquina-de-guerra-entenda-o-misterio",
+      "title": "Apple corrige brechas de segurança dos antigos iOS 15 e iOS 16; entenda",
+      "slug": "apple-corrige-brechas-de-seguranca-dos-antigos-ios-15-e-ios-16-entenda",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T17:15:52.000Z",
+      "date": "2026-03-12T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603369-qual-e-o-nome-verdadeiro-do-soldado-81-de-maquina-de-guerra-entenda-o-misterio.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411557-apple-corrige-brechas-de-seguranca-dos-antigos-ios-15-e-ios-16-entenda.htm"
     },
     {
-      "title": "Amazon se retira de organização de drones e levanta questões de segurança",
-      "slug": "amazon-se-retira-de-organizacao-de-drones-e-levanta-questoes-de-seguranca",
+      "title": "Iron lung e outros 7 lançamentos do cinema nesta semana",
+      "slug": "iron-lung-e-outros-7-lancamentos-do-cinema-nesta-semana",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-12T19:08:53.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-12T19:15:49.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/amazon-se-retira-de-organizacao-de-drones-e-levanta-questoes-de-seguranca.htm"
-    },
-    {
-      "title": "Canadense Telus investiga ataque hacker a seus sistemas",
-      "slug": "canadense-telus-investiga-ataque-hacker-a-seus-sistemas",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-12T18:56:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/canadense-telus-investiga-ataque-hacker-a-seus-sistemas.htm"
-    },
-    {
-      "title": "Lucid revela conceito de robotáxi sem volante, mirando no Cybercab da Tesla",
-      "slug": "lucid-revela-conceito-de-robotaxi-sem-volante-mirando-no-cybercab-da-tesla",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-12T18:48:37.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/lucid-revela-conceito-de-robotaxi-sem-volante-mirando-no-cybercab-da-tesla.htm"
-    },
-    {
-      "title": "Advogados lotam feira de tecnologia nos EUA e se perguntam: A IA desvalorizará o tempo?",
-      "slug": "advogados-lotam-feira-de-tecnologia-nos-eua-e-se-perguntam-a-ia-desvalorizara-o-tempo",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-12T18:33:15.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/advogados-lotam-feira-de-tecnologia-nos-eua-e-se-perguntam-a-ia-desvalorizara-o-tempo.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603366-iron-lung-e-outros-7-lancamentos-do-cinema-nesta-semana.htm"
     }
   ]
 }

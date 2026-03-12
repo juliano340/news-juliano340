@@ -1,7 +1,7 @@
 {
-  "slug": "garmin-forerunner-55-tem-44percent-off-em-ate-10x-na-semana-do-consumidor-na-amazon",
-  "generated_at": "2026-03-12T21:03:48.502Z",
-  "status": "PASS",
+  "slug": "disney-ou-tiktok-streaming-ganha-feed-com-videos-curtos-do-catalogo",
+  "generated_at": "2026-03-12T21:06:20.647Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 264,
+      "words": 313,
       "min": 220
     },
     {
@@ -84,16 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 1,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [
