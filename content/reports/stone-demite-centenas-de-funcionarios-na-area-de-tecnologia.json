@@ -1,7 +1,7 @@
 {
-  "slug": "google-maps-com-ia-app-vai-planejar-rotas-em-conversas-com-o-gemini",
-  "generated_at": "2026-03-12T17:15:51.824Z",
-  "status": "PASS",
+  "slug": "stone-demite-centenas-de-funcionarios-na-area-de-tecnologia",
+  "generated_at": "2026-03-12T17:16:30.592Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 311,
+      "words": 395,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

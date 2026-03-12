@@ -1,6 +1,6 @@
 {
-  "slug": "google-maps-com-ia-app-vai-planejar-rotas-em-conversas-com-o-gemini",
-  "generated_at": "2026-03-12T17:15:51.824Z",
+  "slug": "eletronicos-em-promocao-na-shopee-galaxy-fit-3-microfone-ulanzi-console-portatil-r36s-e-mais",
+  "generated_at": "2026-03-12T17:19:20.648Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 311,
+      "words": 363,
       "min": 220
     },
     {

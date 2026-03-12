@@ -1,6 +1,6 @@
 {
-  "slug": "google-maps-com-ia-app-vai-planejar-rotas-em-conversas-com-o-gemini",
-  "generated_at": "2026-03-12T17:15:51.824Z",
+  "slug": "notebook-da-asus-com-a-gopro-e-lancado-no-brasil-com-preco-radical",
+  "generated_at": "2026-03-12T17:19:39.621Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 311,
+      "words": 343,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "google-maps-com-ia-app-vai-planejar-rotas-em-conversas-com-o-gemini",
-  "generated_at": "2026-03-12T17:15:51.824Z",
+  "slug": "epic-games-store-libera-dois-jogos-gratis-por-tempo-limitado-nesta-quinta-12-resgate-agora",
+  "generated_at": "2026-03-12T17:17:48.392Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 311,
+      "words": 278,
       "min": 220
     },
     {
