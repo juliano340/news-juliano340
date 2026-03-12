@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-03-12T13:19:29.099Z",
+  "generated_at": "2026-03-12T15:20:49.503Z",
   "niche": "ia-para-desenvolvedores",
   "total": 18,
   "posts": [
     {
-      "title": "Nvidia pode lançar plataforma de agentes de IA de código aberto",
-      "slug": "nvidia-pode-lancar-plataforma-de-agentes-de-ia-de-codigo-aberto",
-      "topic": "llms",
+      "title": "iPhone dobrável pode ter interface de iPad e reviver Touch ID",
+      "slug": "iphone-dobravel-pode-ter-interface-de-ipad-e-reviver-touch-id",
+      "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-12T11:50:53.000Z",
+      "date": "2026-03-12T14:18:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/nvidia-pode-lancar-plataforma-de-agentes-de-ia-de-codigo-aberto/"
+      "original_url": "https://tecnoblog.net/noticias/iphone-dobravel-pode-ter-interface-de-ipad-e-reviver-touch-id/"
     },
     {
-      "title": "Google Play ganha nova aba para destacar jogos de PC na loja do Android",
-      "slug": "google-play-ganha-nova-aba-para-destacar-jogos-de-pc-na-loja-do-android",
+      "title": "Google Play vai deixar você testar um jogo antes de comprá-lo",
+      "slug": "google-play-vai-deixar-voce-testar-um-jogo-antes-de-compra-lo",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T13:49:23.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/google-play-vai-deixar-voce-testar-um-jogo-antes-de-compra-lo/"
+    },
+    {
+      "title": "MacBook Neo é homologado para venda no Brasil",
+      "slug": "macbook-neo-e-homologado-para-venda-no-brasil",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-12T13:36:06.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/noticias/macbook-neo-e-homologado-pela-anatel-e-ja-pode-ser-vendido-no-brasil/"
+    },
+    {
+      "title": "Como é e quanto custa a moto da Julliette, vencedora do BBB 21?",
+      "slug": "como-e-e-quanto-custa-a-moto-da-julliette-vencedora-do-bbb-21",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-12T12:59:10.000Z",
+      "date": "2026-03-12T14:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/google-play-ganha-nova-aba-para-destacar-jogos-de-pc-na-loja-do-android/"
+      "original_url": "https://canaltech.com.br/carros/como-e-e-quanto-custa-a-moto-da-julliette-vencedora-do-bbb-21/"
     },
     {
-      "title": "O que o brasileiro faz com o celular no banheiro? Com a resposta, Duolingo",
-      "slug": "o-que-o-brasileiro-faz-com-o-celular-no-banheiro-com-a-resposta-duolingo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T12:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/comportamento/o-que-o-brasileiro-faz-com-o-celular-no-banheiro-com-a-resposta-duolingo/"
-    },
-    {
-      "title": "X volta atrás e permite escolher o tema escuro pelo próprio app",
-      "slug": "x-volta-atras-e-permite-escolher-o-tema-escuro-pelo-proprio-app",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-12T12:49:59.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/x-volta-atras-e-permite-escolher-o-tema-escuro-pelo-proprio-app/"
-    },
-    {
-      "title": "Xiaomi deixa Qualcomm e MediaTek de lado e lança novo Poco com chip Unisoc",
-      "slug": "xiaomi-deixa-qualcomm-e-mediatek-de-lado-e-lanca-novo-poco-com-chip-unisoc",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T12:46:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/xiaomi-deixa-qualcomm-e-mediatek-de-lado-e-lanca-novo-poco-com-chip-unisoc/"
-    },
-    {
-      "title": "Como os mega parques solares estão \"hackeando\" o clima e ressuscitando desertos",
-      "slug": "como-os-mega-parques-solares-estao-hackeando-o-clima-e-ressuscitando-desertos",
+      "title": "Nova solução de IA do Google prevê enchentes repentinas; entenda como funciona",
+      "slug": "nova-solucao-de-ia-do-google-preve-enchentes-repentinas-entenda-como-funciona",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-12T12:23:19.000Z",
+      "date": "2026-03-12T14:20:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/colunas/como-os-mega-parques-solares-estao-hackeando-o-clima-e-ressuscitando-desertos/"
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/nova-solucao-de-ia-do-google-preve-enchentes-repentinas-entenda-como-funciona/"
     },
     {
-      "title": "Capcom corta ray tracing de Resident Evil Requiem e fãs ficam furiosos",
-      "slug": "capcom-corta-ray-tracing-de-resident-evil-requiem-e-fas-ficam-furiosos",
+      "title": "Kabum faz queima de Mouse Redragon Cobra; tempo de resposta rápido e preço baixo",
+      "slug": "kabum-faz-queima-de-mouse-redragon-cobra-tempo-de-resposta-rapido-e-preco-baixo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-12T12:15:00.000Z",
+      "date": "2026-03-12T14:06:04.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/capcom-corta-ray-tracing-de-resident-evil-requiem-e-fas-ficam-furiosos/"
+      "original_url": "https://canaltech.com.br/hardware/kabum-faz-queima-de-mouse-redragon-cobra-tempo-de-resposta-rapido-e-preco-baixo/"
     },
     {
-      "title": "Exército cria sistema com IA para controlar \"enxame de drones\"",
-      "slug": "exercito-cria-sistema-com-ia-para-controlar-enxame-de-drones",
-      "topic": "produtividade-dev",
+      "title": "Por que a produtividade recorde não é suficiente para salvar o Judiciário",
+      "slug": "por-que-a-produtividade-recorde-nao-e-suficiente-para-salvar-o-judiciario",
+      "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-12T11:55:00.000Z",
+      "date": "2026-03-12T14:00:17.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/exercito-cria-sistema-com-ia-para-controlar-enxame-de-drones/"
+      "original_url": "https://canaltech.com.br/colunas/por-que-a-produtividade-recorde-nao-e-suficiente-para-salvar-o-judiciario/"
     },
     {
-      "title": "Batida da PF derruba rede de TV Box pirata e apreende 8 veículos de luxo",
-      "slug": "batida-da-pf-derruba-rede-de-tv-box-pirata-e-apreende-8-veiculos-de-luxo",
+      "title": "Como denunciar vídeos violentos e de ódio nas redes sociais",
+      "slug": "como-denunciar-videos-violentos-e-de-odio-nas-redes-sociais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/como-denunciar-videos-violentos-e-de-odio-nas-redes-sociais/"
+    },
+    {
+      "title": "Galaxy Buds Core cai muito de preço no Mercado Livre; fone de ouvido com cupom",
+      "slug": "galaxy-buds-core-cai-muito-de-preco-no-mercado-livre-fone-de-ouvido-com-cupom",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-12T13:18:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/fone-de-ouvido/galaxy-buds-core-cai-muito-de-preco-no-mercado-livre-fone-de-ouvido-com-cupom/"
+    },
+    {
+      "title": "Google Play ganha interface para jogos e testes gratuitos por 60 minutos",
+      "slug": "google-play-ganha-interface-para-jogos-e-testes-gratuitos-por-60-minutos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411545-google-play-ganha-interface-para-jogos-e-testes-gratuitos-por-60-minutos.htm"
+    },
+    {
+      "title": "Apple resgata lema de campanha icônica para aniversário de 50 anos",
+      "slug": "apple-resgata-lema-de-campanha-iconica-para-aniversario-de-50-anos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T14:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411547-apple-resgata-lema-de-campanha-iconica-para-aniversario-de-50-anos.htm"
+    },
+    {
+      "title": "Carrefour entra na Quinzena do Consumidor com ofertas e cupom de 15% OFF",
+      "slug": "carrefour-entra-na-quinzena-do-consumidor-com-ofertas-e-cupom-de-15percent-off",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-12T14:36:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411543-carrefour-entra-na-quinzena-do-consumidor-com-ofertas-e-cupom-de-15-off.htm"
+    },
+    {
+      "title": "Casa Branca publica novo vídeo feito por IA para alimentar mensagens de guerra",
+      "slug": "casa-branca-publica-novo-video-feito-por-ia-para-alimentar-mensagens-de-guerra",
       "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-12T11:42:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/telecom/batida-da-pf-derruba-rede-de-tv-box-pirata-e-apreende-8-veiculos-de-luxo/"
-    },
-    {
-      "title": "Fone da JBL que não tampa o ouvido chega ao Brasil; veja o preço",
-      "slug": "fone-da-jbl-que-nao-tampa-o-ouvido-chega-ao-brasil-veja-o-preco",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T11:16:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/fone-de-ouvido/fone-da-jbl-que-nao-tampa-o-ouvido-chega-ao-brasil-veja-o-preco/"
-    },
-    {
-      "title": "Hackers usam Zombie ZIP para esconder malware em arquivos compactados",
-      "slug": "hackers-usam-zombie-zip-para-esconder-malware-em-arquivos-compactados",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T11:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/hackers-usam-zombie-zip-para-esconder-malware-em-arquivos-compactados/"
-    },
-    {
-      "title": "Motorola Signature com R$1.000 de desconto com o cupom do site oficial",
-      "slug": "motorola-signature-com-rdollar1000-de-desconto-com-o-cupom-do-site-oficial",
-      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-12T13:06:00.000Z",
+      "date": "2026-03-12T14:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411526-motorola-signature-com-r1000-de-desconto-com-o-cupom-do-site-oficial.htm"
+      "original_url": "https://www.tecmundo.com.br/internet/411544-casa-branca-publica-novo-video-feito-por-ia-para-alimentar-mensagens-de-guerra.htm"
     },
     {
-      "title": "FiloBot: robô 3D que 'cresce sozinho' e tem formato inusitado viraliza nas redes",
-      "slug": "filobot-robo-3d-que-cresce-sozinho-e-tem-formato-inusitado-viraliza-nas-redes",
-      "topic": "produtividade-dev",
+      "title": "PlayStation testa preços dinâmicos com aumento para GTA e Procon dispara: 'Prática abusiva'",
+      "slug": "playstation-testa-precos-dinamicos-com-aumento-para-gta-e-procon-dispara-pratica-abusiva",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T12:00:00.000Z",
+      "date": "2026-03-12T14:15:23.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/411529-filobot-robo-3d-que-cresce-sozinho-e-tem-formato-inusitado-viraliza-nas-redes.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503754-playstation-testa-precos-dinamicos-com-aumento-para-gta-e-procon-dispara-pratica-abusiva.htm"
     },
     {
-      "title": "Lei Felca 2.0: em prol da segurança das crianças, EUA sacrificam os adultos?",
-      "slug": "lei-felca-20-em-prol-da-seguranca-das-criancas-eua-sacrificam-os-adultos",
+      "title": "Mês dos JBL Lovers na Amazon: fones, caixas de som e luzes com até 73% OFF",
+      "slug": "mes-dos-jbl-lovers-na-amazon-fones-caixas-de-som-e-luzes-com-ate-73percent-off",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T11:45:00.000Z",
+      "date": "2026-03-12T14:09:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411516-lei-felca-20-em-prol-da-seguranca-das-criancas-eua-sacrifica-os-adultos.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411534-mes-dos-jbl-lovers-na-amazon-fones-caixas-de-som-e-luzes-com-ate-73-off.htm"
     },
     {
-      "title": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (12)",
-      "slug": "play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-12",
+      "title": "Qual notebook comprar no lugar do MacBook Neo? Confira 4 modelos",
+      "slug": "qual-notebook-comprar-no-lugar-do-macbook-neo-confira-4-modelos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T11:15:00.000Z",
+      "date": "2026-03-12T13:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411539-qual-notebook-comprar-no-lugar-do-macbook-neo-confira-4-modelos.htm"
+    },
+    {
+      "title": "Quando a terceira temporada de One Piece será lançada? Veja o que esperar",
+      "slug": "quando-a-terceira-temporada-de-one-piece-sera-lancada-veja-o-que-esperar",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-12T13:15:47.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503746-play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-12.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603368-quando-a-terceira-temporada-de-one-piece-sera-lancada-veja-o-que-esperar.htm"
     },
     {
-      "title": "Empresas de software reagem a temores de que a IA as destruirá",
-      "slug": "empresas-de-software-reagem-a-temores-de-que-a-ia-as-destruira",
+      "title": "Órgãos do Reino Unido pressionam para que Meta, TikTok, Snap e YouTube bloqueiem crianças",
+      "slug": "orgaos-do-reino-unido-pressionam-para-que-meta-tiktok-snap-e-youtube-bloqueiem-criancas",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-12T12:29:00.000Z",
+      "date": "2026-03-12T14:12:28.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/empresas-de-software-reagem-a-temores-de-que-a-ia-as-destruira.htm"
-    },
-    {
-      "title": "PayPay, do SoftBank, estreia na Nasdaq após levantar US$880 milhões em IPO",
-      "slug": "paypay-do-softbank-estreia-na-nasdaq-apos-levantar-usdollar880-milhoes-em-ipo",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-12T12:09:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/paypay-do-softbank-estreia-na-nasdaq-apos-levantar-us880-milhoes-em-ipo.htm"
-    },
-    {
-      "title": "Hackers ligados ao Irã atacam empresa dos EUA em resposta a morte de estudantes",
-      "slug": "hackers-ligados-ao-ira-atacam-empresa-dos-eua-em-resposta-a-morte-de-estudantes",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-12T11:16:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/hackers-ligados-ao-ira-atacam-empresa-dos-eua-em-resposta-a-morte-de-estudantes.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/12/orgaos-do-reino-unido-pressionam-para-que-meta-tiktok-snap-e-youtube-bloqueiem-criancas.htm"
     }
   ]
 }
