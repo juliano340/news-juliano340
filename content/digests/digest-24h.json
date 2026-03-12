@@ -1,88 +1,43 @@
 {
-  "generated_at": "2026-03-11T23:03:38.386Z",
+  "generated_at": "2026-03-12T01:03:36.373Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 4,
   "posts": [
     {
-      "title": "Motorola Signature já tem R$ 1.800 OFF com cupom na Semana do Consumidor",
-      "slug": "motorola-signature-ja-tem-rdollar-1800-off-com-cupom-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-11T21:57:43.000Z",
-      "editorial_score": 85,
-      "original_url": "https://tecnoblog.net/achados/motorola-signature-ja-tem-r-1-800-off-com-cupom-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Motorola Edge 60 Fusion custa 43% menos que Edge 70 Fusion na Semana do Consumidor",
-      "slug": "motorola-edge-60-fusion-custa-43percent-menos-que-edge-70-fusion-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-11T21:22:52.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-fusion-custa-43-menos-que-edge-70-fusion-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Golpe da ClickBus usa site falso para roubar Pix e dados de cartão",
-      "slug": "golpe-da-clickbus-usa-site-falso-para-roubar-pix-e-dados-de-cartao",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-11T21:34:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/golpe-da-clickbus-usa-site-falso-para-roubar-pix-e-dados-de-cartao/"
-    },
-    {
-      "title": "Magalu faz queima de notebook Lenovo com Snapdragon; IA por menos de R$ 4 mil",
-      "slug": "magalu-faz-queima-de-notebook-lenovo-com-snapdragon-ia-por-menos-de-rdollar-4-mil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-11T21:29:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/notebook/magalu-faz-queima-de-notebook-lenovo-com-snapdragon-ia-por-menos-de-r-4-mil/"
-    },
-    {
-      "title": "Garota de Fora: Recomeço tem quantos episódios? Veja calendário de lançamento",
-      "slug": "garota-de-fora-recomeco-tem-quantos-episodios-veja-calendario-de-lancamento",
+      "title": "Malware PixRevolution sequestra transferências PIX no Android",
+      "slug": "malware-pixrevolution-sequestra-transferencias-pix-no-android",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T22:45:54.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603353-garota-de-fora-recomeco-tem-quantos-episodios-veja-calendario-de-lancamento.htm"
+      "date": "2026-03-12T00:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411537-malware-pixrevolution-sequestra-transferencias-pix-no-android.htm"
     },
     {
-      "title": "Star Wars Outlaws e mais jogos de Xbox com até 90% OFF; confira",
-      "slug": "star-wars-outlaws-e-mais-jogos-de-xbox-com-ate-90percent-off-confira",
+      "title": "FBI alerta sobre risco de ataque de drones do Irã na Califórnia",
+      "slug": "fbi-alerta-sobre-risco-de-ataque-de-drones-do-ira-na-california",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T22:30:00.000Z",
+      "date": "2026-03-11T23:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503753-star-wars-outlaws-e-mais-jogos-de-xbox-com-ate-90-off-confira.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411540-fbi-alerta-sobre-risco-de-ataque-de-drones-do-ira-na-california.htm"
     },
     {
-      "title": "Meta desenvolve chips próprios para alimentar data centers de IA",
-      "slug": "meta-desenvolve-chips-proprios-para-alimentar-data-centers-de-ia",
+      "title": "Combo de pipoca de Super Mario Galaxy custa a partir de R$ 300 no Cinemark",
+      "slug": "combo-de-pipoca-de-super-mario-galaxy-custa-a-partir-de-rdollar-300-no-cinemark",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T22:00:00.000Z",
+      "date": "2026-03-11T23:15:19.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411533-meta-desenvolve-chips-proprios-para-alimentar-data-centers-de-ia.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503748-combo-de-pipoca-de-super-mario-galaxy-custa-a-partir-de-r-300-no-cinemark.htm"
     },
     {
-      "title": "Como termina One Piece Temporada 2? Veja final explicado da série",
-      "slug": "como-termina-one-piece-temporada-2-veja-final-explicado-da-serie",
+      "title": "'Stargate': OpenAI e Oracle desistem de expandir data center de IA",
+      "slug": "stargate-openai-e-oracle-desistem-de-expandir-data-center-de-ia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-11T21:15:12.000Z",
+      "date": "2026-03-11T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603367-como-termina-one-piece-temporada-2-veja-final-explicado-da-serie.htm"
-    },
-    {
-      "title": "Hackers ligados ao Irã reivindicam responsabilidade por ataque a fabricante de dispositivos médicos dos EUA",
-      "slug": "hackers-ligados-ao-ira-reivindicam-responsabilidade-por-ataque-a-fabricante-de-dispositivos-medicos-dos-eua",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-11T22:34:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/11/hackers-ligados-ao-ira-reivindicam-responsabilidade-por-ataque-a-fabricante-de-dispositivos-medicos-dos-eua.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411536-stargate-openai-e-oracle-desistem-de-expandir-data-center-de-ia.htm"
     }
   ]
 }
