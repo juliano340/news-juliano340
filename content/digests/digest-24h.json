@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-03-13T01:03:08.190Z",
+  "generated_at": "2026-03-13T09:03:45.530Z",
   "niche": "ia-para-desenvolvedores",
   "total": 3,
   "posts": [
     {
-      "title": "Nintendo Switch 2 entra em promoção com cupom na Semana do Consumidor",
-      "slug": "nintendo-switch-2-entra-em-promocao-com-cupom-na-semana-do-consumidor",
+      "title": "O que é Physical AI e por que ela pode mudar a indústria",
+      "slug": "o-que-e-physical-ai-e-por-que-ela-pode-mudar-a-industria",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T21:14:51.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-13T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/nintendo-switch-2-entra-em-promocao-com-cupom-na-semana-do-consumidor/"
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/o-que-e-physical-ai-e-por-que-ela-pode-mudar-a-industria-6399/"
     },
     {
-      "title": "'Kit Hacker Coruna\": Apple corrige falhas em iPhones antigos após ataques",
-      "slug": "kit-hacker-coruna-apple-corrige-falhas-em-iphones-antigos-apos-ataques",
-      "topic": "geral",
+      "title": "Palpites para Vitória x Atlético-MG: Análises e Onde Assistir (14/03/2026)",
+      "slug": "palpites-para-vitoria-x-atletico-mg-analises-e-onde-assistir-14032026",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-12T22:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411570-kit-hacker-coruna-apple-corrige-falhas-em-iphones-antigos-apos-ataques.htm"
+      "date": "2026-03-13T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411510-palpites-para-vitoria-x-atletico-mg-analises-e-onde-assistir-14032026.htm"
     },
     {
-      "title": "Como a IA está acelerando a 'cadeia da morte' na guerra do Irã",
-      "slug": "como-a-ia-esta-acelerando-a-cadeia-da-morte-na-guerra-do-ira",
+      "title": "Cientistas encontram fóssil de dinossauro minúsculo e comedor de formigas",
+      "slug": "cientistas-encontram-fossil-de-dinossauro-minusculo-e-comedor-de-formigas",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-12T23:42:38.000Z",
+      "date": "2026-03-13T08:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/12/como-a-ia-esta-acelerando-a-cadeia-da-morte-na-guerra-do-ira.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/13/dinossauro-minusculo-ajuda-cientistas-a-desvendar-misterios-da-evolucao.htm"
     }
   ]
 }
