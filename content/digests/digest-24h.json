@@ -1,169 +1,133 @@
 {
-  "generated_at": "2026-03-13T21:09:32.692Z",
+  "generated_at": "2026-03-13T23:07:42.912Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 14,
   "posts": [
     {
-      "title": "Ainda dá tempo: Galaxy S25 Ultra (512 GB) com 52% OFF na Semana do Consumidor",
-      "slug": "ainda-da-tempo-galaxy-s25-ultra-512-gb-com-52percent-off-na-semana-do-consumidor",
-      "topic": "seguranca-ia",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T20:24:32.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/ainda-da-tempo-galaxy-s25-ultra-512-gb-com-52-off-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Adobe faz acordo nos EUA após processo por taxa de cancelamento",
-      "slug": "adobe-faz-acordo-nos-eua-apos-processo-por-taxa-de-cancelamento",
+      "title": "Smart TV LG QNED 55″ tem 24% OFF em até 10x com cupom na Semana do Consumidor",
+      "slug": "smart-tv-lg-qned-55-tem-24percent-off-em-ate-10x-com-cupom-na-semana-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-13T19:55:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/adobe-faz-acordo-nos-eua-apos-processo-por-taxa-de-cancelamento/"
+      "date": "2026-03-13T21:44:32.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/smart-tv-lg-qned-55-tem-24-off-em-ate-10x-com-cupom-na-semana-do-consumidor/"
     },
     {
-      "title": "Tinder e Bumble investem em IA para reverter queda de engajamento",
-      "slug": "tinder-e-bumble-investem-em-ia-para-reverter-queda-de-engajamento",
+      "title": "Galaxy Tab S11 (256 GB) fica 33% mais barato às vésperas do Dia do Consumidor",
+      "slug": "galaxy-tab-s11-256-gb-fica-33percent-mais-barato-as-vesperas-do-dia-do-consumidor",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T21:24:56.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s11-256-gb-fica-33-mais-barato-as-vesperas-do-dia-do-consumidor/"
+    },
+    {
+      "title": "Galaxy S26 (512 GB) recebe desconto incrível de 41% na Semana do Consumidor",
+      "slug": "galaxy-s26-512-gb-recebe-desconto-incrivel-de-41percent-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T21:24:12.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s26-512-gb-recebe-desconto-incrivel-de-41-na-semana-do-consumidor/"
+    },
+    {
+      "title": "Comprar carro no Paraguai sai mais barato que no Brasil? Fizemos as contas",
+      "slug": "comprar-carro-no-paraguai-sai-mais-barato-que-no-brasil-fizemos-as-contas",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-13T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/comprar-carro-no-paraguai-sai-mais-barato-que-no-brasil-fizemos-as-contas/"
+    },
+    {
+      "title": "Qual é o ar-condicionado de 9.000 BTU mais econômico do Brasil em 2026?",
+      "slug": "qual-e-o-ar-condicionado-de-9000-btu-mais-economico-do-brasil-em-2026",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-13T21:58:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/qual-e-o-ar-condicionado-de-9000-btu-mais-economico-do-brasil-em-2026/"
+    },
+    {
+      "title": "The Witcher 4 e Control Resonant serão vitrine de novas tecnologias da NVIDIA",
+      "slug": "the-witcher-4-e-control-resonant-serao-vitrine-de-novas-tecnologias-da-nvidia",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T21:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/the-witcher-4-e-control-resonant-serao-vitrine-de-novas-tecnologias-da-nvidia/"
+    },
+    {
+      "title": "Mulheres têm mais rejeição a IAs no trabalho que homens, indica pesquisa",
+      "slug": "mulheres-tem-mais-rejeicao-a-ias-no-trabalho-que-homens-indica-pesquisa",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411612-mulheres-tem-mais-rejeicao-a-ias-no-trabalho-que-homens-indica-pesquisa.htm"
+    },
+    {
+      "title": "SocksEscort: operação derruba rede usada por criminosos",
+      "slug": "socksescort-operacao-derruba-rede-usada-por-criminosos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T22:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411597-socksescort-operacao-derruba-rede-usada-por-criminosos.htm"
+    },
+    {
+      "title": "Mario + Rabbids Sparks of Hope e mais jogos para Switch com até 90% OFF na eShop",
+      "slug": "mario-rabbids-sparks-of-hope-e-mais-jogos-para-switch-com-ate-90percent-off-na-eshop",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503779-mario-rabbids-sparks-of-hope-e-mais-jogos-para-switch-com-ate-90-off-na-eshop.htm"
+    },
+    {
+      "title": "Slopoly: vírus gerado por IA é utilizado em sequestro de dados",
+      "slug": "slopoly-virus-gerado-por-ia-e-utilizado-em-sequestro-de-dados",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T22:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411606-slopoly-virus-gerado-por-ia-e-utilizado-em-sequestro-de-dados.htm"
+    },
+    {
+      "title": "Segurança e IA: o lado perigoso da autonomia de agentes de IA",
+      "slug": "seguranca-e-ia-o-lado-perigoso-da-autonomia-de-agentes-de-ia",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411414-seguranca-e-ia-o-lado-perigoso-da-autonomia-de-agentes-de-ia.htm"
+    },
+    {
+      "title": "Testei o Galaxy S26 Ultra com tela privada: celular dita futuro da Samsung, mas é bom?",
+      "slug": "testei-o-galaxy-s26-ultra-com-tela-privada-celular-dita-futuro-da-samsung-mas-e-bom",
       "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T19:45:27.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-13T21:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/tinder-e-bumble-investem-em-ia-para-reverter-queda-de-engajamento/"
+      "original_url": "https://www.tecmundo.com.br/produto/411605-testei-o-galaxy-s26-ultra-com-tela-privada-celular-dita-futuro-da-samsung-mas-e-bom.htm"
     },
     {
-      "title": "No fim das contas, Firefox vai suportar Windows 7, 8 e 8.1 por mais tempo",
-      "slug": "no-fim-das-contas-firefox-vai-suportar-windows-7-8-e-81-por-mais-tempo",
+      "title": "O fim das DMs privadas: Instagram encerrará criptografia de ponta a ponta",
+      "slug": "o-fim-das-dms-privadas-instagram-encerrara-criptografia-de-ponta-a-ponta",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T19:40:47.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-13T21:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/no-fim-das-contas-firefox-vai-suportar-windows-7-8-e-8-1-por-mais-tempo/"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411613-o-fim-das-dms-privadas-instagram-encerrara-criptografia-de-ponta-a-ponta.htm"
     },
     {
-      "title": "Intel lança novos Core Ultra 200S Plus com 39% mais poder e preço 33% menor",
-      "slug": "intel-lanca-novos-core-ultra-200s-plus-com-39percent-mais-poder-e-preco-33percent-menor",
+      "title": "O que aconteceu com Faith Fraser? Temporada 8 de Outlander traz respostas",
+      "slug": "o-que-aconteceu-com-faith-fraser-temporada-8-de-outlander-traz-respostas",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T20:09:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/intel-anuncia-cpus-core-ultra-200s-plus-com-mais-desempenho-e-preco-agressivo/"
-    },
-    {
-      "title": "O que é o \"Golpe do Chocolate\" e como não cair nele",
-      "slug": "o-que-e-o-golpe-do-chocolate-e-como-nao-cair-nele",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T20:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/o-que-e-o-golpe-do-chocolate-e-como-nao-cair-nele/"
-    },
-    {
-      "title": "Peugeot derruba preço do 208 GT e híbrido fica mais em conta que Fiat Cronos",
-      "slug": "peugeot-derruba-preco-do-208-gt-e-hibrido-fica-mais-em-conta-que-fiat-cronos",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/peugeot-derruba-preco-do-208-gt-e-hibrido-fica-mais-em-conta-que-fiat-cronos/"
-    },
-    {
-      "title": "Street Fighter: vídeo de bastidores mostra icônico corte de cabelo do Guile",
-      "slug": "street-fighter-video-de-bastidores-mostra-iconico-corte-de-cabelo-do-guile",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T19:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/street-fighter-video-de-bastidores-mostra-iconico-corte-de-cabelo-do-guile/"
-    },
-    {
-      "title": "'Já vendeu?': Facebook vai acabar com pesadelo de quem anuncia no Marketplace",
-      "slug": "ja-vendeu-facebook-vai-acabar-com-pesadelo-de-quem-anuncia-no-marketplace",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-13T19:37:24.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-13T21:15:11.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/ja-vendeu-facebook-vai-acabar-com-pesadelo-de-quem-anuncia-no-marketplace/"
-    },
-    {
-      "title": "Google corrige duas falhas de dia zero no Chrome exploradas por hackers",
-      "slug": "google-corrige-duas-falhas-de-dia-zero-no-chrome-exploradas-por-hackers",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411601-google-corrige-duas-falhas-de-dia-zero-no-chrome-exploradas-por-hackers.htm"
-    },
-    {
-      "title": "Clair Obscur vence Jogo do ano no GDC Awards! Veja lista de vencedores",
-      "slug": "clair-obscur-vence-jogo-do-ano-no-gdc-awards-veja-lista-de-vencedores",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T20:44:05.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503771-clair-obscur-vence-jogo-do-ano-no-gdc-awards-veja-lista-de-vencedores.htm"
-    },
-    {
-      "title": "Preciso jogar Black Desert antes de Crimson Desert? Entenda a conexão dos jogos",
-      "slug": "preciso-jogar-black-desert-antes-de-crimson-desert-entenda-a-conexao-dos-jogos",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T20:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503757-preciso-jogar-black-desert-antes-de-crimson-desert-entenda-a-conexao-dos-jogos.htm"
-    },
-    {
-      "title": "ByteDance usa Malásia para treinar IAs com chips da Nvidia, diz jornal",
-      "slug": "bytedance-usa-malasia-para-treinar-ias-com-chips-da-nvidia-diz-jornal",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411592-bytedance-usa-malasia-para-treinar-ias-com-chips-da-nvidia-diz-jornal.htm"
-    },
-    {
-      "title": "One Piece e mais 7 filmes e séries em alta para ver na Netflix no fim de semana (13)",
-      "slug": "one-piece-e-mais-7-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-13",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T19:15:37.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603373-one-piece-e-mais-7-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-13.htm"
-    },
-    {
-      "title": "Ibovespa fecha semana abaixo de 178 mil pontos sem alívio em preocupações com guerra no Irã",
-      "slug": "ibovespa-fecha-semana-abaixo-de-178-mil-pontos-sem-alivio-em-preocupacoes-com-guerra-no-ira",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-13T20:37:17.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/ibovespa-fecha-semana-abaixo-de-178-mil-pontos-sem-alivio-em-preocupacoes-com-guerra-no-ira.htm"
-    },
-    {
-      "title": "Após Lei Felca, menores de 18 anos serão barrados de jogar LoL no Brasil",
-      "slug": "apos-lei-felca-menores-de-18-anos-serao-barrados-de-jogar-lol-no-brasil",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-13T20:19:24.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/13/apos-lei-felca-menores-de-18-anos-serao-barrados-de-jogar-lol-no-brasil.htm"
-    },
-    {
-      "title": "Pequim impulsiona IA e bancos chineses elevam crédito para setor de tecnologia",
-      "slug": "pequim-impulsiona-ia-e-bancos-chineses-elevam-credito-para-setor-de-tecnologia",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-13T20:00:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/pequim-impulsiona-ia-e-bancos-chineses-elevam-credito-para-setor-de-tecnologia.htm"
-    },
-    {
-      "title": "Cerebras faz acordo para oferecer chips de IA em nuvem da Amazon",
-      "slug": "cerebras-faz-acordo-para-oferecer-chips-de-ia-em-nuvem-da-amazon",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-13T19:21:42.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/cerebras-faz-acordo-para-oferecer-chips-de-ia-em-nuvem-da-amazon.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603350-o-que-aconteceu-com-faith-fraser-temporada-8-de-outlander-traz-respostas.htm"
     }
   ]
 }
