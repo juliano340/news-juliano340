@@ -1,214 +1,196 @@
 {
-  "generated_at": "2026-03-13T15:13:41.387Z",
+  "generated_at": "2026-03-13T17:17:42.392Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 23,
+  "total": 21,
   "posts": [
     {
-      "title": "Um quinto dos adolescentes australianos ainda usa TikTok e Snapchat mesmo após proibição de rede social",
-      "slug": "um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-mesmo-apos-proibicao-de-rede-social",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-13T14:42:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/13/um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-apos-proibicao-de-rede-social.ghtml"
-    },
-    {
-      "title": "PC deve superar consoles em faturamento de jogos até 2028",
-      "slug": "pc-deve-superar-consoles-em-faturamento-de-jogos-ate-2028",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T14:52:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/pc-deve-superar-consoles-em-faturamento-de-jogos-ate-2028/"
-    },
-    {
-      "title": "Motorola Edge 60 Pro (512 GB) fica 32% mais barato na Semana do Consumidor",
-      "slug": "motorola-edge-60-pro-512-gb-fica-32percent-mais-barato-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T14:30:28.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-fica-32-mais-barato-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Escassez faz marca lançar kit de memória RAM com módulo fictício",
-      "slug": "escassez-faz-marca-lancar-kit-de-memoria-ram-com-modulo-ficticio",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T14:10:54.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/escassez-faz-marca-lancar-kit-de-memoria-ram-com-modulo-ficticio/"
-    },
-    {
-      "title": "Apple reduz taxas da App Store na China após pressão de reguladores",
-      "slug": "apple-reduz-taxas-da-app-store-na-china-apos-pressao-de-reguladores",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T13:13:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/apple-reduz-taxas-da-app-store-na-china-apos-pressao-de-reguladores/"
-    },
-    {
-      "title": "Vivo aumenta preços de 6 planos; veja se você será afetado",
-      "slug": "vivo-aumenta-precos-de-6-planos-veja-se-voce-sera-afetado",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T15:01:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/telecom/vivo-aumenta-precos-de-6-planos-veja-se-voce-sera-afetado/"
-    },
-    {
-      "title": "MacBook Neo cai como bomba no mercado de PCs e obriga reação",
-      "slug": "macbook-neo-cai-como-bomba-no-mercado-de-pcs-e-obriga-reacao",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T14:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/notebook/macbook-neo-cai-como-bomba-no-mercado-de-pcs-e-obriga-reacao/"
-    },
-    {
-      "title": "Brecha da MediaTek: como saber se seu celular está em risco e o que fazer",
-      "slug": "brecha-da-mediatek-como-saber-se-seu-celular-esta-em-risco-e-o-que-fazer",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T14:30:13.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/brecha-da-mediatek-como-saber-se-seu-celular-esta-em-risco-e-o-que-fazer/"
-    },
-    {
-      "title": "Novo dobrável flip da Samsung pode decepcionar em bateria, indica leaker",
-      "slug": "novo-dobravel-flip-da-samsung-pode-decepcionar-em-bateria-indica-leaker",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T14:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/novo-dobravel-flip-da-samsung-pode-decepcionar-em-bateria-indica-leaker/"
-    },
-    {
-      "title": "Fim da selfie? Aeroporto famoso proíbe viajantes de tirarem fotos",
-      "slug": "fim-da-selfie-aeroporto-famoso-proibe-viajantes-de-tirarem-fotos",
+      "title": "Conexões secretas na fronteira e redes privadas: como iranianos desesperados mantêm contato com familiares no exterior",
+      "slug": "conexoes-secretas-na-fronteira-e-redes-privadas-como-iranianos-desesperados-mantem-contato-com-familiares-no-exterior",
       "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-13T14:00:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-13T15:39:01.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/fim-da-selfie-aeroporto-famoso-proibe-viajantes-de-tirar-fotos/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/13/conexoes-secretas-na-fronteira-e-redes-privadas-como-iranianos-desesperados-mantem-contato-com-familiares-no-exterior.ghtml"
     },
     {
-      "title": "ASUS lança notebook ProArt GoPro Edition voltado para criadores de conteúdo",
-      "slug": "asus-lanca-notebook-proart-gopro-edition-voltado-para-criadores-de-conteudo",
+      "title": "SmartTV LG NanoCell 50” tem oferta em até 10x sem juros na Semana do Consumidor",
+      "slug": "smarttv-lg-nanocell-50-tem-oferta-em-ate-10x-sem-juros-na-semana-do-consumidor",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T13:57:42.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T15:59:37.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/asus-lanca-notebook-proart-gopro-edition-voltado-para-criadores-de-conteudo/"
+      "original_url": "https://tecnoblog.net/achados/smarttv-lg-nanocell-50-tem-oferta-em-ate-10x-sem-juros-na-semana-do-consumidor/"
     },
     {
-      "title": "Combo de pipoca do Mario custará o mesmo que um jogo físico da Nintendo",
-      "slug": "combo-de-pipoca-do-mario-custara-o-mesmo-que-um-jogo-fisico-da-nintendo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T13:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/combo-de-pipoca-do-mario-custara-o-mesmo-que-um-jogo-fisico-da-nintendo/"
-    },
-    {
-      "title": "Mercado Livre derruba preço de celular com câmera de 200 MP; novo JOVI em oferta",
-      "slug": "mercado-livre-derruba-preco-de-celular-com-camera-de-200-mp-novo-jovi-em-oferta",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T13:34:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-derruba-preco-de-celular-com-camera-de-200-mp-novo-jovi-em-oferta/"
-    },
-    {
-      "title": "Google Maps com Gemini e navegação 3D: quando chega no Brasil?",
-      "slug": "google-maps-com-gemini-e-navegacao-3d-quando-chega-no-brasil",
+      "title": "Meta adia lançamento de nova IA após testes decepcionantes",
+      "slug": "meta-adia-lancamento-de-nova-ia-apos-testes-decepcionantes",
       "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T15:48:31.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/meta-adia-lancamento-de-nova-ia-apos-testes-decepcionantes/"
+    },
+    {
+      "title": "Quem é Emily, a personagem misteriosa de Resident Evil Requiem?",
+      "slug": "quem-e-emily-a-personagem-misteriosa-de-resident-evil-requiem",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-13T13:32:34.000Z",
+      "date": "2026-03-13T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/google-maps-com-gemini-e-navegacao-3d-quando-chega-no-brasil/"
+      "original_url": "https://canaltech.com.br/games/quem-e-emily-a-personagem-misteriosa-de-resident-evil-requiem/"
     },
     {
-      "title": "Facebook adiciona recursos de IA para acelerar vendas no Marketplace",
-      "slug": "facebook-adiciona-recursos-de-ia-para-acelerar-vendas-no-marketplace",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-13T15:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411582-facebook-adiciona-recursos-de-ia-para-acelerar-vendas-no-marketplace.htm"
-    },
-    {
-      "title": "Caso Epstein: Entenda polêmica envolvendo jogo brasileiro que simula ilha do criminoso",
-      "slug": "caso-epstein-entenda-polemica-envolvendo-jogo-brasileiro-que-simula-ilha-do-criminoso",
+      "title": "Vazou: celular com câmera robótica tem janela de lançamento revelada",
+      "slug": "vazou-celular-com-camera-robotica-tem-janela-de-lancamento-revelada",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T14:15:19.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-13T16:29:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503765-caso-epstein-entenda-polemica-envolvendo-jogo-brasileiro-que-simula-ilha-do-criminoso.htm"
+      "original_url": "https://canaltech.com.br/smartphone/vazou-celular-com-camera-robotica-tem-janela-de-lancamento-revelada/"
     },
     {
-      "title": "Quer melhorar o som da TV? Soundbars Samsung estão em promoção com preços baixos",
-      "slug": "quer-melhorar-o-som-da-tv-soundbars-samsung-estao-em-promocao-com-precos-baixos",
+      "title": "Sony abandonou jogos no PC e nova teoria aponta o real motivo",
+      "slug": "sony-abandonou-jogos-no-pc-e-nova-teoria-aponta-o-real-motivo",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T14:06:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-13T16:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/sony-abandonou-jogos-no-pc-e-nova-teoria-aponta-o-real-motivo/"
+    },
+    {
+      "title": "Quais foram os 10 carros mais vendidos do mundo em 2025?",
+      "slug": "quais-foram-os-10-carros-mais-vendidos-do-mundo-em-2025",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T16:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/quais-foram-os-10-carros-mais-vendidos-do-mundo-em-2025/"
+    },
+    {
+      "title": "Truecaller vai deixar você impedir golpes telefônicos contra familiares",
+      "slug": "truecaller-vai-deixar-voce-impedir-golpes-telefonicos-contra-familiares",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-13T16:02:34.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411581-quer-melhorar-o-som-da-tv-soundbars-samsung-estao-em-promocao-com-precos-baixos.htm"
+      "original_url": "https://canaltech.com.br/apps/truecaller-vai-deixar-voce-impedir-golpes-telefonicos-contra-familiares/"
     },
     {
-      "title": "Instagram testa links clicáveis em legendas de posts no feed",
-      "slug": "instagram-testa-links-clicaveis-em-legendas-de-posts-no-feed",
+      "title": "Batman 2: Rumor sugere aliança entre Harvey Dent e Bruce Wayne",
+      "slug": "batman-2-rumor-sugere-alianca-entre-harvey-dent-e-bruce-wayne",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T15:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/batman-2-rumor-sugere-alianca-entre-harvey-dent-e-bruce-wayne/"
+    },
+    {
+      "title": "Áudio de esquilo ou robô? Aprenda a usar novo recurso de voz do Instagram",
+      "slug": "audio-de-esquilo-ou-robo-aprenda-a-usar-novo-recurso-de-voz-do-instagram",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-13T15:37:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/audio-de-esquilo-ou-robo-aprenda-a-usar-novo-recurso-de-voz-do-instagram/"
+    },
+    {
+      "title": "Netflix compra empresa de IA de Ben Affleck e acende alerta em Hollywood",
+      "slug": "netflix-compra-empresa-de-ia-de-ben-affleck-e-acende-alerta-em-hollywood",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T15:10:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/entretenimento/netflix-compra-empresa-de-ia-de-ben-affleck-e-acende-alerta-em-hollywood/"
+    },
+    {
+      "title": "Clair Obscur lidera indicações no BAFTA Game Awards 2026! Veja todos os indicados",
+      "slug": "clair-obscur-lidera-indicacoes-no-bafta-game-awards-2026-veja-todos-os-indicados",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T16:15:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503766-clair-obscur-lidera-indicacoes-no-bafta-game-awards-2026-veja-todos-os-indicados.htm"
+    },
+    {
+      "title": "Mais vendidos do Magazine Luiza com desconto: TVs, geladeiras, smartphones e mais",
+      "slug": "mais-vendidos-do-magazine-luiza-com-desconto-tvs-geladeiras-smartphones-e-mais",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-13T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/redes-sociais/411580-instagram-testa-a-opcao-de-adicionar-links-em-legendas-de-posts-no-feed.htm"
+      "date": "2026-03-13T16:06:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411589-mais-vendidos-do-magazine-luiza-com-desconto-tvs-geladeiras-smartphones-e-mais.htm"
     },
     {
-      "title": "CEO da Adobe anuncia saída do cargo em meio à queda de ações",
-      "slug": "ceo-da-adobe-anuncia-saida-do-cargo-em-meio-a-queda-de-acoes",
+      "title": "Mercado de PCs deve ter declínio de 11% em 2026",
+      "slug": "mercado-de-pcs-deve-ter-declinio-de-11percent-em-2026",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-13T13:45:00.000Z",
+      "date": "2026-03-13T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411577-ceo-da-adobe-anuncia-saida-do-cargo-em-meio-a-queda-de-acoes.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411583-mercado-de-pcs-deve-ter-declinio-de-11-em-2026.htm"
     },
     {
-      "title": "Virgin River Temporada 7 tem quantos episódios? Veja tempo para maratonar",
-      "slug": "virgin-river-temporada-7-tem-quantos-episodios-veja-tempo-para-maratonar",
+      "title": "Interpol prende 94 pessoas em operação global contra golpes e fraudes",
+      "slug": "interpol-prende-94-pessoas-em-operacao-global-contra-golpes-e-fraudes",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-13T13:16:40.000Z",
+      "date": "2026-03-13T15:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603378-virgin-river-temporada-7-tem-quantos-episodios-veja-tempo-para-maratonar.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411590-interpol-prende-94-pessoas-em-operacao-global-contra-golpes-e-fraudes.htm"
     },
     {
-      "title": "Magazine Luiza no AliExpress: aproveite ofertas com cupons de desconto",
-      "slug": "magazine-luiza-no-aliexpress-aproveite-ofertas-com-cupons-de-desconto",
+      "title": "Onde assistir Se Eu Tivesse Pernas, Eu te Chutaria? Conheça filme indicado ao Oscar",
+      "slug": "onde-assistir-se-eu-tivesse-pernas-eu-te-chutaria-conheca-filme-indicado-ao-oscar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-13T13:09:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411568-magazine-luiza-no-aliexpress-aproveite-ofertas-com-cupons-de-desconto.htm"
+      "date": "2026-03-13T15:15:33.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603372-onde-assistir-se-eu-tivesse-pernas-eu-te-chutaria-conheca-filme-indicado-ao-oscar.htm"
     },
     {
-      "title": "Um quinto dos adolescentes australianos ainda usa TikTok e Snapchat após proibição de rede social",
-      "slug": "um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-apos-proibicao-de-rede-social",
+      "title": "EA FC 26, Spider-Man 2 e mais jogos de PS5 até 68% OFF na Semana do Consumidor Amazon",
+      "slug": "ea-fc-26-spider-man-2-e-mais-jogos-de-ps5-ate-68percent-off-na-semana-do-consumidor-amazon",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T15:07:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503762-ea-fc-26-spider-man-2-e-mais-jogos-de-ps5-ate-68-off-na-semana-do-consumidor-amazon.htm"
+    },
+    {
+      "title": "Adapta cria ecossistema de softwares adaptáveis para PMEs e anuncia aquisição",
+      "slug": "adapta-cria-ecossistema-de-softwares-adaptaveis-para-pmes-e-anuncia-aquisicao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T15:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411330-adapta-cria-ecossistema-de-softwares-adaptaveis-para-pmes-e-anuncia-aquisicao.htm"
+    },
+    {
+      "title": "China aprova pela 1ª vez no mundo dispositivo médico com interface cérebro-computador",
+      "slug": "china-aprova-pela-1a-vez-no-mundo-dispositivo-medico-com-interface-cerebro-computador",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-13T13:33:49.000Z",
+      "date": "2026-03-13T16:07:57.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-apos-proibicao-de-rede-social.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/china-aprova-pela-1-vez-no-mundo-dispositivo-medico-com-interface-cerebro-computador.htm"
     },
     {
-      "title": "Ações da Adobe caem com saída de presidente criando dúvidas sobre estratégia de IA",
-      "slug": "acoes-da-adobe-caem-com-saida-de-presidente-criando-duvidas-sobre-estrategia-de-ia",
-      "topic": "produtividade-dev",
+      "title": "BYD lançará carro elétrico premium na Europa que pode ser recarregado em minutos",
+      "slug": "byd-lancara-carro-eletrico-premium-na-europa-que-pode-ser-recarregado-em-minutos",
+      "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-13T13:29:37.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/acoes-da-adobe-caem-com-saida-de-presidente-criando-duvidas-sobre-estrategia-de-ia.htm"
+      "date": "2026-03-13T15:58:15.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/byd-lancara-carro-eletrico-premium-na-europa-que-pode-ser-recarregado-em-minutos.htm"
+    },
+    {
+      "title": "UE certifica tecnologia veicular de direção assistida da Geely",
+      "slug": "ue-certifica-tecnologia-veicular-de-direcao-assistida-da-geely",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-13T15:48:17.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/ue-certifica-tecnologia-veicular-de-direcao-assistida-da-geely.htm"
     }
   ]
 }
