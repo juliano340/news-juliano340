@@ -1,169 +1,214 @@
 {
-  "generated_at": "2026-03-13T13:13:04.450Z",
+  "generated_at": "2026-03-13T15:13:41.387Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 23,
   "posts": [
     {
-      "title": "Hoverboard de \"De Volta Para o Futuro\" é recriado em garagem por youtuber",
-      "slug": "hoverboard-de-de-volta-para-o-futuro-e-recriado-em-garagem-por-youtuber",
+      "title": "Um quinto dos adolescentes australianos ainda usa TikTok e Snapchat mesmo após proibição de rede social",
+      "slug": "um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-mesmo-apos-proibicao-de-rede-social",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T12:46:33.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-13T14:42:58.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/gadgets/hoverboard-de-de-volta-para-o-futuro-e-recriado-em-garagem-por-youtuber/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/13/um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-apos-proibicao-de-rede-social.ghtml"
     },
     {
-      "title": "Trojan para Android rouba Pix de brasileiros em tempo real",
-      "slug": "trojan-para-android-rouba-pix-de-brasileiros-em-tempo-real",
+      "title": "PC deve superar consoles em faturamento de jogos até 2028",
+      "slug": "pc-deve-superar-consoles-em-faturamento-de-jogos-ate-2028",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T12:40:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T14:52:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/trojan-para-android-rouba-pix-de-brasileiros-em-tempo-real/"
+      "original_url": "https://tecnoblog.net/noticias/pc-deve-superar-consoles-em-faturamento-de-jogos-ate-2028/"
     },
     {
-      "title": "Alexa com IA ganha 'modo proibidão' com falas impróprias para menores de idade",
-      "slug": "alexa-com-ia-ganha-modo-proibidao-com-falas-improprias-para-menores-de-idade",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-13T12:31:40.000Z",
+      "title": "Motorola Edge 60 Pro (512 GB) fica 32% mais barato na Semana do Consumidor",
+      "slug": "motorola-edge-60-pro-512-gb-fica-32percent-mais-barato-na-semana-do-consumidor",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T14:30:28.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/alexa-com-ia-ganha-modo-proibidao-com-falas-improprias-para-menores-de-idade/"
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-fica-32-mais-barato-na-semana-do-consumidor/"
     },
     {
-      "title": "OPPO Find X9 Pro: o novo padrão de fotografia flagship para 2025",
-      "slug": "oppo-find-x9-pro-o-novo-padrao-de-fotografia-flagship-para-2025",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T12:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/oppo-find-x9-pro-o-novo-padrao-de-fotografia-flagship-para-2025/"
-    },
-    {
-      "title": "Marca de pilha vai lançar celular com bateria 6x maior que o normal",
-      "slug": "marca-de-pilha-vai-lancar-celular-com-bateria-6x-maior-que-o-normal",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T12:11:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/marca-de-pilha-vai-lancar-celular-com-bateria-6x-maior-que-o-normal/"
-    },
-    {
-      "title": "Novo ar-condicionado da Xiaomi é quente e frio; gela em 20s e esquenta em 60s",
-      "slug": "novo-ar-condicionado-da-xiaomi-e-quente-e-frio-gela-em-20s-e-esquenta-em-60s",
+      "title": "Escassez faz marca lançar kit de memória RAM com módulo fictício",
+      "slug": "escassez-faz-marca-lancar-kit-de-memoria-ram-com-modulo-ficticio",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-13T12:11:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T14:10:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/novo-ar-condicionado-da-xiaomi-e-quente-e-frio-gela-em-20s-e-esquenta-em-60s/"
+      "original_url": "https://tecnoblog.net/noticias/escassez-faz-marca-lancar-kit-de-memoria-ram-com-modulo-ficticio/"
     },
     {
-      "title": "Estudante japonês cria sutiã que só abre com digital do parceiro",
-      "slug": "estudante-japones-cria-sutia-que-so-abre-com-digital-do-parceiro",
+      "title": "Apple reduz taxas da App Store na China após pressão de reguladores",
+      "slug": "apple-reduz-taxas-da-app-store-na-china-apos-pressao-de-reguladores",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T13:13:08.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/apple-reduz-taxas-da-app-store-na-china-apos-pressao-de-reguladores/"
+    },
+    {
+      "title": "Vivo aumenta preços de 6 planos; veja se você será afetado",
+      "slug": "vivo-aumenta-precos-de-6-planos-veja-se-voce-sera-afetado",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T15:01:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/telecom/vivo-aumenta-precos-de-6-planos-veja-se-voce-sera-afetado/"
+    },
+    {
+      "title": "MacBook Neo cai como bomba no mercado de PCs e obriga reação",
+      "slug": "macbook-neo-cai-como-bomba-no-mercado-de-pcs-e-obriga-reacao",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T14:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/notebook/macbook-neo-cai-como-bomba-no-mercado-de-pcs-e-obriga-reacao/"
+    },
+    {
+      "title": "Brecha da MediaTek: como saber se seu celular está em risco e o que fazer",
+      "slug": "brecha-da-mediatek-como-saber-se-seu-celular-esta-em-risco-e-o-que-fazer",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T14:30:13.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/brecha-da-mediatek-como-saber-se-seu-celular-esta-em-risco-e-o-que-fazer/"
+    },
+    {
+      "title": "Novo dobrável flip da Samsung pode decepcionar em bateria, indica leaker",
+      "slug": "novo-dobravel-flip-da-samsung-pode-decepcionar-em-bateria-indica-leaker",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-13T14:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/novo-dobravel-flip-da-samsung-pode-decepcionar-em-bateria-indica-leaker/"
+    },
+    {
+      "title": "Fim da selfie? Aeroporto famoso proíbe viajantes de tirarem fotos",
+      "slug": "fim-da-selfie-aeroporto-famoso-proibe-viajantes-de-tirarem-fotos",
       "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-03-13T12:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/comportamento/estudante-japones-cria-sutia-que-so-abre-com-digital-do-parceiro/"
+      "date": "2026-03-13T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/fim-da-selfie-aeroporto-famoso-proibe-viajantes-de-tirar-fotos/"
     },
     {
-      "title": "iPhone Fold: 1º dobrável da Apple terá \"interface de iPad\", diz leaker",
-      "slug": "iphone-fold-1o-dobravel-da-apple-tera-interface-de-ipad-diz-leaker",
+      "title": "ASUS lança notebook ProArt GoPro Edition voltado para criadores de conteúdo",
+      "slug": "asus-lanca-notebook-proart-gopro-edition-voltado-para-criadores-de-conteudo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-13T11:30:00.000Z",
+      "date": "2026-03-13T13:57:42.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/iphone-fold-1o-dobravel-da-apple-tera-interface-de-ipad-diz-leaker/"
+      "original_url": "https://canaltech.com.br/produtos/asus-lanca-notebook-proart-gopro-edition-voltado-para-criadores-de-conteudo/"
     },
     {
-      "title": "Trojan para Android imita app do INSS para roubar usuários no Brasil",
-      "slug": "trojan-para-android-imita-app-do-inss-para-roubar-usuarios-no-brasil",
+      "title": "Combo de pipoca do Mario custará o mesmo que um jogo físico da Nintendo",
+      "slug": "combo-de-pipoca-do-mario-custara-o-mesmo-que-um-jogo-fisico-da-nintendo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-13T11:25:00.000Z",
+      "date": "2026-03-13T13:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/trojan-para-android-imita-app-do-inss-para-roubar-usuarios-no-brasil/"
+      "original_url": "https://canaltech.com.br/entretenimento/combo-de-pipoca-do-mario-custara-o-mesmo-que-um-jogo-fisico-da-nintendo/"
     },
     {
-      "title": "Motorola pode acabar com a Apple? Fim de mais TVs Piratas, bilionários da tecnologia [Sem Manual]",
-      "slug": "motorola-pode-acabar-com-a-apple-fim-de-mais-tvs-piratas-bilionarios-da-tecnologia-sem-manual",
+      "title": "Mercado Livre derruba preço de celular com câmera de 200 MP; novo JOVI em oferta",
+      "slug": "mercado-livre-derruba-preco-de-celular-com-camera-de-200-mp-novo-jovi-em-oferta",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T13:03:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-13T13:34:21.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411564-motorola-pode-acabar-com-a-apple-fim-de-mais-tvs-piratas-bilionarios-da-tecnologia-sem-manual.htm"
+      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-derruba-preco-de-celular-com-camera-de-200-mp-novo-jovi-em-oferta/"
     },
     {
-      "title": "Copilot Health: IA da Microsoft ganha modo dedicado para a saúde",
-      "slug": "copilot-health-ia-da-microsoft-ganha-modo-dedicado-para-a-saude",
+      "title": "Google Maps com Gemini e navegação 3D: quando chega no Brasil?",
+      "slug": "google-maps-com-gemini-e-navegacao-3d-quando-chega-no-brasil",
       "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-13T12:45:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-13T13:32:34.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411578-copilot-health-ia-da-microsoft-ganha-modo-dedicado-para-a-saude.htm"
+      "original_url": "https://canaltech.com.br/apps/google-maps-com-gemini-e-navegacao-3d-quando-chega-no-brasil/"
     },
     {
-      "title": "Netflix confirma Guerreiras do K-Pop 2! Saiba tudo sobre a sequência",
-      "slug": "netflix-confirma-guerreiras-do-k-pop-2-saiba-tudo-sobre-a-sequencia",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T12:14:07.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603376-netflix-confirma-guerreiras-do-k-pop-2-saiba-tudo-sobre-a-sequencia.htm"
-    },
-    {
-      "title": "Google Brasil abre vagas para estágios em engenharia e negócios",
-      "slug": "google-brasil-abre-vagas-para-estagios-em-engenharia-e-negocios",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T12:00:00.000Z",
-      "editorial_score": 83,
-      "original_url": "https://www.tecmundo.com.br/mercado/411573-google-brasil-abre-vagas-para-estagios-em-engenharia-e-negocios.htm"
-    },
-    {
-      "title": "Nova série de Malcolm in the Middle ganha trailer com Bryan Cranston pelado! Veja data",
-      "slug": "nova-serie-de-malcolm-in-the-middle-ganha-trailer-com-bryan-cranston-pelado-veja-data",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T11:32:22.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/602773-nova-serie-de-malcolm-in-the-middle-ganha-data-de-lancamento-e-trailer-com-elenco-original.htm"
-    },
-    {
-      "title": "Como funciona o modo Xbox para PCs com Windows? Entenda a novidade",
-      "slug": "como-funciona-o-modo-xbox-para-pcs-com-windows-entenda-a-novidade",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503755-como-funciona-o-modo-xbox-para-pcs-com-windows-entenda-a-novidade.htm"
-    },
-    {
-      "title": "Índia prepara incentivos para aumentar produção de celulares no país",
-      "slug": "india-prepara-incentivos-para-aumentar-producao-de-celulares-no-pais",
+      "title": "Facebook adiciona recursos de IA para acelerar vendas no Marketplace",
+      "slug": "facebook-adiciona-recursos-de-ia-para-acelerar-vendas-no-marketplace",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-13T11:00:00.000Z",
+      "date": "2026-03-13T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411569-india-prepara-incentivos-para-aumentar-producao-de-celulares-no-pais.htm"
+      "original_url": "https://www.tecmundo.com.br/internet/411582-facebook-adiciona-recursos-de-ia-para-acelerar-vendas-no-marketplace.htm"
     },
     {
-      "title": "Palpites para West Ham x Manchester City: Análises e Onde Assistir (14/03/2026)",
-      "slug": "palpites-para-west-ham-x-manchester-city-analises-e-onde-assistir-14032026",
+      "title": "Caso Epstein: Entenda polêmica envolvendo jogo brasileiro que simula ilha do criminoso",
+      "slug": "caso-epstein-entenda-polemica-envolvendo-jogo-brasileiro-que-simula-ilha-do-criminoso",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T14:15:19.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503765-caso-epstein-entenda-polemica-envolvendo-jogo-brasileiro-que-simula-ilha-do-criminoso.htm"
+    },
+    {
+      "title": "Quer melhorar o som da TV? Soundbars Samsung estão em promoção com preços baixos",
+      "slug": "quer-melhorar-o-som-da-tv-soundbars-samsung-estao-em-promocao-com-precos-baixos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T14:06:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411581-quer-melhorar-o-som-da-tv-soundbars-samsung-estao-em-promocao-com-precos-baixos.htm"
+    },
+    {
+      "title": "Instagram testa links clicáveis em legendas de posts no feed",
+      "slug": "instagram-testa-links-clicaveis-em-legendas-de-posts-no-feed",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-13T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411514-palpites-para-west-ham-x-manchester-city-analises-e-onde-assistir-14032026.htm"
+      "date": "2026-03-13T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/redes-sociais/411580-instagram-testa-a-opcao-de-adicionar-links-em-legendas-de-posts-no-feed.htm"
     },
     {
-      "title": "Após atrasos, Nasa diz que vai lançar missão Artemis 2 à Lua em 1º de abril",
-      "slug": "apos-atrasos-nasa-diz-que-vai-lancar-missao-artemis-2-a-lua-em-1o-de-abril",
+      "title": "CEO da Adobe anuncia saída do cargo em meio à queda de ações",
+      "slug": "ceo-da-adobe-anuncia-saida-do-cargo-em-meio-a-queda-de-acoes",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T13:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411577-ceo-da-adobe-anuncia-saida-do-cargo-em-meio-a-queda-de-acoes.htm"
+    },
+    {
+      "title": "Virgin River Temporada 7 tem quantos episódios? Veja tempo para maratonar",
+      "slug": "virgin-river-temporada-7-tem-quantos-episodios-veja-tempo-para-maratonar",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T13:16:40.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603378-virgin-river-temporada-7-tem-quantos-episodios-veja-tempo-para-maratonar.htm"
+    },
+    {
+      "title": "Magazine Luiza no AliExpress: aproveite ofertas com cupons de desconto",
+      "slug": "magazine-luiza-no-aliexpress-aproveite-ofertas-com-cupons-de-desconto",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T13:09:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411568-magazine-luiza-no-aliexpress-aproveite-ofertas-com-cupons-de-desconto.htm"
+    },
+    {
+      "title": "Um quinto dos adolescentes australianos ainda usa TikTok e Snapchat após proibição de rede social",
+      "slug": "um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-apos-proibicao-de-rede-social",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-12T21:03:21.000Z",
+      "date": "2026-03-13T13:33:49.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/um-quinto-dos-adolescentes-australianos-ainda-usa-tiktok-e-snapchat-apos-proibicao-de-rede-social.htm"
+    },
+    {
+      "title": "Ações da Adobe caem com saída de presidente criando dúvidas sobre estratégia de IA",
+      "slug": "acoes-da-adobe-caem-com-saida-de-presidente-criando-duvidas-sobre-estrategia-de-ia",
+      "topic": "produtividade-dev",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-13T13:29:37.000Z",
       "editorial_score": 92,
-      "original_url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/03/12/nasa-se-diz-pronta-para-lancar-artemis-2-a-lua-a-partir-de-1-de-abril.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/acoes-da-adobe-caem-com-saida-de-presidente-criando-duvidas-sobre-estrategia-de-ia.htm"
     }
   ]
 }
