@@ -1,25 +1,28 @@
 # Weekly IA para Devs - 2026-03-13
 
-Gerado em 2026-03-13T17:17:42.392Z
+Gerado em 2026-03-13T19:14:44.931Z
 
-- [Conexões secretas na fronteira e redes privadas: como iranianos desesperados mantêm contato com familiares no exterior](https://g1.globo.com/tecnologia/noticia/2026/03/13/conexoes-secretas-na-fronteira-e-redes-privadas-como-iranianos-desesperados-mantem-contato-com-familiares-no-exterior.ghtml) | topico: seguranca-ia | score: 100
-- [SmartTV LG NanoCell 50” tem oferta em até 10x sem juros na Semana do Consumidor](https://tecnoblog.net/achados/smarttv-lg-nanocell-50-tem-oferta-em-ate-10x-sem-juros-na-semana-do-consumidor/) | topico: geral | score: 100
-- [Meta adia lançamento de nova IA após testes decepcionantes](https://tecnoblog.net/noticias/meta-adia-lancamento-de-nova-ia-apos-testes-decepcionantes/) | topico: llms | score: 100
-- [Quem é Emily, a personagem misteriosa de Resident Evil Requiem?](https://canaltech.com.br/games/quem-e-emily-a-personagem-misteriosa-de-resident-evil-requiem/) | topico: geral | score: 100
-- [Vazou: celular com câmera robótica tem janela de lançamento revelada](https://canaltech.com.br/smartphone/vazou-celular-com-camera-robotica-tem-janela-de-lancamento-revelada/) | topico: geral | score: 100
-- [Sony abandonou jogos no PC e nova teoria aponta o real motivo](https://canaltech.com.br/games/sony-abandonou-jogos-no-pc-e-nova-teoria-aponta-o-real-motivo/) | topico: geral | score: 100
-- [Quais foram os 10 carros mais vendidos do mundo em 2025?](https://canaltech.com.br/carros/quais-foram-os-10-carros-mais-vendidos-do-mundo-em-2025/) | topico: geral | score: 100
-- [Truecaller vai deixar você impedir golpes telefônicos contra familiares](https://canaltech.com.br/apps/truecaller-vai-deixar-voce-impedir-golpes-telefonicos-contra-familiares/) | topico: agentes | score: 92
-- [Batman 2: Rumor sugere aliança entre Harvey Dent e Bruce Wayne](https://canaltech.com.br/entretenimento/batman-2-rumor-sugere-alianca-entre-harvey-dent-e-bruce-wayne/) | topico: geral | score: 100
-- [Áudio de esquilo ou robô? Aprenda a usar novo recurso de voz do Instagram](https://canaltech.com.br/apps/audio-de-esquilo-ou-robo-aprenda-a-usar-novo-recurso-de-voz-do-instagram/) | topico: agentes | score: 100
-- [Netflix compra empresa de IA de Ben Affleck e acende alerta em Hollywood](https://canaltech.com.br/entretenimento/netflix-compra-empresa-de-ia-de-ben-affleck-e-acende-alerta-em-hollywood/) | topico: geral | score: 92
-- [Clair Obscur lidera indicações no BAFTA Game Awards 2026! Veja todos os indicados](https://www.tecmundo.com.br/voxel/503766-clair-obscur-lidera-indicacoes-no-bafta-game-awards-2026-veja-todos-os-indicados.htm) | topico: geral | score: 100
-- [Mais vendidos do Magazine Luiza com desconto: TVs, geladeiras, smartphones e mais](https://www.tecmundo.com.br/guia-de-compras/411589-mais-vendidos-do-magazine-luiza-com-desconto-tvs-geladeiras-smartphones-e-mais.htm) | topico: produtividade-dev | score: 92
-- [Mercado de PCs deve ter declínio de 11% em 2026](https://www.tecmundo.com.br/mercado/411583-mercado-de-pcs-deve-ter-declinio-de-11-em-2026.htm) | topico: geral | score: 100
-- [Interpol prende 94 pessoas em operação global contra golpes e fraudes](https://www.tecmundo.com.br/seguranca/411590-interpol-prende-94-pessoas-em-operacao-global-contra-golpes-e-fraudes.htm) | topico: geral | score: 100
-- [Onde assistir Se Eu Tivesse Pernas, Eu te Chutaria? Conheça filme indicado ao Oscar](https://www.tecmundo.com.br/minha-serie/603372-onde-assistir-se-eu-tivesse-pernas-eu-te-chutaria-conheca-filme-indicado-ao-oscar.htm) | topico: geral | score: 92
-- [EA FC 26, Spider-Man 2 e mais jogos de PS5 até 68% OFF na Semana do Consumidor Amazon](https://www.tecmundo.com.br/voxel/503762-ea-fc-26-spider-man-2-e-mais-jogos-de-ps5-ate-68-off-na-semana-do-consumidor-amazon.htm) | topico: geral | score: 92
-- [Adapta cria ecossistema de softwares adaptáveis para PMEs e anuncia aquisição](https://www.tecmundo.com.br/mercado/411330-adapta-cria-ecossistema-de-softwares-adaptaveis-para-pmes-e-anuncia-aquisicao.htm) | topico: geral | score: 100
-- [China aprova pela 1ª vez no mundo dispositivo médico com interface cérebro-computador](https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/china-aprova-pela-1-vez-no-mundo-dispositivo-medico-com-interface-cerebro-computador.htm) | topico: geral | score: 100
-- [BYD lançará carro elétrico premium na Europa que pode ser recarregado em minutos](https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/byd-lancara-carro-eletrico-premium-na-europa-que-pode-ser-recarregado-em-minutos.htm) | topico: geral | score: 100
-- [UE certifica tecnologia veicular de direção assistida da Geely](https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/ue-certifica-tecnologia-veicular-de-direcao-assistida-da-geely.htm) | topico: geral | score: 100
+- [Motorola Razr 60 Ultra (1 TB) tem oferta histórica às vésperas do Dia do Consumidor](https://tecnoblog.net/achados/motorola-razr-60-ultra-1-tb-tem-oferta-historica-as-vesperas-do-dia-do-consumidor/) | topico: produtividade-dev | score: 100
+- [O que é modelo OSI? Entenda as camadas da arquitetura padrão para redes](https://tecnoblog.net/responde/o-que-e-o-modelo-osi/) | topico: geral | score: 92
+- [GFiber se separa do Google e vira empresa independente](https://tecnoblog.net/noticias/gfiber-se-separa-do-google-e-vira-empresa-independente/) | topico: geral | score: 92
+- [Samsung Galaxy Book 4 com Core i7 tem 39% OFF em oferta na Semana do Consumidor](https://tecnoblog.net/achados/samsung-galaxy-book-4-com-core-i7-tem-39-off-em-oferta-na-semana-do-consumidor/) | topico: geral | score: 100
+- [Decepção? Teste de internet do Windows 11 é só um atalho do Bing](https://tecnoblog.net/noticias/decepcao-teste-de-internet-do-windows-11-e-so-um-atalho-do-bing/) | topico: agentes | score: 100
+- [Por que é quase impossível derrubar grandes sites piratas da internet?](https://canaltech.com.br/seguranca/por-que-e-quase-impossivel-derrubar-grandes-sites-piratas-da-internet/) | topico: geral | score: 100
+- [Microsoft quer trazer jogos do Xbox 360 para o PC de "um jeito diferente"](https://canaltech.com.br/games/microsoft-quer-trazer-jogos-do-xbox-360-para-o-pc-de-um-jeito-diferente/) | topico: geral | score: 100
+- [Diablo IV e Killing Floor 3 são os jogos grátis do fim de semana; veja lista](https://canaltech.com.br/games/diablo-iv-e-killing-floor-3-sao-os-jogos-gratis-do-fim-de-semana-veja-lista/) | topico: geral | score: 100
+- [Chevrolet libera recarga grátis para carros elétricos de todas as marcas](https://canaltech.com.br/carros/chevrolet-libera-recarga-gratis-para-carros-eletricos-de-todas-as-marcas/) | topico: infra-ia | score: 100
+- [Asteroide detectado dias atrás passou pertinho da Terra — e você nem viu](https://canaltech.com.br/espaco/asteroide-detectado-dias-atras-passou-pertinho-da-terra-e-voce-nem-viu/) | topico: produtividade-dev | score: 92
+- [Quanto você economiza trazendo um PS5 Slim do Paraguai? Nós fizemos as contas](https://canaltech.com.br/games/quanto-voce-economiza-trazendo-um-ps5-slim-do-paraguai-nos-fizemos-as-contas/) | topico: geral | score: 92
+- [BMW lança hub digital no Brasil para impulsionar inovação nas Américas](https://canaltech.com.br/carros/bmw-lanca-hub-digital-no-brasil-para-impulsionar-inovacao-nas-americas/) | topico: geral | score: 100
+- [O cerco se fecha: Anna's Archive perde mais um domínio](https://canaltech.com.br/seguranca/o-cerco-se-fecha-annas-archive-perde-mais-um-dominio/) | topico: geral | score: 100
+- [Motorola Edge 70 Crystals by Swarovski cai muito de preço em promoção do Magalu](https://canaltech.com.br/smartphone/motorola-edge-70-crystals-by-swarovski-cai-muito-de-preco-em-promocao-do-magalu/) | topico: geral | score: 100
+- [Novo smartwatch da Xiaomi tem design refinado e caixa em inox; veja fotos](https://canaltech.com.br/produtos/novo-smartwatch-da-xiaomi-tem-design-refinado-e-caixa-em-inox-veja-fotos/) | topico: geral | score: 100
+- [Celulares e acessórios de grandes marcas com até 30% OFF na Shopee; confira oportunidades](https://www.tecmundo.com.br/guia-de-compras/411587-celulares-e-acessorios-de-grandes-marcas-com-ate-30-off-na-shopee-confira-oportunidades.htm) | topico: produtividade-dev | score: 92
+- [Samsung passa a listar apps compatíveis com conexão via satélite](https://www.tecmundo.com.br/produto/411591-samsung-passa-a-listar-apps-compativeis-com-conexao-via-satelite.htm) | topico: seguranca-ia | score: 100
+- [Riot bloqueia League of Legends e mais jogos para menores de 18 anos no Brasil](https://www.tecmundo.com.br/voxel/503774-riot-bloqueia-league-of-legends-e-mais-jogos-para-menores-de-18-anos-no-brasil.htm) | topico: geral | score: 100
+- [A Lei Felca pode bloquear o Linux no Brasil?](https://www.tecmundo.com.br/seguranca/411604-a-lei-felca-pode-bloquear-o-linux-no-brasil.htm) | topico: geral | score: 100
+- [Vem processo? Casa Branca usa jogos da Nintendo para promover guerra](https://www.tecmundo.com.br/voxel/503767-vem-processo-casa-branca-usa-jogos-da-nintendo-para-promover-guerra.htm) | topico: geral | score: 100
+- [Monitores Samsung, LG e mais com desconto no Mercado Livre; confira as oportunidades](https://www.tecmundo.com.br/guia-de-compras/411600-monitores-samsung-lg-e-mais-com-desconto-no-mercado-livre-confira-as-oportunidades.htm) | topico: geral | score: 100
+- [WhatsApp testa nova aba dedicada para o Meta AI em versão beta do app](https://www.tecmundo.com.br/software/411584-whatsapp-testa-nova-aba-dedicada-para-o-meta-ai-em-versao-beta-do-app.htm) | topico: seguranca-ia | score: 100
+- [Cansado de deslizar o dedo? Tinder aposta em IA para relações 'relevantes'](https://www.uol.com.br/tilt/noticias/afp/2026/03/13/cansado-de-deslizar-o-dedo-tinder-aposta-em-ia-para-relacoes-relevantes.htm) | topico: geral | score: 100
+- [Musk afasta mais fundadores da xAI insatisfeito com esforço de codificação de IA, diz FT](https://www.uol.com.br/tilt/noticias/reuters/2026/03/13/musk-afasta-mais-fundadores-da-xai-insatisfeito-com-esforco-de-codificacao-de-ia-diz-ft.htm) | topico: geral | score: 100
