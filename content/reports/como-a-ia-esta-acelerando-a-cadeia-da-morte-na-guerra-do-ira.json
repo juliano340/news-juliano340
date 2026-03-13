@@ -1,6 +1,6 @@
 {
-  "slug": "kit-hacker-coruna-apple-corrige-falhas-em-iphones-antigos-apos-ataques",
-  "generated_at": "2026-03-13T01:02:10.038Z",
+  "slug": "como-a-ia-esta-acelerando-a-cadeia-da-morte-na-guerra-do-ira",
+  "generated_at": "2026-03-13T01:03:07.187Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 297,
+      "words": 262,
       "min": 220
     },
     {

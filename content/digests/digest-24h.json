@@ -1,106 +1,34 @@
 {
-  "generated_at": "2026-03-12T23:11:56.214Z",
+  "generated_at": "2026-03-13T01:03:08.190Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 11,
+  "total": 3,
   "posts": [
     {
-      "title": "Motorola Edge 70 já tem mais de R$ 700 OFF em oferta na Semana do Consumidor",
-      "slug": "motorola-edge-70-ja-tem-mais-de-rdollar-700-off-em-oferta-na-semana-do-consumidor",
+      "title": "Nintendo Switch 2 entra em promoção com cupom na Semana do Consumidor",
+      "slug": "nintendo-switch-2-entra-em-promocao-com-cupom-na-semana-do-consumidor",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-12T22:15:48.000Z",
-      "editorial_score": 85,
-      "original_url": "https://tecnoblog.net/achados/motorola-edge-70-ja-tem-mais-de-r-700-off-em-oferta-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Microsoft anuncia Copilot Health para ajudar usuários com questões médicas",
-      "slug": "microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-12T19:40:45.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/microsoft-anuncia-copilot-health-para-ajudar-usuarios-com-questoes-medicas/"
-    },
-    {
-      "title": "Remake saiu, estúdio caiu: Ballistic Moon, de Until Dawn, fecha as portas de vez",
-      "slug": "remake-saiu-estudio-caiu-ballistic-moon-de-until-dawn-fecha-as-portas-de-vez",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-12T21:20:00.000Z",
+      "date": "2026-03-12T21:14:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/remake-saiu-estudio-caiu-ballistic-moon-de-until-dawn-fecha-as-portas-de-vez/"
+      "original_url": "https://tecnoblog.net/achados/nintendo-switch-2-entra-em-promocao-com-cupom-na-semana-do-consumidor/"
     },
     {
-      "title": "Operação desmantela grupo que vendia armas feitas em impressoras 3D",
-      "slug": "operacao-desmantela-grupo-que-vendia-armas-feitas-em-impressoras-3d",
+      "title": "'Kit Hacker Coruna\": Apple corrige falhas em iPhones antigos após ataques",
+      "slug": "kit-hacker-coruna-apple-corrige-falhas-em-iphones-antigos-apos-ataques",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-12T23:00:00.000Z",
+      "date": "2026-03-12T22:20:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411567-operacao-desmantela-grupo-que-vendia-armas-feitas-em-impressoras-3d.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411570-kit-hacker-coruna-apple-corrige-falhas-em-iphones-antigos-apos-ataques.htm"
     },
     {
-      "title": "Death Stranding 2 e mais games de PS5 e PS4 com até 90% OFF",
-      "slug": "death-stranding-2-e-mais-games-de-ps5-e-ps4-com-ate-90percent-off",
+      "title": "Como a IA está acelerando a 'cadeia da morte' na guerra do Irã",
+      "slug": "como-a-ia-esta-acelerando-a-cadeia-da-morte-na-guerra-do-ira",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T22:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503763-death-stranding-2-e-mais-games-de-ps5-e-ps4-com-ate-90-off.htm"
-    },
-    {
-      "title": "Justiça ordena Stone a reintegrar funcionários demitidos em layoff",
-      "slug": "justica-ordena-stone-a-reintegrar-funcionarios-demitidos-em-layoff",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T22:10:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-12T23:42:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411575-justica-ordena-stone-a-reintegrar-funcionarios-demitidos-em-layoff.htm"
-    },
-    {
-      "title": "Guerra dos chips: por que a venda de GPUs para IA virou política",
-      "slug": "guerra-dos-chips-por-que-a-venda-de-gpus-para-ia-virou-politica",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411481-guerra-dos-chips-por-que-a-venda-de-gpus-para-ia-virou-politica.htm"
-    },
-    {
-      "title": "O desafio de desaprender na era da IA",
-      "slug": "o-desafio-de-desaprender-na-era-da-ia",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T21:50:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411576-o-desafio-de-desaprender-na-era-da-ia.htm"
-    },
-    {
-      "title": "Falha em plugin do WordPress expõe 400 mil sites a ataques cibernéticos",
-      "slug": "falha-em-plugin-do-wordpress-expoe-400-mil-sites-a-ataques-ciberneticos",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T21:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411559-falha-em-plugin-do-wordpress-expoe-400-mil-sites-a-ataques-ciberneticos.htm"
-    },
-    {
-      "title": "N8N: falhas críticas expõem mais de 100 mil usuários a cibercriminosos",
-      "slug": "n8n-falhas-criticas-expoem-mais-de-100-mil-usuarios-a-cibercriminosos",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T21:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411566-n8n-falhas-criticas-expoem-mais-de-100-mil-usuarios-a-cibercriminosos.htm"
-    },
-    {
-      "title": "Quem são os novos personagens de One Piece? Confira elenco da temporada 2",
-      "slug": "quem-sao-os-novos-personagens-de-one-piece-confira-elenco-da-temporada-2",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-12T21:15:36.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603374-quem-sao-os-novos-personagens-de-one-piece-confira-elenco-da-temporada-2.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/12/como-a-ia-esta-acelerando-a-cadeia-da-morte-na-guerra-do-ira.htm"
     }
   ]
 }
