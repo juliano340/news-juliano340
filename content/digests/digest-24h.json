@@ -1,34 +1,61 @@
 {
-  "generated_at": "2026-03-13T09:03:45.530Z",
+  "generated_at": "2026-03-13T11:02:54.617Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 6,
   "posts": [
     {
-      "title": "O que é Physical AI e por que ela pode mudar a indústria",
-      "slug": "o-que-e-physical-ai-e-por-que-ela-pode-mudar-a-industria",
+      "title": "O que é Physical AI? Conheça a tecnologia que controla robôs e fábricas",
+      "slug": "o-que-e-physical-ai-conheca-a-tecnologia-que-controla-robos-e-fabricas",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-13T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-physical-ai-conheca-a-tecnologia-que-controla-robos-e-fabricas/"
+    },
+    {
+      "title": "Vaza preço do iPhone dobrável; saiba quanto deve custar",
+      "slug": "vaza-preco-do-iphone-dobravel-saiba-quanto-deve-custar",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-13T09:00:00.000Z",
+      "date": "2026-03-13T10:40:22.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/o-que-e-physical-ai-e-por-que-ela-pode-mudar-a-industria-6399/"
+      "original_url": "https://canaltech.com.br/smartphone/vaza-preco-do-iphone-dobravel-saiba-quanto-deve-custar/"
     },
     {
-      "title": "Palpites para Vitória x Atlético-MG: Análises e Onde Assistir (14/03/2026)",
-      "slug": "palpites-para-vitoria-x-atletico-mg-analises-e-onde-assistir-14032026",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-13T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411510-palpites-para-vitoria-x-atletico-mg-analises-e-onde-assistir-14032026.htm"
-    },
-    {
-      "title": "Cientistas encontram fóssil de dinossauro minúsculo e comedor de formigas",
-      "slug": "cientistas-encontram-fossil-de-dinossauro-minusculo-e-comedor-de-formigas",
+      "title": "O que significam as novas luzes nos carros da Fórmula 1 2026?",
+      "slug": "o-que-significam-as-novas-luzes-nos-carros-da-formula-1-2026",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-13T08:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-13T09:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/13/dinossauro-minusculo-ajuda-cientistas-a-desvendar-misterios-da-evolucao.htm"
+      "original_url": "https://canaltech.com.br/carros/o-que-significam-as-novas-luzes-nos-carros-da-formula-1-2026/"
+    },
+    {
+      "title": "Quais são os arcos de One Piece Temporada 2? Veja como continuar no anime e no mangá",
+      "slug": "quais-sao-os-arcos-de-one-piece-temporada-2-veja-como-continuar-no-anime-e-no-manga",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603371-quais-sao-os-arcos-de-one-piece-temporada-2-veja-como-continuar-no-anime-e-no-manga.htm"
+    },
+    {
+      "title": "Palpites para Botafogo x Flamengo: Análises e Onde Assistir (14/03/2026)",
+      "slug": "palpites-para-botafogo-x-flamengo-analises-e-onde-assistir-14032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-13T10:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411511-palpites-para-botafogo-x-flamengo-analises-e-onde-assistir-14032026.htm"
+    },
+    {
+      "title": "Rage rooms: 'salas da raiva' voltam a ser trend com aumento de estresse no trabalho",
+      "slug": "rage-rooms-salas-da-raiva-voltam-a-ser-trend-com-aumento-de-estresse-no-trabalho",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T09:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/mercado/411562-rage-rooms-salas-da-raiva-voltam-a-ser-trend-com-aumento-de-estresse-no-trabalho.htm"
     }
   ]
 }
