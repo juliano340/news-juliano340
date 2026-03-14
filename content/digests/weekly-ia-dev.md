@@ -1,9 +1,9 @@
 # Weekly IA para Devs - 2026-03-14
 
-Gerado em 2026-03-14T21:03:44.148Z
+Gerado em 2026-03-14T23:03:33.799Z
 
-- [O perigo dos stalkerwares: por que esse tipo de app coloca usuários em risco](https://canaltech.com.br/seguranca/o-perigo-dos-stalkerwares-por-que-esse-tipo-de-app-coloca-usuarios-em-risco/) | topico: geral | score: 100
-- [Qual é o melhor celular até R$ 2.500 para comprar em março de 2026?](https://canaltech.com.br/smartphone/qual-e-o-melhor-celular-ate-r-2500-para-comprar-em-2026/) | topico: geral | score: 100
-- [6 dicas para cuidar da visão ao passar horas no celular](https://canaltech.com.br/smartphone/6-dicas-para-cuidar-da-visao-ao-passar-horas-no-celular/) | topico: geral | score: 100
-- [Resident Evil Requiem já tem mod de Leon tatuado e mais! Veja destaques](https://www.tecmundo.com.br/voxel/503734-resident-evil-requiem-ja-tem-mod-de-leon-tatuado-e-mais-veja-destaques.htm) | topico: geral | score: 85
-- [8 mistérios que Outlander precisa responder na última temporada](https://www.tecmundo.com.br/minha-serie/603377-8-misterios-que-outlander-precisa-responder-na-ultima-temporada.htm) | topico: geral | score: 100
+- [Sequestro ou destruição total? Entenda a diferença entre ransomware e wiper](https://canaltech.com.br/seguranca/sequestro-ou-destruicao-total-entenda-a-diferenca-entre-ransomware-e-wiper/) | topico: geral | score: 100
+- [Toyota, GM, Nissan e VW jogam preços no chão para limpar estoques](https://canaltech.com.br/carros/toyota-gm-nissan-e-vw-jogam-precos-no-chao-para-limpar-estoques/) | topico: geral | score: 100
+- [Framboesa de Ouro anuncia vencedores e Brasil fica sem prêmio! Confira os piores filmes do ano](https://www.tecmundo.com.br/minha-serie/603384-framboesa-de-ouro-anuncia-vencedores-e-brasil-fica-sem-premio-confira-os-piores-filmes-do-ano.htm) | topico: geral | score: 92
+- [8 jogos de criação e construção no estilo Minecraft](https://www.tecmundo.com.br/voxel/503457-8-jogos-de-criacao-e-construcao-no-estilo-minecraft.htm) | topico: geral | score: 100
+- [Família de sucesso: conheça os filhos famosos de Stellan Skarsgård](https://www.tecmundo.com.br/minha-serie/603343-familia-de-sucesso-conheca-os-filhos-famosos-de-stellan-skarsgard.htm) | topico: geral | score: 92
