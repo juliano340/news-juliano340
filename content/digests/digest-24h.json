@@ -1,70 +1,43 @@
 {
-  "generated_at": "2026-03-14T17:05:05.259Z",
+  "generated_at": "2026-03-14T19:03:50.302Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 4,
   "posts": [
     {
-      "title": "Ela passava 16 horas no Instagram. Agora, um júri vai decidir se a Meta e o Google têm culpa nisso",
-      "slug": "ela-passava-16-horas-no-instagram-agora-um-juri-vai-decidir-se-a-meta-e-o-google-tem-culpa-nisso",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-14T16:21:38.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/14/ela-passava-16-horas-no-instagram-agora-um-juri-vai-decidir-se-a-meta-e-o-google-tem-culpa-nisso.ghtml"
-    },
-    {
-      "title": "Câmbio de dupla embreagem: o que é, como funciona e por que divide opiniões",
-      "slug": "cambio-de-dupla-embreagem-o-que-e-como-funciona-e-por-que-divide-opinioes",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-14T17:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/cambio-de-dupla-embreagem-o-que-e-como-funciona-e-por-que-divide-opinioes/"
-    },
-    {
-      "title": "8 comandos mais úteis da Alexa para quem ama música e filmes",
-      "slug": "8-comandos-mais-uteis-da-alexa-para-quem-ama-musica-e-filmes",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-14T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/casa-conectada/8-comandos-mais-uteis-da-alexa-para-quem-ama-musica-e-filmes/"
-    },
-    {
-      "title": "Quando Virgin River Temporada 8 será lançada? Saiba tudo sobre o futuro da série",
-      "slug": "quando-virgin-river-temporada-8-sera-lancada-saiba-tudo-sobre-o-futuro-da-serie",
+      "title": "'Agente do caos': bot autônomo realiza ataques em larga escala no GitHub",
+      "slug": "agente-do-caos-bot-autonomo-realiza-ataques-em-larga-escala-no-github",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-14T16:45:00.000Z",
+      "date": "2026-03-14T18:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411602-agente-do-caos-bot-autonomo-realiza-ataques-em-larga-escala-no-github.htm"
+    },
+    {
+      "title": "Xbox Game Pass recebe Cyberpunk 2077 e mais jogos esta semana! Confira os lançamentos (14)",
+      "slug": "xbox-game-pass-recebe-cyberpunk-2077-e-mais-jogos-esta-semana-confira-os-lancamentos-14",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-14T17:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503773-xbox-game-pass-recebe-cyberpunk-2077-e-mais-jogos-esta-semana-confira-os-lancamentos-14.htm"
+    },
+    {
+      "title": "Jovem Sherlock possui conexão com os filmes de Robert Downey Jr.? Entenda",
+      "slug": "jovem-sherlock-possui-conexao-com-os-filmes-de-robert-downey-jr-entenda",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-14T17:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603379-quando-virgin-river-temporada-8-sera-lancada-saiba-tudo-sobre-o-futuro-da-serie.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603285-jovem-sherlock-possui-conexao-com-os-filmes-de-robert-downey-jr-entenda.htm"
     },
     {
-      "title": "Como o Steam Machine vai rodar os jogos? Valve define especificações mínimas de qualidade para verificar games",
-      "slug": "como-o-steam-machine-vai-rodar-os-jogos-valve-define-especificacoes-minimas-de-qualidade-para-verificar-games",
+      "title": "ByteDance suspende lançamento de modelo de IA de vídeo após disputas de direitos autorais, diz The Information",
+      "slug": "bytedance-suspende-lancamento-de-modelo-de-ia-de-video-apos-disputas-de-direitos-autorais-diz-the-information",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T16:15:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-14T18:53:26.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503756-como-o-steam-machine-vai-rodar-os-jogos-valve-define-especificacoes-minimas-de-qualidade-para-verificar-games.htm"
-    },
-    {
-      "title": "Quem é O Agente Secreto? Entenda o nome do filme brasileiro indicado ao Oscar",
-      "slug": "quem-e-o-agente-secreto-entenda-o-nome-do-filme-brasileiro-indicado-ao-oscar",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T15:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603381-quem-e-o-agente-secreto-entenda-o-nome-do-filme-brasileiro-indicado-ao-oscar.htm"
-    },
-    {
-      "title": "Smartwatches, celulares e mais promoções da Huawei na Shopee",
-      "slug": "smartwatches-celulares-e-mais-promocoes-da-huawei-na-shopee",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T15:06:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411617-smartwatches-celulares-e-mais-promocoes-da-huawei-na-shopee.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/14/bytedance-suspende-lancamento-de-modelo-de-ia-de-video-apos-disputas-de-direitos-autorais-diz-the-information.htm"
     }
   ]
 }
