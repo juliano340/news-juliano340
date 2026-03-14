@@ -1,16 +1,70 @@
 {
-  "generated_at": "2026-03-14T03:00:36.053Z",
+  "generated_at": "2026-03-14T09:03:41.087Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 7,
   "posts": [
     {
-      "title": "Magalu faz queima de iPhone 16; modelo da Apple está com preço no chão",
-      "slug": "magalu-faz-queima-de-iphone-16-modelo-da-apple-esta-com-preco-no-chao",
+      "title": "Por que os celulares estão ganhando baterias cada vez maiores?",
+      "slug": "por-que-os-celulares-estao-ganhando-baterias-cada-vez-maiores",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-14T01:00:46.000Z",
+      "date": "2026-03-14T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/magalu-faz-queima-de-iphone-16-modelo-da-apple-esta-com-preco-no-chao/"
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/por-que-os-celulares-estao-ganhando-baterias-cada-vez-maiores-6403/"
+    },
+    {
+      "title": "Como funciona o Amazon Now, com entregas de 15 minutos?",
+      "slug": "como-funciona-o-amazon-now-com-entregas-de-15-minutos",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-14T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-funciona-o-amazon-now-com-entregas-de-15-minutos/"
+    },
+    {
+      "title": "Palpites para Fluminense x Athletico-PR: Análises e Onde Assistir (15/03/2026)",
+      "slug": "palpites-para-fluminense-x-athletico-pr-analises-e-onde-assistir-15032026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-14T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411571-palpites-para-fluminense-x-athletico-pr-analises-e-onde-assistir-15032026.htm"
+    },
+    {
+      "title": "Anthropic x Trump: quem decide os limites éticos da IA na guerra?",
+      "slug": "anthropic-x-trump-quem-decide-os-limites-eticos-da-ia-na-guerra",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-14T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/03/14/anthropic-x-trump-quem-decide-os-limites-eticos-da-ia-na-guerra.htm"
+    },
+    {
+      "title": "IA aprendeu com a Wikipédia, mas agora ameaça a existência da enciclopédia",
+      "slug": "ia-aprendeu-com-a-wikipedia-mas-agora-ameaca-a-existencia-da-enciclopedia",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-14T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/14/ia-aprendeu-com-a-wikipedia-mas-agora-ameaca-a-existencia-da-enciclopedia.htm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (14)? Veja calendário lunar de março de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-14-veja-calendario-lunar-de-marco-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-14T08:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/14/qual-e-a-fase-da-lua-hoje-14-veja-calendario-lunar-de-marco-de-2026.htm"
+    },
+    {
+      "title": "Estudo confirma que asteroide criou cratera e megatsunami na Inglaterra",
+      "slug": "estudo-confirma-que-asteroide-criou-cratera-e-megatsunami-na-inglaterra",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-14T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/14/por-que-essa-cratera-se-formou-no-fundo-do-mar-estudo-desvenda-misterio.htm"
     }
   ]
 }
