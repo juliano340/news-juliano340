@@ -1,61 +1,70 @@
 {
-  "generated_at": "2026-03-14T11:03:58.917Z",
+  "generated_at": "2026-03-14T13:04:23.301Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 7,
   "posts": [
     {
-      "title": "Jovi explica como alcança 7.200 mAh sem depender de silício-carbono",
-      "slug": "jovi-explica-como-alcanca-7200-mah-sem-depender-de-silicio-carbono",
+      "title": "Qual eletrodoméstico mais consome energia em casa? Ranking real",
+      "slug": "qual-eletrodomestico-mais-consome-energia-em-casa-ranking-real",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-14T11:00:00.000Z",
+      "date": "2026-03-14T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/jovi-explica-como-alcanca-7200-mah-sem-depender-de-silicio-carbono/"
+      "original_url": "https://canaltech.com.br/eletro/qual-eletrodomestico-mais-consome-energia-em-casa-ranking-real/"
     },
     {
-      "title": "Por que você fica “feio” nas selfies tiradas com seu celular? Saiba o que fazer",
-      "slug": "por-que-voce-fica-feio-nas-selfies-tiradas-com-seu-celular-saiba-o-que-fazer",
+      "title": "5 carros automáticos baratos para comprar em 2026",
+      "slug": "5-carros-automaticos-baratos-para-comprar-em-2026",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-14T12:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/5-carros-automaticos-baratos-para-comprar-em-2026/"
+    },
+    {
+      "title": "Quanto tempo um celular leva para ficar obsoleto de verdade?",
+      "slug": "quanto-tempo-um-celular-leva-para-ficar-obsoleto-de-verdade",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-14T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/por-que-voce-fica-feio-nas-selfies-tiradas-com-seu-celular-saiba-o-que-fazer/"
-    },
-    {
-      "title": "'Dumbphones' permitem usar aplicativos como o WhatsApp? Entenda",
-      "slug": "dumbphones-permitem-usar-aplicativos-como-o-whatsapp-entenda",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-14T10:30:00.000Z",
+      "date": "2026-03-14T12:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/dumbphones-permitem-usar-aplicativos-como-o-whatsapp-entenda/"
+      "original_url": "https://canaltech.com.br/smartphone/quanto-tempo-um-celular-leva-para-ficar-obsoleto-de-verdade/"
     },
     {
-      "title": "10 apps em oferta na Play Store por tempo limitado",
-      "slug": "10-apps-em-oferta-na-play-store-por-tempo-limitado",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-14T10:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/10-apps-em-oferta-na-play-store-por-tempo-limitado/"
-    },
-    {
-      "title": "Spotify recomendando música ruim? Novo recurso pode acabar com isso",
-      "slug": "spotify-recomendando-musica-ruim-novo-recurso-pode-acabar-com-isso",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-14T09:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/spotify-recomendando-musica-ruim-novo-recurso-pode-acabar-com-isso/"
-    },
-    {
-      "title": "Palpites para Bragantino x São Paulo: Análises e Onde Assistir (15/03/2026)",
-      "slug": "palpites-para-bragantino-x-sao-paulo-analises-e-onde-assistir-15032026",
-      "topic": "seguranca-ia",
+      "title": "Quando Zootopia 3 será lançado? Veja o que esperar do próximo filme",
+      "slug": "quando-zootopia-3-sera-lancado-veja-o-que-esperar-do-proximo-filme",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-14T11:00:00.000Z",
+      "date": "2026-03-14T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603382-quando-zootopia-3-sera-lancado-veja-o-que-esperar-do-proximo-filme.htm"
+    },
+    {
+      "title": "Que fim levou o Picasa, popular programa de guardar fotos dos anos 2000?",
+      "slug": "que-fim-levou-o-picasa-popular-programa-de-guardar-fotos-dos-anos-2000",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-14T12:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411572-palpites-para-bragantino-x-sao-paulo-analises-e-onde-assistir-15032026.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411451-que-fim-levou-o-picasa-popular-programa-de-guardar-fotos-dos-anos-2000.htm"
+    },
+    {
+      "title": "5 jogos grátis para curtir o fim de semana no PC, consoles e dispositivos móveis (14)",
+      "slug": "5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-14",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-14T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503775-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-14.htm"
+    },
+    {
+      "title": "Governo Trump deve receber R$ 53 bilhões por acordo do TikTok, diz jornal",
+      "slug": "governo-trump-deve-receber-rdollar-53-bilhoes-por-acordo-do-tiktok-diz-jornal",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-14T12:14:06.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/14/governo-trump-vai-receber-taxa-de-us-10-bi-em-acordo-do-tiktok-diz-jornal.htm"
     }
   ]
 }
