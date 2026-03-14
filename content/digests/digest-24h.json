@@ -1,88 +1,70 @@
 {
-  "generated_at": "2026-03-14T15:05:50.431Z",
+  "generated_at": "2026-03-14T17:05:05.259Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 7,
   "posts": [
     {
-      "title": "Câmera e microfone ligados sozinhos? Como saber se o seu PC está sendo espionado",
-      "slug": "camera-e-microfone-ligados-sozinhos-como-saber-se-o-seu-pc-esta-sendo-espionado",
+      "title": "Ela passava 16 horas no Instagram. Agora, um júri vai decidir se a Meta e o Google têm culpa nisso",
+      "slug": "ela-passava-16-horas-no-instagram-agora-um-juri-vai-decidir-se-a-meta-e-o-google-tem-culpa-nisso",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-14T15:00:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-14T16:21:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/camera-e-microfone-ligados-sozinhos-como-saber-se-o-seu-pc-esta-sendo-espionado/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/14/ela-passava-16-horas-no-instagram-agora-um-juri-vai-decidir-se-a-meta-e-o-google-tem-culpa-nisso.ghtml"
     },
     {
-      "title": "6 motivos para usar fone de ouvido \"sem borrachinha\"",
-      "slug": "6-motivos-para-usar-fone-de-ouvido-sem-borrachinha",
+      "title": "Câmbio de dupla embreagem: o que é, como funciona e por que divide opiniões",
+      "slug": "cambio-de-dupla-embreagem-o-que-e-como-funciona-e-por-que-divide-opinioes",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-14T14:00:00.000Z",
+      "date": "2026-03-14T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/fone-de-ouvido/6-motivos-para-usar-fone-de-ouvido-sem-borrachinha/"
+      "original_url": "https://canaltech.com.br/carros/cambio-de-dupla-embreagem-o-que-e-como-funciona-e-por-que-divide-opinioes/"
     },
     {
-      "title": "microSD barato é falso? Como identificar antes e depois de comprar",
-      "slug": "microsd-barato-e-falso-como-identificar-antes-e-depois-de-comprar",
+      "title": "8 comandos mais úteis da Alexa para quem ama música e filmes",
+      "slug": "8-comandos-mais-uteis-da-alexa-para-quem-ama-musica-e-filmes",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-14T13:30:00.000Z",
+      "date": "2026-03-14T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/microsd-barato-e-falso-como-identificar-antes-e-depois-de-comprar/"
+      "original_url": "https://canaltech.com.br/casa-conectada/8-comandos-mais-uteis-da-alexa-para-quem-ama-musica-e-filmes/"
     },
     {
-      "title": "Como desativar recursos de IA no Windows 11",
-      "slug": "como-desativar-recursos-de-ia-no-windows-11",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-14T11:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/como-desativar-recursos-de-ia-no-windows-11/"
-    },
-    {
-      "title": "Aniversário da Netshoes tem até 80% OFF em novas ofertas e cupom de desconto",
-      "slug": "aniversario-da-netshoes-tem-ate-80percent-off-em-novas-ofertas-e-cupom-de-desconto",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-14T14:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411609-aniversario-da-netshoes-tem-ate-80-off-em-novas-ofertas-e-cupom-de-desconto.htm"
-    },
-    {
-      "title": "Dead Space e mais jogos para PC com até 95% OFF na Steam",
-      "slug": "dead-space-e-mais-jogos-para-pc-com-ate-95percent-off-na-steam",
+      "title": "Quando Virgin River Temporada 8 será lançada? Saiba tudo sobre o futuro da série",
+      "slug": "quando-virgin-river-temporada-8-sera-lancada-saiba-tudo-sobre-o-futuro-da-serie",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-14T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503780-dead-space-e-mais-jogos-para-pc-com-ate-95-off-na-steam.htm"
-    },
-    {
-      "title": "A evolução da carreira de Sean Penn até Uma Batalha Após a Outra",
-      "slug": "a-evolucao-da-carreira-de-sean-penn-ate-uma-batalha-apos-a-outra",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T13:45:00.000Z",
+      "date": "2026-03-14T16:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603314-a-evolucao-da-carreira-de-sean-penn-ate-uma-batalha-apos-a-outra.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603379-quando-virgin-river-temporada-8-sera-lancada-saiba-tudo-sobre-o-futuro-da-serie.htm"
     },
     {
-      "title": "Review: Marathon testa seus limites e paciência, mas com grande estilo",
-      "slug": "review-marathon-testa-seus-limites-e-paciencia-mas-com-grande-estilo",
+      "title": "Como o Steam Machine vai rodar os jogos? Valve define especificações mínimas de qualidade para verificar games",
+      "slug": "como-o-steam-machine-vai-rodar-os-jogos-valve-define-especificacoes-minimas-de-qualidade-para-verificar-games",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-14T13:15:00.000Z",
+      "date": "2026-03-14T16:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503769-review-marathon-testa-seus-limites-e-paciencia-mas-com-grande-estilo.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503756-como-o-steam-machine-vai-rodar-os-jogos-valve-define-especificacoes-minimas-de-qualidade-para-verificar-games.htm"
     },
     {
-      "title": "Semana do Consumidor na Amazon tem livros em promoção para renovar sua estante",
-      "slug": "semana-do-consumidor-na-amazon-tem-livros-em-promocao-para-renovar-sua-estante",
-      "topic": "frameworks",
+      "title": "Quem é O Agente Secreto? Entenda o nome do filme brasileiro indicado ao Oscar",
+      "slug": "quem-e-o-agente-secreto-entenda-o-nome-do-filme-brasileiro-indicado-ao-oscar",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-14T13:07:00.000Z",
+      "date": "2026-03-14T15:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603381-quem-e-o-agente-secreto-entenda-o-nome-do-filme-brasileiro-indicado-ao-oscar.htm"
+    },
+    {
+      "title": "Smartwatches, celulares e mais promoções da Huawei na Shopee",
+      "slug": "smartwatches-celulares-e-mais-promocoes-da-huawei-na-shopee",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-14T15:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411596-semana-do-consumidor-na-amazon-tem-livros-em-promocao-para-renovar-sua-estante.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411617-smartwatches-celulares-e-mais-promocoes-da-huawei-na-shopee.htm"
     }
   ]
 }

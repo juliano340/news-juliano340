@@ -1,13 +1,11 @@
 # Weekly IA para Devs - 2026-03-14
 
-Gerado em 2026-03-14T15:05:50.431Z
+Gerado em 2026-03-14T17:05:05.259Z
 
-- [Câmera e microfone ligados sozinhos? Como saber se o seu PC está sendo espionado](https://canaltech.com.br/seguranca/camera-e-microfone-ligados-sozinhos-como-saber-se-o-seu-pc-esta-sendo-espionado/) | topico: geral | score: 100
-- [6 motivos para usar fone de ouvido "sem borrachinha"](https://canaltech.com.br/fone-de-ouvido/6-motivos-para-usar-fone-de-ouvido-sem-borrachinha/) | topico: produtividade-dev | score: 100
-- [microSD barato é falso? Como identificar antes e depois de comprar](https://canaltech.com.br/hardware/microsd-barato-e-falso-como-identificar-antes-e-depois-de-comprar/) | topico: geral | score: 100
-- [Como desativar recursos de IA no Windows 11](https://canaltech.com.br/software/como-desativar-recursos-de-ia-no-windows-11/) | topico: llms | score: 100
-- [Aniversário da Netshoes tem até 80% OFF em novas ofertas e cupom de desconto](https://www.tecmundo.com.br/guia-de-compras/411609-aniversario-da-netshoes-tem-ate-80-off-em-novas-ofertas-e-cupom-de-desconto.htm) | topico: produtividade-dev | score: 100
-- [Dead Space e mais jogos para PC com até 95% OFF na Steam](https://www.tecmundo.com.br/voxel/503780-dead-space-e-mais-jogos-para-pc-com-ate-95-off-na-steam.htm) | topico: geral | score: 100
-- [A evolução da carreira de Sean Penn até Uma Batalha Após a Outra](https://www.tecmundo.com.br/minha-serie/603314-a-evolucao-da-carreira-de-sean-penn-ate-uma-batalha-apos-a-outra.htm) | topico: geral | score: 92
-- [Review: Marathon testa seus limites e paciência, mas com grande estilo](https://www.tecmundo.com.br/voxel/503769-review-marathon-testa-seus-limites-e-paciencia-mas-com-grande-estilo.htm) | topico: geral | score: 100
-- [Semana do Consumidor na Amazon tem livros em promoção para renovar sua estante](https://www.tecmundo.com.br/guia-de-compras/411596-semana-do-consumidor-na-amazon-tem-livros-em-promocao-para-renovar-sua-estante.htm) | topico: frameworks | score: 100
+- [Ela passava 16 horas no Instagram. Agora, um júri vai decidir se a Meta e o Google têm culpa nisso](https://g1.globo.com/tecnologia/noticia/2026/03/14/ela-passava-16-horas-no-instagram-agora-um-juri-vai-decidir-se-a-meta-e-o-google-tem-culpa-nisso.ghtml) | topico: geral | score: 100
+- [Câmbio de dupla embreagem: o que é, como funciona e por que divide opiniões](https://canaltech.com.br/carros/cambio-de-dupla-embreagem-o-que-e-como-funciona-e-por-que-divide-opinioes/) | topico: produtividade-dev | score: 100
+- [8 comandos mais úteis da Alexa para quem ama música e filmes](https://canaltech.com.br/casa-conectada/8-comandos-mais-uteis-da-alexa-para-quem-ama-musica-e-filmes/) | topico: geral | score: 100
+- [Quando Virgin River Temporada 8 será lançada? Saiba tudo sobre o futuro da série](https://www.tecmundo.com.br/minha-serie/603379-quando-virgin-river-temporada-8-sera-lancada-saiba-tudo-sobre-o-futuro-da-serie.htm) | topico: geral | score: 92
+- [Como o Steam Machine vai rodar os jogos? Valve define especificações mínimas de qualidade para verificar games](https://www.tecmundo.com.br/voxel/503756-como-o-steam-machine-vai-rodar-os-jogos-valve-define-especificacoes-minimas-de-qualidade-para-verificar-games.htm) | topico: geral | score: 100
+- [Quem é O Agente Secreto? Entenda o nome do filme brasileiro indicado ao Oscar](https://www.tecmundo.com.br/minha-serie/603381-quem-e-o-agente-secreto-entenda-o-nome-do-filme-brasileiro-indicado-ao-oscar.htm) | topico: geral | score: 92
+- [Smartwatches, celulares e mais promoções da Huawei na Shopee](https://www.tecmundo.com.br/guia-de-compras/411617-smartwatches-celulares-e-mais-promocoes-da-huawei-na-shopee.htm) | topico: geral | score: 100
