@@ -1,43 +1,52 @@
 {
-  "generated_at": "2026-03-14T19:03:50.302Z",
+  "generated_at": "2026-03-14T21:03:44.148Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 5,
   "posts": [
     {
-      "title": "'Agente do caos': bot autônomo realiza ataques em larga escala no GitHub",
-      "slug": "agente-do-caos-bot-autonomo-realiza-ataques-em-larga-escala-no-github",
+      "title": "O perigo dos stalkerwares: por que esse tipo de app coloca usuários em risco",
+      "slug": "o-perigo-dos-stalkerwares-por-que-esse-tipo-de-app-coloca-usuarios-em-risco",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T18:30:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-14T21:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411602-agente-do-caos-bot-autonomo-realiza-ataques-em-larga-escala-no-github.htm"
+      "original_url": "https://canaltech.com.br/seguranca/o-perigo-dos-stalkerwares-por-que-esse-tipo-de-app-coloca-usuarios-em-risco/"
     },
     {
-      "title": "Xbox Game Pass recebe Cyberpunk 2077 e mais jogos esta semana! Confira os lançamentos (14)",
-      "slug": "xbox-game-pass-recebe-cyberpunk-2077-e-mais-jogos-esta-semana-confira-os-lancamentos-14",
+      "title": "Qual é o melhor celular até R$ 2.500 para comprar em março de 2026?",
+      "slug": "qual-e-o-melhor-celular-ate-rdollar-2500-para-comprar-em-marco-de-2026",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T17:15:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-14T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503773-xbox-game-pass-recebe-cyberpunk-2077-e-mais-jogos-esta-semana-confira-os-lancamentos-14.htm"
+      "original_url": "https://canaltech.com.br/smartphone/qual-e-o-melhor-celular-ate-r-2500-para-comprar-em-2026/"
     },
     {
-      "title": "Jovem Sherlock possui conexão com os filmes de Robert Downey Jr.? Entenda",
-      "slug": "jovem-sherlock-possui-conexao-com-os-filmes-de-robert-downey-jr-entenda",
+      "title": "6 dicas para cuidar da visão ao passar horas no celular",
+      "slug": "6-dicas-para-cuidar-da-visao-ao-passar-horas-no-celular",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T17:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603285-jovem-sherlock-possui-conexao-com-os-filmes-de-robert-downey-jr-entenda.htm"
+      "source": "Canaltech",
+      "date": "2026-03-14T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/6-dicas-para-cuidar-da-visao-ao-passar-horas-no-celular/"
     },
     {
-      "title": "ByteDance suspende lançamento de modelo de IA de vídeo após disputas de direitos autorais, diz The Information",
-      "slug": "bytedance-suspende-lancamento-de-modelo-de-ia-de-video-apos-disputas-de-direitos-autorais-diz-the-information",
+      "title": "Resident Evil Requiem já tem mod de Leon tatuado e mais! Veja destaques",
+      "slug": "resident-evil-requiem-ja-tem-mod-de-leon-tatuado-e-mais-veja-destaques",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-14T18:53:26.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-14T20:15:00.000Z",
+      "editorial_score": 85,
+      "original_url": "https://www.tecmundo.com.br/voxel/503734-resident-evil-requiem-ja-tem-mod-de-leon-tatuado-e-mais-veja-destaques.htm"
+    },
+    {
+      "title": "8 mistérios que Outlander precisa responder na última temporada",
+      "slug": "8-misterios-que-outlander-precisa-responder-na-ultima-temporada",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-14T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/14/bytedance-suspende-lancamento-de-modelo-de-ia-de-video-apos-disputas-de-direitos-autorais-diz-the-information.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603377-8-misterios-que-outlander-precisa-responder-na-ultima-temporada.htm"
     }
   ]
 }

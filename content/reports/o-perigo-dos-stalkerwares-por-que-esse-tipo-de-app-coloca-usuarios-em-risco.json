@@ -1,6 +1,6 @@
 {
-  "slug": "6-dicas-para-cuidar-da-visao-ao-passar-horas-no-celular",
-  "generated_at": "2026-03-14T21:02:13.415Z",
+  "slug": "o-perigo-dos-stalkerwares-por-que-esse-tipo-de-app-coloca-usuarios-em-risco",
+  "generated_at": "2026-03-14T21:00:44.251Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 252,
+      "words": 357,
       "min": 220
     },
     {

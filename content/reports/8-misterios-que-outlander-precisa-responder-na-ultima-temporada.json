@@ -1,6 +1,6 @@
 {
-  "slug": "6-dicas-para-cuidar-da-visao-ao-passar-horas-no-celular",
-  "generated_at": "2026-03-14T21:02:13.415Z",
+  "slug": "8-misterios-que-outlander-precisa-responder-na-ultima-temporada",
+  "generated_at": "2026-03-14T21:03:41.939Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 252,
+      "words": 394,
       "min": 220
     },
     {
