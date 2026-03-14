@@ -1,61 +1,16 @@
 {
-  "generated_at": "2026-03-14T01:02:28.013Z",
+  "generated_at": "2026-03-14T03:00:36.053Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 1,
   "posts": [
     {
-      "title": "Meta planeja demissões em massa em meio ao aumento de custos com IA, diz agência",
-      "slug": "meta-planeja-demissoes-em-massa-em-meio-ao-aumento-de-custos-com-ia-diz-agencia",
-      "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-14T00:29:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/13/meta-empregos-custos-ia.ghtml"
-    },
-    {
-      "title": "Claude ganha “lousa” para dar explicações com desenhos e diagramas",
-      "slug": "claude-ganha-lousa-para-dar-explicacoes-com-desenhos-e-diagramas",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T22:32:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/claude-ganha-lousa-para-dar-explicacoes-com-desenhos-e-diagramas/"
-    },
-    {
-      "title": "Sem explicação, Instagram vai encerrar criptografia de ponta a ponta nas DMs",
-      "slug": "sem-explicacao-instagram-vai-encerrar-criptografia-de-ponta-a-ponta-nas-dms",
+      "title": "Magalu faz queima de iPhone 16; modelo da Apple está com preço no chão",
+      "slug": "magalu-faz-queima-de-iphone-16-modelo-da-apple-esta-com-preco-no-chao",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T00:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-14T01:00:46.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411621-sem-explicacao-instagram-vai-encerrar-criptografia-de-ponta-a-ponta-nas-dms.htm"
-    },
-    {
-      "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (13)",
-      "slug": "steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T23:15:42.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503772-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13.htm"
-    },
-    {
-      "title": "Como é a bateria do Galaxy S26 Ultra na vida real? Eu fiz o teste por uma semana",
-      "slug": "como-e-a-bateria-do-galaxy-s26-ultra-na-vida-real-eu-fiz-o-teste-por-uma-semana",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-13T22:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411622-como-e-a-bateria-do-galaxy-s26-ultra-na-vida-real-eu-fiz-o-teste-por-uma-semana.htm"
-    },
-    {
-      "title": "Samsung pode ter prejuízo com celulares pela 1ª vez",
-      "slug": "samsung-pode-ter-prejuizo-com-celulares-pela-1a-vez",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T21:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411610-samsung-pode-ter-prejuizo-com-celulares-pela-1-vez.htm"
+      "original_url": "https://canaltech.com.br/smartphone/magalu-faz-queima-de-iphone-16-modelo-da-apple-esta-com-preco-no-chao/"
     }
   ]
 }
