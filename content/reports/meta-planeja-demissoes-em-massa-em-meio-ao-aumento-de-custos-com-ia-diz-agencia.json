@@ -1,6 +1,6 @@
 {
-  "slug": "claude-ganha-lousa-para-dar-explicacoes-com-desenhos-e-diagramas",
-  "generated_at": "2026-03-14T01:00:52.886Z",
+  "slug": "meta-planeja-demissoes-em-massa-em-meio-ao-aumento-de-custos-com-ia-diz-agencia",
+  "generated_at": "2026-03-14T01:00:23.262Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 360,
+      "words": 341,
       "min": 220
     },
     {

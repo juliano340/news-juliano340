@@ -1,6 +1,6 @@
 {
-  "slug": "claude-ganha-lousa-para-dar-explicacoes-com-desenhos-e-diagramas",
-  "generated_at": "2026-03-14T01:00:52.886Z",
+  "slug": "steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13",
+  "generated_at": "2026-03-14T01:01:45.041Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 360,
+      "words": 266,
       "min": 220
     },
     {

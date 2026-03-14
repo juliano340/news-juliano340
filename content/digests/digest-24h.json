@@ -1,133 +1,61 @@
 {
-  "generated_at": "2026-03-13T23:07:42.912Z",
+  "generated_at": "2026-03-14T01:02:28.013Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 14,
+  "total": 6,
   "posts": [
     {
-      "title": "Smart TV LG QNED 55″ tem 24% OFF em até 10x com cupom na Semana do Consumidor",
-      "slug": "smart-tv-lg-qned-55-tem-24percent-off-em-ate-10x-com-cupom-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T21:44:32.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/smart-tv-lg-qned-55-tem-24-off-em-ate-10x-com-cupom-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Galaxy Tab S11 (256 GB) fica 33% mais barato às vésperas do Dia do Consumidor",
-      "slug": "galaxy-tab-s11-256-gb-fica-33percent-mais-barato-as-vesperas-do-dia-do-consumidor",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T21:24:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s11-256-gb-fica-33-mais-barato-as-vesperas-do-dia-do-consumidor/"
-    },
-    {
-      "title": "Galaxy S26 (512 GB) recebe desconto incrível de 41% na Semana do Consumidor",
-      "slug": "galaxy-s26-512-gb-recebe-desconto-incrivel-de-41percent-na-semana-do-consumidor",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-13T21:24:12.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s26-512-gb-recebe-desconto-incrivel-de-41-na-semana-do-consumidor/"
-    },
-    {
-      "title": "Comprar carro no Paraguai sai mais barato que no Brasil? Fizemos as contas",
-      "slug": "comprar-carro-no-paraguai-sai-mais-barato-que-no-brasil-fizemos-as-contas",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-13T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/comprar-carro-no-paraguai-sai-mais-barato-que-no-brasil-fizemos-as-contas/"
-    },
-    {
-      "title": "Qual é o ar-condicionado de 9.000 BTU mais econômico do Brasil em 2026?",
-      "slug": "qual-e-o-ar-condicionado-de-9000-btu-mais-economico-do-brasil-em-2026",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-13T21:58:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/qual-e-o-ar-condicionado-de-9000-btu-mais-economico-do-brasil-em-2026/"
-    },
-    {
-      "title": "The Witcher 4 e Control Resonant serão vitrine de novas tecnologias da NVIDIA",
-      "slug": "the-witcher-4-e-control-resonant-serao-vitrine-de-novas-tecnologias-da-nvidia",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-13T21:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/the-witcher-4-e-control-resonant-serao-vitrine-de-novas-tecnologias-da-nvidia/"
-    },
-    {
-      "title": "Mulheres têm mais rejeição a IAs no trabalho que homens, indica pesquisa",
-      "slug": "mulheres-tem-mais-rejeicao-a-ias-no-trabalho-que-homens-indica-pesquisa",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T23:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411612-mulheres-tem-mais-rejeicao-a-ias-no-trabalho-que-homens-indica-pesquisa.htm"
-    },
-    {
-      "title": "SocksEscort: operação derruba rede usada por criminosos",
-      "slug": "socksescort-operacao-derruba-rede-usada-por-criminosos",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T22:40:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411597-socksescort-operacao-derruba-rede-usada-por-criminosos.htm"
-    },
-    {
-      "title": "Mario + Rabbids Sparks of Hope e mais jogos para Switch com até 90% OFF na eShop",
-      "slug": "mario-rabbids-sparks-of-hope-e-mais-jogos-para-switch-com-ate-90percent-off-na-eshop",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T22:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503779-mario-rabbids-sparks-of-hope-e-mais-jogos-para-switch-com-ate-90-off-na-eshop.htm"
-    },
-    {
-      "title": "Slopoly: vírus gerado por IA é utilizado em sequestro de dados",
-      "slug": "slopoly-virus-gerado-por-ia-e-utilizado-em-sequestro-de-dados",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T22:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411606-slopoly-virus-gerado-por-ia-e-utilizado-em-sequestro-de-dados.htm"
-    },
-    {
-      "title": "Segurança e IA: o lado perigoso da autonomia de agentes de IA",
-      "slug": "seguranca-e-ia-o-lado-perigoso-da-autonomia-de-agentes-de-ia",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411414-seguranca-e-ia-o-lado-perigoso-da-autonomia-de-agentes-de-ia.htm"
-    },
-    {
-      "title": "Testei o Galaxy S26 Ultra com tela privada: celular dita futuro da Samsung, mas é bom?",
-      "slug": "testei-o-galaxy-s26-ultra-com-tela-privada-celular-dita-futuro-da-samsung-mas-e-bom",
+      "title": "Meta planeja demissões em massa em meio ao aumento de custos com IA, diz agência",
+      "slug": "meta-planeja-demissoes-em-massa-em-meio-ao-aumento-de-custos-com-ia-diz-agencia",
       "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-13T21:45:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-14T00:29:52.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411605-testei-o-galaxy-s26-ultra-com-tela-privada-celular-dita-futuro-da-samsung-mas-e-bom.htm"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/13/meta-empregos-custos-ia.ghtml"
     },
     {
-      "title": "O fim das DMs privadas: Instagram encerrará criptografia de ponta a ponta",
-      "slug": "o-fim-das-dms-privadas-instagram-encerrara-criptografia-de-ponta-a-ponta",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-13T21:20:00.000Z",
+      "title": "Claude ganha “lousa” para dar explicações com desenhos e diagramas",
+      "slug": "claude-ganha-lousa-para-dar-explicacoes-com-desenhos-e-diagramas",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-03-13T22:32:43.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411613-o-fim-das-dms-privadas-instagram-encerrara-criptografia-de-ponta-a-ponta.htm"
+      "original_url": "https://tecnoblog.net/noticias/claude-ganha-lousa-para-dar-explicacoes-com-desenhos-e-diagramas/"
     },
     {
-      "title": "O que aconteceu com Faith Fraser? Temporada 8 de Outlander traz respostas",
-      "slug": "o-que-aconteceu-com-faith-fraser-temporada-8-de-outlander-traz-respostas",
+      "title": "Sem explicação, Instagram vai encerrar criptografia de ponta a ponta nas DMs",
+      "slug": "sem-explicacao-instagram-vai-encerrar-criptografia-de-ponta-a-ponta-nas-dms",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-13T21:15:11.000Z",
+      "date": "2026-03-14T00:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411621-sem-explicacao-instagram-vai-encerrar-criptografia-de-ponta-a-ponta-nas-dms.htm"
+    },
+    {
+      "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (13)",
+      "slug": "steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T23:15:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503772-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-13.htm"
+    },
+    {
+      "title": "Como é a bateria do Galaxy S26 Ultra na vida real? Eu fiz o teste por uma semana",
+      "slug": "como-e-a-bateria-do-galaxy-s26-ultra-na-vida-real-eu-fiz-o-teste-por-uma-semana",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-13T22:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411622-como-e-a-bateria-do-galaxy-s26-ultra-na-vida-real-eu-fiz-o-teste-por-uma-semana.htm"
+    },
+    {
+      "title": "Samsung pode ter prejuízo com celulares pela 1ª vez",
+      "slug": "samsung-pode-ter-prejuizo-com-celulares-pela-1a-vez",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-13T21:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603350-o-que-aconteceu-com-faith-fraser-temporada-8-de-outlander-traz-respostas.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411610-samsung-pode-ter-prejuizo-com-celulares-pela-1-vez.htm"
     }
   ]
 }
