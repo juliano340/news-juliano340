@@ -1,6 +1,6 @@
 {
-  "slug": "como-desativar-recursos-de-ia-no-windows-11",
-  "generated_at": "2026-03-14T15:03:17.904Z",
+  "slug": "6-motivos-para-usar-fone-de-ouvido-sem-borrachinha",
+  "generated_at": "2026-03-14T15:01:29.295Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 273,
+      "words": 285,
       "min": 220
     },
     {

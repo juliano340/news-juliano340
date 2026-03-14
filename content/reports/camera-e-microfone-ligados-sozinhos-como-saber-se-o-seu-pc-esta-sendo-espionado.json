@@ -1,6 +1,6 @@
 {
-  "slug": "como-desativar-recursos-de-ia-no-windows-11",
-  "generated_at": "2026-03-14T15:03:17.904Z",
+  "slug": "camera-e-microfone-ligados-sozinhos-como-saber-se-o-seu-pc-esta-sendo-espionado",
+  "generated_at": "2026-03-14T15:01:06.453Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 273,
+      "words": 411,
       "min": 220
     },
     {

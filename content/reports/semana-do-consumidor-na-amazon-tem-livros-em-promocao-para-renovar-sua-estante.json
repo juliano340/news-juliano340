@@ -1,6 +1,6 @@
 {
-  "slug": "como-desativar-recursos-de-ia-no-windows-11",
-  "generated_at": "2026-03-14T15:03:17.904Z",
+  "slug": "semana-do-consumidor-na-amazon-tem-livros-em-promocao-para-renovar-sua-estante",
+  "generated_at": "2026-03-14T15:05:48.236Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 273,
+      "words": 303,
       "min": 220
     },
     {

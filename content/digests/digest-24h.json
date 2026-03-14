@@ -1,70 +1,88 @@
 {
-  "generated_at": "2026-03-14T13:04:23.301Z",
+  "generated_at": "2026-03-14T15:05:50.431Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 9,
   "posts": [
     {
-      "title": "Qual eletrodoméstico mais consome energia em casa? Ranking real",
-      "slug": "qual-eletrodomestico-mais-consome-energia-em-casa-ranking-real",
+      "title": "Câmera e microfone ligados sozinhos? Como saber se o seu PC está sendo espionado",
+      "slug": "camera-e-microfone-ligados-sozinhos-como-saber-se-o-seu-pc-esta-sendo-espionado",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-14T13:00:00.000Z",
+      "date": "2026-03-14T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/qual-eletrodomestico-mais-consome-energia-em-casa-ranking-real/"
+      "original_url": "https://canaltech.com.br/seguranca/camera-e-microfone-ligados-sozinhos-como-saber-se-o-seu-pc-esta-sendo-espionado/"
     },
     {
-      "title": "5 carros automáticos baratos para comprar em 2026",
-      "slug": "5-carros-automaticos-baratos-para-comprar-em-2026",
+      "title": "6 motivos para usar fone de ouvido \"sem borrachinha\"",
+      "slug": "6-motivos-para-usar-fone-de-ouvido-sem-borrachinha",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-14T12:30:00.000Z",
+      "date": "2026-03-14T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/5-carros-automaticos-baratos-para-comprar-em-2026/"
+      "original_url": "https://canaltech.com.br/fone-de-ouvido/6-motivos-para-usar-fone-de-ouvido-sem-borrachinha/"
     },
     {
-      "title": "Quanto tempo um celular leva para ficar obsoleto de verdade?",
-      "slug": "quanto-tempo-um-celular-leva-para-ficar-obsoleto-de-verdade",
+      "title": "microSD barato é falso? Como identificar antes e depois de comprar",
+      "slug": "microsd-barato-e-falso-como-identificar-antes-e-depois-de-comprar",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-14T12:00:00.000Z",
+      "date": "2026-03-14T13:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/quanto-tempo-um-celular-leva-para-ficar-obsoleto-de-verdade/"
+      "original_url": "https://canaltech.com.br/hardware/microsd-barato-e-falso-como-identificar-antes-e-depois-de-comprar/"
     },
     {
-      "title": "Quando Zootopia 3 será lançado? Veja o que esperar do próximo filme",
-      "slug": "quando-zootopia-3-sera-lancado-veja-o-que-esperar-do-proximo-filme",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T12:15:00.000Z",
+      "title": "Como desativar recursos de IA no Windows 11",
+      "slug": "como-desativar-recursos-de-ia-no-windows-11",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-14T11:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603382-quando-zootopia-3-sera-lancado-veja-o-que-esperar-do-proximo-filme.htm"
+      "original_url": "https://canaltech.com.br/software/como-desativar-recursos-de-ia-no-windows-11/"
     },
     {
-      "title": "Que fim levou o Picasa, popular programa de guardar fotos dos anos 2000?",
-      "slug": "que-fim-levou-o-picasa-popular-programa-de-guardar-fotos-dos-anos-2000",
+      "title": "Aniversário da Netshoes tem até 80% OFF em novas ofertas e cupom de desconto",
+      "slug": "aniversario-da-netshoes-tem-ate-80percent-off-em-novas-ofertas-e-cupom-de-desconto",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-14T12:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411451-que-fim-levou-o-picasa-popular-programa-de-guardar-fotos-dos-anos-2000.htm"
+      "date": "2026-03-14T14:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411609-aniversario-da-netshoes-tem-ate-80-off-em-novas-ofertas-e-cupom-de-desconto.htm"
     },
     {
-      "title": "5 jogos grátis para curtir o fim de semana no PC, consoles e dispositivos móveis (14)",
-      "slug": "5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-14",
+      "title": "Dead Space e mais jogos para PC com até 95% OFF na Steam",
+      "slug": "dead-space-e-mais-jogos-para-pc-com-ate-95percent-off-na-steam",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-14T11:15:00.000Z",
+      "date": "2026-03-14T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503775-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-14.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503780-dead-space-e-mais-jogos-para-pc-com-ate-95-off-na-steam.htm"
     },
     {
-      "title": "Governo Trump deve receber R$ 53 bilhões por acordo do TikTok, diz jornal",
-      "slug": "governo-trump-deve-receber-rdollar-53-bilhoes-por-acordo-do-tiktok-diz-jornal",
+      "title": "A evolução da carreira de Sean Penn até Uma Batalha Após a Outra",
+      "slug": "a-evolucao-da-carreira-de-sean-penn-ate-uma-batalha-apos-a-outra",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-14T12:14:06.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-14T13:45:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/14/governo-trump-vai-receber-taxa-de-us-10-bi-em-acordo-do-tiktok-diz-jornal.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603314-a-evolucao-da-carreira-de-sean-penn-ate-uma-batalha-apos-a-outra.htm"
+    },
+    {
+      "title": "Review: Marathon testa seus limites e paciência, mas com grande estilo",
+      "slug": "review-marathon-testa-seus-limites-e-paciencia-mas-com-grande-estilo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-14T13:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503769-review-marathon-testa-seus-limites-e-paciencia-mas-com-grande-estilo.htm"
+    },
+    {
+      "title": "Semana do Consumidor na Amazon tem livros em promoção para renovar sua estante",
+      "slug": "semana-do-consumidor-na-amazon-tem-livros-em-promocao-para-renovar-sua-estante",
+      "topic": "frameworks",
+      "source": "Tecmundo",
+      "date": "2026-03-14T13:07:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411596-semana-do-consumidor-na-amazon-tem-livros-em-promocao-para-renovar-sua-estante.htm"
     }
   ]
 }

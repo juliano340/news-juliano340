@@ -1,11 +1,13 @@
 # Weekly IA para Devs - 2026-03-14
 
-Gerado em 2026-03-14T13:04:23.301Z
+Gerado em 2026-03-14T15:05:50.431Z
 
-- [Qual eletrodoméstico mais consome energia em casa? Ranking real](https://canaltech.com.br/eletro/qual-eletrodomestico-mais-consome-energia-em-casa-ranking-real/) | topico: geral | score: 100
-- [5 carros automáticos baratos para comprar em 2026](https://canaltech.com.br/carros/5-carros-automaticos-baratos-para-comprar-em-2026/) | topico: produtividade-dev | score: 100
-- [Quanto tempo um celular leva para ficar obsoleto de verdade?](https://canaltech.com.br/smartphone/quanto-tempo-um-celular-leva-para-ficar-obsoleto-de-verdade/) | topico: geral | score: 100
-- [Quando Zootopia 3 será lançado? Veja o que esperar do próximo filme](https://www.tecmundo.com.br/minha-serie/603382-quando-zootopia-3-sera-lancado-veja-o-que-esperar-do-proximo-filme.htm) | topico: geral | score: 100
-- [Que fim levou o Picasa, popular programa de guardar fotos dos anos 2000?](https://www.tecmundo.com.br/produto/411451-que-fim-levou-o-picasa-popular-programa-de-guardar-fotos-dos-anos-2000.htm) | topico: produtividade-dev | score: 92
-- [5 jogos grátis para curtir o fim de semana no PC, consoles e dispositivos móveis (14)](https://www.tecmundo.com.br/voxel/503775-5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-dispositivos-moveis-14.htm) | topico: geral | score: 100
-- [Governo Trump deve receber R$ 53 bilhões por acordo do TikTok, diz jornal](https://www.uol.com.br/tilt/noticias/redacao/2026/03/14/governo-trump-vai-receber-taxa-de-us-10-bi-em-acordo-do-tiktok-diz-jornal.htm) | topico: geral | score: 92
+- [Câmera e microfone ligados sozinhos? Como saber se o seu PC está sendo espionado](https://canaltech.com.br/seguranca/camera-e-microfone-ligados-sozinhos-como-saber-se-o-seu-pc-esta-sendo-espionado/) | topico: geral | score: 100
+- [6 motivos para usar fone de ouvido "sem borrachinha"](https://canaltech.com.br/fone-de-ouvido/6-motivos-para-usar-fone-de-ouvido-sem-borrachinha/) | topico: produtividade-dev | score: 100
+- [microSD barato é falso? Como identificar antes e depois de comprar](https://canaltech.com.br/hardware/microsd-barato-e-falso-como-identificar-antes-e-depois-de-comprar/) | topico: geral | score: 100
+- [Como desativar recursos de IA no Windows 11](https://canaltech.com.br/software/como-desativar-recursos-de-ia-no-windows-11/) | topico: llms | score: 100
+- [Aniversário da Netshoes tem até 80% OFF em novas ofertas e cupom de desconto](https://www.tecmundo.com.br/guia-de-compras/411609-aniversario-da-netshoes-tem-ate-80-off-em-novas-ofertas-e-cupom-de-desconto.htm) | topico: produtividade-dev | score: 100
+- [Dead Space e mais jogos para PC com até 95% OFF na Steam](https://www.tecmundo.com.br/voxel/503780-dead-space-e-mais-jogos-para-pc-com-ate-95-off-na-steam.htm) | topico: geral | score: 100
+- [A evolução da carreira de Sean Penn até Uma Batalha Após a Outra](https://www.tecmundo.com.br/minha-serie/603314-a-evolucao-da-carreira-de-sean-penn-ate-uma-batalha-apos-a-outra.htm) | topico: geral | score: 92
+- [Review: Marathon testa seus limites e paciência, mas com grande estilo](https://www.tecmundo.com.br/voxel/503769-review-marathon-testa-seus-limites-e-paciencia-mas-com-grande-estilo.htm) | topico: geral | score: 100
+- [Semana do Consumidor na Amazon tem livros em promoção para renovar sua estante](https://www.tecmundo.com.br/guia-de-compras/411596-semana-do-consumidor-na-amazon-tem-livros-em-promocao-para-renovar-sua-estante.htm) | topico: frameworks | score: 100
