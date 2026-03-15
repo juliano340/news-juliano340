@@ -1,7 +1,8 @@
 # Weekly IA para Devs - 2026-03-15
 
-Gerado em 2026-03-15T09:03:15.359Z
+Gerado em 2026-03-15T11:02:23.129Z
 
-- [O que é GPT-5.4? Conheça o modelo usado no ChatGPT](https://canaltech.com.br/apps/o-que-e-gpt-54-conheca-o-modelo-usado-no-chatgpt/) | topico: llms | score: 100
-- [Qual é a fase da Lua hoje (15)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/15/qual-e-a-fase-da-lua-hoje-15-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 92
-- [TSE cria 'lei seca da IA' e aperta o cerco contra plataformas nas eleições](https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/03/15/tse-cria-lei-seca-da-ia-e-aperta-o-cerco-contra-plataformas-nas-eleicoes.htm) | topico: geral | score: 100
+- [Xbox Helix: o futuro da Microsoft está nos consoles ou no PC?](https://canaltech.com.br/games/xbox-helix-o-futuro-da-microsoft-esta-nos-consoles-ou-no-pc/) | topico: geral | score: 100
+- [Como usar o reinício por inatividade para proteger celulares Samsung](https://canaltech.com.br/apps/como-usar-o-reinicio-por-inatividade-para-proteger-celulares-samsung/) | topico: agentes | score: 100
+- ['Detox de IA': entenda por que pessoas estão se afastando da tecnologia](https://canaltech.com.br/inteligencia-artificial/detox-de-ia-entenda-por-que-pessoas-estao-se-afastando-da-tecnologia/) | topico: llms | score: 100
+- [Palpites para Chapecoense x Grêmio: Análises e Onde Assistir (16/03/2026)](https://www.tecmundo.com.br/apostas/411574-palpites-para-chapecoense-x-gremio-analises-e-onde-assistir-16032026.htm) | topico: produtividade-dev | score: 92

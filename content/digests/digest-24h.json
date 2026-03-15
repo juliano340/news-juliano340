@@ -1,34 +1,43 @@
 {
-  "generated_at": "2026-03-15T09:03:15.359Z",
+  "generated_at": "2026-03-15T11:02:23.129Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 4,
   "posts": [
     {
-      "title": "O que é GPT-5.4? Conheça o modelo usado no ChatGPT",
-      "slug": "o-que-e-gpt-54-conheca-o-modelo-usado-no-chatgpt",
+      "title": "Xbox Helix: o futuro da Microsoft está nos consoles ou no PC?",
+      "slug": "xbox-helix-o-futuro-da-microsoft-esta-nos-consoles-ou-no-pc",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-15T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/xbox-helix-o-futuro-da-microsoft-esta-nos-consoles-ou-no-pc/"
+    },
+    {
+      "title": "Como usar o reinício por inatividade para proteger celulares Samsung",
+      "slug": "como-usar-o-reinicio-por-inatividade-para-proteger-celulares-samsung",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-15T10:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/como-usar-o-reinicio-por-inatividade-para-proteger-celulares-samsung/"
+    },
+    {
+      "title": "'Detox de IA': entenda por que pessoas estão se afastando da tecnologia",
+      "slug": "detox-de-ia-entenda-por-que-pessoas-estao-se-afastando-da-tecnologia",
       "topic": "llms",
       "source": "Canaltech",
+      "date": "2026-03-15T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/detox-de-ia-entenda-por-que-pessoas-estao-se-afastando-da-tecnologia/"
+    },
+    {
+      "title": "Palpites para Chapecoense x Grêmio: Análises e Onde Assistir (16/03/2026)",
+      "slug": "palpites-para-chapecoense-x-gremio-analises-e-onde-assistir-16032026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
       "date": "2026-03-15T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-que-e-gpt-54-conheca-o-modelo-usado-no-chatgpt/"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (15)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-15-veja-calendario-lunar-de-marco-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-15T08:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/15/qual-e-a-fase-da-lua-hoje-15-veja-calendario-lunar-de-marco-de-2026.htm"
-    },
-    {
-      "title": "TSE cria 'lei seca da IA' e aperta o cerco contra plataformas nas eleições",
-      "slug": "tse-cria-lei-seca-da-ia-e-aperta-o-cerco-contra-plataformas-nas-eleicoes",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-15T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/03/15/tse-cria-lei-seca-da-ia-e-aperta-o-cerco-contra-plataformas-nas-eleicoes.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411574-palpites-para-chapecoense-x-gremio-analises-e-onde-assistir-16032026.htm"
     }
   ]
 }
