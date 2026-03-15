@@ -1,25 +1,34 @@
 {
-  "generated_at": "2026-03-15T01:02:13.496Z",
+  "generated_at": "2026-03-15T09:03:15.359Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 3,
   "posts": [
     {
-      "title": "O que é Qira? Conheça a nova assistente de IA da Lenovo e Motorola",
-      "slug": "o-que-e-qira-conheca-a-nova-assistente-de-ia-da-lenovo-e-motorola",
+      "title": "O que é GPT-5.4? Conheça o modelo usado no ChatGPT",
+      "slug": "o-que-e-gpt-54-conheca-o-modelo-usado-no-chatgpt",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-15T01:00:00.000Z",
+      "date": "2026-03-15T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-que-e-qira-conheca-a-nova-assistente-de-ia-da-lenovo-e-motorola/"
+      "original_url": "https://canaltech.com.br/apps/o-que-e-gpt-54-conheca-o-modelo-usado-no-chatgpt/"
     },
     {
-      "title": "Que horas começa o Oscar 2026? Veja onde assistir",
-      "slug": "que-horas-comeca-o-oscar-2026-veja-onde-assistir",
+      "title": "Qual é a fase da Lua hoje (15)? Veja calendário lunar de março de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-15-veja-calendario-lunar-de-marco-de-2026",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-15T00:00:00.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-15T08:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/15/qual-e-a-fase-da-lua-hoje-15-veja-calendario-lunar-de-marco-de-2026.htm"
+    },
+    {
+      "title": "TSE cria 'lei seca da IA' e aperta o cerco contra plataformas nas eleições",
+      "slug": "tse-cria-lei-seca-da-ia-e-aperta-o-cerco-contra-plataformas-nas-eleicoes",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-15T08:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/que-horas-comeca-o-oscar-2026-veja-onde-assistir/"
+      "original_url": "https://www.uol.com.br/tilt/colunas/carlos-affonso-de-souza/2026/03/15/tse-cria-lei-seca-da-ia-e-aperta-o-cerco-contra-plataformas-nas-eleicoes.htm"
     }
   ]
 }
