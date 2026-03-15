@@ -1,79 +1,70 @@
 {
-  "generated_at": "2026-03-15T13:04:20.867Z",
+  "generated_at": "2026-03-15T15:05:47.412Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 7,
   "posts": [
     {
-      "title": "5 melhores emuladores para jogar GameCube no PC",
-      "slug": "5-melhores-emuladores-para-jogar-gamecube-no-pc",
+      "title": "O que é um celular “intermediário premium”? Entenda se vale a pena comprar",
+      "slug": "o-que-e-um-celular-intermediario-premium-entenda-se-vale-a-pena-comprar",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-15T13:00:00.000Z",
+      "date": "2026-03-15T15:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/melhores-emuladores-para-jogar-gamecube-no-pc/"
+      "original_url": "https://canaltech.com.br/smartphone/o-que-e-um-celular-intermediario-premium-entenda-se-vale-a-pena-comprar/"
     },
     {
-      "title": "Vale trocar smartband por smartwatch? Testamos rotinas reais",
-      "slug": "vale-trocar-smartband-por-smartwatch-testamos-rotinas-reais",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-15T12:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/vale-trocar-smartband-por-smartwatch-testamos-rotinas-reais/"
-    },
-    {
-      "title": "Quais marcas de luxo mais vendem carros no Brasil?",
-      "slug": "quais-marcas-de-luxo-mais-vendem-carros-no-brasil",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-15T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/quais-marcas-de-luxo-mais-vendem-carros-no-brasil/"
-    },
-    {
-      "title": "Armazenamento maior no celular faz diferença? Veja quantos gigas você precisa",
-      "slug": "armazenamento-maior-no-celular-faz-diferenca-veja-quantos-gigas-voce-precisa",
+      "title": "5 dicas para driblar o preço dinâmico dos jogos no PS5",
+      "slug": "5-dicas-para-driblar-o-preco-dinamico-dos-jogos-no-ps5",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-15T11:30:00.000Z",
+      "date": "2026-03-15T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/armazenamento-maior-no-celular-quantos-gigas-precisa/"
+      "original_url": "https://canaltech.com.br/games/dicas-para-driblar-preco-dinamico-jogos-ps5/"
     },
     {
-      "title": "Começou o 15.3 na Shopee: confira ofertas e cupom exclusivo no Dia do Consumidor",
-      "slug": "comecou-o-153-na-shopee-confira-ofertas-e-cupom-exclusivo-no-dia-do-consumidor",
+      "title": "Dia do Consumidor: confira os destaques e onde encontrar as melhores ofertas e cupons",
+      "slug": "dia-do-consumidor-confira-os-destaques-e-onde-encontrar-as-melhores-ofertas-e-cupons",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-15T12:23:54.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411616-comecou-o-153-na-shopee-confira-ofertas-e-cupom-exclusivo-no-dia-do-consumidor.htm"
-    },
-    {
-      "title": "15.3 do Mercado Livre: confira lista com mais de 30 itens e cupons disponíveis",
-      "slug": "153-do-mercado-livre-confira-lista-com-mais-de-30-itens-e-cupons-disponiveis",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-15T12:01:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411620-153-do-mercado-livre-confira-lista-com-mais-de-30-itens-e-cupons-disponiveis.htm"
-    },
-    {
-      "title": "Como os SLMs estão redesenhando a inteligência acadêmica",
-      "slug": "como-os-slms-estao-redesenhando-a-inteligencia-academica",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-15T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411579-como-os-slms-estao-redesenhando-a-inteligencia-academica.htm"
-    },
-    {
-      "title": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (15)",
-      "slug": "epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-15",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-15T11:15:00.000Z",
+      "date": "2026-03-15T15:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503777-epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-15.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411623-dia-do-consumidor-confira-os-destaques-e-onde-encontrar-as-melhores-ofertas-e-cupons.htm"
+    },
+    {
+      "title": "Stellan Skarsgård: a evolução da carreira do ator sueco até Valor Sentimental",
+      "slug": "stellan-skarsgard-a-evolucao-da-carreira-do-ator-sueco-ate-valor-sentimental",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-15T14:45:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603324-stellan-skarsgard-a-evolucao-da-carreira-do-ator-sueco-ate-valor-sentimental.htm"
+    },
+    {
+      "title": "Cyberpunk 2077 de graça, Sekiro baratinho e mais! Veja as indicações de games da semana",
+      "slug": "cyberpunk-2077-de-graca-sekiro-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-15T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503781-cyberpunk-2077-de-graca-sekiro-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana.htm"
+    },
+    {
+      "title": "Michael B. Jordan e Ryan Coogler: conheça a amizade premiada de Hollywood",
+      "slug": "michael-b-jordan-e-ryan-coogler-conheca-a-amizade-premiada-de-hollywood",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-15T13:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603375-michael-b-jordan-e-ryan-coogler-conheca-a-amizade-premiada-de-hollywood.htm"
+    },
+    {
+      "title": "Dia do Consumidor da Amazon: confira as melhores ofertas e cupons",
+      "slug": "dia-do-consumidor-da-amazon-confira-as-melhores-ofertas-e-cupons",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-15T13:12:40.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411586-dia-do-consumidor-da-amazon-confira-as-melhores-ofertas-e-cupons.htm"
     }
   ]
 }
