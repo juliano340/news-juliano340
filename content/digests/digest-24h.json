@@ -1,43 +1,34 @@
 {
-  "generated_at": "2026-03-15T19:04:28.130Z",
+  "generated_at": "2026-03-15T21:02:30.763Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 3,
   "posts": [
     {
-      "title": "Trocar ar-condicionado comum por inverter vale a pena? Veja em quanto tempo paga",
-      "slug": "trocar-ar-condicionado-comum-por-inverter-vale-a-pena-veja-em-quanto-tempo-paga",
-      "topic": "produtividade-dev",
+      "title": "5 celulares mais estranhos que as grandes marcas já lançaram",
+      "slug": "5-celulares-mais-estranhos-que-as-grandes-marcas-ja-lancaram",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-15T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/trocar-ar-condicionado-comum-por-inverter-vale-a-pena-veja-em-quanto-tempo-paga/"
-    },
-    {
-      "title": "9 séries históricas para você que gostou de Outlander",
-      "slug": "9-series-historicas-para-voce-que-gostou-de-outlander",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-15T19:00:00.000Z",
+      "date": "2026-03-15T20:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603365-9-series-historicas-para-voce-que-gostou-de-outlander.htm"
+      "original_url": "https://canaltech.com.br/smartphone/5-celulares-mais-estranhos-que-as-grandes-marcas-ja-lancaram/"
     },
     {
-      "title": "Adobe pagará US$ 75 mi a clientes para encerrar processo de cancelamento de assinaturas",
-      "slug": "adobe-pagara-usdollar-75-mi-a-clientes-para-encerrar-processo-de-cancelamento-de-assinaturas",
+      "title": "Peaky Blinders, Devoradores de Estrelas e mais! Os lançamentos de filmes e séries da semana (15/03)",
+      "slug": "peaky-blinders-devoradores-de-estrelas-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1503",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-15T18:00:00.000Z",
+      "date": "2026-03-15T20:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411618-adobe-pagara-us-75-mi-a-clientes-para-encerrar-processo-de-cancelamento-de-assinaturas.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603351-peaky-blinders-devoradores-de-estrelas-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1503.htm"
     },
     {
-      "title": "10 melhores jogos de luta lançados nos últimos 10 anos",
-      "slug": "10-melhores-jogos-de-luta-lancados-nos-ultimos-10-anos",
+      "title": "Ex-diretor de Overwatch revela jogo no estilo Red Dead em primeira pessoa! Conheça Legend of California",
+      "slug": "ex-diretor-de-overwatch-revela-jogo-no-estilo-red-dead-em-primeira-pessoa-conheca-legend-of-california",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-15T17:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503661-10-melhores-jogos-de-luta-lancados-nos-ultimos-10-anos.htm"
+      "date": "2026-03-15T20:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503770-ex-diretor-de-overwatch-revela-jogo-no-estilo-red-dead-em-primeira-pessoa-conheca-legend-of-california.htm"
     }
   ]
 }

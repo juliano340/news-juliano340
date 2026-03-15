@@ -1,6 +1,6 @@
 {
-  "slug": "todo-site-com-cadeado-e-seguro-entenda-por-ele-nao-garante-protecao",
-  "generated_at": "2026-03-15T21:01:46.645Z",
+  "slug": "golpe-do-captcha-falso-como-funciona-e-como-nao-cair",
+  "generated_at": "2026-03-15T21:00:27.716Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 368,
+      "words": 444,
       "min": 220
     },
     {
