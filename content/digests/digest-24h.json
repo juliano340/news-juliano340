@@ -1,52 +1,25 @@
 {
-  "generated_at": "2026-03-14T23:03:33.799Z",
+  "generated_at": "2026-03-15T01:02:13.496Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 2,
   "posts": [
     {
-      "title": "Sequestro ou destruição total? Entenda a diferença entre ransomware e wiper",
-      "slug": "sequestro-ou-destruicao-total-entenda-a-diferenca-entre-ransomware-e-wiper",
+      "title": "O que é Qira? Conheça a nova assistente de IA da Lenovo e Motorola",
+      "slug": "o-que-e-qira-conheca-a-nova-assistente-de-ia-da-lenovo-e-motorola",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-15T01:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/o-que-e-qira-conheca-a-nova-assistente-de-ia-da-lenovo-e-motorola/"
+    },
+    {
+      "title": "Que horas começa o Oscar 2026? Veja onde assistir",
+      "slug": "que-horas-comeca-o-oscar-2026-veja-onde-assistir",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-14T23:00:00.000Z",
+      "date": "2026-03-15T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/sequestro-ou-destruicao-total-entenda-a-diferenca-entre-ransomware-e-wiper/"
-    },
-    {
-      "title": "Toyota, GM, Nissan e VW jogam preços no chão para limpar estoques",
-      "slug": "toyota-gm-nissan-e-vw-jogam-precos-no-chao-para-limpar-estoques",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-14T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/toyota-gm-nissan-e-vw-jogam-precos-no-chao-para-limpar-estoques/"
-    },
-    {
-      "title": "Framboesa de Ouro anuncia vencedores e Brasil fica sem prêmio! Confira os piores filmes do ano",
-      "slug": "framboesa-de-ouro-anuncia-vencedores-e-brasil-fica-sem-premio-confira-os-piores-filmes-do-ano",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T22:58:54.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603384-framboesa-de-ouro-anuncia-vencedores-e-brasil-fica-sem-premio-confira-os-piores-filmes-do-ano.htm"
-    },
-    {
-      "title": "8 jogos de criação e construção no estilo Minecraft",
-      "slug": "8-jogos-de-criacao-e-construcao-no-estilo-minecraft",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503457-8-jogos-de-criacao-e-construcao-no-estilo-minecraft.htm"
-    },
-    {
-      "title": "Família de sucesso: conheça os filhos famosos de Stellan Skarsgård",
-      "slug": "familia-de-sucesso-conheca-os-filhos-famosos-de-stellan-skarsgard",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-14T21:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603343-familia-de-sucesso-conheca-os-filhos-famosos-de-stellan-skarsgard.htm"
+      "original_url": "https://canaltech.com.br/entretenimento/que-horas-comeca-o-oscar-2026-veja-onde-assistir/"
     }
   ]
 }
