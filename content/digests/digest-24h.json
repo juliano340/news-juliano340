@@ -1,70 +1,52 @@
 {
-  "generated_at": "2026-03-15T15:05:47.412Z",
+  "generated_at": "2026-03-15T17:02:42.684Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 5,
   "posts": [
     {
-      "title": "O que é um celular “intermediário premium”? Entenda se vale a pena comprar",
-      "slug": "o-que-e-um-celular-intermediario-premium-entenda-se-vale-a-pena-comprar",
+      "title": "Como saber se hackers estão usando o seu Google Drive",
+      "slug": "como-saber-se-hackers-estao-usando-o-seu-google-drive",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-15T15:00:00.000Z",
+      "date": "2026-03-15T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/o-que-e-um-celular-intermediario-premium-entenda-se-vale-a-pena-comprar/"
+      "original_url": "https://canaltech.com.br/seguranca/como-saber-se-hackers-estao-usando-o-seu-google-drive/"
     },
     {
-      "title": "5 dicas para driblar o preço dinâmico dos jogos no PS5",
-      "slug": "5-dicas-para-driblar-o-preco-dinamico-dos-jogos-no-ps5",
-      "topic": "geral",
+      "title": "Carros mais eficientes do Brasil gastam menos de R$ 0,10 por km; veja o top 10",
+      "slug": "carros-mais-eficientes-do-brasil-gastam-menos-de-rdollar-010-por-km-veja-o-top-10",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-15T14:00:00.000Z",
+      "date": "2026-03-15T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/dicas-para-driblar-preco-dinamico-jogos-ps5/"
+      "original_url": "https://canaltech.com.br/carros/carros-mais-eficientes-do-brasil-gastam-menos-de-r-010-por-km-veja-o-top-10/"
     },
     {
-      "title": "Dia do Consumidor: confira os destaques e onde encontrar as melhores ofertas e cupons",
-      "slug": "dia-do-consumidor-confira-os-destaques-e-onde-encontrar-as-melhores-ofertas-e-cupons",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-15T15:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411623-dia-do-consumidor-confira-os-destaques-e-onde-encontrar-as-melhores-ofertas-e-cupons.htm"
-    },
-    {
-      "title": "Stellan Skarsgård: a evolução da carreira do ator sueco até Valor Sentimental",
-      "slug": "stellan-skarsgard-a-evolucao-da-carreira-do-ator-sueco-ate-valor-sentimental",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-15T14:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603324-stellan-skarsgard-a-evolucao-da-carreira-do-ator-sueco-ate-valor-sentimental.htm"
-    },
-    {
-      "title": "Cyberpunk 2077 de graça, Sekiro baratinho e mais! Veja as indicações de games da semana",
-      "slug": "cyberpunk-2077-de-graca-sekiro-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-15T14:00:00.000Z",
+      "title": "Por que geladeira dura tanto? Veja como cuidar bem",
+      "slug": "por-que-geladeira-dura-tanto-veja-como-cuidar-bem",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-15T13:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503781-cyberpunk-2077-de-graca-sekiro-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana.htm"
+      "original_url": "https://canaltech.com.br/eletro/por-que-geladeira-dura-tanto-veja-como-cuidar-bem/"
     },
     {
-      "title": "Michael B. Jordan e Ryan Coogler: conheça a amizade premiada de Hollywood",
-      "slug": "michael-b-jordan-e-ryan-coogler-conheca-a-amizade-premiada-de-hollywood",
+      "title": "7 filmes e séries com Rose Byrne, atriz indicada ao Oscar por Se Eu Tivesse Pernas, Eu Te Chutaria",
+      "slug": "7-filmes-e-series-com-rose-byrne-atriz-indicada-ao-oscar-por-se-eu-tivesse-pernas-eu-te-chutaria",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-15T13:15:00.000Z",
+      "date": "2026-03-15T16:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603375-michael-b-jordan-e-ryan-coogler-conheca-a-amizade-premiada-de-hollywood.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603219-7-filmes-e-series-com-rose-byrne-atriz-indicada-ao-oscar-por-se-eu-tivesse-pernas-eu-te-chutaria.htm"
     },
     {
-      "title": "Dia do Consumidor da Amazon: confira as melhores ofertas e cupons",
-      "slug": "dia-do-consumidor-da-amazon-confira-as-melhores-ofertas-e-cupons",
-      "topic": "produtividade-dev",
+      "title": "Slay The Spire 2 será lançado para PS5, Xbox Series X|S e Switch 2?",
+      "slug": "slay-the-spire-2-sera-lancado-para-ps5-xbox-series-xors-e-switch-2",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-15T13:12:40.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411586-dia-do-consumidor-da-amazon-confira-as-melhores-ofertas-e-cupons.htm"
+      "date": "2026-03-15T15:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503745-slay-the-spire-2-sera-lancado-para-ps5-xbox-series-xs-e-switch-2.htm"
     }
   ]
 }

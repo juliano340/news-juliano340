@@ -1,6 +1,6 @@
 {
-  "slug": "por-que-geladeira-dura-tanto-veja-como-cuidar-bem",
-  "generated_at": "2026-03-15T17:01:53.147Z",
+  "slug": "carros-mais-eficientes-do-brasil-gastam-menos-de-rdollar-010-por-km-veja-o-top-10",
+  "generated_at": "2026-03-15T17:01:16.936Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 309,
+      "words": 339,
       "min": 220
     },
     {
