@@ -1,25 +1,52 @@
 {
-  "generated_at": "2026-03-16T01:02:57.361Z",
+  "generated_at": "2026-03-16T03:04:13.059Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 5,
   "posts": [
     {
-      "title": "O que é Google Pomelli? Ferramenta de IA cria artes para marcas",
-      "slug": "o-que-e-google-pomelli-ferramenta-de-ia-cria-artes-para-marcas",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-16T00:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/o-que-e-google-pomelli-ferramenta-de-ia-cria-artes-para-marcas/"
-    },
-    {
-      "title": "O Agente Secreto perde Melhor Elenco no Oscar 2026! Confira o vencedor",
-      "slug": "o-agente-secreto-perde-melhor-elenco-no-oscar-2026-confira-o-vencedor",
+      "title": "O Agente Secreto fica sem prêmios em Oscar dominado por Uma Batalha Após a Outra e Pecadores",
+      "slug": "o-agente-secreto-fica-sem-premios-em-oscar-dominado-por-uma-batalha-apos-a-outra-e-pecadores",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T00:07:55.000Z",
+      "date": "2026-03-16T02:45:59.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603388-o-agente-secreto-perde-melhor-elenco-no-oscar-2026-confira-o-vencedor.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603391-o-agente-secreto-fica-sem-premios-em-oscar-dominado-por-uma-batalha-apos-a-outra-e-pecadores.htm"
+    },
+    {
+      "title": "Wagner Moura perde Oscar de Melhor Ator para Michael B. Jordan, de Pecadores",
+      "slug": "wagner-moura-perde-oscar-de-melhor-ator-para-michael-b-jordan-de-pecadores",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T02:34:12.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603390-wagner-moura-perde-oscar-de-melhor-ator-para-michael-b-jordan-de-pecadores.htm"
+    },
+    {
+      "title": "O Agente Secreto perde Oscar de Melhor Filme Internacional; veja quem levou",
+      "slug": "o-agente-secreto-perde-oscar-de-melhor-filme-internacional-veja-quem-levou",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T02:08:21.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603389-o-agente-secreto-perde-oscar-de-melhor-filme-internacional-veja-quem-levou.htm"
+    },
+    {
+      "title": "Adolpho Veloso perde Melhor Fotografia no Oscar 2026; veja quem levou",
+      "slug": "adolpho-veloso-perde-melhor-fotografia-no-oscar-2026-veja-quem-levou",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T01:56:44.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603393-adolpho-veloso-perde-melhor-fotografia-no-oscar-2026-veja-quem-levou.htm"
+    },
+    {
+      "title": "Oscar 2026 tem empate e pega todos de surpresa! Saiba como foi",
+      "slug": "oscar-2026-tem-empate-e-pega-todos-de-surpresa-saiba-como-foi",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T01:10:52.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603394-oscar-2026-tem-empate-e-pega-todos-de-surpresa-saiba-como-foi.htm"
     }
   ]
 }
