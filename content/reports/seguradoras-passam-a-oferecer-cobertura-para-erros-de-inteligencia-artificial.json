@@ -1,0 +1,19 @@
+{
+  "slug": "seguradoras-passam-a-oferecer-cobertura-para-erros-de-inteligencia-artificial",
+  "generated_at": "2026-03-16T15:00:54.754Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

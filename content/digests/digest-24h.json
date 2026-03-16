@@ -1,88 +1,214 @@
 {
-  "generated_at": "2026-03-16T13:06:40.791Z",
+  "generated_at": "2026-03-16T15:12:07.816Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 23,
   "posts": [
     {
-      "title": "Instagram vai remover importante recurso de privacidade das DMs; entenda",
-      "slug": "instagram-vai-remover-importante-recurso-de-privacidade-das-dms-entenda",
+      "title": "ByteDance suspende lançamento de IA de vídeo após disputas de direitos autorais, diz The Information",
+      "slug": "bytedance-suspende-lancamento-de-ia-de-video-apos-disputas-de-direitos-autorais-diz-the-information",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-16T14:06:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/16/bytedance-suspende-lancamento-de-modelo-de-ia-de-video-apos-disputas-de-direitos-autorais-diz-the-information.ghtml"
+    },
+    {
+      "title": "Galaxy S26 Ultra (512 GB) com nova tela de privacidade tem 32% OFF com cupom",
+      "slug": "galaxy-s26-ultra-512-gb-com-nova-tela-de-privacidade-tem-32percent-off-com-cupom",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T12:59:49.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T14:34:47.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/instagram-vai-remover-importante-recurso-de-privacidade-das-dms-entenda/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-s26-ultra-512-gb-com-nova-tela-de-privacidade-tem-32-off-com-cupom/"
     },
     {
-      "title": "Motorola lança ar-condicionado split com instalação gratuita",
-      "slug": "motorola-lanca-ar-condicionado-split-com-instalacao-gratuita",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-16T12:57:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/motorola-lanca-ar-condicionado-split-com-instalacao-gratuita/"
-    },
-    {
-      "title": "WhatsApp vai deixar você conversar com quem não tem conta no app",
-      "slug": "whatsapp-vai-deixar-voce-conversar-com-quem-nao-tem-conta-no-app",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-16T12:50:00.000Z",
+      "title": "Galaxy S24 Ultra com chip Snapdragon tem melhor preço do ano no AliExpress",
+      "slug": "galaxy-s24-ultra-com-chip-snapdragon-tem-melhor-preco-do-ano-no-aliexpress",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T14:27:46.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/whatsapp-vai-deixar-voce-conversar-com-quem-nao-tem-conta-no-app/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-s24-ultra-com-chip-snapdragon-tem-melhor-preco-do-ano-no-aliexpress/"
     },
     {
-      "title": "\"Rei do custo-benefício\" da Samsung para 2026 vazou; veja o vídeo de hands-on",
-      "slug": "rei-do-custo-beneficio-da-samsung-para-2026-vazou-veja-o-video-de-hands-on",
+      "title": "Galaxy S26 (512 GB) despenca 42% com cupom na Amazon",
+      "slug": "galaxy-s26-512-gb-despenca-42percent-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T13:58:52.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s26-512-gb-despenca-42-com-cupom-na-amazon/"
+    },
+    {
+      "title": "Motorola já pode lançar o dobrável Razr 70 Ultra no Brasil",
+      "slug": "motorola-ja-pode-lancar-o-dobravel-razr-70-ultra-no-brasil",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T13:48:55.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/noticias/motorola-ja-pode-lancar-o-dobravel-razr-70-ultra-no-brasil/"
+    },
+    {
+      "title": "Galaxy S26 Plus (512 GB) já recebe 37% de desconto com cupom na Amazon",
+      "slug": "galaxy-s26-plus-512-gb-ja-recebe-37percent-de-desconto-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T13:25:54.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s26-plus-512-gb-ja-recebe-37-de-desconto-com-cupom-na-amazon/"
+    },
+    {
+      "title": "iPhone 16e em oferta em até 12x sai 42% mais barato que iPhone 17e",
+      "slug": "iphone-16e-em-oferta-em-ate-12x-sai-42percent-mais-barato-que-iphone-17e",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T13:25:48.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-16e-em-oferta-em-ate-12x-sai-42-mais-barato-que-iphone-17e/"
+    },
+    {
+      "title": "Nintendo Switch fica 38% mais barato em promoção no Mercado Livre",
+      "slug": "nintendo-switch-fica-38percent-mais-barato-em-promocao-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T12:56:19.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/nintendo-switch-fica-38-mais-barato-em-promocao-no-mercado-livre/"
+    },
+    {
+      "title": "Claude fora do ar? App tem instabilidade nesta segunda-feira (16)",
+      "slug": "claude-fora-do-ar-app-tem-instabilidade-nesta-segunda-feira-16",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-16T14:49:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/claude-fora-do-ar-app-tem-instabilidade-nesta-segunda-feira-16/"
+    },
+    {
+      "title": "Amazon faz queima de Galaxy S25 FE; topo de linha barato da Samsung",
+      "slug": "amazon-faz-queima-de-galaxy-s25-fe-topo-de-linha-barato-da-samsung",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-16T12:46:08.000Z",
+      "date": "2026-03-16T14:45:44.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/rei-do-custo-beneficio-da-samsung-para-2026-vazou-veja-o-video-de-hands-on/"
+      "original_url": "https://canaltech.com.br/smartphone/amazon-faz-queima-de-galaxy-s25-fe-topo-de-linha-barato-da-samsung/"
     },
     {
-      "title": "Geladeira da Xiaomi chega a –30°C e reduz bactérias; conheça",
-      "slug": "geladeira-da-xiaomi-chega-a-30c-e-reduz-bacterias-conheca",
-      "topic": "produtividade-dev",
+      "title": "Declaração do Imposto de Renda 2026: prazos, regras e o que mudou este ano",
+      "slug": "declaracao-do-imposto-de-renda-2026-prazos-regras-e-o-que-mudou-este-ano",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-16T12:24:00.000Z",
+      "date": "2026-03-16T14:36:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/geladeira-da-xiaomi-chega-a-30c-e-reduz-bacterias-conheca/"
+      "original_url": "https://canaltech.com.br/mercado/declaracao-do-imposto-de-renda-2026-prazos-regras-e-o-que-mudou-este-ano/"
     },
     {
-      "title": "Causou no avião? Nova lei vai pesar no bolso do passageiro",
-      "slug": "causou-no-aviao-nova-lei-vai-pesar-no-bolso-do-passageiro",
+      "title": "PF investiga grupo criminoso que desviou R$ 710 milhões com ciberataques",
+      "slug": "pf-investiga-grupo-criminoso-que-desviou-rdollar-710-milhoes-com-ciberataques",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T14:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/pf-investiga-grupo-criminoso-que-desviou-r-710-milhoes-com-ciberataques/"
+    },
+    {
+      "title": "Fone top de linha da Apple ganha upgrade; veja o que mudou no AirPods Max 2",
+      "slug": "fone-top-de-linha-da-apple-ganha-upgrade-veja-o-que-mudou-no-airpods-max-2",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T14:10:42.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/fone-top-de-linha-da-apple-ganha-upgrade-veja-o-que-mudou-no-airpods-max-2/"
+    },
+    {
+      "title": "1º smartwatch da Samsung com 5G chega em breve, indica vazamento",
+      "slug": "1o-smartwatch-da-samsung-com-5g-chega-em-breve-indica-vazamento",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T14:03:19.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartwatch/1o-smartwatch-da-samsung-com-5g-chega-em-breve-indica-vazamento/"
+    },
+    {
+      "title": "BYD Dolphin Mini ganha tecnologia de luxo e sensor inédito",
+      "slug": "byd-dolphin-mini-ganha-tecnologia-de-luxo-e-sensor-inedito",
       "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-03-16T12:00:00.000Z",
+      "date": "2026-03-16T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/causou-no-aviao-nova-lei-vai-pesar-no-bolso-do-passageiro/"
+      "original_url": "https://canaltech.com.br/carros/byd-dolphin-mini-ganha-tecnologia-de-luxo-e-sensor-inedito/"
     },
     {
-      "title": "Review: Super Bomberman Collection é a Konami mais uma vez sendo referência em coletâneas",
-      "slug": "review-super-bomberman-collection-e-a-konami-mais-uma-vez-sendo-referencia-em-coletaneas",
+      "title": "Adeus “compiling shaders”? Microsoft promete acabar com velha dor do PC gamer",
+      "slug": "adeus-compiling-shaders-microsoft-promete-acabar-com-velha-dor-do-pc-gamer",
       "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T13:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/adeus-compiling-shaders-microsoft-promete-acabar-com-velha-dor-do-pc-gamer/"
+    },
+    {
+      "title": "Nova One UI começa a ser testada; veja o que vai mudar no seu Samsung Galaxy",
+      "slug": "nova-one-ui-comeca-a-ser-testada-veja-o-que-vai-mudar-no-seu-samsung-galaxy",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-16T13:53:14.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/nova-one-ui-comeca-a-ser-testada-veja-o-que-vai-mudar-no-seu-samsung-galaxy/"
+    },
+    {
+      "title": "AnyDesk não conecta? Programa tem instabilidade na manhã desta segunda-feira (16)",
+      "slug": "anydesk-nao-conecta-programa-tem-instabilidade-na-manha-desta-segunda-feira-16",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-16T12:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503778-review-super-bomberman-collection-e-a-konami-mais-uma-vez-sendo-referencia-em-coletaneas.htm"
-    },
-    {
-      "title": "7 jogos de tiro com mais de 100 horas de jogatina",
-      "slug": "7-jogos-de-tiro-com-mais-de-100-horas-de-jogatina",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-16T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503482-7-jogos-de-tiro-com-mais-de-100-horas-de-jogatina.htm"
-    },
-    {
-      "title": "China aprova dispositivo médico colocado diretamente no cérebro",
-      "slug": "china-aprova-dispositivo-medico-colocado-diretamente-no-cerebro",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T12:39:02.000Z",
+      "date": "2026-03-16T14:18:27.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/china-aprova-dispositivo-medico-colocado-diretamente-no-cerebro.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411629-anydesk-fora-do-ar-programa-instavel-na-manha-desta-segunda-feira-16.htm"
+    },
+    {
+      "title": "JBL Boombox 3 por um preço imperdível no Mercado Livre; confira oportunidade",
+      "slug": "jbl-boombox-3-por-um-preco-imperdivel-no-mercado-livre-confira-oportunidade",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T14:16:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411628-jbl-boombox-3-por-um-preco-imperdivel-no-mercado-livre-confira-oportunidade.htm"
+    },
+    {
+      "title": "Geoff Keighley, dono do The Game Awards, critica o Oscar 2026! Saiba o motivo",
+      "slug": "geoff-keighley-dono-do-the-game-awards-critica-o-oscar-2026-saiba-o-motivo",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T13:45:12.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503785-geoff-keighley-dono-do-the-game-awards-critica-o-oscar-2026-saiba-o-motivo.htm"
+    },
+    {
+      "title": "Apple lança AirPods Max 2 com chip H2, tradução ao vivo e mesmo visual",
+      "slug": "apple-lanca-airpods-max-2-com-chip-h2-traducao-ao-vivo-e-mesmo-visual",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T13:36:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411627-apple-lanca-airpods-max-2-com-chip-h2-traducao-ao-vivo-e-mesmo-visual.htm"
+    },
+    {
+      "title": "Conheça Sweetpea, nova série do Prime Video com Ella Purnell",
+      "slug": "conheca-sweetpea-nova-serie-do-prime-video-com-ella-purnell",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T13:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603284-conheca-sweetpea-nova-serie-do-prime-video-com-ella-purnell.htm"
+    },
+    {
+      "title": "WhatsApp testa a 'Conversa com convidados' que permite usar o app sem criar conta",
+      "slug": "whatsapp-testa-a-conversa-com-convidados-que-permite-usar-o-app-sem-criar-conta",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-16T13:09:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411625-whatsapp-testa-a-conversa-com-convidados-que-permite-usar-o-app-sem-criar-conta.htm"
     }
   ]
 }
