@@ -1,6 +1,6 @@
 {
-  "slug": "nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia",
-  "generated_at": "2026-03-16T19:09:45.804Z",
+  "slug": "claude-segue-chatgpt-e-vai-desenhar-algumas-respostas-da-ia",
+  "generated_at": "2026-03-16T19:05:45.410Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 246,
+      "words": 327,
       "min": 220
     },
     {

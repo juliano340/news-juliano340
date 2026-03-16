@@ -1,250 +1,205 @@
 {
-  "generated_at": "2026-03-16T17:08:07.344Z",
+  "generated_at": "2026-03-16T19:09:46.807Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 27,
+  "total": 22,
   "posts": [
     {
-      "title": "Empresas europeias pedem que UE aplique multa ao Google por favorecimento em busca",
-      "slug": "empresas-europeias-pedem-que-ue-aplique-multa-ao-google-por-favorecimento-em-busca",
-      "topic": "produtividade-dev",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-16T15:28:23.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/16/empresas-ue-multa-google.ghtml"
-    },
-    {
-      "title": "Seguradoras passam a oferecer cobertura para erros de inteligência artificial",
-      "slug": "seguradoras-passam-a-oferecer-cobertura-para-erros-de-inteligencia-artificial",
-      "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-16T14:10:46.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/16/seguradoras-cobertura-erros-inteligencia-artificial.ghtml"
-    },
-    {
-      "title": "Galaxy Watch 7 fica abaixo de R$ 1 mil em oferta no Mercado Livre",
-      "slug": "galaxy-watch-7-fica-abaixo-de-rdollar-1-mil-em-oferta-no-mercado-livre",
-      "topic": "geral",
+      "title": "Oppo Find N6 deve estrear tecnologia que reduz vinco em dobráveis",
+      "slug": "oppo-find-n6-deve-estrear-tecnologia-que-reduz-vinco-em-dobraveis",
+      "topic": "llms",
       "source": "Tecnoblog",
-      "date": "2026-03-16T16:12:48.000Z",
+      "date": "2026-03-16T18:42:32.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-watch-7-fica-abaixo-de-r-1-mil-em-oferta-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/noticias/oppo-find-n6-deve-estrear-tecnologia-que-reduz-vinco-em-dobraveis/"
     },
     {
-      "title": "Bug no Windows 11 bloqueia acesso ao disco C: em notebooks da Samsung",
-      "slug": "bug-no-windows-11-bloqueia-acesso-ao-disco-c-em-notebooks-da-samsung",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-16T16:07:24.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/bug-no-windows-11-bloqueia-acesso-ao-disco-c-em-notebooks-da-samsung/"
-    },
-    {
-      "title": "Como ver a senha da Netflix pelo celular ou PC",
-      "slug": "como-ver-a-senha-da-netflix-pelo-celular-ou-pc",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-16T15:58:26.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/como-ver-a-senha-da-netflix-pelo-celular-ou-pc/"
-    },
-    {
-      "title": "WhatsApp já testa conversas com quem não tem conta no serviço",
-      "slug": "whatsapp-ja-testa-conversas-com-quem-nao-tem-conta-no-servico",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-16T15:37:44.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/whatsapp-ja-testa-conversas-com-quem-nao-tem-conta-no-servico/"
-    },
-    {
-      "title": "Apple anuncia AirPods Max 2 com chip H2 e cancelamento de ruído melhorado",
-      "slug": "apple-anuncia-airpods-max-2-com-chip-h2-e-cancelamento-de-ruido-melhorado",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-16T15:11:26.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/apple-anuncia-airpods-max-2-com-chip-h2-e-cancelamento-de-ruido-melhorado/"
-    },
-    {
-      "title": "Aether OS quer transformar seu navegador em um PC completo",
-      "slug": "aether-os-quer-transformar-seu-navegador-em-um-pc-completo",
+      "title": "One UI 9 aparece em firmware de testes do Galaxy S26 Ultra",
+      "slug": "one-ui-9-aparece-em-firmware-de-testes-do-galaxy-s26-ultra",
       "topic": "infra-ia",
       "source": "Tecnoblog",
-      "date": "2026-03-16T14:19:29.000Z",
+      "date": "2026-03-16T18:04:18.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/aether-os-quer-transformar-seu-navegador-em-um-pc-completo/"
+      "original_url": "https://tecnoblog.net/noticias/one-ui-9-aparece-em-firmware-de-testes-do-galaxy-s26-ultra/"
     },
     {
-      "title": "\"A indústria queima\": desenvolvedor detona Valve por esconder crise no Steam",
-      "slug": "a-industria-queima-desenvolvedor-detona-valve-por-esconder-crise-no-steam",
+      "title": "Motorola Edge 60 Pro (256 GB) tem 35% de desconto com cupom no Magalu",
+      "slug": "motorola-edge-60-pro-256-gb-tem-35percent-de-desconto-com-cupom-no-magalu",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T18:04:16.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-35-de-desconto-com-cupom-no-magalu/"
+    },
+    {
+      "title": "Acesso negado ao disco C? Saiba resolver o problema de permissões em notebooks da Samsung",
+      "slug": "acesso-negado-ao-disco-c-saiba-resolver-o-problema-de-permissoes-em-notebooks-da-samsung",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T17:30:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/acesso-negado-ao-disco-c-saiba-resolver-o-problema-de-permissoes-em-notebooks-da-samsung/"
+    },
+    {
+      "title": "Como conseguir munição infinita em Resident Evil Requiem?",
+      "slug": "como-conseguir-municao-infinita-em-resident-evil-requiem",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-16T16:45:00.000Z",
+      "date": "2026-03-16T18:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/a-industria-queima-desenvolvedor-detona-valve-por-esconder-crise-no-steam/"
+      "original_url": "https://canaltech.com.br/games/como-conseguir-municao-infinita-em-resident-evil-requiem/"
     },
     {
-      "title": "Lembra do Feirão do Automóvel? Veja quando ele irá voltar ao Anhembi",
-      "slug": "lembra-do-feirao-do-automovel-veja-quando-ele-ira-voltar-ao-anhembi",
-      "topic": "geral",
+      "title": "Spotify promete lançar recurso pedido há 15 anos para organizar sua bagunça",
+      "slug": "spotify-promete-lancar-recurso-pedido-ha-15-anos-para-organizar-sua-bagunca",
+      "topic": "frameworks",
       "source": "Canaltech",
-      "date": "2026-03-16T15:55:00.000Z",
+      "date": "2026-03-16T18:18:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/lembra-do-feirao-do-automovel-veja-quando-ele-ira-voltar-ao-anhembi/"
+      "original_url": "https://canaltech.com.br/apps/spotify-promete-lancar-recurso-pedido-ha-15-anos-para-organizar-sua-bagunca/"
     },
     {
-      "title": "Eletrodomésticos inteligentes e conectados dão mais defeitos, revela relatório",
-      "slug": "eletrodomesticos-inteligentes-e-conectados-dao-mais-defeitos-revela-relatorio",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T15:28:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/eletrodomesticos-inteligentes-e-conectados-dao-mais-defeitos-revela-relatorio/"
-    },
-    {
-      "title": "Starfield no PS5? Bethesda faz mistério e promete novidades para esta semana",
-      "slug": "starfield-no-ps5-bethesda-faz-misterio-e-promete-novidades-para-esta-semana",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T15:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/starfield-no-ps5-bethesda-faz-misterio-e-promete-novidades-para-esta-semana/"
-    },
-    {
-      "title": "OpenAI vai lançar \"modo safado\" do ChatGPT; veja como funcionará",
-      "slug": "openai-vai-lancar-modo-safado-do-chatgpt-veja-como-funcionara",
+      "title": "Estourou o limite do Claude? Empresa libera promoção imperdível para você",
+      "slug": "estourou-o-limite-do-claude-empresa-libera-promocao-imperdivel-para-voce",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-16T14:06:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/openai-vai-lancar-modo-safado-do-chatgpt-veja-como-funcionara/"
+      "date": "2026-03-16T18:17:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/estourou-o-limite-do-claude-empresa-libera-promocao-imperdivel-para-voce/"
     },
     {
-      "title": "AliExpress comemora aniversário com descontos de até 80% e cupons; confira os destaques",
-      "slug": "aliexpress-comemora-aniversario-com-descontos-de-ate-80percent-e-cupons-confira-os-destaques",
+      "title": "Astrônomos flagram colisão violenta \"ao vivo\" entre dois planetas",
+      "slug": "astronomos-flagram-colisao-violenta-ao-vivo-entre-dois-planetas",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-16T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/espaco/astronomos-flagram-colisao-violenta-ao-vivo-entre-dois-planetas/"
+    },
+    {
+      "title": "Projeto avança na Câmara e pode derrubar preço da CNH — mas só para alguns",
+      "slug": "projeto-avanca-na-camara-e-pode-derrubar-preco-da-cnh-mas-so-para-alguns",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-16T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/projeto-avanca-na-camara-e-pode-derrubar-preco-da-cnh-mas-so-para-alguns/"
+    },
+    {
+      "title": "Celular dobrável da Motorola ganha certificação com recargas mais rápidas",
+      "slug": "celular-dobravel-da-motorola-ganha-certificacao-com-recargas-mais-rapidas",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T17:43:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celular-dobravel-da-motorola-ganha-certificacao-com-recargas-mais-rapidas/"
+    },
+    {
+      "title": "Novo trailer de GTA 6 a caminho? Mudança no GTA Online levanta suspeitas",
+      "slug": "novo-trailer-de-gta-6-a-caminho-mudanca-no-gta-online-levanta-suspeitas",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T17:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/novo-trailer-de-gta-6-a-caminho-mudanca-no-gta-online-levanta-suspeitas/"
+    },
+    {
+      "title": "Claude segue ChatGPT e vai 'desenhar' algumas respostas da IA",
+      "slug": "claude-segue-chatgpt-e-vai-desenhar-algumas-respostas-da-ia",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-16T17:04:53.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/claude-segue-chatgpt-e-vai-desenhar-algumas-respostas-da-ia/"
+    },
+    {
+      "title": "Nvidia anuncia DLSS 5 com foco em visuais realistas feitos com IA! Veja comparativo",
+      "slug": "nvidia-anuncia-dlss-5-com-foco-em-visuais-realistas-feitos-com-ia-veja-comparativo",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T16:17:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411624-aliexpress-comemora-aniversario-com-descontos-de-ate-80-e-cupons-confira-os-destaques.htm"
+      "date": "2026-03-16T19:01:16.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503793-nvidia-anuncia-dlss-5-com-foco-em-visuais-realistas-feitos-com-ia-veja-comparativo.htm"
     },
     {
-      "title": "LoL e mais jogos da Riot serão bloqueados para menores a partir desta semana",
-      "slug": "lol-e-mais-jogos-da-riot-serao-bloqueados-para-menores-a-partir-desta-semana",
+      "title": "Modo adulto do ChatGPT será erótico, não pornográfico, diz OpenAI",
+      "slug": "modo-adulto-do-chatgpt-sera-erotico-nao-pornografico-diz-openai",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-03-16T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411641-modo-adulto-do-chatgpt-sera-erotico-nao-pornografico-diz-openai.htm"
+    },
+    {
+      "title": "Jessie Buckley, vencedora do Oscar, protagonizou o jogo The Devil in Me! Conheça o game",
+      "slug": "jessie-buckley-vencedora-do-oscar-protagonizou-o-jogo-the-devil-in-me-conheca-o-game",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T16:15:33.000Z",
+      "date": "2026-03-16T18:15:52.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503786-lol-e-mais-jogos-da-riot-serao-bloqueados-para-menores-a-partir-desta-semana.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503787-jessie-buckley-vencedora-do-oscar-protagonizou-o-jogo-the-devil-in-me-conheca-o-game.htm"
     },
     {
-      "title": "O Linux sobreviverá ao ECA Digital: contra a falácia do alarmismo tecnológico",
-      "slug": "o-linux-sobrevivera-ao-eca-digital-contra-a-falacia-do-alarmismo-tecnologico",
+      "title": "Galaxy Z Fold Wide: suposto celular tipo tablet da Samsung tem especificações vazadas",
+      "slug": "galaxy-z-fold-wide-suposto-celular-tipo-tablet-da-samsung-tem-especificacoes-vazadas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411632-galaxy-z-fold-wide-suposto-celular-tipo-tablet-da-samsung-tem-especificacoes-vazadas.htm"
+    },
+    {
+      "title": "Motorola Razr 70 tem novas informações vazadas e pode decepcionar; confira imagem",
+      "slug": "motorola-razr-70-tem-novas-informacoes-vazadas-e-pode-decepcionar-confira-imagem",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-16T16:02:13.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/software/411635-o-linux-sobrevivera-ao-eca-digital-contra-a-falacia-do-alarmismo-tecnologico.htm"
+      "date": "2026-03-16T17:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411636-motorola-razr-70-tem-novas-informacoes-vazadas-e-pode-decepcionar-confira-imagem.htm"
     },
     {
-      "title": "‘Não tem o que fazer’: diz presidente da Motorola Brasil sobre crise de chips",
-      "slug": "nao-tem-o-que-fazer-diz-presidente-da-motorola-brasil-sobre-crise-de-chips",
+      "title": "Conheça Rooster Fighter, anime em que galo luta contra demônios",
+      "slug": "conheca-rooster-fighter-anime-em-que-galo-luta-contra-demonios",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411626-nao-tem-o-que-fazer-diz-presidente-da-motorola-brasil-sobre-crise-de-chips.htm"
+      "date": "2026-03-16T17:15:34.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603395-conheca-rooster-fighter-anime-em-que-galo-luta-contra-demonios.htm"
     },
     {
-      "title": "Celular, smart TV e mais ofertas na Ressaca 15.3 da Shopee",
-      "slug": "celular-smart-tv-e-mais-ofertas-na-ressaca-153-da-shopee",
+      "title": "Operações criminosas manipulam usuários para instalar vírus em Macs",
+      "slug": "operacoes-criminosas-manipulam-usuarios-para-instalar-virus-em-macs",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T15:26:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411631-celular-smart-tv-e-mais-ofertas-na-ressaca-153-da-shopee.htm"
+      "date": "2026-03-16T17:10:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411633-operacoes-criminosas-manipulam-usuarios-para-instalar-virus-em-macs.htm"
     },
     {
-      "title": "Crítica: Invencível retorna brutal e emocional em sua quarta temporada",
-      "slug": "critica-invencivel-retorna-brutal-e-emocional-em-sua-quarta-temporada",
-      "topic": "geral",
+      "title": "Huawei lança no Brasil roteador Mesh X3 Pro com design diferente e Wi-Fi 7",
+      "slug": "huawei-lanca-no-brasil-roteador-mesh-x3-pro-com-design-diferente-e-wi-fi-7",
+      "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-16T15:12:29.000Z",
+      "date": "2026-03-16T17:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411634-huawei-lanca-no-brasil-roteador-mesh-x3-pro-com-design-diferente-e-wi-fi-7.htm"
+    },
+    {
+      "title": "Empresas pedem que UE multe Google por favorecimento em serviço de busca",
+      "slug": "empresas-pedem-que-ue-multe-google-por-favorecimento-em-servico-de-busca",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-16T15:01:15.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603399-critica-invencivel-retorna-brutal-e-emocional-em-sua-quarta-temporada.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/editoras-e-startups-europeias-pedem-que-ue-aplique-multa-ao-google-por-problemas-em-buscas.htm"
     },
     {
-      "title": "Núcleo da Terra parou? O que a ciência já descobriu sobre a rotação interna",
-      "slug": "nucleo-da-terra-parou-o-que-a-ciencia-ja-descobriu-sobre-a-rotacao-interna",
+      "title": "Nvidia deve revelar novos chips e softwares em megaconferência de IA",
+      "slug": "nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-16T16:56:08.000Z",
+      "date": "2026-03-16T13:58:08.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/rotacao-do-nucleo-da-terra-nao-e-constante-e-desacelerou-indica-estudo.htm"
-    },
-    {
-      "title": "Enciclopédia Britânica processa OpenAI por causa de treinamento de IA",
-      "slug": "enciclopedia-britanica-processa-openai-por-causa-de-treinamento-de-ia",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T16:13:48.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/enciclopedia-britanica-processa-openai-por-causa-de-treinamento-de-ia.htm"
-    },
-    {
-      "title": "Bancos ofertam crédito internacional de US$5,75 bi para compra alavancada da EA",
-      "slug": "bancos-ofertam-credito-internacional-de-usdollar575-bi-para-compra-alavancada-da-ea",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T16:03:59.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/bancos-ofertam-credito-internacional-de-us575-bi-para-compra-alavancada-da-ea.htm"
-    },
-    {
-      "title": "App de transporte inDrive diz que receita cresce 31% em 2025 e mira expansão em delivery",
-      "slug": "app-de-transporte-indrive-diz-que-receita-cresce-31percent-em-2025-e-mira-expansao-em-delivery",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T15:54:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/app-de-transporte-indrive-diz-que-receita-cresce-31-em-2025-e-mira-expansao-em-delivery.htm"
-    },
-    {
-      "title": "OpenAI busca capital privado para tentar elevar uso de IA por empresas, dizem fontes",
-      "slug": "openai-busca-capital-privado-para-tentar-elevar-uso-de-ia-por-empresas-dizem-fontes",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T14:25:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/openai-busca-capital-privado-para-tentar-elevar-uso-de-ia-por-empresas-dizem-fontes.htm"
-    },
-    {
-      "title": "Meta planeja nova demissão em massa para investir R$ 720 bilhões em IA",
-      "slug": "meta-planeja-nova-demissao-em-massa-para-investir-rdollar-720-bilhoes-em-ia",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T14:08:31.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/acoes-da-meta-saltam-apos-reportagem-da-reuters-sobre-planos-de-demissao-em-massa.htm"
-    },
-    {
-      "title": "Por que Bezos desafia Musk e plano de lançar 1 milhão de satélites",
-      "slug": "por-que-bezos-desafia-musk-e-plano-de-lancar-1-milhao-de-satelites",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/por-que-bezos-desafia-musk-e-plano-de-lancar-1-milhao-de-satelites.htm"
-    },
-    {
-      "title": "Fim do motorista humano? Como robotáxis mudam as viagens com carros de app",
-      "slug": "fim-do-motorista-humano-como-robotaxis-mudam-as-viagens-com-carros-de-app",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T13:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/robotaxi-influencia-motorista-por-app-eua.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia.htm"
     }
   ]
 }

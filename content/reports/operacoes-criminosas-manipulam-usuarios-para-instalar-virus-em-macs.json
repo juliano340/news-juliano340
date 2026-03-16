@@ -1,7 +1,7 @@
 {
-  "slug": "nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia",
-  "generated_at": "2026-03-16T19:09:45.804Z",
-  "status": "PASS",
+  "slug": "operacoes-criminosas-manipulam-usuarios-para-instalar-virus-em-macs",
+  "generated_at": "2026-03-16T19:08:48.829Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 246,
+      "words": 261,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -91,9 +91,11 @@
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "fonte_primaria_ausente_no_corpo"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [

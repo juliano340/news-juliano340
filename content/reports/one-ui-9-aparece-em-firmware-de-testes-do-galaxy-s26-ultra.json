@@ -1,6 +1,6 @@
 {
-  "slug": "nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia",
-  "generated_at": "2026-03-16T19:09:45.804Z",
+  "slug": "one-ui-9-aparece-em-firmware-de-testes-do-galaxy-s26-ultra",
+  "generated_at": "2026-03-16T19:02:09.585Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 246,
+      "words": 306,
       "min": 220
     },
     {

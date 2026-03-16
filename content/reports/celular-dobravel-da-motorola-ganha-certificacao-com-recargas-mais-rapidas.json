@@ -1,6 +1,6 @@
 {
-  "slug": "nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia",
-  "generated_at": "2026-03-16T19:09:45.804Z",
+  "slug": "celular-dobravel-da-motorola-ganha-certificacao-com-recargas-mais-rapidas",
+  "generated_at": "2026-03-16T19:04:56.196Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 246,
+      "words": 255,
       "min": 220
     },
     {

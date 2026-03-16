@@ -1,6 +1,6 @@
 {
-  "slug": "nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia",
-  "generated_at": "2026-03-16T19:09:45.804Z",
+  "slug": "acesso-negado-ao-disco-c-saiba-resolver-o-problema-de-permissoes-em-notebooks-da-samsung",
+  "generated_at": "2026-03-16T19:02:42.493Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 246,
+      "words": 368,
       "min": 220
     },
     {
