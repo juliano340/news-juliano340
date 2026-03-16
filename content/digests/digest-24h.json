@@ -1,52 +1,43 @@
 {
-  "generated_at": "2026-03-16T03:04:13.059Z",
+  "generated_at": "2026-03-16T09:02:59.079Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 4,
   "posts": [
     {
-      "title": "O Agente Secreto fica sem prêmios em Oscar dominado por Uma Batalha Após a Outra e Pecadores",
-      "slug": "o-agente-secreto-fica-sem-premios-em-oscar-dominado-por-uma-batalha-apos-a-outra-e-pecadores",
+      "title": "O que é workslop? Veja como a IA pode mais atrapalhar do que ajudar no trabalho",
+      "slug": "o-que-e-workslop-veja-como-a-ia-pode-mais-atrapalhar-do-que-ajudar-no-trabalho",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-16T02:45:59.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-16T09:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603391-o-agente-secreto-fica-sem-premios-em-oscar-dominado-por-uma-batalha-apos-a-outra-e-pecadores.htm"
+      "original_url": "https://canaltech.com.br/mercado/o-que-e-workslop-veja-como-a-ia-pode-mais-atrapalhar-do-que-ajudar-no-trabalho/"
     },
     {
-      "title": "Wagner Moura perde Oscar de Melhor Ator para Michael B. Jordan, de Pecadores",
-      "slug": "wagner-moura-perde-oscar-de-melhor-ator-para-michael-b-jordan-de-pecadores",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-16T02:34:12.000Z",
+      "title": "IA pode ajudar você a aprender inglês? Entenda como funciona",
+      "slug": "ia-pode-ajudar-voce-a-aprender-ingles-entenda-como-funciona",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-16T09:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603390-wagner-moura-perde-oscar-de-melhor-ator-para-michael-b-jordan-de-pecadores.htm"
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/ia-pode-ajudar-voce-a-aprender-ingles-entenda-como-funciona-6401/"
     },
     {
-      "title": "O Agente Secreto perde Oscar de Melhor Filme Internacional; veja quem levou",
-      "slug": "o-agente-secreto-perde-oscar-de-melhor-filme-internacional-veja-quem-levou",
-      "topic": "geral",
+      "title": "Palpites para Chelsea x Paris Saint-Germain: Análises e Onde Assistir (17/03/2026)",
+      "slug": "palpites-para-chelsea-x-paris-saint-germain-analises-e-onde-assistir-17032026",
+      "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-16T02:08:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603389-o-agente-secreto-perde-oscar-de-melhor-filme-internacional-veja-quem-levou.htm"
+      "date": "2026-03-16T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411607-palpites-para-chelsea-x-paris-saint-germain-analises-e-onde-assistir-17032026.htm"
     },
     {
-      "title": "Adolpho Veloso perde Melhor Fotografia no Oscar 2026; veja quem levou",
-      "slug": "adolpho-veloso-perde-melhor-fotografia-no-oscar-2026-veja-quem-levou",
+      "title": "Qual é a fase da Lua hoje (16)? Veja calendário lunar de março de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-marco-de-2026",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-16T01:56:44.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-16T08:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603393-adolpho-veloso-perde-melhor-fotografia-no-oscar-2026-veja-quem-levou.htm"
-    },
-    {
-      "title": "Oscar 2026 tem empate e pega todos de surpresa! Saiba como foi",
-      "slug": "oscar-2026-tem-empate-e-pega-todos-de-surpresa-saiba-como-foi",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-16T01:10:52.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603394-oscar-2026-tem-empate-e-pega-todos-de-surpresa-saiba-como-foi.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-marco-de-2026.htm"
     }
   ]
 }

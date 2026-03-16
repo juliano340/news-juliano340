@@ -1,9 +1,8 @@
 # Weekly IA para Devs - 2026-03-16
 
-Gerado em 2026-03-16T03:04:13.059Z
+Gerado em 2026-03-16T09:02:59.079Z
 
-- [O Agente Secreto fica sem prêmios em Oscar dominado por Uma Batalha Após a Outra e Pecadores](https://www.tecmundo.com.br/minha-serie/603391-o-agente-secreto-fica-sem-premios-em-oscar-dominado-por-uma-batalha-apos-a-outra-e-pecadores.htm) | topico: geral | score: 92
-- [Wagner Moura perde Oscar de Melhor Ator para Michael B. Jordan, de Pecadores](https://www.tecmundo.com.br/minha-serie/603390-wagner-moura-perde-oscar-de-melhor-ator-para-michael-b-jordan-de-pecadores.htm) | topico: geral | score: 92
-- [O Agente Secreto perde Oscar de Melhor Filme Internacional; veja quem levou](https://www.tecmundo.com.br/minha-serie/603389-o-agente-secreto-perde-oscar-de-melhor-filme-internacional-veja-quem-levou.htm) | topico: geral | score: 100
-- [Adolpho Veloso perde Melhor Fotografia no Oscar 2026; veja quem levou](https://www.tecmundo.com.br/minha-serie/603393-adolpho-veloso-perde-melhor-fotografia-no-oscar-2026-veja-quem-levou.htm) | topico: geral | score: 92
-- [Oscar 2026 tem empate e pega todos de surpresa! Saiba como foi](https://www.tecmundo.com.br/minha-serie/603394-oscar-2026-tem-empate-e-pega-todos-de-surpresa-saiba-como-foi.htm) | topico: geral | score: 92
+- [O que é workslop? Veja como a IA pode mais atrapalhar do que ajudar no trabalho](https://canaltech.com.br/mercado/o-que-e-workslop-veja-como-a-ia-pode-mais-atrapalhar-do-que-ajudar-no-trabalho/) | topico: geral | score: 92
+- [IA pode ajudar você a aprender inglês? Entenda como funciona](https://canaltech.com.br/podcast/podcast-canaltech/ia-pode-ajudar-voce-a-aprender-ingles-entenda-como-funciona-6401/) | topico: agentes | score: 92
+- [Palpites para Chelsea x Paris Saint-Germain: Análises e Onde Assistir (17/03/2026)](https://www.tecmundo.com.br/apostas/411607-palpites-para-chelsea-x-paris-saint-germain-analises-e-onde-assistir-17032026.htm) | topico: seguranca-ia | score: 92
+- [Qual é a fase da Lua hoje (16)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 92
