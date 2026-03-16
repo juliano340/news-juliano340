@@ -1,6 +1,6 @@
 {
-  "slug": "seguradoras-passam-a-oferecer-cobertura-para-erros-de-inteligencia-artificial",
-  "generated_at": "2026-03-16T17:00:31.128Z",
+  "slug": "por-que-bezos-desafia-musk-e-plano-de-lancar-1-milhao-de-satelites",
+  "generated_at": "2026-03-16T17:07:39.452Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 277,
       "min": 220
     },
     {

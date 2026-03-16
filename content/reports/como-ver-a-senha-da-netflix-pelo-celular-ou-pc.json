@@ -1,6 +1,6 @@
 {
-  "slug": "seguradoras-passam-a-oferecer-cobertura-para-erros-de-inteligencia-artificial",
-  "generated_at": "2026-03-16T17:00:31.128Z",
+  "slug": "como-ver-a-senha-da-netflix-pelo-celular-ou-pc",
+  "generated_at": "2026-03-16T17:01:15.484Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 300,
       "min": 220
     },
     {

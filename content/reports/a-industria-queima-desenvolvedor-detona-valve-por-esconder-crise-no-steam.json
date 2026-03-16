@@ -1,6 +1,6 @@
 {
-  "slug": "seguradoras-passam-a-oferecer-cobertura-para-erros-de-inteligencia-artificial",
-  "generated_at": "2026-03-16T17:00:31.128Z",
+  "slug": "a-industria-queima-desenvolvedor-detona-valve-por-esconder-crise-no-steam",
+  "generated_at": "2026-03-16T17:02:18.724Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 360,
       "min": 220
     },
     {

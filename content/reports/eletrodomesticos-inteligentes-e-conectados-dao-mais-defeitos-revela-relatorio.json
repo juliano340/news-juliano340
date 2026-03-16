@@ -1,6 +1,6 @@
 {
-  "slug": "seguradoras-passam-a-oferecer-cobertura-para-erros-de-inteligencia-artificial",
-  "generated_at": "2026-03-16T17:00:31.128Z",
+  "slug": "eletrodomesticos-inteligentes-e-conectados-dao-mais-defeitos-revela-relatorio",
+  "generated_at": "2026-03-16T17:02:50.027Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 259,
       "min": 220
     },
     {

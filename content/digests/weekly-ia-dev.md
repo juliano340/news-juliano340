@@ -1,27 +1,29 @@
 # Weekly IA para Devs - 2026-03-16
 
-Gerado em 2026-03-16T15:12:07.816Z
+Gerado em 2026-03-16T17:08:07.344Z
 
-- [ByteDance suspende lançamento de IA de vídeo após disputas de direitos autorais, diz The Information](https://g1.globo.com/tecnologia/noticia/2026/03/16/bytedance-suspende-lancamento-de-modelo-de-ia-de-video-apos-disputas-de-direitos-autorais-diz-the-information.ghtml) | topico: llms | score: 100
-- [Galaxy S26 Ultra (512 GB) com nova tela de privacidade tem 32% OFF com cupom](https://tecnoblog.net/achados/galaxy-s26-ultra-512-gb-com-nova-tela-de-privacidade-tem-32-off-com-cupom/) | topico: geral | score: 100
-- [Galaxy S24 Ultra com chip Snapdragon tem melhor preço do ano no AliExpress](https://tecnoblog.net/achados/galaxy-s24-ultra-com-chip-snapdragon-tem-melhor-preco-do-ano-no-aliexpress/) | topico: geral | score: 92
-- [Galaxy S26 (512 GB) despenca 42% com cupom na Amazon](https://tecnoblog.net/achados/galaxy-s26-512-gb-despenca-42-com-cupom-na-amazon/) | topico: geral | score: 92
-- [Motorola já pode lançar o dobrável Razr 70 Ultra no Brasil](https://tecnoblog.net/noticias/motorola-ja-pode-lancar-o-dobravel-razr-70-ultra-no-brasil/) | topico: geral | score: 85
-- [Galaxy S26 Plus (512 GB) já recebe 37% de desconto com cupom na Amazon](https://tecnoblog.net/achados/galaxy-s26-plus-512-gb-ja-recebe-37-de-desconto-com-cupom-na-amazon/) | topico: geral | score: 85
-- [iPhone 16e em oferta em até 12x sai 42% mais barato que iPhone 17e](https://tecnoblog.net/achados/iphone-16e-em-oferta-em-ate-12x-sai-42-mais-barato-que-iphone-17e/) | topico: geral | score: 92
-- [Nintendo Switch fica 38% mais barato em promoção no Mercado Livre](https://tecnoblog.net/achados/nintendo-switch-fica-38-mais-barato-em-promocao-no-mercado-livre/) | topico: geral | score: 100
-- [Claude fora do ar? App tem instabilidade nesta segunda-feira (16)](https://canaltech.com.br/apps/claude-fora-do-ar-app-tem-instabilidade-nesta-segunda-feira-16/) | topico: llms | score: 100
-- [Amazon faz queima de Galaxy S25 FE; topo de linha barato da Samsung](https://canaltech.com.br/smartphone/amazon-faz-queima-de-galaxy-s25-fe-topo-de-linha-barato-da-samsung/) | topico: geral | score: 100
-- [Declaração do Imposto de Renda 2026: prazos, regras e o que mudou este ano](https://canaltech.com.br/mercado/declaracao-do-imposto-de-renda-2026-prazos-regras-e-o-que-mudou-este-ano/) | topico: geral | score: 100
-- [PF investiga grupo criminoso que desviou R$ 710 milhões com ciberataques](https://canaltech.com.br/seguranca/pf-investiga-grupo-criminoso-que-desviou-r-710-milhoes-com-ciberataques/) | topico: geral | score: 100
-- [Fone top de linha da Apple ganha upgrade; veja o que mudou no AirPods Max 2](https://canaltech.com.br/smartphone/fone-top-de-linha-da-apple-ganha-upgrade-veja-o-que-mudou-no-airpods-max-2/) | topico: geral | score: 100
-- [1º smartwatch da Samsung com 5G chega em breve, indica vazamento](https://canaltech.com.br/smartwatch/1o-smartwatch-da-samsung-com-5g-chega-em-breve-indica-vazamento/) | topico: geral | score: 100
-- [BYD Dolphin Mini ganha tecnologia de luxo e sensor inédito](https://canaltech.com.br/carros/byd-dolphin-mini-ganha-tecnologia-de-luxo-e-sensor-inedito/) | topico: agentes | score: 100
-- [Adeus “compiling shaders”? Microsoft promete acabar com velha dor do PC gamer](https://canaltech.com.br/games/adeus-compiling-shaders-microsoft-promete-acabar-com-velha-dor-do-pc-gamer/) | topico: geral | score: 100
-- [Nova One UI começa a ser testada; veja o que vai mudar no seu Samsung Galaxy](https://canaltech.com.br/apps/nova-one-ui-comeca-a-ser-testada-veja-o-que-vai-mudar-no-seu-samsung-galaxy/) | topico: produtividade-dev | score: 100
-- [AnyDesk não conecta? Programa tem instabilidade na manhã desta segunda-feira (16)](https://www.tecmundo.com.br/software/411629-anydesk-fora-do-ar-programa-instavel-na-manha-desta-segunda-feira-16.htm) | topico: produtividade-dev | score: 92
-- [JBL Boombox 3 por um preço imperdível no Mercado Livre; confira oportunidade](https://www.tecmundo.com.br/guia-de-compras/411628-jbl-boombox-3-por-um-preco-imperdivel-no-mercado-livre-confira-oportunidade.htm) | topico: geral | score: 100
-- [Geoff Keighley, dono do The Game Awards, critica o Oscar 2026! Saiba o motivo](https://www.tecmundo.com.br/voxel/503785-geoff-keighley-dono-do-the-game-awards-critica-o-oscar-2026-saiba-o-motivo.htm) | topico: geral | score: 92
-- [Apple lança AirPods Max 2 com chip H2, tradução ao vivo e mesmo visual](https://www.tecmundo.com.br/produto/411627-apple-lanca-airpods-max-2-com-chip-h2-traducao-ao-vivo-e-mesmo-visual.htm) | topico: geral | score: 100
-- [Conheça Sweetpea, nova série do Prime Video com Ella Purnell](https://www.tecmundo.com.br/minha-serie/603284-conheca-sweetpea-nova-serie-do-prime-video-com-ella-purnell.htm) | topico: geral | score: 92
-- [WhatsApp testa a 'Conversa com convidados' que permite usar o app sem criar conta](https://www.tecmundo.com.br/software/411625-whatsapp-testa-a-conversa-com-convidados-que-permite-usar-o-app-sem-criar-conta.htm) | topico: agentes | score: 100
+- [Empresas europeias pedem que UE aplique multa ao Google por favorecimento em busca](https://g1.globo.com/tecnologia/noticia/2026/03/16/empresas-ue-multa-google.ghtml) | topico: produtividade-dev | score: 100
+- [Seguradoras passam a oferecer cobertura para erros de inteligência artificial](https://g1.globo.com/tecnologia/noticia/2026/03/16/seguradoras-cobertura-erros-inteligencia-artificial.ghtml) | topico: agentes | score: 100
+- [Galaxy Watch 7 fica abaixo de R$ 1 mil em oferta no Mercado Livre](https://tecnoblog.net/achados/galaxy-watch-7-fica-abaixo-de-r-1-mil-em-oferta-no-mercado-livre/) | topico: geral | score: 100
+- [Bug no Windows 11 bloqueia acesso ao disco C: em notebooks da Samsung](https://tecnoblog.net/noticias/bug-no-windows-11-bloqueia-acesso-ao-disco-c-em-notebooks-da-samsung/) | topico: agentes | score: 100
+- [Como ver a senha da Netflix pelo celular ou PC](https://tecnoblog.net/responde/como-ver-a-senha-da-netflix-pelo-celular-ou-pc/) | topico: geral | score: 100
+- [WhatsApp já testa conversas com quem não tem conta no serviço](https://tecnoblog.net/noticias/whatsapp-ja-testa-conversas-com-quem-nao-tem-conta-no-servico/) | topico: produtividade-dev | score: 92
+- [Apple anuncia AirPods Max 2 com chip H2 e cancelamento de ruído melhorado](https://tecnoblog.net/noticias/apple-anuncia-airpods-max-2-com-chip-h2-e-cancelamento-de-ruido-melhorado/) | topico: produtividade-dev | score: 92
+- [Aether OS quer transformar seu navegador em um PC completo](https://tecnoblog.net/noticias/aether-os-quer-transformar-seu-navegador-em-um-pc-completo/) | topico: infra-ia | score: 100
+- ["A indústria queima": desenvolvedor detona Valve por esconder crise no Steam](https://canaltech.com.br/games/a-industria-queima-desenvolvedor-detona-valve-por-esconder-crise-no-steam/) | topico: geral | score: 100
+- [Lembra do Feirão do Automóvel? Veja quando ele irá voltar ao Anhembi](https://canaltech.com.br/carros/lembra-do-feirao-do-automovel-veja-quando-ele-ira-voltar-ao-anhembi/) | topico: geral | score: 100
+- [Eletrodomésticos inteligentes e conectados dão mais defeitos, revela relatório](https://canaltech.com.br/eletro/eletrodomesticos-inteligentes-e-conectados-dao-mais-defeitos-revela-relatorio/) | topico: geral | score: 100
+- [Starfield no PS5? Bethesda faz mistério e promete novidades para esta semana](https://canaltech.com.br/games/starfield-no-ps5-bethesda-faz-misterio-e-promete-novidades-para-esta-semana/) | topico: geral | score: 100
+- [OpenAI vai lançar "modo safado" do ChatGPT; veja como funcionará](https://canaltech.com.br/apps/openai-vai-lancar-modo-safado-do-chatgpt-veja-como-funcionara/) | topico: llms | score: 100
+- [AliExpress comemora aniversário com descontos de até 80% e cupons; confira os destaques](https://www.tecmundo.com.br/guia-de-compras/411624-aliexpress-comemora-aniversario-com-descontos-de-ate-80-e-cupons-confira-os-destaques.htm) | topico: geral | score: 100
+- [LoL e mais jogos da Riot serão bloqueados para menores a partir desta semana](https://www.tecmundo.com.br/voxel/503786-lol-e-mais-jogos-da-riot-serao-bloqueados-para-menores-a-partir-desta-semana.htm) | topico: geral | score: 100
+- [O Linux sobreviverá ao ECA Digital: contra a falácia do alarmismo tecnológico](https://www.tecmundo.com.br/software/411635-o-linux-sobrevivera-ao-eca-digital-contra-a-falacia-do-alarmismo-tecnologico.htm) | topico: seguranca-ia | score: 92
+- [‘Não tem o que fazer’: diz presidente da Motorola Brasil sobre crise de chips](https://www.tecmundo.com.br/produto/411626-nao-tem-o-que-fazer-diz-presidente-da-motorola-brasil-sobre-crise-de-chips.htm) | topico: geral | score: 100
+- [Celular, smart TV e mais ofertas na Ressaca 15.3 da Shopee](https://www.tecmundo.com.br/guia-de-compras/411631-celular-smart-tv-e-mais-ofertas-na-ressaca-153-da-shopee.htm) | topico: geral | score: 100
+- [Crítica: Invencível retorna brutal e emocional em sua quarta temporada](https://www.tecmundo.com.br/minha-serie/603399-critica-invencivel-retorna-brutal-e-emocional-em-sua-quarta-temporada.htm) | topico: geral | score: 92
+- [Núcleo da Terra parou? O que a ciência já descobriu sobre a rotação interna](https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/rotacao-do-nucleo-da-terra-nao-e-constante-e-desacelerou-indica-estudo.htm) | topico: geral | score: 100
+- [Enciclopédia Britânica processa OpenAI por causa de treinamento de IA](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/enciclopedia-britanica-processa-openai-por-causa-de-treinamento-de-ia.htm) | topico: llms | score: 100
+- [Bancos ofertam crédito internacional de US$5,75 bi para compra alavancada da EA](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/bancos-ofertam-credito-internacional-de-us575-bi-para-compra-alavancada-da-ea.htm) | topico: geral | score: 92
+- [App de transporte inDrive diz que receita cresce 31% em 2025 e mira expansão em delivery](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/app-de-transporte-indrive-diz-que-receita-cresce-31-em-2025-e-mira-expansao-em-delivery.htm) | topico: geral | score: 100
+- [OpenAI busca capital privado para tentar elevar uso de IA por empresas, dizem fontes](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/openai-busca-capital-privado-para-tentar-elevar-uso-de-ia-por-empresas-dizem-fontes.htm) | topico: llms | score: 100
+- [Meta planeja nova demissão em massa para investir R$ 720 bilhões em IA](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/acoes-da-meta-saltam-apos-reportagem-da-reuters-sobre-planos-de-demissao-em-massa.htm) | topico: geral | score: 100

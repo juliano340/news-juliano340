@@ -1,6 +1,6 @@
 {
-  "slug": "seguradoras-passam-a-oferecer-cobertura-para-erros-de-inteligencia-artificial",
-  "generated_at": "2026-03-16T17:00:31.128Z",
+  "slug": "lembra-do-feirao-do-automovel-veja-quando-ele-ira-voltar-ao-anhembi",
+  "generated_at": "2026-03-16T17:02:33.415Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 305,
+      "words": 361,
       "min": 220
     },
     {
