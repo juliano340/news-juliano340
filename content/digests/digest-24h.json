@@ -1,61 +1,88 @@
 {
-  "generated_at": "2026-03-16T11:03:38.829Z",
+  "generated_at": "2026-03-16T13:06:40.791Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 6,
+  "total": 9,
   "posts": [
     {
-      "title": "Startup brasileira usa modelo de IA para evitar 'bloqueio de fala' com o inglês",
-      "slug": "startup-brasileira-usa-modelo-de-ia-para-evitar-bloqueio-de-fala-com-o-ingles",
+      "title": "Instagram vai remover importante recurso de privacidade das DMs; entenda",
+      "slug": "instagram-vai-remover-importante-recurso-de-privacidade-das-dms-entenda",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-16T11:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/mercado/startup-brasileira-usa-modelo-de-ia-para-evitar-bloqueio-de-fala-com-o-ingles/"
+      "date": "2026-03-16T12:59:49.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/instagram-vai-remover-importante-recurso-de-privacidade-das-dms-entenda/"
     },
     {
-      "title": "Panela de arroz da Xiaomi se ajusta sozinha para \"resultados perfeitos\"",
-      "slug": "panela-de-arroz-da-xiaomi-se-ajusta-sozinha-para-resultados-perfeitos",
+      "title": "Motorola lança ar-condicionado split com instalação gratuita",
+      "slug": "motorola-lanca-ar-condicionado-split-com-instalacao-gratuita",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-16T10:54:49.000Z",
+      "date": "2026-03-16T12:57:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/casa-conectada/panela-de-arroz-da-xiaomi-se-ajusta-sozinha-para-resultados-perfeitos/"
+      "original_url": "https://canaltech.com.br/eletro/motorola-lanca-ar-condicionado-split-com-instalacao-gratuita/"
     },
     {
-      "title": "Qual é o melhor celular de até R$ 3.000 para comprar em março de 2026?",
-      "slug": "qual-e-o-melhor-celular-de-ate-rdollar-3000-para-comprar-em-marco-de-2026",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T10:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/qual-e-o-melhor-celular-de-ate-r-3000-para-comprar-em-2026/"
-    },
-    {
-      "title": "Vaza celular dobrável largo da Samsung; objetivo é rivalizar com iPhone Fold",
-      "slug": "vaza-celular-dobravel-largo-da-samsung-objetivo-e-rivalizar-com-iphone-fold",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T10:14:45.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/vaza-celular-dobravel-largo-da-samsung-objetivo-e-rivalizar-com-iphone-fold/"
-    },
-    {
-      "title": "Uber atualiza lista de carros permitidos nas categorias Black e Comfort",
-      "slug": "uber-atualiza-lista-de-carros-permitidos-nas-categorias-black-e-comfort",
+      "title": "WhatsApp vai deixar você conversar com quem não tem conta no app",
+      "slug": "whatsapp-vai-deixar-voce-conversar-com-quem-nao-tem-conta-no-app",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-16T10:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/uber-atualiza-lista-de-carros-permitidos-nas-categorias-black-e-comfort/"
+      "date": "2026-03-16T12:50:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/whatsapp-vai-deixar-voce-conversar-com-quem-nao-tem-conta-no-app/"
     },
     {
-      "title": "Palpites para Arsenal x Bayer Leverkusen: Análises e Onde Assistir (17/03/2026)",
-      "slug": "palpites-para-arsenal-x-bayer-leverkusen-analises-e-onde-assistir-17032026",
-      "topic": "seguranca-ia",
+      "title": "\"Rei do custo-benefício\" da Samsung para 2026 vazou; veja o vídeo de hands-on",
+      "slug": "rei-do-custo-beneficio-da-samsung-para-2026-vazou-veja-o-video-de-hands-on",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T12:46:08.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/rei-do-custo-beneficio-da-samsung-para-2026-vazou-veja-o-video-de-hands-on/"
+    },
+    {
+      "title": "Geladeira da Xiaomi chega a –30°C e reduz bactérias; conheça",
+      "slug": "geladeira-da-xiaomi-chega-a-30c-e-reduz-bacterias-conheca",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-16T12:24:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/geladeira-da-xiaomi-chega-a-30c-e-reduz-bacterias-conheca/"
+    },
+    {
+      "title": "Causou no avião? Nova lei vai pesar no bolso do passageiro",
+      "slug": "causou-no-aviao-nova-lei-vai-pesar-no-bolso-do-passageiro",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-16T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/causou-no-aviao-nova-lei-vai-pesar-no-bolso-do-passageiro/"
+    },
+    {
+      "title": "Review: Super Bomberman Collection é a Konami mais uma vez sendo referência em coletâneas",
+      "slug": "review-super-bomberman-collection-e-a-konami-mais-uma-vez-sendo-referencia-em-coletaneas",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T11:00:00.000Z",
+      "date": "2026-03-16T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503778-review-super-bomberman-collection-e-a-konami-mais-uma-vez-sendo-referencia-em-coletaneas.htm"
+    },
+    {
+      "title": "7 jogos de tiro com mais de 100 horas de jogatina",
+      "slug": "7-jogos-de-tiro-com-mais-de-100-horas-de-jogatina",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-16T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503482-7-jogos-de-tiro-com-mais-de-100-horas-de-jogatina.htm"
+    },
+    {
+      "title": "China aprova dispositivo médico colocado diretamente no cérebro",
+      "slug": "china-aprova-dispositivo-medico-colocado-diretamente-no-cerebro",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-16T12:39:02.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411611-palpites-para-arsenal-x-bayer-leverkusen-analises-e-onde-assistir-17032026.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/china-aprova-dispositivo-medico-colocado-diretamente-no-cerebro.htm"
     }
   ]
 }
