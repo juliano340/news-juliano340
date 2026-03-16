@@ -1,6 +1,6 @@
 {
-  "slug": "motorola-razr-60-256-gb-tem-reducao-de-42percent-no-preco-no-magalu",
-  "generated_at": "2026-03-16T21:01:18.123Z",
+  "slug": "huawei-watch-gt-6-pro-sai-34percent-mais-barato-em-oferta-no-mercado-livre",
+  "generated_at": "2026-03-16T21:00:40.184Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 306,
+      "words": 277,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 2,
       "min": 3
     }
   ],

@@ -1,7 +1,7 @@
 {
-  "slug": "motorola-razr-60-256-gb-tem-reducao-de-42percent-no-preco-no-magalu",
-  "generated_at": "2026-03-16T21:01:18.123Z",
-  "status": "WARN",
+  "slug": "apple-vai-manter-visual-polemico-no-ios-27-mas-promete-novidade-surpresa",
+  "generated_at": "2026-03-16T21:05:28.375Z",
+  "status": "BLOCK",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 306,
+      "words": 265,
       "min": 220
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "placeholder_terms",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "BLOCK",
       "reason": "placeholder_detectado"
     },
@@ -84,94 +84,17 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
+  "warnings": [],
+  "errors": [
+    "placeholder_detectado"
   ],
-  "errors": [],
   "score": 92,
-  "metadata": {
-    "status": "PASS",
-    "checks": [
-      {
-        "id": "required_title",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_slug",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_date",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_source",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_original_url",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_primary_source",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_content",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_meta_description",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "required_canonical_url",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "slug_format",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "original_url_format",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "canonical_matches_slug",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "meta_description_length",
-        "status": "PASS",
-        "level": "BLOCK"
-      },
-      {
-        "id": "schema_min_fields",
-        "status": "PASS",
-        "level": "BLOCK"
-      }
-    ],
-    "warnings": [],
-    "errors": [],
-    "score": 100
-  }
+  "metadata": null
 }

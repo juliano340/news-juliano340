@@ -1,7 +1,7 @@
 {
-  "slug": "motorola-razr-60-256-gb-tem-reducao-de-42percent-no-preco-no-magalu",
-  "generated_at": "2026-03-16T21:01:18.123Z",
-  "status": "WARN",
+  "slug": "presidente-da-nvidia-ve-pelo-menos-usdollar1-tri-em-oportunidade-de-receita-para-chips-de-ia-ate-2027",
+  "generated_at": "2026-03-16T21:11:22.414Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 306,
+      "words": 249,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

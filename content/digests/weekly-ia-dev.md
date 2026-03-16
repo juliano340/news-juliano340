@@ -1,26 +1,28 @@
 # Weekly IA para Devs - 2026-03-16
 
-Gerado em 2026-03-16T19:09:46.807Z
+Gerado em 2026-03-16T21:12:15.651Z
 
-- [Oppo Find N6 deve estrear tecnologia que reduz vinco em dobráveis](https://tecnoblog.net/noticias/oppo-find-n6-deve-estrear-tecnologia-que-reduz-vinco-em-dobraveis/) | topico: llms | score: 100
-- [One UI 9 aparece em firmware de testes do Galaxy S26 Ultra](https://tecnoblog.net/noticias/one-ui-9-aparece-em-firmware-de-testes-do-galaxy-s26-ultra/) | topico: infra-ia | score: 100
-- [Motorola Edge 60 Pro (256 GB) tem 35% de desconto com cupom no Magalu](https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-35-de-desconto-com-cupom-no-magalu/) | topico: geral | score: 92
-- [Acesso negado ao disco C? Saiba resolver o problema de permissões em notebooks da Samsung](https://tecnoblog.net/responde/acesso-negado-ao-disco-c-saiba-resolver-o-problema-de-permissoes-em-notebooks-da-samsung/) | topico: seguranca-ia | score: 100
-- [Como conseguir munição infinita em Resident Evil Requiem?](https://canaltech.com.br/games/como-conseguir-municao-infinita-em-resident-evil-requiem/) | topico: geral | score: 100
-- [Spotify promete lançar recurso pedido há 15 anos para organizar sua bagunça](https://canaltech.com.br/apps/spotify-promete-lancar-recurso-pedido-ha-15-anos-para-organizar-sua-bagunca/) | topico: frameworks | score: 100
-- [Estourou o limite do Claude? Empresa libera promoção imperdível para você](https://canaltech.com.br/apps/estourou-o-limite-do-claude-empresa-libera-promocao-imperdivel-para-voce/) | topico: llms | score: 92
-- [Astrônomos flagram colisão violenta "ao vivo" entre dois planetas](https://canaltech.com.br/espaco/astronomos-flagram-colisao-violenta-ao-vivo-entre-dois-planetas/) | topico: produtividade-dev | score: 100
-- [Projeto avança na Câmara e pode derrubar preço da CNH — mas só para alguns](https://canaltech.com.br/carros/projeto-avanca-na-camara-e-pode-derrubar-preco-da-cnh-mas-so-para-alguns/) | topico: agentes | score: 100
-- [Celular dobrável da Motorola ganha certificação com recargas mais rápidas](https://canaltech.com.br/smartphone/celular-dobravel-da-motorola-ganha-certificacao-com-recargas-mais-rapidas/) | topico: geral | score: 100
-- [Novo trailer de GTA 6 a caminho? Mudança no GTA Online levanta suspeitas](https://canaltech.com.br/games/novo-trailer-de-gta-6-a-caminho-mudanca-no-gta-online-levanta-suspeitas/) | topico: geral | score: 100
-- [Claude segue ChatGPT e vai 'desenhar' algumas respostas da IA](https://canaltech.com.br/apps/claude-segue-chatgpt-e-vai-desenhar-algumas-respostas-da-ia/) | topico: llms | score: 100
-- [Nvidia anuncia DLSS 5 com foco em visuais realistas feitos com IA! Veja comparativo](https://www.tecmundo.com.br/voxel/503793-nvidia-anuncia-dlss-5-com-foco-em-visuais-realistas-feitos-com-ia-veja-comparativo.htm) | topico: geral | score: 92
-- [Modo adulto do ChatGPT será erótico, não pornográfico, diz OpenAI](https://www.tecmundo.com.br/software/411641-modo-adulto-do-chatgpt-sera-erotico-nao-pornografico-diz-openai.htm) | topico: llms | score: 100
-- [Jessie Buckley, vencedora do Oscar, protagonizou o jogo The Devil in Me! Conheça o game](https://www.tecmundo.com.br/voxel/503787-jessie-buckley-vencedora-do-oscar-protagonizou-o-jogo-the-devil-in-me-conheca-o-game.htm) | topico: geral | score: 100
-- [Galaxy Z Fold Wide: suposto celular tipo tablet da Samsung tem especificações vazadas](https://www.tecmundo.com.br/produto/411632-galaxy-z-fold-wide-suposto-celular-tipo-tablet-da-samsung-tem-especificacoes-vazadas.htm) | topico: geral | score: 100
-- [Motorola Razr 70 tem novas informações vazadas e pode decepcionar; confira imagem](https://www.tecmundo.com.br/produto/411636-motorola-razr-70-tem-novas-informacoes-vazadas-e-pode-decepcionar-confira-imagem.htm) | topico: seguranca-ia | score: 100
-- [Conheça Rooster Fighter, anime em que galo luta contra demônios](https://www.tecmundo.com.br/minha-serie/603395-conheca-rooster-fighter-anime-em-que-galo-luta-contra-demonios.htm) | topico: geral | score: 92
-- [Operações criminosas manipulam usuários para instalar vírus em Macs](https://www.tecmundo.com.br/seguranca/411633-operacoes-criminosas-manipulam-usuarios-para-instalar-virus-em-macs.htm) | topico: geral | score: 92
-- [Huawei lança no Brasil roteador Mesh X3 Pro com design diferente e Wi-Fi 7](https://www.tecmundo.com.br/produto/411634-huawei-lanca-no-brasil-roteador-mesh-x3-pro-com-design-diferente-e-wi-fi-7.htm) | topico: agentes | score: 100
-- [Empresas pedem que UE multe Google por favorecimento em serviço de busca](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/editoras-e-startups-europeias-pedem-que-ue-aplique-multa-ao-google-por-problemas-em-buscas.htm) | topico: geral | score: 92
-- [Nvidia deve revelar novos chips e softwares em megaconferência de IA](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/nvidia-deve-revelar-novos-chips-e-softwares-em-megaconferencia-de-ia.htm) | topico: geral | score: 100
+- [Huawei Watch GT 6 Pro sai 34% mais barato em oferta no Mercado Livre](https://tecnoblog.net/achados/huawei-watch-gt-6-pro-sai-46-mais-barato-em-oferta-no-mercado-livre/) | topico: geral | score: 92
+- [Riot Games começa a barrar menores de idade nos seus jogos](https://tecnoblog.net/noticias/riot-games-comeca-a-bloquear-acesso-de-menores-a-jogos/) | topico: geral | score: 100
+- [Motorola Razr 60 (256 GB) tem redução de 42% no preço no Magalu](https://tecnoblog.net/achados/motorola-razr-60-256-gb-tem-reducao-de-42-no-preco-no-magalu/) | topico: geral | score: 92
+- [Onde assistir aos filmes vencedores do Oscar 2026](https://canaltech.com.br/entretenimento/onde-assistir-aos-filmes-vencedores-do-oscar-2026/) | topico: geral | score: 100
+- [PS5 Pro ganha nova versão do PSSR e melhora gráficos de 14 jogos de peso](https://canaltech.com.br/games/ps5-pro-ganha-nova-versao-do-pssr-e-melhora-graficos-de-14-jogos-de-peso/) | topico: geral | score: 100
+- [Magalu faz queima de iPhone 16e; iPhone barato da Apple vale a pena em oferta](https://canaltech.com.br/smartphone/magalu-faz-queima-de-iphone-16e-iphone-barato-da-apple-vale-a-pena-em-oferta/) | topico: geral | score: 100
+- [FBI investiga jogos da Steam que infectavam gamers com malwares](https://canaltech.com.br/seguranca/fbi-investiga-jogos-da-steam-que-infectavam-gamers-com-malwares/) | topico: geral | score: 100
+- [BYD derruba preço e esportivo elétrico sai por valor de Commander](https://canaltech.com.br/carros/byd-derruba-preco-e-esportivo-eletrico-sai-por-valor-de-commander/) | topico: geral | score: 100
+- [The Last of Us: ator de Invocação do Mal pode interpretar pai de Abby na série](https://canaltech.com.br/entretenimento/the-last-of-us-ator-de-invocacao-do-mal-pode-interpretar-pai-de-abby-na-serie/) | topico: geral | score: 100
+- [HarmonyOS melhor que Android e iOS? É o que a Huawei promete para breve](https://canaltech.com.br/apps/harmonyos-melhor-que-android-e-ios-e-o-que-a-huawei-promete-para-breve/) | topico: geral | score: 100
+- [A "fricção do bem": por que a IA não deve substituir o esforço criativo](https://canaltech.com.br/colunas/a-friccao-do-bem-por-que-a-ia-nao-deve-substituir-o-esforco-criativo/) | topico: agentes | score: 100
+- [Baseus BP1 Pro, o combo que faltava: ANC, Active EQ e 55h de bateria](https://www.tecmundo.com.br/produto/411650-baseus-bp1-pro-o-combo-que-faltava-anc-active-eq-e-55-h-de-bateria.htm) | topico: produtividade-dev | score: 100
+- [Tá amarrado! Robô que se reconstrói sozinho viraliza nas redes](https://www.tecmundo.com.br/internet/411639-ta-amarrado-robo-que-se-reconstroi-sozinho-viraliza-nas-redes.htm) | topico: agentes | score: 100
+- [Eletrodomésticos e eletroportáteis com até 40% OFF no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411644-eletrodomesticos-e-eletroportateis-com-ate-40-off-no-magazine-luiza.htm) | topico: geral | score: 100
+- [Samsung traz smartphones da linha S26 de 512GB com cupom de desconto](https://www.tecmundo.com.br/guia-de-compras/411637-samsung-traz-smartphones-da-linha-s26-de-512gb-com-cupom-de-desconto.htm) | topico: geral | score: 100
+- [Série live-action de Assassin's Creed da Netflix anuncia elenco](https://www.tecmundo.com.br/voxel/503789-serie-live-action-de-assassins-creed-da-netflix-anuncia-elenco.htm) | topico: geral | score: 100
+- ['Arma de desinformação': Trump acusa Irã de usar IA para distorcer notícias](https://www.tecmundo.com.br/seguranca/411638-arma-de-desinformacao-trump-acusa-ira-de-usar-ia-para-distorcer-noticias.htm) | topico: geral | score: 100
+- [OpenClaw: o que é e como proteger seus dados ao usar o assistente de IA em VPS](https://www.tecmundo.com.br/internet/411646-openclaw-o-que-e-e-como-proteger-seus-dados-ao-usar-o-assistente-de-ia-em-vps.htm) | topico: seguranca-ia | score: 100
+- [Operação Cofre Digital mira grupo suspeito de lavar R$ 710 milhões roubados do PIX](https://www.tecmundo.com.br/seguranca/411642-operacao-cofre-digital-mira-grupo-suspeito-de-lavar-r-710-milhoes-roubados-do-pix.htm) | topico: geral | score: 100
+- [Netflix recebe 9 filmes e séries de peso na semana! Veja lista de lançamentos (16)](https://www.tecmundo.com.br/minha-serie/603396-netflix-recebe-9-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-16.htm) | topico: geral | score: 92
+- [Mahle Metal Leve tem lucro estável no 4º tri](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/mahle-metal-leve-tem-lucro-estavel-no-4-tri.htm) | topico: geral | score: 92
+- [Presidente da Nvidia vê pelo menos US$1 tri em oportunidade de receita para chips de IA até 2027](https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/presidente-da-nvidia-ve-pelo-menos-us1-tri-em-oportunidade-de-receita-para-chips-de-ia-ate-2027.htm) | topico: geral | score: 100
+- [Jogadores de Pokémon Go ajudaram a treinar IA para robôs de delivery](https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/30-bilhoes-de-imagens-jogadores-de-pokemon-go-treinaram-ia-sem-saber.ghtm) | topico: geral | score: 100
+- [Planeta alienígena derretido e com atmosfera de enxofre tem paisagem infernal única](https://noticias.uol.com.br/ultimas-noticias/reuters/2026/03/16/planeta-alienigena-derretido-e-com-atmosfera-de-enxofre-exibe-paisagem-infernal-unica.htm) | topico: geral | score: 92
