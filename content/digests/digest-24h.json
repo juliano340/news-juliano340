@@ -1,223 +1,115 @@
 {
-  "generated_at": "2026-03-16T21:12:15.651Z",
+  "generated_at": "2026-03-16T23:06:00.472Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 24,
+  "total": 12,
   "posts": [
     {
-      "title": "Huawei Watch GT 6 Pro sai 34% mais barato em oferta no Mercado Livre",
-      "slug": "huawei-watch-gt-6-pro-sai-34percent-mais-barato-em-oferta-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-16T19:50:20.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/huawei-watch-gt-6-pro-sai-46-mais-barato-em-oferta-no-mercado-livre/"
-    },
-    {
-      "title": "Riot Games começa a barrar menores de idade nos seus jogos",
-      "slug": "riot-games-comeca-a-barrar-menores-de-idade-nos-seus-jogos",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-16T19:30:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/riot-games-comeca-a-bloquear-acesso-de-menores-a-jogos/"
-    },
-    {
-      "title": "Motorola Razr 60 (256 GB) tem redução de 42% no preço no Magalu",
-      "slug": "motorola-razr-60-256-gb-tem-reducao-de-42percent-no-preco-no-magalu",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-16T18:54:12.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/motorola-razr-60-256-gb-tem-reducao-de-42-no-preco-no-magalu/"
-    },
-    {
-      "title": "Onde assistir aos filmes vencedores do Oscar 2026",
-      "slug": "onde-assistir-aos-filmes-vencedores-do-oscar-2026",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T20:54:13.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/onde-assistir-aos-filmes-vencedores-do-oscar-2026/"
-    },
-    {
-      "title": "PS5 Pro ganha nova versão do PSSR e melhora gráficos de 14 jogos de peso",
-      "slug": "ps5-pro-ganha-nova-versao-do-pssr-e-melhora-graficos-de-14-jogos-de-peso",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T20:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ps5-pro-ganha-nova-versao-do-pssr-e-melhora-graficos-de-14-jogos-de-peso/"
-    },
-    {
-      "title": "Magalu faz queima de iPhone 16e; iPhone barato da Apple vale a pena em oferta",
-      "slug": "magalu-faz-queima-de-iphone-16e-iphone-barato-da-apple-vale-a-pena-em-oferta",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T20:49:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/magalu-faz-queima-de-iphone-16e-iphone-barato-da-apple-vale-a-pena-em-oferta/"
-    },
-    {
-      "title": "FBI investiga jogos da Steam que infectavam gamers com malwares",
-      "slug": "fbi-investiga-jogos-da-steam-que-infectavam-gamers-com-malwares",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T20:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/fbi-investiga-jogos-da-steam-que-infectavam-gamers-com-malwares/"
-    },
-    {
-      "title": "BYD derruba preço e esportivo elétrico sai por valor de Commander",
-      "slug": "byd-derruba-preco-e-esportivo-eletrico-sai-por-valor-de-commander",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T20:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/byd-derruba-preco-e-esportivo-eletrico-sai-por-valor-de-commander/"
-    },
-    {
-      "title": "The Last of Us: ator de Invocação do Mal pode interpretar pai de Abby na série",
-      "slug": "the-last-of-us-ator-de-invocacao-do-mal-pode-interpretar-pai-de-abby-na-serie",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/the-last-of-us-ator-de-invocacao-do-mal-pode-interpretar-pai-de-abby-na-serie/"
-    },
-    {
-      "title": "HarmonyOS melhor que Android e iOS? É o que a Huawei promete para breve",
-      "slug": "harmonyos-melhor-que-android-e-ios-e-o-que-a-huawei-promete-para-breve",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-16T19:30:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/harmonyos-melhor-que-android-e-ios-e-o-que-a-huawei-promete-para-breve/"
-    },
-    {
-      "title": "A \"fricção do bem\": por que a IA não deve substituir o esforço criativo",
-      "slug": "a-friccao-do-bem-por-que-a-ia-nao-deve-substituir-o-esforco-criativo",
+      "title": "Apple compra desenvolvedora de plugins do Final Cut Pro",
+      "slug": "apple-compra-desenvolvedora-de-plugins-do-final-cut-pro",
       "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-16T19:22:10.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T21:47:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/colunas/a-friccao-do-bem-por-que-a-ia-nao-deve-substituir-o-esforco-criativo/"
+      "original_url": "https://tecnoblog.net/noticias/apple-compra-desenvolvedora-de-plugins-do-final-cut-pro/"
     },
     {
-      "title": "Baseus BP1 Pro, o combo que faltava: ANC, Active EQ e 55h de bateria",
-      "slug": "baseus-bp1-pro-o-combo-que-faltava-anc-active-eq-e-55h-de-bateria",
+      "title": "IA aumentou produtividade de cibercriminosos, diz Interpol",
+      "slug": "ia-aumentou-produtividade-de-cibercriminosos-diz-interpol",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T21:31:23.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/ia-aumentou-produtividade-de-cibercriminosos-diz-interpol/"
+    },
+    {
+      "title": "Bateria de silício-carbono: como funciona e quais as vantagens e desvantagens",
+      "slug": "bateria-de-silicio-carbono-como-funciona-e-quais-as-vantagens-e-desvantagens",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T21:26:24.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/bateria-de-silicio-carbono-como-funciona-e-quais-as-vantagens-e-desvantagens/"
+    },
+    {
+      "title": "Garmin Forerunner 165 com cupom sai 28% mais barato no Magalu",
+      "slug": "garmin-forerunner-165-com-cupom-sai-28percent-mais-barato-no-magalu",
       "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-16T21:00:52.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-16T21:13:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411650-baseus-bp1-pro-o-combo-que-faltava-anc-active-eq-e-55-h-de-bateria.htm"
+      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-165-com-cupom-sai-28-mais-barato-no-magalu/"
     },
     {
-      "title": "Tá amarrado! Robô que se reconstrói sozinho viraliza nas redes",
-      "slug": "ta-amarrado-robo-que-se-reconstroi-sozinho-viraliza-nas-redes",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-16T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411639-ta-amarrado-robo-que-se-reconstroi-sozinho-viraliza-nas-redes.htm"
+      "title": "Galaxy Buds 4 Pro beira a perfeição, mas escorrega em um detalhe",
+      "slug": "galaxy-buds-4-pro-beira-a-perfeicao-mas-escorrega-em-um-detalhe",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-16T19:48:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/produto/samsung/galaxy-buds-4-pro/analise/"
     },
     {
-      "title": "Eletrodomésticos e eletroportáteis com até 40% OFF no Magazine Luiza",
-      "slug": "eletrodomesticos-e-eletroportateis-com-ate-40percent-off-no-magazine-luiza",
+      "title": "Falha no Linux afeta 12 milhões de servidores",
+      "slug": "falha-no-linux-afeta-12-milhoes-de-servidores",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T20:42:00.000Z",
+      "date": "2026-03-16T22:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411644-eletrodomesticos-e-eletroportateis-com-ate-40-off-no-magazine-luiza.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411647-falha-no-linux-afeta-12-milhoes-de-servidores.htm"
     },
     {
-      "title": "Samsung traz smartphones da linha S26 de 512GB com cupom de desconto",
-      "slug": "samsung-traz-smartphones-da-linha-s26-de-512gb-com-cupom-de-desconto",
+      "title": "Que horas Crimson Desert será lançado? Veja onde jogar",
+      "slug": "que-horas-crimson-desert-sera-lancado-veja-onde-jogar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T20:16:00.000Z",
+      "date": "2026-03-16T22:15:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411637-samsung-traz-smartphones-da-linha-s26-de-512gb-com-cupom-de-desconto.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503788-que-horas-crimson-desert-sera-lancado-veja-onde-jogar.htm"
     },
     {
-      "title": "Série live-action de Assassin's Creed da Netflix anuncia elenco",
-      "slug": "serie-live-action-de-assassins-creed-da-netflix-anuncia-elenco",
+      "title": "Ar-condicionado 9.000 BTUs: conheça 7 melhores opções do mercado",
+      "slug": "ar-condicionado-9000-btus-conheca-7-melhores-opcoes-do-mercado",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T20:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503789-serie-live-action-de-assassins-creed-da-netflix-anuncia-elenco.htm"
+      "date": "2026-03-16T22:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/produto/411503-ar-condicionado-9000-btus-conheca-7-melhores-opcoes-do-mercado.htm"
     },
     {
-      "title": "'Arma de desinformação': Trump acusa Irã de usar IA para distorcer notícias",
-      "slug": "arma-de-desinformacao-trump-acusa-ira-de-usar-ia-para-distorcer-noticias",
+      "title": "Galaxy A37 e Galaxy A57 aparecem em vídeo de hands-on antes do lançamento",
+      "slug": "galaxy-a37-e-galaxy-a57-aparecem-em-video-de-hands-on-antes-do-lancamento",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T20:00:00.000Z",
+      "date": "2026-03-16T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411638-arma-de-desinformacao-trump-acusa-ira-de-usar-ia-para-distorcer-noticias.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411643-galaxy-a37-e-galaxy-a57-aparecem-em-video-de-hands-on-antes-do-lancamento.htm"
     },
     {
-      "title": "OpenClaw: o que é e como proteger seus dados ao usar o assistente de IA em VPS",
-      "slug": "openclaw-o-que-e-e-como-proteger-seus-dados-ao-usar-o-assistente-de-ia-em-vps",
+      "title": "Bug grave ‘bloqueia’ disco local do Windows 11 em notebooks da Samsung",
+      "slug": "bug-grave-bloqueia-disco-local-do-windows-11-em-notebooks-da-samsung",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-16T19:52:23.000Z",
+      "date": "2026-03-16T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411646-openclaw-o-que-e-e-como-proteger-seus-dados-ao-usar-o-assistente-de-ia-em-vps.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411649-bug-grave-bloqueia-disco-local-do-windows-11-em-notebooks-da-samsung.htm"
     },
     {
-      "title": "Operação Cofre Digital mira grupo suspeito de lavar R$ 710 milhões roubados do PIX",
-      "slug": "operacao-cofre-digital-mira-grupo-suspeito-de-lavar-rdollar-710-milhoes-roubados-do-pix",
+      "title": "Acessórios para Playstation em promoção: Dualsense, Pulse Elite e mais",
+      "slug": "acessorios-para-playstation-em-promocao-dualsense-pulse-elite-e-mais",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T19:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411642-operacao-cofre-digital-mira-grupo-suspeito-de-lavar-r-710-milhoes-roubados-do-pix.htm"
+      "date": "2026-03-16T21:26:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503794-acessorios-para-playstation-em-promocao-dualsense-pulse-elite-e-mais.htm"
     },
     {
-      "title": "Netflix recebe 9 filmes e séries de peso na semana! Veja lista de lançamentos (16)",
-      "slug": "netflix-recebe-9-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-16",
+      "title": "Filmes vencedores do Oscar estão disponíveis no streaming! Veja onde assistir",
+      "slug": "filmes-vencedores-do-oscar-estao-disponiveis-no-streaming-veja-onde-assistir",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-16T19:15:25.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603396-netflix-recebe-9-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-16.htm"
-    },
-    {
-      "title": "Mahle Metal Leve tem lucro estável no 4º tri",
-      "slug": "mahle-metal-leve-tem-lucro-estavel-no-4o-tri",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T21:03:47.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/mahle-metal-leve-tem-lucro-estavel-no-4-tri.htm"
-    },
-    {
-      "title": "Presidente da Nvidia vê pelo menos US$1 tri em oportunidade de receita para chips de IA até 2027",
-      "slug": "presidente-da-nvidia-ve-pelo-menos-usdollar1-tri-em-oportunidade-de-receita-para-chips-de-ia-ate-2027",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T20:30:28.000Z",
+      "date": "2026-03-16T21:15:48.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/16/presidente-da-nvidia-ve-pelo-menos-us1-tri-em-oportunidade-de-receita-para-chips-de-ia-ate-2027.htm"
-    },
-    {
-      "title": "Jogadores de Pokémon Go ajudaram a treinar IA para robôs de delivery",
-      "slug": "jogadores-de-pokemon-go-ajudaram-a-treinar-ia-para-robos-de-delivery",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T20:26:54.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/30-bilhoes-de-imagens-jogadores-de-pokemon-go-treinaram-ia-sem-saber.ghtm"
-    },
-    {
-      "title": "Planeta alienígena derretido e com atmosfera de enxofre tem paisagem infernal única",
-      "slug": "planeta-alienigena-derretido-e-com-atmosfera-de-enxofre-tem-paisagem-infernal-unica",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T18:41:18.000Z",
-      "editorial_score": 92,
-      "original_url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/03/16/planeta-alienigena-derretido-e-com-atmosfera-de-enxofre-exibe-paisagem-infernal-unica.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603402-filmes-vencedores-do-oscar-estao-disponiveis-no-streaming-veja-onde-assistir.htm"
     }
   ]
 }

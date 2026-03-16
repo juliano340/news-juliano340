@@ -1,6 +1,6 @@
 {
-  "slug": "galaxy-buds-4-pro-beira-a-perfeicao-mas-escorrega-em-um-detalhe",
-  "generated_at": "2026-03-16T23:03:12.302Z",
+  "slug": "acessorios-para-playstation-em-promocao-dualsense-pulse-elite-e-mais",
+  "generated_at": "2026-03-16T23:05:43.755Z",
   "status": "WARN",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 341,
+      "words": 253,
       "min": 220
     },
     {

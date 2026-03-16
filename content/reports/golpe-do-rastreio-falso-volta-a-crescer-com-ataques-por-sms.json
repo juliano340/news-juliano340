@@ -1,6 +1,6 @@
 {
-  "slug": "apple-vai-manter-visual-polemico-no-ios-27-mas-promete-novidade-surpresa",
-  "generated_at": "2026-03-16T23:02:58.618Z",
+  "slug": "golpe-do-rastreio-falso-volta-a-crescer-com-ataques-por-sms",
+  "generated_at": "2026-03-16T23:03:44.944Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 332,
+      "words": 362,
       "min": 220
     },
     {
