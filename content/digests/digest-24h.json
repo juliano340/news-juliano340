@@ -1,43 +1,61 @@
 {
-  "generated_at": "2026-03-16T09:02:59.079Z",
+  "generated_at": "2026-03-16T11:03:38.829Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 6,
   "posts": [
     {
-      "title": "O que é workslop? Veja como a IA pode mais atrapalhar do que ajudar no trabalho",
-      "slug": "o-que-e-workslop-veja-como-a-ia-pode-mais-atrapalhar-do-que-ajudar-no-trabalho",
+      "title": "Startup brasileira usa modelo de IA para evitar 'bloqueio de fala' com o inglês",
+      "slug": "startup-brasileira-usa-modelo-de-ia-para-evitar-bloqueio-de-fala-com-o-ingles",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-16T09:00:00.000Z",
+      "date": "2026-03-16T11:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/mercado/o-que-e-workslop-veja-como-a-ia-pode-mais-atrapalhar-do-que-ajudar-no-trabalho/"
+      "original_url": "https://canaltech.com.br/mercado/startup-brasileira-usa-modelo-de-ia-para-evitar-bloqueio-de-fala-com-o-ingles/"
     },
     {
-      "title": "IA pode ajudar você a aprender inglês? Entenda como funciona",
-      "slug": "ia-pode-ajudar-voce-a-aprender-ingles-entenda-como-funciona",
-      "topic": "agentes",
+      "title": "Panela de arroz da Xiaomi se ajusta sozinha para \"resultados perfeitos\"",
+      "slug": "panela-de-arroz-da-xiaomi-se-ajusta-sozinha-para-resultados-perfeitos",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-03-16T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/ia-pode-ajudar-voce-a-aprender-ingles-entenda-como-funciona-6401/"
+      "date": "2026-03-16T10:54:49.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/casa-conectada/panela-de-arroz-da-xiaomi-se-ajusta-sozinha-para-resultados-perfeitos/"
     },
     {
-      "title": "Palpites para Chelsea x Paris Saint-Germain: Análises e Onde Assistir (17/03/2026)",
-      "slug": "palpites-para-chelsea-x-paris-saint-germain-analises-e-onde-assistir-17032026",
+      "title": "Qual é o melhor celular de até R$ 3.000 para comprar em março de 2026?",
+      "slug": "qual-e-o-melhor-celular-de-ate-rdollar-3000-para-comprar-em-marco-de-2026",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T10:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/qual-e-o-melhor-celular-de-ate-r-3000-para-comprar-em-2026/"
+    },
+    {
+      "title": "Vaza celular dobrável largo da Samsung; objetivo é rivalizar com iPhone Fold",
+      "slug": "vaza-celular-dobravel-largo-da-samsung-objetivo-e-rivalizar-com-iphone-fold",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-16T10:14:45.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/vaza-celular-dobravel-largo-da-samsung-objetivo-e-rivalizar-com-iphone-fold/"
+    },
+    {
+      "title": "Uber atualiza lista de carros permitidos nas categorias Black e Comfort",
+      "slug": "uber-atualiza-lista-de-carros-permitidos-nas-categorias-black-e-comfort",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-16T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/uber-atualiza-lista-de-carros-permitidos-nas-categorias-black-e-comfort/"
+    },
+    {
+      "title": "Palpites para Arsenal x Bayer Leverkusen: Análises e Onde Assistir (17/03/2026)",
+      "slug": "palpites-para-arsenal-x-bayer-leverkusen-analises-e-onde-assistir-17032026",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-16T09:00:00.000Z",
+      "date": "2026-03-16T11:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411607-palpites-para-chelsea-x-paris-saint-germain-analises-e-onde-assistir-17032026.htm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (16)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-marco-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-16T08:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/16/qual-e-a-fase-da-lua-hoje-16-veja-calendario-lunar-de-marco-de-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411611-palpites-para-arsenal-x-bayer-leverkusen-analises-e-onde-assistir-17032026.htm"
     }
   ]
 }
