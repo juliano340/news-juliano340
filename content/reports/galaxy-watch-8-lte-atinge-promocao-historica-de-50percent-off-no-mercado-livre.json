@@ -1,0 +1,19 @@
+{
+  "slug": "galaxy-watch-8-lte-atinge-promocao-historica-de-50percent-off-no-mercado-livre",
+  "generated_at": "2026-03-17T15:00:43.313Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

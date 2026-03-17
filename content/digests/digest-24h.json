@@ -1,178 +1,187 @@
 {
-  "generated_at": "2026-03-17T13:11:21.045Z",
+  "generated_at": "2026-03-17T15:17:07.795Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 19,
+  "total": 20,
   "posts": [
     {
-      "title": "Pokémon Go vai usar dados de jogadores para treinar robôs de entrega",
-      "slug": "pokemon-go-vai-usar-dados-de-jogadores-para-treinar-robos-de-entrega",
-      "topic": "produtividade-dev",
+      "title": "Galaxy Z TriFold está sendo descontinuado pela Samsung",
+      "slug": "galaxy-z-trifold-esta-sendo-descontinuado-pela-samsung",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-17T12:20:59.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/pokemon-go-vai-usar-dados-de-jogadores-para-treinar-robos-de-entrega/"
+      "date": "2026-03-17T13:49:12.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/samsung-comeca-a-encerrar-vendas-do-galaxy-z-trifold/"
     },
     {
-      "title": "Nvidia revela DLSS 5 com IA generativa para gráficos fotorrealistas",
-      "slug": "nvidia-revela-dlss-5-com-ia-generativa-para-graficos-fotorrealistas",
-      "topic": "produtividade-dev",
+      "title": "ECA Digital entra em vigor para proteger menores na internet; veja mudanças",
+      "slug": "eca-digital-entra-em-vigor-para-proteger-menores-na-internet-veja-mudancas",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-17T10:49:20.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/nvidia-revela-dlss-5-com-ia-generativa-para-graficos-fotorrealistas/"
+      "date": "2026-03-17T13:44:19.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/eca-digital-entra-em-vigor-para-proteger-menores-na-internet-veja-mudancas/"
     },
     {
-      "title": "Celular mais incrível já feito pela Samsung terá vendas encerradas, diz site",
-      "slug": "celular-mais-incrivel-ja-feito-pela-samsung-tera-vendas-encerradas-diz-site",
+      "title": "Série de Assassin's Creed na Netflix confirma novos atores no elenco",
+      "slug": "serie-de-assassins-creed-na-netflix-confirma-novos-atores-no-elenco",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-17T12:52:27.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/celular-mais-incrivel-ja-feito-pela-samsung-tera-vendas-encerradas-diz-site/"
+      "date": "2026-03-17T14:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/serie-de-assassins-creed-na-netflix-confirma-novos-atores-no-elenco/"
     },
     {
-      "title": "Meta vai lançar recurso para combater confusão que ela própria criou",
-      "slug": "meta-vai-lancar-recurso-para-combater-confusao-que-ela-propria-criou",
+      "title": "\"Recurso secreto\" do Galaxy S26 Ultra faz retrato como fotógrafo profissional",
+      "slug": "recurso-secreto-do-galaxy-s26-ultra-faz-retrato-como-fotografo-profissional",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T14:37:37.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/recurso-secreto-do-galaxy-s26-ultra-faz-retrato-como-fotografo-profissional/"
+    },
+    {
+      "title": "Recurso do Gemini vai permitir criar novos chats a partir de respostas geradas",
+      "slug": "recurso-do-gemini-vai-permitir-criar-novos-chats-a-partir-de-respostas-geradas",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-17T14:35:35.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/recurso-do-gemini-vai-permitir-criar-novos-chats-a-partir-de-respostas-geradas/"
+    },
+    {
+      "title": "DLSS 5 deixa os jogos absurdamente bonitos e estranhamente artificiais",
+      "slug": "dlss-5-deixa-os-jogos-absurdamente-bonitos-e-estranhamente-artificiais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T14:30:11.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/dlss-5-deixa-os-jogos-absurdamente-bonitos-e-estranhamente-artificiais/"
+    },
+    {
+      "title": "Novo Mario 3D deve chegar em 2026 para impulsionar o Switch 2",
+      "slug": "novo-mario-3d-deve-chegar-em-2026-para-impulsionar-o-switch-2",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T14:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/novo-mario-3d-deve-chegar-em-2026-para-impulsionar-o-switch-2/"
+    },
+    {
+      "title": "Quanto custa manter um iPhone por 5 anos no Brasil?",
+      "slug": "quanto-custa-manter-um-iphone-por-5-anos-no-brasil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T14:14:27.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/quanto-custa-manter-um-iphone-por-5-anos-no-brasil/"
+    },
+    {
+      "title": "Falha no Gemini permitia que extensões falsas espionassem usuários do Chrome",
+      "slug": "falha-no-gemini-permitia-que-extensoes-falsas-espionassem-usuarios-do-chrome",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T14:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/falha-no-gemini-permitia-que-extensoes-falsas-espionassem-usuarios-do-chrome/"
+    },
+    {
+      "title": "Galaxy A17: testamos o celular básico que tem exatamente o necessário",
+      "slug": "galaxy-a17-testamos-o-celular-basico-que-tem-exatamente-o-necessario",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T14:04:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produto/samsung/galaxy-a17/analise/"
+    },
+    {
+      "title": "Apple Watch teria causado queimadura e usuário relata descaso da fabricante",
+      "slug": "apple-watch-teria-causado-queimadura-e-usuario-relata-descaso-da-fabricante",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-17T12:23:55.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/meta-vai-lancar-recurso-para-combater-confusao-que-ela-propria-criou/"
-    },
-    {
-      "title": "Adobe tá maluca: Creative Cloud Pro com 85% de desconto; veja como conseguir",
-      "slug": "adobe-ta-maluca-creative-cloud-pro-com-85percent-de-desconto-veja-como-conseguir",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-17T12:19:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/adobe-ta-maluca-creative-cloud-pro-com-85-de-desconto-veja-como-conseguir/"
-    },
-    {
-      "title": "Tecnologia secreta da Samsung quer deixar TVs com tela OLED no passado; entenda",
-      "slug": "tecnologia-secreta-da-samsung-quer-deixar-tvs-com-tela-oled-no-passado-entenda",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-17T12:13:05.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-17T15:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/eletro/tecnologia-secreta-da-samsung-quer-deixar-tvs-com-tela-oled-no-passado-entenda/"
+      "original_url": "https://www.tecmundo.com.br/produto/411656-apple-watch-teria-causado-queimadura-e-usuario-relata-descaso-da-fabricante.htm"
     },
     {
-      "title": "Volkswagen aceita \"fiasco\" em vendas de elétricos e mira lucro em baterias",
-      "slug": "volkswagen-aceita-fiasco-em-vendas-de-eletricos-e-mira-lucro-em-baterias",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-17T12:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/volkswagen-aceita-fiasco-em-vendas-de-eletricos-e-mira-lucro-em-baterias/"
-    },
-    {
-      "title": "Gaming Copilot chega ao Xbox em 2026 para virar seu guia dentro do jogo",
-      "slug": "gaming-copilot-chega-ao-xbox-em-2026-para-virar-seu-guia-dentro-do-jogo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T12:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/gaming-copilot-chega-ao-xbox-em-2026-para-virar-seu-guia-dentro-do-jogo/"
-    },
-    {
-      "title": "iPhone 19e \"barato\" vai trazer recurso esperado há anos, revela site",
-      "slug": "iphone-19e-barato-vai-trazer-recurso-esperado-ha-anos-revela-site",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T11:19:47.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/iphone-19e-barato-vai-trazer-recurso-esperado-ha-anos-revela-site/"
-    },
-    {
-      "title": "Falha de SQL injection em plugin ameaça mais de 400 mil sites no WordPress",
-      "slug": "falha-de-sql-injection-em-plugin-ameaca-mais-de-400-mil-sites-no-wordpress",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T11:10:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/falha-de-sql-injection-em-plugin-ameaca-mais-de-400-mil-sites-no-wordpress/"
-    },
-    {
-      "title": "Nvidia revela plataforma de IA para futuros data centers no espaço",
-      "slug": "nvidia-revela-plataforma-de-ia-para-futuros-data-centers-no-espaco",
+      "title": "Galaxy Z TriFold será descontinuado apenas 3 meses após o lançamento",
+      "slug": "galaxy-z-trifold-sera-descontinuado-apenas-3-meses-apos-o-lancamento",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-17T13:00:00.000Z",
+      "date": "2026-03-17T14:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411658-nvidia-revela-plataforma-de-ia-para-futuros-data-centers-no-espaco.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411665-galaxy-z-trifold-sera-descontinuado-apenas-3-meses-apos-o-lancamento.htm"
     },
     {
-      "title": "Mindhunter: uma das melhores séries da Netflix está escondida e sem uma sequência",
-      "slug": "mindhunter-uma-das-melhores-series-da-netflix-esta-escondida-e-sem-uma-sequencia",
+      "title": "ECA Digital: Google restringe Busca, YouTube e Play Store para menores",
+      "slug": "eca-digital-google-restringe-busca-youtube-e-play-store-para-menores",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-17T12:49:29.000Z",
+      "date": "2026-03-17T14:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603406-mindhunter-uma-das-melhores-series-da-netflix-esta-escondida-e-sem-uma-sequencia.htm"
+      "original_url": "https://www.tecmundo.com.br/internet/411664-eca-digital-google-restringe-busca-youtube-e-play-store-para-menores.htm"
     },
     {
-      "title": "Galaxy Watch 7 reaparece com o menor preço no Mercado Livre; garanta seu smartwatch Samsung",
-      "slug": "galaxy-watch-7-reaparece-com-o-menor-preco-no-mercado-livre-garanta-seu-smartwatch-samsung",
+      "title": "DLSS 5 vira piada e recebe críticas online! Veja memes com a tecnologia",
+      "slug": "dlss-5-vira-piada-e-recebe-criticas-online-veja-memes-com-a-tecnologia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-17T12:36:00.000Z",
+      "date": "2026-03-17T13:31:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411660-galaxy-watch-7-reaparece-com-o-menor-preco-no-mercado-livre-garanta-seu-smartwatch-samsung.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503797-dlss-5-vira-piada-e-recebe-criticas-online-veja-memes-com-a-tecnologia.htm"
     },
     {
-      "title": "Taxa mínima para entregadores reduzirá pedidos em 67%, diz pesquisa do iFood",
-      "slug": "taxa-minima-para-entregadores-reduzira-pedidos-em-67percent-diz-pesquisa-do-ifood",
+      "title": "Galaxy S26 Ultra perde brilho por causa da Tela de Privacidade, admite Samsung",
+      "slug": "galaxy-s26-ultra-perde-brilho-por-causa-da-tela-de-privacidade-admite-samsung",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-17T12:15:00.000Z",
+      "date": "2026-03-17T13:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411653-taxa-minima-para-entregadores-reduzira-pedidos-em-67-diz-pesquisa-do-ifood.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411661-galaxy-s26-ultra-perde-brilho-por-causa-da-tela-de-privacidade-admite-samsung.htm"
     },
     {
-      "title": "Como o marketing passou a ocupar um papel cada vez mais estratégico nas empresas",
-      "slug": "como-o-marketing-passou-a-ocupar-um-papel-cada-vez-mais-estrategico-nas-empresas",
+      "title": "Carregadores portáteis em promoção na Amazon: veja as ofertas",
+      "slug": "carregadores-portateis-em-promocao-na-amazon-veja-as-ofertas",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-17T12:00:00.000Z",
+      "date": "2026-03-17T13:16:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411651-como-o-marketing-passou-a-ocupar-um-papel-cada-vez-mais-estrategico-nas-empresas.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411659-carregadores-portateis-em-promocao-na-amazon-veja-as-ofertas.htm"
     },
     {
-      "title": "Lei Felca: Rockstar Games bloqueia venda de jogos no Brasil em sua loja; GTA 6 será afetado?",
-      "slug": "lei-felca-rockstar-games-bloqueia-venda-de-jogos-no-brasil-em-sua-loja-gta-6-sera-afetado",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-17T11:30:30.000Z",
+      "title": "OpenAI venderá IA para agências dos EUA por meio da Amazon",
+      "slug": "openai-vendera-ia-para-agencias-dos-eua-por-meio-da-amazon",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-17T15:08:40.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503795-lei-felca-rockstar-games-bloqueia-venda-de-jogos-no-brasil-em-sua-loja.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/openai-vendera-ia-para-agencias-dos-eua-por-meio-da-amazon.htm"
     },
     {
-      "title": "O que é a Grand Line de One Piece? Entenda a geografia do mundo do anime e da série",
-      "slug": "o-que-e-a-grand-line-de-one-piece-entenda-a-geografia-do-mundo-do-anime-e-da-serie",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-17T11:15:00.000Z",
+      "title": "Enciclopédia Britannica processa OpenAI por uso ilegal de artigos no ChatGPT",
+      "slug": "enciclopedia-britannica-processa-openai-por-uso-ilegal-de-artigos-no-chatgpt",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-17T14:24:22.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603400-o-que-e-a-grand-line-de-one-piece-entenda-a-geografia-do-mundo-do-anime-e-da-serie.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/enciclopedia-britannica-processa-openai-por-uso-ilegal-de-artigos-no-chatgpt.htm"
     },
     {
-      "title": "O que acontece com o Irã após país barrar sistemas da Starlink",
-      "slug": "o-que-acontece-com-o-ira-apos-pais-barrar-sistemas-da-starlink",
+      "title": "Uber investirá US$500 mi na Argentina em 3 anos, diz ministro",
+      "slug": "uber-investira-usdollar500-mi-na-argentina-em-3-anos-diz-ministro",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-17T13:02:17.000Z",
+      "date": "2026-03-17T14:11:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/ira-apreende-satelites-starlink.ghtm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/uber-investira-us500-mi-na-argentina-em-3-anos-diz-ministro.htm"
     },
     {
-      "title": "Adolescentes processam IA de Musk nos EUA por gerar deepfakes pornográficos",
-      "slug": "adolescentes-processam-ia-de-musk-nos-eua-por-gerar-deepfakes-pornograficos",
+      "title": "Continente africano se parte lentamente e pode formar novo oceano",
+      "slug": "continente-africano-se-parte-lentamente-e-pode-formar-novo-oceano",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-17T11:35:03.000Z",
+      "date": "2026-03-17T13:23:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/03/17/adolescentes-processam-ia-de-musk-nos-eua-por-gerar-deepfakes-pornograficos.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/fenda-em-forma-de-y-divide-a-africa-e-pode-dar-origem-a-um-novo-oceano.ghtm"
     }
   ]
 }
