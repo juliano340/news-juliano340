@@ -1,6 +1,6 @@
 {
-  "slug": "analistas-revisam-previsoes-de-divida-dos-hiperescaladores-de-ia-apos-emissao-da-amazon",
-  "generated_at": "2026-03-17T23:10:30.245Z",
+  "slug": "nasa-confirma-data-para-primeira-missao-tripulada-a-lua-em-50-anos-veja-quando-sera",
+  "generated_at": "2026-03-17T23:09:34.567Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 376,
+      "words": 302,
       "min": 220
     },
     {

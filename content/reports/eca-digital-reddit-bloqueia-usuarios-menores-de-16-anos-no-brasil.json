@@ -1,6 +1,6 @@
 {
-  "slug": "analistas-revisam-previsoes-de-divida-dos-hiperescaladores-de-ia-apos-emissao-da-amazon",
-  "generated_at": "2026-03-17T23:10:30.245Z",
+  "slug": "eca-digital-reddit-bloqueia-usuarios-menores-de-16-anos-no-brasil",
+  "generated_at": "2026-03-17T23:07:35.936Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 376,
+      "words": 390,
       "min": 220
     },
     {

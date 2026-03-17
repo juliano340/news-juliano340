@@ -1,6 +1,6 @@
 {
-  "slug": "analistas-revisam-previsoes-de-divida-dos-hiperescaladores-de-ia-apos-emissao-da-amazon",
-  "generated_at": "2026-03-17T23:10:30.245Z",
+  "slug": "o-que-e-ahri-e-por-que-isso-e-relevante-no-setor-de-climatizacao",
+  "generated_at": "2026-03-17T23:05:23.001Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 376,
+      "words": 327,
       "min": 220
     },
     {

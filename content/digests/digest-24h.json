@@ -1,205 +1,142 @@
 {
-  "generated_at": "2026-03-17T21:14:31.302Z",
+  "generated_at": "2026-03-17T23:10:31.248Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 22,
+  "total": 15,
   "posts": [
     {
-      "title": "ECA Digital: Google e Meta explicam como é a verificação de idade em suas plataformas",
-      "slug": "eca-digital-google-e-meta-explicam-como-e-a-verificacao-de-idade-em-suas-plataformas",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-17T20:27:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/17/eca-digital-plataformas-verificacao-idade.ghtml"
-    },
-    {
-      "title": "Galaxy Tab S10 FE com tela de 10,9″ sai 40% mais barato em promoção",
-      "slug": "galaxy-tab-s10-fe-com-tela-de-109-sai-40percent-mais-barato-em-promocao",
+      "title": "Huawei Watch Fit 4 Pro surge com 53% de desconto em promoção no Mercado Livre",
+      "slug": "huawei-watch-fit-4-pro-surge-com-53percent-de-desconto-em-promocao-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-17T20:47:22.000Z",
+      "date": "2026-03-17T21:40:29.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-com-tela-de-109-sai-40-mais-barato-em-promocao/"
+      "original_url": "https://tecnoblog.net/achados/huawei-watch-fit-4-pro-surge-com-53-de-desconto-em-promocao-no-mercado-livre/"
     },
     {
-      "title": "Galaxy S26 Ultra: Tela de Privacidade causa náuseas em alguns usuários",
-      "slug": "galaxy-s26-ultra-tela-de-privacidade-causa-nauseas-em-alguns-usuarios",
+      "title": "Justiça de São Paulo reverte banimento sofrido por jogador de Call of Duty",
+      "slug": "justica-de-sao-paulo-reverte-banimento-sofrido-por-jogador-de-call-of-duty",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-17T20:30:31.000Z",
+      "date": "2026-03-17T19:31:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/galaxy-s26-ultra-tela-de-privacidade-causa-nauseas-em-alguns-usuarios/"
+      "original_url": "https://tecnoblog.net/noticias/justica-de-sao-paulo-reverte-banimento-sofrido-por-jogador-de-call-of-duty/"
     },
     {
-      "title": "Galaxy S25 FE 5G recebe 48% de desconto com cupom em promoção",
-      "slug": "galaxy-s25-fe-5g-recebe-48percent-de-desconto-com-cupom-em-promocao",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-17T19:55:02.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-fe-5g-recebe-48-de-desconto-com-cupom-em-promocao/"
-    },
-    {
-      "title": "Moto G86 5G (256 GB) cai 45% para menor preço histórico com cupom no Magalu",
-      "slug": "moto-g86-5g-256-gb-cai-45percent-para-menor-preco-historico-com-cupom-no-magalu",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-17T18:54:16.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/moto-g86-5g-256-gb-cai-45-para-menor-preco-historico-com-cupom-no-magalu/"
-    },
-    {
-      "title": "Reddit bloqueia menores de 16 anos no Brasil devido ao ECA Digital",
-      "slug": "reddit-bloqueia-menores-de-16-anos-no-brasil-devido-ao-eca-digital",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-17T18:52:51.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/reddit-bloqueia-menores-de-16-anos-no-brasil-devido-ao-eca-digital/"
-    },
-    {
-      "title": "Fim da criptografia nas DMs do Instagram: motivo real parece história de novela",
-      "slug": "fim-da-criptografia-nas-dms-do-instagram-motivo-real-parece-historia-de-novela",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-17T20:51:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/fim-da-criptografia-nas-dms-do-instagram-motivo-real-parece-historia-de-novela/"
-    },
-    {
-      "title": "Como empresas usam agentes de IA? Evento debate o tema em SP",
-      "slug": "como-empresas-usam-agentes-de-ia-evento-debate-o-tema-em-sp",
+      "title": "Dell lança novos notebooks gamer Alienware com tela OLED e novas CPUs Intel",
+      "slug": "dell-lanca-novos-notebooks-gamer-alienware-com-tela-oled-e-novas-cpus-intel",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-17T20:47:35.000Z",
+      "date": "2026-03-17T21:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/como-empresas-usam-agentes-de-ia-evento-debate-o-tema-em-sp/"
+      "original_url": "https://canaltech.com.br/notebook/dell-lanca-novos-notebooks-gamer-alienware-com-tela-oled-e-novas-cpus-intel/"
     },
     {
-      "title": "Starlink confirma que já tem 10 mil satélites; saiba o que muda para você",
-      "slug": "starlink-confirma-que-ja-tem-10-mil-satelites-saiba-o-que-muda-para-voce",
-      "topic": "infra-ia",
-      "source": "Canaltech",
-      "date": "2026-03-17T20:04:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/telecom/starlink-confirma-que-ja-tem-10-mil-satelites-saiba-o-que-muda-para-voce/"
-    },
-    {
-      "title": "Samsung começa a vender Galaxy A57 e A37 sem fazer anúncio oficial; veja preços",
-      "slug": "samsung-comeca-a-vender-galaxy-a57-e-a37-sem-fazer-anuncio-oficial-veja-precos",
+      "title": "Core Ultra 200HX Plus promete desempenho 62% superior, mas com um detalhe",
+      "slug": "core-ultra-200hx-plus-promete-desempenho-62percent-superior-mas-com-um-detalhe",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-17T19:43:00.000Z",
+      "date": "2026-03-17T21:05:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-comeca-a-vender-galaxy-a57-e-a37-sem-fazer-anuncio-oficial-veja-precos/"
+      "original_url": "https://canaltech.com.br/hardware/core-ultra-200hx-plus-promete-desempenho-62-superior-mas-com-um-detalhe/"
     },
     {
-      "title": "Gemini vai \"roubar\" um dos melhores recursos do ChatGPT; veja qual",
-      "slug": "gemini-vai-roubar-um-dos-melhores-recursos-do-chatgpt-veja-qual",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-17T19:31:07.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/gemini-vai-roubar-um-dos-melhores-recursos-do-chatgpt-veja-qual/"
-    },
-    {
-      "title": "Empresário que \"voou\" com Ford Ranger apronta de novo e destrói SUV elétrico",
-      "slug": "empresario-que-voou-com-ford-ranger-apronta-de-novo-e-destroi-suv-eletrico",
+      "title": "Homem em Chamas: Veja trailer, data e tudo sobre série de Hollywood ambientada no Rio",
+      "slug": "homem-em-chamas-veja-trailer-data-e-tudo-sobre-serie-de-hollywood-ambientada-no-rio",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T19:24:33.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/empresario-que-voou-com-ford-ranger-apronta-de-novo-e-destroi-suv-eletrico/"
-    },
-    {
-      "title": "Climão: Set de Street Fighter tentou manter Guile e Akuma longe um do outro",
-      "slug": "climao-set-de-street-fighter-tentou-manter-guile-e-akuma-longe-um-do-outro",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T19:20:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-17T22:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/climao-set-de-street-fighter-tentou-manter-guile-e-akuma-longe-um-do-outro/"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603398-homem-em-chamas-veja-trailer-data-e-tudo-sobre-serie-de-hollywood-ambientada-no-rio.htm"
     },
     {
-      "title": "\"Netflix sem internet\" existe e cabe no bolso de qualquer um; conheça novidade",
-      "slug": "netflix-sem-internet-existe-e-cabe-no-bolso-de-qualquer-um-conheca-novidade",
+      "title": "LeakNet usa uma ferramenta legítima de programadores para atacar empresas",
+      "slug": "leaknet-usa-uma-ferramenta-legitima-de-programadores-para-atacar-empresas",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T19:13:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-17T22:35:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/acessorios/netflix-sem-internet-existe-e-cabe-no-bolso-de-qualquer-um-conheca-novidade/"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411677-leaknet-usa-uma-ferramenta-legitima-de-programadores-para-atacar-empresas.htm"
     },
     {
-      "title": "Magalu faz queima de TV TCL MiniLED de 50\"; custo-benefício do ano em promoção",
-      "slug": "magalu-faz-queima-de-tv-tcl-miniled-de-50-custo-beneficio-do-ano-em-promocao",
+      "title": "Marathon e mais jogos da Steam com até 93% OFF na Nuuvem; confira",
+      "slug": "marathon-e-mais-jogos-da-steam-com-ate-93percent-off-na-nuuvem-confira",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T19:11:09.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-17T22:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tv/magalu-faz-queima-de-tv-tcl-miniled-de-50-custo-beneficio-do-ano-em-promocao/"
+      "original_url": "https://www.tecmundo.com.br/voxel/503804-marathon-e-mais-jogos-da-steam-com-ate-93-off-na-nuuvem-confira.htm"
     },
     {
-      "title": "Oppo Find N6 é lançado com tela sem vinco e bateria de 6.000 mAh",
-      "slug": "oppo-find-n6-e-lancado-com-tela-sem-vinco-e-bateria-de-6000-mah",
+      "title": "Vidar 2.0: vírus usa trapaças 'falsas' para roubar dados",
+      "slug": "vidar-20-virus-usa-trapacas-falsas-para-roubar-dados",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T22:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411670-vidar-20-virus-usa-trapacas-falsas-para-roubar-dados.htm"
+    },
+    {
+      "title": "O que é AHRI e por que isso é relevante no setor de climatização?",
+      "slug": "o-que-e-ahri-e-por-que-isso-e-relevante-no-setor-de-climatizacao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T21:44:47.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411685-o-que-e-ahri-e-por-que-isso-e-relevante-no-setor-de-climatizacao.htm"
+    },
+    {
+      "title": "Botnet RondoDox explorou centenas de vulnerabilidades em 9 meses",
+      "slug": "botnet-rondodox-explorou-centenas-de-vulnerabilidades-em-9-meses",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T21:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411683-botnet-rondodox-explorou-centenas-de-vulnerabilidades-em-9-meses.htm"
+    },
+    {
+      "title": "ECA Digital: Reddit bloqueia usuários menores de 16 anos no Brasil",
+      "slug": "eca-digital-reddit-bloqueia-usuarios-menores-de-16-anos-no-brasil",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-17T21:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/redes-sociais/411684-eca-digital-reddit-bloqueia-usuarios-menores-de-16-anos-no-brasil.htm"
+    },
+    {
+      "title": "Nexus Mods passa por mudança no Brasil para se adequar à Lei Felca",
+      "slug": "nexus-mods-passa-por-mudanca-no-brasil-para-se-adequar-a-lei-felca",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T21:15:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503801-nexus-mods-passa-por-mudanca-no-brasil-para-se-adequar-a-lei-felca.htm"
+    },
+    {
+      "title": "Cafeteira Dolce Gusto Mini Me pelo menor preço e com 30 capsulas grátis; confira oportunidade",
+      "slug": "cafeteira-dolce-gusto-mini-me-pelo-menor-preco-e-com-30-capsulas-gratis-confira-oportunidade",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-17T21:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/produto/411679-oppo-find-n6-e-lancado-com-tela-sem-vinco-e-bateria-de-6000-mah.htm"
-    },
-    {
-      "title": "Netflix recebe série true crime com estrela da Marvel! Conheça Amor & Morte",
-      "slug": "netflix-recebe-serie-true-crime-com-estrela-da-marvel-conheca-amor-and-morte",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-17T20:45:00.000Z",
+      "date": "2026-03-17T21:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603408-netflix-recebe-serie-true-crime-com-estrela-da-marvel-conheca-amor-morte.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411682-cafeteira-dolce-gusto-mini-me-pelo-menor-preco-e-com-30-capsulas-gratis-confira-oportunidade.htm"
     },
     {
-      "title": "Operação Guardião Digital: Polícia Federal age contra abuso sexual infantil na internet",
-      "slug": "operacao-guardiao-digital-policia-federal-age-contra-abuso-sexual-infantil-na-internet",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-17T20:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411681-operacao-guardiao-digital-policia-federal-age-contra-abuso-sexual-infantil-na-internet.htm"
-    },
-    {
-      "title": "Stanley Week continua: confira 3 produtos com 50% de desconto",
-      "slug": "stanley-week-continua-confira-3-produtos-com-50percent-de-desconto",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-17T19:17:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411680-stanley-week-continua-confira-3-produtos-com-50-de-desconto.htm"
-    },
-    {
-      "title": "GTA 6 será afetado pela Lei Felca? Entenda o que muda com o ECA Digital",
-      "slug": "gta-6-sera-afetado-pela-lei-felca-entenda-o-que-muda-com-o-eca-digital",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-17T19:15:14.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503802-gta-6-sera-afetado-pela-lei-felca-entenda-o-que-muda-com-o-eca-digital.htm"
-    },
-    {
-      "title": "EXCLUSIVO - CEO da Amazon prevê que IA dobrará vendas da AWS para US$600 bi até 2036",
-      "slug": "exclusivo-ceo-da-amazon-preve-que-ia-dobrara-vendas-da-aws-para-usdollar600-bi-ate-2036",
+      "title": "Nasa confirma data para primeira missão tripulada à Lua em 50 anos; veja quando será",
+      "slug": "nasa-confirma-data-para-primeira-missao-tripulada-a-lua-em-50-anos-veja-quando-sera",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-17T20:52:55.000Z",
+      "date": "2026-03-17T21:38:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/exclusivo---ceo-da-amazon-preve-que-ia-dobrara-vendas-da-aws-para-us600-bi-ate-2036.htm"
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/03/17/nasa-confirma-data-para-primeira-missao-tripulada-a-lua-em-50-anos-veja-quando-sera.htm"
     },
     {
-      "title": "Após cancelamento, evento de Lula sobre ECA Digital é adiado para amanhã",
-      "slug": "apos-cancelamento-evento-de-lula-sobre-eca-digital-e-adiado-para-amanha",
+      "title": "Analistas revisam previsões de dívida dos \"hiperescaladores\" de IA após emissão da Amazon",
+      "slug": "analistas-revisam-previsoes-de-divida-dos-hiperescaladores-de-ia-apos-emissao-da-amazon",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-17T19:24:46.000Z",
+      "date": "2026-03-17T19:21:12.000Z",
       "editorial_score": 100,
-      "original_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/03/17/lula-eca-digital-evento-cancelado.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/analistas-revisam-previsoes-de-divida-dos-hiperescaladores-de-ia-apos-emissao-da-amazon.htm"
     }
   ]
 }
