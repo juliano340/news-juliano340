@@ -1,24 +1,24 @@
 # Weekly IA para Devs - 2026-03-17
 
-Gerado em 2026-03-17T17:11:59.756Z
+Gerado em 2026-03-17T19:09:45.057Z
 
-- [Intel Core Ultra 200HX Plus chega com até 24 núcleos para notebooks parrudos](https://tecnoblog.net/noticias/intel-core-ultra-200hx-plus-chega-com-ate-24-nucleos-para-notebooks-parrudos/) | topico: geral | score: 100
-- [Poco X8 Pro chega com bateria maior e versão Homem de Ferro](https://tecnoblog.net/noticias/poco-x8-pro-chega-com-bateria-maior-e-versao-homem-de-ferro/) | topico: llms | score: 100
-- [OpenAI vai focar em programação para tentar barrar crescimento da Anthropic](https://tecnoblog.net/noticias/openai-vai-focar-em-programacao-para-tentar-barrar-crescimento-da-anthropic/) | topico: llms | score: 100
-- [Galaxy Tab A11 Plus 5G recebe 26% de desconto com cupom na Amazon](https://tecnoblog.net/achados/galaxy-tab-a11-plus-5g-recebe-26-de-desconto-com-cupom-na-amazon/) | topico: geral | score: 100
-- [iPhone Air (512 GB) tem o menor preço desde lançamento com cupom de R$ 1.000 OFF](https://tecnoblog.net/achados/iphone-air-512-gb-tem-o-menor-preco-desde-lancamento-com-cupom-de-r-1-000-off/) | topico: geral | score: 92
-- [Galaxy Watch 8 LTE atinge promoção histórica de 50% OFF no Mercado Livre](https://tecnoblog.net/achados/galaxy-watch-8-lte-atinge-promocao-historica-de-50-off-no-mercado-livre/) | topico: geral | score: 100
-- [Galaxy S25 Ultra tem queda de 49% com cupom de R$ 500 OFF na Amazon](https://tecnoblog.net/achados/galaxy-s25-ultra-tem-queda-de-49-com-cupom-de-r-500-off-na-amazon/) | topico: geral | score: 92
-- [Cultivaram neurônios num chip, e eles aprenderam a jogar Doom](https://canaltech.com.br/games/cultivaram-neuronios-num-chip-e-eles-aprenderam-a-jogar-doom/) | topico: geral | score: 100
-- [Celular mais poderoso da Samsung "brilha menos" e marca admite ponto fraco](https://canaltech.com.br/smartphone/celular-mais-poderoso-da-samsung-brilha-menos-e-marca-admite-ponto-fraco/) | topico: geral | score: 100
-- [Estudo revela quais marcas de carro são as menos confiáveis; confira](https://canaltech.com.br/carros/estudo-revela-quais-marcas-de-carro-sao-as-menos-confiaveis-confira/) | topico: produtividade-dev | score: 100
-- [Spotify pode estrear recurso de karaokê em óculos inteligentes](https://canaltech.com.br/apps/spotify-pode-estrear-recurso-de-karaoke-em-oculos-inteligentes/) | topico: geral | score: 100
-- [WhatsApp para iPhone ganha nova aba para mudar a foto de perfil](https://canaltech.com.br/apps/whatsapp-para-iphone-ganha-nova-aba-para-mudar-a-foto-de-perfil/) | topico: seguranca-ia | score: 100
-- [Moto G86 cai muito de preço em promoção da Motorola no Mercado Livre](https://canaltech.com.br/smartphone/moto-g86-cai-muito-de-preco-em-promocao-da-motorola-no-mercado-livre/) | topico: geral | score: 100
-- [FBI vai investigar jogos da Steam que traziam malware escondido](https://www.tecmundo.com.br/seguranca/411654-fbi-vai-investigar-jogos-da-steam-que-traziam-malware-escondido.htm) | topico: geral | score: 100
-- [Duna 3: Veja trailer, elenco, data de lançamento e tudo sobre o filme](https://www.tecmundo.com.br/minha-serie/603407-duna-3-veja-imagens-data-de-lancamento-e-tudo-sobre-o-filme.htm) | topico: geral | score: 100
-- [Meta pode demitir 20% de seus funcionários para custear IA](https://www.tecmundo.com.br/mercado/411663-meta-pode-demitir-20-de-seus-funcionarios-para-custear-ia.htm) | topico: geral | score: 100
-- [O ECA Digital já bloqueou o Linux no Brasil? Entenda a situação](https://www.tecmundo.com.br/internet/411672-o-eca-digital-ja-bloqueou-o-linux-no-brasil-entenda-a-situacao.htm) | topico: geral | score: 92
-- [Quem são os membros da Baroque Works de One Piece?](https://www.tecmundo.com.br/minha-serie/603404-quem-sao-os-membros-da-baroque-works-de-one-piece.htm) | topico: geral | score: 100
-- [IA Grok é processada por criação de imagens sexualizadas de menores](https://www.tecmundo.com.br/seguranca/411657-ia-grok-e-processada-por-criacao-de-imagens-sexualizadas-de-menores.htm) | topico: geral | score: 100
-- [Empresa dona de enciclopédia processa ChatGPT por roubo de conteúdos](https://www.tecmundo.com.br/mercado/411655-empresa-dona-de-enciclopedia-processa-chatgpt-por-roubo-de-conteudos.htm) | topico: geral | score: 100
+- [Motorola Razr 60 (256 GB) atinge impressionantes 44% OFF com cupom na Amazon](https://tecnoblog.net/achados/motorola-razr-60-256-gb-atinge-impressionantes-44-off-com-cupom-na-amazon/) | topico: geral | score: 100
+- [Como peritos recuperam mensagens que você achou que tinha apagado](https://canaltech.com.br/seguranca/como-peritos-recuperam-mensagens-que-voce-achou-que-tinha-apagado/) | topico: geral | score: 92
+- [Switch 2 ganha update que faz jogos do Switch original parecerem novos](https://canaltech.com.br/games/switch-2-ganha-update-que-faz-jogos-do-switch-original-parecerem-novos/) | topico: geral | score: 100
+- [Xiaomi revela POCO X8 Pro Max com bateria gigante por menos de R$ 2,5 mil](https://canaltech.com.br/smartphone/xiaomi-revela-poco-x8-pro-max-com-bateria-gigante-por-menos-de-r-25-mil/) | topico: geral | score: 100
+- [Gemini prepara edição profissional de imagens no Nano Banana](https://canaltech.com.br/apps/gemini-prepara-edicao-profissional-de-imagens-no-nano-banana/) | topico: llms | score: 100
+- [Big Techs fecham pacto contra fraudes online e admitem crise insuportável](https://canaltech.com.br/seguranca/big-techs-fecham-pacto-contra-fraudes-online-e-admitem-crise-insuportavel/) | topico: geral | score: 100
+- [Busca do Google remove modo que trazia opiniões médicas postadas em fóruns](https://canaltech.com.br/apps/busca-do-google-remove-modo-que-trazia-opinioes-medicas-postadas-em-foruns/) | topico: llms | score: 100
+- [James Webb descobre planeta "ovo podre" com oceano de lava derretida](https://canaltech.com.br/espaco/james-webb-descobre-planeta-ovo-podre-com-oceano-de-lava-derretida/) | topico: produtividade-dev | score: 100
+- [Vai viajar? Saiba como assistir aos filmes do Oscar 2026 de graça no voo](https://canaltech.com.br/carros/vai-viajar-saiba-como-assistir-aos-filmes-do-oscar-2026-de-graca-no-voo/) | topico: geral | score: 100
+- [Lei Felca estreia causando alvoroço e já mexe com LoL, Fortnite e GTA](https://canaltech.com.br/games/lei-felca-estreia-causando-alvoroco-e-ja-mexe-com-lol-fortnite-e-gta/) | topico: geral | score: 85
+- [Steam inicia Promoção de Outono com descontos em jogos de peso](https://canaltech.com.br/games/steam-inicia-promocao-de-outono-com-descontos-em-jogos-de-peso/) | topico: geral | score: 100
+- ['Amo o que faço': Tim Cook desmente rumores sobre saída da Apple](https://www.tecmundo.com.br/mercado/411675-amo-o-que-faco-tim-cook-desmente-rumores-sobre-saida-da-apple.htm) | topico: geral | score: 100
+- [O que acontece no final de Virgin River temporada 7? Entenda](https://www.tecmundo.com.br/minha-serie/603403-o-que-acontece-no-final-de-virgin-river-temporada-7-entenda.htm) | topico: geral | score: 100
+- [Notebooks Alienware ganham upgrade com chips Intel Core Ultra 200 HX Plus](https://www.tecmundo.com.br/produto/411671-notebooks-alienware-ganham-upgrade-com-chips-intel-core-ultra-200-hx-plus.htm) | topico: geral | score: 100
+- [ECA Digital: Governo Lula pede revisão de decreto e adia cerimônia de assinatura](https://www.tecmundo.com.br/internet/411676-eca-digital-governo-lula-pede-revisao-de-decreto-e-cancela-cerimonia-de-assinatura.htm) | topico: produtividade-dev | score: 92
+- [Cadeiras gamer, celulares e mais com desconto na Super Ofertas da Shopee](https://www.tecmundo.com.br/guia-de-compras/411674-cadeiras-gamer-celulares-e-mais-com-desconto-na-super-ofertas-da-shopee.htm) | topico: geral | score: 89
+- [Fortnite é impactado pela Lei Felca no Brasil! Veja o que muda](https://www.tecmundo.com.br/voxel/503798-fortnite-e-impactado-pela-lei-felca-no-brasil-veja-o-que-muda.htm) | topico: geral | score: 100
+- [Placas de vídeo GeForce e Radeon em oferta no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411668-placas-de-video-geforce-e-radeon-em-oferta-no-magazine-luiza.htm) | topico: geral | score: 100
+- [O céu é de Musk: Starlink bate 10 mil satélites e engole rivais](https://www.uol.com.br/tilt/noticias/afp/2026/03/17/o-ceu-e-de-musk-starlink-bate-10-mil-satelites-e-engole-rivais.htm) | topico: geral | score: 100
+- [Qualcomm anuncia programa de recompra de ações de US$20 bi](https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/qualcomm-anuncia-programa-de-recompra-de-acoes-de-us20-bi.htm) | topico: geral | score: 100
