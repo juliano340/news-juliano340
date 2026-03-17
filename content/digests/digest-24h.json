@@ -1,25 +1,52 @@
 {
-  "generated_at": "2026-03-17T05:01:33.951Z",
+  "generated_at": "2026-03-17T09:01:58.158Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 2,
+  "total": 5,
   "posts": [
     {
-      "title": "ECA Digital começa a valer e impõe novas regras para crianças e jovens em redes sociais, jogos e sites",
-      "slug": "eca-digital-comeca-a-valer-e-impoe-novas-regras-para-criancas-e-jovens-em-redes-sociais-jogos-e-sites",
-      "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-17T03:01:12.000Z",
+      "title": "'Lei Felca': ECA Digital entra em vigor hoje (17); entenda as novas regras",
+      "slug": "lei-felca-eca-digital-entra-em-vigor-hoje-17-entenda-as-novas-regras",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/17/eca-digital-comeca-a-valer-e-impoe-novas-regras-para-criancas-e-jovens-em-redes-sociais-jogos-e-sites.ghtml"
+      "original_url": "https://www.tecmundo.com.br/internet/411645-lei-felca-eca-digital-entra-em-vigor-hoje-17-entenda-as-novas-regras.htm"
     },
     {
-      "title": "Plataformas devem verificar idade de usuários a partir desta terça; veja como vai funcionar",
-      "slug": "plataformas-devem-verificar-idade-de-usuarios-a-partir-desta-terca-veja-como-vai-funcionar",
-      "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-17T03:00:39.000Z",
+      "title": "Palpites para Bahia x RB Bragantino: Análises e Onde Assistir (18/03/2026)",
+      "slug": "palpites-para-bahia-x-rb-bragantino-analises-e-onde-assistir-18032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-17T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411614-palpites-para-bahia-x-rb-bragantino-analises-e-onde-assistir-18032026.htm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (17)? Veja calendário lunar de março de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-marco-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-17T08:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/17/eca-digital-verificacao-idade-usuarios-internet.ghtml"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-marco-de-2026.htm"
+    },
+    {
+      "title": "Como funciona 1ª máquina de lavar humanos, lançada no Japão: 'Lava a alma'",
+      "slug": "como-funciona-1a-maquina-de-lavar-humanos-lancada-no-japao-lava-a-alma",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-17T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/japao-desenvolve-1-maquina-de-lavar-para-humanos-e-vende-por-r-2-milhoes.ghtm"
+    },
+    {
+      "title": "ECA Digital entra em vigor e muda regras para redes sociais e jogos online",
+      "slug": "eca-digital-entra-em-vigor-e-muda-regras-para-redes-sociais-e-jogos-online",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-17T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/eca-digital-o-que-muda.ghtm"
     }
   ]
 }
