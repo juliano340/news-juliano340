@@ -1,7 +1,7 @@
 {
-  "slug": "nvidia-revela-dlss-5-com-ia-generativa-para-graficos-fotorrealistas",
-  "generated_at": "2026-03-17T13:01:41.251Z",
-  "status": "WARN",
+  "slug": "volkswagen-aceita-fiasco-em-vendas-de-eletricos-e-mira-lucro-em-baterias",
+  "generated_at": "2026-03-17T13:05:05.353Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 433,
+      "words": 343,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

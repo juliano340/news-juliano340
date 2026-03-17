@@ -1,88 +1,178 @@
 {
-  "generated_at": "2026-03-17T11:05:11.000Z",
+  "generated_at": "2026-03-17T13:11:21.045Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 19,
   "posts": [
     {
-      "title": "Adolescentes processam empresa de Musk nos EUA por imagens sexualizadas geradas por chatbot",
-      "slug": "adolescentes-processam-empresa-de-musk-nos-eua-por-imagens-sexualizadas-geradas-por-chatbot",
-      "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-17T10:33:59.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/17/adolescentes-processam-empresa-de-musk-nos-eua-por-imagens-sexualizadas-geradas-por-chatbot.ghtml"
-    },
-    {
-      "title": "Samsung lança novo celular baratinho com bateria grande de 6.000 mAh; conheça",
-      "slug": "samsung-lanca-novo-celular-baratinho-com-bateria-grande-de-6000-mah-conheca",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T10:24:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-lanca-novo-celular-baratinho-com-bateria-grande-de-6000-mah-conheca/"
-    },
-    {
-      "title": "7 pontos para entender o ECA Digital, que entra em vigor nesta terça (17)",
-      "slug": "7-pontos-para-entender-o-eca-digital-que-entra-em-vigor-nesta-terca-17",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T10:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/internet/pontos-para-entender-o-eca-digital-que-entra-em-vigor-nesta-terca-17/"
-    },
-    {
-      "title": "Combustível parado no tanque estraga? Veja data de validade de cada um",
-      "slug": "combustivel-parado-no-tanque-estraga-veja-data-de-validade-de-cada-um",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T09:35:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/combustivel-parado-no-tanque-estraga-veja-data-de-validade-de-cada-um/"
-    },
-    {
-      "title": "ECA Digital: o que muda para redes sociais a partir de agora",
-      "slug": "eca-digital-o-que-muda-para-redes-sociais-a-partir-de-agora",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-17T09:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/eca-digital-o-que-muda-para-redes-sociais-a-partir-de-agora/"
-    },
-    {
-      "title": "ECA Digital: o que muda nas redes sociais para crianças e adolescentes",
-      "slug": "eca-digital-o-que-muda-nas-redes-sociais-para-criancas-e-adolescentes",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-17T09:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/eca-digital-o-que-muda-nas-redes-sociais-para-criancas-e-adolescentes-6405/"
-    },
-    {
-      "title": "Review: Diablo 2 Reign of Warlock é uma promissora direção para o futuro de um clássico",
-      "slug": "review-diablo-2-reign-of-warlock-e-uma-promissora-direcao-para-o-futuro-de-um-classico",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-17T10:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503784-review-diablo-2-reign-of-warlock-e-uma-promissora-direcao-para-o-futuro-de-um-classico.htm"
-    },
-    {
-      "title": "Palpites para Palmeiras x Botafogo: Análises e Onde Assistir (18/03/2026)",
-      "slug": "palpites-para-palmeiras-x-botafogo-analises-e-onde-assistir-18032026",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-17T09:00:00.000Z",
+      "title": "Pokémon Go vai usar dados de jogadores para treinar robôs de entrega",
+      "slug": "pokemon-go-vai-usar-dados-de-jogadores-para-treinar-robos-de-entrega",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-17T12:20:59.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411608-palpites-para-palmeiras-x-botafogo-analises-e-onde-assistir-18032026.htm"
+      "original_url": "https://tecnoblog.net/noticias/pokemon-go-vai-usar-dados-de-jogadores-para-treinar-robos-de-entrega/"
     },
     {
-      "title": "Disputa EUA x China ameaça 1ª cabo de internet entre América do Sul e Ásia",
-      "slug": "disputa-eua-x-china-ameaca-1a-cabo-de-internet-entre-america-do-sul-e-asia",
+      "title": "Nvidia revela DLSS 5 com IA generativa para gráficos fotorrealistas",
+      "slug": "nvidia-revela-dlss-5-com-ia-generativa-para-graficos-fotorrealistas",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-17T10:49:20.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/nvidia-revela-dlss-5-com-ia-generativa-para-graficos-fotorrealistas/"
+    },
+    {
+      "title": "Celular mais incrível já feito pela Samsung terá vendas encerradas, diz site",
+      "slug": "celular-mais-incrivel-ja-feito-pela-samsung-tera-vendas-encerradas-diz-site",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T12:52:27.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/celular-mais-incrivel-ja-feito-pela-samsung-tera-vendas-encerradas-diz-site/"
+    },
+    {
+      "title": "Meta vai lançar recurso para combater confusão que ela própria criou",
+      "slug": "meta-vai-lancar-recurso-para-combater-confusao-que-ela-propria-criou",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-17T12:23:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/meta-vai-lancar-recurso-para-combater-confusao-que-ela-propria-criou/"
+    },
+    {
+      "title": "Adobe tá maluca: Creative Cloud Pro com 85% de desconto; veja como conseguir",
+      "slug": "adobe-ta-maluca-creative-cloud-pro-com-85percent-de-desconto-veja-como-conseguir",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-17T12:19:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/adobe-ta-maluca-creative-cloud-pro-com-85-de-desconto-veja-como-conseguir/"
+    },
+    {
+      "title": "Tecnologia secreta da Samsung quer deixar TVs com tela OLED no passado; entenda",
+      "slug": "tecnologia-secreta-da-samsung-quer-deixar-tvs-com-tela-oled-no-passado-entenda",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-17T12:13:05.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/eletro/tecnologia-secreta-da-samsung-quer-deixar-tvs-com-tela-oled-no-passado-entenda/"
+    },
+    {
+      "title": "Volkswagen aceita \"fiasco\" em vendas de elétricos e mira lucro em baterias",
+      "slug": "volkswagen-aceita-fiasco-em-vendas-de-eletricos-e-mira-lucro-em-baterias",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-17T12:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/volkswagen-aceita-fiasco-em-vendas-de-eletricos-e-mira-lucro-em-baterias/"
+    },
+    {
+      "title": "Gaming Copilot chega ao Xbox em 2026 para virar seu guia dentro do jogo",
+      "slug": "gaming-copilot-chega-ao-xbox-em-2026-para-virar-seu-guia-dentro-do-jogo",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T12:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/gaming-copilot-chega-ao-xbox-em-2026-para-virar-seu-guia-dentro-do-jogo/"
+    },
+    {
+      "title": "iPhone 19e \"barato\" vai trazer recurso esperado há anos, revela site",
+      "slug": "iphone-19e-barato-vai-trazer-recurso-esperado-ha-anos-revela-site",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T11:19:47.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/iphone-19e-barato-vai-trazer-recurso-esperado-ha-anos-revela-site/"
+    },
+    {
+      "title": "Falha de SQL injection em plugin ameaça mais de 400 mil sites no WordPress",
+      "slug": "falha-de-sql-injection-em-plugin-ameaca-mais-de-400-mil-sites-no-wordpress",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T11:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/falha-de-sql-injection-em-plugin-ameaca-mais-de-400-mil-sites-no-wordpress/"
+    },
+    {
+      "title": "Nvidia revela plataforma de IA para futuros data centers no espaço",
+      "slug": "nvidia-revela-plataforma-de-ia-para-futuros-data-centers-no-espaco",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411658-nvidia-revela-plataforma-de-ia-para-futuros-data-centers-no-espaco.htm"
+    },
+    {
+      "title": "Mindhunter: uma das melhores séries da Netflix está escondida e sem uma sequência",
+      "slug": "mindhunter-uma-das-melhores-series-da-netflix-esta-escondida-e-sem-uma-sequencia",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T12:49:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603406-mindhunter-uma-das-melhores-series-da-netflix-esta-escondida-e-sem-uma-sequencia.htm"
+    },
+    {
+      "title": "Galaxy Watch 7 reaparece com o menor preço no Mercado Livre; garanta seu smartwatch Samsung",
+      "slug": "galaxy-watch-7-reaparece-com-o-menor-preco-no-mercado-livre-garanta-seu-smartwatch-samsung",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T12:36:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411660-galaxy-watch-7-reaparece-com-o-menor-preco-no-mercado-livre-garanta-seu-smartwatch-samsung.htm"
+    },
+    {
+      "title": "Taxa mínima para entregadores reduzirá pedidos em 67%, diz pesquisa do iFood",
+      "slug": "taxa-minima-para-entregadores-reduzira-pedidos-em-67percent-diz-pesquisa-do-ifood",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411653-taxa-minima-para-entregadores-reduzira-pedidos-em-67-diz-pesquisa-do-ifood.htm"
+    },
+    {
+      "title": "Como o marketing passou a ocupar um papel cada vez mais estratégico nas empresas",
+      "slug": "como-o-marketing-passou-a-ocupar-um-papel-cada-vez-mais-estrategico-nas-empresas",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411651-como-o-marketing-passou-a-ocupar-um-papel-cada-vez-mais-estrategico-nas-empresas.htm"
+    },
+    {
+      "title": "Lei Felca: Rockstar Games bloqueia venda de jogos no Brasil em sua loja; GTA 6 será afetado?",
+      "slug": "lei-felca-rockstar-games-bloqueia-venda-de-jogos-no-brasil-em-sua-loja-gta-6-sera-afetado",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T11:30:30.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503795-lei-felca-rockstar-games-bloqueia-venda-de-jogos-no-brasil-em-sua-loja.htm"
+    },
+    {
+      "title": "O que é a Grand Line de One Piece? Entenda a geografia do mundo do anime e da série",
+      "slug": "o-que-e-a-grand-line-de-one-piece-entenda-a-geografia-do-mundo-do-anime-e-da-serie",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603400-o-que-e-a-grand-line-de-one-piece-entenda-a-geografia-do-mundo-do-anime-e-da-serie.htm"
+    },
+    {
+      "title": "O que acontece com o Irã após país barrar sistemas da Starlink",
+      "slug": "o-que-acontece-com-o-ira-apos-pais-barrar-sistemas-da-starlink",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-17T11:00:00.000Z",
+      "date": "2026-03-17T13:02:17.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/vicio-nas-redes-julgamento-nos-eua-pode-mudar-o-modelo-das-redes-sociais.ghtm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/ira-apreende-satelites-starlink.ghtm"
+    },
+    {
+      "title": "Adolescentes processam IA de Musk nos EUA por gerar deepfakes pornográficos",
+      "slug": "adolescentes-processam-ia-de-musk-nos-eua-por-gerar-deepfakes-pornograficos",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-17T11:35:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/03/17/adolescentes-processam-ia-de-musk-nos-eua-por-gerar-deepfakes-pornograficos.htm"
     }
   ]
 }

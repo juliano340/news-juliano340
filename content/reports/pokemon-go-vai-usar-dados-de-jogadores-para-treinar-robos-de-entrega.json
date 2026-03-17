@@ -1,6 +1,6 @@
 {
-  "slug": "nvidia-revela-dlss-5-com-ia-generativa-para-graficos-fotorrealistas",
-  "generated_at": "2026-03-17T13:01:41.251Z",
+  "slug": "pokemon-go-vai-usar-dados-de-jogadores-para-treinar-robos-de-entrega",
+  "generated_at": "2026-03-17T13:00:42.424Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 433,
+      "words": 275,
       "min": 220
     },
     {

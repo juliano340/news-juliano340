@@ -1,7 +1,7 @@
 {
-  "slug": "nvidia-revela-dlss-5-com-ia-generativa-para-graficos-fotorrealistas",
-  "generated_at": "2026-03-17T13:01:41.251Z",
-  "status": "WARN",
+  "slug": "falha-de-sql-injection-em-plugin-ameaca-mais-de-400-mil-sites-no-wordpress",
+  "generated_at": "2026-03-17T13:06:41.338Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 433,
+      "words": 248,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
