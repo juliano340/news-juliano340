@@ -1,52 +1,88 @@
 {
-  "generated_at": "2026-03-17T09:01:58.158Z",
+  "generated_at": "2026-03-17T11:05:11.000Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 9,
   "posts": [
     {
-      "title": "'Lei Felca': ECA Digital entra em vigor hoje (17); entenda as novas regras",
-      "slug": "lei-felca-eca-digital-entra-em-vigor-hoje-17-entenda-as-novas-regras",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-17T09:00:00.000Z",
+      "title": "Adolescentes processam empresa de Musk nos EUA por imagens sexualizadas geradas por chatbot",
+      "slug": "adolescentes-processam-empresa-de-musk-nos-eua-por-imagens-sexualizadas-geradas-por-chatbot",
+      "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-17T10:33:59.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411645-lei-felca-eca-digital-entra-em-vigor-hoje-17-entenda-as-novas-regras.htm"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/17/adolescentes-processam-empresa-de-musk-nos-eua-por-imagens-sexualizadas-geradas-por-chatbot.ghtml"
     },
     {
-      "title": "Palpites para Bahia x RB Bragantino: Análises e Onde Assistir (18/03/2026)",
-      "slug": "palpites-para-bahia-x-rb-bragantino-analises-e-onde-assistir-18032026",
+      "title": "Samsung lança novo celular baratinho com bateria grande de 6.000 mAh; conheça",
+      "slug": "samsung-lanca-novo-celular-baratinho-com-bateria-grande-de-6000-mah-conheca",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T10:24:52.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/samsung-lanca-novo-celular-baratinho-com-bateria-grande-de-6000-mah-conheca/"
+    },
+    {
+      "title": "7 pontos para entender o ECA Digital, que entra em vigor nesta terça (17)",
+      "slug": "7-pontos-para-entender-o-eca-digital-que-entra-em-vigor-nesta-terca-17",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T10:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/internet/pontos-para-entender-o-eca-digital-que-entra-em-vigor-nesta-terca-17/"
+    },
+    {
+      "title": "Combustível parado no tanque estraga? Veja data de validade de cada um",
+      "slug": "combustivel-parado-no-tanque-estraga-veja-data-de-validade-de-cada-um",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T09:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/combustivel-parado-no-tanque-estraga-veja-data-de-validade-de-cada-um/"
+    },
+    {
+      "title": "ECA Digital: o que muda para redes sociais a partir de agora",
+      "slug": "eca-digital-o-que-muda-para-redes-sociais-a-partir-de-agora",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-17T09:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/mercado/eca-digital-o-que-muda-para-redes-sociais-a-partir-de-agora/"
+    },
+    {
+      "title": "ECA Digital: o que muda nas redes sociais para crianças e adolescentes",
+      "slug": "eca-digital-o-que-muda-nas-redes-sociais-para-criancas-e-adolescentes",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-17T09:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/eca-digital-o-que-muda-nas-redes-sociais-para-criancas-e-adolescentes-6405/"
+    },
+    {
+      "title": "Review: Diablo 2 Reign of Warlock é uma promissora direção para o futuro de um clássico",
+      "slug": "review-diablo-2-reign-of-warlock-e-uma-promissora-direcao-para-o-futuro-de-um-classico",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-17T10:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503784-review-diablo-2-reign-of-warlock-e-uma-promissora-direcao-para-o-futuro-de-um-classico.htm"
+    },
+    {
+      "title": "Palpites para Palmeiras x Botafogo: Análises e Onde Assistir (18/03/2026)",
+      "slug": "palpites-para-palmeiras-x-botafogo-analises-e-onde-assistir-18032026",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
       "date": "2026-03-17T09:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411614-palpites-para-bahia-x-rb-bragantino-analises-e-onde-assistir-18032026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411608-palpites-para-palmeiras-x-botafogo-analises-e-onde-assistir-18032026.htm"
     },
     {
-      "title": "Qual é a fase da Lua hoje (17)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-marco-de-2026",
+      "title": "Disputa EUA x China ameaça 1ª cabo de internet entre América do Sul e Ásia",
+      "slug": "disputa-eua-x-china-ameaca-1a-cabo-de-internet-entre-america-do-sul-e-asia",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-17T08:30:00.000Z",
+      "date": "2026-03-17T11:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-marco-de-2026.htm"
-    },
-    {
-      "title": "Como funciona 1ª máquina de lavar humanos, lançada no Japão: 'Lava a alma'",
-      "slug": "como-funciona-1a-maquina-de-lavar-humanos-lancada-no-japao-lava-a-alma",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-17T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/japao-desenvolve-1-maquina-de-lavar-para-humanos-e-vende-por-r-2-milhoes.ghtm"
-    },
-    {
-      "title": "ECA Digital entra em vigor e muda regras para redes sociais e jogos online",
-      "slug": "eca-digital-entra-em-vigor-e-muda-regras-para-redes-sociais-e-jogos-online",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-17T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/eca-digital-o-que-muda.ghtm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/vicio-nas-redes-julgamento-nos-eua-pode-mudar-o-modelo-das-redes-sociais.ghtm"
     }
   ]
 }

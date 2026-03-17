@@ -1,9 +1,13 @@
 # Weekly IA para Devs - 2026-03-17
 
-Gerado em 2026-03-17T09:01:58.158Z
+Gerado em 2026-03-17T11:05:11.000Z
 
-- ['Lei Felca': ECA Digital entra em vigor hoje (17); entenda as novas regras](https://www.tecmundo.com.br/internet/411645-lei-felca-eca-digital-entra-em-vigor-hoje-17-entenda-as-novas-regras.htm) | topico: geral | score: 100
-- [Palpites para Bahia x RB Bragantino: Análises e Onde Assistir (18/03/2026)](https://www.tecmundo.com.br/apostas/411614-palpites-para-bahia-x-rb-bragantino-analises-e-onde-assistir-18032026.htm) | topico: seguranca-ia | score: 92
-- [Qual é a fase da Lua hoje (17)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/qual-e-a-fase-da-lua-hoje-17-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 100
-- [Como funciona 1ª máquina de lavar humanos, lançada no Japão: 'Lava a alma'](https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/japao-desenvolve-1-maquina-de-lavar-para-humanos-e-vende-por-r-2-milhoes.ghtm) | topico: geral | score: 100
-- [ECA Digital entra em vigor e muda regras para redes sociais e jogos online](https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/eca-digital-o-que-muda.ghtm) | topico: geral | score: 100
+- [Adolescentes processam empresa de Musk nos EUA por imagens sexualizadas geradas por chatbot](https://g1.globo.com/tecnologia/noticia/2026/03/17/adolescentes-processam-empresa-de-musk-nos-eua-por-imagens-sexualizadas-geradas-por-chatbot.ghtml) | topico: agentes | score: 100
+- [Samsung lança novo celular baratinho com bateria grande de 6.000 mAh; conheça](https://canaltech.com.br/smartphone/samsung-lanca-novo-celular-baratinho-com-bateria-grande-de-6000-mah-conheca/) | topico: geral | score: 100
+- [7 pontos para entender o ECA Digital, que entra em vigor nesta terça (17)](https://canaltech.com.br/internet/pontos-para-entender-o-eca-digital-que-entra-em-vigor-nesta-terca-17/) | topico: geral | score: 100
+- [Combustível parado no tanque estraga? Veja data de validade de cada um](https://canaltech.com.br/carros/combustivel-parado-no-tanque-estraga-veja-data-de-validade-de-cada-um/) | topico: geral | score: 100
+- [ECA Digital: o que muda para redes sociais a partir de agora](https://canaltech.com.br/mercado/eca-digital-o-que-muda-para-redes-sociais-a-partir-de-agora/) | topico: geral | score: 100
+- [ECA Digital: o que muda nas redes sociais para crianças e adolescentes](https://canaltech.com.br/podcast/podcast-canaltech/eca-digital-o-que-muda-nas-redes-sociais-para-criancas-e-adolescentes-6405/) | topico: seguranca-ia | score: 100
+- [Review: Diablo 2 Reign of Warlock é uma promissora direção para o futuro de um clássico](https://www.tecmundo.com.br/voxel/503784-review-diablo-2-reign-of-warlock-e-uma-promissora-direcao-para-o-futuro-de-um-classico.htm) | topico: geral | score: 100
+- [Palpites para Palmeiras x Botafogo: Análises e Onde Assistir (18/03/2026)](https://www.tecmundo.com.br/apostas/411608-palpites-para-palmeiras-x-botafogo-analises-e-onde-assistir-18032026.htm) | topico: seguranca-ia | score: 92
+- [Disputa EUA x China ameaça 1ª cabo de internet entre América do Sul e Ásia](https://www.uol.com.br/tilt/noticias/redacao/2026/03/17/vicio-nas-redes-julgamento-nos-eua-pode-mudar-o-modelo-das-redes-sociais.ghtm) | topico: geral | score: 100
