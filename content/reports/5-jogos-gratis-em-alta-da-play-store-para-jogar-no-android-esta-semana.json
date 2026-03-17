@@ -1,6 +1,6 @@
 {
-  "slug": "apple-vai-manter-visual-polemico-no-ios-27-mas-promete-novidade-surpresa",
-  "generated_at": "2026-03-17T01:00:55.874Z",
+  "slug": "5-jogos-gratis-em-alta-da-play-store-para-jogar-no-android-esta-semana",
+  "generated_at": "2026-03-17T01:01:09.247Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 288,
+      "words": 263,
       "min": 220
     },
     {

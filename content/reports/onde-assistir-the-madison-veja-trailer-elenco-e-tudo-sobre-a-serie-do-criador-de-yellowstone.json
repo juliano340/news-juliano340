@@ -1,0 +1,19 @@
+{
+  "slug": "onde-assistir-the-madison-veja-trailer-elenco-e-tudo-sobre-a-serie-do-criador-de-yellowstone",
+  "generated_at": "2026-03-17T01:01:18.156Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
