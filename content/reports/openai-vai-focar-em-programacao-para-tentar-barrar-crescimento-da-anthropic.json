@@ -1,6 +1,6 @@
 {
-  "slug": "moto-g86-cai-muito-de-preco-em-promocao-da-motorola-no-mercado-livre",
-  "generated_at": "2026-03-17T17:08:05.579Z",
+  "slug": "openai-vai-focar-em-programacao-para-tentar-barrar-crescimento-da-anthropic",
+  "generated_at": "2026-03-17T17:02:17.039Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 435,
+      "words": 335,
       "min": 220
     },
     {

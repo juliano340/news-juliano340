@@ -1,6 +1,6 @@
 {
-  "slug": "moto-g86-cai-muito-de-preco-em-promocao-da-motorola-no-mercado-livre",
-  "generated_at": "2026-03-17T17:08:05.579Z",
+  "slug": "duna-3-veja-trailer-elenco-data-de-lancamento-e-tudo-sobre-o-filme",
+  "generated_at": "2026-03-17T17:08:45.475Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 435,
+      "words": 385,
       "min": 220
     },
     {
