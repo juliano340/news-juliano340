@@ -1,24 +1,26 @@
 # Weekly IA para Devs - 2026-03-17
 
-Gerado em 2026-03-17T19:09:45.057Z
+Gerado em 2026-03-17T21:14:31.302Z
 
-- [Motorola Razr 60 (256 GB) atinge impressionantes 44% OFF com cupom na Amazon](https://tecnoblog.net/achados/motorola-razr-60-256-gb-atinge-impressionantes-44-off-com-cupom-na-amazon/) | topico: geral | score: 100
-- [Como peritos recuperam mensagens que você achou que tinha apagado](https://canaltech.com.br/seguranca/como-peritos-recuperam-mensagens-que-voce-achou-que-tinha-apagado/) | topico: geral | score: 92
-- [Switch 2 ganha update que faz jogos do Switch original parecerem novos](https://canaltech.com.br/games/switch-2-ganha-update-que-faz-jogos-do-switch-original-parecerem-novos/) | topico: geral | score: 100
-- [Xiaomi revela POCO X8 Pro Max com bateria gigante por menos de R$ 2,5 mil](https://canaltech.com.br/smartphone/xiaomi-revela-poco-x8-pro-max-com-bateria-gigante-por-menos-de-r-25-mil/) | topico: geral | score: 100
-- [Gemini prepara edição profissional de imagens no Nano Banana](https://canaltech.com.br/apps/gemini-prepara-edicao-profissional-de-imagens-no-nano-banana/) | topico: llms | score: 100
-- [Big Techs fecham pacto contra fraudes online e admitem crise insuportável](https://canaltech.com.br/seguranca/big-techs-fecham-pacto-contra-fraudes-online-e-admitem-crise-insuportavel/) | topico: geral | score: 100
-- [Busca do Google remove modo que trazia opiniões médicas postadas em fóruns](https://canaltech.com.br/apps/busca-do-google-remove-modo-que-trazia-opinioes-medicas-postadas-em-foruns/) | topico: llms | score: 100
-- [James Webb descobre planeta "ovo podre" com oceano de lava derretida](https://canaltech.com.br/espaco/james-webb-descobre-planeta-ovo-podre-com-oceano-de-lava-derretida/) | topico: produtividade-dev | score: 100
-- [Vai viajar? Saiba como assistir aos filmes do Oscar 2026 de graça no voo](https://canaltech.com.br/carros/vai-viajar-saiba-como-assistir-aos-filmes-do-oscar-2026-de-graca-no-voo/) | topico: geral | score: 100
-- [Lei Felca estreia causando alvoroço e já mexe com LoL, Fortnite e GTA](https://canaltech.com.br/games/lei-felca-estreia-causando-alvoroco-e-ja-mexe-com-lol-fortnite-e-gta/) | topico: geral | score: 85
-- [Steam inicia Promoção de Outono com descontos em jogos de peso](https://canaltech.com.br/games/steam-inicia-promocao-de-outono-com-descontos-em-jogos-de-peso/) | topico: geral | score: 100
-- ['Amo o que faço': Tim Cook desmente rumores sobre saída da Apple](https://www.tecmundo.com.br/mercado/411675-amo-o-que-faco-tim-cook-desmente-rumores-sobre-saida-da-apple.htm) | topico: geral | score: 100
-- [O que acontece no final de Virgin River temporada 7? Entenda](https://www.tecmundo.com.br/minha-serie/603403-o-que-acontece-no-final-de-virgin-river-temporada-7-entenda.htm) | topico: geral | score: 100
-- [Notebooks Alienware ganham upgrade com chips Intel Core Ultra 200 HX Plus](https://www.tecmundo.com.br/produto/411671-notebooks-alienware-ganham-upgrade-com-chips-intel-core-ultra-200-hx-plus.htm) | topico: geral | score: 100
-- [ECA Digital: Governo Lula pede revisão de decreto e adia cerimônia de assinatura](https://www.tecmundo.com.br/internet/411676-eca-digital-governo-lula-pede-revisao-de-decreto-e-cancela-cerimonia-de-assinatura.htm) | topico: produtividade-dev | score: 92
-- [Cadeiras gamer, celulares e mais com desconto na Super Ofertas da Shopee](https://www.tecmundo.com.br/guia-de-compras/411674-cadeiras-gamer-celulares-e-mais-com-desconto-na-super-ofertas-da-shopee.htm) | topico: geral | score: 89
-- [Fortnite é impactado pela Lei Felca no Brasil! Veja o que muda](https://www.tecmundo.com.br/voxel/503798-fortnite-e-impactado-pela-lei-felca-no-brasil-veja-o-que-muda.htm) | topico: geral | score: 100
-- [Placas de vídeo GeForce e Radeon em oferta no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411668-placas-de-video-geforce-e-radeon-em-oferta-no-magazine-luiza.htm) | topico: geral | score: 100
-- [O céu é de Musk: Starlink bate 10 mil satélites e engole rivais](https://www.uol.com.br/tilt/noticias/afp/2026/03/17/o-ceu-e-de-musk-starlink-bate-10-mil-satelites-e-engole-rivais.htm) | topico: geral | score: 100
-- [Qualcomm anuncia programa de recompra de ações de US$20 bi](https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/qualcomm-anuncia-programa-de-recompra-de-acoes-de-us20-bi.htm) | topico: geral | score: 100
+- [ECA Digital: Google e Meta explicam como é a verificação de idade em suas plataformas](https://g1.globo.com/tecnologia/noticia/2026/03/17/eca-digital-plataformas-verificacao-idade.ghtml) | topico: geral | score: 100
+- [Galaxy Tab S10 FE com tela de 10,9″ sai 40% mais barato em promoção](https://tecnoblog.net/achados/galaxy-tab-s10-fe-com-tela-de-109-sai-40-mais-barato-em-promocao/) | topico: geral | score: 100
+- [Galaxy S26 Ultra: Tela de Privacidade causa náuseas em alguns usuários](https://tecnoblog.net/noticias/galaxy-s26-ultra-tela-de-privacidade-causa-nauseas-em-alguns-usuarios/) | topico: geral | score: 100
+- [Galaxy S25 FE 5G recebe 48% de desconto com cupom em promoção](https://tecnoblog.net/achados/galaxy-s25-fe-5g-recebe-48-de-desconto-com-cupom-em-promocao/) | topico: geral | score: 92
+- [Moto G86 5G (256 GB) cai 45% para menor preço histórico com cupom no Magalu](https://tecnoblog.net/achados/moto-g86-5g-256-gb-cai-45-para-menor-preco-historico-com-cupom-no-magalu/) | topico: geral | score: 92
+- [Reddit bloqueia menores de 16 anos no Brasil devido ao ECA Digital](https://tecnoblog.net/noticias/reddit-bloqueia-menores-de-16-anos-no-brasil-devido-ao-eca-digital/) | topico: geral | score: 100
+- [Fim da criptografia nas DMs do Instagram: motivo real parece história de novela](https://canaltech.com.br/apps/fim-da-criptografia-nas-dms-do-instagram-motivo-real-parece-historia-de-novela/) | topico: seguranca-ia | score: 100
+- [Como empresas usam agentes de IA? Evento debate o tema em SP](https://canaltech.com.br/mercado/como-empresas-usam-agentes-de-ia-evento-debate-o-tema-em-sp/) | topico: geral | score: 100
+- [Starlink confirma que já tem 10 mil satélites; saiba o que muda para você](https://canaltech.com.br/telecom/starlink-confirma-que-ja-tem-10-mil-satelites-saiba-o-que-muda-para-voce/) | topico: infra-ia | score: 92
+- [Samsung começa a vender Galaxy A57 e A37 sem fazer anúncio oficial; veja preços](https://canaltech.com.br/smartphone/samsung-comeca-a-vender-galaxy-a57-e-a37-sem-fazer-anuncio-oficial-veja-precos/) | topico: geral | score: 100
+- [Gemini vai "roubar" um dos melhores recursos do ChatGPT; veja qual](https://canaltech.com.br/apps/gemini-vai-roubar-um-dos-melhores-recursos-do-chatgpt-veja-qual/) | topico: llms | score: 100
+- [Empresário que "voou" com Ford Ranger apronta de novo e destrói SUV elétrico](https://canaltech.com.br/carros/empresario-que-voou-com-ford-ranger-apronta-de-novo-e-destroi-suv-eletrico/) | topico: geral | score: 92
+- [Climão: Set de Street Fighter tentou manter Guile e Akuma longe um do outro](https://canaltech.com.br/entretenimento/climao-set-de-street-fighter-tentou-manter-guile-e-akuma-longe-um-do-outro/) | topico: geral | score: 100
+- ["Netflix sem internet" existe e cabe no bolso de qualquer um; conheça novidade](https://canaltech.com.br/acessorios/netflix-sem-internet-existe-e-cabe-no-bolso-de-qualquer-um-conheca-novidade/) | topico: geral | score: 100
+- [Magalu faz queima de TV TCL MiniLED de 50"; custo-benefício do ano em promoção](https://canaltech.com.br/tv/magalu-faz-queima-de-tv-tcl-miniled-de-50-custo-beneficio-do-ano-em-promocao/) | topico: geral | score: 100
+- [Oppo Find N6 é lançado com tela sem vinco e bateria de 6.000 mAh](https://www.tecmundo.com.br/produto/411679-oppo-find-n6-e-lancado-com-tela-sem-vinco-e-bateria-de-6000-mah.htm) | topico: produtividade-dev | score: 92
+- [Netflix recebe série true crime com estrela da Marvel! Conheça Amor & Morte](https://www.tecmundo.com.br/minha-serie/603408-netflix-recebe-serie-true-crime-com-estrela-da-marvel-conheca-amor-morte.htm) | topico: geral | score: 100
+- [Operação Guardião Digital: Polícia Federal age contra abuso sexual infantil na internet](https://www.tecmundo.com.br/seguranca/411681-operacao-guardiao-digital-policia-federal-age-contra-abuso-sexual-infantil-na-internet.htm) | topico: geral | score: 100
+- [Stanley Week continua: confira 3 produtos com 50% de desconto](https://www.tecmundo.com.br/guia-de-compras/411680-stanley-week-continua-confira-3-produtos-com-50-de-desconto.htm) | topico: produtividade-dev | score: 100
+- [GTA 6 será afetado pela Lei Felca? Entenda o que muda com o ECA Digital](https://www.tecmundo.com.br/voxel/503802-gta-6-sera-afetado-pela-lei-felca-entenda-o-que-muda-com-o-eca-digital.htm) | topico: geral | score: 92
+- [EXCLUSIVO - CEO da Amazon prevê que IA dobrará vendas da AWS para US$600 bi até 2036](https://www.uol.com.br/tilt/noticias/reuters/2026/03/17/exclusivo---ceo-da-amazon-preve-que-ia-dobrara-vendas-da-aws-para-us600-bi-ate-2036.htm) | topico: geral | score: 100
+- [Após cancelamento, evento de Lula sobre ECA Digital é adiado para amanhã](https://noticias.uol.com.br/politica/ultimas-noticias/2026/03/17/lula-eca-digital-evento-cancelado.htm) | topico: geral | score: 100
