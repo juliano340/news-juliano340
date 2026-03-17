@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-03-17T03:00:59.693Z",
+  "generated_at": "2026-03-17T05:01:33.951Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 2,
   "posts": [
     {
-      "title": "Onde assistir The Madison? Veja trailer, elenco e tudo sobre a série do criador de Yellowstone",
-      "slug": "onde-assistir-the-madison-veja-trailer-elenco-e-tudo-sobre-a-serie-do-criador-de-yellowstone",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-16T23:15:27.000Z",
+      "title": "ECA Digital começa a valer e impõe novas regras para crianças e jovens em redes sociais, jogos e sites",
+      "slug": "eca-digital-comeca-a-valer-e-impoe-novas-regras-para-criancas-e-jovens-em-redes-sociais-jogos-e-sites",
+      "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-17T03:01:12.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603385-onde-assistir-the-madison-veja-trailer-elenco-e-tudo-sobre-a-serie-do-criador-de-yellowstone.htm"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/17/eca-digital-comeca-a-valer-e-impoe-novas-regras-para-criancas-e-jovens-em-redes-sociais-jogos-e-sites.ghtml"
+    },
+    {
+      "title": "Plataformas devem verificar idade de usuários a partir desta terça; veja como vai funcionar",
+      "slug": "plataformas-devem-verificar-idade-de-usuarios-a-partir-desta-terca-veja-como-vai-funcionar",
+      "topic": "agentes",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-17T03:00:39.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/17/eca-digital-verificacao-idade-usuarios-internet.ghtml"
     }
   ]
 }
