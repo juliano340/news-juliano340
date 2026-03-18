@@ -1,5 +1,5 @@
 # Weekly IA para Devs - 2026-03-18
 
-Gerado em 2026-03-18T07:01:25.097Z
+Gerado em 2026-03-18T09:00:27.777Z
 
-- [Como prints do bloco de notas criaram mais rastros de conversa entre Vorcaro e Moraes](https://g1.globo.com/tecnologia/noticia/2026/03/18/prints-bloco-notas-conversas.ghtml) | topico: produtividade-dev | score: 100
+- [Qual é a fase da Lua hoje (18)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/18/qual-e-a-fase-da-lua-hoje-18-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 92
