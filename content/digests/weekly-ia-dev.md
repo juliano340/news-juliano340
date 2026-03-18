@@ -1,24 +1,29 @@
 # Weekly IA para Devs - 2026-03-18
 
-Gerado em 2026-03-18T19:12:20.842Z
+Gerado em 2026-03-18T21:11:22.041Z
 
-- [Kagi quer recriar internet do passado com o projeto Small Web](https://tecnoblog.net/noticias/kagi-quer-recriar-internet-do-passado-com-o-projeto-small-web/) | topico: agentes | score: 100
-- [Firefox vai ter VPN gratuita, visualização dupla e até novo mascote (Kit)](https://tecnoblog.net/noticias/firefox-vai-ter-vpn-gratuita-visualizacao-dupla-e-ate-novo-mascote-kit/) | topico: seguranca-ia | score: 92
-- [Empresas monitoram consumo de tokens para controlar custos com IA](https://tecnoblog.net/noticias/empresas-monitoram-consumo-de-tokens-para-controlar-custos-com-ia/) | topico: agentes | score: 100
-- [Motorola Edge 60 Pro (256 GB) sai ainda barato com 39% OFF e menor preço em meses](https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-sai-ainda-barato-com-39-off-e-menor-preco-em-meses/) | topico: geral | score: 92
-- [Fujifilm revela nova geração da Instax Mini; veja o que mudou além do design](https://canaltech.com.br/produtos/fujifilm-revela-nova-geracao-da-instax-mini-veja-o-que-mudou-alem-do-design/) | topico: geral | score: 100
-- [GAC GS3 chega ao Brasil em duas versões para desafiar Compass e Corolla Cross](https://canaltech.com.br/carros/gac-gs3-chega-ao-brasil-em-duas-versoes-para-desafiar-compass-e-corolla-cross/) | topico: produtividade-dev | score: 100
-- [Que horas Death Stranding 2 para PC estreia no Brasil?](https://canaltech.com.br/games/que-horas-death-stranding-2-para-pc-estreia-no-brasil/) | topico: geral | score: 100
-- [1º iPhone "pós Steve Jobs" está oficialmente obsoleto, confirma Apple](https://canaltech.com.br/smartphone/1o-iphone-pos-steve-jobs-esta-oficialmente-obsoleto-confirma-apple/) | topico: geral | score: 92
-- [Fim da briga por tomada? Robô na China vai até o carro para carregar a bateria](https://canaltech.com.br/carros/fim-da-briga-por-tomada-robo-na-china-vai-ate-o-carro-para-carregar-a-bateria/) | topico: infra-ia | score: 100
-- [Drone solar voa por 5 horas sem pousar usando bateria minúscula](https://canaltech.com.br/produtos/drone-solar-voa-por-5-horas-sem-pousar-usando-bateria-minuscula/) | topico: geral | score: 100
-- [Especialistas alertam para aumento de golpes do falso rastreio de encomendas](https://canaltech.com.br/seguranca/especialistas-alertam-para-aumento-de-golpes-do-falso-rastreio-de-encomendas/) | topico: geral | score: 100
-- [Nem a Carteira escapa: saiba como desativar anúncios no Apple Pay](https://canaltech.com.br/apps/nem-a-carteira-escapa-saiba-como-desativar-anuncios-no-apple-pay/) | topico: seguranca-ia | score: 100
-- [Aranha-robô quer construir casas na velocidade de 100 pedreiros sem usar cimento](https://canaltech.com.br/produtos/aranha-robo-quer-construir-casas-na-velocidade-de-100-pedreiros-sem-usar-cimento/) | topico: produtividade-dev | score: 100
-- [Huaiwei lança FreeBuds Pro 5 com ANC e driver duplo no Brasil](https://www.tecmundo.com.br/produto/411702-huaiwei-lanca-freebuds-pro-5-com-anc-e-driver-duplo-no-brasil.htm) | topico: geral | score: 100
-- [Facebook pagará até R$ 15 mil para criadores do TikTok postarem na rede](https://www.tecmundo.com.br/redes-sociais/411709-facebook-pagara-ate-r-15-mil-para-criadores-do-tiktok-postarem-na-rede.htm) | topico: agentes | score: 100
-- [Palpites para Flamengo x Remo: Análises e Onde Assistir (19/03/2026)](https://www.tecmundo.com.br/apostas/411708-palpites-para-flamengo-x-remo-analises-e-onde-assistir-19032026.htm) | topico: seguranca-ia | score: 92
-- [Hardware e acessórios gamer em oferta no KaBuM!](https://www.tecmundo.com.br/voxel/503814-hardware-e-acessorios-gamer-em-oferta-no-kabum.htm) | topico: geral | score: 100
-- [Como funciona o DLSS 5? Entenda a tecnologia e jogos compatíveis](https://www.tecmundo.com.br/voxel/503806-como-funciona-o-dlss-5-entenda-a-tecnologia-e-jogos-compativeis.htm) | topico: geral | score: 100
-- [EUA isentam quatro drones de fabricação estrangeira da proibição de importação](https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/eua-isentam-quatro-drones-de-fabricacao-estrangeira-da-proibicao-de-importacao.htm) | topico: geral | score: 100
-- [Meta prometeu acabar com anúncios financeiros ilegais na Grã-Bretanha mas falhou 1.000 vezes em uma semana](https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/meta-prometeu-acabar-com-anuncios-financeiros-ilegais-na-gra-bretanha-mas-falhou-1000-vezes-em-uma-semana.htm) | topico: geral | score: 100
+- [Galaxy Watch 8 (44 mm) cai 44% e tem menor preço do ano no Mercado Livre](https://tecnoblog.net/achados/galaxy-watch-8-44-mm-cai-44-e-tem-menor-preco-do-ano-no-mercado-livre/) | topico: geral | score: 100
+- [Reclamações contra operadoras voltam a subir no Brasil; pós-pago lidera queixas](https://tecnoblog.net/noticias/reclamacoes-contra-operadoras-voltam-a-subir-no-brasil-pos-pago-lidera-queixas/) | topico: geral | score: 100
+- [WhatsApp chega aos relógios inteligentes da Garmin](https://tecnoblog.net/noticias/whatsapp-chega-aos-relogios-inteligentes-da-garmin/) | topico: geral | score: 92
+- [Galaxy Watch 8 Classic tem melhor oferta que já vimos com 50% de desconto](https://tecnoblog.net/achados/galaxy-watch-8-classic-tem-melhor-oferta-que-ja-vimos-com-50-de-desconto/) | topico: llms | score: 92
+- [Bluetooth SIG: conheça o grupo que supervisiona o padrão Bluetooth](https://tecnoblog.net/responde/bluetooth-sig-conheca-o-grupo-que-supervisiona-o-padrao-bluetooth/) | topico: geral | score: 100
+- [Meta encerrará Horizon Worlds em VR nos headsets Quest](https://tecnoblog.net/noticias/meta-encerrara-horizon-worlds-em-vr-nos-headsets-quest/) | topico: geral | score: 100
+- [Como IA proprietária do iFood ajudou app a bater recorde de pedidos](https://canaltech.com.br/mercado/como-ia-proprietaria-do-ifood-ajudou-app-a-bater-recorde-de-pedidos/) | topico: geral | score: 100
+- [Premium com propaganda? Erro faz Spotify tocar anúncios para assinantes](https://canaltech.com.br/apps/premium-com-propaganda-erro-faz-spotify-tocar-anuncios-para-assinantes/) | topico: produtividade-dev | score: 100
+- [China deixa EUA no chinelo: top 9 marcas que mais vendem robôs humanoides](https://canaltech.com.br/produtos/china-deixa-eua-no-chinelo-top-9-marcas-que-mais-vendem-robos-humanoides/) | topico: produtividade-dev | score: 100
+- [Novos ROG Strix misturam CPUs novas da Intel, Mini LED e upgrades bem pensados](https://canaltech.com.br/notebook/novos-rog-strix-misturam-cpus-novas-da-intel-mini-led-e-upgrades-bem-pensados/) | topico: geral | score: 100
+- [Como fica Google, Facebook, Reddit e a Internet brasileira com o ECA Digital?](https://canaltech.com.br/internet/como-fica-google-facebook-reddit-e-a-internet-brasileira-com-o-eca-digital/) | topico: produtividade-dev | score: 92
+- [Jeep derruba preço do Renegade Altitude para enfrentar Chevrolet Tracker](https://canaltech.com.br/carros/jeep-derruba-preco-do-renegade-altitude-para-enfrentar-chevrolet-tracker/) | topico: produtividade-dev | score: 100
+- [App do Gemini pode ficar mais parecido com a versão web, indica site](https://canaltech.com.br/apps/app-do-gemini-pode-ficar-mais-parecido-com-a-versao-web-indica-site/) | topico: llms | score: 100
+- [iPhone 14 é o celular usado mais buscado no Brasil](https://canaltech.com.br/smartphone/iphone-14-e-o-celular-usado-mais-buscado-no-brasil/) | topico: geral | score: 100
+- [NVIDIA apresenta CPU Vera com foco em IA e promessa de 2x mais eficiência](https://canaltech.com.br/hardware/nvidia-apresenta-cpu-vera-com-foco-em-ia-e-promessa-de-2x-mais-eficiencia/) | topico: geral | score: 92
+- [Quando eventos geopolíticos afetam a nuvem: data centers e o novo teste de resiliência](https://www.tecmundo.com.br/mercado/411710-quando-eventos-geopoliticos-afetam-a-nuvem-data-centers-e-o-novo-teste-de-resiliencia.htm) | topico: geral | score: 100
+- [7 tecnologias do Audi e-tron que mostram o futuro dos carros elétricos](https://www.tecmundo.com.br/produto/411715-7-tecnologias-do-audi-e-tron-que-mostram-o-futuro-dos-carros-eletricos.htm) | topico: seguranca-ia | score: 100
+- [Apple corrige falha que burlava proteção do Safari](https://www.tecmundo.com.br/seguranca/411698-apple-corrige-falha-que-burlava-protecao-do-safari.htm) | topico: geral | score: 100
+- [Crítica: Velhos Bandidos é o filme perfeito pós maratona do Oscar](https://www.tecmundo.com.br/minha-serie/603424-critica-velhos-bandidos-e-o-filme-perfeito-pos-maratona-do-oscar.htm) | topico: geral | score: 92
+- [Celulares Samsung, Motorola, Xiaomi e mais em oferta no Mercado Livre](https://www.tecmundo.com.br/guia-de-compras/411711-celulares-samsung-motorola-xiaomi-e-mais-em-oferta-no-mercado-livre.htm) | topico: geral | score: 100
+- [Meta vai fechar o Horizon Worlds, maior projeto do metaverso](https://www.tecmundo.com.br/mercado/411705-meta-vai-fechar-o-horizon-worlds-maior-projeto-do-metaverso.htm) | topico: geral | score: 92
+- ['Criminosos sofrerão o rigor da lei': Lula assina decretos que regulamentam ECA Digital](https://www.tecmundo.com.br/internet/411703-criminosos-sofrerao-o-rigor-da-lei-lula-assina-decretos-que-regulamentam-eca-digital.htm) | topico: geral | score: 92
+- [Pix caiu? Serviço de pagamento está instável na tarde de quarta-feira (18)](https://www.tecmundo.com.br/mercado/411713-pix-caiu-servicos-de-pagamento-esta-instavel-na-tarde-de-quarta-feira-18.htm) | topico: geral | score: 100
+- [Microsoft recua e engaveta recursos do Copilot no Windows 11](https://www.tecmundo.com.br/software/411706-microsoft-recua-e-engaveta-recursos-do-copilot-no-windows-11.htm) | topico: produtividade-dev | score: 92
+- [ECA Digital não proíbe jogos, apenas loot boxes que são "caça-níqueis", diz governo](https://www.tecmundo.com.br/voxel/503815-eca-digital-nao-proibe-jogos-apenas-loot-boxes-que-sao-caca-niqueis-diz-governo.htm) | topico: geral | score: 100
