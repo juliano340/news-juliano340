@@ -1,223 +1,187 @@
 {
-  "generated_at": "2026-03-18T17:18:11.895Z",
+  "generated_at": "2026-03-18T19:12:20.842Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 24,
+  "total": 20,
   "posts": [
     {
-      "title": "EUA insistem que Anthropic representa 'risco inaceitável' para exército dos EUA",
-      "slug": "eua-insistem-que-anthropic-representa-risco-inaceitavel-para-exercito-dos-eua",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-18T16:20:47.000Z",
+      "title": "Kagi quer recriar internet do passado com o projeto Small Web",
+      "slug": "kagi-quer-recriar-internet-do-passado-com-o-projeto-small-web",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-18T18:39:43.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/18/eua-insistem-que-anthropic-representa-risco-inaceitavel-para-exercito-dos-eua.ghtml"
+      "original_url": "https://tecnoblog.net/noticias/kagi-quer-recriar-internet-do-passado-com-o-projeto-small-web/"
     },
     {
-      "title": "iPhone 16e atinge menor preço do ano em oferta exclusiva Amazon Prime",
-      "slug": "iphone-16e-atinge-menor-preco-do-ano-em-oferta-exclusiva-amazon-prime",
-      "topic": "geral",
+      "title": "Firefox vai ter VPN gratuita, visualização dupla e até novo mascote (Kit)",
+      "slug": "firefox-vai-ter-vpn-gratuita-visualizacao-dupla-e-ate-novo-mascote-kit",
+      "topic": "seguranca-ia",
       "source": "Tecnoblog",
-      "date": "2026-03-18T16:51:40.000Z",
+      "date": "2026-03-18T18:38:28.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-16e-atinge-menor-preco-do-ano-em-oferta-exclusiva-amazon-prime/"
+      "original_url": "https://tecnoblog.net/noticias/firefox-vai-ter-vpn-gratuita-visualizacao-dupla-e-ate-novo-mascote-kit/"
     },
     {
-      "title": "YouTube questiona usuários para identificar vídeos ruins gerados por IA",
-      "slug": "youtube-questiona-usuarios-para-identificar-videos-ruins-gerados-por-ia",
-      "topic": "produtividade-dev",
+      "title": "Empresas monitoram consumo de tokens para controlar custos com IA",
+      "slug": "empresas-monitoram-consumo-de-tokens-para-controlar-custos-com-ia",
+      "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-03-18T16:41:07.000Z",
+      "date": "2026-03-18T17:54:20.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/youtube-questiona-usuarios-para-identificar-videos-ruins-gerados-por-ia/"
+      "original_url": "https://tecnoblog.net/noticias/empresas-monitoram-consumo-de-tokens-para-controlar-custos-com-ia/"
     },
     {
-      "title": "Jogadores estão “completamente errados”, diz CEO da Nvidia sobre o DLSS 5",
-      "slug": "jogadores-estao-completamente-errados-diz-ceo-da-nvidia-sobre-o-dlss-5",
+      "title": "Motorola Edge 60 Pro (256 GB) sai ainda barato com 39% OFF e menor preço em meses",
+      "slug": "motorola-edge-60-pro-256-gb-sai-ainda-barato-com-39percent-off-e-menor-preco-em-meses",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-18T15:35:48.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/jogadores-estao-completamente-errados-diz-ceo-da-nvidia-sobre-o-dlss-5/"
-    },
-    {
-      "title": "Chefe da área de casa inteligente da Apple deixa a empresa",
-      "slug": "chefe-da-area-de-casa-inteligente-da-apple-deixa-a-empresa",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T15:05:07.000Z",
+      "date": "2026-03-18T17:45:39.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/chefe-da-area-de-casa-inteligente-da-apple-deixa-a-empresa/"
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-sai-ainda-barato-com-39-off-e-menor-preco-em-meses/"
     },
     {
-      "title": "Java 26 chega com otimizações para IA e novas ferramentas",
-      "slug": "java-26-chega-com-otimizacoes-para-ia-e-novas-ferramentas",
+      "title": "Fujifilm revela nova geração da Instax Mini; veja o que mudou além do design",
+      "slug": "fujifilm-revela-nova-geracao-da-instax-mini-veja-o-que-mudou-alem-do-design",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-18T18:56:08.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/fujifilm-revela-nova-geracao-da-instax-mini-veja-o-que-mudou-alem-do-design/"
+    },
+    {
+      "title": "GAC GS3 chega ao Brasil em duas versões para desafiar Compass e Corolla Cross",
+      "slug": "gac-gs3-chega-ao-brasil-em-duas-versoes-para-desafiar-compass-e-corolla-cross",
       "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T14:14:24.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-18T18:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/java-26-chega-com-otimizacoes-para-ia-e-novas-ferramentas/"
+      "original_url": "https://canaltech.com.br/carros/gac-gs3-chega-ao-brasil-em-duas-versoes-para-desafiar-compass-e-corolla-cross/"
     },
     {
-      "title": "Galaxy S25 Plus (512 GB) aparece com 52% OFF com cupom em oferta na Amazon",
-      "slug": "galaxy-s25-plus-512-gb-aparece-com-52percent-off-com-cupom-em-oferta-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T13:56:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-aparece-com-52-off-com-cupom-em-oferta-na-amazon/"
-    },
-    {
-      "title": "The Sims 4 agora deixa jogadores venderem criações dentro do jogo",
-      "slug": "the-sims-4-agora-deixa-jogadores-venderem-criacoes-dentro-do-jogo",
+      "title": "Que horas Death Stranding 2 para PC estreia no Brasil?",
+      "slug": "que-horas-death-stranding-2-para-pc-estreia-no-brasil",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T16:55:00.000Z",
+      "date": "2026-03-18T18:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/the-sims-4-agora-deixa-jogadores-venderem-criacoes-dentro-do-jogo/"
+      "original_url": "https://canaltech.com.br/games/que-horas-death-stranding-2-para-pc-estreia-no-brasil/"
     },
     {
-      "title": "TV gamer da Xiaomi chega ao mercado por equivalente a R$ 1 mil; veja os recursos",
-      "slug": "tv-gamer-da-xiaomi-chega-ao-mercado-por-equivalente-a-rdollar-1-mil-veja-os-recursos",
+      "title": "1º iPhone \"pós Steve Jobs\" está oficialmente obsoleto, confirma Apple",
+      "slug": "1o-iphone-pos-steve-jobs-esta-oficialmente-obsoleto-confirma-apple",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T16:38:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/tv-gamer-da-xiaomi-chega-ao-mercado-por-equivalente-a-r-1000-veja-os-recursos/"
+      "date": "2026-03-18T18:05:22.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/smartphone/1o-iphone-pos-steve-jobs-esta-oficialmente-obsoleto-confirma-apple/"
     },
     {
-      "title": "Quanto você economiza trazendo um iPad do Paraguai? Nós fizemos as contas",
-      "slug": "quanto-voce-economiza-trazendo-um-ipad-do-paraguai-nos-fizemos-as-contas",
+      "title": "Fim da briga por tomada? Robô na China vai até o carro para carregar a bateria",
+      "slug": "fim-da-briga-por-tomada-robo-na-china-vai-ate-o-carro-para-carregar-a-bateria",
+      "topic": "infra-ia",
+      "source": "Canaltech",
+      "date": "2026-03-18T18:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/fim-da-briga-por-tomada-robo-na-china-vai-ate-o-carro-para-carregar-a-bateria/"
+    },
+    {
+      "title": "Drone solar voa por 5 horas sem pousar usando bateria minúscula",
+      "slug": "drone-solar-voa-por-5-horas-sem-pousar-usando-bateria-minuscula",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T16:22:31.000Z",
-      "editorial_score": 85,
-      "original_url": "https://canaltech.com.br/tablet/quanto-voce-economiza-trazendo-um-ipad-do-paraguai-nos-fizemos-as-contas/"
-    },
-    {
-      "title": "Maps, ChatGPT e mais: 9 apps essenciais para quem vai ao Lollapalooza Brasil",
-      "slug": "maps-chatgpt-e-mais-9-apps-essenciais-para-quem-vai-ao-lollapalooza-brasil",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-18T16:00:00.000Z",
+      "date": "2026-03-18T17:47:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/maps-chatgpt-e-mais-9-apps-essenciais-para-quem-vai-ao-lollapalooza-brasil/"
+      "original_url": "https://canaltech.com.br/produtos/drone-solar-voa-por-5-horas-sem-pousar-usando-bateria-minuscula/"
     },
     {
-      "title": "Embraer usa IA para deixar caça Super Tucano imbatível contra drones",
-      "slug": "embraer-usa-ia-para-deixar-caca-super-tucano-imbativel-contra-drones",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-18T16:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/embraer-usa-ia-para-deixar-caca-super-tucano-imbativel-contra-drones/"
-    },
-    {
-      "title": "Jogar videogame pode ajudar crianças a aumentarem QI, aponta pesquisa",
-      "slug": "jogar-videogame-pode-ajudar-criancas-a-aumentarem-qi-aponta-pesquisa",
+      "title": "Especialistas alertam para aumento de golpes do falso rastreio de encomendas",
+      "slug": "especialistas-alertam-para-aumento-de-golpes-do-falso-rastreio-de-encomendas",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T15:20:00.000Z",
+      "date": "2026-03-18T17:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/jogar-videogame-pode-ajudar-criancas-a-aumentarem-qi-aponta-pesquisa/"
+      "original_url": "https://canaltech.com.br/seguranca/especialistas-alertam-para-aumento-de-golpes-do-falso-rastreio-de-encomendas/"
     },
     {
-      "title": "Fim de ciclo: amado celular da Xiaomi não receberá mais updates",
-      "slug": "fim-de-ciclo-amado-celular-da-xiaomi-nao-recebera-mais-updates",
+      "title": "Nem a Carteira escapa: saiba como desativar anúncios no Apple Pay",
+      "slug": "nem-a-carteira-escapa-saiba-como-desativar-anuncios-no-apple-pay",
+      "topic": "seguranca-ia",
+      "source": "Canaltech",
+      "date": "2026-03-18T17:38:14.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/nem-a-carteira-escapa-saiba-como-desativar-anuncios-no-apple-pay/"
+    },
+    {
+      "title": "Aranha-robô quer construir casas na velocidade de 100 pedreiros sem usar cimento",
+      "slug": "aranha-robo-quer-construir-casas-na-velocidade-de-100-pedreiros-sem-usar-cimento",
       "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-18T17:00:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-03-18T17:14:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411695-fim-de-ciclo-amado-celular-da-xiaomi-nao-recebera-mais-updates.htm"
+      "original_url": "https://canaltech.com.br/produtos/aranha-robo-quer-construir-casas-na-velocidade-de-100-pedreiros-sem-usar-cimento/"
     },
     {
-      "title": "Smart TVs, celulares e mais com preços baixos e até 21x no Magazine Luiza",
-      "slug": "smart-tvs-celulares-e-mais-com-precos-baixos-e-ate-21x-no-magazine-luiza",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-18T16:17:48.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411697-smart-tvs-celulares-e-mais-com-precos-baixos-e-ate-21x-no-magazine-luiza.htm"
-    },
-    {
-      "title": "Como a Lei Felca afeta a Netflix e outros streamings? Entenda o impacto do ECA Digital",
-      "slug": "como-a-lei-felca-afeta-a-netflix-e-outros-streamings-entenda-o-impacto-do-eca-digital",
+      "title": "Huaiwei lança FreeBuds Pro 5 com ANC e driver duplo no Brasil",
+      "slug": "huaiwei-lanca-freebuds-pro-5-com-anc-e-driver-duplo-no-brasil",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T16:15:09.000Z",
+      "date": "2026-03-18T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603418-como-a-lei-felca-afeta-a-netflix-e-outros-streamings-entenda-o-impacto-do-eca-digital.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/411702-huaiwei-lanca-freebuds-pro-5-com-anc-e-driver-duplo-no-brasil.htm"
     },
     {
-      "title": "Modo de Proteção Avançada do Android 17 pode impedir alguns apps de funcionar",
-      "slug": "modo-de-protecao-avancada-do-android-17-pode-impedir-alguns-apps-de-funcionar",
+      "title": "Facebook pagará até R$ 15 mil para criadores do TikTok postarem na rede",
+      "slug": "facebook-pagara-ate-rdollar-15-mil-para-criadores-do-tiktok-postarem-na-rede",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-18T18:35:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/redes-sociais/411709-facebook-pagara-ate-r-15-mil-para-criadores-do-tiktok-postarem-na-rede.htm"
+    },
+    {
+      "title": "Palpites para Flamengo x Remo: Análises e Onde Assistir (19/03/2026)",
+      "slug": "palpites-para-flamengo-x-remo-analises-e-onde-assistir-19032026",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-18T18:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/apostas/411708-palpites-para-flamengo-x-remo-analises-e-onde-assistir-19032026.htm"
+    },
+    {
+      "title": "Hardware e acessórios gamer em oferta no KaBuM!",
+      "slug": "hardware-e-acessorios-gamer-em-oferta-no-kabum",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T16:00:00.000Z",
+      "date": "2026-03-18T17:46:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411693-modo-de-protecao-avancada-do-android-17-pode-impedir-alguns-apps-de-funcionar.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503814-hardware-e-acessorios-gamer-em-oferta-no-kabum.htm"
     },
     {
-      "title": "Air Fryer em promoção: modelos Philco, Britânia, Mondial e mais a partir de R$118",
-      "slug": "air-fryer-em-promocao-modelos-philco-britania-mondial-e-mais-a-partir-de-rdollar118",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-18T15:36:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411701-air-fryer-em-promocao-modelos-philco-britania-mondial-e-mais-a-partir-de-r118.htm"
-    },
-    {
-      "title": "CEO da NVIDIA defende o DLSS 5 e critica comentários: ‘Completamente enganados’",
-      "slug": "ceo-da-nvidia-defende-o-dlss-5-e-critica-comentarios-completamente-enganados",
+      "title": "Como funciona o DLSS 5? Entenda a tecnologia e jogos compatíveis",
+      "slug": "como-funciona-o-dlss-5-entenda-a-tecnologia-e-jogos-compativeis",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T15:15:55.000Z",
+      "date": "2026-03-18T17:17:26.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503807-ceo-da-nvidia-defende-o-dlss-5-e-critica-comentarios-completamente-enganados.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503806-como-funciona-o-dlss-5-entenda-a-tecnologia-e-jogos-compativeis.htm"
     },
     {
-      "title": "Trabalhadores coreanos da Samsung aprovam greve que pode parar produção de chips",
-      "slug": "trabalhadores-coreanos-da-samsung-aprovam-greve-que-pode-parar-producao-de-chips",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T15:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411694-trabalhadores-coreanos-da-samsung-aprovam-greve-que-pode-parar-producao-de-chips.htm"
-    },
-    {
-      "title": "Parlamentares da UE apoiam proibição de aplicativos de IA que geram imagens explícitas",
-      "slug": "parlamentares-da-ue-apoiam-proibicao-de-aplicativos-de-ia-que-geram-imagens-explicitas",
+      "title": "EUA isentam quatro drones de fabricação estrangeira da proibição de importação",
+      "slug": "eua-isentam-quatro-drones-de-fabricacao-estrangeira-da-proibicao-de-importacao",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-18T16:57:04.000Z",
+      "date": "2026-03-18T18:06:53.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/parlamentares-da-ue-apoiam-proibicao-de-aplicativos-de-ia-que-geram-imagens-explicitas.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/eua-isentam-quatro-drones-de-fabricacao-estrangeira-da-proibicao-de-importacao.htm"
     },
     {
-      "title": "BMG processa Anthropic por usar letras de Bruno Mars e Rolling Stones em treinamento de IA",
-      "slug": "bmg-processa-anthropic-por-usar-letras-de-bruno-mars-e-rolling-stones-em-treinamento-de-ia",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-18T16:22:03.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/bmg-processa-anthropic-por-usar-letras-de-bruno-mars-e-rolling-stones-em-treinamento-de-ia.htm"
-    },
-    {
-      "title": "Xi-cc-plus: Cientistas europeus anunciam descoberta de nova partícula",
-      "slug": "xi-cc-plus-cientistas-europeus-anunciam-descoberta-de-nova-particula",
+      "title": "Meta prometeu acabar com anúncios financeiros ilegais na Grã-Bretanha mas falhou 1.000 vezes em uma semana",
+      "slug": "meta-prometeu-acabar-com-anuncios-financeiros-ilegais-na-gra-bretanha-mas-falhou-1000-vezes-em-uma-semana",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-18T16:16:50.000Z",
+      "date": "2026-03-18T17:35:37.000Z",
       "editorial_score": 100,
-      "original_url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/03/18/nova-particula-e-descoberta-pelo-grande-colisor-de-hadrons.htm"
-    },
-    {
-      "title": "EUA dizem que IA da Anthropic representa 'risco inaceitável' para o Exército",
-      "slug": "eua-dizem-que-ia-da-anthropic-representa-risco-inaceitavel-para-o-exercito",
-      "topic": "llms",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-18T15:32:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/03/18/eua-dizem-que-ia-da-anthropic-representa-risco-inaceitavel-para-o-exercito.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/meta-prometeu-acabar-com-anuncios-financeiros-ilegais-na-gra-bretanha-mas-falhou-1000-vezes-em-uma-semana.htm"
     }
   ]
 }
