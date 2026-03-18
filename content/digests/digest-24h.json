@@ -1,178 +1,223 @@
 {
-  "generated_at": "2026-03-18T15:13:28.623Z",
+  "generated_at": "2026-03-18T17:18:11.895Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 19,
+  "total": 24,
   "posts": [
     {
-      "title": "PowerToys 0.98 adiciona barra de atalhos no Windows e melhora várias funções",
-      "slug": "powertoys-098-adiciona-barra-de-atalhos-no-windows-e-melhora-varias-funcoes",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T14:33:19.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/powertoys-0-98-adiciona-barra-de-atalhos-no-windows-e-melhora-varias-funcoes/"
+      "title": "EUA insistem que Anthropic representa 'risco inaceitável' para exército dos EUA",
+      "slug": "eua-insistem-que-anthropic-representa-risco-inaceitavel-para-exercito-dos-eua",
+      "topic": "llms",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-18T16:20:47.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/18/eua-insistem-que-anthropic-representa-risco-inaceitavel-para-exercito-dos-eua.ghtml"
     },
     {
-      "title": "Nintendo Switch OLED entra em promoção com cupom no Magalu",
-      "slug": "nintendo-switch-oled-entra-em-promocao-com-cupom-no-magalu",
+      "title": "iPhone 16e atinge menor preço do ano em oferta exclusiva Amazon Prime",
+      "slug": "iphone-16e-atinge-menor-preco-do-ano-em-oferta-exclusiva-amazon-prime",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-18T14:11:48.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/nintendo-switch-oled-entra-em-promocao-com-cupom-no-magalu/"
+      "date": "2026-03-18T16:51:40.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-16e-atinge-menor-preco-do-ano-em-oferta-exclusiva-amazon-prime/"
     },
     {
-      "title": "Spotify lança recurso para melhorar qualidade de áudio no PC",
-      "slug": "spotify-lanca-recurso-para-melhorar-qualidade-de-audio-no-pc",
+      "title": "YouTube questiona usuários para identificar vídeos ruins gerados por IA",
+      "slug": "youtube-questiona-usuarios-para-identificar-videos-ruins-gerados-por-ia",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-18T13:09:51.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/spotify-lanca-recurso-para-melhorar-qualidade-de-audio-no-pc/"
+      "date": "2026-03-18T16:41:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/youtube-questiona-usuarios-para-identificar-videos-ruins-gerados-por-ia/"
     },
     {
-      "title": "iPhone 17 Pro (256 GB) tem redução de 32% no preço no Mercado Livre",
-      "slug": "iphone-17-pro-256-gb-tem-reducao-de-32percent-no-preco-no-mercado-livre",
+      "title": "Jogadores estão “completamente errados”, diz CEO da Nvidia sobre o DLSS 5",
+      "slug": "jogadores-estao-completamente-errados-diz-ceo-da-nvidia-sobre-o-dlss-5",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-18T13:09:15.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-256-gb-tem-reducao-de-32-no-preco-no-mercado-livre/"
-    },
-    {
-      "title": "KaBuM! derruba preço da RX 9070 XT XFX Swift; GPU do ano com 16 GB e preço baixo",
-      "slug": "kabum-derruba-preco-da-rx-9070-xt-xfx-swift-gpu-do-ano-com-16-gb-e-preco-baixo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T14:39:38.000Z",
+      "date": "2026-03-18T15:35:48.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/kabum-derruba-preco-da-rx-9070-xt-xfx-swift-gpu-do-ano-com-16-gb-e-preco-baixo/"
+      "original_url": "https://tecnoblog.net/noticias/jogadores-estao-completamente-errados-diz-ceo-da-nvidia-sobre-o-dlss-5/"
     },
     {
-      "title": "Ligação com barulho? WhatsApp testa cancelamento de ruído para chamadas",
-      "slug": "ligacao-com-barulho-whatsapp-testa-cancelamento-de-ruido-para-chamadas",
+      "title": "Chefe da área de casa inteligente da Apple deixa a empresa",
+      "slug": "chefe-da-area-de-casa-inteligente-da-apple-deixa-a-empresa",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-18T15:05:07.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/chefe-da-area-de-casa-inteligente-da-apple-deixa-a-empresa/"
+    },
+    {
+      "title": "Java 26 chega com otimizações para IA e novas ferramentas",
+      "slug": "java-26-chega-com-otimizacoes-para-ia-e-novas-ferramentas",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-18T14:31:52.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-18T14:14:24.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/ligacao-com-barulho-whatsapp-testa-cancelamento-de-ruido-para-chamadas/"
+      "original_url": "https://tecnoblog.net/noticias/java-26-chega-com-otimizacoes-para-ia-e-novas-ferramentas/"
     },
     {
-      "title": "PS Portal ganha novo modo 1080p com gráficos de alta qualidade",
-      "slug": "ps-portal-ganha-novo-modo-1080p-com-graficos-de-alta-qualidade",
+      "title": "Galaxy S25 Plus (512 GB) aparece com 52% OFF com cupom em oferta na Amazon",
+      "slug": "galaxy-s25-plus-512-gb-aparece-com-52percent-off-com-cupom-em-oferta-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-18T13:56:57.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-plus-512-gb-aparece-com-52-off-com-cupom-em-oferta-na-amazon/"
+    },
+    {
+      "title": "The Sims 4 agora deixa jogadores venderem criações dentro do jogo",
+      "slug": "the-sims-4-agora-deixa-jogadores-venderem-criacoes-dentro-do-jogo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T14:25:00.000Z",
+      "date": "2026-03-18T16:55:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/ps-portal-ganha-novo-modo-1080p-com-graficos-de-alta-qualidade/"
+      "original_url": "https://canaltech.com.br/games/the-sims-4-agora-deixa-jogadores-venderem-criacoes-dentro-do-jogo/"
     },
     {
-      "title": "Prepare o bolso: volta do DPVAT e colete refletivo podem virar lei",
-      "slug": "prepare-o-bolso-volta-do-dpvat-e-colete-refletivo-podem-virar-lei",
-      "topic": "seguranca-ia",
+      "title": "TV gamer da Xiaomi chega ao mercado por equivalente a R$ 1 mil; veja os recursos",
+      "slug": "tv-gamer-da-xiaomi-chega-ao-mercado-por-equivalente-a-rdollar-1-mil-veja-os-recursos",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T14:05:00.000Z",
+      "date": "2026-03-18T16:38:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/prepare-o-bolso-volta-do-dpvat-e-colete-refletivo-podem-virar-lei/"
+      "original_url": "https://canaltech.com.br/eletro/tv-gamer-da-xiaomi-chega-ao-mercado-por-equivalente-a-r-1000-veja-os-recursos/"
     },
     {
-      "title": "Vídeo mostra momento em que meteoro cruza o céu e causa estrondo nos EUA",
-      "slug": "video-mostra-momento-em-que-meteoro-cruza-o-ceu-e-causa-estrondo-nos-eua",
+      "title": "Quanto você economiza trazendo um iPad do Paraguai? Nós fizemos as contas",
+      "slug": "quanto-voce-economiza-trazendo-um-ipad-do-paraguai-nos-fizemos-as-contas",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-18T16:22:31.000Z",
+      "editorial_score": 85,
+      "original_url": "https://canaltech.com.br/tablet/quanto-voce-economiza-trazendo-um-ipad-do-paraguai-nos-fizemos-as-contas/"
+    },
+    {
+      "title": "Maps, ChatGPT e mais: 9 apps essenciais para quem vai ao Lollapalooza Brasil",
+      "slug": "maps-chatgpt-e-mais-9-apps-essenciais-para-quem-vai-ao-lollapalooza-brasil",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-18T16:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/maps-chatgpt-e-mais-9-apps-essenciais-para-quem-vai-ao-lollapalooza-brasil/"
+    },
+    {
+      "title": "Embraer usa IA para deixar caça Super Tucano imbatível contra drones",
+      "slug": "embraer-usa-ia-para-deixar-caca-super-tucano-imbativel-contra-drones",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-18T16:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/embraer-usa-ia-para-deixar-caca-super-tucano-imbativel-contra-drones/"
+    },
+    {
+      "title": "Jogar videogame pode ajudar crianças a aumentarem QI, aponta pesquisa",
+      "slug": "jogar-videogame-pode-ajudar-criancas-a-aumentarem-qi-aponta-pesquisa",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-18T15:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/jogar-videogame-pode-ajudar-criancas-a-aumentarem-qi-aponta-pesquisa/"
+    },
+    {
+      "title": "Fim de ciclo: amado celular da Xiaomi não receberá mais updates",
+      "slug": "fim-de-ciclo-amado-celular-da-xiaomi-nao-recebera-mais-updates",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-18T14:00:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-18T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/espaco/video-mostra-momento-em-que-meteoro-cruza-o-ceu-e-causa-estrondo-nos-eua/"
+      "original_url": "https://www.tecmundo.com.br/produto/411695-fim-de-ciclo-amado-celular-da-xiaomi-nao-recebera-mais-updates.htm"
     },
     {
-      "title": "Manus lança agente estilo Cowork para organizar tarefas no computador",
-      "slug": "manus-lanca-agente-estilo-cowork-para-organizar-tarefas-no-computador",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-18T13:58:11.000Z",
+      "title": "Smart TVs, celulares e mais com preços baixos e até 21x no Magazine Luiza",
+      "slug": "smart-tvs-celulares-e-mais-com-precos-baixos-e-ate-21x-no-magazine-luiza",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-18T16:17:48.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/manus-lanca-agente-estilo-cowork-para-organizar-tarefas-no-computador/"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411697-smart-tvs-celulares-e-mais-com-precos-baixos-e-ate-21x-no-magazine-luiza.htm"
     },
     {
-      "title": "Samsung não desistiu do tri-fold: 2ª geração vem com surpresa, indica vazamento",
-      "slug": "samsung-nao-desistiu-do-tri-fold-2a-geracao-vem-com-surpresa-indica-vazamento",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T13:56:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/samsung-nao-desistiu-do-tri-fold-2a-geracao-vem-com-surpresa-indica-vazamento/"
-    },
-    {
-      "title": "Mercado Livre faz queima de iPhone Air de 512 GB; ultrafino com preço no chão",
-      "slug": "mercado-livre-faz-queima-de-iphone-air-de-512-gb-ultrafino-com-preco-no-chao",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T13:53:35.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-air-de-512-gb-ultrafino-com-preco-no-chao/"
-    },
-    {
-      "title": "Spotify lança recurso para ouvir \"músicas perfeitas\" no PC",
-      "slug": "spotify-lanca-recurso-para-ouvir-musicas-perfeitas-no-pc",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-18T13:50:49.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/spotify-lanca-recurso-para-ouvir-musicas-perfeitas-no-pc/"
-    },
-    {
-      "title": "Homem-Aranha: Um Novo Dia traz homenagem aos filmes dos anos 2000 com teia orgânica",
-      "slug": "homem-aranha-um-novo-dia-traz-homenagem-aos-filmes-dos-anos-2000-com-teia-organica",
+      "title": "Como a Lei Felca afeta a Netflix e outros streamings? Entenda o impacto do ECA Digital",
+      "slug": "como-a-lei-felca-afeta-a-netflix-e-outros-streamings-entenda-o-impacto-do-eca-digital",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T14:14:17.000Z",
+      "date": "2026-03-18T16:15:09.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603417-homem-aranha-um-novo-dia-traz-homenagem-aos-filmes-dos-anos-2000-com-teia-organica.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603418-como-a-lei-felca-afeta-a-netflix-e-outros-streamings-entenda-o-impacto-do-eca-digital.htm"
     },
     {
-      "title": "Samsung pode trocar tecnologia própria por telas chinesas nos próximos celulares",
-      "slug": "samsung-pode-trocar-tecnologia-propria-por-telas-chinesas-nos-proximos-celulares",
+      "title": "Modo de Proteção Avançada do Android 17 pode impedir alguns apps de funcionar",
+      "slug": "modo-de-protecao-avancada-do-android-17-pode-impedir-alguns-apps-de-funcionar",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T14:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411690-samsung-pode-trocar-tecnologia-propria-por-telas-chinesas-nos-proximos-celulares.htm"
-    },
-    {
-      "title": "Crise de chips de memória pode durar até 2030, indica CEO da SK Hynix",
-      "slug": "crise-de-chips-de-memoria-pode-durar-ate-2030-indica-ceo-da-sk-hynix",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T13:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411692-crise-de-chips-de-memoria-pode-durar-ate-2030-indica-ceo-da-sk-hynix.htm"
-    },
-    {
-      "title": "Pokémon Legends, Zelda e mais jogos para Nintendo em promoção na Amazon",
-      "slug": "pokemon-legends-zelda-e-mais-jogos-para-nintendo-em-promocao-na-amazon",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T13:17:00.000Z",
+      "date": "2026-03-18T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503808-pokemon-legends-zelda-e-mais-jogos-para-nintendo-em-promocao-na-amazon.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411693-modo-de-protecao-avancada-do-android-17-pode-impedir-alguns-apps-de-funcionar.htm"
     },
     {
-      "title": "Free Fire é afetado pela Lei Felca! Veja o que muda com o ECA Digital",
-      "slug": "free-fire-e-afetado-pela-lei-felca-veja-o-que-muda-com-o-eca-digital",
+      "title": "Air Fryer em promoção: modelos Philco, Britânia, Mondial e mais a partir de R$118",
+      "slug": "air-fryer-em-promocao-modelos-philco-britania-mondial-e-mais-a-partir-de-rdollar118",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-18T15:36:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411701-air-fryer-em-promocao-modelos-philco-britania-mondial-e-mais-a-partir-de-r118.htm"
+    },
+    {
+      "title": "CEO da NVIDIA defende o DLSS 5 e critica comentários: ‘Completamente enganados’",
+      "slug": "ceo-da-nvidia-defende-o-dlss-5-e-critica-comentarios-completamente-enganados",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T13:15:22.000Z",
+      "date": "2026-03-18T15:15:55.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503809-free-fire-e-afetado-pela-lei-felca-veja-o-que-muda-com-o-eca-digital.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503807-ceo-da-nvidia-defende-o-dlss-5-e-critica-comentarios-completamente-enganados.htm"
     },
     {
-      "title": "Telescópio capta nebulosa em forma de cérebro",
-      "slug": "telescopio-capta-nebulosa-em-forma-de-cerebro",
+      "title": "Trabalhadores coreanos da Samsung aprovam greve que pode parar produção de chips",
+      "slug": "trabalhadores-coreanos-da-samsung-aprovam-greve-que-pode-parar-producao-de-chips",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-18T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411694-trabalhadores-coreanos-da-samsung-aprovam-greve-que-pode-parar-producao-de-chips.htm"
+    },
+    {
+      "title": "Parlamentares da UE apoiam proibição de aplicativos de IA que geram imagens explícitas",
+      "slug": "parlamentares-da-ue-apoiam-proibicao-de-aplicativos-de-ia-que-geram-imagens-explicitas",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-18T11:19:06.000Z",
+      "date": "2026-03-18T16:57:04.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/flash/?c=f98dd782f9a999fa8b24b4eb951b2320260317"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/parlamentares-da-ue-apoiam-proibicao-de-aplicativos-de-ia-que-geram-imagens-explicitas.htm"
+    },
+    {
+      "title": "BMG processa Anthropic por usar letras de Bruno Mars e Rolling Stones em treinamento de IA",
+      "slug": "bmg-processa-anthropic-por-usar-letras-de-bruno-mars-e-rolling-stones-em-treinamento-de-ia",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-18T16:22:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/18/bmg-processa-anthropic-por-usar-letras-de-bruno-mars-e-rolling-stones-em-treinamento-de-ia.htm"
+    },
+    {
+      "title": "Xi-cc-plus: Cientistas europeus anunciam descoberta de nova partícula",
+      "slug": "xi-cc-plus-cientistas-europeus-anunciam-descoberta-de-nova-particula",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-18T16:16:50.000Z",
+      "editorial_score": 100,
+      "original_url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/03/18/nova-particula-e-descoberta-pelo-grande-colisor-de-hadrons.htm"
+    },
+    {
+      "title": "EUA dizem que IA da Anthropic representa 'risco inaceitável' para o Exército",
+      "slug": "eua-dizem-que-ia-da-anthropic-representa-risco-inaceitavel-para-o-exercito",
+      "topic": "llms",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-18T15:32:25.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/afp/2026/03/18/eua-dizem-que-ia-da-anthropic-representa-risco-inaceitavel-para-o-exercito.htm"
     }
   ]
 }
