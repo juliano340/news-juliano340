@@ -1,88 +1,151 @@
 {
-  "generated_at": "2026-03-18T11:06:31.676Z",
+  "generated_at": "2026-03-18T13:10:08.042Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 16,
   "posts": [
     {
-      "title": "Mercado Livre faz queima de iPhone 15 de 128 GB; Apple cai de preço em oferta",
-      "slug": "mercado-livre-faz-queima-de-iphone-15-de-128-gb-apple-cai-de-preco-em-oferta",
+      "title": "Motorola Edge 60 5G (512 GB) tem 43% OFF em até 12x sem juros na Amazon",
+      "slug": "motorola-edge-60-5g-512-gb-tem-43percent-off-em-ate-12x-sem-juros-na-amazon",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-15-de-128-gb-apple-cai-de-preco-em-oferta/"
-    },
-    {
-      "title": "Celular popular da Xiaomi chega ao fim das atualizações do Android; veja",
-      "slug": "celular-popular-da-xiaomi-chega-ao-fim-das-atualizacoes-do-android-veja",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T10:57:48.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-18T12:40:17.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/celular-popular-da-xiaomi-chega-ao-fim-das-atualizacoes-do-android-veja/"
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-5g-512-gb-tem-43-off-em-ate-12x-sem-juros-na-amazon/"
     },
     {
-      "title": "Internet tem menos trolls do que você pensa, mas não menos toxicidade",
-      "slug": "internet-tem-menos-trolls-do-que-voce-pensa-mas-nao-menos-toxicidade",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T10:35:00.000Z",
-      "editorial_score": 85,
-      "original_url": "https://canaltech.com.br/comportamento/internet-tem-menos-trolls-do-que-voce-pensa-mas-nao-menos-toxicidade/"
-    },
-    {
-      "title": "Galaxy S26 FE surge em certificação; saiba o que esperar do\"premium acessível\"",
-      "slug": "galaxy-s26-fe-surge-em-certificacao-saiba-o-que-esperar-dopremium-acessivel",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T10:20:00.000Z",
+      "title": "Tim Cook nega saída da Apple e descarta aposentadoria",
+      "slug": "tim-cook-nega-saida-da-apple-e-descarta-aposentadoria",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-03-18T12:29:50.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-fe-vaza-em-certificacao-saiba-o-que-esperar-dopremium-acessivel/"
+      "original_url": "https://tecnoblog.net/noticias/tim-cook-nega-saida-da-apple-e-descarta-aposentadoria/"
     },
     {
-      "title": "TWI do pneu: como identificar e a hora certa de trocar por segurança",
-      "slug": "twi-do-pneu-como-identificar-e-a-hora-certa-de-trocar-por-seguranca",
+      "title": "Xbox Game Pass recebe Jogo do Ano, Resident Evil 7 e Disco Elysium",
+      "slug": "xbox-game-pass-recebe-jogo-do-ano-resident-evil-7-e-disco-elysium",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-18T12:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/xbox-game-pass-recebe-jogo-do-ano-resident-evil-7-e-disco-elysium/"
+    },
+    {
+      "title": "Operadora brasileira vai vender planos com Starlink; entenda a novidade",
+      "slug": "operadora-brasileira-vai-vender-planos-com-starlink-entenda-a-novidade",
       "topic": "infra-ia",
       "source": "Canaltech",
-      "date": "2026-03-18T09:45:00.000Z",
+      "date": "2026-03-18T12:40:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/twi-do-pneu-como-identificar-e-a-hora-certa-de-trocar-por-seguranca/"
+      "original_url": "https://canaltech.com.br/telecom/operadora-brasileira-vai-vender-planos-com-starlink-entenda-a-novidade/"
     },
     {
-      "title": "PF recupera mensagens apagadas: entenda como isso é possível",
-      "slug": "pf-recupera-mensagens-apagadas-entenda-como-isso-e-possivel",
+      "title": "Personal Intelligence chega para usuários gratuitos do Gemini; veja o que muda",
+      "slug": "personal-intelligence-chega-para-usuarios-gratuitos-do-gemini-veja-o-que-muda",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-18T12:32:03.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/personal-intelligence-chega-para-usuarios-gratuitos-do-gemini-veja-o-que-muda/"
+    },
+    {
+      "title": "DLSS 5 teria aceitação melhor se fosse hardware de nova geração, afirma dev",
+      "slug": "dlss-5-teria-aceitacao-melhor-se-fosse-hardware-de-nova-geracao-afirma-dev",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/pf-recupera-mensagens-apagadas-entenda-como-isso-e-possivel-6407/"
+      "date": "2026-03-18T12:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/dlss-5-teria-aceitacao-melhor-se-fosse-hardware-de-nova-geracao-afirma-dev/"
     },
     {
-      "title": "Disney+ lança promoção por tempo limitado para novos assinantes",
-      "slug": "disney-lanca-promocao-por-tempo-limitado-para-novos-assinantes",
+      "title": "Volvo confirma que SUV \"barato\" sairá de linha; saiba mais",
+      "slug": "volvo-confirma-que-suv-barato-saira-de-linha-saiba-mais",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-18T12:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/volvo-confirma-que-suv-barato-saira-de-linha-saiba-mais/"
+    },
+    {
+      "title": "Celular com bateria gigante em oferta; Mercado Livre faz queima de JOVI Y31+fone",
+      "slug": "celular-com-bateria-gigante-em-oferta-mercado-livre-faz-queima-de-jovi-y31fone",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-18T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/celular-com-bateria-gigante-em-oferta-mercado-livre-faz-queima-de-jovi-y31fone/"
+    },
+    {
+      "title": "Golpistas usam chat \"oficial\" para se passar por Amazon e PayPal",
+      "slug": "golpistas-usam-chat-oficial-para-se-passar-por-amazon-e-paypal",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-18T11:10:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/golpistas-usam-chat-oficial-para-se-passar-por-amazon-e-paypal/"
+    },
+    {
+      "title": "Meta testa função que detecta se um conteúdo é ou não feito por IA",
+      "slug": "meta-testa-funcao-que-detecta-se-um-conteudo-e-ou-nao-feito-por-ia",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T10:50:08.000Z",
+      "date": "2026-03-18T13:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411688-disney-lanca-promocao-por-tempo-limitado-para-novos-assinantes.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411687-meta-testa-funcao-que-detecta-se-um-conteudo-e-ou-nao-feito-por-ia.htm"
     },
     {
-      "title": "Temporada 4 de Invencível mostra lado humano de heróis e vilões, explicam criadores",
-      "slug": "temporada-4-de-invencivel-mostra-lado-humano-de-herois-e-viloes-explicam-criadores",
+      "title": "IA no marketing: como a tecnologia está saindo do discurso e chegando à prática nas empresas",
+      "slug": "ia-no-marketing-como-a-tecnologia-esta-saindo-do-discurso-e-chegando-a-pratica-nas-empresas",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-18T12:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411689-ia-no-marketing-como-a-tecnologia-esta-saindo-do-discurso-e-chegando-a-pratica-nas-empresas.htm"
+    },
+    {
+      "title": "Filme de Peaky Blinders chega à Netflix esta semana com despedida de Cillian Murphy",
+      "slug": "filme-de-peaky-blinders-chega-a-netflix-esta-semana-com-despedida-de-cillian-murphy",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T10:15:00.000Z",
+      "date": "2026-03-18T12:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603412-temporada-4-de-invencivel-mostra-lado-humano-de-herois-e-viloes-explicam-criadores.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603410-filme-de-peaky-blinders-chega-a-netflix-esta-semana-com-despedida-de-cillian-murphy.htm"
     },
     {
-      "title": "Julgamento joga redes sociais nas cordas pela 1ª vez por vício de usuário",
-      "slug": "julgamento-joga-redes-sociais-nas-cordas-pela-1a-vez-por-vicio-de-usuario",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-18T08:30:00.000Z",
+      "title": "Galaxy A37 e Galaxy A57 chegam às lojas antes de anúncio oficial",
+      "slug": "galaxy-a37-e-galaxy-a57-chegam-as-lojas-antes-de-anuncio-oficial",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-18T12:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/18/julgamento-joga-redes-sociais-nas-cordas-pela-1-vez-por-vicio-de-usuario.ghtm"
+      "original_url": "https://www.tecmundo.com.br/produto/411686-galaxy-a37-e-galaxy-a57-chegam-as-lojas-antes-de-anuncio-oficial.htm"
+    },
+    {
+      "title": "Linha Galaxy S26 com cupom limitado de R$ 1.500 Amazon; saiba como comprar",
+      "slug": "linha-galaxy-s26-com-cupom-limitado-de-rdollar-1500-amazon-saiba-como-comprar",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-18T11:42:29.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411678-linha-galaxy-s26-com-cupom-limitado-de-r-1500-amazon-saiba-como-comprar.htm"
+    },
+    {
+      "title": "Homem-Aranha: Um Novo Dia ganha primeiro trailer com Justiceiro, Hulk, Escorpião e mais; assista agora!",
+      "slug": "homem-aranha-um-novo-dia-ganha-primeiro-trailer-com-justiceiro-hulk-escorpiao-e-mais-assista-agora",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-18T11:23:12.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603414-homem-aranha-um-novo-dia-ganha-primeiro-trailer-com-justiceiro-hulk-escorpiao-e-mais-assista-agora.htm"
+    },
+    {
+      "title": "Switch 2 recebe boost que melhora jogos do Switch original no modo portátil! Veja como funciona",
+      "slug": "switch-2-recebe-boost-que-melhora-jogos-do-switch-original-no-modo-portatil-veja-como-funciona",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-18T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503799-switch-2-recebe-boost-que-melhora-jogos-do-switch-original-no-modo-portatil-veja-como-funciona.htm"
     }
   ]
 }
