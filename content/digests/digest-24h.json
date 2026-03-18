@@ -1,232 +1,61 @@
 {
-  "generated_at": "2026-03-18T21:11:22.041Z",
+  "generated_at": "2026-03-18T23:04:24.553Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 25,
+  "total": 6,
   "posts": [
     {
-      "title": "Galaxy Watch 8 (44 mm) cai 44% e tem menor preço do ano no Mercado Livre",
-      "slug": "galaxy-watch-8-44-mm-cai-44percent-e-tem-menor-preco-do-ano-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T20:56:37.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-watch-8-44-mm-cai-44-e-tem-menor-preco-do-ano-no-mercado-livre/"
-    },
-    {
-      "title": "Reclamações contra operadoras voltam a subir no Brasil; pós-pago lidera queixas",
-      "slug": "reclamacoes-contra-operadoras-voltam-a-subir-no-brasil-pos-pago-lidera-queixas",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T20:35:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/reclamacoes-contra-operadoras-voltam-a-subir-no-brasil-pos-pago-lidera-queixas/"
-    },
-    {
-      "title": "WhatsApp chega aos relógios inteligentes da Garmin",
-      "slug": "whatsapp-chega-aos-relogios-inteligentes-da-garmin",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T20:09:26.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/whatsapp-chega-aos-relogios-inteligentes-da-garmin/"
-    },
-    {
-      "title": "Galaxy Watch 8 Classic tem melhor oferta que já vimos com 50% de desconto",
-      "slug": "galaxy-watch-8-classic-tem-melhor-oferta-que-ja-vimos-com-50percent-de-desconto",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T20:09:21.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-watch-8-classic-tem-melhor-oferta-que-ja-vimos-com-50-de-desconto/"
-    },
-    {
-      "title": "Bluetooth SIG: conheça o grupo que supervisiona o padrão Bluetooth",
-      "slug": "bluetooth-sig-conheca-o-grupo-que-supervisiona-o-padrao-bluetooth",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T19:38:39.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/bluetooth-sig-conheca-o-grupo-que-supervisiona-o-padrao-bluetooth/"
-    },
-    {
-      "title": "Meta encerrará Horizon Worlds em VR nos headsets Quest",
-      "slug": "meta-encerrara-horizon-worlds-em-vr-nos-headsets-quest",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-18T19:36:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/meta-encerrara-horizon-worlds-em-vr-nos-headsets-quest/"
-    },
-    {
-      "title": "Como IA proprietária do iFood ajudou app a bater recorde de pedidos",
-      "slug": "como-ia-proprietaria-do-ifood-ajudou-app-a-bater-recorde-de-pedidos",
+      "title": "Quem é quem em Homem-Aranha: Um Novo Dia e por que elenco chama a atenção",
+      "slug": "quem-e-quem-em-homem-aranha-um-novo-dia-e-por-que-elenco-chama-a-atencao",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-18T20:58:00.000Z",
+      "date": "2026-03-18T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/mercado/como-ia-proprietaria-do-ifood-ajudou-app-a-bater-recorde-de-pedidos/"
+      "original_url": "https://canaltech.com.br/entretenimento/quem-e-quem-em-homem-aranha-um-novo-dia-e-por-que-elenco-chama-a-atencao/"
     },
     {
-      "title": "Premium com propaganda? Erro faz Spotify tocar anúncios para assinantes",
-      "slug": "premium-com-propaganda-erro-faz-spotify-tocar-anuncios-para-assinantes",
-      "topic": "produtividade-dev",
+      "title": "ECA Digital: o que realmente muda na sua vida?",
+      "slug": "eca-digital-o-que-realmente-muda-na-sua-vida",
+      "topic": "agentes",
       "source": "Canaltech",
-      "date": "2026-03-18T20:48:53.000Z",
+      "date": "2026-03-18T21:04:07.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/premium-com-propaganda-erro-faz-spotify-tocar-anuncios-para-assinantes/"
+      "original_url": "https://canaltech.com.br/colunas/eca-digital-o-que-realmente-muda-na-sua-vida/"
     },
     {
-      "title": "China deixa EUA no chinelo: top 9 marcas que mais vendem robôs humanoides",
-      "slug": "china-deixa-eua-no-chinelo-top-9-marcas-que-mais-vendem-robos-humanoides",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-18T20:32:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/china-deixa-eua-no-chinelo-top-9-marcas-que-mais-vendem-robos-humanoides/"
-    },
-    {
-      "title": "Novos ROG Strix misturam CPUs novas da Intel, Mini LED e upgrades bem pensados",
-      "slug": "novos-rog-strix-misturam-cpus-novas-da-intel-mini-led-e-upgrades-bem-pensados",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T20:28:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/notebook/novos-rog-strix-misturam-cpus-novas-da-intel-mini-led-e-upgrades-bem-pensados/"
-    },
-    {
-      "title": "Como fica Google, Facebook, Reddit e a Internet brasileira com o ECA Digital?",
-      "slug": "como-fica-google-facebook-reddit-e-a-internet-brasileira-com-o-eca-digital",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-18T20:03:58.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/internet/como-fica-google-facebook-reddit-e-a-internet-brasileira-com-o-eca-digital/"
-    },
-    {
-      "title": "Jeep derruba preço do Renegade Altitude para enfrentar Chevrolet Tracker",
-      "slug": "jeep-derruba-preco-do-renegade-altitude-para-enfrentar-chevrolet-tracker",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-18T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/jeep-derruba-preco-do-renegade-altitude-para-enfrentar-chevrolet-tracker/"
-    },
-    {
-      "title": "App do Gemini pode ficar mais parecido com a versão web, indica site",
-      "slug": "app-do-gemini-pode-ficar-mais-parecido-com-a-versao-web-indica-site",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-18T19:59:59.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/app-do-gemini-pode-ficar-mais-parecido-com-a-versao-web-indica-site/"
-    },
-    {
-      "title": "iPhone 14 é o celular usado mais buscado no Brasil",
-      "slug": "iphone-14-e-o-celular-usado-mais-buscado-no-brasil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T19:53:20.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/iphone-14-e-o-celular-usado-mais-buscado-no-brasil/"
-    },
-    {
-      "title": "NVIDIA apresenta CPU Vera com foco em IA e promessa de 2x mais eficiência",
-      "slug": "nvidia-apresenta-cpu-vera-com-foco-em-ia-e-promessa-de-2x-mais-eficiencia",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-18T19:25:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/hardware/nvidia-apresenta-cpu-vera-com-foco-em-ia-e-promessa-de-2x-mais-eficiencia/"
-    },
-    {
-      "title": "Quando eventos geopolíticos afetam a nuvem: data centers e o novo teste de resiliência",
-      "slug": "quando-eventos-geopoliticos-afetam-a-nuvem-data-centers-e-o-novo-teste-de-resiliencia",
+      "title": "Devoradores de Estrelas e outros 8 lançamentos do cinema nesta semana!",
+      "slug": "devoradores-de-estrelas-e-outros-8-lancamentos-do-cinema-nesta-semana",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T20:45:00.000Z",
+      "date": "2026-03-18T22:15:56.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411710-quando-eventos-geopoliticos-afetam-a-nuvem-data-centers-e-o-novo-teste-de-resiliencia.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603415-devoradores-de-estrelas-e-outros-8-lancamentos-do-cinema-nesta-semana.htm"
     },
     {
-      "title": "7 tecnologias do Audi e-tron que mostram o futuro dos carros elétricos",
-      "slug": "7-tecnologias-do-audi-e-tron-que-mostram-o-futuro-dos-carros-eletricos",
-      "topic": "seguranca-ia",
+      "title": "Review: Crimson Desert brilha na ambição, mas ofusca a si próprio com suas inspirações",
+      "slug": "review-crimson-desert-brilha-na-ambicao-mas-ofusca-a-si-proprio-com-suas-inspiracoes",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T20:37:45.000Z",
+      "date": "2026-03-18T22:02:22.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411715-7-tecnologias-do-audi-e-tron-que-mostram-o-futuro-dos-carros-eletricos.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503822-crimson-desert-brilha-na-sua-ambicao-mas-ofusca-a-si-proprio-com-suas-inspiracoes.htm"
     },
     {
-      "title": "Apple corrige falha que burlava proteção do Safari",
-      "slug": "apple-corrige-falha-que-burlava-protecao-do-safari",
+      "title": "IA jamais vai conseguir criar jogos tão bons quanto GTA 6, diz chefe da Take-Two",
+      "slug": "ia-jamais-vai-conseguir-criar-jogos-tao-bons-quanto-gta-6-diz-chefe-da-take-two",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T20:30:00.000Z",
+      "date": "2026-03-18T21:15:47.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411698-apple-corrige-falha-que-burlava-protecao-do-safari.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503812-ia-jamais-vai-conseguir-criar-jogos-tao-bons-quanto-gta-6-diz-chefe-da-take-two.htm"
     },
     {
-      "title": "Crítica: Velhos Bandidos é o filme perfeito pós maratona do Oscar",
-      "slug": "critica-velhos-bandidos-e-o-filme-perfeito-pos-maratona-do-oscar",
+      "title": "Meta e TikTok coletam dados de usuários sem consentimento",
+      "slug": "meta-e-tiktok-coletam-dados-de-usuarios-sem-consentimento",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-18T20:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603424-critica-velhos-bandidos-e-o-filme-perfeito-pos-maratona-do-oscar.htm"
-    },
-    {
-      "title": "Celulares Samsung, Motorola, Xiaomi e mais em oferta no Mercado Livre",
-      "slug": "celulares-samsung-motorola-xiaomi-e-mais-em-oferta-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T20:07:00.000Z",
+      "date": "2026-03-18T21:15:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411711-celulares-samsung-motorola-xiaomi-e-mais-em-oferta-no-mercado-livre.htm"
-    },
-    {
-      "title": "Meta vai fechar o Horizon Worlds, maior projeto do metaverso",
-      "slug": "meta-vai-fechar-o-horizon-worlds-maior-projeto-do-metaverso",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T20:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411705-meta-vai-fechar-o-horizon-worlds-maior-projeto-do-metaverso.htm"
-    },
-    {
-      "title": "'Criminosos sofrerão o rigor da lei': Lula assina decretos que regulamentam ECA Digital",
-      "slug": "criminosos-sofrerao-o-rigor-da-lei-lula-assina-decretos-que-regulamentam-eca-digital",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T19:57:17.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/411703-criminosos-sofrerao-o-rigor-da-lei-lula-assina-decretos-que-regulamentam-eca-digital.htm"
-    },
-    {
-      "title": "Pix caiu? Serviço de pagamento está instável na tarde de quarta-feira (18)",
-      "slug": "pix-caiu-servico-de-pagamento-esta-instavel-na-tarde-de-quarta-feira-18",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T19:37:14.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411713-pix-caiu-servicos-de-pagamento-esta-instavel-na-tarde-de-quarta-feira-18.htm"
-    },
-    {
-      "title": "Microsoft recua e engaveta recursos do Copilot no Windows 11",
-      "slug": "microsoft-recua-e-engaveta-recursos-do-copilot-no-windows-11",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-18T19:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/software/411706-microsoft-recua-e-engaveta-recursos-do-copilot-no-windows-11.htm"
-    },
-    {
-      "title": "ECA Digital não proíbe jogos, apenas loot boxes que são \"caça-níqueis\", diz governo",
-      "slug": "eca-digital-nao-proibe-jogos-apenas-loot-boxes-que-sao-caca-niqueis-diz-governo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-18T19:23:16.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503815-eca-digital-nao-proibe-jogos-apenas-loot-boxes-que-sao-caca-niqueis-diz-governo.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411704-meta-e-tiktok-coletam-dados-de-usuarios-sem-consentimento.htm"
     }
   ]
 }
