@@ -1,20 +1,23 @@
 # Weekly IA para Devs - 2026-03-18
 
-Gerado em 2026-03-18T13:10:08.042Z
+Gerado em 2026-03-18T15:13:28.623Z
 
-- [Motorola Edge 60 5G (512 GB) tem 43% OFF em até 12x sem juros na Amazon](https://tecnoblog.net/achados/motorola-edge-60-5g-512-gb-tem-43-off-em-ate-12x-sem-juros-na-amazon/) | topico: geral | score: 92
-- [Tim Cook nega saída da Apple e descarta aposentadoria](https://tecnoblog.net/noticias/tim-cook-nega-saida-da-apple-e-descarta-aposentadoria/) | topico: llms | score: 100
-- [Xbox Game Pass recebe Jogo do Ano, Resident Evil 7 e Disco Elysium](https://canaltech.com.br/games/xbox-game-pass-recebe-jogo-do-ano-resident-evil-7-e-disco-elysium/) | topico: geral | score: 100
-- [Operadora brasileira vai vender planos com Starlink; entenda a novidade](https://canaltech.com.br/telecom/operadora-brasileira-vai-vender-planos-com-starlink-entenda-a-novidade/) | topico: infra-ia | score: 100
-- [Personal Intelligence chega para usuários gratuitos do Gemini; veja o que muda](https://canaltech.com.br/apps/personal-intelligence-chega-para-usuarios-gratuitos-do-gemini-veja-o-que-muda/) | topico: llms | score: 100
-- [DLSS 5 teria aceitação melhor se fosse hardware de nova geração, afirma dev](https://canaltech.com.br/hardware/dlss-5-teria-aceitacao-melhor-se-fosse-hardware-de-nova-geracao-afirma-dev/) | topico: geral | score: 100
-- [Volvo confirma que SUV "barato" sairá de linha; saiba mais](https://canaltech.com.br/carros/volvo-confirma-que-suv-barato-saira-de-linha-saiba-mais/) | topico: geral | score: 100
-- [Celular com bateria gigante em oferta; Mercado Livre faz queima de JOVI Y31+fone](https://canaltech.com.br/smartphone/celular-com-bateria-gigante-em-oferta-mercado-livre-faz-queima-de-jovi-y31fone/) | topico: geral | score: 100
-- [Golpistas usam chat "oficial" para se passar por Amazon e PayPal](https://canaltech.com.br/seguranca/golpistas-usam-chat-oficial-para-se-passar-por-amazon-e-paypal/) | topico: geral | score: 100
-- [Meta testa função que detecta se um conteúdo é ou não feito por IA](https://www.tecmundo.com.br/mercado/411687-meta-testa-funcao-que-detecta-se-um-conteudo-e-ou-nao-feito-por-ia.htm) | topico: geral | score: 100
-- [IA no marketing: como a tecnologia está saindo do discurso e chegando à prática nas empresas](https://www.tecmundo.com.br/produto/411689-ia-no-marketing-como-a-tecnologia-esta-saindo-do-discurso-e-chegando-a-pratica-nas-empresas.htm) | topico: agentes | score: 100
-- [Filme de Peaky Blinders chega à Netflix esta semana com despedida de Cillian Murphy](https://www.tecmundo.com.br/minha-serie/603410-filme-de-peaky-blinders-chega-a-netflix-esta-semana-com-despedida-de-cillian-murphy.htm) | topico: geral | score: 100
-- [Galaxy A37 e Galaxy A57 chegam às lojas antes de anúncio oficial](https://www.tecmundo.com.br/produto/411686-galaxy-a37-e-galaxy-a57-chegam-as-lojas-antes-de-anuncio-oficial.htm) | topico: produtividade-dev | score: 100
-- [Linha Galaxy S26 com cupom limitado de R$ 1.500 Amazon; saiba como comprar](https://www.tecmundo.com.br/guia-de-compras/411678-linha-galaxy-s26-com-cupom-limitado-de-r-1500-amazon-saiba-como-comprar.htm) | topico: geral | score: 100
-- [Homem-Aranha: Um Novo Dia ganha primeiro trailer com Justiceiro, Hulk, Escorpião e mais; assista agora!](https://www.tecmundo.com.br/minha-serie/603414-homem-aranha-um-novo-dia-ganha-primeiro-trailer-com-justiceiro-hulk-escorpiao-e-mais-assista-agora.htm) | topico: geral | score: 100
-- [Switch 2 recebe boost que melhora jogos do Switch original no modo portátil! Veja como funciona](https://www.tecmundo.com.br/voxel/503799-switch-2-recebe-boost-que-melhora-jogos-do-switch-original-no-modo-portatil-veja-como-funciona.htm) | topico: geral | score: 100
+- [PowerToys 0.98 adiciona barra de atalhos no Windows e melhora várias funções](https://tecnoblog.net/noticias/powertoys-0-98-adiciona-barra-de-atalhos-no-windows-e-melhora-varias-funcoes/) | topico: agentes | score: 92
+- [Nintendo Switch OLED entra em promoção com cupom no Magalu](https://tecnoblog.net/achados/nintendo-switch-oled-entra-em-promocao-com-cupom-no-magalu/) | topico: geral | score: 100
+- [Spotify lança recurso para melhorar qualidade de áudio no PC](https://tecnoblog.net/noticias/spotify-lanca-recurso-para-melhorar-qualidade-de-audio-no-pc/) | topico: produtividade-dev | score: 92
+- [iPhone 17 Pro (256 GB) tem redução de 32% no preço no Mercado Livre](https://tecnoblog.net/achados/iphone-17-pro-256-gb-tem-reducao-de-32-no-preco-no-mercado-livre/) | topico: geral | score: 92
+- [KaBuM! derruba preço da RX 9070 XT XFX Swift; GPU do ano com 16 GB e preço baixo](https://canaltech.com.br/hardware/kabum-derruba-preco-da-rx-9070-xt-xfx-swift-gpu-do-ano-com-16-gb-e-preco-baixo/) | topico: geral | score: 100
+- [Ligação com barulho? WhatsApp testa cancelamento de ruído para chamadas](https://canaltech.com.br/apps/ligacao-com-barulho-whatsapp-testa-cancelamento-de-ruido-para-chamadas/) | topico: produtividade-dev | score: 100
+- [PS Portal ganha novo modo 1080p com gráficos de alta qualidade](https://canaltech.com.br/games/ps-portal-ganha-novo-modo-1080p-com-graficos-de-alta-qualidade/) | topico: geral | score: 100
+- [Prepare o bolso: volta do DPVAT e colete refletivo podem virar lei](https://canaltech.com.br/carros/prepare-o-bolso-volta-do-dpvat-e-colete-refletivo-podem-virar-lei/) | topico: seguranca-ia | score: 100
+- [Vídeo mostra momento em que meteoro cruza o céu e causa estrondo nos EUA](https://canaltech.com.br/espaco/video-mostra-momento-em-que-meteoro-cruza-o-ceu-e-causa-estrondo-nos-eua/) | topico: produtividade-dev | score: 100
+- [Manus lança agente estilo Cowork para organizar tarefas no computador](https://canaltech.com.br/software/manus-lanca-agente-estilo-cowork-para-organizar-tarefas-no-computador/) | topico: agentes | score: 100
+- [Samsung não desistiu do tri-fold: 2ª geração vem com surpresa, indica vazamento](https://canaltech.com.br/smartphone/samsung-nao-desistiu-do-tri-fold-2a-geracao-vem-com-surpresa-indica-vazamento/) | topico: geral | score: 100
+- [Mercado Livre faz queima de iPhone Air de 512 GB; ultrafino com preço no chão](https://canaltech.com.br/smartphone/mercado-livre-faz-queima-de-iphone-air-de-512-gb-ultrafino-com-preco-no-chao/) | topico: geral | score: 100
+- [Spotify lança recurso para ouvir "músicas perfeitas" no PC](https://canaltech.com.br/software/spotify-lanca-recurso-para-ouvir-musicas-perfeitas-no-pc/) | topico: agentes | score: 100
+- [Homem-Aranha: Um Novo Dia traz homenagem aos filmes dos anos 2000 com teia orgânica](https://www.tecmundo.com.br/minha-serie/603417-homem-aranha-um-novo-dia-traz-homenagem-aos-filmes-dos-anos-2000-com-teia-organica.htm) | topico: geral | score: 100
+- [Samsung pode trocar tecnologia própria por telas chinesas nos próximos celulares](https://www.tecmundo.com.br/mercado/411690-samsung-pode-trocar-tecnologia-propria-por-telas-chinesas-nos-proximos-celulares.htm) | topico: geral | score: 92
+- [Crise de chips de memória pode durar até 2030, indica CEO da SK Hynix](https://www.tecmundo.com.br/mercado/411692-crise-de-chips-de-memoria-pode-durar-ate-2030-indica-ceo-da-sk-hynix.htm) | topico: geral | score: 92
+- [Pokémon Legends, Zelda e mais jogos para Nintendo em promoção na Amazon](https://www.tecmundo.com.br/voxel/503808-pokemon-legends-zelda-e-mais-jogos-para-nintendo-em-promocao-na-amazon.htm) | topico: geral | score: 100
+- [Free Fire é afetado pela Lei Felca! Veja o que muda com o ECA Digital](https://www.tecmundo.com.br/voxel/503809-free-fire-e-afetado-pela-lei-felca-veja-o-que-muda-com-o-eca-digital.htm) | topico: geral | score: 100
+- [Telescópio capta nebulosa em forma de cérebro](https://www.uol.com.br/flash/?c=f98dd782f9a999fa8b24b4eb951b2320260317) | topico: geral | score: 100

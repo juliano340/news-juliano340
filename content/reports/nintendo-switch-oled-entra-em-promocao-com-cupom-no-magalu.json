@@ -1,6 +1,6 @@
 {
-  "slug": "telescopio-capta-nebulosa-em-forma-de-cerebro",
-  "generated_at": "2026-03-18T15:13:27.619Z",
+  "slug": "nintendo-switch-oled-entra-em-promocao-com-cupom-no-magalu",
+  "generated_at": "2026-03-18T15:01:47.535Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 238,
+      "words": 429,
       "min": 220
     },
     {

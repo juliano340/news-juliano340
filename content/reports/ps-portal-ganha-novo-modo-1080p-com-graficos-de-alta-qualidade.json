@@ -1,6 +1,6 @@
 {
-  "slug": "telescopio-capta-nebulosa-em-forma-de-cerebro",
-  "generated_at": "2026-03-18T15:13:27.619Z",
+  "slug": "ps-portal-ganha-novo-modo-1080p-com-graficos-de-alta-qualidade",
+  "generated_at": "2026-03-18T15:06:03.067Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 238,
+      "words": 321,
       "min": 220
     },
     {

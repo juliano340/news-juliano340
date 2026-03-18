@@ -1,6 +1,6 @@
 {
-  "slug": "telescopio-capta-nebulosa-em-forma-de-cerebro",
-  "generated_at": "2026-03-18T15:13:27.619Z",
+  "slug": "pokemon-legends-zelda-e-mais-jogos-para-nintendo-em-promocao-na-amazon",
+  "generated_at": "2026-03-18T15:12:08.876Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 238,
+      "words": 331,
       "min": 220
     },
     {

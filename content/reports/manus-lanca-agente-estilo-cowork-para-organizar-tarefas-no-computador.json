@@ -1,6 +1,6 @@
 {
-  "slug": "telescopio-capta-nebulosa-em-forma-de-cerebro",
-  "generated_at": "2026-03-18T15:13:27.619Z",
+  "slug": "manus-lanca-agente-estilo-cowork-para-organizar-tarefas-no-computador",
+  "generated_at": "2026-03-18T15:07:35.947Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 238,
+      "words": 446,
       "min": 220
     },
     {

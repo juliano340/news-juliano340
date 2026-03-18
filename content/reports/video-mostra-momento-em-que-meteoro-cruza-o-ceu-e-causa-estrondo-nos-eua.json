@@ -1,6 +1,6 @@
 {
-  "slug": "telescopio-capta-nebulosa-em-forma-de-cerebro",
-  "generated_at": "2026-03-18T15:13:27.619Z",
+  "slug": "video-mostra-momento-em-que-meteoro-cruza-o-ceu-e-causa-estrondo-nos-eua",
+  "generated_at": "2026-03-18T15:07:18.765Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 238,
+      "words": 314,
       "min": 220
     },
     {

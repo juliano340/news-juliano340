@@ -1,0 +1,19 @@
+{
+  "slug": "trabalhadores-coreanos-da-samsung-aprovam-greve-que-pode-parar-producao-de-chips",
+  "generated_at": "2026-03-18T15:10:27.967Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
