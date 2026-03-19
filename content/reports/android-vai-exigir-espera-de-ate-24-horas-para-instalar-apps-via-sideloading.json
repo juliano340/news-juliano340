@@ -1,6 +1,6 @@
 {
-  "slug": "iphone-15-512-gb-atinge-menor-preco-registrado-48percent-off-cupom-no-mercado-livre",
-  "generated_at": "2026-03-19T23:03:17.002Z",
+  "slug": "android-vai-exigir-espera-de-ate-24-horas-para-instalar-apps-via-sideloading",
+  "generated_at": "2026-03-19T23:06:41.090Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 310,
+      "words": 301,
       "min": 220
     },
     {

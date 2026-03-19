@@ -1,20 +1,16 @@
 # Weekly IA para Devs - 2026-03-19
 
-Gerado em 2026-03-19T21:07:12.745Z
+Gerado em 2026-03-19T23:07:34.718Z
 
-- [iPhone 17 Pro (512 GB) tem desconto histórico com cupom no Mercado Livre](https://tecnoblog.net/achados/iphone-17-pro-512-gb-tem-desconto-historico-com-cupom-no-mercado-livre/) | topico: geral | score: 100
-- [MIL-STD-810G e MIL-STD-810H: conheça a certificação militar em aparelhos eletrônicos](https://tecnoblog.net/responde/mil-std-810g-e-mil-std-810h-conheca-a-certificacao-militar-em-aparelhos-eletronicos/) | topico: agentes | score: 100
-- [Gnome 50 “Tokyo” é lançado; veja o que muda no ambiente para Linux](https://tecnoblog.net/noticias/gnome-50-tokyo-e-lancado-veja-o-que-muda-no-ambiente-para-linux/) | topico: geral | score: 92
-- [Esta calculadora da Casio custa mais de R$ 3 mil](https://tecnoblog.net/noticias/esta-calculadora-da-casio-custa-mais-de-r-3-mil/) | topico: produtividade-dev | score: 92
-- [Android: sideloading sem verificação continua, mas fica mais difícil](https://tecnoblog.net/noticias/android-sideloading-sem-verificacao-continua-mas-fica-mais-dificil/) | topico: agentes | score: 100
-- [IA trouxe benefícios concretos para 81% dos usuários, revela pesquisa da Anthropic](https://tecnoblog.net/noticias/ia-trouxe-beneficios-concretos-para-81-dos-usuarios-revela-pesquisa-da-anthropic/) | topico: llms | score: 100
-- [Bots de IA podem agravar delírios psicóticos, alerta estudo](https://www.tecmundo.com.br/software/411750-bots-de-ia-podem-agravar-delirios-psicoticos-alerta-estudo.htm) | topico: llms | score: 100
-- [Intel planeja aumentar preço de processadores em 10%, diz site](https://www.tecmundo.com.br/produto/411756-intel-planeja-aumentar-preco-de-processadores-em-10-diz-site.htm) | topico: geral | score: 100
-- [Xbox Game Pass recebe Resident Evil 7, Clair Obscur e mais jogos em março! Veja a lista completa](https://www.tecmundo.com.br/voxel/503816-xbox-game-pass-recebe-resident-evil-7-clair-obscur-e-mais-jogos-em-marco-veja-a-lista-completa.htm) | topico: geral | score: 92
-- [Anatel registra aumento nas reclamações contra operadoras](https://www.tecmundo.com.br/mercado/411736-anatel-registra-aumento-nas-reclamacoes-contra-operadoras.htm) | topico: geral | score: 92
-- [ECA Digital: só 3 dos 10 maiores sites pornôs no Brasil verificam idade corretamente](https://www.tecmundo.com.br/internet/411742-eca-digital-so-3-dos-10-maiores-sites-pornos-no-brasil-verificam-idade-corretamente.htm) | topico: produtividade-dev | score: 100
-- [The Madison, nova série de Taylor Sheridan, possui conexão com Yellowstone? Entenda](https://www.tecmundo.com.br/minha-serie/603409-the-madison-nova-serie-de-taylor-sheridan-possui-conexao-com-yellowstone-entenda.htm) | topico: geral | score: 100
-- [Soundbars em oferta: LG, JBL, Samsung e mais com preços baixos nas Casas Bahia](https://www.tecmundo.com.br/guia-de-compras/411755-soundbars-em-oferta-lg-jbl-samsung-e-mais-com-precos-baixos-nas-casas-bahia.htm) | topico: geral | score: 100
-- [CD Projekt diz ter definido características de novo mundo do game "Hadar"](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/cd-projekt-diz-ter-definido-caracteristicas-de-novo-mundo-do-game-hadar.htm) | topico: geral | score: 100
-- [Uber investirá até US$1,25 bilhão na Rivian como parte do acordo de táxis-robôs](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/uber-investira-ate-us125-bilhao-na-rivian-como-parte-do-acordo-de-taxis-robos.htm) | topico: geral | score: 100
-- [Cade questiona Apple por 'dificultar' Pix por aproximação no iPhone](https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/apple-cade-pix-por-aproximacao.ghtm) | topico: geral | score: 100
+- [Meta vai começar a trocar moderadores terceirizados por IA](https://tecnoblog.net/noticias/meta-vai-comecar-a-trocar-moderadores-terceirizados-por-ia/) | topico: produtividade-dev | score: 100
+- [Google nega impacto da IA no tráfego de notícias no Brasil](https://tecnoblog.net/noticias/google-nega-impacto-da-ia-no-trafego-de-noticias-no-brasil/) | topico: agentes | score: 100
+- [iPhone 15 (512 GB) atinge menor preço registrado: 48% OFF cupom no Mercado Livre](https://tecnoblog.net/achados/iphone-15-512-gb-atinge-menor-preco-registrado-48-off-cupom-no-mercado-livre/) | topico: geral | score: 100
+- [Para inovar é preciso captar investimento? Nem sempre (ou quase nunca)](https://www.tecmundo.com.br/mercado/411718-para-inovar-e-preciso-captar-investimento-nem-sempre-ou-quase-nunca.htm) | topico: geral | score: 92
+- [Emergência Radioativa tem quantos episódios? Veja tempo para maratonar série brasileira](https://www.tecmundo.com.br/minha-serie/603433-emergencia-radioativa-tem-quantos-episodios-veja-tempo-para-maratonar-serie-brasileira.htm) | topico: geral | score: 100
+- [The Last of Us Part II e mais jogos para PS4 e PS5 com até 90% OFF na PS Store](https://www.tecmundo.com.br/voxel/503829-the-last-of-us-part-ii-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store.htm) | topico: geral | score: 100
+- [Criminosos exploram seis falhas no iOS para invadir iPhones e roubar dados](https://www.tecmundo.com.br/seguranca/411757-criminosos-exploram-seis-falhas-no-ios-para-invadir-iphones-e-roubar-dados.htm) | topico: geral | score: 100
+- [Falso aplicativo de IPTV para Android rouba dados pessoais e bancários](https://www.tecmundo.com.br/seguranca/411753-falso-aplicativo-de-iptv-para-android-rouba-dados-pessoais-e-bancarios.htm) | topico: geral | score: 100
+- [Android vai exigir espera de até 24 horas para instalar apps via sideloading](https://www.tecmundo.com.br/software/411763-android-vai-exigir-espera-de-ate-24-horas-para-instalar-apps-via-sideloading.htm) | topico: produtividade-dev | score: 100
+- [Governo dos Estados Unidos emite alerta após ataque cibernético contra Big Tech](https://www.tecmundo.com.br/seguranca/411730-governo-dos-estados-unidos-emite-alerta-apos-ataque-cibernetico-contra-big-tech.htm) | topico: geral | score: 100
+- [Após anos de Walking Dead, Steven Yeun retorna para clima de apocalipse em Invencível](https://www.tecmundo.com.br/minha-serie/603434-apos-anos-de-walking-dead-steven-yeun-retorna-para-clima-de-apocalipse-em-invencivel.htm) | topico: geral | score: 100
+- [Jeff Bezos quer levantar US$100 bi para renovar empresas de manufatura com IA, diz WSJ](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/jeff-bezos-quer-levantar-us100-bi-para-renovar-empresas-de-manufatura-com-ia-diz-wsj.htm) | topico: geral | score: 100

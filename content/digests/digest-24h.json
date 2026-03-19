@@ -1,151 +1,115 @@
 {
-  "generated_at": "2026-03-19T21:07:12.745Z",
+  "generated_at": "2026-03-19T23:07:34.718Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 16,
+  "total": 12,
   "posts": [
     {
-      "title": "iPhone 17 Pro (512 GB) tem desconto histórico com cupom no Mercado Livre",
-      "slug": "iphone-17-pro-512-gb-tem-desconto-historico-com-cupom-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-19T20:35:52.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-512-gb-tem-desconto-historico-com-cupom-no-mercado-livre/"
-    },
-    {
-      "title": "MIL-STD-810G e MIL-STD-810H: conheça a certificação militar em aparelhos eletrônicos",
-      "slug": "mil-std-810g-e-mil-std-810h-conheca-a-certificacao-militar-em-aparelhos-eletronicos",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-19T20:28:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/mil-std-810g-e-mil-std-810h-conheca-a-certificacao-militar-em-aparelhos-eletronicos/"
-    },
-    {
-      "title": "Gnome 50 “Tokyo” é lançado; veja o que muda no ambiente para Linux",
-      "slug": "gnome-50-tokyo-e-lancado-veja-o-que-muda-no-ambiente-para-linux",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-19T20:23:49.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/gnome-50-tokyo-e-lancado-veja-o-que-muda-no-ambiente-para-linux/"
-    },
-    {
-      "title": "Esta calculadora da Casio custa mais de R$ 3 mil",
-      "slug": "esta-calculadora-da-casio-custa-mais-de-rdollar-3-mil",
+      "title": "Meta vai começar a trocar moderadores terceirizados por IA",
+      "slug": "meta-vai-comecar-a-trocar-moderadores-terceirizados-por-ia",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-19T20:03:37.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/esta-calculadora-da-casio-custa-mais-de-r-3-mil/"
+      "date": "2026-03-19T21:45:21.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/meta-vai-comecar-a-trocar-moderadores-terceirizados-por-ia/"
     },
     {
-      "title": "Android: sideloading sem verificação continua, mas fica mais difícil",
-      "slug": "android-sideloading-sem-verificacao-continua-mas-fica-mais-dificil",
+      "title": "Google nega impacto da IA no tráfego de notícias no Brasil",
+      "slug": "google-nega-impacto-da-ia-no-trafego-de-noticias-no-brasil",
       "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-03-19T19:20:55.000Z",
+      "date": "2026-03-19T21:01:57.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/android-sideloading-sem-verificacao-continua-mas-fica-mais-dificil/"
+      "original_url": "https://tecnoblog.net/noticias/google-nega-impacto-da-ia-no-trafego-de-noticias-no-brasil/"
     },
     {
-      "title": "IA trouxe benefícios concretos para 81% dos usuários, revela pesquisa da Anthropic",
-      "slug": "ia-trouxe-beneficios-concretos-para-81percent-dos-usuarios-revela-pesquisa-da-anthropic",
-      "topic": "llms",
+      "title": "iPhone 15 (512 GB) atinge menor preço registrado: 48% OFF cupom no Mercado Livre",
+      "slug": "iphone-15-512-gb-atinge-menor-preco-registrado-48percent-off-cupom-no-mercado-livre",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-19T19:19:26.000Z",
+      "date": "2026-03-19T19:39:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/ia-trouxe-beneficios-concretos-para-81-dos-usuarios-revela-pesquisa-da-anthropic/"
+      "original_url": "https://tecnoblog.net/achados/iphone-15-512-gb-atinge-menor-preco-registrado-48-off-cupom-no-mercado-livre/"
     },
     {
-      "title": "Bots de IA podem agravar delírios psicóticos, alerta estudo",
-      "slug": "bots-de-ia-podem-agravar-delirios-psicoticos-alerta-estudo",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-19T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411750-bots-de-ia-podem-agravar-delirios-psicoticos-alerta-estudo.htm"
-    },
-    {
-      "title": "Intel planeja aumentar preço de processadores em 10%, diz site",
-      "slug": "intel-planeja-aumentar-preco-de-processadores-em-10percent-diz-site",
+      "title": "Para inovar é preciso captar investimento? Nem sempre (ou quase nunca)",
+      "slug": "para-inovar-e-preciso-captar-investimento-nem-sempre-ou-quase-nunca",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T20:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411756-intel-planeja-aumentar-preco-de-processadores-em-10-diz-site.htm"
-    },
-    {
-      "title": "Xbox Game Pass recebe Resident Evil 7, Clair Obscur e mais jogos em março! Veja a lista completa",
-      "slug": "xbox-game-pass-recebe-resident-evil-7-clair-obscur-e-mais-jogos-em-marco-veja-a-lista-completa",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T20:15:26.000Z",
+      "date": "2026-03-19T23:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503816-xbox-game-pass-recebe-resident-evil-7-clair-obscur-e-mais-jogos-em-marco-veja-a-lista-completa.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411718-para-inovar-e-preciso-captar-investimento-nem-sempre-ou-quase-nunca.htm"
     },
     {
-      "title": "Anatel registra aumento nas reclamações contra operadoras",
-      "slug": "anatel-registra-aumento-nas-reclamacoes-contra-operadoras",
+      "title": "Emergência Radioativa tem quantos episódios? Veja tempo para maratonar série brasileira",
+      "slug": "emergencia-radioativa-tem-quantos-episodios-veja-tempo-para-maratonar-serie-brasileira",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T20:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411736-anatel-registra-aumento-nas-reclamacoes-contra-operadoras.htm"
+      "date": "2026-03-19T22:45:11.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603433-emergencia-radioativa-tem-quantos-episodios-veja-tempo-para-maratonar-serie-brasileira.htm"
     },
     {
-      "title": "ECA Digital: só 3 dos 10 maiores sites pornôs no Brasil verificam idade corretamente",
-      "slug": "eca-digital-so-3-dos-10-maiores-sites-pornos-no-brasil-verificam-idade-corretamente",
+      "title": "The Last of Us Part II e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
+      "slug": "the-last-of-us-part-ii-e-mais-jogos-para-ps4-e-ps5-com-ate-90percent-off-na-ps-store",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503829-the-last-of-us-part-ii-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store.htm"
+    },
+    {
+      "title": "Criminosos exploram seis falhas no iOS para invadir iPhones e roubar dados",
+      "slug": "criminosos-exploram-seis-falhas-no-ios-para-invadir-iphones-e-roubar-dados",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T22:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411757-criminosos-exploram-seis-falhas-no-ios-para-invadir-iphones-e-roubar-dados.htm"
+    },
+    {
+      "title": "Falso aplicativo de IPTV para Android rouba dados pessoais e bancários",
+      "slug": "falso-aplicativo-de-iptv-para-android-rouba-dados-pessoais-e-bancarios",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T21:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411753-falso-aplicativo-de-iptv-para-android-rouba-dados-pessoais-e-bancarios.htm"
+    },
+    {
+      "title": "Android vai exigir espera de até 24 horas para instalar apps via sideloading",
+      "slug": "android-vai-exigir-espera-de-ate-24-horas-para-instalar-apps-via-sideloading",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-19T19:30:00.000Z",
+      "date": "2026-03-19T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411742-eca-digital-so-3-dos-10-maiores-sites-pornos-no-brasil-verificam-idade-corretamente.htm"
+      "original_url": "https://www.tecmundo.com.br/software/411763-android-vai-exigir-espera-de-ate-24-horas-para-instalar-apps-via-sideloading.htm"
     },
     {
-      "title": "The Madison, nova série de Taylor Sheridan, possui conexão com Yellowstone? Entenda",
-      "slug": "the-madison-nova-serie-de-taylor-sheridan-possui-conexao-com-yellowstone-entenda",
+      "title": "Governo dos Estados Unidos emite alerta após ataque cibernético contra Big Tech",
+      "slug": "governo-dos-estados-unidos-emite-alerta-apos-ataque-cibernetico-contra-big-tech",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T19:15:00.000Z",
+      "date": "2026-03-19T21:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603409-the-madison-nova-serie-de-taylor-sheridan-possui-conexao-com-yellowstone-entenda.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411730-governo-dos-estados-unidos-emite-alerta-apos-ataque-cibernetico-contra-big-tech.htm"
     },
     {
-      "title": "Soundbars em oferta: LG, JBL, Samsung e mais com preços baixos nas Casas Bahia",
-      "slug": "soundbars-em-oferta-lg-jbl-samsung-e-mais-com-precos-baixos-nas-casas-bahia",
+      "title": "Após anos de Walking Dead, Steven Yeun retorna para clima de apocalipse em Invencível",
+      "slug": "apos-anos-de-walking-dead-steven-yeun-retorna-para-clima-de-apocalipse-em-invencivel",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T19:06:00.000Z",
+      "date": "2026-03-19T21:15:17.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411755-soundbars-em-oferta-lg-jbl-samsung-e-mais-com-precos-baixos-nas-casas-bahia.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603434-apos-anos-de-walking-dead-steven-yeun-retorna-para-clima-de-apocalipse-em-invencivel.htm"
     },
     {
-      "title": "CD Projekt diz ter definido características de novo mundo do game \"Hadar\"",
-      "slug": "cd-projekt-diz-ter-definido-caracteristicas-de-novo-mundo-do-game-hadar",
+      "title": "Jeff Bezos quer levantar US$100 bi para renovar empresas de manufatura com IA, diz WSJ",
+      "slug": "jeff-bezos-quer-levantar-usdollar100-bi-para-renovar-empresas-de-manufatura-com-ia-diz-wsj",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-19T20:21:00.000Z",
+      "date": "2026-03-19T21:24:41.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/cd-projekt-diz-ter-definido-caracteristicas-de-novo-mundo-do-game-hadar.htm"
-    },
-    {
-      "title": "Uber investirá até US$1,25 bilhão na Rivian como parte do acordo de táxis-robôs",
-      "slug": "uber-investira-ate-usdollar125-bilhao-na-rivian-como-parte-do-acordo-de-taxis-robos",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T19:43:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/uber-investira-ate-us125-bilhao-na-rivian-como-parte-do-acordo-de-taxis-robos.htm"
-    },
-    {
-      "title": "Cade questiona Apple por 'dificultar' Pix por aproximação no iPhone",
-      "slug": "cade-questiona-apple-por-dificultar-pix-por-aproximacao-no-iphone",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T19:10:13.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/apple-cade-pix-por-aproximacao.ghtm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/jeff-bezos-quer-levantar-us100-bi-para-renovar-empresas-de-manufatura-com-ia-diz-wsj.htm"
     }
   ]
 }

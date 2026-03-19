@@ -1,6 +1,6 @@
 {
-  "slug": "iphone-15-512-gb-atinge-menor-preco-registrado-48percent-off-cupom-no-mercado-livre",
-  "generated_at": "2026-03-19T23:03:17.002Z",
+  "slug": "the-last-of-us-part-ii-e-mais-jogos-para-ps4-e-ps5-com-ate-90percent-off-na-ps-store",
+  "generated_at": "2026-03-19T23:05:11.348Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 310,
+      "words": 329,
       "min": 220
     },
     {

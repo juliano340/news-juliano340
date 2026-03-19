@@ -1,6 +1,6 @@
 {
-  "slug": "iphone-15-512-gb-atinge-menor-preco-registrado-48percent-off-cupom-no-mercado-livre",
-  "generated_at": "2026-03-19T23:03:17.002Z",
+  "slug": "meta-vai-comecar-a-trocar-moderadores-terceirizados-por-ia",
+  "generated_at": "2026-03-19T23:01:09.848Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 310,
+      "words": 363,
       "min": 220
     },
     {

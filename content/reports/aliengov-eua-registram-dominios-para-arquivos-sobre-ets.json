@@ -1,0 +1,19 @@
+{
+  "slug": "aliengov-eua-registram-dominios-para-arquivos-sobre-ets",
+  "generated_at": "2026-03-19T23:05:58.868Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
