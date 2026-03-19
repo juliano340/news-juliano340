@@ -1,124 +1,151 @@
 {
-  "generated_at": "2026-03-19T13:09:24.736Z",
+  "generated_at": "2026-03-19T15:10:27.295Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 13,
+  "total": 16,
   "posts": [
     {
-      "title": "Microsoft divulga solução alternativa para recuperar acesso ao Disco C:",
-      "slug": "microsoft-divulga-solucao-alternativa-para-recuperar-acesso-ao-disco-c",
+      "title": "Galaxy Watch 7 recebe desconto de 61% em oferta e sai por menos de R$ 1 mil",
+      "slug": "galaxy-watch-7-recebe-desconto-de-61percent-em-oferta-e-sai-por-menos-de-rdollar-1-mil",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-19T12:32:32.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/microsoft-divulga-solucao-alternativa-para-recuperar-acesso-ao-disco-c/"
-    },
-    {
-      "title": "OpenAI apresenta GPT‑5.4 mini e o GPT‑5.4 nano; veja novidades e o que muda",
-      "slug": "openai-apresenta-gpt54-mini-e-o-gpt54-nano-veja-novidades-e-o-que-muda",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-19T12:43:31.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/openai-apresenta-gpt54-mini-e-o-gpt54-nano-veja-novidades-e-o-que-muda/"
-    },
-    {
-      "title": "Projetor substitui TV? Saiba quando comprar o aparelho certo",
-      "slug": "projetor-substitui-tv-saiba-quando-comprar-o-aparelho-certo",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-19T12:38:20.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/tv/projetor-substitui-tv-saiba-quando-comprar-o-aparelho-certo/"
-    },
-    {
-      "title": "Não curti: Recurso antigo do Twitter pode estar voltando para o X",
-      "slug": "nao-curti-recurso-antigo-do-twitter-pode-estar-voltando-para-o-x",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-19T12:22:29.000Z",
+      "date": "2026-03-19T14:34:22.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/nao-curti-recurso-antigo-do-twitter-pode-estar-voltando-para-o-x/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-watch-7-recebe-desconto-de-61-em-oferta-e-sai-por-menos-de-r-1-mil/"
     },
     {
-      "title": "Geladeira que “sobreviveu” à enchente ainda pode pifar depois; entenda",
-      "slug": "geladeira-que-sobreviveu-a-enchente-ainda-pode-pifar-depois-entenda",
+      "title": "Justiça da Alemanha proíbe TCL de usar sigla QLED em TVs",
+      "slug": "justica-da-alemanha-proibe-tcl-de-usar-sigla-qled-em-tvs",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-19T14:22:20.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/justica-da-alemanha-proibe-tcl-de-usar-sigla-qled-em-tvs/"
+    },
+    {
+      "title": "Galaxy S25 (256 GB) com chip Snapdragon cai 52% em oferta no Mercado Livre",
+      "slug": "galaxy-s25-256-gb-com-chip-snapdragon-cai-52percent-em-oferta-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-19T13:44:48.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-256-gb-com-chip-snapdragon-cai-52-em-oferta-no-mercado-livre/"
+    },
+    {
+      "title": "Galaxy S25 Ultra (256 GB) fica 51% mais barato com cupom de R$ 500 OFF na Amazon",
+      "slug": "galaxy-s25-ultra-256-gb-fica-51percent-mais-barato-com-cupom-de-rdollar-500-off-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-19T13:20:24.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-fica-51-mais-barato-com-cupom-de-r-500-off-na-amazon/"
+    },
+    {
+      "title": "'Navio negreiro das almas': líder indígena critica data center de R$ 200 bi do TikTok",
+      "slug": "navio-negreiro-das-almas-lider-indigena-critica-data-center-de-rdollar-200-bi-do-tiktok",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411648-navio-negreiro-das-almas-lider-indigena-critica-data-center-de-r-200-bi-do-tiktok.htm"
+    },
+    {
+      "title": "Data center do TikTok: entenda o projeto bilionário que está em andamento no Ceará",
+      "slug": "data-center-do-tiktok-entenda-o-projeto-bilionario-que-esta-em-andamento-no-ceara",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T14:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/409432-data-center-do-tiktok-entenda-o-projeto-bilionario-que-esta-em-andamento-no-ceara.htm"
+    },
+    {
+      "title": "Smartphones, Smart TVs, robôs aspiradores e mais com desconto nas Super Ofertas da Shopee",
+      "slug": "smartphones-smart-tvs-robos-aspiradores-e-mais-com-desconto-nas-super-ofertas-da-shopee",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T14:25:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411733-smartphones-smart-tvs-robos-aspiradores-e-mais-com-desconto-nas-super-ofertas-da-shopee.htm"
+    },
+    {
+      "title": "Crimson Desert é bom? Veja as notas e recepção inicial do game no Metacritic",
+      "slug": "crimson-desert-e-bom-veja-as-notas-e-recepcao-inicial-do-game-no-metacritic",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T14:15:31.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503827-crimson-desert-e-bom-veja-as-notas-e-recepcao-inicial-do-game-no-metacritic.htm"
+    },
+    {
+      "title": "O ChatGPT curou o câncer de um cachorro? Não é bem assim",
+      "slug": "o-chatgpt-curou-o-cancer-de-um-cachorro-nao-e-bem-assim",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-03-19T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/internet/411717-o-chatgpt-curou-o-cancer-de-um-cachorro-nao-e-bem-assim.htm"
+    },
+    {
+      "title": "'Lei Felca': o que o ECA Digital muda a sua vida?",
+      "slug": "lei-felca-o-que-o-eca-digital-muda-a-sua-vida",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T13:55:35.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411729-lei-felca-o-que-o-eca-digital-muda-a-sua-vida.htm"
+    },
+    {
+      "title": "Opera para Android ganha \"Think Deeper\", IA com raciocínio profundo no celular",
+      "slug": "opera-para-android-ganha-think-deeper-ia-com-raciocinio-profundo-no-celular",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-19T13:26:21.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411700-opera-para-android-ganha-think-deeper-ia-com-raciocinio-profundo-no-celular.htm"
+    },
+    {
+      "title": "Sonic the Hedgehog 4 confirma volta de Jim Carrey, Amy Rose e data de estreia",
+      "slug": "sonic-the-hedgehog-4-confirma-volta-de-jim-carrey-amy-rose-e-data-de-estreia",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T13:20:49.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603431-sonic-the-hedgehog-4-confirma-volta-de-jim-carrey-amy-rose-e-janela-de-estreia.htm"
+    },
+    {
+      "title": "Spider-Man 2, Astro Bot e mais jogos para PS5 e PS4 em promoção",
+      "slug": "spider-man-2-astro-bot-e-mais-jogos-para-ps5-e-ps4-em-promocao",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T13:09:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503820-spider-man-2-astro-bot-e-mais-jogos-para-ps5-e-ps4-em-promocao.htm"
+    },
+    {
+      "title": "Samsung planeja investir mais de US$73 bi em 2026 para liderar setor de chips de IA",
+      "slug": "samsung-planeja-investir-mais-de-usdollar73-bi-em-2026-para-liderar-setor-de-chips-de-ia",
       "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-19T12:19:10.000Z",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-19T14:27:40.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/geladeira-que-sobreviveu-a-enchente-ainda-pode-pifar-depois-entenda/"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/samsung-planeja-investir-mais-de-us73-bi-em-2026-para-liderar-setor-de-chips-de-ia.htm"
     },
     {
-      "title": "Rival provoca Samsung ao anunciar celular dobrável; entenda",
-      "slug": "rival-provoca-samsung-ao-anunciar-celular-dobravel-entenda",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-19T12:01:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/rival-provoca-samsung-ao-anunciar-celular-dobravel-entenda/"
-    },
-    {
-      "title": "Gasolina a R$ 9 e diesel em falta? Guerra pode gerar crise de combustível",
-      "slug": "gasolina-a-rdollar-9-e-diesel-em-falta-guerra-pode-gerar-crise-de-combustivel",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-19T12:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/gasolina-a-r-9-e-diesel-em-falta-guerra-pode-gerar-crise-de-combustivel/"
-    },
-    {
-      "title": "Operação da PF combate cibercrimes relacionados ao abuso sexual infantojuvenil",
-      "slug": "operacao-da-pf-combate-cibercrimes-relacionados-ao-abuso-sexual-infantojuvenil",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-19T11:55:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/operacao-da-pf-combate-cibercrimes-relacionados-ao-abuso-sexual-infantojuvenil/"
-    },
-    {
-      "title": "Ferramentas de detecção estão ficando para trás na corrida contra deepfakes",
-      "slug": "ferramentas-de-deteccao-estao-ficando-para-tras-na-corrida-contra-deepfakes",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-19T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/seguranca/ferramentas-de-deteccao-estao-ficando-para-tras-na-corrida-contra-deepfakes/"
-    },
-    {
-      "title": "Microsoft ameaça processar Amazon e OpenAI por acordo bilionário",
-      "slug": "microsoft-ameaca-processar-amazon-e-openai-por-acordo-bilionario",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T12:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411716-microsoft-ameaca-processar-amazon-e-openai-por-acordo-bilionario.htm"
-    },
-    {
-      "title": "Crimson Desert já está disponível para compra com desconto! Veja oferta",
-      "slug": "crimson-desert-ja-esta-disponivel-para-compra-com-desconto-veja-oferta",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T12:16:42.000Z",
-      "editorial_score": 85,
-      "original_url": "https://www.tecmundo.com.br/voxel/503825-crimson-desert-ja-esta-disponivel-para-compra-com-desconto-veja-oferta.htm"
-    },
-    {
-      "title": "Firefly: tudo sobre a série que ganhará 2ª temporada após 24 anos",
-      "slug": "firefly-tudo-sobre-a-serie-que-ganhara-2a-temporada-apos-24-anos",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T11:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603397-firefly-tudo-sobre-a-serie-que-ganhara-2-temporada-apos-24-anos.htm"
-    },
-    {
-      "title": "Excesso de redes sociais torna jovens infelizes, diz estudo",
-      "slug": "excesso-de-redes-sociais-torna-jovens-infelizes-diz-estudo",
+      "title": "Uso intenso de redes sociais prejudica bem-estar de jovens, aponta relatório",
+      "slug": "uso-intenso-de-redes-sociais-prejudica-bem-estar-de-jovens-aponta-relatorio",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-19T12:11:09.000Z",
+      "date": "2026-03-19T14:02:57.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/03/19/excesso-de-redes-sociais-torna-jovens-infelizes-diz-estudo.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/uso-intenso-de-redes-sociais-prejudica-bem-estar-de-jovens-aponta-relatorio.htm"
+    },
+    {
+      "title": "Asteroide reúne cinco ingredientes essenciais para a vida, aponta estudo",
+      "slug": "asteroide-reune-cinco-ingredientes-essenciais-para-a-vida-aponta-estudo",
+      "topic": "produtividade-dev",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-19T13:33:44.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/asteroide-reune-cinco-ingredientes-essenciais-para-a-vida-aponta-estudo.ghtm"
     }
   ]
 }
