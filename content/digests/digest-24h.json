@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-03-19T05:00:41.135Z",
+  "generated_at": "2026-03-19T07:02:08.404Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 1,
+  "total": 3,
   "posts": [
     {
-      "title": "Governo dos EUA registra domínio 'alien.gov' após Trump ordenar divulgação de arquivos sobre supostos ETs",
-      "slug": "governo-dos-eua-registra-dominio-aliengov-apos-trump-ordenar-divulgacao-de-arquivos-sobre-supostos-ets",
+      "title": "O anticristo na porta do Vaticano: palestra de bilionário de IA em Roma causa mal-estar na Igreja",
+      "slug": "o-anticristo-na-porta-do-vaticano-palestra-de-bilionario-de-ia-em-roma-causa-mal-estar-na-igreja",
       "topic": "produtividade-dev",
       "source": "G1 Tecnologia",
-      "date": "2026-03-19T03:00:54.000Z",
+      "date": "2026-03-19T06:01:06.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/19/governo-dos-eua-registra-dominio-aliengov-apos-trump-ordenar-divulgacao-de-arquivos-sobre-ets.ghtml"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/19/anticristo-palestra-bilionario-roma-igreja.ghtml"
+    },
+    {
+      "title": "Dois sistemas operacionais anunciam saída do Brasil e 'culpam' ECA Digital; entenda o que está em jogo",
+      "slug": "dois-sistemas-operacionais-anunciam-saida-do-brasil-e-culpam-eca-digital-entenda-o-que-esta-em-jogo",
+      "topic": "produtividade-dev",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-19T06:00:43.000Z",
+      "editorial_score": 92,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/19/dois-sistemas-operacionais-anunciam-saida-do-brasil-e-culpam-eca-digital-entenda-o-que-esta-em-jogo.ghtml"
+    },
+    {
+      "title": "Da Suíça ao Brasil: design e engenharia conectando pessoas ao digital",
+      "slug": "da-suica-ao-brasil-design-e-engenharia-conectando-pessoas-ao-digital",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-19T07:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/colunas/da-suica-ao-brasil-design-e-engenharia-conectando-pessoas-ao-digital/"
     }
   ]
 }
