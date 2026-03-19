@@ -1,9 +1,9 @@
 # Weekly IA para Devs - 2026-03-19
 
-Gerado em 2026-03-19T09:03:11.032Z
+Gerado em 2026-03-19T11:05:38.648Z
 
-- [Aprendizado personalizado: o papel da IA nas escolas](https://canaltech.com.br/podcast/podcast-canaltech/aprendizado-personalizado-o-papel-da-ia-nas-escolas-6409/) | topico: geral | score: 92
-- [App do Lollapalooza tem mapa, agenda e compra antecipada de bebidas; confira](https://canaltech.com.br/apps/app-do-lollapalooza-tem-mapa-agenda-e-compra-antecipada-de-bebidas-confira/) | topico: llms | score: 100
-- [ECA Digital acerta ao proibir o scroll infinito](https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/03/19/eca-digital-acerta-ao-proibir-o-scroll-infinito.htm) | topico: geral | score: 92
-- [Programação com IA ameaça software e dá banho de realidade em big techs](https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/diogo-cortiz-o-mercado-esta-reagindo-de-forma-muito-excessiva.ghtm) | topico: geral | score: 100
-- [Qual é a fase da Lua hoje (19)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 100
+- [O que muda na sua vida e na de seus filhos com o ECA Digital — e o que ainda não se sabe](https://g1.globo.com/tecnologia/noticia/2026/03/19/o-que-muda-na-sua-vida-e-na-de-seus-filhos-com-o-eca-digital-e-o-que-ainda-nao-se-sabe.ghtml) | topico: geral | score: 100
+- [IA brasileira personaliza ensino e eleva aprendizado 4,2 vezes, diz estudo](https://canaltech.com.br/inteligencia-artificial/ia-brasileira-personaliza-ensino-e-eleva-aprendizado-42-vezes-diz-estudo/) | topico: agentes | score: 100
+- [Philips lança panela "tudo em um" para ajudar na cozinha](https://canaltech.com.br/eletro/philips-lanca-panela-tudo-em-um-para-ajudar-na-cozinha/) | topico: geral | score: 100
+- [Por que carros modernos se desmancham em acidentes e salvam vidas?](https://canaltech.com.br/carros/por-que-carros-modernos-se-desmancham-em-acidentes-e-salvam-vidas/) | topico: seguranca-ia | score: 100
+- [Preview: Dark Scrolls é arroz com feijão sem "mistura"](https://www.tecmundo.com.br/voxel/503803-preview-dark-scrolls-e-arroz-com-feijao-sem-mistura.htm) | topico: geral | score: 92

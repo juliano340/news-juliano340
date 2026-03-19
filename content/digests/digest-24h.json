@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-03-19T09:03:11.032Z",
+  "generated_at": "2026-03-19T11:05:38.648Z",
   "niche": "ia-para-desenvolvedores",
   "total": 5,
   "posts": [
     {
-      "title": "Aprendizado personalizado: o papel da IA nas escolas",
-      "slug": "aprendizado-personalizado-o-papel-da-ia-nas-escolas",
+      "title": "O que muda na sua vida e na de seus filhos com o ECA Digital — e o que ainda não se sabe",
+      "slug": "o-que-muda-na-sua-vida-e-na-de-seus-filhos-com-o-eca-digital-e-o-que-ainda-nao-se-sabe",
+      "topic": "geral",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-19T09:32:55.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/19/o-que-muda-na-sua-vida-e-na-de-seus-filhos-com-o-eca-digital-e-o-que-ainda-nao-se-sabe.ghtml"
+    },
+    {
+      "title": "IA brasileira personaliza ensino e eleva aprendizado 4,2 vezes, diz estudo",
+      "slug": "ia-brasileira-personaliza-ensino-e-eleva-aprendizado-42-vezes-diz-estudo",
+      "topic": "agentes",
+      "source": "Canaltech",
+      "date": "2026-03-19T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/ia-brasileira-personaliza-ensino-e-eleva-aprendizado-42-vezes-diz-estudo/"
+    },
+    {
+      "title": "Philips lança panela \"tudo em um\" para ajudar na cozinha",
+      "slug": "philips-lanca-panela-tudo-em-um-para-ajudar-na-cozinha",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-19T09:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/aprendizado-personalizado-o-papel-da-ia-nas-escolas-6409/"
+      "date": "2026-03-19T10:51:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/philips-lanca-panela-tudo-em-um-para-ajudar-na-cozinha/"
     },
     {
-      "title": "App do Lollapalooza tem mapa, agenda e compra antecipada de bebidas; confira",
-      "slug": "app-do-lollapalooza-tem-mapa-agenda-e-compra-antecipada-de-bebidas-confira",
-      "topic": "llms",
+      "title": "Por que carros modernos se desmancham em acidentes e salvam vidas?",
+      "slug": "por-que-carros-modernos-se-desmancham-em-acidentes-e-salvam-vidas",
+      "topic": "seguranca-ia",
       "source": "Canaltech",
-      "date": "2026-03-19T09:00:00.000Z",
+      "date": "2026-03-19T09:45:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/app-do-lollapalooza-tem-mapa-agenda-e-compra-antecipada-de-bebidas-confira/"
+      "original_url": "https://canaltech.com.br/carros/por-que-carros-modernos-se-desmancham-em-acidentes-e-salvam-vidas/"
     },
     {
-      "title": "ECA Digital acerta ao proibir o scroll infinito",
-      "slug": "eca-digital-acerta-ao-proibir-o-scroll-infinito",
+      "title": "Preview: Dark Scrolls é arroz com feijão sem \"mistura\"",
+      "slug": "preview-dark-scrolls-e-arroz-com-feijao-sem-mistura",
       "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T08:30:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-03-19T10:15:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/03/19/eca-digital-acerta-ao-proibir-o-scroll-infinito.htm"
-    },
-    {
-      "title": "Programação com IA ameaça software e dá banho de realidade em big techs",
-      "slug": "programacao-com-ia-ameaca-software-e-da-banho-de-realidade-em-big-techs",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/diogo-cortiz-o-mercado-esta-reagindo-de-forma-muito-excessiva.ghtm"
-    },
-    {
-      "title": "Qual é a fase da Lua hoje (19)? Veja calendário lunar de março de 2026",
-      "slug": "qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-marco-de-2026",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-marco-de-2026.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503803-preview-dark-scrolls-e-arroz-com-feijao-sem-mistura.htm"
     }
   ]
 }
