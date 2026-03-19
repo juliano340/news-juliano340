@@ -1,16 +1,20 @@
 # Weekly IA para Devs - 2026-03-19
 
-Gerado em 2026-03-19T17:09:04.817Z
+Gerado em 2026-03-19T19:10:01.629Z
 
-- [Navegador gamer Opera GX finalmente chega ao Linux](https://tecnoblog.net/noticias/navegador-gamer-opera-gx-finalmente-chega-ao-linux/) | topico: geral | score: 92
-- [O que é um hacker? Saiba como agem os invasores e como se proteger](https://tecnoblog.net/responde/o-que-e-um-hacker/) | topico: geral | score: 100
-- [Galaxy Tab A11 Plus 5G sai com 29% de desconto na Amazon com cupom de R$ 100](https://tecnoblog.net/achados/galaxy-tab-a11-plus-5g-sai-com-29-de-desconto-na-amazon-com-cupom-de-r-100/) | topico: geral | score: 92
-- [Positivo lança Vision Tab 11 com 4G e caneta digital na caixa](https://tecnoblog.net/noticias/positivo-lanca-vision-tab-11-com-4g-e-caneta-digital-na-caixa/) | topico: produtividade-dev | score: 92
-- [Galaxy S24 Ultra (256 GB) tem queda de 56% em promoção por até 12x sem juros](https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-queda-de-56-em-promocao-por-ate-12x-sem-juros/) | topico: geral | score: 92
-- [Uber investe mais de US$ 1 bilhão em rival da Tesla para ter frota de táxis autônomos](https://www.tecmundo.com.br/mercado/411726-uber-investe-mais-de-us-1-bilhao-em-rival-da-tesla-para-ter-frota-de-taxis-autonomos.htm) | topico: geral | score: 100
-- [Epic Games libera novo jogo e bônus de graça nesta quinta (19)! Resgate aqui](https://www.tecmundo.com.br/voxel/503818-epic-games-libera-novo-jogo-e-bonus-de-graca-nesta-quinta-19-resgate-aqui.htm) | topico: geral | score: 92
-- [Headsets, mouses e teclados mecânicos ATTACK SHARK com cupom de desconto](https://www.tecmundo.com.br/guia-de-compras/411737-headsets-mouses-e-teclados-mecanicos-attack-shark-com-cupom-de-desconto.htm) | topico: geral | score: 100
-- [GPT-5.4 mini e GPT-5.4 nano: conheça os novos modelos gratuitos do ChatgGPT](https://www.tecmundo.com.br/internet/411720-gpt-54-mini-e-gpt-54-nano-conheca-os-novos-modelos-gratuitos-do-chatggpt.htm) | topico: agentes | score: 100
-- [WhatsApp prepara suporte para cancelamento de ruído em chamadas de voz e vídeo](https://www.tecmundo.com.br/software/411725-whatsapp-prepara-suporte-para-cancelamento-de-ruido-em-chamadas-de-voz-e-video.htm) | topico: agentes | score: 100
-- [Elenco de Rooster comenta o que a série tem de diferente: “O Billy e o Matt colocaram algo especial no papel"](https://www.tecmundo.com.br/minha-serie/603359-elenco-de-rooster-comenta-o-que-a-serie-tem-de-diferente-o-billy-e-o-matt-colocaram-algo-especial-no-papel.htm) | topico: geral | score: 100
-- [HDs externos com cupom: opções para o seu backup com desconto no Magazine Luiza](https://www.tecmundo.com.br/guia-de-compras/411719-hds-externos-com-cupom-opcoes-para-o-seu-backup-com-desconto-no-magazine-luiza.htm) | topico: produtividade-dev | score: 85
+- [OpenAI vai comprar startup de ferramentas open source para Python](https://tecnoblog.net/noticias/openai-vai-comprar-startup-de-ferramentas-open-source-para-python/) | topico: produtividade-dev | score: 100
+- [Galaxy Watch Ultra tem oferta em até 12x com 52% OFF exclusiva Amazon Prime](https://tecnoblog.net/achados/galaxy-watch-ultra-tem-oferta-em-ate-12x-com-52-off-exclusiva-amazon-prime/) | topico: produtividade-dev | score: 92
+- [Google permitirá que sites do Reino Unido fiquem de fora de respostas com IA](https://tecnoblog.net/noticias/google-permitira-que-sites-do-reino-unido-fiquem-de-fora-de-respostas-com-ia/) | topico: agentes | score: 100
+- [Agente de IA da Meta causa falha interna de segurança](https://tecnoblog.net/noticias/agente-de-ia-da-meta-causa-falha-interna-de-seguranca/) | topico: agentes | score: 100
+- [iPhone Air (1 TB) despenca 46% com cupom no Mercado Livre](https://tecnoblog.net/achados/iphone-air-1-tb-despenca-46-com-cupom-no-mercado-livre/) | topico: geral | score: 100
+- [Receita da Micron quase triplica após trocar mercado consumidor pela IA](https://www.tecmundo.com.br/mercado/411732-receita-da-micron-quase-triplica-apos-trocar-mercado-consumidor-pela-ia.htm) | topico: geral | score: 92
+- [Caixas de som JBL, Philco e mais em promoção no Mercado Livre](https://www.tecmundo.com.br/guia-de-compras/411744-caixas-de-som-jbl-philco-e-mais-em-promocao-no-mercado-livre.htm) | topico: geral | score: 100
+- [iPhone 14 foi o celular seminovo mais buscado em 2025](https://www.tecmundo.com.br/produto/411728-iphone-14-foi-o-celular-seminovo-mais-buscado-em-2025.htm) | topico: geral | score: 92
+- [Exército do Brasil não identifica invasão de sistema após venda de banco de dados](https://www.tecmundo.com.br/seguranca/411749-exercito-do-brasil-nao-identifica-invasao-de-sistema-apos-venda-de-banco-de-dados.htm) | topico: geral | score: 100
+- [Oppo "cutuca" Samsung com seu novo celular dobrável sem vinco](https://www.tecmundo.com.br/produto/411740-oppo-cutuca-samsung-com-seu-novo-celular-dobravel-sem-vinco.htm) | topico: geral | score: 100
+- [Val Kilmer será recriado por inteligência artificial para novo filme; conheça As Deep as The Grave](https://www.tecmundo.com.br/minha-serie/603429-val-kilmer-sera-recriado-por-inteligencia-artificial-para-novo-filme-conheca-as-deep-as-the-grave.htm) | topico: geral | score: 100
+- [Deezer delineia nova estratégia após 1º lucro anual](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/deezer-delineia-nova-estrategia-apos-1-lucro-anual.htm) | topico: geral | score: 92
+- [Google expande acordos de energia elétrica de olho em picos de demanda de data centers](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/google-expande-acordos-de-energia-eletrica-de-olho-em-picos-de-demanda-de-data-centers.htm) | topico: geral | score: 100
+- [OpenAI compra Astral, desenvolvedora de ferramentas Python, para enfrentar Anthropic](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/openai-compra-astral-desenvolvedora-de-ferramentas-python-para-enfrentar-anthropic.htm) | topico: llms | score: 100
+- [Alibaba tem resultado abaixo do esperado com peso de investimento em ecommerce](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/alibaba-tem-resultado-abaixo-do-esperado-com-peso-de-investimento-em-ecommerce.htm) | topico: geral | score: 100
+- [Xiaomi investirá pelo menos US$8,7 bi em IA nos próximos três anos, diz presidente](https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/xiaomi-investira-pelo-menos-us87-bi-em-ia-nos-proximos-tres-anos-diz-presidente.htm) | topico: produtividade-dev | score: 92
