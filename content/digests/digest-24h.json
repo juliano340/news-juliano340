@@ -1,52 +1,124 @@
 {
-  "generated_at": "2026-03-19T11:05:38.648Z",
+  "generated_at": "2026-03-19T13:09:24.736Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 13,
   "posts": [
     {
-      "title": "O que muda na sua vida e na de seus filhos com o ECA Digital — e o que ainda não se sabe",
-      "slug": "o-que-muda-na-sua-vida-e-na-de-seus-filhos-com-o-eca-digital-e-o-que-ainda-nao-se-sabe",
+      "title": "Microsoft divulga solução alternativa para recuperar acesso ao Disco C:",
+      "slug": "microsoft-divulga-solucao-alternativa-para-recuperar-acesso-ao-disco-c",
       "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-19T09:32:55.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-19T12:32:32.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/19/o-que-muda-na-sua-vida-e-na-de-seus-filhos-com-o-eca-digital-e-o-que-ainda-nao-se-sabe.ghtml"
+      "original_url": "https://tecnoblog.net/noticias/microsoft-divulga-solucao-alternativa-para-recuperar-acesso-ao-disco-c/"
     },
     {
-      "title": "IA brasileira personaliza ensino e eleva aprendizado 4,2 vezes, diz estudo",
-      "slug": "ia-brasileira-personaliza-ensino-e-eleva-aprendizado-42-vezes-diz-estudo",
-      "topic": "agentes",
+      "title": "OpenAI apresenta GPT‑5.4 mini e o GPT‑5.4 nano; veja novidades e o que muda",
+      "slug": "openai-apresenta-gpt54-mini-e-o-gpt54-nano-veja-novidades-e-o-que-muda",
+      "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-03-19T11:00:00.000Z",
+      "date": "2026-03-19T12:43:31.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/ia-brasileira-personaliza-ensino-e-eleva-aprendizado-42-vezes-diz-estudo/"
+      "original_url": "https://canaltech.com.br/apps/openai-apresenta-gpt54-mini-e-o-gpt54-nano-veja-novidades-e-o-que-muda/"
     },
     {
-      "title": "Philips lança panela \"tudo em um\" para ajudar na cozinha",
-      "slug": "philips-lanca-panela-tudo-em-um-para-ajudar-na-cozinha",
+      "title": "Projetor substitui TV? Saiba quando comprar o aparelho certo",
+      "slug": "projetor-substitui-tv-saiba-quando-comprar-o-aparelho-certo",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-19T10:51:07.000Z",
+      "date": "2026-03-19T12:38:20.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/eletro/philips-lanca-panela-tudo-em-um-para-ajudar-na-cozinha/"
+      "original_url": "https://canaltech.com.br/tv/projetor-substitui-tv-saiba-quando-comprar-o-aparelho-certo/"
     },
     {
-      "title": "Por que carros modernos se desmancham em acidentes e salvam vidas?",
-      "slug": "por-que-carros-modernos-se-desmancham-em-acidentes-e-salvam-vidas",
-      "topic": "seguranca-ia",
+      "title": "Não curti: Recurso antigo do Twitter pode estar voltando para o X",
+      "slug": "nao-curti-recurso-antigo-do-twitter-pode-estar-voltando-para-o-x",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-19T09:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/por-que-carros-modernos-se-desmancham-em-acidentes-e-salvam-vidas/"
+      "date": "2026-03-19T12:22:29.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/nao-curti-recurso-antigo-do-twitter-pode-estar-voltando-para-o-x/"
     },
     {
-      "title": "Preview: Dark Scrolls é arroz com feijão sem \"mistura\"",
-      "slug": "preview-dark-scrolls-e-arroz-com-feijao-sem-mistura",
+      "title": "Geladeira que “sobreviveu” à enchente ainda pode pifar depois; entenda",
+      "slug": "geladeira-que-sobreviveu-a-enchente-ainda-pode-pifar-depois-entenda",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-19T12:19:10.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/eletro/geladeira-que-sobreviveu-a-enchente-ainda-pode-pifar-depois-entenda/"
+    },
+    {
+      "title": "Rival provoca Samsung ao anunciar celular dobrável; entenda",
+      "slug": "rival-provoca-samsung-ao-anunciar-celular-dobravel-entenda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-19T12:01:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/rival-provoca-samsung-ao-anunciar-celular-dobravel-entenda/"
+    },
+    {
+      "title": "Gasolina a R$ 9 e diesel em falta? Guerra pode gerar crise de combustível",
+      "slug": "gasolina-a-rdollar-9-e-diesel-em-falta-guerra-pode-gerar-crise-de-combustivel",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-19T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/gasolina-a-r-9-e-diesel-em-falta-guerra-pode-gerar-crise-de-combustivel/"
+    },
+    {
+      "title": "Operação da PF combate cibercrimes relacionados ao abuso sexual infantojuvenil",
+      "slug": "operacao-da-pf-combate-cibercrimes-relacionados-ao-abuso-sexual-infantojuvenil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-19T11:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/operacao-da-pf-combate-cibercrimes-relacionados-ao-abuso-sexual-infantojuvenil/"
+    },
+    {
+      "title": "Ferramentas de detecção estão ficando para trás na corrida contra deepfakes",
+      "slug": "ferramentas-de-deteccao-estao-ficando-para-tras-na-corrida-contra-deepfakes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-19T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/ferramentas-de-deteccao-estao-ficando-para-tras-na-corrida-contra-deepfakes/"
+    },
+    {
+      "title": "Microsoft ameaça processar Amazon e OpenAI por acordo bilionário",
+      "slug": "microsoft-ameaca-processar-amazon-e-openai-por-acordo-bilionario",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T10:15:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503803-preview-dark-scrolls-e-arroz-com-feijao-sem-mistura.htm"
+      "date": "2026-03-19T12:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411716-microsoft-ameaca-processar-amazon-e-openai-por-acordo-bilionario.htm"
+    },
+    {
+      "title": "Crimson Desert já está disponível para compra com desconto! Veja oferta",
+      "slug": "crimson-desert-ja-esta-disponivel-para-compra-com-desconto-veja-oferta",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T12:16:42.000Z",
+      "editorial_score": 85,
+      "original_url": "https://www.tecmundo.com.br/voxel/503825-crimson-desert-ja-esta-disponivel-para-compra-com-desconto-veja-oferta.htm"
+    },
+    {
+      "title": "Firefly: tudo sobre a série que ganhará 2ª temporada após 24 anos",
+      "slug": "firefly-tudo-sobre-a-serie-que-ganhara-2a-temporada-apos-24-anos",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-19T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603397-firefly-tudo-sobre-a-serie-que-ganhara-2-temporada-apos-24-anos.htm"
+    },
+    {
+      "title": "Excesso de redes sociais torna jovens infelizes, diz estudo",
+      "slug": "excesso-de-redes-sociais-torna-jovens-infelizes-diz-estudo",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-19T12:11:09.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/ultimas-noticias/deutschewelle/2026/03/19/excesso-de-redes-sociais-torna-jovens-infelizes-diz-estudo.htm"
     }
   ]
 }
