@@ -1,7 +1,7 @@
 {
-  "slug": "positivo-lanca-vision-tab-11-com-4g-e-caneta-digital-na-caixa",
-  "generated_at": "2026-03-19T17:03:02.375Z",
-  "status": "WARN",
+  "slug": "uber-investe-mais-de-usdollar-1-bilhao-em-rival-da-tesla-para-ter-frota-de-taxis-autonomos",
+  "generated_at": "2026-03-19T17:05:45.085Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 6
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 328,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 2,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [

@@ -1,6 +1,6 @@
 {
-  "slug": "positivo-lanca-vision-tab-11-com-4g-e-caneta-digital-na-caixa",
-  "generated_at": "2026-03-19T17:03:02.375Z",
+  "slug": "epic-games-libera-novo-jogo-e-bonus-de-graca-nesta-quinta-19-resgate-aqui",
+  "generated_at": "2026-03-19T17:06:10.183Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 306,
       "min": 220
     },
     {

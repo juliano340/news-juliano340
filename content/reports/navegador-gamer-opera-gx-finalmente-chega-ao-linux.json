@@ -1,6 +1,6 @@
 {
-  "slug": "positivo-lanca-vision-tab-11-com-4g-e-caneta-digital-na-caixa",
-  "generated_at": "2026-03-19T17:03:02.375Z",
+  "slug": "navegador-gamer-opera-gx-finalmente-chega-ao-linux",
+  "generated_at": "2026-03-19T17:01:29.021Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 362,
       "min": 220
     },
     {

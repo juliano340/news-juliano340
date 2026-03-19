@@ -1,6 +1,6 @@
 {
-  "slug": "positivo-lanca-vision-tab-11-com-4g-e-caneta-digital-na-caixa",
-  "generated_at": "2026-03-19T17:03:02.375Z",
+  "slug": "hds-externos-com-cupom-opcoes-para-o-seu-backup-com-desconto-no-magazine-luiza",
+  "generated_at": "2026-03-19T17:09:02.749Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 363,
+      "words": 294,
       "min": 220
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "id": "source_link_in_body",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "fonte_primaria_ausente_no_corpo"
     },
@@ -92,10 +92,11 @@
     }
   ],
   "warnings": [
+    "fonte_primaria_ausente_no_corpo",
     "poucos_links_internos"
   ],
   "errors": [],
-  "score": 92,
+  "score": 85,
   "metadata": {
     "status": "PASS",
     "checks": [

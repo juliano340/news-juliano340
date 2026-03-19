@@ -1,151 +1,115 @@
 {
-  "generated_at": "2026-03-19T15:10:27.295Z",
+  "generated_at": "2026-03-19T17:09:04.817Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 16,
+  "total": 12,
   "posts": [
     {
-      "title": "Galaxy Watch 7 recebe desconto de 61% em oferta e sai por menos de R$ 1 mil",
-      "slug": "galaxy-watch-7-recebe-desconto-de-61percent-em-oferta-e-sai-por-menos-de-rdollar-1-mil",
+      "title": "Navegador gamer Opera GX finalmente chega ao Linux",
+      "slug": "navegador-gamer-opera-gx-finalmente-chega-ao-linux",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-19T14:34:22.000Z",
+      "date": "2026-03-19T15:52:22.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-watch-7-recebe-desconto-de-61-em-oferta-e-sai-por-menos-de-r-1-mil/"
+      "original_url": "https://tecnoblog.net/noticias/navegador-gamer-opera-gx-finalmente-chega-ao-linux/"
     },
     {
-      "title": "Justiça da Alemanha proíbe TCL de usar sigla QLED em TVs",
-      "slug": "justica-da-alemanha-proibe-tcl-de-usar-sigla-qled-em-tvs",
+      "title": "O que é um hacker? Saiba como agem os invasores e como se proteger",
+      "slug": "o-que-e-um-hacker-saiba-como-agem-os-invasores-e-como-se-proteger",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-19T14:22:20.000Z",
+      "date": "2026-03-19T15:23:55.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/justica-da-alemanha-proibe-tcl-de-usar-sigla-qled-em-tvs/"
+      "original_url": "https://tecnoblog.net/responde/o-que-e-um-hacker/"
     },
     {
-      "title": "Galaxy S25 (256 GB) com chip Snapdragon cai 52% em oferta no Mercado Livre",
-      "slug": "galaxy-s25-256-gb-com-chip-snapdragon-cai-52percent-em-oferta-no-mercado-livre",
+      "title": "Galaxy Tab A11 Plus 5G sai com 29% de desconto na Amazon com cupom de R$ 100",
+      "slug": "galaxy-tab-a11-plus-5g-sai-com-29percent-de-desconto-na-amazon-com-cupom-de-rdollar-100",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-19T13:44:48.000Z",
+      "date": "2026-03-19T14:51:05.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-256-gb-com-chip-snapdragon-cai-52-em-oferta-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-tab-a11-plus-5g-sai-com-29-de-desconto-na-amazon-com-cupom-de-r-100/"
     },
     {
-      "title": "Galaxy S25 Ultra (256 GB) fica 51% mais barato com cupom de R$ 500 OFF na Amazon",
-      "slug": "galaxy-s25-ultra-256-gb-fica-51percent-mais-barato-com-cupom-de-rdollar-500-off-na-amazon",
+      "title": "Positivo lança Vision Tab 11 com 4G e caneta digital na caixa",
+      "slug": "positivo-lanca-vision-tab-11-com-4g-e-caneta-digital-na-caixa",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-19T13:48:46.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/positivo-lanca-vision-tab-11-com-4g-e-caneta-digital-na-caixa/"
+    },
+    {
+      "title": "Galaxy S24 Ultra (256 GB) tem queda de 56% em promoção por até 12x sem juros",
+      "slug": "galaxy-s24-ultra-256-gb-tem-queda-de-56percent-em-promocao-por-ate-12x-sem-juros",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-19T13:20:24.000Z",
+      "date": "2026-03-19T13:29:51.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-fica-51-mais-barato-com-cupom-de-r-500-off-na-amazon/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-queda-de-56-em-promocao-por-ate-12x-sem-juros/"
     },
     {
-      "title": "'Navio negreiro das almas': líder indígena critica data center de R$ 200 bi do TikTok",
-      "slug": "navio-negreiro-das-almas-lider-indigena-critica-data-center-de-rdollar-200-bi-do-tiktok",
+      "title": "Uber investe mais de US$ 1 bilhão em rival da Tesla para ter frota de táxis autônomos",
+      "slug": "uber-investe-mais-de-usdollar-1-bilhao-em-rival-da-tesla-para-ter-frota-de-taxis-autonomos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T15:00:00.000Z",
+      "date": "2026-03-19T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411648-navio-negreiro-das-almas-lider-indigena-critica-data-center-de-r-200-bi-do-tiktok.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411726-uber-investe-mais-de-us-1-bilhao-em-rival-da-tesla-para-ter-frota-de-taxis-autonomos.htm"
     },
     {
-      "title": "Data center do TikTok: entenda o projeto bilionário que está em andamento no Ceará",
-      "slug": "data-center-do-tiktok-entenda-o-projeto-bilionario-que-esta-em-andamento-no-ceara",
+      "title": "Epic Games libera novo jogo e bônus de graça nesta quinta (19)! Resgate aqui",
+      "slug": "epic-games-libera-novo-jogo-e-bonus-de-graca-nesta-quinta-19-resgate-aqui",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T14:50:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/409432-data-center-do-tiktok-entenda-o-projeto-bilionario-que-esta-em-andamento-no-ceara.htm"
-    },
-    {
-      "title": "Smartphones, Smart TVs, robôs aspiradores e mais com desconto nas Super Ofertas da Shopee",
-      "slug": "smartphones-smart-tvs-robos-aspiradores-e-mais-com-desconto-nas-super-ofertas-da-shopee",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T14:25:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411733-smartphones-smart-tvs-robos-aspiradores-e-mais-com-desconto-nas-super-ofertas-da-shopee.htm"
-    },
-    {
-      "title": "Crimson Desert é bom? Veja as notas e recepção inicial do game no Metacritic",
-      "slug": "crimson-desert-e-bom-veja-as-notas-e-recepcao-inicial-do-game-no-metacritic",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T14:15:31.000Z",
+      "date": "2026-03-19T16:15:25.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503827-crimson-desert-e-bom-veja-as-notas-e-recepcao-inicial-do-game-no-metacritic.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503818-epic-games-libera-novo-jogo-e-bonus-de-graca-nesta-quinta-19-resgate-aqui.htm"
     },
     {
-      "title": "O ChatGPT curou o câncer de um cachorro? Não é bem assim",
-      "slug": "o-chatgpt-curou-o-cancer-de-um-cachorro-nao-e-bem-assim",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-19T14:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411717-o-chatgpt-curou-o-cancer-de-um-cachorro-nao-e-bem-assim.htm"
-    },
-    {
-      "title": "'Lei Felca': o que o ECA Digital muda a sua vida?",
-      "slug": "lei-felca-o-que-o-eca-digital-muda-a-sua-vida",
+      "title": "Headsets, mouses e teclados mecânicos ATTACK SHARK com cupom de desconto",
+      "slug": "headsets-mouses-e-teclados-mecanicos-attack-shark-com-cupom-de-desconto",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T13:55:35.000Z",
+      "date": "2026-03-19T16:09:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411729-lei-felca-o-que-o-eca-digital-muda-a-sua-vida.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411737-headsets-mouses-e-teclados-mecanicos-attack-shark-com-cupom-de-desconto.htm"
     },
     {
-      "title": "Opera para Android ganha \"Think Deeper\", IA com raciocínio profundo no celular",
-      "slug": "opera-para-android-ganha-think-deeper-ia-com-raciocinio-profundo-no-celular",
+      "title": "GPT-5.4 mini e GPT-5.4 nano: conheça os novos modelos gratuitos do ChatgGPT",
+      "slug": "gpt-54-mini-e-gpt-54-nano-conheca-os-novos-modelos-gratuitos-do-chatggpt",
       "topic": "agentes",
       "source": "Tecmundo",
-      "date": "2026-03-19T13:26:21.000Z",
+      "date": "2026-03-19T16:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411700-opera-para-android-ganha-think-deeper-ia-com-raciocinio-profundo-no-celular.htm"
+      "original_url": "https://www.tecmundo.com.br/internet/411720-gpt-54-mini-e-gpt-54-nano-conheca-os-novos-modelos-gratuitos-do-chatggpt.htm"
     },
     {
-      "title": "Sonic the Hedgehog 4 confirma volta de Jim Carrey, Amy Rose e data de estreia",
-      "slug": "sonic-the-hedgehog-4-confirma-volta-de-jim-carrey-amy-rose-e-data-de-estreia",
+      "title": "WhatsApp prepara suporte para cancelamento de ruído em chamadas de voz e vídeo",
+      "slug": "whatsapp-prepara-suporte-para-cancelamento-de-ruido-em-chamadas-de-voz-e-video",
+      "topic": "agentes",
+      "source": "Tecmundo",
+      "date": "2026-03-19T15:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411725-whatsapp-prepara-suporte-para-cancelamento-de-ruido-em-chamadas-de-voz-e-video.htm"
+    },
+    {
+      "title": "Elenco de Rooster comenta o que a série tem de diferente: “O Billy e o Matt colocaram algo especial no papel\"",
+      "slug": "elenco-de-rooster-comenta-o-que-a-serie-tem-de-diferente-o-billy-e-o-matt-colocaram-algo-especial-no-papel",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T13:20:49.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603431-sonic-the-hedgehog-4-confirma-volta-de-jim-carrey-amy-rose-e-janela-de-estreia.htm"
+      "date": "2026-03-19T15:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603359-elenco-de-rooster-comenta-o-que-a-serie-tem-de-diferente-o-billy-e-o-matt-colocaram-algo-especial-no-papel.htm"
     },
     {
-      "title": "Spider-Man 2, Astro Bot e mais jogos para PS5 e PS4 em promoção",
-      "slug": "spider-man-2-astro-bot-e-mais-jogos-para-ps5-e-ps4-em-promocao",
-      "topic": "geral",
+      "title": "HDs externos com cupom: opções para o seu backup com desconto no Magazine Luiza",
+      "slug": "hds-externos-com-cupom-opcoes-para-o-seu-backup-com-desconto-no-magazine-luiza",
+      "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-19T13:09:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/503820-spider-man-2-astro-bot-e-mais-jogos-para-ps5-e-ps4-em-promocao.htm"
-    },
-    {
-      "title": "Samsung planeja investir mais de US$73 bi em 2026 para liderar setor de chips de IA",
-      "slug": "samsung-planeja-investir-mais-de-usdollar73-bi-em-2026-para-liderar-setor-de-chips-de-ia",
-      "topic": "produtividade-dev",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T14:27:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/samsung-planeja-investir-mais-de-us73-bi-em-2026-para-liderar-setor-de-chips-de-ia.htm"
-    },
-    {
-      "title": "Uso intenso de redes sociais prejudica bem-estar de jovens, aponta relatório",
-      "slug": "uso-intenso-de-redes-sociais-prejudica-bem-estar-de-jovens-aponta-relatorio",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T14:02:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/uso-intenso-de-redes-sociais-prejudica-bem-estar-de-jovens-aponta-relatorio.htm"
-    },
-    {
-      "title": "Asteroide reúne cinco ingredientes essenciais para a vida, aponta estudo",
-      "slug": "asteroide-reune-cinco-ingredientes-essenciais-para-a-vida-aponta-estudo",
-      "topic": "produtividade-dev",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T13:33:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/asteroide-reune-cinco-ingredientes-essenciais-para-a-vida-aponta-estudo.ghtm"
+      "date": "2026-03-19T15:06:00.000Z",
+      "editorial_score": 85,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411719-hds-externos-com-cupom-opcoes-para-o-seu-backup-com-desconto-no-magazine-luiza.htm"
     }
   ]
 }
