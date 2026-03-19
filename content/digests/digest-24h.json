@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-03-19T07:02:08.404Z",
+  "generated_at": "2026-03-19T09:03:11.032Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 5,
   "posts": [
     {
-      "title": "O anticristo na porta do Vaticano: palestra de bilionário de IA em Roma causa mal-estar na Igreja",
-      "slug": "o-anticristo-na-porta-do-vaticano-palestra-de-bilionario-de-ia-em-roma-causa-mal-estar-na-igreja",
-      "topic": "produtividade-dev",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-19T06:01:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/19/anticristo-palestra-bilionario-roma-igreja.ghtml"
-    },
-    {
-      "title": "Dois sistemas operacionais anunciam saída do Brasil e 'culpam' ECA Digital; entenda o que está em jogo",
-      "slug": "dois-sistemas-operacionais-anunciam-saida-do-brasil-e-culpam-eca-digital-entenda-o-que-esta-em-jogo",
-      "topic": "produtividade-dev",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-19T06:00:43.000Z",
-      "editorial_score": 92,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/19/dois-sistemas-operacionais-anunciam-saida-do-brasil-e-culpam-eca-digital-entenda-o-que-esta-em-jogo.ghtml"
-    },
-    {
-      "title": "Da Suíça ao Brasil: design e engenharia conectando pessoas ao digital",
-      "slug": "da-suica-ao-brasil-design-e-engenharia-conectando-pessoas-ao-digital",
-      "topic": "agentes",
+      "title": "Aprendizado personalizado: o papel da IA nas escolas",
+      "slug": "aprendizado-personalizado-o-papel-da-ia-nas-escolas",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-19T07:00:00.000Z",
+      "date": "2026-03-19T09:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/podcast/podcast-canaltech/aprendizado-personalizado-o-papel-da-ia-nas-escolas-6409/"
+    },
+    {
+      "title": "App do Lollapalooza tem mapa, agenda e compra antecipada de bebidas; confira",
+      "slug": "app-do-lollapalooza-tem-mapa-agenda-e-compra-antecipada-de-bebidas-confira",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-03-19T09:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/colunas/da-suica-ao-brasil-design-e-engenharia-conectando-pessoas-ao-digital/"
+      "original_url": "https://canaltech.com.br/apps/app-do-lollapalooza-tem-mapa-agenda-e-compra-antecipada-de-bebidas-confira/"
+    },
+    {
+      "title": "ECA Digital acerta ao proibir o scroll infinito",
+      "slug": "eca-digital-acerta-ao-proibir-o-scroll-infinito",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-19T08:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/03/19/eca-digital-acerta-ao-proibir-o-scroll-infinito.htm"
+    },
+    {
+      "title": "Programação com IA ameaça software e dá banho de realidade em big techs",
+      "slug": "programacao-com-ia-ameaca-software-e-da-banho-de-realidade-em-big-techs",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-19T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/diogo-cortiz-o-mercado-esta-reagindo-de-forma-muito-excessiva.ghtm"
+    },
+    {
+      "title": "Qual é a fase da Lua hoje (19)? Veja calendário lunar de março de 2026",
+      "slug": "qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-marco-de-2026",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-19T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/redacao/2026/03/19/qual-e-a-fase-da-lua-hoje-19-veja-calendario-lunar-de-marco-de-2026.htm"
     }
   ]
 }
