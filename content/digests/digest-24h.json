@@ -1,43 +1,52 @@
 {
-  "generated_at": "2026-03-20T11:03:26.841Z",
+  "generated_at": "2026-03-20T13:03:56.977Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 5,
   "posts": [
     {
-      "title": "ECA Digital entra em vigor e força empresas a mexer no dinheiro",
-      "slug": "eca-digital-entra-em-vigor-e-forca-empresas-a-mexer-no-dinheiro",
+      "title": "Crimson Desert estreia com sucesso na Steam, mas recebe reviews mistas de jogadores",
+      "slug": "crimson-desert-estreia-com-sucesso-na-steam-mas-recebe-reviews-mistas-de-jogadores",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-20T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411767-eca-digital-entra-em-vigor-e-forca-empresas-a-mexer-no-dinheiro.htm"
+      "date": "2026-03-20T12:19:45.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503831-crimson-desert-estreia-com-sucesso-na-steam-mas-recebe-reviews-mistas-de-jogadores.htm"
     },
     {
-      "title": "Palpites para Flamengo x Cruzeiro (Feminino): Análises e Onde Assistir (20/03/2026)",
-      "slug": "palpites-para-flamengo-x-cruzeiro-feminino-analises-e-onde-assistir-20032026",
-      "topic": "produtividade-dev",
+      "title": "Meta recua e não vai descontinuar metaverso Horizons Worlds para VR",
+      "slug": "meta-recua-e-nao-vai-descontinuar-metaverso-horizons-worlds-para-vr",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-20T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411748-palpites-para-flamengo-x-cruzeiro-feminino-analises-e-onde-assistir-20032026.htm"
+      "date": "2026-03-20T12:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411766-meta-recua-e-nao-vai-descontinuar-metaverso-horizons-worlds-para-vr.htm"
     },
     {
-      "title": "Palpites para Bahia x Santos (Feminino): Análises e Onde Assistir (21/03/2026)",
-      "slug": "palpites-para-bahia-x-santos-feminino-analises-e-onde-assistir-21032026",
-      "topic": "produtividade-dev",
+      "title": "Das telas aos palcos: conheça os artistas do Lollapalooza 2026 que também atuam",
+      "slug": "das-telas-aos-palcos-conheca-os-artistas-do-lollapalooza-2026-que-tambem-atuam",
+      "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-20T10:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411743-palpites-para-bahia-x-santos-feminino-analises-e-onde-assistir-21032026.htm"
+      "date": "2026-03-20T11:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603405-das-telas-aos-palcos-conheca-os-artistas-do-lollapalooza-2026-que-tambem-atuam.htm"
     },
     {
-      "title": "Palpites para São Paulo x Palmeiras: Análises e Onde Assistir (21/03/2026)",
-      "slug": "palpites-para-sao-paulo-x-palmeiras-analises-e-onde-assistir-21032026",
+      "title": "Listagem confirma Galaxy S26 FE como próximo celular da Samsung",
+      "slug": "listagem-confirma-galaxy-s26-fe-como-proximo-celular-da-samsung",
       "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-20T09:00:00.000Z",
+      "date": "2026-03-20T11:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411764-listagem-confirma-galaxy-s26-fe-como-proximo-celular-da-samsung.htm"
+    },
+    {
+      "title": "Palpites para Fluminense x Atlético-MG: Análises e Onde Assistir (21/03/2026)",
+      "slug": "palpites-para-fluminense-x-atletico-mg-analises-e-onde-assistir-21032026",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-20T11:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411752-palpites-para-sao-paulo-x-palmeiras-analises-e-onde-assistir-21032026.htm"
+      "original_url": "https://www.tecmundo.com.br/apostas/411754-palpites-para-fluminense-x-atletico-mg-analises-e-onde-assistir-21032026.htm"
     }
   ]
 }
