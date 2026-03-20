@@ -1,20 +1,22 @@
 # Weekly IA para Devs - 2026-03-20
 
-Gerado em 2026-03-20T21:07:47.554Z
+Gerado em 2026-03-20T23:20:21.333Z
 
-- [Alemanha adota formatos abertos do ODF; LibreOffice comemora](https://tecnoblog.net/noticias/alemanha-adota-formatos-abertos-do-odf-libreoffice-comemora/) | topico: infra-ia | score: 100
-- [Vídeos infantis feitos por IA espalham desinformação no YouTube](https://tecnoblog.net/noticias/videos-infantis-feitos-por-ia-espalham-desinformacao-no-youtube/) | topico: produtividade-dev | score: 100
-- [WhatsApp prepara tradução automática de mensagens no iPhone](https://tecnoblog.net/noticias/whatsapp-prepara-traducao-automatica-de-mensagens-no-iphone/) | topico: agentes | score: 100
-- [McDonald’s lança brindes e cardápio especial inspirados em Super Mario Galaxy](https://canaltech.com.br/entretenimento/mcdonalds-lanca-brindes-e-cardapio-especial-inspirados-em-super-mario-galaxy/) | topico: geral | score: 100
-- [Sea of Thieves e mais jogos grátis para você curtir no fim de semana](https://canaltech.com.br/games/sea-of-thieves-e-mais-jogos-gratis-para-voce-curtir-no-fim-de-semana/) | topico: geral | score: 92
-- [Fiat derruba preços para fazer do Mobi o carro mais barato do Brasil](https://canaltech.com.br/carros/fiat-derruba-precos-para-fazer-do-mobi-o-carro-mais-barato-do-brasil/) | topico: geral | score: 100
-- [6 HQs que podem inspirar Homem-Aranha: Um Novo Dia](https://canaltech.com.br/entretenimento/hqs-que-podem-inspirar-homem-aranha-um-novo-dia/) | topico: geral | score: 100
-- [TikTok começa a testar feed atolado de vídeos gerados por IA](https://canaltech.com.br/apps/tiktok-comeca-a-testar-feed-atolado-de-videos-gerados-por-ia/) | topico: produtividade-dev | score: 100
-- [8 artistas e atores que “voltaram dos mortos” em filmes, shows e videoclipes](https://canaltech.com.br/entretenimento/artistas-atores-ressuscitados-em-filmes-shows-videoclipes/) | topico: geral | score: 100
-- [China cria robô que te transforma humanos em 'centauros tecnológicos'](https://www.tecmundo.com.br/internet/411795-china-cria-robo-que-te-transforma-humanos-em-centauros-tecnologicos.htm) | topico: seguranca-ia | score: 92
-- [IA e carreira: o risco de um trabalho sem aprendizado](https://www.tecmundo.com.br/mercado/411808-ia-e-carreira-o-risco-de-um-trabalho-sem-aprendizado.htm) | topico: geral | score: 100
-- [Telegram ainda é a rede social preferida dos criminosos, aponta relatório](https://www.tecmundo.com.br/seguranca/411768-telegram-ainda-e-a-rede-social-preferida-dos-criminosos-aponta-relatorio.htm) | topico: geral | score: 100
-- [Windows 11 não terá mais atualizações forçadas e faz mudança na barra de tarefas](https://www.tecmundo.com.br/produto/411803-windows-11-nao-tera-mais-atualizacoes-forcadas-e-faz-mudanca-na-barra-de-tarefas.htm) | topico: produtividade-dev | score: 85
-- [Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (20)](https://www.tecmundo.com.br/voxel/503835-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-20.htm) | topico: geral | score: 92
-- [Por que o Android terá espera de 24h para instalar apps fora da Play Store?](https://www.tecmundo.com.br/seguranca/411781-por-que-o-android-tera-espera-de-24h-para-instalar-apps-fora-da-play-store.htm) | topico: geral | score: 100
-- [Netflix e Warner Music fecham acordo para documentários de artistas](https://www.uol.com.br/tilt/noticias/reuters/2026/03/20/netflix-e-warner-music-fecham-acordo-para-documentarios-de-artistas.htm) | topico: geral | score: 100
+- [Elon Musk enganou investidores antes de comprar o Twitter, diz agência](https://g1.globo.com/tecnologia/noticia/2026/03/20/elon-musk-investidores-compra-twitter.ghtml) | topico: geral | score: 100
+- [Monitor Samsung Odyssey G30 de 24” entra em promoção com 32% OFF em até 10x](https://tecnoblog.net/achados/monitor-samsung-odyssey-g30-de-24-entra-em-promocao-com-32-off-em-ate-10x/) | topico: geral | score: 92
+- [Galaxy Fit 3 está 53% mais barato em promoção no Mercado Livre](https://tecnoblog.net/achados/galaxy-fit-3-esta-53-mais-barato-em-promocao-no-mercado-livre/) | topico: geral | score: 100
+- [Virou TikTok? Instagram muda interface e coloca feed de reels na home](https://tecnoblog.net/noticias/virou-tiktok-instagram-muda-interface-e-coloca-feed-de-reels-na-home/) | topico: produtividade-dev | score: 100
+- [O que é GrapheneOS? Confira a história e os recursos do sistema operacional](https://tecnoblog.net/responde/o-que-e-grapheneos-confira-a-historia-e-os-recursos-do-sistema-operacional/) | topico: produtividade-dev | score: 92
+- [iPhone 17 Pro (256 GB) recebe mais desconto e tem 34% OFF no Mercado Livre](https://tecnoblog.net/achados/iphone-17-pro-256-gb-recebe-mais-desconto-e-tem-34-off-no-mercado-livre/) | topico: geral | score: 100
+- [Windows 11 vai finalmente ter Barra de Tarefas móvel](https://tecnoblog.net/noticias/windows-11-vai-finalmente-ter-barra-de-tarefas-movel/) | topico: produtividade-dev | score: 100
+- [Animador de Death Stranding 2 não vê DLSS 5 com bons olhos](https://canaltech.com.br/games/animador-de-death-stranding-2-nao-ve-dlss-5-com-bons-olhos/) | topico: geral | score: 100
+- [Sophie Turner grava cena de ação como Lara Croft no set de Tomb Raider; veja](https://canaltech.com.br/entretenimento/sophie-turner-grava-cena-de-acao-como-lara-croft-no-set-de-tomb-raider-veja/) | topico: geral | score: 100
+- [Vale a pena importar um carro dos Estados Unidos? Fizemos as contas](https://canaltech.com.br/carros/vale-a-pena-importar-um-carro-dos-estados-unidos-fizemos-as-contas/) | topico: produtividade-dev | score: 100
+- [Promessa de caos: Netflix revela quando a série de Assassin’s Creed se passa](https://canaltech.com.br/entretenimento/promessa-de-caos-netflix-revela-quando-a-serie-de-assassins-creed-se-passa/) | topico: geral | score: 100
+- [Índice Pizza? Conheça a teoria que circula na internet durante guerra no Irã](https://www.tecmundo.com.br/internet/411796-indice-pizza-conheca-a-teoria-que-circula-na-internet-durante-guerra-no-ira.htm) | topico: seguranca-ia | score: 92
+- [Peaky Blinders e mais filmes e séries em alta para ver na Netflix no fim de semana (20)](https://www.tecmundo.com.br/minha-serie/603430-peaky-blinders-e-mais-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-20.htm) | topico: geral | score: 92
+- [Final Fantasy VII Remake e mais jogos para Switch com até 90% OFF na eShop](https://www.tecmundo.com.br/voxel/503842-final-fantasy-vii-remake-e-mais-jogos-para-switch-com-ate-90-off-na-eshop.htm) | topico: geral | score: 100
+- [Regras do Imposto de Renda 2026: saiba como declarar](https://www.tecmundo.com.br/internet/411771-regras-do-imposto-de-renda-2026-saiba-como-declarar.htm) | topico: geral | score: 100
+- [Pedra no sapado: IA atrapalha planos dos EUA de reduzir déficit comercial](https://www.tecmundo.com.br/mercado/411804-pedra-no-sapado-ia-atrapalha-planos-dos-eua-de-reduzir-deficit-comercial.htm) | topico: geral | score: 100
+- [Como proteger seu celular no Lollapalooza 2026 e outros festivais](https://www.tecmundo.com.br/seguranca/411810-como-proteger-seu-celular-no-lollapalooza-2026-e-outros-festivais.htm) | topico: geral | score: 100
+- [Chuck Norris: 6 filmes para assistir no streaming e relembrar a carreira do ator](https://www.tecmundo.com.br/minha-serie/603448-chuck-norris-6-filmes-para-assistir-no-streaming-e-relembrar-a-carreira-do-ator.htm) | topico: geral | score: 100
