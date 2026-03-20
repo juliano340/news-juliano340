@@ -1,29 +1,25 @@
 # Weekly IA para Devs - 2026-03-20
 
-Gerado em 2026-03-20T15:17:22.056Z
+Gerado em 2026-03-20T17:12:48.778Z
 
-- [Google Stitch agora pode criar interfaces por comandos de voz](https://tecnoblog.net/noticias/google-lanca-ia-que-cria-interfaces-por-comandos-de-voz/) | topico: agentes | score: 100
-- [Motorola homologa celular misterioso no Brasil](https://tecnoblog.net/noticias/motorola-homologa-celular-misterioso-no-brasil/) | topico: geral | score: 100
-- [iPhone 16 tem 45% OFF em oferta por até 12x sem juros no AliExpress](https://tecnoblog.net/achados/iphone-16-tem-45-off-em-oferta-por-ate-12x-sem-juros-no-aliexpress/) | topico: geral | score: 92
-- [Onde fica a lixeira do celular? Saiba encontrar arquivos apagados no iPhone ou Android](https://tecnoblog.net/responde/onde-fica-a-lixeira-do-celular-saiba-encontrar-arquivos-apagados-no-iphone-ou-android/) | topico: geral | score: 100
-- [AirPods Max 2 passam pela Anatel e venda no Brasil deve começar em breve](https://tecnoblog.net/noticias/airpods-max-2-passam-pela-anatel-e-venda-no-brasil-deve-comecar-em-breve/) | topico: produtividade-dev | score: 92
-- [Instagram e TikTok afetam mais a saúde mental que o WhatsApp, diz estudo](https://tecnoblog.net/noticias/instagram-e-tiktok-afetam-mais-a-saude-mental-que-o-whatsapp-diz-estudo/) | topico: agentes | score: 100
-- [Outono 2026: entenda como a inclinação da Terra define as estações do ano](https://canaltech.com.br/espaco/outono-2026-entenda-como-a-inclinacao-da-terra-define-as-estacoes-do-ano/) | topico: produtividade-dev | score: 100
-- [Tecnologia da Intel promete acabar com uma das maiores chatices dos games no PC](https://canaltech.com.br/hardware/tecnologia-da-intel-promete-acabar-com-uma-das-maiores-chatices-dos-games-no-pc/) | topico: geral | score: 100
-- [Novo Xiaomi tem bateria e tela generosa por menos de R$ 840; veja os detalhes](https://canaltech.com.br/smartphone/novo-xiaomi-tem-bateria-e-tela-generosa-por-menos-de-r-840-veja-os-detalhes/) | topico: geral | score: 100
-- [Polêmica: FBI assume que compra dados para rastrear pessoas](https://canaltech.com.br/seguranca/polemica-fbi-assume-que-compra-dados-para-rastrear-pessoas/) | topico: geral | score: 100
-- [Google volta atrás e desiste de mudança que chateava usuários de Android](https://canaltech.com.br/apps/google-volta-atras-e-desiste-de-mudanca-que-chateava-usuarios-de-android/) | topico: geral | score: 92
-- [Xiaomi vende 15 mil carros em 30 minutos e assombra rivais](https://canaltech.com.br/carros/xiaomi-vende-15-mil-carros-em-30-minutos-e-assombra-rivais/) | topico: produtividade-dev | score: 100
-- [Celulares Samsung Galaxy ganharão recurso que era exclusivo dos iPhones](https://canaltech.com.br/apps/celulares-samsung-galaxy-ganharao-recurso-que-era-exclusivo-dos-iphones/) | topico: produtividade-dev | score: 100
-- [Galaxy S26 Ultra será usado nas filmagens da transmissão oficial do Lollapalooza](https://canaltech.com.br/smartphone/galaxy-s26-ultra-sera-usado-nas-filmagens-da-transmissao-oficial-do-lollapalooza/) | topico: geral | score: 100
-- [Samsung vai pagar R$ 1.048 de indenização para donos do Galaxy S22; entenda](https://canaltech.com.br/smartphone/samsung-vai-pagar-indenizacao-para-donos-do-galaxy-s22-entenda-o-caso/) | topico: geral | score: 100
-- [China aprova "chip cerebral" que devolve movimentos a pacientes com paralisia](https://canaltech.com.br/ciencia/china-aprova-chip-cerebral-que-devolve-movimentos-a-pacientes-com-paralisia/) | topico: produtividade-dev | score: 100
-- [Magazine Luiza traz notebooks Dell com desconto e cupom de R$100 OFF para aproveitar; confira](https://www.tecmundo.com.br/guia-de-compras/411776-magazine-luiza-traz-notebooks-dell-com-desconto-e-cupom-de-r100-off-para-aproveitar-confira.htm) | topico: geral | score: 100
-- [WhatsApp pode ganhar tradução em tempo real de mensagens, revela site](https://www.tecmundo.com.br/software/411774-whatsapp-pode-ganhar-traducao-em-tempo-real-de-mensagens-revela-site.htm) | topico: infra-ia | score: 100
-- [Riot Games bloqueou LoL no Brasil porque quis, diz Felca sobre ECA Digital](https://www.tecmundo.com.br/voxel/503832-riot-games-bloqueou-lol-no-brasil-porque-quis-diz-felca-sobre-eca-digital.htm) | topico: geral | score: 100
-- [Lenda dos filmes de ação, Chuck Norris morre aos 86 anos](https://www.tecmundo.com.br/minha-serie/603440-lenda-dos-filmes-de-acao-chuck-norris-morre-aos-86-anos.htm) | topico: geral | score: 100
-- [Procurando uma câmera veicular? Confira modelos DDPAI com até 58% OFF e cupons de até R$100](https://www.tecmundo.com.br/guia-de-compras/411772-procurando-uma-camera-veicular-confira-modelos-ddpai-com-ate-58-off-e-cupons-de-ate-r100.htm) | topico: produtividade-dev | score: 100
-- [Perplexity Health é o novo serviço de IA para tirar dúvidas sobre saúde](https://www.tecmundo.com.br/produto/411773-perplexity-health-e-o-novo-servico-de-ia-para-tirar-duvidas-sobre-saude.htm) | topico: llms | score: 100
-- [Cade mantém medida que impede Itaú de recusar operações em carteiras digitais](https://www.tecmundo.com.br/mercado/411769-cade-mantem-medida-que-impede-itau-de-recusar-operacoes-em-carteiras-digitais.htm) | topico: geral | score: 92
-- [Césio-137: A história real que inspirou Emergência Radioativa, nova série da Netflix](https://www.tecmundo.com.br/minha-serie/603435-cesio-137-a-historia-real-que-inspirou-emergencia-radioativa-nova-serie-da-netflix.htm) | topico: geral | score: 100
-- [MiLi MiTag Go é boa? Smart tag barata por menos de R$ 50 tem avaliação 4,7](https://www.tecmundo.com.br/guia-de-compras/411758-mili-mitag-go-e-boa-smart-tag-barata-por-menos-de-r-50-tem-avaliacao-47.htm) | topico: geral | score: 100
+- [CEO do Pinterest pede proibição de redes sociais para jovens menores de 16 anos](https://g1.globo.com/tecnologia/noticia/2026/03/20/ceo-do-pinterest-pede-proibicao-de-redes-sociais-para-menores.ghtml) | topico: geral | score: 100
+- [Receita Federal libera programas do Imposto de Renda 2026 (IRPF)](https://tecnoblog.net/noticias/receita-federal-libera-programas-do-imposto-de-renda-2026-irpf/) | topico: geral | score: 100
+- [Fire Phone de volta? Amazon pode lançar um novo celular](https://tecnoblog.net/noticias/fire-phone-de-volta-amazon-pode-lancar-um-novo-celular/) | topico: produtividade-dev | score: 100
+- [Galaxy Z Flip 7 FE tem menor preço histórico em promoção no Magalu com 55% OFF](https://tecnoblog.net/achados/galaxy-z-flip-7-fe-tem-menor-preco-historico-em-promocao-no-magalu-com-55-off/) | topico: geral | score: 92
+- [Para que serve a porta na parte de baixo do controle do Xbox?](https://canaltech.com.br/games/para-que-serve-a-porta-na-parte-de-baixo-do-controle-do-xbox/) | topico: geral | score: 100
+- [Quanto você economiza trazendo AirPods do Paraguai? Nós fizemos as contas](https://canaltech.com.br/fone-de-ouvido/quanto-voce-economiza-trazendo-airpods-do-paraguai-nos-fizemos-as-contas/) | topico: produtividade-dev | score: 92
+- [Quem é quem no filme de Street Fighter e por que o elenco é tão inusitado](https://canaltech.com.br/entretenimento/quem-e-quem-no-filme-de-street-fighter-e-por-que-o-elenco-e-tao-inusitado/) | topico: geral | score: 100
+- [Dedo duro? Spotify vai "entregar" amigo que não ouvir música que você mandou](https://canaltech.com.br/apps/dedo-duro-spotify-vai-entregar-amigo-que-nao-ouvir-musica-que-voce-mandou/) | topico: agentes | score: 92
+- [iPhone 16 está com preço no chão no Magalu; promoção da Apple em 12x sem juros](https://canaltech.com.br/smartphone/iphone-16-esta-com-preco-no-chao-no-magalu-promocao-da-apple-em-12x-sem-juros/) | topico: geral | score: 100
+- [Pesadelo da Fiat Toro? BYD testa no Brasil sua futura picape híbrida](https://canaltech.com.br/carros/pesadelo-da-fiat-toro-byd-testa-no-brasil-sua-futura-picape-hibrida/) | topico: geral | score: 100
+- [Sonic 4: O Filme ganha primeiro teaser com retorno de Jim Carrey](https://canaltech.com.br/entretenimento/sonic-4-o-filme-ganha-primeiro-teaser-com-retorno-de-jim-carrey/) | topico: geral | score: 100
+- [Celular misterioso da Motorola ganha autorização para venda no Brasil](https://canaltech.com.br/smartphone/celular-misterioso-da-motorola-ganha-autorizacao-para-venda-no-brasil/) | topico: geral | score: 100
+- [Crystal Dynamics passa por nova demissão em massa, mas garante Tomb Raider](https://canaltech.com.br/games/crystal-dynamics-passa-por-nova-demissao-em-massa-mas-garante-tomb-raider/) | topico: geral | score: 100
+- [Amazon planeja volta ao mercado de celulares com o projeto Transformer](https://canaltech.com.br/smartphone/amazon-planeja-volta-ao-mercado-de-celulares-com-o-projeto-transformer/) | topico: geral | score: 100
+- [Meta lança assistente de suporte com IA para Facebook e Instagram](https://www.tecmundo.com.br/redes-sociais/411782-meta-lanca-assistente-de-suporte-com-ia-para-facebook-e-instagram.htm) | topico: seguranca-ia | score: 100
+- [Centauro lança outlet com descontos em Nike, Adidas e outras marcas](https://www.tecmundo.com.br/guia-de-compras/411783-centauro-lanca-outlet-com-descontos-em-nike-adidas-e-outras-marcas.htm) | topico: produtividade-dev | score: 100
+- [Crimson Desert não roda em placas de vídeo Intel e frustra jogadores](https://www.tecmundo.com.br/voxel/503836-crimson-desert-nao-roda-em-placas-de-video-intel-e-frustra-jogadores.htm) | topico: geral | score: 100
+- [Grande atualização do Google Stitch torna o vibe coding de interfaces ainda mais fácil](https://www.tecmundo.com.br/produto/411778-grande-atualizacao-do-google-stitch-torna-o-vibe-coding-de-interfaces-ainda-mais-facil.htm) | topico: agentes | score: 100
+- [Amazon deve lançar novo smartphone com Alexa e focado em compras](https://www.tecmundo.com.br/produto/411775-amazon-deve-lancar-novo-smartphone-com-alexa-e-focado-em-compras.htm) | topico: geral | score: 100
+- [O Senhor dos Anéis: box da trilogia entra em promoção junto com outros livros](https://www.tecmundo.com.br/guia-de-compras/411784-o-senhor-dos-aneis-box-da-trilogia-entra-em-promocao-junto-com-outros-livros.htm) | topico: agentes | score: 100
+- [Invencível Temporada 4 tem quantos episódios? Veja calendário de lançamento](https://www.tecmundo.com.br/minha-serie/603432-invencivel-temporada-4-tem-quantos-episodios-veja-calendario-de-lancamento.htm) | topico: geral | score: 100
