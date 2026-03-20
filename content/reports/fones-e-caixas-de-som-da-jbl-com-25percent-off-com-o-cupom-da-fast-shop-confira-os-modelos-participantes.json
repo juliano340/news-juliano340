@@ -1,6 +1,6 @@
 {
-  "slug": "o-que-e-backdoor-em-computacao-saiba-como-a-vulnerabilidade-funciona-e-os-riscos",
-  "generated_at": "2026-03-20T19:02:38.895Z",
+  "slug": "fones-e-caixas-de-som-da-jbl-com-25percent-off-com-o-cupom-da-fast-shop-confira-os-modelos-participantes",
+  "generated_at": "2026-03-20T19:08:09.392Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 310,
+      "words": 360,
       "min": 220
     },
     {

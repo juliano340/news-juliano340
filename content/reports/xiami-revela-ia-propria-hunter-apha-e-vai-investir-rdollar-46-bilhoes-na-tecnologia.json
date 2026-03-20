@@ -1,6 +1,6 @@
 {
-  "slug": "o-que-e-backdoor-em-computacao-saiba-como-a-vulnerabilidade-funciona-e-os-riscos",
-  "generated_at": "2026-03-20T19:02:38.895Z",
+  "slug": "xiami-revela-ia-propria-hunter-apha-e-vai-investir-rdollar-46-bilhoes-na-tecnologia",
+  "generated_at": "2026-03-20T19:07:45.616Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 310,
+      "words": 250,
       "min": 220
     },
     {
