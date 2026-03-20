@@ -1,52 +1,241 @@
 {
-  "generated_at": "2026-03-20T13:03:56.977Z",
+  "generated_at": "2026-03-20T15:17:22.056Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 26,
   "posts": [
     {
-      "title": "Crimson Desert estreia com sucesso na Steam, mas recebe reviews mistas de jogadores",
-      "slug": "crimson-desert-estreia-com-sucesso-na-steam-mas-recebe-reviews-mistas-de-jogadores",
+      "title": "Google Stitch agora pode criar interfaces por comandos de voz",
+      "slug": "google-stitch-agora-pode-criar-interfaces-por-comandos-de-voz",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T14:50:14.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/google-lanca-ia-que-cria-interfaces-por-comandos-de-voz/"
+    },
+    {
+      "title": "Motorola homologa celular misterioso no Brasil",
+      "slug": "motorola-homologa-celular-misterioso-no-brasil",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T14:05:18.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/motorola-homologa-celular-misterioso-no-brasil/"
+    },
+    {
+      "title": "iPhone 16 tem 45% OFF em oferta por até 12x sem juros no AliExpress",
+      "slug": "iphone-16-tem-45percent-off-em-oferta-por-ate-12x-sem-juros-no-aliexpress",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T13:59:25.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/iphone-16-tem-45-off-em-oferta-por-ate-12x-sem-juros-no-aliexpress/"
+    },
+    {
+      "title": "Onde fica a lixeira do celular? Saiba encontrar arquivos apagados no iPhone ou Android",
+      "slug": "onde-fica-a-lixeira-do-celular-saiba-encontrar-arquivos-apagados-no-iphone-ou-android",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T13:57:24.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/onde-fica-a-lixeira-do-celular-saiba-encontrar-arquivos-apagados-no-iphone-ou-android/"
+    },
+    {
+      "title": "AirPods Max 2 passam pela Anatel e venda no Brasil deve começar em breve",
+      "slug": "airpods-max-2-passam-pela-anatel-e-venda-no-brasil-deve-comecar-em-breve",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T13:09:40.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/airpods-max-2-passam-pela-anatel-e-venda-no-brasil-deve-comecar-em-breve/"
+    },
+    {
+      "title": "Instagram e TikTok afetam mais a saúde mental que o WhatsApp, diz estudo",
+      "slug": "instagram-e-tiktok-afetam-mais-a-saude-mental-que-o-whatsapp-diz-estudo",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T13:07:54.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/instagram-e-tiktok-afetam-mais-a-saude-mental-que-o-whatsapp-diz-estudo/"
+    },
+    {
+      "title": "Outono 2026: entenda como a inclinação da Terra define as estações do ano",
+      "slug": "outono-2026-entenda-como-a-inclinacao-da-terra-define-as-estacoes-do-ano",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-20T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/espaco/outono-2026-entenda-como-a-inclinacao-da-terra-define-as-estacoes-do-ano/"
+    },
+    {
+      "title": "Tecnologia da Intel promete acabar com uma das maiores chatices dos games no PC",
+      "slug": "tecnologia-da-intel-promete-acabar-com-uma-das-maiores-chatices-dos-games-no-pc",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T14:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/tecnologia-da-intel-promete-acabar-com-uma-das-maiores-chatices-dos-games-no-pc/"
+    },
+    {
+      "title": "Novo Xiaomi tem bateria e tela generosa por menos de R$ 840; veja os detalhes",
+      "slug": "novo-xiaomi-tem-bateria-e-tela-generosa-por-menos-de-rdollar-840-veja-os-detalhes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T14:32:01.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/novo-xiaomi-tem-bateria-e-tela-generosa-por-menos-de-r-840-veja-os-detalhes/"
+    },
+    {
+      "title": "Polêmica: FBI assume que compra dados para rastrear pessoas",
+      "slug": "polemica-fbi-assume-que-compra-dados-para-rastrear-pessoas",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T14:20:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/seguranca/polemica-fbi-assume-que-compra-dados-para-rastrear-pessoas/"
+    },
+    {
+      "title": "Google volta atrás e desiste de mudança que chateava usuários de Android",
+      "slug": "google-volta-atras-e-desiste-de-mudanca-que-chateava-usuarios-de-android",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T13:58:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/apps/google-volta-atras-e-desiste-de-mudanca-que-chateava-usuarios-de-android/"
+    },
+    {
+      "title": "Xiaomi vende 15 mil carros em 30 minutos e assombra rivais",
+      "slug": "xiaomi-vende-15-mil-carros-em-30-minutos-e-assombra-rivais",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-20T13:55:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/xiaomi-vende-15-mil-carros-em-30-minutos-e-assombra-rivais/"
+    },
+    {
+      "title": "Celulares Samsung Galaxy ganharão recurso que era exclusivo dos iPhones",
+      "slug": "celulares-samsung-galaxy-ganharao-recurso-que-era-exclusivo-dos-iphones",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-20T13:11:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/celulares-samsung-galaxy-ganharao-recurso-que-era-exclusivo-dos-iphones/"
+    },
+    {
+      "title": "Galaxy S26 Ultra será usado nas filmagens da transmissão oficial do Lollapalooza",
+      "slug": "galaxy-s26-ultra-sera-usado-nas-filmagens-da-transmissao-oficial-do-lollapalooza",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T13:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/galaxy-s26-ultra-sera-usado-nas-filmagens-da-transmissao-oficial-do-lollapalooza/"
+    },
+    {
+      "title": "Samsung vai pagar R$ 1.048 de indenização para donos do Galaxy S22; entenda",
+      "slug": "samsung-vai-pagar-rdollar-1048-de-indenizacao-para-donos-do-galaxy-s22-entenda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T12:57:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/samsung-vai-pagar-indenizacao-para-donos-do-galaxy-s22-entenda-o-caso/"
+    },
+    {
+      "title": "China aprova \"chip cerebral\" que devolve movimentos a pacientes com paralisia",
+      "slug": "china-aprova-chip-cerebral-que-devolve-movimentos-a-pacientes-com-paralisia",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-20T12:45:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/ciencia/china-aprova-chip-cerebral-que-devolve-movimentos-a-pacientes-com-paralisia/"
+    },
+    {
+      "title": "Magazine Luiza traz notebooks Dell com desconto e cupom de R$100 OFF para aproveitar; confira",
+      "slug": "magazine-luiza-traz-notebooks-dell-com-desconto-e-cupom-de-rdollar100-off-para-aproveitar-confira",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-20T12:19:45.000Z",
+      "date": "2026-03-20T15:06:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503831-crimson-desert-estreia-com-sucesso-na-steam-mas-recebe-reviews-mistas-de-jogadores.htm"
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411776-magazine-luiza-traz-notebooks-dell-com-desconto-e-cupom-de-r100-off-para-aproveitar-confira.htm"
     },
     {
-      "title": "Meta recua e não vai descontinuar metaverso Horizons Worlds para VR",
-      "slug": "meta-recua-e-nao-vai-descontinuar-metaverso-horizons-worlds-para-vr",
+      "title": "WhatsApp pode ganhar tradução em tempo real de mensagens, revela site",
+      "slug": "whatsapp-pode-ganhar-traducao-em-tempo-real-de-mensagens-revela-site",
+      "topic": "infra-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-20T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/software/411774-whatsapp-pode-ganhar-traducao-em-tempo-real-de-mensagens-revela-site.htm"
+    },
+    {
+      "title": "Riot Games bloqueou LoL no Brasil porque quis, diz Felca sobre ECA Digital",
+      "slug": "riot-games-bloqueou-lol-no-brasil-porque-quis-diz-felca-sobre-eca-digital",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-20T12:00:00.000Z",
+      "date": "2026-03-20T14:50:29.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411766-meta-recua-e-nao-vai-descontinuar-metaverso-horizons-worlds-para-vr.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503832-riot-games-bloqueou-lol-no-brasil-porque-quis-diz-felca-sobre-eca-digital.htm"
     },
     {
-      "title": "Das telas aos palcos: conheça os artistas do Lollapalooza 2026 que também atuam",
-      "slug": "das-telas-aos-palcos-conheca-os-artistas-do-lollapalooza-2026-que-tambem-atuam",
+      "title": "Lenda dos filmes de ação, Chuck Norris morre aos 86 anos",
+      "slug": "lenda-dos-filmes-de-acao-chuck-norris-morre-aos-86-anos",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-20T11:15:00.000Z",
+      "date": "2026-03-20T14:16:37.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603405-das-telas-aos-palcos-conheca-os-artistas-do-lollapalooza-2026-que-tambem-atuam.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603440-lenda-dos-filmes-de-acao-chuck-norris-morre-aos-86-anos.htm"
     },
     {
-      "title": "Listagem confirma Galaxy S26 FE como próximo celular da Samsung",
-      "slug": "listagem-confirma-galaxy-s26-fe-como-proximo-celular-da-samsung",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-20T11:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/411764-listagem-confirma-galaxy-s26-fe-como-proximo-celular-da-samsung.htm"
-    },
-    {
-      "title": "Palpites para Fluminense x Atlético-MG: Análises e Onde Assistir (21/03/2026)",
-      "slug": "palpites-para-fluminense-x-atletico-mg-analises-e-onde-assistir-21032026",
+      "title": "Procurando uma câmera veicular? Confira modelos DDPAI com até 58% OFF e cupons de até R$100",
+      "slug": "procurando-uma-camera-veicular-confira-modelos-ddpai-com-ate-58percent-off-e-cupons-de-ate-rdollar100",
       "topic": "produtividade-dev",
       "source": "Tecmundo",
-      "date": "2026-03-20T11:00:00.000Z",
+      "date": "2026-03-20T14:06:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411772-procurando-uma-camera-veicular-confira-modelos-ddpai-com-ate-58-off-e-cupons-de-ate-r100.htm"
+    },
+    {
+      "title": "Perplexity Health é o novo serviço de IA para tirar dúvidas sobre saúde",
+      "slug": "perplexity-health-e-o-novo-servico-de-ia-para-tirar-duvidas-sobre-saude",
+      "topic": "llms",
+      "source": "Tecmundo",
+      "date": "2026-03-20T14:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/produto/411773-perplexity-health-e-o-novo-servico-de-ia-para-tirar-duvidas-sobre-saude.htm"
+    },
+    {
+      "title": "Cade mantém medida que impede Itaú de recusar operações em carteiras digitais",
+      "slug": "cade-mantem-medida-que-impede-itau-de-recusar-operacoes-em-carteiras-digitais",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-20T13:30:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/apostas/411754-palpites-para-fluminense-x-atletico-mg-analises-e-onde-assistir-21032026.htm"
+      "original_url": "https://www.tecmundo.com.br/mercado/411769-cade-mantem-medida-que-impede-itau-de-recusar-operacoes-em-carteiras-digitais.htm"
+    },
+    {
+      "title": "Césio-137: A história real que inspirou Emergência Radioativa, nova série da Netflix",
+      "slug": "cesio-137-a-historia-real-que-inspirou-emergencia-radioativa-nova-serie-da-netflix",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-20T13:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603435-cesio-137-a-historia-real-que-inspirou-emergencia-radioativa-nova-serie-da-netflix.htm"
+    },
+    {
+      "title": "MiLi MiTag Go é boa? Smart tag barata por menos de R$ 50 tem avaliação 4,7",
+      "slug": "mili-mitag-go-e-boa-smart-tag-barata-por-menos-de-rdollar-50-tem-avaliacao-47",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-20T13:09:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411758-mili-mitag-go-e-boa-smart-tag-barata-por-menos-de-r-50-tem-avaliacao-47.htm"
+    },
+    {
+      "title": "Startup une IA a 'sexto sentido' de morcego e projeta faturar R$ 600 mi",
+      "slug": "startup-une-ia-a-sexto-sentido-de-morcego-e-projeta-faturar-rdollar-600-mi",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-20T14:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/03/20/startup-une-ia-a-sexto-sentido-de-morcegos-e-projeta-faturar-r-600-mi.htm"
     }
   ]
 }
