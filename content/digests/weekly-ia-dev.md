@@ -1,5 +1,6 @@
 # Weekly IA para Devs - 2026-03-20
 
-Gerado em 2026-03-20T07:01:19.862Z
+Gerado em 2026-03-20T09:02:24.747Z
 
-- [Como funciona o robô humanoide projetado para identificar alvos e usar armas em guerras](https://g1.globo.com/tecnologia/noticia/2026/03/20/como-funciona-o-robo-humanoide-projetado-para-identificar-alvos-e-usar-armas.ghtml) | topico: geral | score: 100
+- [Favoritos da Copa do Mundo 2026: quem chega mais forte](https://www.tecmundo.com.br/apostas/411724-favoritos-da-copa-do-mundo-2026-quem-chega-mais-forte.htm) | topico: seguranca-ia | score: 92
+- [Qual é a fase da Lua hoje (20)? Veja calendário lunar de março de 2026](https://www.uol.com.br/tilt/noticias/redacao/2026/03/20/qual-e-a-fase-da-lua-hoje-20-veja-calendario-lunar-de-marco-de-2026.htm) | topico: geral | score: 100
