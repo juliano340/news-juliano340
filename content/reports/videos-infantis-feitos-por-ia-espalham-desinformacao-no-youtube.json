@@ -1,6 +1,6 @@
 {
-  "slug": "netflix-e-warner-music-fecham-acordo-para-documentarios-de-artistas",
-  "generated_at": "2026-03-20T21:07:46.550Z",
+  "slug": "videos-infantis-feitos-por-ia-espalham-desinformacao-no-youtube",
+  "generated_at": "2026-03-20T21:00:55.473Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 334,
+      "words": 293,
       "min": 220
     },
     {

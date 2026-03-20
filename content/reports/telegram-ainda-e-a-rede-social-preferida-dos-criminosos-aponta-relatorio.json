@@ -1,6 +1,6 @@
 {
-  "slug": "netflix-e-warner-music-fecham-acordo-para-documentarios-de-artistas",
-  "generated_at": "2026-03-20T21:07:46.550Z",
+  "slug": "telegram-ainda-e-a-rede-social-preferida-dos-criminosos-aponta-relatorio",
+  "generated_at": "2026-03-20T21:06:28.867Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 334,
+      "words": 366,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "netflix-e-warner-music-fecham-acordo-para-documentarios-de-artistas",
-  "generated_at": "2026-03-20T21:07:46.550Z",
+  "slug": "por-que-o-android-tera-espera-de-24h-para-instalar-apps-fora-da-play-store",
+  "generated_at": "2026-03-20T21:07:33.006Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 334,
+      "words": 295,
       "min": 220
     },
     {

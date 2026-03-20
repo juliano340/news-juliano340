@@ -1,6 +1,6 @@
 {
-  "slug": "netflix-e-warner-music-fecham-acordo-para-documentarios-de-artistas",
-  "generated_at": "2026-03-20T21:07:46.550Z",
+  "slug": "tiktok-comeca-a-testar-feed-atolado-de-videos-gerados-por-ia",
+  "generated_at": "2026-03-20T21:03:44.921Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 334,
+      "words": 264,
       "min": 220
     },
     {

@@ -1,250 +1,151 @@
 {
-  "generated_at": "2026-03-20T19:12:36.354Z",
+  "generated_at": "2026-03-20T21:07:47.554Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 27,
+  "total": 16,
   "posts": [
     {
-      "title": "Amazon planeja primeiro celular mais de 10 anos após tentativa frustrada com Fire Phone",
-      "slug": "amazon-planeja-primeiro-celular-mais-de-10-anos-apos-tentativa-frustrada-com-fire-phone",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-20T17:56:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/20/amazon-planeja-primeiro-celular-em-mais-de-10-anos-apos-tentativa-frustrada-com-fire-phone.ghtml"
-    },
-    {
-      "title": "Busca do Google reescreve títulos de notícias com IA e gera distorções",
-      "slug": "busca-do-google-reescreve-titulos-de-noticias-com-ia-e-gera-distorcoes",
-      "topic": "agentes",
+      "title": "Alemanha adota formatos abertos do ODF; LibreOffice comemora",
+      "slug": "alemanha-adota-formatos-abertos-do-odf-libreoffice-comemora",
+      "topic": "infra-ia",
       "source": "Tecnoblog",
-      "date": "2026-03-20T18:29:49.000Z",
+      "date": "2026-03-20T19:58:15.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/busca-do-google-reescreve-titulos-de-noticias-com-ia-e-gera-distorcoes/"
+      "original_url": "https://tecnoblog.net/noticias/alemanha-adota-formatos-abertos-do-odf-libreoffice-comemora/"
     },
     {
-      "title": "iPhone 17 (512 GB) tem mais de R$ 2 mil de desconto em oferta na Amazon",
-      "slug": "iphone-17-512-gb-tem-mais-de-rdollar-2-mil-de-desconto-em-oferta-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T18:29:02.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-512-gb-tem-mais-de-r-2-mil-de-desconto-em-oferta-na-amazon/"
-    },
-    {
-      "title": "O que é pharming? Entenda o funcionamento desse tipo de ataque cibernético",
-      "slug": "o-que-e-pharming-entenda-o-funcionamento-desse-tipo-de-ataque-cibernetico",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T17:44:44.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-pharming-entenda-o-funcionamento-desse-tipo-de-ataque-cibernetico/"
-    },
-    {
-      "title": "Nintendo Switch volta a receber 38% OFF em oferta no Mercado Livre",
-      "slug": "nintendo-switch-volta-a-receber-38percent-off-em-oferta-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T17:44:30.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/nintendo-switch-volta-a-receber-38-off-em-oferta-no-mercado-livre/"
-    },
-    {
-      "title": "OpenAI planeja superapp para PC com ChatGPT, Codex e Atlas",
-      "slug": "openai-planeja-superapp-para-pc-com-chatgpt-codex-e-atlas",
-      "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T17:42:19.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/openai-planeja-superapp-para-pc-com-chatgpt-codex-e-atlas/"
-    },
-    {
-      "title": "O que é backdoor em computação? Saiba como a vulnerabilidade funciona e os riscos",
-      "slug": "o-que-e-backdoor-em-computacao-saiba-como-a-vulnerabilidade-funciona-e-os-riscos",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T15:11:27.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-backdoor-em-computacao/"
-    },
-    {
-      "title": "Monitor ultrawide 34\" é bom para jogar? Veja quando vale",
-      "slug": "monitor-ultrawide-34-e-bom-para-jogar-veja-quando-vale",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/monitor-ultrawide-34-e-bom-para-jogar-veja-quando-vale/"
-    },
-    {
-      "title": "Chuck Norris: 5 filmes para relembrar a carreira do ícone de ação nos cinemas",
-      "slug": "chuck-norris-5-filmes-para-relembrar-a-carreira-do-icone-de-acao-nos-cinemas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T18:45:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/entretenimento/melhores-filmes-chuck-norris/"
-    },
-    {
-      "title": "Editor de vídeos grátis do Windows 11 agora faz exigência chata para o usuário",
-      "slug": "editor-de-videos-gratis-do-windows-11-agora-faz-exigencia-chata-para-o-usuario",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-20T18:35:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/editor-de-videos-gratis-do-windows-11-agora-faz-exigencia-chata-para-o-usuario/"
-    },
-    {
-      "title": "Radeon RX 7600 em 2026: ainda vale a pena para sair do vídeo integrado?",
-      "slug": "radeon-rx-7600-em-2026-ainda-vale-a-pena-para-sair-do-video-integrado",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T18:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/radeon-rx-7600-em-2026-ainda-vale-a-pena-para-sair-do-video-integrado/"
-    },
-    {
-      "title": "E se a IA flertar de volta? \"Modo adulto\" do ChatGPT preocupa especialistas",
-      "slug": "e-se-a-ia-flertar-de-volta-modo-adulto-do-chatgpt-preocupa-especialistas",
-      "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-03-20T18:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/e-se-a-ia-flertar-de-volta-modo-adulto-do-chatgpt-preocupa-especialistas/"
-    },
-    {
-      "title": "Rival da Starlink quer datacenters no espaço para poupar água e energia na Terra",
-      "slug": "rival-da-starlink-quer-datacenters-no-espaco-para-poupar-agua-e-energia-na-terra",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T18:02:25.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/telecom/rival-da-starlink-quer-datacenters-no-espaco-para-poupar-agua-e-energia-na-terra/"
-    },
-    {
-      "title": "Não é só elétrico: Volkswagen convoca recall de sedan por risco de incêndio",
-      "slug": "nao-e-so-eletrico-volkswagen-convoca-recall-de-sedan-por-risco-de-incendio",
-      "topic": "seguranca-ia",
-      "source": "Canaltech",
-      "date": "2026-03-20T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/nao-e-so-eletrico-volkswagen-convoca-recall-de-sedan-por-risco-de-incendio/"
-    },
-    {
-      "title": "Quanto você economiza trazendo um Switch 2 do Paraguai? Nós fizemos as contas",
-      "slug": "quanto-voce-economiza-trazendo-um-switch-2-do-paraguai-nos-fizemos-as-contas",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T18:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/games/quanto-voce-economiza-trazendo-um-switch-2-do-paraguai-nos-fizemos-as-contas/"
-    },
-    {
-      "title": "Não consegue usar VPN no Android 16? Descubra de quem é a culpa",
-      "slug": "nao-consegue-usar-vpn-no-android-16-descubra-de-quem-e-a-culpa",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-03-20T17:53:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/nao-consegue-usar-vpn-no-android-16-descubra-de-quem-e-a-culpa/"
-    },
-    {
-      "title": "‘Navegador para gamers’ da Opera enfim chega ao Linux; veja recursos disponíveis",
-      "slug": "navegador-para-gamers-da-opera-enfim-chega-ao-linux-veja-recursos-disponiveis",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T17:44:49.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/software/navegador-para-gamers-da-opera-enfim-chega-ao-linux-veja-recursos-disponiveis/"
-    },
-    {
-      "title": "Xiami revela IA própria 'Hunter Apha' e vai investir R$ 46 bilhões na tecnologia",
-      "slug": "xiami-revela-ia-propria-hunter-apha-e-vai-investir-rdollar-46-bilhoes-na-tecnologia",
-      "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-03-20T19:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411790-xiami-revela-ia-propria-hunter-apha-e-vai-investir-r-46-bilhoes-na-tecnologia.htm"
-    },
-    {
-      "title": "Fones e caixas de som da JBL com 25% OFF com o cupom da Fast Shop; confira os modelos participantes",
-      "slug": "fones-e-caixas-de-som-da-jbl-com-25percent-off-com-o-cupom-da-fast-shop-confira-os-modelos-participantes",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T18:53:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/guia-de-compras/411793-fones-e-caixas-de-som-da-jbl-com-25-off-com-o-cupom-da-fast-shop-confira-os-modelos-participantes.htm"
-    },
-    {
-      "title": "Adeus, Chuck Norris: Sylvester Stallone e mais atores prestam homenagem ao astro",
-      "slug": "adeus-chuck-norris-sylvester-stallone-e-mais-atores-prestam-homenagem-ao-astro",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T18:45:13.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603444-adeus-chuck-norris-sylvester-stallone-e-mais-atores-prestam-homenagem-ao-astro.htm"
-    },
-    {
-      "title": "Crimson Desert: Veja a lista e guia de troféus do jogo",
-      "slug": "crimson-desert-veja-a-lista-e-guia-de-trofeus-do-jogo",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T18:15:28.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503833-crimson-desert-veja-a-lista-e-guia-de-trofeus-do-jogo.htm"
-    },
-    {
-      "title": "Instagram caiu? Rede social apresenta instabilidade nesta sexta (20)",
-      "slug": "instagram-caiu-rede-social-apresenta-instabilidade-nesta-sexta-20",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T18:10:36.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/411791-instagram-caiu-rede-social-apresenta-instabilidade-nesta-sexta-20.htm"
-    },
-    {
-      "title": "Chuck Norris: astro de ação também era ícone da internet e 'rei' dos memes",
-      "slug": "chuck-norris-astro-de-acao-tambem-era-icone-da-internet-e-rei-dos-memes",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T18:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411786-chuck-norris-astro-de-acao-tambem-era-icone-da-internet-e-rei-dos-memes.htm"
-    },
-    {
-      "title": "5 tendências da tecnologia que estão mudando a forma como os estudantes se preparam para o futuro",
-      "slug": "5-tendencias-da-tecnologia-que-estao-mudando-a-forma-como-os-estudantes-se-preparam-para-o-futuro",
-      "topic": "agentes",
-      "source": "Tecmundo",
-      "date": "2026-03-20T17:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411789-5-tendencias-da-tecnologia-que-estao-mudando-a-forma-como-os-estudantes-se-preparam-para-o-futuro.htm"
-    },
-    {
-      "title": "Onde assistir o Lollapalooza 2026 online? Veja agenda de shows",
-      "slug": "onde-assistir-o-lollapalooza-2026-online-veja-agenda-de-shows",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T17:15:35.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603437-onde-assistir-o-lollapalooza-2026-online-veja-agenda-de-shows.htm"
-    },
-    {
-      "title": "Demanda da IA por dados pode causar escassez de drives de armazenamento, diz executivo",
-      "slug": "demanda-da-ia-por-dados-pode-causar-escassez-de-drives-de-armazenamento-diz-executivo",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-20T18:55:18.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/20/demanda-da-ia-por-dados-pode-causar-escassez-de-drives-de-armazenamento-diz-executivo.htm"
-    },
-    {
-      "title": "Presidente do Pinterest pede proibição de mídia social para jovens com menos de 16 anos",
-      "slug": "presidente-do-pinterest-pede-proibicao-de-midia-social-para-jovens-com-menos-de-16-anos",
+      "title": "Vídeos infantis feitos por IA espalham desinformação no YouTube",
+      "slug": "videos-infantis-feitos-por-ia-espalham-desinformacao-no-youtube",
       "topic": "produtividade-dev",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-20T18:40:49.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T19:37:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/20/presidente-do-pinterest-pede-proibicao-de-midia-social-para-jovens-com-menos-de-16-anos.htm"
+      "original_url": "https://tecnoblog.net/noticias/videos-infantis-feitos-por-ia-espalham-desinformacao-no-youtube/"
+    },
+    {
+      "title": "WhatsApp prepara tradução automática de mensagens no iPhone",
+      "slug": "whatsapp-prepara-traducao-automatica-de-mensagens-no-iphone",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-03-20T19:32:06.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/whatsapp-prepara-traducao-automatica-de-mensagens-no-iphone/"
+    },
+    {
+      "title": "McDonald’s lança brindes e cardápio especial inspirados em Super Mario Galaxy",
+      "slug": "mcdonalds-lanca-brindes-e-cardapio-especial-inspirados-em-super-mario-galaxy",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T20:56:25.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/mcdonalds-lanca-brindes-e-cardapio-especial-inspirados-em-super-mario-galaxy/"
+    },
+    {
+      "title": "Sea of Thieves e mais jogos grátis para você curtir no fim de semana",
+      "slug": "sea-of-thieves-e-mais-jogos-gratis-para-voce-curtir-no-fim-de-semana",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T20:23:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/games/sea-of-thieves-e-mais-jogos-gratis-para-voce-curtir-no-fim-de-semana/"
+    },
+    {
+      "title": "Fiat derruba preços para fazer do Mobi o carro mais barato do Brasil",
+      "slug": "fiat-derruba-precos-para-fazer-do-mobi-o-carro-mais-barato-do-brasil",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/fiat-derruba-precos-para-fazer-do-mobi-o-carro-mais-barato-do-brasil/"
+    },
+    {
+      "title": "6 HQs que podem inspirar Homem-Aranha: Um Novo Dia",
+      "slug": "6-hqs-que-podem-inspirar-homem-aranha-um-novo-dia",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/hqs-que-podem-inspirar-homem-aranha-um-novo-dia/"
+    },
+    {
+      "title": "TikTok começa a testar feed atolado de vídeos gerados por IA",
+      "slug": "tiktok-comeca-a-testar-feed-atolado-de-videos-gerados-por-ia",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-03-20T19:42:47.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/apps/tiktok-comeca-a-testar-feed-atolado-de-videos-gerados-por-ia/"
+    },
+    {
+      "title": "8 artistas e atores que “voltaram dos mortos” em filmes, shows e videoclipes",
+      "slug": "8-artistas-e-atores-que-voltaram-dos-mortos-em-filmes-shows-e-videoclipes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-03-20T19:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/artistas-atores-ressuscitados-em-filmes-shows-videoclipes/"
+    },
+    {
+      "title": "China cria robô que te transforma humanos em 'centauros tecnológicos'",
+      "slug": "china-cria-robo-que-te-transforma-humanos-em-centauros-tecnologicos",
+      "topic": "seguranca-ia",
+      "source": "Tecmundo",
+      "date": "2026-03-20T21:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/internet/411795-china-cria-robo-que-te-transforma-humanos-em-centauros-tecnologicos.htm"
+    },
+    {
+      "title": "IA e carreira: o risco de um trabalho sem aprendizado",
+      "slug": "ia-e-carreira-o-risco-de-um-trabalho-sem-aprendizado",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-20T20:50:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/411808-ia-e-carreira-o-risco-de-um-trabalho-sem-aprendizado.htm"
+    },
+    {
+      "title": "Telegram ainda é a rede social preferida dos criminosos, aponta relatório",
+      "slug": "telegram-ainda-e-a-rede-social-preferida-dos-criminosos-aponta-relatorio",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-20T20:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411768-telegram-ainda-e-a-rede-social-preferida-dos-criminosos-aponta-relatorio.htm"
+    },
+    {
+      "title": "Windows 11 não terá mais atualizações forçadas e faz mudança na barra de tarefas",
+      "slug": "windows-11-nao-tera-mais-atualizacoes-forcadas-e-faz-mudanca-na-barra-de-tarefas",
+      "topic": "produtividade-dev",
+      "source": "Tecmundo",
+      "date": "2026-03-20T20:20:00.000Z",
+      "editorial_score": 85,
+      "original_url": "https://www.tecmundo.com.br/produto/411803-windows-11-nao-tera-mais-atualizacoes-forcadas-e-faz-mudanca-na-barra-de-tarefas.htm"
+    },
+    {
+      "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (20)",
+      "slug": "steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-20",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-20T20:15:08.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/503835-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-e-resgate-20.htm"
+    },
+    {
+      "title": "Por que o Android terá espera de 24h para instalar apps fora da Play Store?",
+      "slug": "por-que-o-android-tera-espera-de-24h-para-instalar-apps-fora-da-play-store",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-03-20T19:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/seguranca/411781-por-que-o-android-tera-espera-de-24h-para-instalar-apps-fora-da-play-store.htm"
+    },
+    {
+      "title": "Netflix e Warner Music fecham acordo para documentários de artistas",
+      "slug": "netflix-e-warner-music-fecham-acordo-para-documentarios-de-artistas",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-03-20T18:03:32.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/20/netflix-e-warner-music-fecham-acordo-para-documentarios-de-artistas.htm"
     }
   ]
 }
