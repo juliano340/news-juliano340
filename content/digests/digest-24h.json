@@ -1,115 +1,52 @@
 {
-  "generated_at": "2026-03-19T23:07:34.718Z",
+  "generated_at": "2026-03-20T01:02:00.687Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 12,
+  "total": 5,
   "posts": [
     {
-      "title": "Meta vai começar a trocar moderadores terceirizados por IA",
-      "slug": "meta-vai-comecar-a-trocar-moderadores-terceirizados-por-ia",
+      "title": "Moto G86 5G (512 GB) fica 43% mais barato em oferta na Amazon",
+      "slug": "moto-g86-5g-512-gb-fica-43percent-mais-barato-em-oferta-na-amazon",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-03-19T21:45:21.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/meta-vai-comecar-a-trocar-moderadores-terceirizados-por-ia/"
-    },
-    {
-      "title": "Google nega impacto da IA no tráfego de notícias no Brasil",
-      "slug": "google-nega-impacto-da-ia-no-trafego-de-noticias-no-brasil",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-03-19T21:01:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-nega-impacto-da-ia-no-trafego-de-noticias-no-brasil/"
-    },
-    {
-      "title": "iPhone 15 (512 GB) atinge menor preço registrado: 48% OFF cupom no Mercado Livre",
-      "slug": "iphone-15-512-gb-atinge-menor-preco-registrado-48percent-off-cupom-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-19T19:39:45.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/iphone-15-512-gb-atinge-menor-preco-registrado-48-off-cupom-no-mercado-livre/"
-    },
-    {
-      "title": "Para inovar é preciso captar investimento? Nem sempre (ou quase nunca)",
-      "slug": "para-inovar-e-preciso-captar-investimento-nem-sempre-ou-quase-nunca",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T23:00:00.000Z",
+      "date": "2026-03-19T21:30:07.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/mercado/411718-para-inovar-e-preciso-captar-investimento-nem-sempre-ou-quase-nunca.htm"
+      "original_url": "https://tecnoblog.net/achados/moto-g86-5g-512-gb-fica-43-mais-barato-em-oferta-na-amazon/"
     },
     {
-      "title": "Emergência Radioativa tem quantos episódios? Veja tempo para maratonar série brasileira",
-      "slug": "emergencia-radioativa-tem-quantos-episodios-veja-tempo-para-maratonar-serie-brasileira",
+      "title": "Falha no Ubuntu abre caminho para acesso total sem interação do usuário",
+      "slug": "falha-no-ubuntu-abre-caminho-para-acesso-total-sem-interacao-do-usuario",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T22:45:11.000Z",
+      "date": "2026-03-19T23:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603433-emergencia-radioativa-tem-quantos-episodios-veja-tempo-para-maratonar-serie-brasileira.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/411761-falha-no-ubuntu-abre-caminho-para-acesso-total-sem-interacao-do-usuario.htm"
     },
     {
-      "title": "The Last of Us Part II e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
-      "slug": "the-last-of-us-part-ii-e-mais-jogos-para-ps4-e-ps5-com-ate-90percent-off-na-ps-store",
+      "title": "Ubisoft realiza demissão em massa e fecha estúdio",
+      "slug": "ubisoft-realiza-demissao-em-massa-e-fecha-estudio",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-03-19T22:30:00.000Z",
+      "date": "2026-03-19T23:15:57.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503829-the-last-of-us-part-ii-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store.htm"
+      "original_url": "https://www.tecmundo.com.br/voxel/503828-ubisoft-realiza-demissao-em-massa-e-fecha-estudio.htm"
     },
     {
-      "title": "Criminosos exploram seis falhas no iOS para invadir iPhones e roubar dados",
-      "slug": "criminosos-exploram-seis-falhas-no-ios-para-invadir-iphones-e-roubar-dados",
-      "topic": "geral",
+      "title": "'Alien.gov': EUA registram domínios para arquivos sobre ETs",
+      "slug": "aliengov-eua-registram-dominios-para-arquivos-sobre-ets",
+      "topic": "seguranca-ia",
       "source": "Tecmundo",
-      "date": "2026-03-19T22:15:00.000Z",
+      "date": "2026-03-19T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411757-criminosos-exploram-seis-falhas-no-ios-para-invadir-iphones-e-roubar-dados.htm"
+      "original_url": "https://www.tecmundo.com.br/internet/411759-aliengov-eua-registram-dominios-para-arquivos-sobre-ets.htm"
     },
     {
-      "title": "Falso aplicativo de IPTV para Android rouba dados pessoais e bancários",
-      "slug": "falso-aplicativo-de-iptv-para-android-rouba-dados-pessoais-e-bancarios",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T21:45:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411753-falso-aplicativo-de-iptv-para-android-rouba-dados-pessoais-e-bancarios.htm"
-    },
-    {
-      "title": "Android vai exigir espera de até 24 horas para instalar apps via sideloading",
-      "slug": "android-vai-exigir-espera-de-ate-24-horas-para-instalar-apps-via-sideloading",
-      "topic": "produtividade-dev",
-      "source": "Tecmundo",
-      "date": "2026-03-19T21:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/411763-android-vai-exigir-espera-de-ate-24-horas-para-instalar-apps-via-sideloading.htm"
-    },
-    {
-      "title": "Governo dos Estados Unidos emite alerta após ataque cibernético contra Big Tech",
-      "slug": "governo-dos-estados-unidos-emite-alerta-apos-ataque-cibernetico-contra-big-tech",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T21:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411730-governo-dos-estados-unidos-emite-alerta-apos-ataque-cibernetico-contra-big-tech.htm"
-    },
-    {
-      "title": "Após anos de Walking Dead, Steven Yeun retorna para clima de apocalipse em Invencível",
-      "slug": "apos-anos-de-walking-dead-steven-yeun-retorna-para-clima-de-apocalipse-em-invencivel",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T21:15:17.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603434-apos-anos-de-walking-dead-steven-yeun-retorna-para-clima-de-apocalipse-em-invencivel.htm"
-    },
-    {
-      "title": "Jeff Bezos quer levantar US$100 bi para renovar empresas de manufatura com IA, diz WSJ",
-      "slug": "jeff-bezos-quer-levantar-usdollar100-bi-para-renovar-empresas-de-manufatura-com-ia-diz-wsj",
+      "title": "Nvidia venderá 1 milhão de chips para Amazon até o final de 2027",
+      "slug": "nvidia-vendera-1-milhao-de-chips-para-amazon-ate-o-final-de-2027",
       "topic": "geral",
       "source": "UOL Tecnologia",
-      "date": "2026-03-19T21:24:41.000Z",
+      "date": "2026-03-19T23:21:04.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/jeff-bezos-quer-levantar-us100-bi-para-renovar-empresas-de-manufatura-com-ia-diz-wsj.htm"
+      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/nvidia-vendera-1-milhao-de-chips-para-amazon-ate-o-final-de-2027.htm"
     }
   ]
 }

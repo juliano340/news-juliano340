@@ -1,7 +1,7 @@
 {
-  "slug": "moto-g86-5g-512-gb-fica-43percent-mais-barato-em-oferta-na-amazon",
-  "generated_at": "2026-03-20T01:00:17.825Z",
-  "status": "WARN",
+  "slug": "falha-no-ubuntu-abre-caminho-para-acesso-total-sem-interacao-do-usuario",
+  "generated_at": "2026-03-20T01:00:34.654Z",
+  "status": "PASS",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 4
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 270,
+      "words": 348,
       "min": 220
     },
     {
@@ -84,18 +84,16 @@
     },
     {
       "id": "internal_links",
-      "status": "FAIL",
+      "status": "PASS",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 1,
+      "links": 3,
       "min": 3
     }
   ],
-  "warnings": [
-    "poucos_links_internos"
-  ],
+  "warnings": [],
   "errors": [],
-  "score": 92,
+  "score": 100,
   "metadata": {
     "status": "PASS",
     "checks": [
