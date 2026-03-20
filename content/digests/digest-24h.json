@@ -1,52 +1,16 @@
 {
-  "generated_at": "2026-03-20T01:02:00.687Z",
+  "generated_at": "2026-03-20T07:01:19.862Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 5,
+  "total": 1,
   "posts": [
     {
-      "title": "Moto G86 5G (512 GB) fica 43% mais barato em oferta na Amazon",
-      "slug": "moto-g86-5g-512-gb-fica-43percent-mais-barato-em-oferta-na-amazon",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-19T21:30:07.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/moto-g86-5g-512-gb-fica-43-mais-barato-em-oferta-na-amazon/"
-    },
-    {
-      "title": "Falha no Ubuntu abre caminho para acesso total sem interação do usuário",
-      "slug": "falha-no-ubuntu-abre-caminho-para-acesso-total-sem-interacao-do-usuario",
+      "title": "Como funciona o robô humanoide projetado para identificar alvos e usar armas em guerras",
+      "slug": "como-funciona-o-robo-humanoide-projetado-para-identificar-alvos-e-usar-armas-em-guerras",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T23:30:00.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-03-20T06:00:35.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411761-falha-no-ubuntu-abre-caminho-para-acesso-total-sem-interacao-do-usuario.htm"
-    },
-    {
-      "title": "Ubisoft realiza demissão em massa e fecha estúdio",
-      "slug": "ubisoft-realiza-demissao-em-massa-e-fecha-estudio",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-19T23:15:57.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503828-ubisoft-realiza-demissao-em-massa-e-fecha-estudio.htm"
-    },
-    {
-      "title": "'Alien.gov': EUA registram domínios para arquivos sobre ETs",
-      "slug": "aliengov-eua-registram-dominios-para-arquivos-sobre-ets",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-19T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411759-aliengov-eua-registram-dominios-para-arquivos-sobre-ets.htm"
-    },
-    {
-      "title": "Nvidia venderá 1 milhão de chips para Amazon até o final de 2027",
-      "slug": "nvidia-vendera-1-milhao-de-chips-para-amazon-ate-o-final-de-2027",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-03-19T23:21:04.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/noticias/reuters/2026/03/19/nvidia-vendera-1-milhao-de-chips-para-amazon-ate-o-final-de-2027.htm"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/20/como-funciona-o-robo-humanoide-projetado-para-identificar-alvos-e-usar-armas.ghtml"
     }
   ]
 }
