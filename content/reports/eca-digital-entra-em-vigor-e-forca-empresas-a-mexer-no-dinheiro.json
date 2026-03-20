@@ -1,6 +1,6 @@
 {
-  "slug": "palpites-para-sao-paulo-x-palmeiras-analises-e-onde-assistir-21032026",
-  "generated_at": "2026-03-20T11:03:24.747Z",
+  "slug": "eca-digital-entra-em-vigor-e-forca-empresas-a-mexer-no-dinheiro",
+  "generated_at": "2026-03-20T11:01:10.087Z",
   "status": "WARN",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 3
+      "bullets": 5
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 273,
+      "words": 496,
       "min": 220
     },
     {
@@ -87,7 +87,7 @@
       "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 0,
+      "links": 2,
       "min": 3
     }
   ],
