@@ -1,6 +1,6 @@
 {
-  "slug": "smart-tv-samsung-oled-de-55-esta-com-34percent-de-desconto-no-mercado-livre",
-  "generated_at": "2026-03-21T01:01:01.069Z",
+  "slug": "trailer-de-homem-aranha-um-novo-dia-supera-recorde-de-gta-6",
+  "generated_at": "2026-03-21T01:01:47.109Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 321,
+      "words": 335,
       "min": 220
     },
     {

@@ -1,169 +1,25 @@
 {
-  "generated_at": "2026-03-20T23:20:21.333Z",
+  "generated_at": "2026-03-21T01:02:03.838Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 18,
+  "total": 2,
   "posts": [
     {
-      "title": "Elon Musk enganou investidores antes de comprar o Twitter, diz agência",
-      "slug": "elon-musk-enganou-investidores-antes-de-comprar-o-twitter-diz-agencia",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-03-20T22:42:22.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/03/20/elon-musk-investidores-compra-twitter.ghtml"
-    },
-    {
-      "title": "Monitor Samsung Odyssey G30 de 24” entra em promoção com 32% OFF em até 10x",
-      "slug": "monitor-samsung-odyssey-g30-de-24-entra-em-promocao-com-32percent-off-em-ate-10x",
+      "title": "Smart TV Samsung OLED de 55″ está com 34% de desconto no Mercado Livre",
+      "slug": "smart-tv-samsung-oled-de-55-esta-com-34percent-de-desconto-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-03-20T22:26:12.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/monitor-samsung-odyssey-g30-de-24-entra-em-promocao-com-32-off-em-ate-10x/"
-    },
-    {
-      "title": "Galaxy Fit 3 está 53% mais barato em promoção no Mercado Livre",
-      "slug": "galaxy-fit-3-esta-53percent-mais-barato-em-promocao-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T22:21:56.000Z",
+      "date": "2026-03-20T21:41:31.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/galaxy-fit-3-esta-53-mais-barato-em-promocao-no-mercado-livre/"
+      "original_url": "https://tecnoblog.net/achados/smart-tv-samsung-oled-de-55-esta-com-34-de-desconto-no-mercado-livre/"
     },
     {
-      "title": "Virou TikTok? Instagram muda interface e coloca feed de reels na home",
-      "slug": "virou-tiktok-instagram-muda-interface-e-coloca-feed-de-reels-na-home",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T21:32:37.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/virou-tiktok-instagram-muda-interface-e-coloca-feed-de-reels-na-home/"
-    },
-    {
-      "title": "O que é GrapheneOS? Confira a história e os recursos do sistema operacional",
-      "slug": "o-que-e-grapheneos-confira-a-historia-e-os-recursos-do-sistema-operacional",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T21:32:26.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-grapheneos-confira-a-historia-e-os-recursos-do-sistema-operacional/"
-    },
-    {
-      "title": "iPhone 17 Pro (256 GB) recebe mais desconto e tem 34% OFF no Mercado Livre",
-      "slug": "iphone-17-pro-256-gb-recebe-mais-desconto-e-tem-34percent-off-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T21:29:41.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/iphone-17-pro-256-gb-recebe-mais-desconto-e-tem-34-off-no-mercado-livre/"
-    },
-    {
-      "title": "Windows 11 vai finalmente ter Barra de Tarefas móvel",
-      "slug": "windows-11-vai-finalmente-ter-barra-de-tarefas-movel",
-      "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-03-20T21:06:29.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/windows-11-vai-finalmente-ter-barra-de-tarefas-movel/"
-    },
-    {
-      "title": "Animador de Death Stranding 2 não vê DLSS 5 com bons olhos",
-      "slug": "animador-de-death-stranding-2-nao-ve-dlss-5-com-bons-olhos",
+      "title": "Trailer de Homem-Aranha: Um Novo Dia supera recorde de GTA 6",
+      "slug": "trailer-de-homem-aranha-um-novo-dia-supera-recorde-de-gta-6",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-03-20T23:00:00.000Z",
+      "date": "2026-03-21T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/animador-de-death-stranding-2-nao-ve-dlss-5-com-bons-olhos/"
-    },
-    {
-      "title": "Sophie Turner grava cena de ação como Lara Croft no set de Tomb Raider; veja",
-      "slug": "sophie-turner-grava-cena-de-acao-como-lara-croft-no-set-de-tomb-raider-veja",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T22:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/sophie-turner-grava-cena-de-acao-como-lara-croft-no-set-de-tomb-raider-veja/"
-    },
-    {
-      "title": "Vale a pena importar um carro dos Estados Unidos? Fizemos as contas",
-      "slug": "vale-a-pena-importar-um-carro-dos-estados-unidos-fizemos-as-contas",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-03-20T22:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/vale-a-pena-importar-um-carro-dos-estados-unidos-fizemos-as-contas/"
-    },
-    {
-      "title": "Promessa de caos: Netflix revela quando a série de Assassin’s Creed se passa",
-      "slug": "promessa-de-caos-netflix-revela-quando-a-serie-de-assassins-creed-se-passa",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-03-20T21:20:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/promessa-de-caos-netflix-revela-quando-a-serie-de-assassins-creed-se-passa/"
-    },
-    {
-      "title": "Índice Pizza? Conheça a teoria que circula na internet durante guerra no Irã",
-      "slug": "indice-pizza-conheca-a-teoria-que-circula-na-internet-durante-guerra-no-ira",
-      "topic": "seguranca-ia",
-      "source": "Tecmundo",
-      "date": "2026-03-20T23:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/internet/411796-indice-pizza-conheca-a-teoria-que-circula-na-internet-durante-guerra-no-ira.htm"
-    },
-    {
-      "title": "Peaky Blinders e mais filmes e séries em alta para ver na Netflix no fim de semana (20)",
-      "slug": "peaky-blinders-e-mais-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-20",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T22:45:36.000Z",
-      "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603430-peaky-blinders-e-mais-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-20.htm"
-    },
-    {
-      "title": "Final Fantasy VII Remake e mais jogos para Switch com até 90% OFF na eShop",
-      "slug": "final-fantasy-vii-remake-e-mais-jogos-para-switch-com-ate-90percent-off-na-eshop",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T22:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503842-final-fantasy-vii-remake-e-mais-jogos-para-switch-com-ate-90-off-na-eshop.htm"
-    },
-    {
-      "title": "Regras do Imposto de Renda 2026: saiba como declarar",
-      "slug": "regras-do-imposto-de-renda-2026-saiba-como-declarar",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T22:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/internet/411771-regras-do-imposto-de-renda-2026-saiba-como-declarar.htm"
-    },
-    {
-      "title": "Pedra no sapado: IA atrapalha planos dos EUA de reduzir déficit comercial",
-      "slug": "pedra-no-sapado-ia-atrapalha-planos-dos-eua-de-reduzir-deficit-comercial",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/411804-pedra-no-sapado-ia-atrapalha-planos-dos-eua-de-reduzir-deficit-comercial.htm"
-    },
-    {
-      "title": "Como proteger seu celular no Lollapalooza 2026 e outros festivais",
-      "slug": "como-proteger-seu-celular-no-lollapalooza-2026-e-outros-festivais",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T21:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/411810-como-proteger-seu-celular-no-lollapalooza-2026-e-outros-festivais.htm"
-    },
-    {
-      "title": "Chuck Norris: 6 filmes para assistir no streaming e relembrar a carreira do ator",
-      "slug": "chuck-norris-6-filmes-para-assistir-no-streaming-e-relembrar-a-carreira-do-ator",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-03-20T21:15:54.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603448-chuck-norris-6-filmes-para-assistir-no-streaming-e-relembrar-a-carreira-do-ator.htm"
+      "original_url": "https://canaltech.com.br/entretenimento/trailer-de-homem-aranha-um-novo-dia-supera-recorde-de-gta-6/"
     }
   ]
 }
