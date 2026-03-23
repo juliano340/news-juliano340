@@ -1,6 +1,6 @@
 {
-  "slug": "musk-e-considerado-responsavel-em-processo-sobre-fraude-em-compra-do-twitter",
-  "generated_at": "2026-03-23T11:17:58.642Z",
+  "slug": "grupos-de-odio-usam-jogos-online-para-recrutar-criancas-de-12-anos",
+  "generated_at": "2026-03-23T11:15:42.565Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 358,
+      "words": 308,
       "min": 220
     },
     {

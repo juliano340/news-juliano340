@@ -1,6 +1,6 @@
 {
-  "slug": "musk-e-considerado-responsavel-em-processo-sobre-fraude-em-compra-do-twitter",
-  "generated_at": "2026-03-23T11:17:58.642Z",
+  "slug": "fim-de-highguard-por-que-os-jogos-live-service-estao-morrendo-tao-rapido",
+  "generated_at": "2026-03-23T11:05:57.590Z",
   "status": "PASS",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 358,
+      "words": 322,
       "min": 220
     },
     {

@@ -1,6 +1,6 @@
 {
-  "slug": "musk-e-considerado-responsavel-em-processo-sobre-fraude-em-compra-do-twitter",
-  "generated_at": "2026-03-23T11:17:58.642Z",
+  "slug": "se-nao-viralizar-morre-o-novo-jogo-da-industria-de-games",
+  "generated_at": "2026-03-23T11:08:03.099Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 358,
+      "words": 250,
       "min": 220
     },
     {

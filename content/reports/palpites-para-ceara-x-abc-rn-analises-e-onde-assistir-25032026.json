@@ -1,7 +1,7 @@
 {
-  "slug": "musk-e-considerado-responsavel-em-processo-sobre-fraude-em-compra-do-twitter",
-  "generated_at": "2026-03-23T11:17:58.642Z",
-  "status": "PASS",
+  "slug": "palpites-para-ceara-x-abc-rn-analises-e-onde-assistir-25032026",
+  "generated_at": "2026-03-23T11:11:40.252Z",
+  "status": "WARN",
   "checks": [
     {
       "id": "sections",
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 5
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 358,
+      "words": 374,
       "min": 220
     },
     {
@@ -84,16 +84,18 @@
     },
     {
       "id": "internal_links",
-      "status": "PASS",
+      "status": "FAIL",
       "level": "WARN",
       "reason": "poucos_links_internos",
-      "links": 3,
+      "links": 0,
       "min": 3
     }
   ],
-  "warnings": [],
+  "warnings": [
+    "poucos_links_internos"
+  ],
   "errors": [],
-  "score": 100,
+  "score": 92,
   "metadata": {
     "status": "PASS",
     "checks": [
