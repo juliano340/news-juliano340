@@ -1,0 +1,19 @@
+{
+  "slug": "demissoes-sao-por-baixo-desempenho-cientista-diz-que-ia-nao-esta-causando-desemprego",
+  "generated_at": "2026-04-07T11:00:15.701Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

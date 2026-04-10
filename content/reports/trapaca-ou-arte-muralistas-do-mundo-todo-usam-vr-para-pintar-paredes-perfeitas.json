@@ -1,0 +1,19 @@
+{
+  "slug": "trapaca-ou-arte-muralistas-do-mundo-todo-usam-vr-para-pintar-paredes-perfeitas",
+  "generated_at": "2026-03-29T13:00:18.823Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

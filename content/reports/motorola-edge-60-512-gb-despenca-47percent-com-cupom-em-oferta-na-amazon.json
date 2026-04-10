@@ -1,0 +1,19 @@
+{
+  "slug": "motorola-edge-60-512-gb-despenca-47percent-com-cupom-em-oferta-na-amazon",
+  "generated_at": "2026-03-30T15:00:30.317Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

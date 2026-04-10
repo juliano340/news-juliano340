@@ -1,0 +1,19 @@
+{
+  "slug": "whatsapp-comeca-a-liberar-escolha-de-username-nos-perfis",
+  "generated_at": "2026-04-08T21:00:25.582Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

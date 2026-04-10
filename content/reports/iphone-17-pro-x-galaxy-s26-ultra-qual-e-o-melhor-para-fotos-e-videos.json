@@ -1,0 +1,19 @@
+{
+  "slug": "iphone-17-pro-x-galaxy-s26-ultra-qual-e-o-melhor-para-fotos-e-videos",
+  "generated_at": "2026-03-30T07:00:22.269Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

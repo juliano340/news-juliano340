@@ -1,0 +1,19 @@
+{
+  "slug": "da-para-limpar-em-cima-do-guarda-roupa-com-robo-aspirador-nos-testamos",
+  "generated_at": "2026-04-04T19:00:37.766Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

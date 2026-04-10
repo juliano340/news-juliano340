@@ -1,0 +1,19 @@
+{
+  "slug": "amazon-faz-oferta-de-monitor-gamer-aoc-legend-27-240hz-e-curvo-em-10x-de-rdollar-115",
+  "generated_at": "2026-04-03T11:00:13.613Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

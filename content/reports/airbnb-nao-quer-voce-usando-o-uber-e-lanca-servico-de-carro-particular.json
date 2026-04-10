@@ -1,0 +1,19 @@
+{
+  "slug": "airbnb-nao-quer-voce-usando-o-uber-e-lanca-servico-de-carro-particular",
+  "generated_at": "2026-03-31T17:00:17.388Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

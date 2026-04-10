@@ -1,0 +1,19 @@
+{
+  "slug": "linha-galaxy-s27-vai-ganhar-modelo-pro-inedito-revela-site",
+  "generated_at": "2026-04-06T13:00:17.649Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "samsung-encarece-dram-em-mais-30percent-enquanto-demanda-de-servidores-nao-cessa",
+  "generated_at": "2026-04-07T19:00:12.981Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

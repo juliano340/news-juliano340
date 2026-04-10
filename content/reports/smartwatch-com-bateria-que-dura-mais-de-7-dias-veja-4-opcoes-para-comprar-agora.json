@@ -1,0 +1,19 @@
+{
+  "slug": "smartwatch-com-bateria-que-dura-mais-de-7-dias-veja-4-opcoes-para-comprar-agora",
+  "generated_at": "2026-04-03T17:00:18.708Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "nintendo-switch-com-mario-e-3-meses-de-online-esta-com-preco-no-chao-no-ml",
+  "generated_at": "2026-04-03T19:00:13.471Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

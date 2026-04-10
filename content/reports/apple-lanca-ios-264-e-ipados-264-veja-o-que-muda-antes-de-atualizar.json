@@ -1,0 +1,19 @@
+{
+  "slug": "apple-lanca-ios-264-e-ipados-264-veja-o-que-muda-antes-de-atualizar",
+  "generated_at": "2026-03-25T19:00:12.577Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

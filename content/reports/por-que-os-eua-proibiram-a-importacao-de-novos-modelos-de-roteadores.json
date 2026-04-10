@@ -1,0 +1,19 @@
+{
+  "slug": "por-que-os-eua-proibiram-a-importacao-de-novos-modelos-de-roteadores",
+  "generated_at": "2026-03-25T15:00:10.731Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

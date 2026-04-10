@@ -1,0 +1,19 @@
+{
+  "slug": "ia-ja-compra-por-nos-e-isso-muda-a-economia-como-a-conhecemos",
+  "generated_at": "2026-03-31T07:00:14.963Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

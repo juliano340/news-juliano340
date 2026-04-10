@@ -1,0 +1,19 @@
+{
+  "slug": "fabrica-da-samsung-pode-parar-devido-a-crise-no-estreito-de-ormuz-entenda",
+  "generated_at": "2026-04-01T19:00:18.427Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

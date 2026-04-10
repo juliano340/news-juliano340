@@ -1,0 +1,19 @@
+{
+  "slug": "samsung-lanca-novo-app-que-quer-reduzir-enjoo-com-um-som-estranho",
+  "generated_at": "2026-03-30T19:00:18.017Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

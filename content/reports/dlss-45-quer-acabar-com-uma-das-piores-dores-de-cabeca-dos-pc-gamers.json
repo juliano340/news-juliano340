@@ -1,0 +1,19 @@
+{
+  "slug": "dlss-45-quer-acabar-com-uma-das-piores-dores-de-cabeca-dos-pc-gamers",
+  "generated_at": "2026-04-02T15:00:17.379Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

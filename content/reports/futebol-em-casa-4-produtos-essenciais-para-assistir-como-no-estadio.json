@@ -1,0 +1,19 @@
+{
+  "slug": "futebol-em-casa-4-produtos-essenciais-para-assistir-como-no-estadio",
+  "generated_at": "2026-04-01T11:00:14.731Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

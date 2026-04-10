@@ -1,0 +1,19 @@
+{
+  "slug": "chinesa-humilha-google-no-visual-com-celular-que-custa-menos-de-rdollar-1-mil",
+  "generated_at": "2026-03-27T19:00:14.850Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

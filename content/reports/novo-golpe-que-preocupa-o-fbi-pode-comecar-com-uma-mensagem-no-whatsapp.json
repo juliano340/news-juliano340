@@ -1,0 +1,19 @@
+{
+  "slug": "novo-golpe-que-preocupa-o-fbi-pode-comecar-com-uma-mensagem-no-whatsapp",
+  "generated_at": "2026-03-26T13:00:18.735Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

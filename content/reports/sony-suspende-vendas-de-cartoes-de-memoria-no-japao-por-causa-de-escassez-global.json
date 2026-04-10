@@ -1,0 +1,19 @@
+{
+  "slug": "sony-suspende-vendas-de-cartoes-de-memoria-no-japao-por-causa-de-escassez-global",
+  "generated_at": "2026-03-31T09:00:23.837Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

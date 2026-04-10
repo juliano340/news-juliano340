@@ -1,0 +1,19 @@
+{
+  "slug": "novo-redmi-tera-bateria-de-sobra-para-compensar-pouca-memoria-diz-leaker",
+  "generated_at": "2026-03-23T19:00:15.628Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "idade-minima-para-redes-sociais-austria-e-indonesia-regulamentam-acesso-de-menores",
+  "generated_at": "2026-03-30T13:00:29.216Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

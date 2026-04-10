@@ -1,0 +1,19 @@
+{
+  "slug": "ancine-ganha-mais-autonomia-e-podera-bloquear-conteudo-pirata-na-internet",
+  "generated_at": "2026-03-27T23:00:15.874Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ministerio-da-educacao-lanca-apps-com-livros-e-cursos-de-idiomas-gratis",
+  "generated_at": "2026-04-02T19:00:17.428Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

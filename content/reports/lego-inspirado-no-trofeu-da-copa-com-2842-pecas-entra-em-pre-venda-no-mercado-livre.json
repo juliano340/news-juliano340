@@ -1,0 +1,19 @@
+{
+  "slug": "lego-inspirado-no-trofeu-da-copa-com-2842-pecas-entra-em-pre-venda-no-mercado-livre",
+  "generated_at": "2026-03-28T21:00:13.594Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

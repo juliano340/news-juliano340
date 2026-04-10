@@ -1,0 +1,19 @@
+{
+  "slug": "openai-perdia-usdollar-1-milhao-por-dia-com-o-sora-revela-reportagem",
+  "generated_at": "2026-03-30T21:00:24.998Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

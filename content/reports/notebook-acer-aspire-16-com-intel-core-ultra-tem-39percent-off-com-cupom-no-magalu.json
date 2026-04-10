@@ -1,0 +1,19 @@
+{
+  "slug": "notebook-acer-aspire-16-com-intel-core-ultra-tem-39percent-off-com-cupom-no-magalu",
+  "generated_at": "2026-04-09T15:00:13.279Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

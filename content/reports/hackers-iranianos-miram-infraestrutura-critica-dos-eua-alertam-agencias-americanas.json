@@ -1,0 +1,19 @@
+{
+  "slug": "hackers-iranianos-miram-infraestrutura-critica-dos-eua-alertam-agencias-americanas",
+  "generated_at": "2026-04-10T01:13:50.979Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "alienware-16-aurora-une-design-premium-e-alto-desempenho-para-todos",
+  "generated_at": "2026-03-25T09:00:20.567Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

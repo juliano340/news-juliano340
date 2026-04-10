@@ -1,0 +1,19 @@
+{
+  "slug": "the-last-of-us-3a-temporada-escala-atrizes-para-viver-yara-e-lev-na-serie",
+  "generated_at": "2026-03-23T19:00:15.854Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

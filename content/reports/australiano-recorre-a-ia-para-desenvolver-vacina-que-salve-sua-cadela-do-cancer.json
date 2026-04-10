@@ -1,0 +1,19 @@
+{
+  "slug": "australiano-recorre-a-ia-para-desenvolver-vacina-que-salve-sua-cadela-do-cancer",
+  "generated_at": "2026-03-31T17:00:21.018Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

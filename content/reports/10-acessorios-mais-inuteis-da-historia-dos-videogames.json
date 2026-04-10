@@ -1,0 +1,19 @@
+{
+  "slug": "10-acessorios-mais-inuteis-da-historia-dos-videogames",
+  "generated_at": "2026-03-30T11:00:27.137Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lucro-trimestral-da-samsung-deve-subir-8-vezes-por-venda-de-chips-de-ia",
+  "generated_at": "2026-04-07T17:00:23.842Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "mercado-livre-derruba-preco-de-moto-g86-celular-da-motorola-com-preco-no-chao",
+  "generated_at": "2026-03-23T15:00:13.365Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

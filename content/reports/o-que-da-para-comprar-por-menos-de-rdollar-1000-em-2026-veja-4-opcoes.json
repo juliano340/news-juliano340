@@ -1,0 +1,19 @@
+{
+  "slug": "o-que-da-para-comprar-por-menos-de-rdollar-1000-em-2026-veja-4-opcoes",
+  "generated_at": "2026-04-04T15:00:12.151Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

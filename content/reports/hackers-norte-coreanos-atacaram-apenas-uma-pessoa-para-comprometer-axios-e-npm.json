@@ -1,0 +1,19 @@
+{
+  "slug": "hackers-norte-coreanos-atacaram-apenas-uma-pessoa-para-comprometer-axios-e-npm",
+  "generated_at": "2026-04-07T19:00:14.854Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

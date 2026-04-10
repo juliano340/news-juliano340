@@ -1,0 +1,19 @@
+{
+  "slug": "o-que-explica-qualidade-diferente-das-transmissoes-da-nasa-e-da-spacex",
+  "generated_at": "2026-04-08T15:00:17.354Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

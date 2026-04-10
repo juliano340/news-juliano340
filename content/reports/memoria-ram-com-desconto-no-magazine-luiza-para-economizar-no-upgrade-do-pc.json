@@ -1,0 +1,19 @@
+{
+  "slug": "memoria-ram-com-desconto-no-magazine-luiza-para-economizar-no-upgrade-do-pc",
+  "generated_at": "2026-04-01T03:00:21.188Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

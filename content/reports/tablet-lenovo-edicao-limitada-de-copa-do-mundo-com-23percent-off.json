@@ -1,0 +1,19 @@
+{
+  "slug": "tablet-lenovo-edicao-limitada-de-copa-do-mundo-com-23percent-off",
+  "generated_at": "2026-03-31T23:00:14.186Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "o-brasil-entrou-no-radar-das-grandes-empresas-de-ia-e-isso-diz-muito-sobre-o-que-vem-por-ai",
+  "generated_at": "2026-03-25T11:00:20.371Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

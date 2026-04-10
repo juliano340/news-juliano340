@@ -1,0 +1,19 @@
+{
+  "slug": "super-ofertas-da-shopee-tem-air-fryer-cooktop-micro-ondas-e-outros-eletroportateis-com-desconto",
+  "generated_at": "2026-03-31T21:00:20.929Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

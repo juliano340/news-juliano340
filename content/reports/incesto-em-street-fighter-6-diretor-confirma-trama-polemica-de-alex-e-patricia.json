@@ -1,0 +1,19 @@
+{
+  "slug": "incesto-em-street-fighter-6-diretor-confirma-trama-polemica-de-alex-e-patricia",
+  "generated_at": "2026-03-27T15:00:25.606Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

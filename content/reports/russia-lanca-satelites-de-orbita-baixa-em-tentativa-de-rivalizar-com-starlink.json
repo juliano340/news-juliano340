@@ -1,0 +1,19 @@
+{
+  "slug": "russia-lanca-satelites-de-orbita-baixa-em-tentativa-de-rivalizar-com-starlink",
+  "generated_at": "2026-03-25T11:00:22.541Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

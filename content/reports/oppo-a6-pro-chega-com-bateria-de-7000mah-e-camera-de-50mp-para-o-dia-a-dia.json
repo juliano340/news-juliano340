@@ -1,0 +1,19 @@
+{
+  "slug": "oppo-a6-pro-chega-com-bateria-de-7000mah-e-camera-de-50mp-para-o-dia-a-dia",
+  "generated_at": "2026-04-01T07:00:12.416Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ps5-fica-oficialmente-mais-caro-no-brasil-hoje-2-veja-os-novos-precos",
+  "generated_at": "2026-04-02T15:00:19.010Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

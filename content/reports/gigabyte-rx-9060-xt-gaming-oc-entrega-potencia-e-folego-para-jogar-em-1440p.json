@@ -1,0 +1,19 @@
+{
+  "slug": "gigabyte-rx-9060-xt-gaming-oc-entrega-potencia-e-folego-para-jogar-em-1440p",
+  "generated_at": "2026-03-27T17:00:12.092Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

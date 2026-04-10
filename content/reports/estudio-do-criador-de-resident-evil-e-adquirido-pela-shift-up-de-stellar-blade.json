@@ -1,0 +1,19 @@
+{
+  "slug": "estudio-do-criador-de-resident-evil-e-adquirido-pela-shift-up-de-stellar-blade",
+  "generated_at": "2026-04-01T23:00:29.562Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

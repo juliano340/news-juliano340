@@ -1,0 +1,19 @@
+{
+  "slug": "cade-mantem-multa-diaria-de-rdollar-250-mil-ao-whatsapp-por-bloquear-chatbots-de-ia-alternativos",
+  "generated_at": "2026-03-30T21:00:25.044Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

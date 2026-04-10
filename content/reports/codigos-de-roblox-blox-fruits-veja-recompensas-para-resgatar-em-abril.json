@@ -1,0 +1,19 @@
+{
+  "slug": "codigos-de-roblox-blox-fruits-veja-recompensas-para-resgatar-em-abril",
+  "generated_at": "2026-04-04T09:00:18.257Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

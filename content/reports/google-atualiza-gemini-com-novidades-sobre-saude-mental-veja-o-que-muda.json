@@ -1,0 +1,19 @@
+{
+  "slug": "google-atualiza-gemini-com-novidades-sobre-saude-mental-veja-o-que-muda",
+  "generated_at": "2026-04-07T17:00:21.893Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

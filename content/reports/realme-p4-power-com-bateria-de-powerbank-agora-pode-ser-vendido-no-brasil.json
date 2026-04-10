@@ -1,0 +1,19 @@
+{
+  "slug": "realme-p4-power-com-bateria-de-powerbank-agora-pode-ser-vendido-no-brasil",
+  "generated_at": "2026-03-25T19:00:11.005Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

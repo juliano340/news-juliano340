@@ -1,0 +1,19 @@
+{
+  "slug": "criador-de-the-boys-diz-que-temporada-5-previu-diversos-acontecimentos-reais",
+  "generated_at": "2026-04-05T09:00:23.401Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

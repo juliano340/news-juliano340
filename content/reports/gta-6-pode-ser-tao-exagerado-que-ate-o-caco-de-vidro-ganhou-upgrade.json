@@ -1,0 +1,19 @@
+{
+  "slug": "gta-6-pode-ser-tao-exagerado-que-ate-o-caco-de-vidro-ganhou-upgrade",
+  "generated_at": "2026-03-28T11:00:15.745Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

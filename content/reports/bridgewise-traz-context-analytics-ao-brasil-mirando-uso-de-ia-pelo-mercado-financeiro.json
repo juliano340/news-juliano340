@@ -1,0 +1,19 @@
+{
+  "slug": "bridgewise-traz-context-analytics-ao-brasil-mirando-uso-de-ia-pelo-mercado-financeiro",
+  "generated_at": "2026-03-23T17:00:21.716Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

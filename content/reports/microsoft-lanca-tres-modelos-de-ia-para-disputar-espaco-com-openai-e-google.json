@@ -1,0 +1,19 @@
+{
+  "slug": "microsoft-lanca-tres-modelos-de-ia-para-disputar-espaco-com-openai-e-google",
+  "generated_at": "2026-04-06T13:00:17.404Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

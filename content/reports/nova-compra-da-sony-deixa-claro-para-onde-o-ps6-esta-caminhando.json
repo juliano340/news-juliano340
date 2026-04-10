@@ -1,0 +1,19 @@
+{
+  "slug": "nova-compra-da-sony-deixa-claro-para-onde-o-ps6-esta-caminhando",
+  "generated_at": "2026-04-06T17:00:12.016Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

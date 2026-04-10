@@ -1,0 +1,19 @@
+{
+  "slug": "eua-emitem-alerta-apos-hackers-pro-ira-atacarem-sistemas-de-agua-e-energia",
+  "generated_at": "2026-04-08T17:00:17.878Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

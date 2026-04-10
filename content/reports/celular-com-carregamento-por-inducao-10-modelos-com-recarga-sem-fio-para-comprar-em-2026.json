@@ -1,0 +1,19 @@
+{
+  "slug": "celular-com-carregamento-por-inducao-10-modelos-com-recarga-sem-fio-para-comprar-em-2026",
+  "generated_at": "2026-04-03T19:00:11.556Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

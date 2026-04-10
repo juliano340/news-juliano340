@@ -1,0 +1,19 @@
+{
+  "slug": "galaxy-tab-s11-256-gb-com-ram-de-12-gb-tem-28percent-off-em-oferta-na-amazon",
+  "generated_at": "2026-04-06T21:00:15.284Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

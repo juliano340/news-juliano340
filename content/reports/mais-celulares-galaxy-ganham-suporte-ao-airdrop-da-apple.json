@@ -1,0 +1,19 @@
+{
+  "slug": "mais-celulares-galaxy-ganham-suporte-ao-airdrop-da-apple",
+  "generated_at": "2026-04-09T21:00:11.812Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

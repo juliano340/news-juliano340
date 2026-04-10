@@ -1,0 +1,19 @@
+{
+  "slug": "para-que-servem-os-buracos-na-parte-de-baixo-do-playstation-5",
+  "generated_at": "2026-03-27T17:00:11.831Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

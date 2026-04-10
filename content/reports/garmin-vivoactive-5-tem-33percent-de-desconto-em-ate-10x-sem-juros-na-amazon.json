@@ -1,0 +1,19 @@
+{
+  "slug": "garmin-vivoactive-5-tem-33percent-de-desconto-em-ate-10x-sem-juros-na-amazon",
+  "generated_at": "2026-04-01T15:00:11.117Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

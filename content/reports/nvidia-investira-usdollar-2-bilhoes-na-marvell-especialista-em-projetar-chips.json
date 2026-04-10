@@ -1,0 +1,19 @@
+{
+  "slug": "nvidia-investira-usdollar-2-bilhoes-na-marvell-especialista-em-projetar-chips",
+  "generated_at": "2026-03-31T17:00:19.297Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "amazon-renova-lista-de-garrafas-e-copos-stanley-em-oferta-com-ate-30percent-off",
+  "generated_at": "2026-03-25T17:00:15.873Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

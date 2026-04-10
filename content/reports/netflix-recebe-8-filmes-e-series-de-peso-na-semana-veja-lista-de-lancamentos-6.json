@@ -1,0 +1,19 @@
+{
+  "slug": "netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-6",
+  "generated_at": "2026-04-07T11:00:15.750Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

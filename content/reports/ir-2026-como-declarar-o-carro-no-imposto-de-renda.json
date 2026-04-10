@@ -1,0 +1,19 @@
+{
+  "slug": "ir-2026-como-declarar-o-carro-no-imposto-de-renda",
+  "generated_at": "2026-04-02T11:00:20.917Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

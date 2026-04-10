@@ -1,0 +1,19 @@
+{
+  "slug": "teste-de-bateria-or-motorola-signature-tem-otima-autonomia-e-carga-de-90-w",
+  "generated_at": "2026-03-28T21:00:11.978Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "serie-de-harry-potter-nao-sera-lancada-anualmente-mas-espera-pode-ser-menor",
+  "generated_at": "2026-04-01T09:00:16.408Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

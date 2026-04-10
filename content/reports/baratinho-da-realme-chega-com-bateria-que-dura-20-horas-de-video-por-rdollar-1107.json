@@ -1,0 +1,19 @@
+{
+  "slug": "baratinho-da-realme-chega-com-bateria-que-dura-20-horas-de-video-por-rdollar-1107",
+  "generated_at": "2026-04-07T19:00:12.712Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

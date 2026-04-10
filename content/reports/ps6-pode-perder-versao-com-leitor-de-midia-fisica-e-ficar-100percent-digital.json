@@ -1,0 +1,19 @@
+{
+  "slug": "ps6-pode-perder-versao-com-leitor-de-midia-fisica-e-ficar-100percent-digital",
+  "generated_at": "2026-04-03T15:00:15.254Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

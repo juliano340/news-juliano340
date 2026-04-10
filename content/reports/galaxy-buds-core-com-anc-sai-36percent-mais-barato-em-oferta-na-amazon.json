@@ -1,0 +1,19 @@
+{
+  "slug": "galaxy-buds-core-com-anc-sai-36percent-mais-barato-em-oferta-na-amazon",
+  "generated_at": "2026-04-02T17:00:11.984Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "oppo-reno-14-f-com-cupom-no-magalu-celular-com-bateria-de-6000-mah-em-oferta",
+  "generated_at": "2026-03-31T09:00:20.883Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

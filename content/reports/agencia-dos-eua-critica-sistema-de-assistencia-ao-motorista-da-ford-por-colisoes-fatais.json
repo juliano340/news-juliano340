@@ -1,0 +1,19 @@
+{
+  "slug": "agencia-dos-eua-critica-sistema-de-assistencia-ao-motorista-da-ford-por-colisoes-fatais",
+  "generated_at": "2026-04-01T13:00:17.247Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

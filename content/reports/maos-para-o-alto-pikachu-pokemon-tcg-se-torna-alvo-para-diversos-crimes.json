@@ -1,0 +1,19 @@
+{
+  "slug": "maos-para-o-alto-pikachu-pokemon-tcg-se-torna-alvo-para-diversos-crimes",
+  "generated_at": "2026-04-09T11:00:19.416Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

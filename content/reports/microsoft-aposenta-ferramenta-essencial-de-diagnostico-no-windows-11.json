@@ -1,0 +1,19 @@
+{
+  "slug": "microsoft-aposenta-ferramenta-essencial-de-diagnostico-no-windows-11",
+  "generated_at": "2026-04-02T13:00:10.809Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

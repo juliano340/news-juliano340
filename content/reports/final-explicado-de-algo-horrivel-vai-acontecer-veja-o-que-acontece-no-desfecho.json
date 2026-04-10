@@ -1,0 +1,19 @@
+{
+  "slug": "final-explicado-de-algo-horrivel-vai-acontecer-veja-o-que-acontece-no-desfecho",
+  "generated_at": "2026-03-29T23:00:22.717Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

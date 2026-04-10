@@ -1,0 +1,19 @@
+{
+  "slug": "qual-e-a-melhor-epoca-do-ano-para-trazer-iphone-dos-eua",
+  "generated_at": "2026-04-05T17:00:13.504Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

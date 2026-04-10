@@ -1,0 +1,19 @@
+{
+  "slug": "chatgpt-testa-sistema-para-identificar-extremismo-e-encaminhar-usuarios-a-suporte",
+  "generated_at": "2026-04-07T17:00:16.606Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

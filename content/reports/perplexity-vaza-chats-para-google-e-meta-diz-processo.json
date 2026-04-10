@@ -1,0 +1,19 @@
+{
+  "slug": "perplexity-vaza-chats-para-google-e-meta-diz-processo",
+  "generated_at": "2026-04-06T15:00:10.412Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "diretora-financeira-da-openai-levanta-preocupacoes-sobre-ipo-em-2026-diz-the-information",
+  "generated_at": "2026-04-06T17:00:15.979Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "uniao-europeia-acusa-pornhub-stripchat-xnxx-e-xvideos-de-falhar-na-protecao-de-menores",
+  "generated_at": "2026-03-30T05:00:08.345Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

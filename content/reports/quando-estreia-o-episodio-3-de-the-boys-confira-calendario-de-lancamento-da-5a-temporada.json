@@ -1,0 +1,19 @@
+{
+  "slug": "quando-estreia-o-episodio-3-de-the-boys-confira-calendario-de-lancamento-da-5a-temporada",
+  "generated_at": "2026-04-08T15:00:15.740Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

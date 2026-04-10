@@ -1,0 +1,19 @@
+{
+  "slug": "microsoft-revela-atualizacoes-de-ia-e-lanca-copilot-cowork-para-clientes-de-acesso-antecipado",
+  "generated_at": "2026-03-31T15:00:15.337Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

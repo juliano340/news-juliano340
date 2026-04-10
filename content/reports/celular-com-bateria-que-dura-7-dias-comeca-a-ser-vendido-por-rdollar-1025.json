@@ -1,0 +1,19 @@
+{
+  "slug": "celular-com-bateria-que-dura-7-dias-comeca-a-ser-vendido-por-rdollar-1025",
+  "generated_at": "2026-04-09T15:00:14.708Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

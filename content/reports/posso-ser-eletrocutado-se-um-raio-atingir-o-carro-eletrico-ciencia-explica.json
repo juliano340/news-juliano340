@@ -1,0 +1,19 @@
+{
+  "slug": "posso-ser-eletrocutado-se-um-raio-atingir-o-carro-eletrico-ciencia-explica",
+  "generated_at": "2026-03-29T19:00:22.784Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "5-consoles-que-fracassaram-apesar-de-terem-bons-jogos",
+  "generated_at": "2026-04-04T07:00:17.471Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

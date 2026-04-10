@@ -1,0 +1,19 @@
+{
+  "slug": "a-governanca-da-ia-de-voz-como-base-para-confianca-em-escala-no-brasil",
+  "generated_at": "2026-04-07T17:00:23.897Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

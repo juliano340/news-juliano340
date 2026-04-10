@@ -1,0 +1,19 @@
+{
+  "slug": "prime-gaming-amazon-luna-libera-mais-de-10-jogos-gratis-em-abril-veja-a-lista-e-como-resgatar",
+  "generated_at": "2026-04-03T13:00:21.885Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

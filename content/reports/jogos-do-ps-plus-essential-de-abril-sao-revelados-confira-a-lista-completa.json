@@ -1,0 +1,19 @@
+{
+  "slug": "jogos-do-ps-plus-essential-de-abril-sao-revelados-confira-a-lista-completa",
+  "generated_at": "2026-04-01T21:00:16.971Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

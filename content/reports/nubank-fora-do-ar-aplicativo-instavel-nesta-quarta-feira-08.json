@@ -1,0 +1,19 @@
+{
+  "slug": "nubank-fora-do-ar-aplicativo-instavel-nesta-quarta-feira-08",
+  "generated_at": "2026-04-08T17:00:15.243Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

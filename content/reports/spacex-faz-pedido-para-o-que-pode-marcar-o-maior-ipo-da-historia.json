@@ -1,0 +1,19 @@
+{
+  "slug": "spacex-faz-pedido-para-o-que-pode-marcar-o-maior-ipo-da-historia",
+  "generated_at": "2026-04-02T07:00:14.790Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

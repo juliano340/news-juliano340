@@ -1,0 +1,19 @@
+{
+  "slug": "modo-safadao-do-chatgpt-e-adiado-indefinidamente-mais-uma-vez-veja-o-porque",
+  "generated_at": "2026-03-26T19:00:19.149Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

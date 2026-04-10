@@ -1,0 +1,19 @@
+{
+  "slug": "fabricantes-chineses-de-chips-conquistam-quase-metade-do-mercado-local-e-lideranca-da-nvidia-diminui",
+  "generated_at": "2026-04-01T21:00:18.311Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

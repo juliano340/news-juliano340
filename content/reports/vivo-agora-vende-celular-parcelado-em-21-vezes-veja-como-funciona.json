@@ -1,0 +1,19 @@
+{
+  "slug": "vivo-agora-vende-celular-parcelado-em-21-vezes-veja-como-funciona",
+  "generated_at": "2026-04-06T19:00:28.741Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

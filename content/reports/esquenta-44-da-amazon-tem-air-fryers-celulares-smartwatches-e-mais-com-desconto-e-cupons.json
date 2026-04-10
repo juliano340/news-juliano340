@@ -1,0 +1,19 @@
+{
+  "slug": "esquenta-44-da-amazon-tem-air-fryers-celulares-smartwatches-e-mais-com-desconto-e-cupons",
+  "generated_at": "2026-03-30T19:00:20.003Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

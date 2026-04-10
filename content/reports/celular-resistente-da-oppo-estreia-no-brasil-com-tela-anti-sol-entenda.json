@@ -1,0 +1,19 @@
+{
+  "slug": "celular-resistente-da-oppo-estreia-no-brasil-com-tela-anti-sol-entenda",
+  "generated_at": "2026-04-03T15:00:16.957Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

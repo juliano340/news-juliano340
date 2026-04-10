@@ -1,0 +1,19 @@
+{
+  "slug": "amazon-faz-queima-de-ar-condicionado-windfree-da-samsung-de-12000-btus",
+  "generated_at": "2026-03-27T17:00:11.893Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

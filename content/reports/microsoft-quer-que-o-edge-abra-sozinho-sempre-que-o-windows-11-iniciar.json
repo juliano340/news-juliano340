@@ -1,0 +1,19 @@
+{
+  "slug": "microsoft-quer-que-o-edge-abra-sozinho-sempre-que-o-windows-11-iniciar",
+  "generated_at": "2026-04-06T13:00:15.760Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

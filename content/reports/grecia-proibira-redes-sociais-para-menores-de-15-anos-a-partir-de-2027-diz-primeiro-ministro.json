@@ -1,0 +1,19 @@
+{
+  "slug": "grecia-proibira-redes-sociais-para-menores-de-15-anos-a-partir-de-2027-diz-primeiro-ministro",
+  "generated_at": "2026-04-10T01:04:55.575Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

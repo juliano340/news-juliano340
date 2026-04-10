@@ -1,0 +1,19 @@
+{
+  "slug": "samsung-aumentou-preco-de-chips-dram-em-30percent-para-o-2a-trimestre-diz-site",
+  "generated_at": "2026-04-06T19:00:32.487Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ia-assume-controle-de-jato-em-pleno-voo-durante-teste-inedito",
+  "generated_at": "2026-03-25T11:00:18.627Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

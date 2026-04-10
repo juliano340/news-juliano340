@@ -1,0 +1,19 @@
+{
+  "slug": "quick-share-ganha-suporte-ao-airdrop-e-aproxima-android-do-ios",
+  "generated_at": "2026-03-23T17:00:20.175Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

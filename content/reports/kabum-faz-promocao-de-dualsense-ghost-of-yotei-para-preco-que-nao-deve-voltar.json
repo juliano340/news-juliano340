@@ -1,0 +1,19 @@
+{
+  "slug": "kabum-faz-promocao-de-dualsense-ghost-of-yotei-para-preco-que-nao-deve-voltar",
+  "generated_at": "2026-03-24T07:00:17.049Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

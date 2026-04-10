@@ -1,0 +1,19 @@
+{
+  "slug": "samsung-revela-motor-do-galaxy-a57-com-gpu-da-amd-por-baixo-do-capo",
+  "generated_at": "2026-03-25T11:00:18.871Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

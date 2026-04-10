@@ -1,0 +1,19 @@
+{
+  "slug": "ia-ascende-novatos-caem-goldman-sachs-analisa-impacto-da-ia-no-emprego",
+  "generated_at": "2026-04-06T17:00:15.928Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

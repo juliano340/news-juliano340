@@ -1,0 +1,19 @@
+{
+  "slug": "samsung-aumenta-precos-de-celulares-no-brasil-em-meio-a-crise-de-chips",
+  "generated_at": "2026-04-09T21:00:16.140Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
