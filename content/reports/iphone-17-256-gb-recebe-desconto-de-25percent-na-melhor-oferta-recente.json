@@ -1,0 +1,19 @@
+{
+  "slug": "iphone-17-256-gb-recebe-desconto-de-25percent-na-melhor-oferta-recente",
+  "generated_at": "2026-04-11T01:28:28.378Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

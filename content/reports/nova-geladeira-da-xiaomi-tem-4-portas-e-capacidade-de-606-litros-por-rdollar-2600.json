@@ -1,0 +1,19 @@
+{
+  "slug": "nova-geladeira-da-xiaomi-tem-4-portas-e-capacidade-de-606-litros-por-rdollar-2600",
+  "generated_at": "2026-04-11T01:45:52.456Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

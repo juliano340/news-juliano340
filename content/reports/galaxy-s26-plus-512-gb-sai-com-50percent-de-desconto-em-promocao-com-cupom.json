@@ -1,0 +1,19 @@
+{
+  "slug": "galaxy-s26-plus-512-gb-sai-com-50percent-de-desconto-em-promocao-com-cupom",
+  "generated_at": "2026-04-11T01:31:26.702Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

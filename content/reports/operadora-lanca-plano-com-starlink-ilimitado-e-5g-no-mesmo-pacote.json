@@ -1,0 +1,19 @@
+{
+  "slug": "operadora-lanca-plano-com-starlink-ilimitado-e-5g-no-mesmo-pacote",
+  "generated_at": "2026-04-10T17:00:12.058Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

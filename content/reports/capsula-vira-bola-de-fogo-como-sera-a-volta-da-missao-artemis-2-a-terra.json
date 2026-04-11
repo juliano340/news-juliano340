@@ -1,0 +1,19 @@
+{
+  "slug": "capsula-vira-bola-de-fogo-como-sera-a-volta-da-missao-artemis-2-a-terra",
+  "generated_at": "2026-04-10T15:00:16.551Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

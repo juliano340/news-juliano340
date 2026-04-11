@@ -1,0 +1,19 @@
+{
+  "slug": "lg-lanca-monitor-ultragear-g4-de-144-hz-barato-no-brasil-confira",
+  "generated_at": "2026-04-10T15:00:15.046Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
