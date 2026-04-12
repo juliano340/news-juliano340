@@ -1,0 +1,19 @@
+{
+  "slug": "o-que-e-kv-cache-e-por-que-o-turboquant-pode-aliviar-o-preco-das-memorias",
+  "generated_at": "2026-04-12T01:28:11.684Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

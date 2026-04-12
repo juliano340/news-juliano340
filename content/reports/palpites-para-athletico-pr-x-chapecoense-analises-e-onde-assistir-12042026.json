@@ -1,0 +1,19 @@
+{
+  "slug": "palpites-para-athletico-pr-x-chapecoense-analises-e-onde-assistir-12042026",
+  "generated_at": "2026-04-11T13:00:17.825Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

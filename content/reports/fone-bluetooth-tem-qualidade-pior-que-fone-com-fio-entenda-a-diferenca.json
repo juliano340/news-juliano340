@@ -1,0 +1,19 @@
+{
+  "slug": "fone-bluetooth-tem-qualidade-pior-que-fone-com-fio-entenda-a-diferenca",
+  "generated_at": "2026-04-11T23:00:11.749Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

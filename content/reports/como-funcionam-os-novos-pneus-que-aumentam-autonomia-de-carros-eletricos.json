@@ -1,0 +1,19 @@
+{
+  "slug": "como-funcionam-os-novos-pneus-que-aumentam-autonomia-de-carros-eletricos",
+  "generated_at": "2026-04-12T01:28:12.152Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
