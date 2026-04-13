@@ -1,0 +1,19 @@
+{
+  "slug": "preco-justo-em-videogame-usado-guia-completo-para-acertar-na-compra",
+  "generated_at": "2026-04-13T01:25:01.970Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

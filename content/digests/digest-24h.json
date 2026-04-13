@@ -1,34 +1,70 @@
 {
-  "generated_at": "2026-04-12T01:28:17.493Z",
+  "generated_at": "2026-04-13T02:07:54.257Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 3,
+  "total": 7,
   "posts": [
     {
-      "title": "Review Mouse Gamer ZMN130 Lite | Leve no uso, salgado no bolso",
-      "slug": "review-mouse-gamer-zmn130-lite-or-leve-no-uso-salgado-no-bolso",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-04-12T00:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/review-mouse-gamer-zmn130-lite/"
-    },
-    {
-      "title": "5 situações em que o Now Nudge realmente poupa tempo",
-      "slug": "5-situacoes-em-que-o-now-nudge-realmente-poupa-tempo",
+      "title": "Fiat Palio apaga velinhas: 30 anos do \"papa Gol\"",
+      "slug": "fiat-palio-apaga-velinhas-30-anos-do-papa-gol",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-04-11T23:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/como-o-now-nudge-ajuda-a-poupar-tempo/"
+      "date": "2026-04-13T00:10:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/carros/fiat-palio-apaga-velinhas-30-anos-do-papa-gol/"
     },
     {
-      "title": "3 celulares com bateria de silício-carbono que você pode comprar agora no Brasil",
-      "slug": "3-celulares-com-bateria-de-silicio-carbono-que-voce-pode-comprar-agora-no-brasil",
+      "title": "Chega de bajulação: 8 prompts para IA ser mais honesta e crítica",
+      "slug": "chega-de-bajulacao-8-prompts-para-ia-ser-mais-honesta-e-critica",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-04-12T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/inteligencia-artificial/chega-de-bajulacao-prompts-para-ia-ser-mais-honesta-critica/"
+    },
+    {
+      "title": "20 jogos de PlayStation 1 bons de jogar até hoje",
+      "slug": "20-jogos-de-playstation-1-bons-de-jogar-ate-hoje",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-11T21:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/smartphone/3-celulares-com-bateria-de-silicio-carbono-que-voce-pode-comprar-agora-no-brasil/"
+      "date": "2026-04-12T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/jogos-de-playstation-1-bons-ate-hoje/"
+    },
+    {
+      "title": "Pragmata, Hades 2 nos consoles, Tomodachi Life e mais! Veja os lançamentos de games da semana",
+      "slug": "pragmata-hades-2-nos-consoles-tomodachi-life-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-12T22:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/504022-pragmata-hades-2-nos-consoles-tomodachi-life-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
+    },
+    {
+      "title": "Disney Dreamlight Valley: guia para coletar todos os Mementos (itens)",
+      "slug": "disney-dreamlight-valley-guia-para-coletar-todos-os-mementos-itens",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-12T17:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/503911-disney-dreamlight-valley-guia-para-coletar-todos-os-mementos-itens.htm"
+    },
+    {
+      "title": "Governo da França vai trocar uso de Windows por sistemas com Linux",
+      "slug": "governo-da-franca-vai-trocar-uso-de-windows-por-sistemas-com-linux",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-12T15:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/412335-governo-da-franca-vai-trocar-uso-de-windows-por-sistemas-com-linux.htm"
+    },
+    {
+      "title": "IA entra na lógica da corrida nuclear, mas até bomba atômica tinha regras",
+      "slug": "ia-entra-na-logica-da-corrida-nuclear-mas-ate-bomba-atomica-tinha-regras",
+      "topic": "geral",
+      "source": "UOL Tecnologia",
+      "date": "2026-04-12T08:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/04/12/ia-entrana-logica-da-corrida-nuclear-mas-ate-bomba-atomica-tinha-regras.htm"
     }
   ]
 }

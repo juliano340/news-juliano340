@@ -1,0 +1,19 @@
+{
+  "slug": "palpites-para-desimpain-x-g3x-fc-analises-e-onde-assistir-13042026",
+  "generated_at": "2026-04-12T15:00:18.303Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

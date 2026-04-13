@@ -1,0 +1,19 @@
+{
+  "slug": "10-carros-para-comprar-com-precos-entre-rdollar-20-mil-e-rdollar-50-mil",
+  "generated_at": "2026-04-12T19:00:19.144Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
