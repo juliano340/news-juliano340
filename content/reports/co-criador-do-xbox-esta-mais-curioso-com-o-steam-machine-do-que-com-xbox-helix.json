@@ -1,0 +1,19 @@
+{
+  "slug": "co-criador-do-xbox-esta-mais-curioso-com-o-steam-machine-do-que-com-xbox-helix",
+  "generated_at": "2026-04-14T01:41:39.938Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

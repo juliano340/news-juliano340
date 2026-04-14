@@ -1,0 +1,19 @@
+{
+  "slug": "astros-de-hollywood-se-unem-contra-compra-da-warner-pela-paramount",
+  "generated_at": "2026-04-13T21:00:14.891Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

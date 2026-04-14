@@ -1,0 +1,19 @@
+{
+  "slug": "oculos-que-gravam-videos-ray-ban-meta-pode-ser-vetado-em-evento-esportivo",
+  "generated_at": "2026-04-13T17:00:12.289Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

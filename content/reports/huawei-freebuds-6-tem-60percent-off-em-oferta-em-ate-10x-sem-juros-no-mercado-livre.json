@@ -1,0 +1,19 @@
+{
+  "slug": "huawei-freebuds-6-tem-60percent-off-em-oferta-em-ate-10x-sem-juros-no-mercado-livre",
+  "generated_at": "2026-04-14T01:08:07.818Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

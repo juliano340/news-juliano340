@@ -1,0 +1,19 @@
+{
+  "slug": "mercado-livre-derruba-preco-de-tablet-da-samsung-tab-a11-por-menos-de-rdollar-1300",
+  "generated_at": "2026-04-14T01:30:04.800Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

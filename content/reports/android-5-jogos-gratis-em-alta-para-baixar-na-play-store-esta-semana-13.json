@@ -1,0 +1,19 @@
+{
+  "slug": "android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-13",
+  "generated_at": "2026-04-13T23:00:14.509Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

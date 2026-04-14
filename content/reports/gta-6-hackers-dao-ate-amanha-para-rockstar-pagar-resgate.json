@@ -1,0 +1,19 @@
+{
+  "slug": "gta-6-hackers-dao-ate-amanha-para-rockstar-pagar-resgate",
+  "generated_at": "2026-04-13T21:00:09.711Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

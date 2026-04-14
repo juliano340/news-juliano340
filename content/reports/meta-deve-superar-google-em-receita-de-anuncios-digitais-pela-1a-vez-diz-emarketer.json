@@ -1,0 +1,19 @@
+{
+  "slug": "meta-deve-superar-google-em-receita-de-anuncios-digitais-pela-1a-vez-diz-emarketer",
+  "generated_at": "2026-04-14T01:57:10.892Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,70 +1,79 @@
 {
-  "generated_at": "2026-04-13T02:07:54.257Z",
+  "generated_at": "2026-04-14T01:57:12.216Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 7,
+  "total": 8,
   "posts": [
     {
-      "title": "Fiat Palio apaga velinhas: 30 anos do \"papa Gol\"",
-      "slug": "fiat-palio-apaga-velinhas-30-anos-do-papa-gol",
+      "title": "Galaxy Tab S11 (256 GB) com tela de 11″ recebe 29% de desconto na Amazon",
+      "slug": "galaxy-tab-s11-256-gb-com-tela-de-11-recebe-29percent-de-desconto-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-13T21:17:12.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s11-256-gb-com-tela-de-11-recebe-29-de-desconto-na-amazon/"
+    },
+    {
+      "title": "Apple muda teclado e impede usuário de acessar o próprio iPhone",
+      "slug": "apple-muda-teclado-e-impede-usuario-de-acessar-o-proprio-iphone",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-04-13T18:01:40.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/ios-muda-teclado-e-impede-usuario-de-acessar-o-proprio-iphone/"
+    },
+    {
+      "title": "Mate 80 Pro: novo celular top da chinesa Huawei chega ao Brasil; veja o preço",
+      "slug": "mate-80-pro-novo-celular-top-da-chinesa-huawei-chega-ao-brasil-veja-o-preco",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-13T20:26:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/mate-80-pro-novo-celular-top-da-chinesa-huawei-chega-ao-brasil-veja-o-preco/"
+    },
+    {
+      "title": "Híbridos mais vendidos em março: \"família\" Song reina e Yaris Cross sobe",
+      "slug": "hibridos-mais-vendidos-em-marco-familia-song-reina-e-yaris-cross-sobe",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-04-13T00:10:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/carros/fiat-palio-apaga-velinhas-30-anos-do-papa-gol/"
+      "date": "2026-04-13T20:05:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/hibridos-mais-vendidos-em-marco-familia-song-reina-e-yaris-cross-sobe/"
     },
     {
-      "title": "Chega de bajulação: 8 prompts para IA ser mais honesta e crítica",
-      "slug": "chega-de-bajulacao-8-prompts-para-ia-ser-mais-honesta-e-critica",
+      "title": "Sony testa visual inédito para a PS Store; veja o que muda no seu PS5",
+      "slug": "sony-testa-visual-inedito-para-a-ps-store-veja-o-que-muda-no-seu-ps5",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-13T20:04:31.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/sony-testa-visual-inedito-para-a-ps-store-veja-o-que-muda-no-seu-ps5/"
+    },
+    {
+      "title": "Claude Code abriu vantagem e a corrida da IA ficou mais interessante em 2026",
+      "slug": "claude-code-abriu-vantagem-e-a-corrida-da-ia-ficou-mais-interessante-em-2026",
       "topic": "llms",
-      "source": "Canaltech",
-      "date": "2026-04-12T23:00:00.000Z",
+      "source": "Tecmundo",
+      "date": "2026-04-13T23:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/inteligencia-artificial/chega-de-bajulacao-prompts-para-ia-ser-mais-honesta-critica/"
+      "original_url": "https://www.tecmundo.com.br/software/412342-claude-code-abriu-vantagem-e-a-corrida-da-ia-ficou-mais-interessante-em-2026.htm"
     },
     {
-      "title": "20 jogos de PlayStation 1 bons de jogar até hoje",
-      "slug": "20-jogos-de-playstation-1-bons-de-jogar-ate-hoje",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-04-12T22:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/jogos-de-playstation-1-bons-ate-hoje/"
-    },
-    {
-      "title": "Pragmata, Hades 2 nos consoles, Tomodachi Life e mais! Veja os lançamentos de games da semana",
-      "slug": "pragmata-hades-2-nos-consoles-tomodachi-life-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "title": "Asus atualiza Zenbook S14 com chip Intel Core Ultra 3 inédito no Brasil",
+      "slug": "asus-atualiza-zenbook-s14-com-chip-intel-core-ultra-3-inedito-no-brasil",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-04-12T22:30:00.000Z",
+      "date": "2026-04-13T22:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/504022-pragmata-hades-2-nos-consoles-tomodachi-life-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
+      "original_url": "https://www.tecmundo.com.br/produto/412365-asus-atualiza-zenbook-s14-com-chip-intel-core-ultra-3-inedito-no-brasil.htm"
     },
     {
-      "title": "Disney Dreamlight Valley: guia para coletar todos os Mementos (itens)",
-      "slug": "disney-dreamlight-valley-guia-para-coletar-todos-os-mementos-itens",
+      "title": "Site falso do Claude distribui vírus que permite invasão remota a PCs",
+      "slug": "site-falso-do-claude-distribui-virus-que-permite-invasao-remota-a-pcs",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-04-12T17:00:00.000Z",
+      "date": "2026-04-13T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/voxel/503911-disney-dreamlight-valley-guia-para-coletar-todos-os-mementos-itens.htm"
-    },
-    {
-      "title": "Governo da França vai trocar uso de Windows por sistemas com Linux",
-      "slug": "governo-da-franca-vai-trocar-uso-de-windows-por-sistemas-com-linux",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-04-12T15:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/mercado/412335-governo-da-franca-vai-trocar-uso-de-windows-por-sistemas-com-linux.htm"
-    },
-    {
-      "title": "IA entra na lógica da corrida nuclear, mas até bomba atômica tinha regras",
-      "slug": "ia-entra-na-logica-da-corrida-nuclear-mas-ate-bomba-atomica-tinha-regras",
-      "topic": "geral",
-      "source": "UOL Tecnologia",
-      "date": "2026-04-12T08:30:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/04/12/ia-entrana-logica-da-corrida-nuclear-mas-ate-bomba-atomica-tinha-regras.htm"
+      "original_url": "https://www.tecmundo.com.br/seguranca/412361-site-falso-do-claude-distribui-virus-que-permite-invasao-remota-a-pcs.htm"
     }
   ]
 }

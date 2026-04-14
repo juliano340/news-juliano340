@@ -1,0 +1,19 @@
+{
+  "slug": "roblox-vai-exigir-que-criancas-e-adolescentes-usem-versoes-com-jogos-adequados-as-suas-idades",
+  "generated_at": "2026-04-14T01:02:58.592Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

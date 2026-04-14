@@ -1,0 +1,19 @@
+{
+  "slug": "professora-fala-sobre-reflexos-do-meme-6-7-em-sala-de-aula",
+  "generated_at": "2026-04-14T01:57:09.929Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

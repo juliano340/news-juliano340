@@ -1,14 +1,12 @@
-# Weekly IA para Devs - 2026-04-13
+# Weekly IA para Devs - 2026-04-14
 
-Gerado em 2026-04-13T02:07:54.257Z
+Gerado em 2026-04-14T01:57:12.216Z
 
-- [Fiat Palio apaga velinhas: 30 anos do "papa Gol"](https://canaltech.com.br/carros/fiat-palio-apaga-velinhas-30-anos-do-papa-gol/) | topico: produtividade-dev | score: 92
-- [Chega de bajulação: 8 prompts para IA ser mais honesta e crítica](https://canaltech.com.br/inteligencia-artificial/chega-de-bajulacao-prompts-para-ia-ser-mais-honesta-critica/) | topico: llms | score: 100
-- [20 jogos de PlayStation 1 bons de jogar até hoje](https://canaltech.com.br/games/jogos-de-playstation-1-bons-ate-hoje/) | topico: geral | score: 100
-- [Pragmata, Hades 2 nos consoles, Tomodachi Life e mais! Veja os lançamentos de games da semana](https://www.tecmundo.com.br/voxel/504022-pragmata-hades-2-nos-consoles-tomodachi-life-e-mais-veja-os-lancamentos-de-games-da-semana.htm) | topico: geral | score: 100
-- [Disney Dreamlight Valley: guia para coletar todos os Mementos (itens)](https://www.tecmundo.com.br/voxel/503911-disney-dreamlight-valley-guia-para-coletar-todos-os-mementos-itens.htm) | topico: geral | score: 100
-- [Governo da França vai trocar uso de Windows por sistemas com Linux](https://www.tecmundo.com.br/mercado/412335-governo-da-franca-vai-trocar-uso-de-windows-por-sistemas-com-linux.htm) | topico: geral | score: 100
-- [IA entra na lógica da corrida nuclear, mas até bomba atômica tinha regras](https://www.uol.com.br/tilt/colunas/diogo-cortiz/2026/04/12/ia-entrana-logica-da-corrida-nuclear-mas-ate-bomba-atomica-tinha-regras.htm) | topico: geral | score: 100
-- ['Quando você está lá fora, quer voltar', diz comandante após viagem à Lua](https://www.uol.com.br/tilt/noticias/redacao/2026/04/11/astronautas-coletiva-artemis-2.htm) | topico: geral | score: 100
-- [Moranguete e Abacatudo: quem está por trás da 'Novela das Frutas'?](https://www.uol.com.br/tilt/ultimas-noticias/estado/2026/04/11/moranguete-e-abacatudo-quem-esta-por-tras-da-novela-das-frutas.htm) | topico: geral | score: 92
-- [Incerteza, ansiedade: o que as palavras do ano andam dizendo sobre nós](https://www.uol.com.br/tilt/colunas/blog-do-dunker/2026/04/11/incerteza-ansiedade-o-que-as-palavras-do-ano-andam-dizendo-sobre-nos.htm) | topico: geral | score: 92
+- [Galaxy Tab S11 (256 GB) com tela de 11″ recebe 29% de desconto na Amazon](https://tecnoblog.net/achados/galaxy-tab-s11-256-gb-com-tela-de-11-recebe-29-de-desconto-na-amazon/) | topico: geral | score: 92
+- [Apple muda teclado e impede usuário de acessar o próprio iPhone](https://tecnoblog.net/noticias/ios-muda-teclado-e-impede-usuario-de-acessar-o-proprio-iphone/) | topico: produtividade-dev | score: 100
+- [Mate 80 Pro: novo celular top da chinesa Huawei chega ao Brasil; veja o preço](https://canaltech.com.br/smartphone/mate-80-pro-novo-celular-top-da-chinesa-huawei-chega-ao-brasil-veja-o-preco/) | topico: geral | score: 100
+- [Híbridos mais vendidos em março: "família" Song reina e Yaris Cross sobe](https://canaltech.com.br/carros/hibridos-mais-vendidos-em-marco-familia-song-reina-e-yaris-cross-sobe/) | topico: produtividade-dev | score: 100
+- [Sony testa visual inédito para a PS Store; veja o que muda no seu PS5](https://canaltech.com.br/games/sony-testa-visual-inedito-para-a-ps-store-veja-o-que-muda-no-seu-ps5/) | topico: geral | score: 100
+- [Claude Code abriu vantagem e a corrida da IA ficou mais interessante em 2026](https://www.tecmundo.com.br/software/412342-claude-code-abriu-vantagem-e-a-corrida-da-ia-ficou-mais-interessante-em-2026.htm) | topico: llms | score: 100
+- [Asus atualiza Zenbook S14 com chip Intel Core Ultra 3 inédito no Brasil](https://www.tecmundo.com.br/produto/412365-asus-atualiza-zenbook-s14-com-chip-intel-core-ultra-3-inedito-no-brasil.htm) | topico: geral | score: 100
+- [Site falso do Claude distribui vírus que permite invasão remota a PCs](https://www.tecmundo.com.br/seguranca/412361-site-falso-do-claude-distribui-virus-que-permite-invasao-remota-a-pcs.htm) | topico: geral | score: 100
