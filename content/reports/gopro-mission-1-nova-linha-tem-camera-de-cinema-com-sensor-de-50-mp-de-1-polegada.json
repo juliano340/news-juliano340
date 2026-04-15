@@ -1,0 +1,19 @@
+{
+  "slug": "gopro-mission-1-nova-linha-tem-camera-de-cinema-com-sensor-de-50-mp-de-1-polegada",
+  "generated_at": "2026-04-14T15:00:24.148Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

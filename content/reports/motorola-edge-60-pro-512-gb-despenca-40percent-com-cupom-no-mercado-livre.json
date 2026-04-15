@@ -1,0 +1,19 @@
+{
+  "slug": "motorola-edge-60-pro-512-gb-despenca-40percent-com-cupom-no-mercado-livre",
+  "generated_at": "2026-04-15T01:47:50.227Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

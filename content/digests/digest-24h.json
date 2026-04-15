@@ -1,79 +1,97 @@
 {
-  "generated_at": "2026-04-14T01:57:12.216Z",
+  "generated_at": "2026-04-15T01:57:59.449Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 8,
+  "total": 10,
   "posts": [
     {
-      "title": "Galaxy Tab S11 (256 GB) com tela de 11″ recebe 29% de desconto na Amazon",
-      "slug": "galaxy-tab-s11-256-gb-com-tela-de-11-recebe-29percent-de-desconto-na-amazon",
+      "title": "Galaxy Watch 8 LTE (44 mm) volta a cair com 49% OFF no Mercado Livre",
+      "slug": "galaxy-watch-8-lte-44-mm-volta-a-cair-com-49percent-off-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-04-13T21:17:12.000Z",
+      "date": "2026-04-14T21:48:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s11-256-gb-com-tela-de-11-recebe-29-de-desconto-na-amazon/"
+      "original_url": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-volta-a-cair-com-49-off-no-mercado-livre/"
     },
     {
-      "title": "Apple muda teclado e impede usuário de acessar o próprio iPhone",
-      "slug": "apple-muda-teclado-e-impede-usuario-de-acessar-o-proprio-iphone",
-      "topic": "produtividade-dev",
+      "title": "Galaxy Buds 3 FE em até 10x sai 37% mais barato com cupom no Mercado Livre",
+      "slug": "galaxy-buds-3-fe-em-ate-10x-sai-37percent-mais-barato-com-cupom-no-mercado-livre",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-04-13T18:01:40.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/ios-muda-teclado-e-impede-usuario-de-acessar-o-proprio-iphone/"
+      "date": "2026-04-14T21:37:14.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-buds-3-fe-em-ate-10x-sai-37-mais-barato-com-cupom-no-mercado-livre/"
     },
     {
-      "title": "Mate 80 Pro: novo celular top da chinesa Huawei chega ao Brasil; veja o preço",
-      "slug": "mate-80-pro-novo-celular-top-da-chinesa-huawei-chega-ao-brasil-veja-o-preco",
+      "title": "Garmin Forerunner 55 recebe 51% OFF em oferta histórica no Mercado Livre",
+      "slug": "garmin-forerunner-55-recebe-51percent-off-em-oferta-historica-no-mercado-livre",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-04-13T20:26:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-04-14T21:36:56.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/mate-80-pro-novo-celular-top-da-chinesa-huawei-chega-ao-brasil-veja-o-preco/"
+      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-55-recebe-51-off-em-oferta-historica-no-mercado-livre/"
     },
     {
-      "title": "Híbridos mais vendidos em março: \"família\" Song reina e Yaris Cross sobe",
-      "slug": "hibridos-mais-vendidos-em-marco-familia-song-reina-e-yaris-cross-sobe",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-04-13T20:05:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/hibridos-mais-vendidos-em-marco-familia-song-reina-e-yaris-cross-sobe/"
-    },
-    {
-      "title": "Sony testa visual inédito para a PS Store; veja o que muda no seu PS5",
-      "slug": "sony-testa-visual-inedito-para-a-ps-store-veja-o-que-muda-no-seu-ps5",
+      "title": "Motorola Signature (512 GB) tem menor preço desde lançamento no Mercado Livre",
+      "slug": "motorola-signature-512-gb-tem-menor-preco-desde-lancamento-no-mercado-livre",
       "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-04-13T20:04:31.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-04-14T20:53:50.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/sony-testa-visual-inedito-para-a-ps-store-veja-o-que-muda-no-seu-ps5/"
+      "original_url": "https://tecnoblog.net/achados/motorola-signature-512-gb-tem-menor-preco-desde-lancamento-no-mercado-livre/"
     },
     {
-      "title": "Claude Code abriu vantagem e a corrida da IA ficou mais interessante em 2026",
-      "slug": "claude-code-abriu-vantagem-e-a-corrida-da-ia-ficou-mais-interessante-em-2026",
+      "title": "Chrome ganha prompts de IA para realizar tarefas com um clique",
+      "slug": "chrome-ganha-prompts-de-ia-para-realizar-tarefas-com-um-clique",
       "topic": "llms",
-      "source": "Tecmundo",
-      "date": "2026-04-13T23:00:00.000Z",
+      "source": "Tecnoblog",
+      "date": "2026-04-14T20:36:27.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/software/412342-claude-code-abriu-vantagem-e-a-corrida-da-ia-ficou-mais-interessante-em-2026.htm"
+      "original_url": "https://tecnoblog.net/noticias/chrome-ganha-prompts-de-ia-para-realizar-tarefas-com-um-clique/"
     },
     {
-      "title": "Asus atualiza Zenbook S14 com chip Intel Core Ultra 3 inédito no Brasil",
-      "slug": "asus-atualiza-zenbook-s14-com-chip-intel-core-ultra-3-inedito-no-brasil",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-04-13T22:30:00.000Z",
+      "title": "Guia de conquistas e troféus de Batman: Arkham Knight",
+      "slug": "guia-de-conquistas-e-trofeus-de-batman-arkham-knight",
+      "topic": "seguranca-ia",
+      "source": "Tecnoblog",
+      "date": "2026-04-14T20:27:51.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/produto/412365-asus-atualiza-zenbook-s14-com-chip-intel-core-ultra-3-inedito-no-brasil.htm"
+      "original_url": "https://tecnoblog.net/responde/guia-de-conquistas-e-trofeus-de-batman-arkham-knight/"
     },
     {
-      "title": "Site falso do Claude distribui vírus que permite invasão remota a PCs",
-      "slug": "site-falso-do-claude-distribui-virus-que-permite-invasao-remota-a-pcs",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-04-13T22:00:00.000Z",
+      "title": "Google lança app para Windows com buscador e Modo IA integrados",
+      "slug": "google-lanca-app-para-windows-com-buscador-e-modo-ia-integrados",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-04-14T20:12:45.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/seguranca/412361-site-falso-do-claude-distribui-virus-que-permite-invasao-remota-a-pcs.htm"
+      "original_url": "https://tecnoblog.net/noticias/google-lanca-app-para-windows-com-buscador-e-modo-ia-integrados/"
+    },
+    {
+      "title": "O que é hash? Entenda a função matemática que transforma dados em códigos",
+      "slug": "o-que-e-hash-entenda-a-funcao-matematica-que-transforma-dados-em-codigos",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-14T19:42:26.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/o-que-e-hash-entenda-a-funcao-matematica-que-transforma-dados-em-codigos/"
+    },
+    {
+      "title": "Sem girl power? O que filme cancelado da Pixar revela sobre Hollywood",
+      "slug": "sem-girl-power-o-que-filme-cancelado-da-pixar-revela-sobre-hollywood",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-14T21:30:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/entretenimento/sem-girl-power-o-que-filme-cancelado-da-pixar-revela-sobre-hollywood/"
+    },
+    {
+      "title": "PGB 2026: Preços altos mudam a forma como compramos jogos? Entenda",
+      "slug": "pgb-2026-precos-altos-mudam-a-forma-como-compramos-jogos-entenda",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-14T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/pgb-2026-precos-altos-mudam-a-forma-como-compramos-jogos-entenda/"
     }
   ]
 }

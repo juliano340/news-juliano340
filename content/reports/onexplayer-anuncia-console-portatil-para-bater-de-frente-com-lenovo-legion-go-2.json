@@ -1,0 +1,19 @@
+{
+  "slug": "onexplayer-anuncia-console-portatil-para-bater-de-frente-com-lenovo-legion-go-2",
+  "generated_at": "2026-04-14T15:00:21.593Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
