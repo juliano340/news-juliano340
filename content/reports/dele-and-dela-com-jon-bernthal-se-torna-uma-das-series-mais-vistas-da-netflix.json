@@ -1,0 +1,19 @@
+{
+  "slug": "dele-and-dela-com-jon-bernthal-se-torna-uma-das-series-mais-vistas-da-netflix",
+  "generated_at": "2026-04-15T13:00:17.126Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

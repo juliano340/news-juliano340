@@ -1,0 +1,19 @@
+{
+  "slug": "play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-15",
+  "generated_at": "2026-04-15T15:00:23.095Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

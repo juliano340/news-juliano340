@@ -1,0 +1,19 @@
+{
+  "slug": "snap-aposta-na-ia-e-corta-1000-empregos-apos-pressao-de-investidor-ativista",
+  "generated_at": "2026-04-16T01:22:08.603Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "one-ui-9-trara-recurso-de-compartilhamento-ultrarrapido-para-celulares-galaxy",
+  "generated_at": "2026-04-15T15:00:19.765Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

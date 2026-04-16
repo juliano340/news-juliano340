@@ -1,0 +1,19 @@
+{
+  "slug": "cnh-para-jovens-de-16-anos-volta-a-ser-tema-no-congresso",
+  "generated_at": "2026-04-15T11:00:14.266Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

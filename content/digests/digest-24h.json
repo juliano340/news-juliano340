@@ -1,97 +1,88 @@
 {
-  "generated_at": "2026-04-15T01:57:59.449Z",
+  "generated_at": "2026-04-16T01:22:09.648Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 10,
+  "total": 9,
   "posts": [
     {
-      "title": "Galaxy Watch 8 LTE (44 mm) volta a cair com 49% OFF no Mercado Livre",
-      "slug": "galaxy-watch-8-lte-44-mm-volta-a-cair-com-49percent-off-no-mercado-livre",
+      "title": "Booking.com confirma invasão em seus sistemas e alerta clientes para possível vazamento de dados",
+      "slug": "bookingcom-confirma-invasao-em-seus-sistemas-e-alerta-clientes-para-possivel-vazamento-de-dados",
       "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-14T21:48:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-volta-a-cair-com-49-off-no-mercado-livre/"
-    },
-    {
-      "title": "Galaxy Buds 3 FE em até 10x sai 37% mais barato com cupom no Mercado Livre",
-      "slug": "galaxy-buds-3-fe-em-ate-10x-sai-37percent-mais-barato-com-cupom-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-14T21:37:14.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-buds-3-fe-em-ate-10x-sai-37-mais-barato-com-cupom-no-mercado-livre/"
-    },
-    {
-      "title": "Garmin Forerunner 55 recebe 51% OFF em oferta histórica no Mercado Livre",
-      "slug": "garmin-forerunner-55-recebe-51percent-off-em-oferta-historica-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-14T21:36:56.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-04-15T12:55:56.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-55-recebe-51-off-em-oferta-historica-no-mercado-livre/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/bookingcom-confirma-invasao-em-seus-sistemas-e-alerta-clientes-para-possivel-vazamento-de-dados.ghtml"
     },
     {
-      "title": "Motorola Signature (512 GB) tem menor preço desde lançamento no Mercado Livre",
-      "slug": "motorola-signature-512-gb-tem-menor-preco-desde-lancamento-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-14T20:53:50.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/motorola-signature-512-gb-tem-menor-preco-desde-lancamento-no-mercado-livre/"
-    },
-    {
-      "title": "Chrome ganha prompts de IA para realizar tarefas com um clique",
-      "slug": "chrome-ganha-prompts-de-ia-para-realizar-tarefas-com-um-clique",
+      "title": "Galaxy A57 e A37: Samsung lança novos celulares intermediários com foco em IA",
+      "slug": "galaxy-a57-e-a37-samsung-lanca-novos-celulares-intermediarios-com-foco-em-ia",
       "topic": "llms",
-      "source": "Tecnoblog",
-      "date": "2026-04-14T20:36:27.000Z",
+      "source": "G1 Tecnologia",
+      "date": "2026-04-15T03:01:28.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/chrome-ganha-prompts-de-ia-para-realizar-tarefas-com-um-clique/"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/galaxy-a57-e-a37-samsung-lanca-novos-celulares-intermediarios-com-foco-em-ia.ghtml"
     },
     {
-      "title": "Guia de conquistas e troféus de Batman: Arkham Knight",
-      "slug": "guia-de-conquistas-e-trofeus-de-batman-arkham-knight",
-      "topic": "seguranca-ia",
+      "title": "Huawei Band 11 tem 45% de desconto com cupom no Mercado Livre",
+      "slug": "huawei-band-11-tem-45percent-de-desconto-com-cupom-no-mercado-livre",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-04-14T20:27:51.000Z",
+      "date": "2026-04-15T21:50:47.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/guia-de-conquistas-e-trofeus-de-batman-arkham-knight/"
+      "original_url": "https://tecnoblog.net/achados/huawei-band-11-tem-45-de-desconto-com-cupom-no-mercado-livre/"
     },
     {
-      "title": "Google lança app para Windows com buscador e Modo IA integrados",
-      "slug": "google-lanca-app-para-windows-com-buscador-e-modo-ia-integrados",
+      "title": "Smart TV LG QNED 50” sai com 39% OFF em até 10x sem juros no Mercado Livre",
+      "slug": "smart-tv-lg-qned-50-sai-com-39percent-off-em-ate-10x-sem-juros-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-15T21:22:59.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-sai-com-39-off-em-ate-10x-sem-juros-no-mercado-livre/"
+    },
+    {
+      "title": "Galaxy A56 (256 GB) tem 43% de desconto após Galaxy A57 chegar no Brasil",
+      "slug": "galaxy-a56-256-gb-tem-43percent-de-desconto-apos-galaxy-a57-chegar-no-brasil",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-15T20:57:10.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-a56-256-gb-tem-menor-preco-do-ano-ate-12x-apos-galaxy-a57-chegar-no-brasil/"
+    },
+    {
+      "title": "Garmin Forerunner 165 tem 31% OFF em até 10x com cupom na Amazon",
+      "slug": "garmin-forerunner-165-tem-31percent-off-em-ate-10x-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-15T20:17:06.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-165-tem-31-off-em-ate-10x-com-cupom-na-amazon/"
+    },
+    {
+      "title": "Echo Dot ganha visual de bola de basquete em edição especial NBA",
+      "slug": "echo-dot-ganha-visual-de-bola-de-basquete-em-edicao-especial-nba",
+      "topic": "produtividade-dev",
+      "source": "Tecnoblog",
+      "date": "2026-04-15T19:44:48.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/echo-dot-ganha-visual-de-bola-de-basquete-em-edicao-especial-nba/"
+    },
+    {
+      "title": "O que é chip quântico? Saiba a importância do componente na computação",
+      "slug": "o-que-e-chip-quantico-saiba-a-importancia-do-componente-na-computacao",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-15T19:40:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/responde/o-que-e-chip-quantico-saiba-a-importancia-do-componente-na-computacao/"
+    },
+    {
+      "title": "Alta de 58%: app avisa sobre garantia de celulares e outros aparelhos",
+      "slug": "alta-de-58percent-app-avisa-sobre-garantia-de-celulares-e-outros-aparelhos",
       "topic": "agentes",
       "source": "Tecnoblog",
-      "date": "2026-04-14T20:12:45.000Z",
+      "date": "2026-04-15T18:55:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/google-lanca-app-para-windows-com-buscador-e-modo-ia-integrados/"
-    },
-    {
-      "title": "O que é hash? Entenda a função matemática que transforma dados em códigos",
-      "slug": "o-que-e-hash-entenda-a-funcao-matematica-que-transforma-dados-em-codigos",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-14T19:42:26.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-hash-entenda-a-funcao-matematica-que-transforma-dados-em-codigos/"
-    },
-    {
-      "title": "Sem girl power? O que filme cancelado da Pixar revela sobre Hollywood",
-      "slug": "sem-girl-power-o-que-filme-cancelado-da-pixar-revela-sobre-hollywood",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-04-14T21:30:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/entretenimento/sem-girl-power-o-que-filme-cancelado-da-pixar-revela-sobre-hollywood/"
-    },
-    {
-      "title": "PGB 2026: Preços altos mudam a forma como compramos jogos? Entenda",
-      "slug": "pgb-2026-precos-altos-mudam-a-forma-como-compramos-jogos-entenda",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-04-14T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/games/pgb-2026-precos-altos-mudam-a-forma-como-compramos-jogos-entenda/"
+      "original_url": "https://tecnoblog.net/noticias/alta-de-58-app-avisa-sobre-garantia-de-celulares-e-outros-aparelhos/"
     }
   ]
 }

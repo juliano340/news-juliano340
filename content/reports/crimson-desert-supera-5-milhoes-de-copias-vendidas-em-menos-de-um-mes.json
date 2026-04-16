@@ -1,0 +1,19 @@
+{
+  "slug": "crimson-desert-supera-5-milhoes-de-copias-vendidas-em-menos-de-um-mes",
+  "generated_at": "2026-04-16T01:22:04.495Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

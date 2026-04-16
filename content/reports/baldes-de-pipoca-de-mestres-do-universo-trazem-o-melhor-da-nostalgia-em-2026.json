@@ -1,0 +1,19 @@
+{
+  "slug": "baldes-de-pipoca-de-mestres-do-universo-trazem-o-melhor-da-nostalgia-em-2026",
+  "generated_at": "2026-04-15T13:00:15.528Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

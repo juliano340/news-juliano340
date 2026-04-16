@@ -1,0 +1,19 @@
+{
+  "slug": "novo-purificador-de-agua-da-xiaomi-remove-145-tipos-de-impurezas",
+  "generated_at": "2026-04-15T11:00:13.958Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

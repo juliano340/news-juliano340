@@ -1,0 +1,19 @@
+{
+  "slug": "duolingo-volta-atras-e-nao-vai-avaliar-adesao-de-funcionarios-a-ia",
+  "generated_at": "2026-04-15T19:00:19.261Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "google-vai-punir-sites-que-travam-botao-voltar-do-navegador",
+  "generated_at": "2026-04-15T15:00:15.292Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
