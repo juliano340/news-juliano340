@@ -1,0 +1,19 @@
+{
+  "slug": "steam-libera-jogo-de-terror-bizarro-de-graca-por-tempo-limitado-resgate-agora-16",
+  "generated_at": "2026-04-17T01:24:00.015Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

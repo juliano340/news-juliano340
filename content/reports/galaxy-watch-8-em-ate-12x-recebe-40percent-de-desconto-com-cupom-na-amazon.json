@@ -1,0 +1,19 @@
+{
+  "slug": "galaxy-watch-8-em-ate-12x-recebe-40percent-de-desconto-com-cupom-na-amazon",
+  "generated_at": "2026-04-17T01:11:54.901Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

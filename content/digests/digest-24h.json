@@ -1,88 +1,133 @@
 {
-  "generated_at": "2026-04-16T01:22:09.648Z",
+  "generated_at": "2026-04-17T01:24:04.522Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 9,
+  "total": 14,
   "posts": [
     {
-      "title": "Booking.com confirma invasão em seus sistemas e alerta clientes para possível vazamento de dados",
-      "slug": "bookingcom-confirma-invasao-em-seus-sistemas-e-alerta-clientes-para-possivel-vazamento-de-dados",
-      "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-04-15T12:55:56.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/bookingcom-confirma-invasao-em-seus-sistemas-e-alerta-clientes-para-possivel-vazamento-de-dados.ghtml"
-    },
-    {
-      "title": "Galaxy A57 e A37: Samsung lança novos celulares intermediários com foco em IA",
-      "slug": "galaxy-a57-e-a37-samsung-lanca-novos-celulares-intermediarios-com-foco-em-ia",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-04-15T03:01:28.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/15/galaxy-a57-e-a37-samsung-lanca-novos-celulares-intermediarios-com-foco-em-ia.ghtml"
-    },
-    {
-      "title": "Huawei Band 11 tem 45% de desconto com cupom no Mercado Livre",
-      "slug": "huawei-band-11-tem-45percent-de-desconto-com-cupom-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-15T21:50:47.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/huawei-band-11-tem-45-de-desconto-com-cupom-no-mercado-livre/"
-    },
-    {
-      "title": "Smart TV LG QNED 50” sai com 39% OFF em até 10x sem juros no Mercado Livre",
-      "slug": "smart-tv-lg-qned-50-sai-com-39percent-off-em-ate-10x-sem-juros-no-mercado-livre",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-15T21:22:59.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-sai-com-39-off-em-ate-10x-sem-juros-no-mercado-livre/"
-    },
-    {
-      "title": "Galaxy A56 (256 GB) tem 43% de desconto após Galaxy A57 chegar no Brasil",
-      "slug": "galaxy-a56-256-gb-tem-43percent-de-desconto-apos-galaxy-a57-chegar-no-brasil",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-15T20:57:10.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/galaxy-a56-256-gb-tem-menor-preco-do-ano-ate-12x-apos-galaxy-a57-chegar-no-brasil/"
-    },
-    {
-      "title": "Garmin Forerunner 165 tem 31% OFF em até 10x com cupom na Amazon",
-      "slug": "garmin-forerunner-165-tem-31percent-off-em-ate-10x-com-cupom-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-15T20:17:06.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-165-tem-31-off-em-ate-10x-com-cupom-na-amazon/"
-    },
-    {
-      "title": "Echo Dot ganha visual de bola de basquete em edição especial NBA",
-      "slug": "echo-dot-ganha-visual-de-bola-de-basquete-em-edicao-especial-nba",
+      "title": "Dona da Gucci vai lançar óculos inteligentes em parceria com o Google no próximo ano, diz presidente",
+      "slug": "dona-da-gucci-vai-lancar-oculos-inteligentes-em-parceria-com-o-google-no-proximo-ano-diz-presidente",
       "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-04-15T19:44:48.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/echo-dot-ganha-visual-de-bola-de-basquete-em-edicao-especial-nba/"
+      "source": "G1 Tecnologia",
+      "date": "2026-04-16T17:21:38.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/16/dona-da-gucci-oculos-google.ghtml"
     },
     {
-      "title": "O que é chip quântico? Saiba a importância do componente na computação",
-      "slug": "o-que-e-chip-quantico-saiba-a-importancia-do-componente-na-computacao",
+      "title": "Canal pró-Irã que viralizou com vídeos em IA contra Trump é suspenso pelo YouTube",
+      "slug": "canal-pro-ira-que-viralizou-com-videos-em-ia-contra-trump-e-suspenso-pelo-youtube",
+      "topic": "produtividade-dev",
+      "source": "G1 Tecnologia",
+      "date": "2026-04-16T10:26:52.000Z",
+      "editorial_score": 100,
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/16/youtube-suspende-canal-pro-ira-que-publicava-videos-zombando-de-trump.ghtml"
+    },
+    {
+      "title": "Redmi Watch 5 Active chega a ficar 64% mais barato no Mercado Livre",
+      "slug": "redmi-watch-5-active-chega-a-ficar-64percent-mais-barato-no-mercado-livre",
       "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-04-15T19:40:07.000Z",
+      "date": "2026-04-16T22:19:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-chip-quantico-saiba-a-importancia-do-componente-na-computacao/"
+      "original_url": "https://tecnoblog.net/achados/redmi-watch-5-active-chega-a-ficar-64-mais-barato-no-mercado-livre/"
     },
     {
-      "title": "Alta de 58%: app avisa sobre garantia de celulares e outros aparelhos",
-      "slug": "alta-de-58percent-app-avisa-sobre-garantia-de-celulares-e-outros-aparelhos",
-      "topic": "agentes",
+      "title": "Monitor Samsung Odyssey G5 27” surge com 26% OFF em oferta no Mercado Livre",
+      "slug": "monitor-samsung-odyssey-g5-27-surge-com-26percent-off-em-oferta-no-mercado-livre",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-04-15T18:55:38.000Z",
+      "date": "2026-04-16T22:07:54.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/monitor-samsung-odyssey-g5-27-surge-com-26-off-em-oferta-no-mercado-livre/"
+    },
+    {
+      "title": "Galaxy Tab S11 5G (256 GB) está com mais de R$ 1.200 reais de desconto na Amazon",
+      "slug": "galaxy-tab-s11-5g-256-gb-esta-com-mais-de-rdollar-1200-reais-de-desconto-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-16T21:46:44.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-tab-s11-5g-256-gb-esta-com-mais-de-r-1-200-reais-de-desconto-na-amazon/"
+    },
+    {
+      "title": "O que é qubit? Saiba como funcionam os bits quânticos",
+      "slug": "o-que-e-qubit-saiba-como-funcionam-os-bits-quanticos",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-16T20:08:54.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/alta-de-58-app-avisa-sobre-garantia-de-celulares-e-outros-aparelhos/"
+      "original_url": "https://tecnoblog.net/responde/o-que-e-qubit-saiba-como-funcionam-os-bits-quanticos/"
+    },
+    {
+      "title": "Amazon apresenta nova geração do Fire TV Stick HD",
+      "slug": "amazon-apresenta-nova-geracao-do-fire-tv-stick-hd",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-16T19:55:26.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/amazon-apresenta-nova-geracao-do-fire-tv-stick-hd/"
+    },
+    {
+      "title": "Linux: Zorin OS 18.1 traz mais recursos para quem foge do Windows",
+      "slug": "linux-zorin-os-181-traz-mais-recursos-para-quem-foge-do-windows",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-16T19:47:22.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/noticias/zorin-os-18-1-chega-com-mais-recursos-para-quem-foge-do-windows/"
+    },
+    {
+      "title": "Apple vai enviar engenheiros da Siri para intensivo de programação com IA",
+      "slug": "apple-vai-enviar-engenheiros-da-siri-para-intensivo-de-programacao-com-ia",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-04-16T19:41:07.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/apple-vai-enviar-engenheiros-da-siri-para-intensivo-de-programacao-com-ia/"
+    },
+    {
+      "title": "Motorola Edge 60 Pro (256 GB) fica 35% mais barato com cupom na Amazon",
+      "slug": "motorola-edge-60-pro-256-gb-fica-35percent-mais-barato-com-cupom-na-amazon",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-16T18:21:24.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-fica-35-mais-barato-com-cupom-na-amazon/"
+    },
+    {
+      "title": "Filme de Call of Duty ganha data de estreia para 2028; confira detalhes",
+      "slug": "filme-de-call-of-duty-ganha-data-de-estreia-para-2028-confira-detalhes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-16T21:30:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/filme-de-call-of-duty-ganha-data-de-estreia-para-2028-confira-detalhes/"
+    },
+    {
+      "title": "Testamos Pragmata no PC: uma nova vitrine para o path tracing",
+      "slug": "testamos-pragmata-no-pc-uma-nova-vitrine-para-o-path-tracing",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-16T20:56:24.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/testamos-pragmata-no-pc-uma-nova-vitrine-para-o-path-tracing/"
+    },
+    {
+      "title": "Velocidade extrema por um precinho: Samsung Odyssey G40 240 Hz em promoção",
+      "slug": "velocidade-extrema-por-um-precinho-samsung-odyssey-g40-240-hz-em-promocao",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-16T20:46:26.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/hardware/velocidade-extrema-por-um-precinho-samsung-odyssey-g40-240-hz-em-promocao/"
+    },
+    {
+      "title": "Demorou, mas veio aí: Top Gun 3 é oficializado com retorno de Tom Cruise",
+      "slug": "demorou-mas-veio-ai-top-gun-3-e-oficializado-com-retorno-de-tom-cruise",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-16T20:14:01.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/demorou-mas-veio-ai-top-gun-3-e-oficializado-com-retorno-de-tom-cruise/"
     }
   ]
 }
