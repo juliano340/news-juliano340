@@ -1,0 +1,19 @@
+{
+  "slug": "rtx-5050-de-9-gb-pode-ter-sido-cancelada-mas-a-rtx-3060-de-12-gb-vem-ai",
+  "generated_at": "2026-04-17T19:00:12.106Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

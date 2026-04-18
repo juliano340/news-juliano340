@@ -1,0 +1,19 @@
+{
+  "slug": "versoes-antigas-do-excel-trazem-falhas-criticas-de-seguranca",
+  "generated_at": "2026-04-18T01:19:23.441Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

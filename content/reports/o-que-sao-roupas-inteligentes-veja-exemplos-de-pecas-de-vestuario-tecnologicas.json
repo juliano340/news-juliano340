@@ -1,0 +1,19 @@
+{
+  "slug": "o-que-sao-roupas-inteligentes-veja-exemplos-de-pecas-de-vestuario-tecnologicas",
+  "generated_at": "2026-04-18T01:11:04.346Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

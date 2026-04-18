@@ -1,0 +1,19 @@
+{
+  "slug": "xbox-game-pass-recebe-call-of-duty-hades-2-e-mais-jogos-de-peso-esta-semana-confira-os-lancamentos-18",
+  "generated_at": "2026-04-17T21:00:17.020Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

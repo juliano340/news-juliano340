@@ -1,6 +1,6 @@
 {
   "slug": "reed-hastings-cofundador-da-netflix-anuncia-saida-da-empresa-apos-29-anos",
-  "generated_at": "2026-04-17T01:01:38.912Z",
+  "generated_at": "2026-04-18T01:03:44.097Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 335,
+      "words": 372,
       "min": 220
     },
     {

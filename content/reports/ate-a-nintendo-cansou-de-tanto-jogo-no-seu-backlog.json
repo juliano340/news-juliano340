@@ -1,0 +1,19 @@
+{
+  "slug": "ate-a-nintendo-cansou-de-tanto-jogo-no-seu-backlog",
+  "generated_at": "2026-04-18T01:19:23.113Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

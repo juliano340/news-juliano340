@@ -1,0 +1,19 @@
+{
+  "slug": "assassins-creed-black-flag-resynced-sera-lancado-em-julho-indica-site",
+  "generated_at": "2026-04-17T19:00:13.616Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

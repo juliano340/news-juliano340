@@ -1,0 +1,19 @@
+{
+  "slug": "gigabyte-lanca-notebook-de-rdollar-40-mil-no-brasil-com-rtx-5090-exclusivo",
+  "generated_at": "2026-04-17T17:00:21.249Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "iphone-17e-bate-menor-preco-historico-iphone-barato-da-apple-sai-por-rdollar-3970",
+  "generated_at": "2026-04-17T13:00:11.712Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

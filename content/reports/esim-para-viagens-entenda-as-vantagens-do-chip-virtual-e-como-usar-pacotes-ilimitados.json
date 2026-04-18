@@ -1,0 +1,19 @@
+{
+  "slug": "esim-para-viagens-entenda-as-vantagens-do-chip-virtual-e-como-usar-pacotes-ilimitados",
+  "generated_at": "2026-04-17T17:00:17.024Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
