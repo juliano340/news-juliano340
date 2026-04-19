@@ -1,133 +1,133 @@
 {
-  "generated_at": "2026-04-18T01:19:30.091Z",
+  "generated_at": "2026-04-19T01:18:35.041Z",
   "niche": "ia-para-desenvolvedores",
   "total": 14,
   "posts": [
     {
-      "title": "Após a morte do fundador, OnlyFans busca novo investidor em acordo bilionário",
-      "slug": "apos-a-morte-do-fundador-onlyfans-busca-novo-investidor-em-acordo-bilionario",
+      "title": "Review ZN175 Pro | Teclado brasileiro premium com construção robusta",
+      "slug": "review-zn175-pro-or-teclado-brasileiro-premium-com-construcao-robusta",
       "topic": "geral",
-      "source": "G1 Tecnologia",
-      "date": "2026-04-17T12:00:03.000Z",
+      "source": "Canaltech",
+      "date": "2026-04-19T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/17/apos-a-morte-do-fundador-onlyfans-busca-novo-investidor-em-acordo-bilionario.ghtml"
+      "original_url": "https://canaltech.com.br/hardware/review-teclado-zn175-pro/"
     },
     {
-      "title": "Como policiais recuperam conversas e arquivos do celular e da nuvem de investigados",
-      "slug": "como-policiais-recuperam-conversas-e-arquivos-do-celular-e-da-nuvem-de-investigados",
+      "title": "HyperOS 3 no Brasil: celulares Xiaomi compatíveis e cronograma esperado",
+      "slug": "hyperos-3-no-brasil-celulares-xiaomi-compativeis-e-cronograma-esperado",
       "topic": "agentes",
-      "source": "G1 Tecnologia",
-      "date": "2026-04-17T06:00:34.000Z",
-      "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/17/como-policiais-recuperam-conversas-e-arquivos-do-celular-e-da-nuvem-de-investigados.ghtml"
-    },
-    {
-      "title": "Review do Oppo Find X9 Pro: meu Android favorito",
-      "slug": "review-do-oppo-find-x9-pro-meu-android-favorito",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T23:00:07.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/testamos/review-oppo-find-x9-pro-meu-android-favorito/"
-    },
-    {
-      "title": "Linux: Ubuntu 26.04 vem aí e estas são as principais novidades",
-      "slug": "linux-ubuntu-2604-vem-ai-e-estas-sao-as-principais-novidades",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T22:04:54.000Z",
+      "source": "Canaltech",
+      "date": "2026-04-18T23:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/noticias/ubuntu-26-04-lts-principais-novidades/"
+      "original_url": "https://canaltech.com.br/apps/hyperos-3-no-brasil-celulares-xiaomi-compativeis-e-cronograma-esperado/"
     },
     {
-      "title": "Monitor Odyssey G30 24″ da Samsung baixa 31% em oferta por até 12x na Amazon",
-      "slug": "monitor-odyssey-g30-24-da-samsung-baixa-31percent-em-oferta-por-ate-12x-na-amazon",
+      "title": "Quando um grande lançamento costuma chegar ao streaming? Veja como calcular",
+      "slug": "quando-um-grande-lancamento-costuma-chegar-ao-streaming-veja-como-calcular",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-18T22:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/entretenimento/quando-um-grande-lancamento-costuma-chegar-ao-streaming-veja-como-calcular/"
+    },
+    {
+      "title": "Como a antena do celular desapareceu? Entenda como ela funciona hoje",
+      "slug": "como-a-antena-do-celular-desapareceu-entenda-como-ela-funciona-hoje",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-18T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/como-a-antena-do-celular-desapareceu-entenda-como-ela-funciona-hoje/"
+    },
+    {
+      "title": "Quantas marcas chinesas vendem carros no Brasil em 2026?",
+      "slug": "quantas-marcas-chinesas-vendem-carros-no-brasil-em-2026",
       "topic": "produtividade-dev",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T21:34:05.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/monitor-odyssey-g30-24-da-samsung-baixa-31-em-oferta-por-ate-12x-na-amazon/"
-    },
-    {
-      "title": "Garmin Forerunner 165 tem 31% de desconto com cupom no Magalu",
-      "slug": "garmin-forerunner-165-tem-31percent-de-desconto-com-cupom-no-magalu",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T21:06:45.000Z",
+      "source": "Canaltech",
+      "date": "2026-04-18T20:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/garmin-forerunner-165-tem-31-de-desconto-com-cupom-no-magalu/"
+      "original_url": "https://canaltech.com.br/carros/quantas-marcas-chinesas-vendem-carros-no-brasil-em-2026/"
     },
     {
-      "title": "Uber: código para confirmar viagens passa a ser fixo",
-      "slug": "uber-codigo-para-confirmar-viagens-passa-a-ser-fixo",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T19:46:23.000Z",
+      "title": "Testamos o Samsung Galaxy XR: um pedacinho experimental do futuro",
+      "slug": "testamos-o-samsung-galaxy-xr-um-pedacinho-experimental-do-futuro",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-04-18T19:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/uber-codigo-para-confirmar-viagens-passa-a-ser-fixo/"
+      "original_url": "https://canaltech.com.br/produtos/testamos-o-samsung-galaxy-xr-um-pedacinho-experimental-do-futuro/"
     },
     {
-      "title": "Huawei Watch Fit 3 tem menor preço já encontrado com parcelas de R$ 54 na Amazon",
-      "slug": "huawei-watch-fit-3-tem-menor-preco-ja-encontrado-com-parcelas-de-rdollar-54-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T19:01:21.000Z",
-      "editorial_score": 92,
-      "original_url": "https://tecnoblog.net/achados/huawei-watch-fit-3-tem-menor-preco-ja-encontrado-com-parcelas-de-r-54-na-amazon/"
-    },
-    {
-      "title": "Bixby: assistente da Samsung deve receber novos widgets interativos na One UI 9",
-      "slug": "bixby-assistente-da-samsung-deve-receber-novos-widgets-interativos-na-one-ui-9",
-      "topic": "agentes",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T18:43:08.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/bixby-assistente-da-samsung-deve-receber-novos-widgets-interativos-na-one-ui-9/"
-    },
-    {
-      "title": "Criptografia quântica: saiba como funciona e quais são as aplicações da tecnologia",
-      "slug": "criptografia-quantica-saiba-como-funciona-e-quais-sao-as-aplicacoes-da-tecnologia",
-      "topic": "seguranca-ia",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T18:42:58.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/criptografia-quantica-saiba-como-funciona-e-quais-sao-as-aplicacoes-da-tecnologia/"
-    },
-    {
-      "title": "Soundbar JBL SB180 recebe 41% OFF em oferta por até 12x sem juros na Amazon",
-      "slug": "soundbar-jbl-sb180-recebe-41percent-off-em-oferta-por-ate-12x-sem-juros-na-amazon",
-      "topic": "geral",
-      "source": "Tecnoblog",
-      "date": "2026-04-17T17:09:43.000Z",
-      "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/achados/soundbar-jbl-sb180-recebe-41-off-em-oferta-por-ate-12x-sem-juros-na-amazon/"
-    },
-    {
-      "title": "Fiat faz queima e derrete preços de Cronos, Fastback e Titano",
-      "slug": "fiat-faz-queima-e-derrete-precos-de-cronos-fastback-e-titano",
+      "title": "10 filmes pouco lembrados que merecem entrar na sua próxima maratona",
+      "slug": "10-filmes-pouco-lembrados-que-merecem-entrar-na-sua-proxima-maratona",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-17T21:05:00.000Z",
+      "date": "2026-04-18T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/fiat-faz-queima-e-derrete-precos-de-cronos-fastback-e-titano/"
+      "original_url": "https://canaltech.com.br/entretenimento/filmes-pouco-lembrados-para-maratonar/"
     },
     {
-      "title": "Naruto e 7 desenhos clássicos da TV Globinho nos streamings",
-      "slug": "naruto-e-7-desenhos-classicos-da-tv-globinho-nos-streamings",
-      "topic": "geral",
+      "title": "Review Volkswagen Nivus GTS: versão esportiva encanta, mas é cara demais",
+      "slug": "review-volkswagen-nivus-gts-versao-esportiva-encanta-mas-e-cara-demais",
+      "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-04-17T20:30:00.000Z",
+      "date": "2026-04-18T16:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/entretenimento/naruto-e-7-desenhos-classicos-da-tv-globinho-nos-streamings/"
+      "original_url": "https://canaltech.com.br/veiculos/analise/review-volkswagen-nivus-gts-versao-esportiva-encanta-mas-e-cara-demais/"
     },
     {
-      "title": "Shopee faz queima de smartwatch Huawei com ECG e GPS avançado por R$ 1.563",
-      "slug": "shopee-faz-queima-de-smartwatch-huawei-com-ecg-e-gps-avancado-por-rdollar-1563",
+      "title": "5 inovações que transformaram o Apple Watch em um verdadeiro sucesso",
+      "slug": "5-inovacoes-que-transformaram-o-apple-watch-em-um-verdadeiro-sucesso",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-17T20:11:00.000Z",
+      "date": "2026-04-18T15:00:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://canaltech.com.br/produtos/5-inovacoes-que-transformaram-o-apple-watch-em-um-verdadeiro-sucesso/"
+    },
+    {
+      "title": "iFood venderá álbum da Copa 2026 com entrega rápida pelo app",
+      "slug": "ifood-vendera-album-da-copa-2026-com-entrega-rapida-pelo-app",
+      "topic": "llms",
+      "source": "Canaltech",
+      "date": "2026-04-18T14:30:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartwatch/shopee-faz-queima-de-smartwatch-huawei-com-ecg-e-gps-avancado-por-r-1563/"
+      "original_url": "https://canaltech.com.br/apps/ifood-vendera-album-da-copa-2026-com-entrega-rapida-pelo-app/"
+    },
+    {
+      "title": "Final explicado de A Maldição da Múmia: O que aconteceu com Katie?",
+      "slug": "final-explicado-de-a-maldicao-da-mumia-o-que-aconteceu-com-katie",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-18T21:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603616-final-explicado-de-a-maldicao-da-mumia-o-que-aconteceu-com-katie.htm"
+    },
+    {
+      "title": "Mouse P.I For Hire: Veja a localização de todos os ratos colecionáveis",
+      "slug": "mouse-pi-for-hire-veja-a-localizacao-de-todos-os-ratos-colecionaveis",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-18T20:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/voxel/504067-mouse-pi-for-hire-veja-a-localizacao-de-todos-os-ratos-colecionaveis.htm"
+    },
+    {
+      "title": "12 melhores séries policiais para assistir na HBO Max",
+      "slug": "12-melhores-series-policiais-para-assistir-na-hbo-max",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-18T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603567-12-melhores-series-policiais-para-assistir-na-hbo-max.htm"
+    },
+    {
+      "title": "Por onde anda Erik Per Sullivan, de Malcolm In The Middle? Veja destino do ator",
+      "slug": "por-onde-anda-erik-per-sullivan-de-malcolm-in-the-middle-veja-destino-do-ator",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-18T17:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603613-por-onde-anda-erik-per-sullivan-de-malcolm-in-the-middle-veja-destino-do-ator.htm"
     }
   ]
 }
