@@ -1,133 +1,151 @@
 {
-  "generated_at": "2026-04-19T01:18:35.041Z",
+  "generated_at": "2026-04-20T01:16:50.891Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 14,
+  "total": 16,
   "posts": [
     {
-      "title": "Review ZN175 Pro | Teclado brasileiro premium com construção robusta",
-      "slug": "review-zn175-pro-or-teclado-brasileiro-premium-com-construcao-robusta",
+      "title": "Quando será a gamescom latam 2026?",
+      "slug": "quando-sera-a-gamescom-latam-2026",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-19T00:00:00.000Z",
+      "date": "2026-04-20T01:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/hardware/review-teclado-zn175-pro/"
+      "original_url": "https://canaltech.com.br/games/quando-sera-a-gamescom-latam-2026/"
     },
     {
-      "title": "HyperOS 3 no Brasil: celulares Xiaomi compatíveis e cronograma esperado",
-      "slug": "hyperos-3-no-brasil-celulares-xiaomi-compativeis-e-cronograma-esperado",
-      "topic": "agentes",
-      "source": "Canaltech",
-      "date": "2026-04-18T23:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/apps/hyperos-3-no-brasil-celulares-xiaomi-compativeis-e-cronograma-esperado/"
-    },
-    {
-      "title": "Quando um grande lançamento costuma chegar ao streaming? Veja como calcular",
-      "slug": "quando-um-grande-lancamento-costuma-chegar-ao-streaming-veja-como-calcular",
+      "title": "Preview Saros | Ciclo brutal promete elevar experiência de Returnal",
+      "slug": "preview-saros-or-ciclo-brutal-promete-elevar-experiencia-de-returnal",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-18T22:00:00.000Z",
+      "date": "2026-04-20T00:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/quando-um-grande-lancamento-costuma-chegar-ao-streaming-veja-como-calcular/"
+      "original_url": "https://canaltech.com.br/games/preview-saros/"
     },
     {
-      "title": "Como a antena do celular desapareceu? Entenda como ela funciona hoje",
-      "slug": "como-a-antena-do-celular-desapareceu-entenda-como-ela-funciona-hoje",
-      "topic": "geral",
-      "source": "Canaltech",
-      "date": "2026-04-18T21:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/smartphone/como-a-antena-do-celular-desapareceu-entenda-como-ela-funciona-hoje/"
-    },
-    {
-      "title": "Quantas marcas chinesas vendem carros no Brasil em 2026?",
-      "slug": "quantas-marcas-chinesas-vendem-carros-no-brasil-em-2026",
-      "topic": "produtividade-dev",
-      "source": "Canaltech",
-      "date": "2026-04-18T20:00:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/carros/quantas-marcas-chinesas-vendem-carros-no-brasil-em-2026/"
-    },
-    {
-      "title": "Testamos o Samsung Galaxy XR: um pedacinho experimental do futuro",
-      "slug": "testamos-o-samsung-galaxy-xr-um-pedacinho-experimental-do-futuro",
+      "title": "Google Fotos lotado? Libere espaço sem apagar suas melhores fotos",
+      "slug": "google-fotos-lotado-libere-espaco-sem-apagar-suas-melhores-fotos",
       "topic": "llms",
       "source": "Canaltech",
-      "date": "2026-04-18T19:00:00.000Z",
+      "date": "2026-04-19T22:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/produtos/testamos-o-samsung-galaxy-xr-um-pedacinho-experimental-do-futuro/"
+      "original_url": "https://canaltech.com.br/apps/google-fotos-lotado-libere-espaco-sem-apagar-suas-melhores-fotos/"
     },
     {
-      "title": "10 filmes pouco lembrados que merecem entrar na sua próxima maratona",
-      "slug": "10-filmes-pouco-lembrados-que-merecem-entrar-na-sua-proxima-maratona",
+      "title": "Por que celulares baratos têm mais bateria que os mais caros? Entenda essa conta",
+      "slug": "por-que-celulares-baratos-tem-mais-bateria-que-os-mais-caros-entenda-essa-conta",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-18T18:00:00.000Z",
+      "date": "2026-04-19T21:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/entretenimento/filmes-pouco-lembrados-para-maratonar/"
+      "original_url": "https://canaltech.com.br/smartphone/por-que-celulares-baratos-tem-mais-bateria-que-os-mais-caros-entenda-essa-conta/"
     },
     {
-      "title": "Review Volkswagen Nivus GTS: versão esportiva encanta, mas é cara demais",
-      "slug": "review-volkswagen-nivus-gts-versao-esportiva-encanta-mas-e-cara-demais",
+      "title": "Quanto custaria um Ford Fusion hoje, com a correção da inflação?",
+      "slug": "quanto-custaria-um-ford-fusion-hoje-com-a-correcao-da-inflacao",
       "topic": "produtividade-dev",
       "source": "Canaltech",
-      "date": "2026-04-18T16:00:00.000Z",
-      "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/veiculos/analise/review-volkswagen-nivus-gts-versao-esportiva-encanta-mas-e-cara-demais/"
+      "date": "2026-04-19T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/carros/quanto-custaria-um-ford-fusion-hoje-com-a-correcao-da-inflacao/"
     },
     {
-      "title": "5 inovações que transformaram o Apple Watch em um verdadeiro sucesso",
-      "slug": "5-inovacoes-que-transformaram-o-apple-watch-em-um-verdadeiro-sucesso",
+      "title": "Por que alguns apps “devoram a bateria do celular” sem você ver? Nós explicamos",
+      "slug": "por-que-alguns-apps-devoram-a-bateria-do-celular-sem-voce-ver-nos-explicamos",
       "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-18T15:00:00.000Z",
+      "date": "2026-04-19T19:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://canaltech.com.br/produtos/5-inovacoes-que-transformaram-o-apple-watch-em-um-verdadeiro-sucesso/"
+      "original_url": "https://canaltech.com.br/smartphone/por-que-alguns-apps-devoram-a-bateria-do-celular-sem-voce-ver-nos-explicamos/"
     },
     {
-      "title": "iFood venderá álbum da Copa 2026 com entrega rápida pelo app",
-      "slug": "ifood-vendera-album-da-copa-2026-com-entrega-rapida-pelo-app",
-      "topic": "llms",
+      "title": "Testamos o Whoop MG: a pulseira que eleva sua vida fitness a um novo patamar",
+      "slug": "testamos-o-whoop-mg-a-pulseira-que-eleva-sua-vida-fitness-a-um-novo-patamar",
+      "topic": "geral",
       "source": "Canaltech",
-      "date": "2026-04-18T14:30:00.000Z",
+      "date": "2026-04-19T18:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://canaltech.com.br/apps/ifood-vendera-album-da-copa-2026-com-entrega-rapida-pelo-app/"
+      "original_url": "https://canaltech.com.br/produtos/testamos-o-whoop-mg-a-pulseira-que-eleva-sua-vida-fitness-a-um-novo-patamar/"
     },
     {
-      "title": "Final explicado de A Maldição da Múmia: O que aconteceu com Katie?",
-      "slug": "final-explicado-de-a-maldicao-da-mumia-o-que-aconteceu-com-katie",
+      "title": "Exclusivo: Intel revela estratégia e quando CPUs Wildcat Lake chegam ao Brasil",
+      "slug": "exclusivo-intel-revela-estrategia-e-quando-cpus-wildcat-lake-chegam-ao-brasil",
       "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-04-18T21:15:00.000Z",
-      "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603616-final-explicado-de-a-maldicao-da-mumia-o-que-aconteceu-com-katie.htm"
-    },
-    {
-      "title": "Mouse P.I For Hire: Veja a localização de todos os ratos colecionáveis",
-      "slug": "mouse-pi-for-hire-veja-a-localizacao-de-todos-os-ratos-colecionaveis",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-04-18T20:15:00.000Z",
+      "source": "Canaltech",
+      "date": "2026-04-19T17:34:15.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/voxel/504067-mouse-pi-for-hire-veja-a-localizacao-de-todos-os-ratos-colecionaveis.htm"
+      "original_url": "https://canaltech.com.br/hardware/exclusivo-intel-revela-estrategia-e-quando-cpus-wildcat-lake-chegam-ao-brasil/"
     },
     {
-      "title": "12 melhores séries policiais para assistir na HBO Max",
-      "slug": "12-melhores-series-policiais-para-assistir-na-hbo-max",
-      "topic": "geral",
-      "source": "Tecmundo",
-      "date": "2026-04-18T19:00:00.000Z",
+      "title": "7 piores lugares para instalar uma TV na sua casa",
+      "slug": "7-piores-lugares-para-instalar-uma-tv-na-sua-casa",
+      "topic": "produtividade-dev",
+      "source": "Canaltech",
+      "date": "2026-04-19T17:00:00.000Z",
       "editorial_score": 100,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603567-12-melhores-series-policiais-para-assistir-na-hbo-max.htm"
+      "original_url": "https://canaltech.com.br/tv/7-piores-lugares-para-instalar-uma-tv-na-sua-casa/"
     },
     {
-      "title": "Por onde anda Erik Per Sullivan, de Malcolm In The Middle? Veja destino do ator",
-      "slug": "por-onde-anda-erik-per-sullivan-de-malcolm-in-the-middle-veja-destino-do-ator",
+      "title": "Michael, Cangaço Novo e mais! Os lançamentos de filmes e séries da semana (19/04)",
+      "slug": "michael-cangaco-novo-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1904",
       "topic": "geral",
       "source": "Tecmundo",
-      "date": "2026-04-18T17:15:00.000Z",
+      "date": "2026-04-19T21:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603610-michael-cangaco-novo-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1904.htm"
+    },
+    {
+      "title": "Vídeos com mod adulto de Resident Evil Requiem são derrubados pela Capcom",
+      "slug": "videos-com-mod-adulto-de-resident-evil-requiem-sao-derrubados-pela-capcom",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-19T20:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/504062-videos-com-mod-adulto-de-resident-evil-requiem-sao-derrubados-pela-capcom.htm"
+    },
+    {
+      "title": "12 séries médicas para maratonar após The Pitt",
+      "slug": "12-series-medicas-para-maratonar-apos-the-pitt",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-19T19:00:00.000Z",
       "editorial_score": 92,
-      "original_url": "https://www.tecmundo.com.br/minha-serie/603613-por-onde-anda-erik-per-sullivan-de-malcolm-in-the-middle-veja-destino-do-ator.htm"
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603591-12-series-medicas-para-maratonar-apos-the-pitt.htm"
+    },
+    {
+      "title": "Novo Little Nightmares e mais! Veja os lançamentos de games da semana",
+      "slug": "novo-little-nightmares-e-mais-veja-os-lancamentos-de-games-da-semana",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-19T18:52:22.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/504077-novo-little-nightmares-outbound-e-mais-veja-os-lancamentos-de-games-da-semana.htm"
+    },
+    {
+      "title": "Pragmata: Veja localização de todos os Mini Cabin no game",
+      "slug": "pragmata-veja-localizacao-de-todos-os-mini-cabin-no-game",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-19T18:15:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/voxel/504060-pragmata-veja-localizacao-de-todos-os-mini-cabin-no-game.htm"
+    },
+    {
+      "title": "7 filmes biográficos musicais para te aquecer pra Michael",
+      "slug": "7-filmes-biograficos-musicais-para-te-aquecer-pra-michael",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-19T17:15:00.000Z",
+      "editorial_score": 92,
+      "original_url": "https://www.tecmundo.com.br/minha-serie/603615-7-filmes-biograficos-musicais-para-te-aquecer-pra-michael.htm"
+    },
+    {
+      "title": "Anatel e Receita apreendem 5 mil produtos irregulares em Maceió",
+      "slug": "anatel-e-receita-apreendem-5-mil-produtos-irregulares-em-maceio",
+      "topic": "geral",
+      "source": "Tecmundo",
+      "date": "2026-04-19T16:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://www.tecmundo.com.br/mercado/412505-anatel-e-receita-apreendem-5-mil-produtos-irregulares-em-maceio.htm"
     }
   ]
 }
