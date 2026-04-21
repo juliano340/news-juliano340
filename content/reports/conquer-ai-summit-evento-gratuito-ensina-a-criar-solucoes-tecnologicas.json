@@ -1,0 +1,19 @@
+{
+  "slug": "conquer-ai-summit-evento-gratuito-ensina-a-criar-solucoes-tecnologicas",
+  "generated_at": "2026-04-20T21:00:16.374Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

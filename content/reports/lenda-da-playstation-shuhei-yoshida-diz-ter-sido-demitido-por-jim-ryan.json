@@ -1,0 +1,19 @@
+{
+  "slug": "lenda-da-playstation-shuhei-yoshida-diz-ter-sido-demitido-por-jim-ryan",
+  "generated_at": "2026-04-20T13:00:10.251Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "verdent-atualiza-sua-plataforma-para-operar-como-a-primeira-equipe-de-engenharia-com-ia-do-mundo-criada-para-builders",
+  "generated_at": "2026-04-20T19:00:14.194Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

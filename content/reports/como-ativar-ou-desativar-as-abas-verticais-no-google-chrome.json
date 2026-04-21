@@ -1,0 +1,19 @@
+{
+  "slug": "como-ativar-ou-desativar-as-abas-verticais-no-google-chrome",
+  "generated_at": "2026-04-20T17:00:09.813Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

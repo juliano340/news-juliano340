@@ -1,0 +1,19 @@
+{
+  "slug": "google-meet-vai-melhorar-automaticamente-a-qualidade-da-imagem-nas-chamadas",
+  "generated_at": "2026-04-20T17:00:15.311Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

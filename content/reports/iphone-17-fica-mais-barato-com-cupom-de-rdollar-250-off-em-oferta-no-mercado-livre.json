@@ -1,0 +1,19 @@
+{
+  "slug": "iphone-17-fica-mais-barato-com-cupom-de-rdollar-250-off-em-oferta-no-mercado-livre",
+  "generated_at": "2026-04-20T19:00:14.022Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

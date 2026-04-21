@@ -1,20 +1,13 @@
-# Weekly IA para Devs - 2026-04-20
+# Weekly IA para Devs - 2026-04-21
 
-Gerado em 2026-04-20T01:16:50.891Z
+Gerado em 2026-04-21T01:02:22.707Z
 
-- [Quando será a gamescom latam 2026?](https://canaltech.com.br/games/quando-sera-a-gamescom-latam-2026/) | topico: geral | score: 100
-- [Preview Saros | Ciclo brutal promete elevar experiência de Returnal](https://canaltech.com.br/games/preview-saros/) | topico: geral | score: 100
-- [Google Fotos lotado? Libere espaço sem apagar suas melhores fotos](https://canaltech.com.br/apps/google-fotos-lotado-libere-espaco-sem-apagar-suas-melhores-fotos/) | topico: llms | score: 100
-- [Por que celulares baratos têm mais bateria que os mais caros? Entenda essa conta](https://canaltech.com.br/smartphone/por-que-celulares-baratos-tem-mais-bateria-que-os-mais-caros-entenda-essa-conta/) | topico: geral | score: 100
-- [Quanto custaria um Ford Fusion hoje, com a correção da inflação?](https://canaltech.com.br/carros/quanto-custaria-um-ford-fusion-hoje-com-a-correcao-da-inflacao/) | topico: produtividade-dev | score: 100
-- [Por que alguns apps “devoram a bateria do celular” sem você ver? Nós explicamos](https://canaltech.com.br/smartphone/por-que-alguns-apps-devoram-a-bateria-do-celular-sem-voce-ver-nos-explicamos/) | topico: geral | score: 92
-- [Testamos o Whoop MG: a pulseira que eleva sua vida fitness a um novo patamar](https://canaltech.com.br/produtos/testamos-o-whoop-mg-a-pulseira-que-eleva-sua-vida-fitness-a-um-novo-patamar/) | topico: geral | score: 100
-- [Exclusivo: Intel revela estratégia e quando CPUs Wildcat Lake chegam ao Brasil](https://canaltech.com.br/hardware/exclusivo-intel-revela-estrategia-e-quando-cpus-wildcat-lake-chegam-ao-brasil/) | topico: geral | score: 92
-- [7 piores lugares para instalar uma TV na sua casa](https://canaltech.com.br/tv/7-piores-lugares-para-instalar-uma-tv-na-sua-casa/) | topico: produtividade-dev | score: 100
-- [Michael, Cangaço Novo e mais! Os lançamentos de filmes e séries da semana (19/04)](https://www.tecmundo.com.br/minha-serie/603610-michael-cangaco-novo-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1904.htm) | topico: geral | score: 100
-- [Vídeos com mod adulto de Resident Evil Requiem são derrubados pela Capcom](https://www.tecmundo.com.br/voxel/504062-videos-com-mod-adulto-de-resident-evil-requiem-sao-derrubados-pela-capcom.htm) | topico: geral | score: 100
-- [12 séries médicas para maratonar após The Pitt](https://www.tecmundo.com.br/minha-serie/603591-12-series-medicas-para-maratonar-apos-the-pitt.htm) | topico: geral | score: 92
-- [Novo Little Nightmares e mais! Veja os lançamentos de games da semana](https://www.tecmundo.com.br/voxel/504077-novo-little-nightmares-outbound-e-mais-veja-os-lancamentos-de-games-da-semana.htm) | topico: geral | score: 100
-- [Pragmata: Veja localização de todos os Mini Cabin no game](https://www.tecmundo.com.br/voxel/504060-pragmata-veja-localizacao-de-todos-os-mini-cabin-no-game.htm) | topico: geral | score: 100
-- [7 filmes biográficos musicais para te aquecer pra Michael](https://www.tecmundo.com.br/minha-serie/603615-7-filmes-biograficos-musicais-para-te-aquecer-pra-michael.htm) | topico: geral | score: 92
-- [Anatel e Receita apreendem 5 mil produtos irregulares em Maceió](https://www.tecmundo.com.br/mercado/412505-anatel-e-receita-apreendem-5-mil-produtos-irregulares-em-maceio.htm) | topico: geral | score: 100
+- [Quem é John Ternus, sucessor de Tim Cook no comando da Apple](https://g1.globo.com/tecnologia/noticia/2026/04/20/quem-e-john-ternus-sucessor-de-tim-cook-no-comando-da-apple.ghtml) | topico: geral | score: 100
+- [Apple anuncia sucessão: Tim Cook deixará comando e John Ternus será novo CEO](https://g1.globo.com/tecnologia/noticia/2026/04/20/apple-anuncia-sucessao-tim-cook-deixara-comando-e-ternus-sera-novo-ceo.ghtml) | topico: produtividade-dev | score: 100
+- [Musk ignora convocação da França para depor sobre o X](https://g1.globo.com/tecnologia/noticia/2026/04/20/musk-ignora-convocacao-da-franca-para-depor-sobre-o-x.ghtml) | topico: agentes | score: 100
+- [Huawei FreeBuds 5i surge em oferta por até 7x sem juros na Amazon](https://tecnoblog.net/achados/huawei-freebuds-5i-surge-em-oferta-por-ate-7x-sem-juros-na-amazon/) | topico: produtividade-dev | score: 100
+- [Nintendo Switch Lite sai com 33% de desconto no Mercado Livre](https://tecnoblog.net/achados/nintendo-switch-lite-sai-com-33-de-desconto-no-mercado-livre/) | topico: geral | score: 100
+- [Toshiba recusa troca de HDs empresariais por falta de estoque](https://tecnoblog.net/noticias/toshiba-nega-troca-de-hds-empresariais-por-falta-de-estoque/) | topico: produtividade-dev | score: 92
+- [Claude ganha sua primeira ferramenta de design](https://tecnoblog.net/noticias/claude-ganha-sua-primeira-ferramenta-de-design/) | topico: agentes | score: 100
+- [Microsoft vai mexer de novo no Menu Iniciar do Windows 11](https://tecnoblog.net/noticias/microsoft-vai-mexer-de-novo-no-menu-iniciar-do-windows-11/) | topico: geral | score: 100
+- [Microsoft remove atualização que travava a inicialização do Teams](https://tecnoblog.net/noticias/microsoft-remove-atualizacao-que-travava-a-inicializacao-do-teams/) | topico: agentes | score: 100

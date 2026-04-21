@@ -1,0 +1,19 @@
+{
+  "slug": "galaxy-s26-ultra-estaria-com-problema-da-linha-verde-segundo-relatos",
+  "generated_at": "2026-04-20T13:00:10.589Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

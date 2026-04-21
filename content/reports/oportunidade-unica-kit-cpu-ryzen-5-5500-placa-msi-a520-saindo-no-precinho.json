@@ -1,0 +1,19 @@
+{
+  "slug": "oportunidade-unica-kit-cpu-ryzen-5-5500-placa-msi-a520-saindo-no-precinho",
+  "generated_at": "2026-04-20T15:00:12.853Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
