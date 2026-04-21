@@ -1,6 +1,6 @@
 {
-  "slug": "chatgpt-fora-do-ar-usuarios-relatam-instabilidade-nesta-segunda-feira",
-  "generated_at": "2026-04-21T03:00:32.595Z",
+  "slug": "amazon-anuncia-investimento-de-ate-usdollar-25-bilhoes-na-empresa-de-ia-anthropic",
+  "generated_at": "2026-04-21T03:00:21.859Z",
   "status": "PASS",
   "checks": [
     {
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 315,
+      "words": 379,
       "min": 220
     },
     {

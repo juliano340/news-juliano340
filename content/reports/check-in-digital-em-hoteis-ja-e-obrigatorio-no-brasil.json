@@ -1,6 +1,6 @@
 {
   "slug": "check-in-digital-em-hoteis-ja-e-obrigatorio-no-brasil",
-  "generated_at": "2026-04-21T01:01:13.158Z",
+  "generated_at": "2026-04-21T03:00:46.749Z",
   "status": "BLOCK",
   "checks": [
     {
@@ -22,7 +22,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "observacao_sem_3_a_5_bullets",
-      "bullets": 4
+      "bullets": 3
     },
     {
       "id": "primary_source",
@@ -35,7 +35,7 @@
       "status": "PASS",
       "level": "BLOCK",
       "reason": "conteudo_curto",
-      "words": 321,
+      "words": 393,
       "min": 220
     },
     {
