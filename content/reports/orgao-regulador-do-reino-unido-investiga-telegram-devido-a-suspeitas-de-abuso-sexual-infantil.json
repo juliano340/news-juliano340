@@ -1,0 +1,19 @@
+{
+  "slug": "orgao-regulador-do-reino-unido-investiga-telegram-devido-a-suspeitas-de-abuso-sexual-infantil",
+  "generated_at": "2026-04-22T01:03:25.715Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

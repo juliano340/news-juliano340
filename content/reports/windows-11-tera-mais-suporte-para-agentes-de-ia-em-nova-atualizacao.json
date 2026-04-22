@@ -1,0 +1,19 @@
+{
+  "slug": "windows-11-tera-mais-suporte-para-agentes-de-ia-em-nova-atualizacao",
+  "generated_at": "2026-04-22T01:03:24.387Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

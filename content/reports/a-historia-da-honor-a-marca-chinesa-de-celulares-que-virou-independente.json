@@ -1,0 +1,19 @@
+{
+  "slug": "a-historia-da-honor-a-marca-chinesa-de-celulares-que-virou-independente",
+  "generated_at": "2026-04-21T17:00:17.025Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

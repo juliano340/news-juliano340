@@ -1,0 +1,19 @@
+{
+  "slug": "esses-carros-tiveram-a-venda-proibida-no-brasil-saiba-o-porque",
+  "generated_at": "2026-04-22T01:03:22.380Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

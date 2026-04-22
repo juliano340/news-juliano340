@@ -1,0 +1,19 @@
+{
+  "slug": "vtex-day-2026-ia-assume-o-comando-do-varejo-e-inicia-era-do-comercio-agentico",
+  "generated_at": "2026-04-21T19:00:13.322Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

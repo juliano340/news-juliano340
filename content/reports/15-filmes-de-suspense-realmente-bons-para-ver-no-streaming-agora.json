@@ -1,0 +1,19 @@
+{
+  "slug": "15-filmes-de-suspense-realmente-bons-para-ver-no-streaming-agora",
+  "generated_at": "2026-04-21T15:00:25.434Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

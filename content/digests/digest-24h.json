@@ -1,43 +1,151 @@
 {
-  "generated_at": "2026-04-21T03:01:20.069Z",
+  "generated_at": "2026-04-22T01:03:27.246Z",
   "niche": "ia-para-desenvolvedores",
-  "total": 4,
+  "total": 16,
   "posts": [
     {
-      "title": "Amazon anuncia investimento de até US$ 25 bilhões na empresa de IA Anthropic",
-      "slug": "amazon-anuncia-investimento-de-ate-usdollar-25-bilhoes-na-empresa-de-ia-anthropic",
-      "topic": "llms",
+      "title": "Apple entra em 'nova era' com troca de comando após 15 anos",
+      "slug": "apple-entra-em-nova-era-com-troca-de-comando-apos-15-anos",
+      "topic": "geral",
       "source": "G1 Tecnologia",
-      "date": "2026-04-21T01:55:52.000Z",
+      "date": "2026-04-21T11:55:38.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/20/amazon-investimento-anthropic.ghtml"
+      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/21/apple-entra-em-nova-era-com-troca-de-comando-apos-15-anos.ghtml"
     },
     {
-      "title": "ChatGPT fora do ar? Usuários relatam instabilidade nesta segunda-feira",
-      "slug": "chatgpt-fora-do-ar-usuarios-relatam-instabilidade-nesta-segunda-feira",
-      "topic": "llms",
-      "source": "G1 Tecnologia",
-      "date": "2026-04-20T15:18:40.000Z",
+      "title": "Meta vai monitorar computador de funcionários para treinar IA, diz reportagem",
+      "slug": "meta-vai-monitorar-computador-de-funcionarios-para-treinar-ia-diz-reportagem",
+      "topic": "agentes",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T21:42:18.000Z",
       "editorial_score": 100,
-      "original_url": "https://g1.globo.com/tecnologia/noticia/2026/04/20/chatgpt-fora-do-ar-usuarios-relatam-instabilidade-nesta-segunda-feira.ghtml"
+      "original_url": "https://tecnoblog.net/noticias/meta-vai-monitorar-computador-de-funcionarios-para-treinar-ia-diz-reportagem/"
     },
     {
-      "title": "Apple anuncia John Ternus como novo CEO; Tim Cook assume cargo executivo",
-      "slug": "apple-anuncia-john-ternus-como-novo-ceo-tim-cook-assume-cargo-executivo",
+      "title": "Galaxy Watch 8 com 45% OFF atinge menor preço que vimos esse ano no Magalu",
+      "slug": "galaxy-watch-8-com-45percent-off-atinge-menor-preco-que-vimos-esse-ano-no-magalu",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T21:36:53.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-watch-8-com-45-off-atinge-menor-preco-que-vimos-esse-ano-no-magalu/"
+    },
+    {
+      "title": "WhatsApp Plus começa a ser testado; conheça as diferenças da versão paga",
+      "slug": "whatsapp-plus-comeca-a-ser-testado-conheca-as-diferencas-da-versao-paga",
       "topic": "produtividade-dev",
       "source": "Tecnoblog",
-      "date": "2026-04-20T21:02:09.000Z",
+      "date": "2026-04-21T19:37:55.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/noticias/john-ternus-sera-o-novo-ceo-da-apple-tim-cook-assume-cargo-executivo/"
+      "original_url": "https://tecnoblog.net/noticias/whatsapp-plus-comeca-a-ser-testado-conheca-as-diferencas-da-versao-paga/"
     },
     {
-      "title": "O que é App Store? Conheça a loja de aplicativos do iPhone, iPad e Mac",
-      "slug": "o-que-e-app-store-conheca-a-loja-de-aplicativos-do-iphone-ipad-e-mac",
-      "topic": "produtividade-dev",
+      "title": "Motorola Edge 60 (512 GB) sai 46% mais barato com cupom na Amazon",
+      "slug": "motorola-edge-60-512-gb-sai-46percent-mais-barato-com-cupom-na-amazon",
+      "topic": "geral",
       "source": "Tecnoblog",
-      "date": "2026-04-20T18:29:44.000Z",
+      "date": "2026-04-21T19:21:25.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/motorola-edge-60-512-gb-sai-46-mais-barato-com-cupom-na-amazon/"
+    },
+    {
+      "title": "iPhone 17e (256 GB) despenca 40% com cupom na melhor oferta que já vimos",
+      "slug": "iphone-17e-256-gb-despenca-40percent-com-cupom-na-melhor-oferta-que-ja-vimos",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T19:17:21.000Z",
+      "editorial_score": 85,
+      "original_url": "https://tecnoblog.net/achados/iphone-17e-256-gb-volta-a-cair-30-com-cupom-na-melhor-oferta-que-ja-vimos/"
+    },
+    {
+      "title": "Xbox Game Pass Ultimate fica 36% mais barato no Brasil",
+      "slug": "xbox-game-pass-ultimate-fica-36percent-mais-barato-no-brasil",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T19:14:32.000Z",
       "editorial_score": 100,
-      "original_url": "https://tecnoblog.net/responde/o-que-e-app-store-conheca-a-loja-de-aplicativos-do-iphone-ipad-e-mac/"
+      "original_url": "https://tecnoblog.net/noticias/xbox-game-pass-ultimate-fica-36-mais-barato-no-brasil/"
+    },
+    {
+      "title": "ChatGPT ganha um novo e poderoso modelo de geração de imagens",
+      "slug": "chatgpt-ganha-um-novo-e-poderoso-modelo-de-geracao-de-imagens",
+      "topic": "llms",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T19:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/noticias/chatgpt-ganha-um-novo-e-poderoso-modelo-de-geracao-de-imagens/"
+    },
+    {
+      "title": "Galaxy Watch 7 (44 mm) despenca 65% na melhor oferta do ano",
+      "slug": "galaxy-watch-7-44-mm-despenca-65percent-na-melhor-oferta-do-ano",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T18:10:38.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-watch-7-44-mm-despenca-65-na-melhor-oferta-do-ano/"
+    },
+    {
+      "title": "Monitor Samsung Odyssey G40 de 27″ tem 48% OFF com cupom no Mercado Livre",
+      "slug": "monitor-samsung-odyssey-g40-de-27-tem-48percent-off-com-cupom-no-mercado-livre",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T18:00:16.000Z",
+      "editorial_score": 100,
+      "original_url": "https://tecnoblog.net/achados/monitor-samsung-odyssey-g40-de-27-tem-48-off-com-cupom-no-mercado-livre/"
+    },
+    {
+      "title": "Galaxy S25 Ultra (256 GB) cai 54% com cupom generoso no Magalu",
+      "slug": "galaxy-s25-ultra-256-gb-cai-54percent-com-cupom-generoso-no-magalu",
+      "topic": "geral",
+      "source": "Tecnoblog",
+      "date": "2026-04-21T16:52:42.000Z",
+      "editorial_score": 92,
+      "original_url": "https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-cai-54-com-cupom-generoso-no-magalu/"
+    },
+    {
+      "title": "6 maiores ataques hackers da história dos videogames",
+      "slug": "6-maiores-ataques-hackers-da-historia-dos-videogames",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-21T23:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/6-maiores-ataques-hackers-da-historia-dos-videogames/"
+    },
+    {
+      "title": "Motorola Razr 70 vaza antes do lançamento em loja ucraniana. Confira os detalhes",
+      "slug": "motorola-razr-70-vaza-antes-do-lancamento-em-loja-ucraniana-confira-os-detalhes",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-21T21:40:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/motorola-razr-70-vaza-antes-do-lancamento-em-loja-ucraniana-confira-os-detalhes/"
+    },
+    {
+      "title": "Como transferir seus Pokémon para Pokémon Champions",
+      "slug": "como-transferir-seus-pokemon-para-pokemon-champions",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-21T21:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/games/como-transferir-seus-pokemon-para-pokemon-champions/"
+    },
+    {
+      "title": "Por que seu celular esquenta tanto? Entenda o que acontece por dentro",
+      "slug": "por-que-seu-celular-esquenta-tanto-entenda-o-que-acontece-por-dentro",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-21T20:00:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/smartphone/por-que-seu-celular-esquenta-tanto-entenda-o-que-acontece-por-dentro/"
+    },
+    {
+      "title": "Ray-Ban Meta que se cuide: Samsung pode ter 3 óculos inteligentes a caminho",
+      "slug": "ray-ban-meta-que-se-cuide-samsung-pode-ter-3-oculos-inteligentes-a-caminho",
+      "topic": "geral",
+      "source": "Canaltech",
+      "date": "2026-04-21T19:18:00.000Z",
+      "editorial_score": 100,
+      "original_url": "https://canaltech.com.br/produtos/ray-ban-meta-que-se-cuide-samsung-pode-ter-3-oculos-inteligentes-a-caminho/"
     }
   ]
 }

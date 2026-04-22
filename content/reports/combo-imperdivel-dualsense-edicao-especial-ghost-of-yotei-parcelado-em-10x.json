@@ -1,0 +1,19 @@
+{
+  "slug": "combo-imperdivel-dualsense-edicao-especial-ghost-of-yotei-parcelado-em-10x",
+  "generated_at": "2026-04-22T01:03:22.501Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}

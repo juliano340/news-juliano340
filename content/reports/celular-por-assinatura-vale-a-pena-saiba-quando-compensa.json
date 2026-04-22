@@ -1,0 +1,19 @@
+{
+  "slug": "celular-por-assinatura-vale-a-pena-saiba-quando-compensa",
+  "generated_at": "2026-04-21T13:00:14.100Z",
+  "status": "BLOCK",
+  "checks": [
+    {
+      "id": "ai_editorial_generation",
+      "status": "FAIL",
+      "level": "BLOCK",
+      "reason": "ai_generation_failed"
+    }
+  ],
+  "warnings": [],
+  "errors": [
+    "ai_generation_failed"
+  ],
+  "score": 0,
+  "metadata": null
+}
